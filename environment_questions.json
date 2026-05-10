@@ -1,0 +1,1915 @@
+{
+  "category": "Environment",
+  "updated_at": "2026-05-10T17:19:13.256475",
+  "questions": [
+    {
+      "question": "उत्तराखंड में स्थित 'औरोहानी वन्यजीव अभयारण्य' किस जिले में है?",
+      "options": [
+        "चमोली",
+        "टिहरी",
+        "उत्तरकाशी",
+        "रुद्रप्रयाग"
+      ],
+      "correctIndex": 0,
+      "explanation": "औरोहानी वन्यजीव अभयारण्य चमोली जिले में स्थित है।",
+      "category": "Environment",
+      "subCategory": "Wildlife Sanctuaries",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "8ea35c40-9df9-5e49-b6b2-f21baada1751",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा उत्तराखंड का अंतर्राष्ट्रीय पक्षी विहार है?",
+      "options": [
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "बद्रीनाथ-कॉर्बेट-लोहारी क्षेत्र",
+        "राजाजी राष्ट्रीय उद्यान",
+        "वन घाट पक्षी विहार"
+      ],
+      "correctIndex": 0,
+      "explanation": "जिम कॉर्बेट राष्ट्रीय उद्यान उत्तराखंड का प्रमुख अंतर्राष्ट्रीय पक्षी विहार है।",
+      "category": "Environment",
+      "subCategory": "Bird Sanctuaries",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "83d62ab1-1899-59dd-9c7a-3b68a952e293",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'गंगोत्री राष्ट्रीय उद्यान' कब स्थापित हुआ?",
+      "options": [
+        "1989",
+        "1992",
+        "1985",
+        "1995"
+      ],
+      "correctIndex": 2,
+      "explanation": "गंगोत्री राष्ट्रीय उद्यान 1985 में स्थापित हुआ।",
+      "category": "Environment",
+      "subCategory": "National Parks",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "e991311d-85ed-530c-af94-0a0525534e03",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "भारत का सबसे ऊंचा पर्वतीय क्षेत्र 'नंदा देवी जैविक विविधता उद्यान' किस राज्य में है?",
+      "options": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्किम",
+        "अरुणachal प्रदेश"
+      ],
+      "correctIndex": 0,
+      "explanation": "नंदा देवी जैविक विविधता उद्यान उत्तराखंड में है।",
+      "category": "Environment",
+      "subCategory": "Biosphere Reserves",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "f9847dd9-829c-50ac-9dee-479de2d4bfff",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन 'रामगंगा' नदी की सहायक नहीं है?",
+      "options": [
+        "अलकनंदा",
+        "भरदियाल सूट",
+        "पिंडर",
+        "भागीरथी"
+      ],
+      "correctIndex": 3,
+      "explanation": "भागीरथी अलकनदा की प्रमुख सहायक नहीं है।",
+      "category": "Environment",
+      "subCategory": "Rivers",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "beb86dcc-1187-5a08-b781-e81fd7eb5c3b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का सबसे ऊंचा शिखर कौन सा है?",
+      "options": [
+        "नंदा देवी",
+        "चंद्रशेखर",
+        "कामेत",
+        "बदरीनाथ"
+      ],
+      "correctIndex": 0,
+      "explanation": "नंदा देवी (7816 मीटर) उत्तराखंड का सबसे ऊंचा शिखर है।",
+      "category": "Environment",
+      "subCategory": "Mountains",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "5f7472c1-141c-584e-83c3-72edf7788e67",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "भारत में सबसे ऊंची झील 'गोविंद सागर' किस राज्य में स्थित है?",
+      "options": [
+        "उत्तराखंड",
+        " हिमाचल प्रदेश",
+        "जम्मू और कश्मीर",
+        "सिक्किम"
+      ],
+      "correctIndex": 0,
+      "explanation": "गोविंद सागर उत्तराखंड में 3050 मीटर की ऊंचाई पर स्थित है।",
+      "category": "Environment",
+      "subCategory": "Lakes",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "9bda7e75-1c12-5f43-9c32-5436789628fa",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड की 'ब्लूमैनिक' प्रजाति कहां पाई जाती है?",
+      "options": [
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "राजाजी राष्ट्रीय उद्यान",
+        "सायना वन्यजीव अभयारण्य",
+        "कोशी वन्यजीव अभयारण्य"
+      ],
+      "correctIndex": 0,
+      "explanation": "ब्लूमैनिक (Blue Myth) प्रजाति जिम कॉर्बेट राष्ट्रीय उद्यान में पाई जाती है।",
+      "category": "Environment",
+      "subCategory": "Wildlife",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "085a63c4-6bb3-52b4-b884-1e2c132fed14",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'वन्यजीव संस्थान' कहां स्थित है?",
+      "options": [
+        "हल्द्वानी",
+        "नैनीताल",
+        "देहरादून",
+        "कोटद्वार"
+      ],
+      "correctIndex": 0,
+      "explanation": "वन्यजीव संस्थान (WII) हल्द्वानी, नैनीताल में स्थित है।",
+      "category": "Environment",
+      "subCategory": "Research Institutes",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "3f2f0d2f-2420-5616-b266-5b4d2bd206b3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा उत्तराखंड का राष्ट्रीय उद्यान है?",
+      "options": [
+        "जिम कॉर्बेट",
+        "काज़ीरंगा",
+        "मानस",
+        "दुधवा"
+      ],
+      "correctIndex": 0,
+      "explanation": "जिम कॉर्बेट राष्ट्रीय उद्यान उत्तराखंड का प्रमुख राष्ट्रीय उद्यान है।",
+      "category": "Environment",
+      "subCategory": "National Parks",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "c920f268-ba2d-56ce-9564-4eff10abdb2b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'टिहरी गोदी बांध' किस नदी पर बना है?",
+      "options": [
+        "भागीरथी",
+        "भीलांगना",
+        "अलकनंदा",
+        "गंगोत्री"
+      ],
+      "correctIndex": 0,
+      "explanation": "टिहरी गोदी बांध भागीरथी नदी पर बना है।",
+      "category": "Environment",
+      "subCategory": "Dams",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "d9513f44-c102-5fe9-a202-87ed183e90d2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'मानसून वन्यजीव निकाय' कब आरंभ हुआ?",
+      "options": [
+        "2015",
+        "2012",
+        "2018",
+        "2020"
+      ],
+      "correctIndex": 0,
+      "explanation": "मानसून वन्यजीव निकाय 2015 में आरंभ हुआ।",
+      "category": "Environment",
+      "subCategory": "Conservation",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "4b98a2ba-e680-569b-b88b-7c0a1dd0bce5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'बंगाल टाइगर' की संख्या उत्तराखंड में कितनी है?",
+      "options": [
+        "315",
+        "225",
+        "425",
+        "515"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में लगभग 315 बंगाल टाइगर हैं।",
+      "category": "Environment",
+      "subCategory": "Endangered Species",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "47df5d1a-6954-55d8-a43b-a7ed9509f2a3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'राजाजी राष्ट्रीय उद्यान' किस जिले में है?",
+      "options": [
+        "नैनीताल",
+        "बागेश्वर",
+        "चम्पावत",
+        "उधम सिंह नगर"
+      ],
+      "correctIndex": 3,
+      "explanation": "राजाजी राष्ट्रीय उद्यान उधम सिंह नगर जिले में है।",
+      "category": "Environment",
+      "subCategory": "National Parks",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "bdc32fc5-99bc-5efc-9365-25fecf1e1a87",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा उत्तराखंड का पक्षी विहार नहीं है?",
+      "options": [
+        "जिम कॉर्बेट",
+        "रामगंगा",
+        "सूर्यमल्लिक",
+        "भोराई"
+      ],
+      "correctIndex": 1,
+      "explanation": "रामगंगा उत्तराखंड का पक्षी विहार नहीं है।",
+      "category": "Environment",
+      "subCategory": "Bird Sanctuaries",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "2f44d802-fd01-5bac-be47-be128fd8f08d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'ताज़ुल मलिक' पक्षी कहां पाया जाता है?",
+      "options": [
+        "ऊंची पर्वत श्रृंखला",
+        "सड़कों पर",
+        "नदी के किनारे",
+        "शहरी क्षेत्र"
+      ],
+      "correctIndex": 0,
+      "explanation": "ताज़ुल मलिक (Monal) ऊंची पर्वत श्रृंखला म���ं पाया जाता है।",
+      "category": "Environment",
+      "subCategory": "Birds",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "81980a28-d97e-537b-aa8c-1fdc762a4f2c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'चीतल' वन्यजीव किस राज्य का राजकीय पशु है?",
+      "options": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "उत्तर प्रदेश",
+        "बिहार"
+      ],
+      "correctIndex": 0,
+      "explanation": "चीतल (Musk Deer) उत्तराखंड का राजकीय पशु है।",
+      "category": "Environment",
+      "subCategory": "State Animal",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "448722f9-b16c-5ca6-916c-a774a12bf55b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'राष्ट्रीय पुष्प' कौन सा है?",
+      "options": [
+        "ब्रह्मकमल",
+        "गुलाब",
+        "गेंदा",
+        "मोगरा"
+      ],
+      "correctIndex": 0,
+      "explanation": "ब्रह्मकमल उत्तराखंड का राष्ट्रीय पुष्फ है।",
+      "category": "Environment",
+      "subCategory": "State Flower",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "0ffd385b-140d-54fd-ae6f-df109a7693cd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'भोंक' वृक्ष उत्तराखंड में कहां पाया जाता है?",
+      "options": [
+        "ऊंचाई वाले क्षेत्र",
+        "मैदानी क्षेत्र",
+        "पहाड़ियों पर",
+        "सभी जगह"
+      ],
+      "correctIndex": 0,
+      "explanation": "भोंक (Banj) ऊंचाई वाले क्षेत्रों में पाया जाता है।",
+      "category": "Environment",
+      "subCategory": "Forests",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "cedb3dc4-2e2f-5cf2-9b75-d7416b83b3d8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'वन्यजीव (संरक्षण) अधिनियम' कब लागू हुआ?",
+      "options": [
+        "1987",
+        "1985",
+        "1989",
+        "1991"
+      ],
+      "correctIndex": 0,
+      "explanation": "वन्यजीव (संरक्षण) अधिनियम 1987 में लागू हुआ।",
+      "category": "Environment",
+      "subCategory": "Wildlife Laws",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "45a8a295-1f2f-5b50-b369-1bdbae50f9ce",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा उत्तराखंड का संरक्षित क्षेत्र नहीं है?",
+      "options": [
+        "राजाजी राष्ट्रीय उद्यान",
+        "जिम कॉर्बेट",
+        "औरोहानी",
+        "कानत"
+      ],
+      "correctIndex": 3,
+      "explanation": "कानत उत्तराखंड का संरक्षित क्षेत्र नहीं है।",
+      "category": "Environment",
+      "subCategory": "Protected Areas",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "471911ea-ba4b-594c-8a08-d546b0d99e0f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'हिम तेंदुआ' (Snow Leopard) उत्तराखंड में कहां पाया जाता है?",
+      "options": [
+        "उच्च हिमालय में",
+        "मैदानों में",
+        "जंगलों में",
+        "नगरों में"
+      ],
+      "correctIndex": 0,
+      "explanation": "हिम तेंदुआ उच्च हिमालयी क्षेत्रों में पाया जाता है।",
+      "category": "Environment",
+      "subCategory": "Endangered Species",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "4d0b0dfc-3d94-5817-8ddf-df74b33afecf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'ट्राइटन' (Trout) मछली पालन किस जिले में प्रमुख है?",
+      "options": [
+        "चमोली",
+        "टिहरी गढ़वाल",
+        "उत्तरकाशी",
+        "रुद्रप्रयाग"
+      ],
+      "correctIndex": 0,
+      "explanation": "चमोली जिले में ट्राइटन मछली पालन प्रमुख है।",
+      "category": "Environment",
+      "subCategory": "Aquaculture",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "9b387e7a-53ac-5799-9ae5-aa97b9c8aa36",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'बालू' मिट्टी का प्रमुख उप���ो��� उत्तराखंड में क्या है?",
+      "options": [
+        "ईंट बनाना",
+        "खेती",
+        "निर्माण",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "बालू मिट्टी का उपयोग ईंट बनाने, खेती और निर्माण में होता है।",
+      "category": "Environment",
+      "subCategory": "Soil",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "b205ce0f-365e-54cd-8a0e-1799d4a3697f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'जल विद्युत' परियोजनाओं की संख्या कितनी है?",
+      "options": [
+        "50+",
+        "100+",
+        "25+",
+        "75+"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में 50+ जल विद्युत परियोजनाएं हैं।",
+      "category": "Environment",
+      "subCategory": "Hydropower",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "9ad5b63d-585e-5703-9335-1207657d9a67",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'गंगोत्री हिमनद' (Gangotri Glacier) किस नदी का स्रोत है?",
+      "options": [
+        "भागीरथी",
+        "गंगोत्री",
+        "अलकनंदा",
+        "भीलांगना"
+      ],
+      "correctIndex": 0,
+      "explanation": "गंगोत्री हिमनद भागीरथी नदी का प्रमुख स्रोत है।",
+      "category": "Environment",
+      "subCategory": "Glaciers",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "e706ec7d-b36a-5897-8efa-cd66072396e9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'कंटी लोवर टेम्पल (KLT)' मानक किसके लिए उपयोग होता है?",
+      "options": [
+        "वायु गुणवत्ता",
+        "जल गुणवत्ता",
+        "ध्वनि प्रदूषण",
+        "मृदा गुणवत्ता"
+      ],
+      "correctIndex": 0,
+      "explanation": "कंटी लोवर टेम्पल वायु गुणवत्ता मापन के लिए उपयोग होता है।",
+      "category": "Environment",
+      "subCategory": "Pollution Monitoring",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "5edfb535-76ab-556e-a812-0ebf7cb77d09",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'फूलों की घाटी' (Valley of Flowers) कब स्थापित राष्ट्रीय उद्यान बनी?",
+      "options": [
+        "1982",
+        "1980",
+        "1984",
+        "1986"
+      ],
+      "correctIndex": 2,
+      "explanation": "फूलों की घाटी 1984 में राष्ट्रीय उद्यान बनी।",
+      "category": "Environment",
+      "subCategory": "National Parks",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "cbb79611-5de6-501a-9c3c-41f02b37c209",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'किडनी पत्थर' (Kidney Stone) की समस्या किस कारण से है?",
+      "options": [
+        "शुद्ध पानी",
+        "कठोर पानी",
+        "प्रदूषित पानी",
+        "खनिज पानी"
+      ],
+      "correctIndex": 1,
+      "explanation": "कठोर पानी में किडनी पत्थर की समस्या होती है।",
+      "category": "Environment",
+      "subCategory": "Water Quality",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "d8d31ba6-00c6-59f5-a6e8-eb1fa8a2dc58",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'मटकूर' (Mator) किस जिले का पारंपरिक चरवाहा समुदाय है?",
+      "options": [
+        "चमोली",
+        "टिहरी",
+        "बागेश्वर",
+        "पिथौरागढ़"
+      ],
+      "correctIndex": 0,
+      "explanation": "मटकूर चमोली जिले का पारंपरिक चरवाहा समुदाय है।",
+      "category": "Environment",
+      "subCategory": "Tribal Communities",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "7e0e6d6c-3ef1-58f5-8280-8f39b4aea52b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'सतपुड़ा मैसिफ़ोड' (Satpuda Maida) किस वन्यजीव का आवास है?",
+      "options": [
+        "बाघ",
+        "भालू",
+        "तेंदुआ",
+        "लकड़बग्घा"
+      ],
+      "correctIndex": 0,
+      "explanation": "सतपुड़ा मैसिफ़ोड बाघ का प्रमुख आवा�� है।",
+      "category": "Environment",
+      "subCategory": "Wildlife Habitats",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "afd58013-fd9f-50ef-8a3c-0b89def32613",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'कौनिया झरना' किस जिले में स्थित है?",
+      "options": [
+        "मेरठ",
+        "उधम सिंह नगर",
+        "बागेश्वर",
+        "चम्पावत"
+      ],
+      "correctIndex": 3,
+      "explanation": "कौनिया झरना चम्पावत जिले में स्थित है।",
+      "category": "Environment",
+      "subCategory": "Waterfalls",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "16ede807-3350-534a-ba67-42831097dfec",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'चोपता' पक्षी का वैज्ञानिक नाम क्या है?",
+      "options": [
+        "मोना लोफ़िओसिस",
+        "पाइरकॉरहाइटस",
+        "बार्बुस ऑर्फेंटलिस",
+        "कोलंबा लिविया"
+      ],
+      "correctIndex": 0,
+      "explanation": "चोपता का वैज्ञानिक नाम मोना लोफ़िओसिस है।",
+      "category": "Environment",
+      "subCategory": "Birds",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "b738a748-1974-5e5d-b3c2-fc26a1de5037",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'टफ़्ट' मृदा उत्तराखंड में कहां पाई जाती है?",
+      "options": [
+        "पहाड़ियों पर",
+        "घाटियों में",
+        "मैदानों में",
+        "सभी जगह"
+      ],
+      "correctIndex": 1,
+      "explanation": "टफ़्ट मृदा घाटियों में पाई जाती है।",
+      "category": "Environment",
+      "subCategory": "Soil Types",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "66a9f104-846a-5786-a083-11ae541033b2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'केदारनाथ मंदिर' किस ऊंचाई पर है?",
+      "options": [
+        "3584 मीटर",
+        "3000 मीटर",
+        "4000 मीटर",
+        "2500 मीटर"
+      ],
+      "correctIndex": 0,
+      "explanation": "केदारनाथ मंदिर 3584 मीटर की ऊंचाई पर है।",
+      "category": "Environment",
+      "subCategory": "Religious Places",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "ecb5c7b6-d840-5560-a627-e09d7aaa320a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'हिमालयन इंस्टीट्यूट ऑफ़ माइनिंग' कहां स्थित है?",
+      "options": [
+        "कोटद्वार",
+        "देहरादून",
+        "हल्द्वानी",
+        "नैनीताल"
+      ],
+      "correctIndex": 2,
+      "explanation": "हिमालयन इंस्टीट्यूट ऑफ़ माइनिंग हल्द्वानी में है।",
+      "category": "Environment",
+      "subCategory": "Educational Institutes",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "1cdb8a56-3495-5776-914d-69fd48b2ef1b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'बेरोज़गारी' का प्रमुख कारण क्या है?",
+      "options": [
+        "कम उद्योग",
+        "कम शिक्षा",
+        "क�� स���़कें",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "बेरोज़गारी के कई कारण हैं - कम उद्योग, शिक्षा, और अवसंरचना।",
+      "category": "Environment",
+      "subCategory": "Social Issues",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "83e14bee-0ca5-5342-bf8e-a7ee5ab11abd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'डोंग झरना' किस जिले में है?",
+      "options": [
+        "चमोली",
+        "टिहरी",
+        "उत्तरकाशी",
+        "रुद्रप्रयाग"
+      ],
+      "correctIndex": 2,
+      "explanation": "डोंग झरना उत्तरकाशी जिले में है।",
+      "category": "Environment",
+      "subCategory": "Waterfalls",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "902943c9-6dbb-5d95-8694-7df14515589c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड के 'डोडियाली' लोक नृत्य किस अवसर पर किया जाता है?",
+      "options": [
+        "दीपावली",
+        "होली",
+        "तिउर",
+        "सभी"
+      ],
+      "correctIndex": 2,
+      "explanation": "डोडियाली लोक नृत्य तिउर (शीतकालीन त्योहार) पर किया जाता है।",
+      "category": "Environment",
+      "subCategory": "Folk Dance",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "db1484d1-25fe-545b-9892-ab60aaa32982",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'जंगल बृहद' (Jungle Book) में उल्लिखित भालू किस प्रजाति का है?",
+      "options": [
+        "काला भालू",
+        "भूरा भालू",
+        "हिम भालू",
+        "सूत्र भालू"
+      ],
+      "correctIndex": 0,
+      "explanation": "जंगल बृहद में काला भालू (Himalayan Black Bear) है।",
+      "category": "Environment",
+      "subCategory": "Bears",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "b1596471-1dec-5a7d-97b2-2141d7c804fc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'सिंचाई' के लिए प्रमुख जल स्रोत क्या है?",
+      "options": [
+        "नहर",
+        "कूंएं",
+        "बोरवेल",
+        "इन में से कोई नहीं"
+      ],
+      "correctIndex": 1,
+      "explanation": "उत्तराखंड में सिंचाई मुख्यतः कूंएं से होती है।",
+      "category": "Environment",
+      "subCategory": "Irrigation",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "47aa2fcb-e595-53aa-b35b-3ae79a7ffe70",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'चीता' (Cheetah) भारत में कहां पाया जाता है?",
+      "options": [
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "गुजरात",
+        "अभी भारत में विलुप्त"
+      ],
+      "correctIndex": 3,
+      "explanation": "चीता भारत से विलुप्त हो चुका है।",
+      "category": "Environment",
+      "subCategory": "Extinct Species",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "557978ef-aca3-5adc-8de9-aeff6eb98c17",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'खनिज संसाधनों' ��े�� सबसे प्रमुख कौन सा है?",
+      "options": [
+        "चूना पत्थर",
+        "कोयला",
+        "बॉक्साइट",
+        "लोहा"
+      ],
+      "correctIndex": 0,
+      "explanation": "चूना पत्थर उत्तराखंड का प्रमुख खनिज है।",
+      "category": "Environment",
+      "subCategory": "Minerals",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "5a0f9724-003c-50b8-8ee7-e74b24d07eb4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'भैंसी' (Musk Deer) का प्रमुख उत्पादन क्या है?",
+      "options": [
+        "मांस",
+        "चमड़ा",
+        "मusk (कस्तूरी)",
+        "दूध"
+      ],
+      "correctIndex": 2,
+      "explanation": "भैंसी से मusk (कस्तूरी) प्राप्त होती है।",
+      "category": "Environment",
+      "subCategory": "Animal Products",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "b2ad9748-cca0-5d08-86bb-6fc54e1b9e3a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'वायु प्रदूषण' का प्रमुख कारण क्या है?",
+      "options": [
+        "यातायात",
+        "उद्योग",
+        "फ़सल जलाना",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "वायु प्रदूषण के कई कारण हैं।",
+      "category": "Environment",
+      "subCategory": "Air Pollution",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "13069423-f438-5903-9dbc-c5d95b71a884",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'जैव विविधता' (Biodiversity) किस कारण घट रही है?",
+      "options": [
+        "शिकार",
+        "वनों की कटाई",
+        "जलवायु परिवर्तन",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "जैव विविधता घटने के कई कारण हैं।",
+      "category": "Environment",
+      "subCategory": "Biodiversity",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "24ff5e6d-4959-52a2-8a12-28620a3d5d28",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड की प्रमुख नदी कौन सी है?",
+      "options": [
+        "गंगा",
+        "यमुना",
+        "गोंडी",
+        "रामगंगा"
+      ],
+      "correctIndex": 0,
+      "explanation": "गंगा उत्तराखंड की प्रमुख नदी है।",
+      "category": "Environment",
+      "subCategory": "Rivers",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "399e95a5-92cb-52e6-8061-533019eeb593",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'वन्यजीव संरक्षण अधिनियम' कब लागू हुआ?",
+      "options": [
+        "1972",
+        "1980",
+        "1986",
+        "1991"
+      ],
+      "correctIndex": 0,
+      "explanation": "वन्यजीव संरक्षण अधिनियम 1972 में लागू हुआ।",
+      "category": "Environment",
+      "subCategory": "Wildlife Laws",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "b623eba9-4b7d-5f1c-bb5c-234d6e464d5e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'पर्यावरण' दिवस कब मनाया जाता है?",
+      "options": [
+        "5 जून",
+        "22 अप्रैल",
+        "8 मार्च",
+        "15 अगस्त"
+      ],
+      "correctIndex": 0,
+      "explanation": "पर्यावरण दिवस 5 जून को मनाया जाता है।",
+      "category": "Environment",
+      "subCategory": "Environmental Days",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "2f513c6a-5592-5c5d-8a25-c6b7dad9d2ae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'ग्लेशियर' (Glacier) किस प्रकार की सतह पर बनता है?",
+      "options": [
+        "पहाड़ी",
+        "मैदानी",
+        "रेगिस्तानी",
+        "जंगली"
+      ],
+      "correctIndex": 0,
+      "explanation": "ग्लेशियर पहाड़ी सतह पर बनता है।",
+      "category": "Environment",
+      "subCategory": "Glaciers",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "c20b4b91-0c0b-5732-ac14-460bf36e7080",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'जल संकट' का प्रमुख कारण क्या है?",
+      "options": [
+        "जलवायु परिवर्तन",
+        "जनसंख्या वृद्धि",
+        "अतिशय खनन",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "जल संकट के कई कारण हैं।",
+      "category": "Environment",
+      "subCategory": "Water Crisis",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "083044b1-4af8-5e53-a1dd-5d37977cbfe1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'झंडू' (Jhantu) किस प्रकार का पक्षी है?",
+      "options": [
+        "मांसाहारी",
+        "शाकाहारी",
+        "कीटाहारी",
+        "सर्वाहारी"
+      ],
+      "correctIndex": 0,
+      "explanation": "झंडू मांसाहारी पक्षी है।",
+      "category": "Environment",
+      "subCategory": "Birds",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "962654f9-a62d-543a-9e9e-cdaae82355fb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'पर्यावरण' से संबंधित प्रमुख नियामक प्राधिकरण कौन सा है?",
+      "options": [
+        "UCC",
+        "UPPCB",
+        "UJVN",
+        "इन में से कोई नहीं"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uttarakhand Pollution Control Board (UPPCB) पर्यावरण नियामक है।",
+      "category": "Environment",
+      "subCategory": "Regulatory Bodies",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "b34d12d0-0ecd-5b74-95ca-9ff47d4614af",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'हिमालयन बार्ट्रेड' (Himalayan Bat) किस प्रकार का स्तनधारी है?",
+      "options": [
+        "कीटाहारी",
+        "शाकाहारी",
+        "मांसाहारी",
+        "सर्वाहारी"
+      ],
+      "correctIndex": 0,
+      "explanation": "हिमालयन बार्ट्रेड कीटाहारी है।",
+      "category": "Environment",
+      "subCategory": "Mammals",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "8e669c17-c897-5de2-9101-1fa6aaf0d221",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'जैविक विविधता' (Biodiversity Hotspot) कहां सबसे अधिक है?",
+      "options": [
+        "जिम कॉर्बेट क्षेत्र",
+        "उच्च हिमालय",
+        "मैदानी क्षेत्र",
+        "सभी जगह समान"
+      ],
+      "correctIndex": 0,
+      "explanation": "जिम कॉर्बेट क्षेत्र में जैविक विविधता सबसे अधिक है।",
+      "category": "Environment",
+      "subCategory": "Biodiversity",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "d30d4446-e21f-50ad-bcde-f3069e791d47",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'रेड डेटा' (Red Data) किस संगठन द्वारा प्रकाशित होता है?",
+      "options": [
+        "IUCN",
+        "UNEP",
+        "WWF",
+        "GREENPEACE"
+      ],
+      "correctIndex": 0,
+      "explanation": "रेड डेटा IUCN द्वारा प्रकाशित होता है।",
+      "category": "Environment",
+      "subCategory": "Conservation",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "a5afe7c6-189c-55e0-a56d-2ccdbf455d01",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'नेशनल पार्क' की संख्या कितनी है?",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में 6 नेशनल पार्क हैं।",
+      "category": "Environment",
+      "subCategory": "National Parks",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "492445ed-48cf-5bf8-8e99-cd3533fa0b80",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'मोनाल' (Monal) पक्षी का राजकीय पक्षी कब बनाया गया?",
+      "options": [
+        "2015",
+        "2018",
+        "2013",
+        "2016"
+      ],
+      "correctIndex": 0,
+      "explanation": "मोनाल 2015 में उत्तराखंड का राजकीय पक्षी बना।",
+      "category": "Environment",
+      "subCategory": "State Bird",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "4aeaa883-266b-5aa0-aa6e-7d0ed0a2eff7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'राष्ट्रीय वृक्ष' कौन सा है?",
+      "options": [
+        "बुरांश",
+        "देवदार",
+        "ओक",
+        "चिलबिल"
+      ],
+      "correctIndex": 1,
+      "explanation": "देवदार (Deodar) उत्तराखंड का राष्ट्रीय वृक्ष है।",
+      "category": "Environment",
+      "subCategory": "State Tree",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "c40543e5-051d-5aa3-8d50-c11b70d35dd6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'रैबीज़' (Rabies) रोग किस जानवर से फैलता है?",
+      "options": [
+        "कुत्ता",
+        "बिल्ली",
+        "मछली",
+        "पक्षी"
+      ],
+      "correctIndex": 0,
+      "explanation": "रैबीज़ कुत्ते से फैलता है।",
+      "category": "Environment",
+      "subCategory": "Diseases",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "fc5e3d95-d316-5a2a-91a4-93d09ee62a75",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'वर्षा' का औसत कितना है?",
+      "options": [
+        "1500-2000 MM",
+        "2500-3000 MM",
+        "1000-1500 MM",
+        "2000-2500 MM"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में वार्षिक वर्षा 1500-2000 MM है।",
+      "category": "Environment",
+      "subCategory": "Climate",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "7ab7ab3b-8d3b-51ab-93a7-daef67fef459",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'बादल' (Cloud) किस प्रकार के होते हैं?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "बादल 3 प्रकार के होते हैं - सिर्रस, क्यूम्युलस, निंबस।",
+      "category": "Environment",
+      "subCategory": "Weather",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "cbeaee84-419a-5648-995d-29f42a915f07",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'सोलर एनर्जी' की संभावना कितनी है?",
+      "options": [
+        "उच्च",
+        "निम्न",
+        "मध्यम",
+        "शून्य"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में सोलर एनर्जी की संभावना उच्च है।",
+      "category": "Environment",
+      "subCategory": "Renewable Energy",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "91dadfbb-5628-5d39-b073-fc2e854ff36b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'पीएम 2.5' का मतलब क्या है?",
+      "options": [
+        "2.5 माइक्रोन के कण",
+        "2.5 मिलीमीटर के कण",
+        "2.5 सेमी के कण",
+        "2.5 इंच के कण"
+      ],
+      "correctIndex": 0,
+      "explanation": "पीएम 2.5 का अर्थ 2.5 माइक्रोन के कण।",
+      "category": "Environment",
+      "subCategory": "Air Pollution",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "1d6b975b-68a2-5153-8ddb-181a6c3ab6f8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड का 'तापमान' सबसे अधिक कहां दर्ज होता है?",
+      "options": [
+        "मैदानी क्षेत्र",
+        "पहाड़ी क्षेत्र",
+        "घाटी में",
+        "शिखरों पर"
+      ],
+      "correctIndex": 0,
+      "explanation": "तापमान मैदानी क्षेत्रों में सबसे अधिक होता है।",
+      "category": "Environment",
+      "subCategory": "Climate",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "3dc63ffc-fee4-5686-b2e0-179d1f929e55",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'बायोगैस' (Biogas) किस अपशिष्ट से बनती है?",
+      "options": [
+        "गोबर",
+        "पत्ते",
+        "कागज",
+        "प्लास्टिक"
+      ],
+      "correctIndex": 0,
+      "explanation": "बायोगैस गोबर से बनती है।",
+      "category": "Environment",
+      "subCategory": "Renewable Energy",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "56cde6b3-7a00-5719-980f-1e0f8534e8a6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'कंपोस्ट' खाद का उपयोग कहां होता है?",
+      "options": [
+        "खेती में",
+        "उद्योग में",
+        "निर्माण में",
+        "पशुपालन में"
+      ],
+      "correctIndex": 0,
+      "explanation": "कंपोस्ट खाद खेती में उपयोग होती है।",
+      "category": "Environment",
+      "subCategory": "Fertilizers",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "3e73bea7-ac01-5e9c-8430-ea142903ecc2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'मृदा क्षरण' (Soil Erosion) को रोकने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "वृक्षारोपण",
+        "खनन",
+        "निर्माण",
+        "कटाई"
+      ],
+      "correctIndex": 0,
+      "explanation": "वृक्षारोपण से मृदा क्षरण रोका जा सकता है।",
+      "category": "Environment",
+      "subCategory": "Soil Conservation",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "d2c143eb-6bbf-5cfa-b8b2-6801e184cdd8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'जलवायु परिवर्तन' का सबसे बड़ा प्रभाव क्या है?",
+      "options": [
+        "हिमनद पिघलना",
+        "वर्षा में कमी",
+        "तापमान वृद्धि",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "जलवायु परिवर्तन के सभी प्रभाव दिखाई दे रहे हैं।",
+      "category": "Environment",
+      "subCategory": "Climate Change",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "80c30a0c-6013-599c-b76a-280f5e53279b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'जैविक खाद' (Biofertilizer) में प्रमुख सूक्ष्मजीव कौन सा है?",
+      "options": [
+        "राइज़ोबियम",
+        "ई. कोलाई",
+        "बैक्टीरियोफाज",
+        "वायरस"
+      ],
+      "correctIndex": 0,
+      "explanation": "राइज़ोबियम जैविक खाद में प्रमुख है।",
+      "category": "Environment",
+      "subCategory": "Biofertilizers",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "ea24b26b-50d3-59ba-8784-f04f09aa0c3c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'धूप' (Sunlight) की तीव्रता सबसे अधिक कहां होती है?",
+      "options": [
+        "सुबह",
+        "दोपहर",
+        "शाम",
+        "रात"
+      ],
+      "correctIndex": 1,
+      "explanation": "धूप की तीव्रता दोपहर में सबसे अधिक होती है।",
+      "category": "Environment",
+      "subCategory": "Climate",
+      "difficulty": 1,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "872e96e3-adc1-5483-aa29-e550f1f6fff0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'कार्बन फ़ुटप्रिंट' किसे कहते हैं?",
+      "options": [
+        "CO2 उत्सर्जन",
+        "जल उपयोग",
+        "भूमि उपयोग",
+        "शक्ति उपयोग"
+      ],
+      "correctIndex": 0,
+      "explanation": "कार्बन फ़ुटप्रिंट CO2 उत्सर्जन का माप है।",
+      "category": "Environment",
+      "subCategory": "Carbon Footprint",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "e1dd42d1-d939-5d14-a00d-a142aa056f0d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'शीतकालीन मानसून' कब होता है?",
+      "options": [
+        "दिसंबर-जनवरी",
+        "जून-जुलाई",
+        "अप्रैल-मई",
+        "अक्टूबर-नवंबर"
+      ],
+      "correctIndex": 0,
+      "explanation": "शीतकालीन मानसून दिसंबर-जनवरी में होता है।",
+      "category": "Environment",
+      "subCategory": "Monsoon",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "409152da-9a76-5a22-92d4-ef166d5020ee",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'ऊर्जा संरक्षण' (Energy Conservation) दिवस कब मनाया जाता है?",
+      "options": [
+        "14 दिसंबर",
+        "5 जून",
+        "22 अप्रैल",
+        "2 अक्टूबर"
+      ],
+      "correctIndex": 0,
+      "explanation": "ऊर्जा संरक्षण दिवस 14 दिसंबर को मनाया जाता है।",
+      "category": "Environment",
+      "subCategory": "Energy Conservation",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "a285b66e-8876-518b-882c-1568814234e0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'वायु' की दिशा मुख्यतः क्या होती है?",
+      "options": [
+        "पश्चिमी",
+        "पूर्वी",
+        "उत्तरी",
+        "दक्षिणी"
+      ],
+      "correctIndex": 0,
+      "explanation": "उ��्तराखंड में वायु की दिशा मुख्यतः पश्चिमी होती है।",
+      "category": "Environment",
+      "subCategory": "Winds",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "e94b05e5-f284-5944-8d91-ad82bd3526f2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'रेनवाटर हैर्वेस्टिंग' (Rainwater Harvesting) का उद्देश्य क्या है?",
+      "options": [
+        "जल संग्रहण",
+        "बाढ़ नियंत्रण",
+        "सिंचाई",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "रेनवाटर हैर्वेस्टिंग के कई उद्देश्य हैं।",
+      "category": "Environment",
+      "subCategory": "Water Conservation",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "5e2cd7db-d0cd-5f36-b0d1-5d85d24636cd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'हरित प्रदूषण' (Green Pollution) किससे होता है?",
+      "options": [
+        "कृषि अवशेष",
+        "कारखाना",
+        "यातायात",
+        "खनन"
+      ],
+      "correctIndex": 0,
+      "explanation": "हरित प्रदूषण कृषि अवशेष से होता है।",
+      "category": "Environment",
+      "subCategory": "Pollution",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "1be02ff1-449b-54ec-8be2-502ba7a03a84",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'जैविक विविधता संधि' (CBD) पर हस्ताक्षर कब हुआ?",
+      "options": [
+        "1992",
+        "1985",
+        "1995",
+        "2000"
+      ],
+      "correctIndex": 0,
+      "explanation": "जैविक विविधता संधि 1992 में हुई।",
+      "category": "Environment",
+      "subCategory": "International Agreements",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "84b9bb58-67c6-50a8-98fd-bd7b15c0e949",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'सतत विकास' (Sustainable Development) का लक्ष्य क्या है?",
+      "options": [
+        "संतुलित विकास",
+        "तेज़ विकास",
+        "धीमा विकास",
+        "कोई लक्ष्य नहीं"
+      ],
+      "correctIndex": 0,
+      "explanation": "सतत विकास का अर्थ है संतुलित विकास।",
+      "category": "Environment",
+      "subCategory": "Sustainable Development",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "911cb3cd-efe6-5b45-a494-a2c257601c12",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'कचरे से ऊर्जा' (Waste to Energy) परियोजना उत्तराखंड में कहां है?",
+      "options": [
+        "देहरादून",
+        "हल्द्वानी",
+        "कोटद्वार",
+        "नैनीताल"
+      ],
+      "correctIndex": 0,
+      "explanation": "कचरे से ऊर्जा परियोजना देहरादून में है।",
+      "category": "Environment",
+      "subCategory": "Waste Management",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "9b8c92de-09a3-5eb2-bf4b-797d72d1723f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'प्रदूषण नियंत्रण बोर्ड' का नाम क्या है?",
+      "options": [
+        "UPCB",
+        "UPPCB",
+        "UKPCB",
+        "UCPCB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uttarakhand Pollution Control Board (UPCB)।",
+      "category": "Environment",
+      "subCategory": "Regulatory Bodies",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "7a0dc6c1-f41c-5222-9f98-5352125a7783",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "'हरित क्रांति' (Green Revolution) का मुख्य उद्देश्य क्या था?",
+      "options": [
+        "खाद्य उत्पादन वृद्धि",
+        "वन वृद्धि",
+        "उद्योग वृद्धि",
+        "पशुधन वृद्धि"
+      ],
+      "correctIndex": 0,
+      "explanation": "हरित क्रांति का उद्देश्य खाद्य उत्पादन बढ़ाना था।",
+      "category": "Environment",
+      "subCategory": "Green Revolution",
+      "difficulty": 2,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "bde5fedf-d73d-52f4-a167-05e6345a51d3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में 'पुनर्चक्रण' (Recycling) की दर कितनी है?",
+      "options": [
+        "5%",
+        "15%",
+        "10%",
+        "20%"
+      ],
+      "correctIndex": 0,
+      "explanation": "पुनर्चक्रण की दर लगभग 5% है।",
+      "category": "Environment",
+      "subCategory": "Recycling",
+      "difficulty": 3,
+      "questionType": "mcq",
+      "examTarget": [
+        "both"
+      ],
+      "uuid": "d1ec11e8-a641-5e92-ad5b-02d6579327ae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Environment"
+      ]
+    }
+  ]
+}
