@@ -1,0 +1,1963 @@
+{
+  "category": "Math",
+  "updated_at": "2026-05-10T17:19:13.295362",
+  "questions": [
+    {
+      "question": "एक दुकानदार एक वस्तु को 25% लाभ पर बेचता है। यदि क्रय मूल्य 400 रुपये है, तो विक्रय मूल्य क्या होगा?",
+      "options": [
+        "480 रुपये",
+        "500 रुपये",
+        "450 रुपये",
+        "525 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्रय मूल्य (CP) = 400 रुपये, लाभ = 25%. लाभ = (25/100) × 400 = 100 रुपये। विक्रय मूल्य (SP) = CP + लाभ = 400 + 100 = 500 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "28c3f16e-42bf-5859-8a01-6560ac4bda32",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक ट्रेन 54 किमी/घंटा की गति से चलती है। वह 162 किमी की दूरी तय करने में कितना समय लेगी?",
+      "options": [
+        "2 घंटे",
+        "3 घंटे",
+        "4 घंटे",
+        "5 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 162 ÷ 54 = 3 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "2987a2d0-90da-5709-bc1a-532b3d8cf065",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "5000 रुपये पर 4% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "600 रुपये",
+        "720 रुपये",
+        "800 रुपये",
+        "900 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "साधारण ब्याज (SI) = (मूलधन × दर × समय) ÷ 100 = (5000 × 4 × 3) ÷ 100 = 720 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6b11646e-9ad1-5f16-b6b3-143b4140ea1d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक आयत की लंबाई 20 मीटर और चौड़ाई 15 मीटर है। इसका क्षेत्रफल कितना होगा?",
+      "options": [
+        "300 वर्ग मीटर",
+        "250 वर्ग मीटर",
+        "350 वर्ग मीटर",
+        "200 वर्ग मीटर"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्षेत्रफल = लंबाई × चौड़ाई = 20 × 15 = 300 वर्ग मीटर।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4bf07722-f3c5-5f10-b4b5-357525b80f1f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "पाँच संख्याओं का औसत 30 है। यदि चार संख्याएँ 25, 28, 32, और 35 हैं, तो पाँचवीं संख्या क्या होगी?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "33"
+      ],
+      "correctIndex": 1,
+      "explanation": "औसत = (सभी संख्याओं का योग) ÷ 5। 30 × 5 = 150। 25 + 28 + 32 + 35 = 120। पाँचवीं संख्या = 150 - 120 = 30।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "52cbefdd-856b-571c-a915-ff9df3e2b582",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 3 लाल और 5 नीली गेंदें हैं। एक गेंद निकालने पर लाल गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "3/8",
+        "5/8",
+        "1/3",
+        "2/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 3 + 5 = 8। लाल गेंदें = 3। प्रायिकता = 3 ÷ 8 = 3/8।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9000235b-39f2-53ce-a915-fa2c182a3954",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "48 और 72 का HCF कितना होगा?",
+      "options": [
+        "12",
+        "24",
+        "36",
+        "18"
+      ],
+      "correctIndex": 1,
+      "explanation": "48 और 72 का HCF यूक्लिड विधि से: 72 ÷ 48 = 24 (शेष), 48 ÷ 24 = 0। HCF = 24।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7794b748-682a-50aa-8bd2-f5ba4f961c31",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A और B एक काम को 15 दिनों में पूरा करते हैं। A अकेला इसे 25 दिनों में करता है। B अकेला कितने दिनों में करेगा?",
+      "options": [
+        "35 दिन",
+        "37.5 दिन",
+        "40 दिन",
+        "45 दिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "A और B की एक दिन की कार्य क्षमता = 1/15। A की = 1/25। B की = 1/15 - 1/25 = (5 - 3)/75 = 2/75। B अकेला = 75/2 = 37.5 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "9d274f7a-86ce-5e42-ae91-2df15a99a8b6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 10% हानि पर बेचने पर विक्रय मूल्य 450 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "480 रुपये",
+        "500 रुपये",
+        "520 रुपये",
+        "550 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SP = CP × (100 - हानि%)/100। 450 = CP × 90/100। CP = 450 × 100/90 = 500 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4a48c9c9-745f-5d4d-a03c-1ce7d903e1bf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 3:5 है। यदि उनका योग 80 है, तो छोटी संख्या क्या होगी?",
+      "options": [
+        "30",
+        "32",
+        "36",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुपात 3:5, मान लें संख्याएँ 3x और 5x। 3x + 5x = 80। 8x = 80, x = 10। छोटी संख्या = 3x = 30।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fcd39600-57f5-5779-ad13-5f6f80f3a51a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक व्यक्ति 8 किमी/घंटा की गति से 24 किमी की दूरी तय करता है। उसे कितना समय लगेगा?",
+      "options": [
+        "2 घंटे",
+        "3 घंटे",
+        "4 घंटे",
+        "5 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 24 ÷ 8 = 3 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "595b692e-7d25-5aef-a3d1-52d32418654a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "6000 रुपये पर 5% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज कितना होगा (ब्याज वार्षिक चक्रवृद्धि)?",
+      "options": [
+        "600 रुपये",
+        "615 रुपये",
+        "630 रुपये",
+        "650 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "CI = P[(1 + r/100)^t - 1] = 6000[(1 + 5/100)^2 - 1] = 6000[1.1025 - 1] = 6000 × 0.1025 = 615 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2e5a9d31-1a76-53a1-bb4b-467f7fcb7cb6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वृत्त की त्रिज्या 7 सेमी है। इसका क्षेत्रफल कितना होगा? (π = 22/7)",
+      "options": [
+        "154 वर्ग सेमी",
+        "144 वर्ग सेमी",
+        "164 वर्ग सेमी",
+        "174 वर्ग सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्षेत्रफल = πr^2 = (22/7) × 7 × 7 = 154 वर्ग सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ff2d0bf8-e4e1-54d9-84a9-accb2c5129ed",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "तीन संख्याओं का औसत 45 है। यदि पहली और दूसरी संख्या क्रमशः 40 और 50 हैं, तो तीसरी संख्या क्या होगी?",
+      "options": [
+        "45",
+        "48",
+        "50",
+        "55"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (40 + 50 + x) ÷ 3 = 45। 90 + x = 135। x = 135 - 90 = 45।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a4953718-a518-53ca-9b35-7b5319653b4e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक डिब्बे में 6 सफेद और 4 काली गेंदें हैं। एक गेंद निकालने पर काली गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "2/5",
+        "3/5",
+        "1/3",
+        "4/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 6 + 4 = 10। काली गेंदें = 4। प्रायिकता = 4 ÷ 10 = 2/5।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "551dd3dc-9add-56a3-baf9-db9053f929d7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "36 और 48 का LCM कितना होगा?",
+      "options": [
+        "72",
+        "96",
+        "144",
+        "192"
+      ],
+      "correctIndex": 2,
+      "explanation": "LCM = (36 × 48) ÷ HCF। HCF(36, 48) = 12। LCM = (36 × 48) ÷ 12 = 144।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f6acabf9-c716-54cc-831b-143f137b5ff6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 12 दिनों में और B 18 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "7.2 दिन",
+        "8 दिन",
+        "9 दिन",
+        "10 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/12, B की = 1/18। कुल कार्य क्षमता = 1/12 + 1/18 = (3 + 2)/36 = 5/36। समय = 36/5 = 7.2 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "58f875e7-f7a2-5191-9f99-0adc97910da4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 15% लाभ पर बेचने पर विक्रय मूल्य 690 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "600 रुपये",
+        "610 रुपये",
+        "620 रुपये",
+        "630 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "SP = CP × (100 + लाभ%)/100। 690 = CP × 115/100। CP = 690 × 100/115 = 600 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fb2371a4-2eab-58ae-9275-85553b7d3cb3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 4:7 है। यदि उनका अंतर 21 है, तो बड़ी संख्या क्या होगी?",
+      "options": [
+        "28",
+        "35",
+        "42",
+        "49"
+      ],
+      "correctIndex": 3,
+      "explanation": "संख्याएँ 4x और 7x। 7x - 4x = 21। 3x = 21, x = 7। बड़ी संख्या = 7x = 49।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a352e7c5-0b94-5bf9-82f9-0752294afdd7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक कार 72 किमी/घंटा की गति से 360 किमी की दूरी तय करती है। उसे कितना समय लगेगा?",
+      "options": [
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे",
+        "7 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 360 ÷ 72 = 5 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "becc2bea-8bcc-5815-87a0-431bdf89f6d7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "8000 रुपये पर 6% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "960 रुपये",
+        "1000 रुपये",
+        "1080 रुपये",
+        "1200 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "SI = (8000 × 6 × 2) ÷ 100 = 960 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e66f4ff4-69e3-512f-8192-57a2503d3a6e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक घन की भुजा 4 सेमी है। इसका आयतन कितना होगा?",
+      "options": [
+        "48 घन सेमी",
+        "64 घन सेमी",
+        "72 घन सेमी",
+        "80 घन सेमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "आयतन = भुजा^3 = 4 × 4 × 4 = 64 घन सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4f5690e4-0cac-53c1-a53f-96efb1309eaf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "चार संख्याओं का औसत 50 है। यदि तीन संख्याएँ 45, 55, और 60 हैं, तो चौथी संख्या क्या होगी?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (45 + 55 + 60 + x) ÷ 4 = 50। 160 + x = 200। x = 40।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "8129b593-11ff-5624-add5-59d9fe9786f6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 5 लाल और 3 नीली गेंदें हैं। नीली गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "3/8",
+        "5/8",
+        "1/3",
+        "2/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 5 + 3 = 8। नीली गेंदें = 3। प्रायिकता = 3 ÷ 8 = 3/8।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ed3bec63-d7aa-5642-be23-bd90f39f28a4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "60 और 75 का HCF कितना होगा?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "HCF(60, 75) = 15 (यूक्लिड विधि से)।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "023143c8-a084-5de7-8aef-6422d9fe1034",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A और B एक काम को 20 दिनों में पूरा करते हैं। B अकेला इसे 30 दिनों में करता है। A अकेला कितने दिनों में करेगा?",
+      "options": [
+        "50 दिन",
+        "60 दिन",
+        "70 दिन",
+        "80 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A और B की कार्य क्षमता = 1/20। B की = 1/30। A की = 1/20 - 1/30 = (3 - 2)/60 = 1/60। A अकेला = 60 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "aa01a77f-38d5-5d34-ba6e-08293493f7e9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 20% हानि पर बेचने पर विक्रय मूल्य 320 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "360 रुपये",
+        "380 रुपये",
+        "400 रुपये",
+        "420 रुपये"
+      ],
+      "correctIndex": 2,
+      "explanation": "SP = CP × (100 - हानि%)/100। 320 = CP × 80/100। CP = 320 × 100/80 = 400 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4203be96-ae37-5a51-a6b2-73fb42d9a0a2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 5:8 है। यदि उनका योग 104 है, तो छोटी संख्या क्या होगी?",
+      "options": [
+        "40",
+        "48",
+        "56",
+        "64"
+      ],
+      "correctIndex": 0,
+      "explanation": "संख्याएँ 5x और 8x। 5x + 8x = 104। 13x = 104, x = 8। छोटी संख्या = 5x = 40।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "466370bb-09b6-560f-838d-53abbce13913",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक साइकिल 15 किमी/घंटा की गति से 45 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "2 घंटे",
+        "3 घंटे",
+        "4 घंटे",
+        "5 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 45 ÷ 15 = 3 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b7d5cb0a-5f71-567b-9f9f-2f1ef1983b23",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "10000 रुपये पर 8% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "2000 रुपये",
+        "2200 रुपये",
+        "2400 रुपये",
+        "2600 रुपये"
+      ],
+      "correctIndex": 2,
+      "explanation": "SI = (10000 × 8 × 3) ÷ 100 = 2400 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "02c69f1e-3fc8-5549-b207-063a0a4912f9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक गोले की त्रिज्या 3 सेमी है। इसका आयतन कितना होगा? (π = 22/7)",
+      "options": [
+        "108 घन सेमी",
+        "113.14 घन सेमी",
+        "115 घन सेमी",
+        "120 घन सेमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "आयतन = (4/3)πr^3 = (4/3) × (22/7) × 3^3 = (4/3) × (22/7) × 27 = 113.14 घन सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "324e5f3a-ecbe-59bd-81b1-3f7d465e7a18",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "पाँच संख्याओं का औसत 60 है। यदि चार संख्याएँ 55, 65, 70, और 50 हैं, तो पाँचवीं संख्या क्या होगी?",
+      "options": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
+      "correctIndex": 2,
+      "explanation": "औसत = (55 + 65 + 70 + 50 + x) ÷ 5 = 60। 240 + x = 300। x = 60।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5870c5fa-bfdd-5978-8b48-04d33410f689",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 7 लाल और 3 नीली गेंदें हैं। लाल गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "3/10",
+        "7/10",
+        "1/3",
+        "2/5"
+      ],
+      "correctIndex": 1,
+      "explanation": "कुल गेंदें = 7 + 3 = 10। लाल गेंदें = 7। प्रायिकता = 7 ÷ 10 = 7/10।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6c48ec1e-faba-54d2-a8cd-48d27a0e1c6c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "72 और 96 का LCM कितना होगा?",
+      "options": [
+        "144",
+        "288",
+        "432",
+        "576"
+      ],
+      "correctIndex": 1,
+      "explanation": "LCM = (72 × 96) ÷ HCF। HCF(72, 96) = 24। LCM = (72 × 96) ÷ 24 = 288।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c7f3e171-18f2-5abe-b341-cd5fd0ef4b31",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 10 दिनों में और B 15 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "5 दिन",
+        "6 दिन",
+        "7 दिन",
+        "8 दिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "A की कार्य क्षमता = 1/10, B की = 1/15। कुल = 1/10 + 1/15 = (3 + 2)/30 = 5/30 = 1/6। समय = 6 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "96d336f9-9944-5ce1-a817-246e83e28455",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 30% लाभ पर बेचने पर विक्रय मूल्य 650 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "450 रुपये",
+        "500 रुपये",
+        "550 रुपये",
+        "600 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SP = CP × (100 + लाभ%)/100। 650 = CP × 130/100। CP = 650 × 100/130 = 500 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ef29d6c2-4058-5ea5-9838-b9d465b2f408",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 2:3 है। यदि उनका अंतर 15 है, तो बड़ी संख्या क्या होगी?",
+      "options": [
+        "30",
+        "45",
+        "60",
+        "75"
+      ],
+      "correctIndex": 1,
+      "explanation": "संख्याएँ 2x और 3x। 3x - 2x = 15। x = 15। बड़ी संख्या = 3x = 45।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "f02d1b57-9db0-5e54-9266-331ea3452d39",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक नाव 12 किमी/घंटा की गति से 48 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "3 घंटे",
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 48 ÷ 12 = 4 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "294fe592-5d48-5f58-b201-eddbe56f91c0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "12000 रुपये पर 7% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज कितना होगा?",
+      "options": [
+        "1738.8 रुपये",
+        "1813.6 रुपये",
+        "1913.6 रुपये",
+        "2013.6 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "CI = 12000[(1 + 7/100)^2 - 1] = 12000[1.1449 - 1] = 12000 × 0.1449 = 1738.8 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "af30a46f-378e-53a3-a823-5ea83087f378",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक त्रिभुज का आधार 10 सेमी और ऊँचाई 12 सेमी है। इसका क्षेत्रफल कितना होगा?",
+      "options": [
+        "60 वर्ग सेमी",
+        "70 वर्ग सेमी",
+        "80 वर्ग सेमी",
+        "90 वर्ग सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्षेत्रफल = (1/2) × आधार × ऊँचाई = (1/2) × 10 × 12 = 60 वर्ग सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fdd608e3-fa46-5226-9bcc-aeab0cfcbb23",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "छह संख्याओं का औसत 25 है। यदि पाँच संख्याएँ 20, 22, 24, 26, और 28 हैं, तो छठी संख्या क्या होगी?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (20 + 22 + 24 + 26 + 28 + x) ÷ 6 = 25। 120 + x = 150। x = 30।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "adf2f935-d72c-58e8-b2ec-6fe06538a069",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक डिब्बे में 4 सफेद और 6 काली गेंदें हैं। सफेद गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "2/5",
+        "3/5",
+        "4/5",
+        "1/3"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 4 + 6 = 10। सफेद गेंदें = 4। प्रायिकता = 4 ÷ 10 = 2/5।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7541866b-b034-5a2b-ad86-d9a89c8c626e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "90 और 120 का HCF कितना होगा?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 2,
+      "explanation": "HCF(90, 120) = 30 (यूक्लिड विधि से)।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cefc9e91-4a0e-5f90-9d5d-92d7c1356802",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A और B एक काम को 24 दिनों में पूरा करते हैं। A अकेला इसे 40 दिनों में करता है। B अकेला कितने दिनों में करेगा?",
+      "options": [
+        "48 दिन",
+        "56 दिन",
+        "60 दिन",
+        "72 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A और B की कार्य क्षमता = 1/24। A की = 1/40। B की = 1/24 - 1/40 = (5 - 3)/120 = 2/120 = 1/60। B अकेला = 60 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "2663e5ea-71f7-52a8-bd6b-237c4600a070",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 25% हानि पर बेचने पर विक्रय मूल्य 300 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "350 रुपये",
+        "375 रुपये",
+        "400 रुपये",
+        "425 रुपये"
+      ],
+      "correctIndex": 2,
+      "explanation": "SP = CP × (100 - हानि%)/100। 300 = CP × 75/100। CP = 300 × 100/75 = 400 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1e0af801-3f00-5ae6-9ac9-f82ed6e80f4f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 6:11 है। यदि उनका योग 85 है, तो छोटी संख्या क्या होगी?",
+      "options": [
+        "30",
+        "36",
+        "42",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "संख्याएँ 6x और 11x। 6x + 11x = 85। 17x = 85, x = 5। छोटी संख्या = 6x = 30।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "8042ca38-af45-5bb5-a445-8678badec095",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक ट्रक 60 किमी/घंटा की गति से 300 किमी की दूरी तय करता है। समय कितना होगा?",
+      "options": [
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे",
+        "7 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 300 ÷ 60 = 5 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fbf3835b-5d9a-5055-a85b-959d9ba16aa2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "15000 रुपये पर 5% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "1500 रुपये",
+        "1600 रुपये",
+        "1700 रुपये",
+        "1800 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "SI = (15000 × 5 × 2) ÷ 100 = 1500 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ab5e33b4-7c49-5098-811e-71519392129b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक बेलन की त्रिज्या 7 सेमी और ऊँचाई 10 सेमी है। इसका आयतन कितना होगा? (π = 22/7)",
+      "options": [
+        "1540 घन सेमी",
+        "1640 घन सेमी",
+        "1740 घन सेमी",
+        "1840 घन सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "आयतन = πr^2h = (22/7) × 7 × 7 × 10 = 1540 घन सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b1cd3938-932d-53fe-a0ba-abde195f8fe7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "सात संख्याओं का औसत 35 है। यदि छह संख्याएँ 30, 32, 34, 36, 38, और 40 हैं, तो सातवीं संख्या क्या होगी?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (30 + 32 + 34 + 36 + 38 + 40 + x) ÷ 7 = 35। 210 + x = 245। x = 35।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7ed52c22-3393-502a-a8a5-15688892af4e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 2 लाल और 8 नीली गेंदें हैं। लाल गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "1/5",
+        "2/5",
+        "3/5",
+        "4/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 2 + 8 = 10। लाल गेंदें = 2। प्रायिकता = 2 ÷ 10 = 1/5।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "482c16d4-2ee2-5a59-b56a-b387c5c1510e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "84 और 112 का LCM कितना होगा?",
+      "options": [
+        "336",
+        "448",
+        "560",
+        "672"
+      ],
+      "correctIndex": 0,
+      "explanation": "LCM = (84 × 112) ÷ HCF। HCF(84, 112) = 28। LCM = (84 × 112) ÷ 28 = 336।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "88069145-52d3-5181-868f-02de95846c53",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 8 दिनों में और B 12 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "4.8 दिन",
+        "5 दिन",
+        "5.2 दिन",
+        "6 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/8, B की = 1/12। कुल = 1/8 + 1/12 = (3 + 2)/24 = 5/24। समय = 24/5 = 4.8 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ac67cc9e-a8cc-5a5e-9e25-7116170e6839",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 40% लाभ पर बेचने पर विक्रय मूल्य 840 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "500 रुपये",
+        "550 रुपये",
+        "600 रुपये",
+        "650 रुपये"
+      ],
+      "correctIndex": 2,
+      "explanation": "SP = CP × (100 + लाभ%)/100। 840 = CP × 140/100। CP = 840 × 100/140 = 600 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c80b40f8-45c8-5196-abd0-5ab29a51200d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 7:9 है। यदि उनका योग 128 है, तो बड़ी संख्या क्या होगी?",
+      "options": [
+        "63",
+        "72",
+        "81",
+        "90"
+      ],
+      "correctIndex": 1,
+      "explanation": "संख्याएँ 7x और 9x। 7x + 9x = 128। 16x = 128, x = 8। बड़ी संख्या = 9x = 72।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "189c6c5e-9209-5d0d-87ee-fa676e6e836f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक मोटरसाइकिल 80 किमी/घंटा की गति से 240 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "2 घंटे",
+        "3 घंटे",
+        "4 घंटे",
+        "5 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 240 ÷ 80 = 3 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5282b8e3-cf47-5a32-bab7-dbc79c8060e6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "20000 रुपये पर 6% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "3000 रुपये",
+        "3600 रुपये",
+        "4000 रुपये",
+        "4200 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SI = (20000 × 6 × 3) ÷ 100 = 3600 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "d4ccb83a-ffbb-5fc4-ad55-07d5074a55db",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वृत्त की परिधि 44 सेमी है। इसकी त्रिज्या कितनी होगी? (π = 22/7)",
+      "options": [
+        "7 सेमी",
+        "8 सेमी",
+        "9 सेमी",
+        "10 सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "परिधि = 2πr। 44 = 2 × (22/7) × r। r = 44 × 7 / (2 × 22) = 7 सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9fada91c-f1bd-530e-89f9-bf94d2225391",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "आठ संख्याओं का औसत 40 है। यदि सात संख्याएँ 35, 36, 37, 38, 39, 40, और 41 हैं, तो आठवीं संख्या क्या होगी?",
+      "options": [
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (35 + 36 + 37 + 38 + 39 + 40 + 41 + x) ÷ 8 = 40। 266 + x = 320। x = 54।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "55a1534d-706c-5b17-8ace-3199bc4616a0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक डिब्बे में 5 सफेद और 5 काली गेंदें हैं। काली गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 5 + 5 = 10। काली गेंदें = 5। प्रायिकता = 5 ÷ 10 = 1/2।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b1156b80-5940-5494-a9f1-9dcc936c1627",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "108 और 144 का HCF कितना होगा?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "correctIndex": 3,
+      "explanation": "HCF(108, 144) = 36 (यूक्लिड विधि से)।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e326ffae-4a3d-58f8-8e8a-a8f3595d1c49",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 6 दिनों में और B 9 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "3.6 दिन",
+        "4 दिन",
+        "4.5 दिन",
+        "5 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/6, B की = 1/9। कुल = 1/6 + 1/9 = (3 + 2)/18 = 5/18। समय = 18/5 = 3.6 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bec06930-e914-5ecf-b1fd-6e7fbfcf4dee",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 50% लाभ पर बेचने पर विक्रय मूल्य 750 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "450 रुपये",
+        "500 रुपये",
+        "550 रुपये",
+        "600 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SP = CP × (100 + लाभ%)/100। 750 = CP × 150/100। CP = 750 × 100/150 = 500 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cf3ed8d5-5715-563a-9dfe-8f1d53ce25e6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 3:4 है। यदि उनका योग 56 है, तो छोटी संख्या क्या होगी?",
+      "options": [
+        "21",
+        "24",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "संख्याएँ 3x और 4x। 3x + 4x = 56। 7x = 56, x = 8। छोटी संख्या = 3x = 24।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "cdd2b20e-e81d-5b82-a930-0fdc6d01062e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक बस 50 किमी/घंटा की गति से 250 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे",
+        "7 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 250 ÷ 50 = 5 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "af70ca4a-da6b-5480-baad-b727e105132d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "25000 रुपये पर 4% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "3000 रुपये",
+        "3200 रुपये",
+        "3400 रुपये",
+        "3600 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "SI = (25000 × 4 × 3) ÷ 100 = 3000 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e00c8601-1513-5c99-8e5b-64510854bd4a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक आयत की लंबाई 25 मीटर और चौड़ाई 20 मीटर है। इसका परिमाप कितना होगा?",
+      "options": [
+        "90 मीटर",
+        "100 मीटर",
+        "110 मीटर",
+        "120 मीटर"
+      ],
+      "correctIndex": 0,
+      "explanation": "परिमाप = 2(लंबाई + चौड़ाई) = 2(25 + 20) = 90 मीटर।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "183a01dd-32aa-5f3b-b274-4f23046b22dc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "नौ संख्याओं का औसत 50 है। यदि आठ संख्याएँ 45, 46, 47, 48, 49, 50, 51, और 52 हैं, तो नौवीं संख्या क्या होगी?",
+      "options": [
+        "50",
+        "51",
+        "52",
+        "53"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (45 + 46 + 47 + 48 + 49 + 50 + 51 + 52 + x) ÷ 9 = 50। 388 + x = 450। x = 62।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d590fac6-7ebd-52f0-b9c4-ae4875b939a5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 6 लाल और 4 नीली गेंदें हैं। नीली गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "2/5",
+        "3/5",
+        "4/5",
+        "1/3"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 6 + 4 = 10। नीली गेंदें = 4। प्रायिकता = 4 ÷ 10 = 2/5।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "34dabc69-e041-5ecf-ab10-6ae218a8cfad",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "126 और 168 का HCF कितना होगा?",
+      "options": [
+        "14",
+        "21",
+        "28",
+        "42"
+      ],
+      "correctIndex": 3,
+      "explanation": "HCF(126, 168) = 42 (यूक्लिड विधि से)।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "079376e5-34b1-5fb1-94ab-f65b84e530e1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 5 दिनों में और B 10 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "3.33 दिन",
+        "4 दिन",
+        "4.5 दिन",
+        "5 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/5, B की = 1/10। कुल = 1/5 + 1/10 = (2 + 1)/10 = 3/10। समय = 10/3 = 3.33 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "aa4e862f-9a53-5a90-8ac0-8177c33feb6d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 10% हानि पर बेचने पर विक्रय मूल्य 540 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "580 रुपये",
+        "590 रुपये",
+        "600 रुपये",
+        "610 रुपये"
+      ],
+      "correctIndex": 2,
+      "explanation": "SP = CP × (100 - हानि%)/100। 540 = CP × 90/100। CP = 540 × 100/90 = 600 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b86cb878-1ecd-5ffe-9f74-9447d113dad6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 4:5 है। यदि उनका योग 72 है, तो बड़ी संख्या क्या होगी?",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "44"
+      ],
+      "correctIndex": 2,
+      "explanation": "संख्याएँ 4x और 5x। 4x + 5x = 72। 9x = 72, x = 8। बड़ी संख्या = 5x = 40।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4115d3c6-47bd-506a-9499-14da98e696b3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक ट्रेन 90 किमी/घंटा की गति से 450 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे",
+        "7 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 450 ÷ 90 = 5 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "07c49c71-4550-50a5-a2e7-d4f8a6bd3f3f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "30000 रुपये पर 5% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज कितना होगा?",
+      "options": [
+        "3075 रुपये",
+        "3175 रुपये",
+        "3275 रुपये",
+        "3375 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "CI = 30000[(1 + 5/100)^2 - 1] = 30000[1.1025 - 1] = 30000 × 0.1025 = 3075 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "a95d0024-852b-5bfd-adbd-97e456a0b992",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक त्रिभुज का आधार 15 सेमी और ऊँचाई 8 सेमी है। इसका क्षेत्रफल कितना होगा?",
+      "options": [
+        "60 वर्ग सेमी",
+        "65 वर्ग सेमी",
+        "70 वर्ग सेमी",
+        "75 वर्ग सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्षेत्रफल = (1/2) × आधार × ऊँचाई = (1/2) × 15 × 8 = 60 वर्ग सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "02a81e1d-04e5-5672-8f78-37c7e1f97cee",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दस संख्याओं का औसत 45 है। यदि नौ संख्याएँ 40, 41, 42, 43, 44, 45, 46, 47, और 48 हैं, तो दसवीं संख्या क्या होगी?",
+      "options": [
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (40 + 41 + 42 + 43 + 44 + 45 + 46 + 47 + 48 + x) ÷ 10 = 45। 396 + x = 450। x = 54।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "74a5788d-4e0c-51f0-ae6a-9ab0a86fec1e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 3 लाल और 7 नीली गेंदें हैं। लाल गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "3/10",
+        "4/10",
+        "5/10",
+        "6/10"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 3 + 7 = 10। लाल गेंदें = 3। प्रायिकता = 3 ÷ 10 = 3/10।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "290fb674-991d-5364-8f76-a27e4e70b919",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "132 और 176 का LCM कितना होगा?",
+      "options": [
+        "528",
+        "704",
+        "880",
+        "1056"
+      ],
+      "correctIndex": 0,
+      "explanation": "LCM = (132 × 176) ÷ HCF। HCF(132, 176) = 44। LCM = (132 × 176) ÷ 44 = 528।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bb038fc9-b3c1-52e1-a013-322cd59a470e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 4 दिनों में और B 8 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "2.67 दिन",
+        "3 दिन",
+        "3.5 दिन",
+        "4 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/4, B की = 1/8। कुल = 1/4 + 1/8 = (2 + 1)/8 = 3/8। समय = 8/3 = 2.67 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "914b35b7-565c-5080-9dfb-abf7c70f5588",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 20% लाभ पर बेचने पर विक्रय मूल्य 960 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "750 रुपये",
+        "800 रुपये",
+        "850 रुपये",
+        "900 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SP = CP × (100 + लाभ%)/100। 960 = CP × 120/100। CP = 960 × 100/120 = 800 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5e333c7d-6957-5dd9-aefb-726882c1e66b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 5:7 है। यदि उनका योग 96 है, तो छोटी संख्या क्या होगी?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "संख्याएँ 5x और 7x। 5x + 7x = 96। 12x = 96, x = 8। छोटी संख्या = 5x = 40।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "0c4a4dea-d93d-5721-928d-474ec5c64016",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक कार 100 किमी/घंटा की गति से 500 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे",
+        "7 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 500 ÷ 100 = 5 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "92ed092d-78a4-5df8-b19d-4634f8bab549",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "35000 रुपये पर 6% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "4000 रुपये",
+        "4200 रुपये",
+        "4400 रुपये",
+        "4600 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SI = (35000 × 6 × 2) ÷ 100 = 4200 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "1521c779-249f-58f1-95a8-f9de293d60e0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक घन की भुजा 5 सेमी है। इसका आयतन कितना होगा?",
+      "options": [
+        "100 घन सेमी",
+        "125 घन सेमी",
+        "150 घन सेमी",
+        "175 घन सेमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "आयतन = भुजा^3 = 5 × 5 × 5 = 125 घन सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "081fa9c8-9629-5a03-b915-3ea057d01bc9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "पाँच संख्याओं का औसत 55 है। यदि चार संख्याएँ 50, 52, 54, और 56 हैं, तो पाँचवीं संख्या क्या होगी?",
+      "options": [
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (50 + 52 + 54 + 56 + x) ÷ 5 = 55। 212 + x = 275। x = 63।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ad984414-8a45-548a-9d6e-8520499bf90e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 4 लाल और 6 नीली गेंदें हैं। नीली गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "3/5",
+        "4/5",
+        "2/5",
+        "1/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 4 + 6 = 10। नीली गेंदें = 6। प्रायिकता = 6 ÷ 10 = 3/5।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1d48caf5-d5e5-5953-b298-6d3c9e61d7cc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "150 और 200 का HCF कितना होगा?",
+      "options": [
+        "25",
+        "50",
+        "75",
+        "100"
+      ],
+      "correctIndex": 1,
+      "explanation": "HCF(150, 200) = 50 (यूक्लिड विधि से)।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "50218ed1-0b7f-52ec-b665-8db19d1f5a40",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 7 दिनों में और B 14 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "4.67 दिन",
+        "5 दिन",
+        "5.5 दिन",
+        "6 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/7, B की = 1/14। कुल = 1/7 + 1/14 = (2 + 1)/14 = 3/14। समय = 14/3 = 4.67 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "40a1ed2d-0cc9-5dc5-9c99-f31f23d7ccfe",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वस्तु को 30% हानि पर बेचने पर विक्रय मूल्य 420 रुपये है। क्रय मूल्य क्या था?",
+      "options": [
+        "550 रुपये",
+        "600 रुपये",
+        "650 रुपये",
+        "700 रुपये"
+      ],
+      "correctIndex": 1,
+      "explanation": "SP = CP × (100 - हानि%)/100। 420 = CP × 70/100। CP = 420 × 100/70 = 600 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cde1139b-c2c0-55cd-b1e1-8c6097963bcd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 8:9 है। यदि उनका योग 136 है, तो बड़ी संख्या क्या होगी?",
+      "options": [
+        "64",
+        "68",
+        "72",
+        "76"
+      ],
+      "correctIndex": 2,
+      "explanation": "संख्याएँ 8x और 9x। 8x + 9x = 136। 17x = 136, x = 8। बड़ी संख्या = 9x = 72।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "81b7cff6-8147-553f-bdbf-908f45aa3578",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक ट्रेन 120 किमी/घंटा की गति से 600 किमी की दूरी तय करती है। समय कितना होगा?",
+      "options": [
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे",
+        "7 घंटे"
+      ],
+      "correctIndex": 1,
+      "explanation": "समय = दूरी ÷ गति = 600 ÷ 120 = 5 घंटे।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b5aeab94-9f9b-55fe-babd-2612f84b60f6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "40000 रुपये पर 5% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "4000 रुपये",
+        "4200 रुपये",
+        "4400 रुपये",
+        "4600 रुपये"
+      ],
+      "correctIndex": 0,
+      "explanation": "SI = (40000 × 5 × 2) ÷ 100 = 4000 रुपये।",
+      "subCategory": "गणित",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "c6485424-11a2-5392-8042-5d765710f211",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक बेलन की त्रिज्या 5 सेमी और ऊँचाई 12 सेमी है। इसका आयतन कितना होगा? (π = 22/7)",
+      "options": [
+        "900 घन सेमी",
+        "942.86 घन सेमी",
+        "950 घन सेमी",
+        "1000 घन सेमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "आयतन = πr^2h = (22/7) × 5 × 5 × 12 = 942.86 घन सेमी।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "29eb6b83-f1fb-5b9a-af22-16916377e0ca",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "छह संख्याओं का औसत 60 है। यदि पाँच संख्याएँ 55, 56, 57, 58, और 59 हैं, तो छठी संख्या क्या होगी?",
+      "options": [
+        "60",
+        "61",
+        "62",
+        "63"
+      ],
+      "correctIndex": 0,
+      "explanation": "औसत = (55 + 56 + 57 + 58 + 59 + x) ÷ 6 = 60। 285 + x = 360। x = 75।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7cc503f8-9e27-5aea-8cb2-b732dd7cbf53",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक थैले में 5 लाल और 5 नीली गेंदें हैं। लाल गेंद निकलने की प्रायिकता क्या है?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल गेंदें = 5 + 5 = 10। लाल गेंदें = 5। प्रायिकता = 5 ÷ 10 = 1/2।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3bbf5b14-dedc-5447-8249-e24d4887072b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "180 और 240 का HCF कितना होगा?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctIndex": 3,
+      "explanation": "HCF(180, 240) = 60 (यूक्लिड विधि से)।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "dbe886ec-0470-5616-a5a7-e68b1da83abc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "A एक काम को 9 दिनों में और B 18 दिनों में करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?",
+      "options": [
+        "6 दिन",
+        "7 दिन",
+        "8 दिन",
+        "9 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "A की कार्य क्षमता = 1/9, B की = 1/18। कुल = 1/9 + 1/18 = (2 + 1)/18 = 3/18 = 1/6। समय = 6 दिन।",
+      "subCategory": "गणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9e11e24e-05b0-508c-b925-4ceb0c5f3d81",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "25 + 15 = ?",
+      "options": [
+        "40",
+        "35",
+        "45",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "25 + 15 = 40",
+      "subCategory": "जोड़",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "27b21c83-8b22-565e-8dd3-ebd577ccf6ae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "12 × 8 = ?",
+      "options": [
+        "96",
+        "84",
+        "88",
+        "92"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 × 8 = 96",
+      "subCategory": "गुणा",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7781b75d-1f97-57d8-9c89-dc47932a2dc6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "√64 = ?",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "√64 = 8, क्योंकि 8 × 8 = 64",
+      "subCategory": "वर्गमूल",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "da4e7279-a0c2-5b1a-b3c6-2dd2dc9c17e0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "यदि x + 5 = 12, तो x = ?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "x + 5 = 12, इसलिए x = 12 - 5 = 7",
+      "subCategory": "बीजगणित",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "edd94c00-b2a9-53bc-a5eb-cf8587c51594",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    },
+    {
+      "question": "एक वृत्त की परिधि का सूत्र क्या है?",
+      "options": [
+        "2πr",
+        "πr²",
+        "πr",
+        "2πr²"
+      ],
+      "correctIndex": 0,
+      "explanation": "वृत्त की परिधि का सूत्र 2πr है।",
+      "subCategory": "ज्यामिति",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "406fa1c3-e8a0-5454-a38e-2d6e50695db4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Math"
+      ]
+    }
+  ]
+}
