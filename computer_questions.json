@@ -1,0 +1,2552 @@
+{
+  "category": "Computer",
+  "updated_at": "2026-05-10T17:19:13.232303",
+  "questions": [
+    {
+      "question": "LAN का पूर्ण रूप क्या है?",
+      "options": [
+        "लाइन एरिया नेटवर्क",
+        "लोकल एरिया नेटवर्क",
+        "लॉजिकल एरे नेटवर्क",
+        "लार्ज एरिया नेटवर्क"
+      ],
+      "correctIndex": 1,
+      "explanation": "LAN का पूर्ण रूप लोकल एरिया नेटवर्क है। यह एक कंप्यूटर नेटवर्क है जो एक सीमित भौगोलिक क्षेत्र, जैसे कि एक घर, कार्यालय या स्कूल के भीतर कंप्यूटर और अन्य उपकरणों को जोड़ता है।",
+      "subCategory": "नेटवर्किंग",
+      "questionType": "mcq",
+      "uuid": "d867cb15-42de-5563-87f0-e449fe2a917c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "यूनिक्स (UNIX) क्या है?",
+      "options": [
+        "एक प्रोग्रामिंग भाषा",
+        "एक ऑपरेटिंग सिस्टम",
+        "एक इनपुट डिवाइस",
+        "एक वेब ब्राउज़र"
+      ],
+      "correctIndex": 1,
+      "explanation": "यूनिक्स (UNIX) एक बहु-उपयोगकर्ता, मल्टीटास्किंग ऑपरेटिंग सिस्टम है जो बेल लैब्स में विकसित किया गया था। यह कई अन्य आधुनिक ऑपरेटिंग सिस्टम जैसे लिनक्स और macOS के विकास को प्रभावित किया है।",
+      "subCategory": "ऑपरेटिंग सिस्टम",
+      "questionType": "mcq",
+      "uuid": "ae7d9b0f-de04-5736-9610-f1d11abac331",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "URL का पूर्ण रूप क्या है?",
+      "options": [
+        "यूनिवर्सल रिसोर्स लोकेटर",
+        "यूनिफॉर्म रिसोर्स लोकेटर",
+        "यूनिफाइड रिसोर्स लिंक",
+        "अल्टिमेट रिसोर्स लोकेटर"
+      ],
+      "correctIndex": 1,
+      "explanation": "URL का पूर्ण रूप यूनिफॉर्म रिसोर्स लोकेटर है। यह इंटरनेट पर एक संसाधन (जैसे एक वेब पेज, एक छवि या एक फ़ाइल) का पता है।",
+      "subCategory": "इंटरनेट और वेब टेक्नोलॉजीज",
+      "questionType": "mcq",
+      "uuid": "6446275b-c3a2-5cf5-b4a4-94a65e4244e7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एक डेटाबेस मैनेजमेंट सिस्टम (DBMS) नहीं है?",
+      "options": [
+        "MySQL",
+        "Oracle",
+        "Microsoft Access",
+        "Adobe Photoshop"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adobe Photoshop एक ग्राफिक्स एडिटिंग सॉफ्टवेयर है। MySQL, Oracle और Microsoft Access लोकप्रिय डेटाबेस मैनेजमेंट सिस्टम हैं जिनका उपयोग डेटा को संग्रहीत, प्रबंधित और पुनर्प्राप्त करने के लिए किया जाता है।",
+      "subCategory": "डेटाबेस",
+      "questionType": "mcq",
+      "uuid": "97b97449-9d8c-5863-b02d-246ece55749b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "फ़ायरवॉल का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "कंप्यूटर की गति बढ़ाना",
+        "फ़ाइलों को व्यवस्थित करना",
+        "अनधिकृत पहुंच को रोकना",
+        "सॉफ्टवेयर अपडेट करना"
+      ],
+      "correctIndex": 2,
+      "explanation": "फ़ायरवॉल का मुख्य उद्देश्य अनधिकृत पहुंच को रोकना है। यह एक सुरक्षा प्रणाली है जो आपके कंप्यूटर या नेटवर्क को बाहरी खतरों से बचाने में मदद करती है।",
+      "subCategory": "कंप्यूटर सुरक्षा",
+      "questionType": "mcq",
+      "uuid": "e4568c67-176a-5f4f-9d64-626e9f7739c5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में ALU का पूर्ण रूप क्या है?",
+      "options": [
+        "एप्लीकेशन लॉजिक यूनिट",
+        "अर्थमेटिक लॉजिक यूनिट",
+        "एडवांस लॉजिक यूनिट",
+        "एक्सेस लॉजिक यूनिट"
+      ],
+      "correctIndex": 1,
+      "explanation": "ALU का पूर्ण रूप अर्थमेटिक लॉजिक यूनिट है। यह सेंट्रल प्रोसेसिंग यूनिट (CPU) का एक महत्वपूर्ण भाग है जो सभी अंकगणितीय और तार्किक संचालन करता है।",
+      "subCategory": "कंप्यूटर आर्किटेक्चर",
+      "questionType": "mcq",
+      "uuid": "7002ac68-1093-531f-ac7a-13c267e1f24c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "माइक्रोसॉफ्ट पावरपॉइंट का उपयोग मुख्य रूप से किसके लिए किया जाता है?",
+      "options": [
+        "डॉक्यूमेंट बनाने",
+        "स्प्रेडशीट बनाने",
+        "प्रस्तुतियाँ बनाने",
+        "ईमेल भेजने"
+      ],
+      "correctIndex": 2,
+      "explanation": "माइक्रोसॉफ्ट पावरपॉइंट का उपयोग मुख्य रूप से प्रस्तुतियाँ (प्रेजेंटेशन) बनाने के लिए किया जाता है। इसका उपयोग टेक्स्ट, चित्र, एनिमेशन और अन्य मल्टीमीडिया तत्वों वाली स्लाइडशो बनाने के लिए किया जाता है।",
+      "subCategory": "माइक्रोसॉफ्ट ऑफिस सूट",
+      "questionType": "mcq",
+      "uuid": "6817feb2-ebb7-5569-912c-fa999841285d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कमांड-लाइन इंटरफेस (CLI) किस ऑपरेटिंग सिस्टम की एक विशेषता है?",
+      "options": [
+        "केवल विंडोज",
+        "केवल macOS",
+        "केवल लिनक्स",
+        "विंडोज, macOS और लिनक्स सहित कई ऑपरेटिंग सिस्टम"
+      ],
+      "correctIndex": 3,
+      "explanation": "कमांड-लाइन इंटरफेस (CLI) एक यूजर इंटरफेस है जो उपयोगकर्ताओं को टेक्स्ट कमांड टाइप करके कंप्यूटर के साथ इंटरैक्ट करने की अनुमति देता है। यह विंडोज, macOS और लिनक्स सहित कई ऑपरेटिंग सिस्टम की एक विशेषता है, हालांकि आधुनिक संस्करणों में ग्राफिकल यूजर इंटरफेस (GUI) अधिक सामान्य है।",
+      "subCategory": "ऑपरेटिंग सिस्टम",
+      "questionType": "mcq",
+      "uuid": "f1767d1e-44ec-59df-a8a4-46b62a8e23b0",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "फ़ाइल एक्सटेंशन '.docx' किस प्रकार की फ़ाइल को इंगित करता है?",
+      "options": [
+        "इमेज फ़ाइल",
+        "टेक्स्ट फ़ाइल",
+        "माइक्रोसॉफ्ट वर्ड डॉक्यूमेंट",
+        "एक्सेल स्प्रेडशीट"
+      ],
+      "correctIndex": 2,
+      "explanation": "फ़ाइल एक्सटेंशन '.docx' एक माइक्रोसॉफ्ट वर्ड डॉक्यूमेंट फ़ाइल को इंगित करता है। यह एक्सटेंशन माइक्रोसॉफ्ट वर्ड 2007 और उसके बाद के संस्करणों द्वारा उपयोग किया जाता है।",
+      "subCategory": "फाइल एक्सटेंशन",
+      "questionType": "mcq",
+      "uuid": "8ae2d17a-715f-598b-9274-687d299760a9",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एक आउटपुट डिवाइस है?",
+      "options": [
+        "माउस",
+        "स्कैनर",
+        "जॉयस्टिक",
+        "प्रिंटर"
+      ],
+      "correctIndex": 3,
+      "explanation": "प्रिंटर एक आउटपुट डिवाइस है जो कंप्यूटर से इलेक्ट्रॉनिक डेटा लेता है और उसे भौतिक रूप में (जैसे कागज पर) प्रिंट करता है। माउस, स्कैनर और जॉयस्टिक इनपुट डिवाइस हैं जिनका उपयोग कंप्यूटर में डेटा या कमांड दर्ज करने के लिए किया जाता है।",
+      "subCategory": "इनपुट/आउटपुट डिवाइस",
+      "questionType": "mcq",
+      "uuid": "bedde752-0c20-5293-b646-3f2468eed2a4",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एक इनपुट डिवाइस है?",
+      "options": [
+        "मॉनिटर",
+        "प्रिंटर",
+        "कीबोर्ड",
+        "स्पीकर"
+      ],
+      "correctIndex": 2,
+      "explanation": "कीबोर्ड एक इनपुट डिवाइस है जिसका उपयोग कंप्यूटर में डेटा और कमांड दर्ज करने के लिए किया जाता है। मॉनिटर और प्रिंटर आउटपुट डिवाइस हैं, जबकि स्पीकर ऑडियो आउटपुट डिवाइस है।",
+      "subCategory": "इनपुट/आउटपुट डिवाइस",
+      "questionType": "mcq",
+      "uuid": "0a64a213-a9dd-5c90-b2c3-7cbfe7957880",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "माइक्रोसॉफ्ट वर्ड किसका उदाहरण है?",
+      "options": [
+        "सिस्टम सॉफ्टवेयर",
+        "एप्लीकेशन सॉफ्टवेयर",
+        "ऑपरेटिंग सिस्टम",
+        "फर्मवेयर"
+      ],
+      "correctIndex": 1,
+      "explanation": "माइक्रोसॉफ्ट वर्ड एक एप्लीकेशन सॉफ्टवेयर है जिसका उपयोग टेक्स्ट डॉक्यूमेंट बनाने और संपादित करने के लिए किया जाता है। सिस्टम सॉफ्टवेयर कंप्यूटर के हार्डवेयर और सॉफ्टवेयर को प्रबंधित करता है, ऑपरेटिंग सिस्टम एक प्रकार का सिस्टम सॉफ्टवेयर है, और फर्मवेयर हार्डवेयर में एम्बेडेड सॉफ्टवेयर है।",
+      "subCategory": "सॉफ्टवेयर",
+      "questionType": "mcq",
+      "uuid": "768b9680-691b-5851-9c95-5f5036422e94",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "सबसे लोकप्रिय ऑपरेटिंग सिस्टम में से एक विंडोज किस कंपनी द्वारा विकसित किया गया है?",
+      "options": [
+        "एप्पल",
+        "माइक्रोसॉफ्ट",
+        "गूगल",
+        "आईबीएम"
+      ],
+      "correctIndex": 1,
+      "explanation": "विंडोज ऑपरेटिंग सिस्टम माइक्रोसॉफ्ट कॉर्पोरेशन द्वारा विकसित किया गया है। एप्पल का अपना ऑपरेटिंग सिस्टम macOS है, गूगल मुख्य रूप से एंड्रॉइड और क्रोम OS के लिए जाना जाता है, और IBM मुख्य रूप से एंटरप्राइज-लेवल हार्डवेयर और सॉफ्टवेयर पर केंद्रित है।",
+      "subCategory": "ऑपरेटिंग सिस्टम",
+      "questionType": "mcq",
+      "uuid": "92fbffba-b9be-5351-b6b9-8abc826818a2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट से जुड़े प्रत्येक कंप्यूटर का एक विशिष्ट पहचान संख्या होती है, जिसे क्या कहते हैं?",
+      "options": [
+        "MAC एड्रेस",
+        "IP एड्रेस",
+        "ईमेल एड्रेस",
+        "वेबसाइट एड्रेस"
+      ],
+      "correctIndex": 1,
+      "explanation": "इंटरनेट से जुड़े प्रत्येक कंप्यूटर का एक विशिष्ट पहचान संख्या IP एड्रेस (इंटरनेट प्रोटोकॉल एड्रेस) कहलाती है। MAC एड्रेस एक भौतिक एड्रेस है जो नेटवर्क इंटरफेस कार्ड को सौंपा गया है, ईमेल एड्रेस का उपयोग इलेक्ट्रॉनिक मेल भेजने और प्राप्त करने के लिए किया जाता है, और वेबसाइट एड्रेस (URL) एक वेब पेज का विशिष्ट पता है।",
+      "subCategory": "नेटवर्किंग",
+      "questionType": "mcq",
+      "uuid": "aa20992f-1fac-50e1-98fb-fc9b20f7d935",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "World Wide Web (WWW) का आविष्कार किसने किया?",
+      "options": [
+        "टिम बर्नर्स-ली",
+        "विंट सर्फ",
+        "बिल गेट्स",
+        "स्टीव जॉब्स"
+      ],
+      "correctIndex": 0,
+      "explanation": "टिम बर्नर्स-ली को World Wide Web (WWW) का आविष्कारक माना जाता है। विंट सर्फ को 'इंटरनेट का जनक' कहा जाता है, बिल गेट्स माइक्रोसॉफ्ट के सह-संस्थापक हैं, और स्टीव जॉब्स एप्पल के सह-संस्थापक थे।",
+      "subCategory": "इंटरनेट और वेब टेक्नोलॉजीज",
+      "questionType": "mcq",
+      "uuid": "21ffb979-ca11-505e-bf30-6937ba6f861a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सी एक प्रोग्रामिंग भाषा नहीं है?",
+      "options": [
+        "जावा",
+        "पायथन",
+        "एचटीएमएल",
+        "सी++"
+      ],
+      "correctIndex": 2,
+      "explanation": "एचटीएमएल (हाइपरटेक्स्ट मार्कअप लैंग्वेज) एक मार्कअप भाषा है जिसका उपयोग वेब पेज की संरचना बनाने के लिए किया जाता है, न कि एक प्रोग्रामिंग भाषा। जावा, पायथन और सी++ लोकप्रिय प्रोग्रामिंग भाषाएं हैं जिनका उपयोग विभिन्न प्रकार के सॉफ्टवेयर विकसित करने के लिए किया जाता है।",
+      "subCategory": "प्रोग्रामिंग भाषाएँ",
+      "questionType": "mcq",
+      "uuid": "eadac175-f0c1-5ffd-9453-86c2d75bfb58",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "डेटाबेस में रिकॉर्ड का एक संग्रह क्या कहलाता है?",
+      "options": [
+        "टेबल",
+        "फील्ड",
+        "फाइल",
+        "कुंजी"
+      ],
+      "correctIndex": 0,
+      "explanation": "डेटाबेस में रिकॉर्ड का एक संग्रह टेबल कहलाता है। प्रत्येक टेबल में संबंधित डेटा पंक्तियों और स्तंभों में व्यवस्थित होता है। फील्ड एक टेबल में एक एकल कॉलम होता है, फाइल एक सामान्य शब्द है जिसका उपयोग डेटा के संग्रहीत संग्रह को संदर्भित करने के लिए किया जाता है, और कुंजी का उपयोग टेबल में विशिष्ट रिकॉर्ड की पहचान करने के लिए किया जाता है।",
+      "subCategory": "डेटाबेस",
+      "questionType": "mcq",
+      "uuid": "224aaf1d-57ae-51b7-9a6c-f8464e30a0d8",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर को दुर्भावनापूर्ण सॉफ्टवेयर (जैसे वायरस) से बचाने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
+      "options": [
+        "फायरवॉल",
+        "एंटीवायरस",
+        "बैकअप यूटिलिटी",
+        "डिस्क क्लीनर"
+      ],
+      "correctIndex": 1,
+      "explanation": "एंटीवायरस सॉफ्टवेयर का उपयोग कंप्यूटर को दुर्भावनापूर्ण सॉफ्टवेयर (वायरस, वर्म्स, ट्रोजन आदि) से बचाने, पता लगाने और हटाने के लिए किया जाता है। फायरवॉल अनधिकृत पहुंच को अवरुद्ध करके नेटवर्क सुरक्षा प्रदान करता है, बैकअप यूटिलिटी डेटा की प्रतियां बनाती है, और डिस्क क्लीनर अनावश्यक फाइलों को हटाकर डिस्क स्थान खाली करता है।",
+      "subCategory": "कंप्यूटर सुरक्षा",
+      "questionType": "mcq",
+      "uuid": "f1fc330c-aba5-5ca7-bca7-d82f226b4662",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर का मस्तिष्क किसे कहा जाता है?",
+      "options": [
+        "मेमोरी यूनिट",
+        "सेंट्रल प्रोसेसिंग यूनिट (CPU)",
+        "इनपुट यूनिट",
+        "आउटपुट यूनिट"
+      ],
+      "correctIndex": 1,
+      "explanation": "सेंट्रल प्रोसेसिंग यूनिट (CPU) को कंप्यूटर का मस्तिष्क कहा जाता है क्योंकि यह कंप्यूटर के सभी मुख्य कार्यों को निष्पादित करता है, जैसे कि निर्देशों को संसाधित करना और गणना करना। मेमोरी यूनिट डेटा और निर्देशों को संग्रहीत करती है, इनपुट यूनिट कंप्यूटर में डेटा दर्ज करने के लिए उपयोग की जाती है, और आउटपुट यूनिट संसाधित डेटा प्रदर्शित करती है।",
+      "subCategory": "कंप्यूटर आर्किटेक्चर",
+      "questionType": "mcq",
+      "uuid": "a51dbb9f-71cb-5554-956f-9776ec3efb1d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "माइक्रोसॉफ्ट एक्सेल में, सेल में संख्याओं की एक श्रृंखला का योग करने के लिए किस फंक्शन का उपयोग किया जाता है?",
+      "options": [
+        "AVERAGE()",
+        "SUM()",
+        "PRODUCT()",
+        "COUNT()"
+      ],
+      "correctIndex": 1,
+      "explanation": "माइक्रोसॉफ्ट एक्सेल में, सेल में संख्याओं की एक श्रृंखला का योग करने के लिए SUM() फंक्शन का उपयोग किया जाता है। AVERAGE() फंक्शन संख्याओं का औसत ज्ञात करता है, PRODUCT() फंक्शन संख्याओं का गुणा करता है, और COUNT() फंक्शन सेल में संख्याओं की संख्या गिनता है।",
+      "subCategory": "माइक्रोसॉफ्ट ऑफिस सूट",
+      "questionType": "mcq",
+      "uuid": "372366bc-43e3-5a95-96e5-f07cdc8ed050",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर का जनक किसे माना जाता है?",
+      "options": [
+        "चार्ल्स बैबेज",
+        "ब्लेज़ पास्कल",
+        "जॉन वॉन न्यूमैन",
+        "हर्मन होलेरिथ"
+      ],
+      "correctIndex": 0,
+      "explanation": "चार्ल्स बैबेज को कंप्यूटर का जनक माना जाता है। उन्होंने पहला मैकेनिकल कंप्यूटर 'एनालिटिकल इंजन' डिज़ाइन किया था। ब्लेज़ पास्कल ने मैकेनिकल कैलकुलेटर बनाया, जॉन वॉन न्यूमैन ने संग्रहीत प्रोग्राम कंप्यूटर की अवधारणा दी, और हर्मन होलेरिथ ने पंच कार्ड का उपयोग करके डेटा संसाधित करने वाली मशीन का आविष्कार किया।",
+      "subCategory": "कंप्यूटर का इतिहास",
+      "questionType": "mcq",
+      "uuid": "1ae285ca-1831-501a-bb2f-83c73549da2b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा कंप्यूटर का मुख्य भाग नहीं है?",
+      "options": [
+        "सेंट्रल प्रोसेसिंग यूनिट (CPU)",
+        "मेमोरी",
+        "इनपुट डिवाइस",
+        "मॉडेम"
+      ],
+      "correctIndex": 3,
+      "explanation": "मॉडेम एक नेटवर्किंग डिवाइस है जिसका उपयोग कंप्यूटर को इंटरनेट से कनेक्ट करने के लिए किया जाता है। जबकि यह एक महत्वपूर्ण पेरिफेरल हो सकता है, यह कंप्यूटर का मुख्य आंतरिक भाग नहीं है। CPU, मेमोरी और इनपुट डिवाइस कंप्यूटर के बुनियादी कामकाज के लिए आवश्यक हैं।",
+      "subCategory": "कंप्यूटर के घटक",
+      "questionType": "mcq",
+      "uuid": "d4875c78-c2d2-5ff8-a70a-69afe10d70da",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "RAM का पूर्ण रूप क्या है?",
+      "options": [
+        "रीड ओनली मेमोरी",
+        "रैंडम एक्सेस मेमोरी",
+        "रीडिंग एबिलिटी मोड्यूल",
+        "रोटेशनल एक्सेस मेमोरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "RAM का पूर्ण रूप रैंडम एक्सेस मेमोरी है। यह एक प्रकार की कंप्यूटर मेमोरी है जो डेटा को अस्थायी रूप से संग्रहीत करती है ताकि CPU इसे जल्दी से एक्सेस कर सके। रीड ओनली मेमोरी (ROM) स्थायी रूप से डेटा संग्रहीत करती है।",
+      "subCategory": "मेमोरी",
+      "questionType": "mcq",
+      "uuid": "8e5b994b-91dd-5c4c-b2c2-77fea186b20b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?",
+      "options": [
+        "एप्लीकेशन सॉफ्टवेयर चलाना",
+        "इनपुट और आउटपुट डिवाइस को नियंत्रित करना",
+        "सिस्टम संसाधनों का प्रबंधन करना",
+        "उपरोक्त सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "ऑपरेटिंग सिस्टम कंप्यूटर के हार्डवेयर और सॉफ्टवेयर संसाधनों का प्रबंधन करता है, एप्लीकेशन सॉफ्टवेयर चलाने के लिए एक मंच प्रदान करता है, और इनपुट और आउटपुट डिवाइस के संचालन को नियंत्रित करता है। इसलिए, विकल्प 'उपरोक्त सभी' सही है।",
+      "subCategory": "ऑपरेटिंग सिस्टम",
+      "questionType": "mcq",
+      "uuid": "f6648a52-30ab-5746-bde9-64146acd887b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट पर वेबसाइटों को देखने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
+      "options": [
+        "वर्ड प्रोसेसर",
+        "स्प्रेडशीट",
+        "वेब ब्राउज़र",
+        "प्रेजेंटेशन सॉफ्टवेयर"
+      ],
+      "correctIndex": 2,
+      "explanation": "इंटरनेट पर वेबसाइटों को देखने के लिए वेब ब्राउज़र सॉफ्टवेयर का उपयोग किया जाता है। कुछ लोकप्रिय वेब ब्राउज़र में Google Chrome, Mozilla Firefox और Safari शामिल हैं। वर्ड प्रोसेसर का उपयोग टेक्स्ट डॉक्यूमेंट बनाने के लिए किया जाता है, स्प्रेडशीट का उपयोग डेटा विश्लेषण के लिए किया जाता है, और प्रेजेंटेशन सॉफ्टवेयर का उपयोग स्लाइडशो बनाने के लिए किया जाता है।",
+      "subCategory": "इंटरनेट और वेब ब्राउज़र",
+      "questionType": "mcq",
+      "uuid": "4594ee58-5ff0-5604-9fb6-2a7ba3bbab8e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा ऑपरेटिंग सिस्टम है?",
+      "options": [
+        "MS Word",
+        "Windows 10",
+        "Google Chrome",
+        "Adobe Photoshop"
+      ],
+      "correctIndex": 1,
+      "explanation": "Windows 10 एक ऑपरेटिंग सिस्टम है, जो कंप्यूटर के हार्डवेयर और सॉफ्टवेयर के बीच संचार को प्रबंधित करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4ab440a3-e4ea-5307-bc44-cb020eedba72",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "1 GB में कितने MB होते हैं?",
+      "options": [
+        "100 MB",
+        "1000 MB",
+        "1024 MB",
+        "512 MB"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 GB = 1024 MB, क्योंकि कंप्यूटर में मेमोरी बाइनरी सिस्टम (2^10) में मापी जाती है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4d4467e8-cb55-51dc-8534-5a5392d52478",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "WWW का पूर्ण रूप क्या है?",
+      "options": [
+        "World Wide Web",
+        "World Web Wide",
+        "Web World Wide",
+        "Wide World Web"
+      ],
+      "correctIndex": 0,
+      "explanation": "WWW का पूर्ण रूप World Wide Web है, जो इंटरनेट पर हाइपरलिंक के माध्यम से जानकारी को जोड़ता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6870f2c2-9ef1-5fee-86db-8e49b95da4d7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में कार्यपत्रक को क्या कहते हैं?",
+      "options": [
+        "Document",
+        "Spreadsheet",
+        "Slide",
+        "Database"
+      ],
+      "correctIndex": 1,
+      "explanation": "MS Excel में कार्यपत्रक को Spreadsheet कहा जाता है, जो डेटा को तालिका रूप में व्यवस्थित करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "75a75f33-9273-52ca-a3df-486dcda051f4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा इनपुट डिवाइस है?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Printer",
+        "Speaker"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keyboard एक इनपुट डिवाइस है, क्योंकि यह उपयोगकर्ता से डेटा को कंप्यूटर में भेजता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "906508b6-1202-5514-9f44-5c2c2199ffae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "HTTP का पूर्ण रूप क्या है?",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "High Text Transfer Protocol",
+        "Hyper Text Transmission Protocol",
+        "Home Text Transfer Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTTP का पूर्ण रूप Hyper Text Transfer Protocol है, जो वेब पेजों को स्थानांतरित करने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "20123666-ded8-5a81-9577-ed7c03281d0a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में डेटा को स्थायी रूप से स्टोर करने के लिए किसका उपयोग होता है?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard Disk",
+        "Cache"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hard Disk का उपयोग डेटा को स्थायी रूप से स्टोर करने के लिए होता है, क्योंकि यह नॉन-वोलेटाइल मेमोरी है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5a87eb21-ef6d-5283-a518-458ed645bc48",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा ब्राउज़र नहीं है?",
+      "options": [
+        "Google Chrome",
+        "Mozilla Firefox",
+        "Microsoft Word",
+        "Safari"
+      ],
+      "correctIndex": 2,
+      "explanation": "Microsoft Word एक वर्ड प्रोसेसिंग सॉफ्टवेयर है, न कि वेब ब्राउज़र।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ff7817e0-98a8-5603-8d76-6a61c3e58fec",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में नया दस्तावेज़ खोलने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + O",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ctrl + N का उपयोग MS Word में नया दस्तावेज़ खोलने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "abbe1c7c-5940-5944-abf2-6deab3a19d58",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर वायरस क्या है?",
+      "options": [
+        "एक हार्डवेयर",
+        "एक सॉफ्टवेयर प्रोग्राम",
+        "एक ऑपरेटिंग सिस्टम",
+        "एक डेटाबेस"
+      ],
+      "correctIndex": 1,
+      "explanation": "कंप्यूटर वायरस एक दुर्भावनापूर्ण सॉफ्टवेयर प्रोग्राम है, जो डेटा को नष्ट कर सकता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "11e59553-d2bd-5296-95a2-b96af52bb1df",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा आउटपुट डिवाइस है?",
+      "options": [
+        "Scanner",
+        "Mouse",
+        "Monitor",
+        "Keyboard"
+      ],
+      "correctIndex": 2,
+      "explanation": "Monitor एक आउटपट डिवाइस है, क्योंकि यह कंप्यूटर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "c0a804a3-e306-5541-91fd-b8984c7a9756",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट पर गोपनीय डेटा को सुरक्षित करने के लिए किस प्रोटोकॉल का उपयोग होता है?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTPS (Hyper Text Transfer Protocol Secure) गोपनीय डेटा को सुरक्षित करने के लिए SSL/TLS का उपयोग करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ca4de708-a5c3-5ed7-a327-f9dcccdf7554",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में सेल को चुनने के लिए किस कुंजी का उपयोग होता है?",
+      "options": [
+        "Ctrl",
+        "Shift",
+        "Alt",
+        "Enter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shift कुंजी का उपयोग MS Excel में एक से अधिक सेल को चुनने के लिए किया जाता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b831af77-545a-5a23-84f0-eaf480a78df1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा डेटाबेस मैनेजमेंट सिस्टम है?",
+      "options": [
+        "Oracle",
+        "MS Word",
+        "Windows",
+        "Photoshop"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oracle एक डेटाबेस मैनेजमेंट सिस्टम है, जो डेटा को व्यवस्थित और प्रबंधित करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "711158e8-3090-5f62-a48e-0b7ad0864c31",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में प्रोग्राम और डेटा को स्टोर करने के लिए किस मेमोरी का उपयोग होता है?",
+      "options": [
+        "Primary Memory",
+        "Secondary Memory",
+        "Cache Memory",
+        "Virtual Memory"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secondary Memory (जैसे Hard Disk) का उपयोग प्रोग्राम और डेटा को स्थायी रूप से स्टोर करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8daebdc0-7e41-5dea-a476-13c96a0d5b7c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "IP एड्रेस में कितने बिट्स होते हैं (IPv4)?",
+      "options": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "correctIndex": 1,
+      "explanation": "IPv4 एड्रेस 32 बिट्स का होता है, जो चार ऑक्टेट्स में विभाजित होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "78d96980-dad2-53c5-9f87-0fc82c99d8d8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एंटीवायरस सॉफ्टवेयर है?",
+      "options": [
+        "Norton",
+        "MS Excel",
+        "Notepad",
+        "VLC Player"
+      ],
+      "correctIndex": 0,
+      "explanation": "Norton एक एंटीवायरस सॉफ्टवेयर है, जो कंप्यूटर को वायरस से बचाता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e41c2a61-99a6-5c97-aea0-61a05b5eb22a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS PowerPoint में नई स्लाइड जोड़ने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + M",
+        "Ctrl + N",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ctrl + M का उपयोग MS PowerPoint में नई स्लाइड जोड़ने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "74fcaeec-0123-5135-b5b7-7125d7e1418e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में बाइनरी सिस्टम में कितने अंक होते हैं?",
+      "options": [
+        "1",
+        "2",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "बाइनरी सिस्टम में केवल दो अंक होते हैं: 0 और 1।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "87ad4bed-3877-5ac4-8869-74deb482fa11",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा क्लाउड स्टोरेज सेवा है?",
+      "options": [
+        "Google Drive",
+        "MS Access",
+        "Windows Media Player",
+        "Notepad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Google Drive एक क्लाउड स्टोरेज सेवा है, जो डेटा को ऑनलाइन स्टोर करती है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "8c11031c-5f05-53d8-b935-ce94076562f1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "OSI मॉडल में कितनी परतें होती हैं?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "OSI (Open Systems Interconnection) मॉडल में 7 परतें होती हैं।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "3b51bf48-16bf-5055-8ef6-9a389267e9b7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा प्रोग्रामिंग भाषा है?",
+      "options": [
+        "Python",
+        "MS Excel",
+        "Google Chrome",
+        "Adobe Reader"
+      ],
+      "correctIndex": 0,
+      "explanation": "Python एक प्रोग्रामिंग भाषा है, जिसका उपयोग सॉफ्टवेयर विकास के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "321b6b96-ea02-5da8-a397-def1c86f2e16",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में BIOS का क्या कार्य है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "हार्डवेयर प्रारंभ करना",
+        "इंटरनेट कनेक्ट करना",
+        "वायरस हटाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "BIOS (Basic Input/Output System) हार्डवेयर को प्रारंभ करता है और ऑपरेटिंग सिस्टम को लोड करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8fc38cf4-23c8-551a-8d39-0f9f6674972c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "FTP का पूर्ण रूप क्या है?",
+      "options": [
+        "File Transfer Protocol",
+        "Fast Transfer Protocol",
+        "File Transmission Protocol",
+        "Flexible Transfer Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "FTP का पूर्ण रूप File Transfer Protocol है, जो फाइलों को स्थानांतरित करने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "76e9d328-188d-575a-bab1-4f0af0677c4b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में टेक्स्ट को बोल्ड करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + B",
+        "Ctrl + I",
+        "Ctrl + U",
+        "Ctrl + T"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ctrl + B का उपयोग MS Word में टेक्स्ट को बोल्ड करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "2c19632e-9ef0-515d-9fb6-45e866af13b3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा स्टोरेज डिवाइस नहीं है?",
+      "options": [
+        "Hard Disk",
+        "Pen Drive",
+        "Monitor",
+        "SSD"
+      ],
+      "correctIndex": 2,
+      "explanation": "Monitor एक आउटपुट डिवाइस है, न कि स्टोरेज डिवाइस।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9fc4fa51-6c81-5f19-913a-80c798fd2caa",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "SQL का पूर्ण रूप क्या है?",
+      "options": [
+        "Structured Query Language",
+        "Simple Query Language",
+        "Standard Query Language",
+        "Sequential Query Language"
+      ],
+      "correctIndex": 0,
+      "explanation": "SQL का पूर्ण रूप Structured Query Language है, जो डेटाबेस प्रबंधन के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3aaa97ad-679f-567e-821d-73d59fd3be19",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में डेटा को प्रोसेस करने के लिए किसका उपयोग होता है?",
+      "options": [
+        "ALU",
+        "CU",
+        "RAM",
+        "ROM"
+      ],
+      "correctIndex": 0,
+      "explanation": "ALU (Arithmetic Logic Unit) डेटा को प्रोसेस करने के लिए गणनाएँ और तार्किक संचालन करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3ab62700-0e8f-567e-af5a-7fb9c1496777",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा नेटवर्क टोपोलॉजी है?",
+      "options": [
+        "Bus",
+        "Ring",
+        "Star",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bus, Ring, और Star सभी नेटवर्क टोपोलॉजी हैं, जो नेटवर्क डिवाइस को जोड़ने के तरीके हैं।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8d85982f-7d23-53a9-a59b-fb29f0b9ca73",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में SUM फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "औसत निकालने",
+        "संख्याओं का योग करने",
+        "अधिकतम मान निकालने",
+        "न्यूनतम मान निकालने"
+      ],
+      "correctIndex": 1,
+      "explanation": "SUM फंक्शन का उपयोग MS Excel में संख्याओं का योग करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "1e6e6841-66d7-54b9-ab50-5bc7589ab6f1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में फायरवॉल का क्या कार्य है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "नेटवर्क सुरक्षा प्रदान करना",
+        "प्रोग्राम चलाना",
+        "हार्डवेयर प्रारंभ करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "फायरवॉल नेटवर्क सुरक्षा प्रदान करता है, अनधिकृत पहुँच को रोकता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ef5aee64-a6f8-579c-80c6-843bc251636e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "WAN का पूर्ण रूप क्या है?",
+      "options": [
+        "Wide Area Network",
+        "Wireless Area Network",
+        "World Area Network",
+        "Web Area Network"
+      ],
+      "correctIndex": 0,
+      "explanation": "WAN का पूर्ण रूप Wide Area Network है, जो बड़े भौगोलिक क्षेत्र में नेटवर्क को जोड़ता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5daafa0d-7fab-5255-b832-c7a06c64d6db",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा मोबाइल ऑपरेटिंग सिस्टम है?",
+      "options": [
+        "Android",
+        "MS Word",
+        "Photoshop",
+        "Notepad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Android एक मोबाइल ऑपरेटिंग सिस्टम है, जो स्मार्टफोन और टैबलेट पर उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b03b174c-8c38-5a29-9c34-074b09622247",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Cache Memory का उपयोग क्यों होता है?",
+      "options": [
+        "डेटा को स्थायी रूप से स्टोर करने",
+        "प्रोसेसिंग गति बढ़ाने",
+        "इंटरनेट कनेक्शन सुधारने",
+        "वायरस हटाने"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cache Memory का उपयोग प्रोसेसिंग गति बढ़ाने के लिए होता है, क्योंकि यह CPU के निकट तेज़ मेमोरी है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7727ec5c-c29d-5506-82d7-1466c0b7893c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा वायरलेस तकनीक है?",
+      "options": [
+        "Bluetooth",
+        "Ethernet",
+        "Coaxial Cable",
+        "Fiber Optic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bluetooth एक वायरलेस तकनीक है, जो डिवाइसों के बीच शॉर्ट-रेंज डेटा ट्रांसफर के लिए उपयोग होती है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5a9a2675-4d03-5b24-be87-612f4e19c522",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में टेक्स्ट को अंडरलाइन करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + B",
+        "Ctrl + I",
+        "Ctrl + U",
+        "Ctrl + T"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ctrl + U का उपयोग MS Word में टेक्स्ट को अंडरलाइन करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ec6c9db2-d488-5f37-8419-d5ea44b56348",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में GUI का क्या अर्थ है?",
+      "options": [
+        "Graphical User Interface",
+        "General User Interface",
+        "Global User Interface",
+        "Guided User Interface"
+      ],
+      "correctIndex": 0,
+      "explanation": "GUI का अर्थ Graphical User Interface है, जो उपयोगकर्ता को ग्राफिकल तरीके से इंटरैक्ट करने की सुविधा देता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b7ad5f4d-124a-51cf-8d22-2e77a31dba36",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा सर्च इंजन है?",
+      "options": [
+        "Google",
+        "Facebook",
+        "Twitter",
+        "Instagram"
+      ],
+      "correctIndex": 0,
+      "explanation": "Google एक सर्च इंजन है, जो इंटरनेट पर जानकारी खोजने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6c4267be-818c-5618-8282-4f8c315e84e7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Motherboard का क्या कार्य है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "सभी हार्डवेयर को जोड़ना",
+        "प्रोग्राम चलाना",
+        "इंटरनेट कनेक्ट करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motherboard सभी हार्डवेयर घटकों को जोड़ता है और उनके बीच संचार सक्षम करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8b2008a1-b59a-504d-9b1e-cee6f7aac797",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "DNS का पूर्ण रूप क्या है?",
+      "options": [
+        "Domain Name System",
+        "Digital Name System",
+        "Dynamic Name System",
+        "Direct Name System"
+      ],
+      "correctIndex": 0,
+      "explanation": "DNS का पूर्ण रूप Domain Name System है, जो डोमेन नाम को IP एड्रेस में बदलता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2f5df2bb-d7ea-5621-83c9-b07618faf22d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में VLOOKUP फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "डेटा को जोड़ने",
+        "डेटा को खोजने",
+        "डेटा को क्रमबद्ध करने",
+        "डेटा को हटाने"
+      ],
+      "correctIndex": 1,
+      "explanation": "VLOOKUP फंक्शन का उपयोग MS Excel में किसी तालिका में डेटा खोजने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "22c0cfa7-c991-56f7-b347-47d1ef0905ae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में UPS का क्या कार्य है?",
+      "options": [
+        "पावर बैकअप प्रदान करना",
+        "डेटा स्टोर करना",
+        "प्रोग्राम चलाना",
+        "वायरस हटाना"
+      ],
+      "correctIndex": 0,
+      "explanation": "UPS (Uninterruptible Power Supply) पावर बैकअप प्रदान करता है, ताकि बिजली जाने पर कंप्यूटर चालू रहे।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "67ed634c-426e-596e-9616-2c081f252091",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा ऑप्टिकल स्टोरेज डिवाइस है?",
+      "options": [
+        "Hard Disk",
+        "Pen Drive",
+        "CD-ROM",
+        "SSD"
+      ],
+      "correctIndex": 2,
+      "explanation": "CD-ROM एक ऑप्टिकल स्टोरेज डिवाइस है, जो लेजर तकनीक का उपयोग करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "90159c06-5e9c-5478-b860-1202e04a0d58",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "TCP/IP का पूर्ण रूप क्या है?",
+      "options": [
+        "Transmission Control Protocol/Internet Protocol",
+        "Transfer Control Protocol/Internet Protocol",
+        "Transmission Communication Protocol/Internet Protocol",
+        "Transfer Communication Protocol/Internet Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "TCP/IP का पूर्ण रूप Transmission Control Protocol/Internet Protocol है, जो नेटवर्क संचार के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2b91f7fc-28f4-570d-b799-eac685b4e7c5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS PowerPoint में स्लाइड शो शुरू करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "F5",
+        "F6",
+        "F7",
+        "F8"
+      ],
+      "correctIndex": 0,
+      "explanation": "F5 का उपयोग MS PowerPoint में स्लाइड शो शुरू करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "24b7c058-159f-5d84-b43c-4195d796ab3c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Boot Process क्या है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "ऑपरेटिंग सिस्टम लोड करना",
+        "इंटरनेट कनेक्ट करना",
+        "वायरस स्कैन करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boot Process ऑपरेटिंग सिस्टम को मेमोरी में लोड करने की प्रक्रिया है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "dfc35440-2066-59e1-a3ec-9cf5260d20c4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा डेटा कम्प्रेशन तकनीक है?",
+      "options": [
+        "ZIP",
+        "JPEG",
+        "MP3",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "ZIP, JPEG, और MP3 सभी डेटा कम्प्रेशन तकनीक हैं, जो फाइल आकार को कम करते हैं।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a81b08ca-b826-5619-adf8-7576d5b3773d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "SMTP का पूर्ण रूप क्या है?",
+      "options": [
+        "Simple Mail Transfer Protocol",
+        "Secure Mail Transfer Protocol",
+        "Standard Mail Transfer Protocol",
+        "System Mail Transfer Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "SMTP का पूर्ण रूप Simple Mail Transfer Protocol है, जो ईमेल भेजने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7e6ddbe6-4f39-5aad-bf19-821d5bd75731",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में AVERAGE फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "योग करने",
+        "औसत निकालने",
+        "अधिकतम मान निकालने",
+        "न्यूनतम मान निकालने"
+      ],
+      "correctIndex": 1,
+      "explanation": "AVERAGE फंक्शन का उपयोग MS Excel में संख्याओं का औसत निकालने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4d965a9b-b1ec-5eb4-b40e-cfcb71b0d0ca",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में GPU का क्या कार्य है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "ग्राफिक्स प्रोसेसिंग",
+        "इंटरनेट कनेक्शन",
+        "वायरस स्कैनिंग"
+      ],
+      "correctIndex": 1,
+      "explanation": "GPU (Graphics Processing Unit) ग्राफिक्स और विजुअल डेटा को प्रोसेस करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9ddaffe8-df0d-5da1-9125-31cedc693f97",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा मालवेयर है?",
+      "options": [
+        "Trojan",
+        "MS Word",
+        "Google Chrome",
+        "Notepad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trojan एक प्रकार का मालवेयर है, जो कंप्यूटर को नुकसान पहुँचाता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "23d56803-da41-5433-a3aa-7f95d38592d2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "HTML का पूर्ण रूप क्या है?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Markup Language",
+        "Home Text Markup Language",
+        "Hybrid Text Markup Language"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTML का पूर्ण रूप Hyper Text Markup Language है, जो वेब पेज बनाने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a7c68815-1218-5020-b94a-78168bfdb601",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में दस्तावेज़ को प्रिंट करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + S",
+        "Ctrl + N",
+        "Ctrl + O"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ctrl + P का उपयोग MS Word में दस्तावेज़ को प्रिंट करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "013c3c95-6bf4-551c-97a0-0a231ae17db1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Virtual Memory क्या है?",
+      "options": [
+        "RAM का हिस्सा",
+        "Hard Disk का हिस्सा",
+        "Cache Memory",
+        "ROM का हिस्सा"
+      ],
+      "correctIndex": 1,
+      "explanation": "Virtual Memory Hard Disk का हिस्सा है, जो RAM की कमी होने पर उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a71eec5f-153b-5d59-b1ac-aa0b8828bab8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा वेब डेवलपमेंट टूल है?",
+      "options": [
+        "JavaScript",
+        "MS Excel",
+        "Notepad",
+        "VLC Player"
+      ],
+      "correctIndex": 0,
+      "explanation": "JavaScript एक वेब डेवलपमेंट टूल है, जो वेब पेज को इंटरैक्टिव बनाता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "bf793dd8-6a62-58a8-905d-8a79db262c1b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MAC एड्रेस में कितने बिट्स होते हैं?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "128"
+      ],
+      "correctIndex": 1,
+      "explanation": "MAC एड्रेस 48 बिट्स का होता है, जो नेटवर्क डिवाइस की पहचान करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "5df32807-d2f5-5830-9407-0d954f233845",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा ईमेल क्लाइंट है?",
+      "options": [
+        "Microsoft Outlook",
+        "Google Chrome",
+        "Adobe Photoshop",
+        "Notepad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Microsoft Outlook एक ईमेल क्लाइंट है, जो ईमेल प्रबंधन के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "112d95c1-4726-556a-9961-87db61d12d76",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में SSD का पूर्ण रूप क्या है?",
+      "options": [
+        "Solid State Drive",
+        "Super Speed Drive",
+        "Simple Storage Drive",
+        "System State Drive"
+      ],
+      "correctIndex": 0,
+      "explanation": "SSD का पूर्ण रूप Solid State Drive है, जो तेज़ स्टोरेज डिवाइस है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "1a692c25-39ea-500b-ac6d-36acba39d7af",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में MAX फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "औसत निकालने",
+        "योग करने",
+        "अधिकतम मान निकालने",
+        "न्यूनतम मान निकालने"
+      ],
+      "correctIndex": 2,
+      "explanation": "MAX फंक्शन का उपयोग MS Excel में अधिकतम मान निकालने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5530496e-49f9-589a-8d3e-697ce95f24f7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Router का क्या कार्य है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "नेटवर्क ट्रैफिक को निर्देशित करना",
+        "प्रोग्राम चलाना",
+        "वायरस हटाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Router नेटवर्क ट्रैफिक को विभिन्न नेटवर्क के बीच निर्देशित करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "eb8935fd-328c-5682-a2f4-b555c5fafbc0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा ग्राफिक्स फाइल फॉर्मेट है?",
+      "options": [
+        "JPEG",
+        "MP3",
+        "DOCX",
+        "EXE"
+      ],
+      "correctIndex": 0,
+      "explanation": "JPEG एक ग्राफिक्स फाइल फॉर्मेट है, जो छवियों को स्टोर करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b588e688-82fd-5dcb-95f8-bc0298dd0071",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "POP3 का पूर्ण रूप क्या है?",
+      "options": [
+        "Post Office Protocol 3",
+        "Public Office Protocol 3",
+        "Private Office Protocol 3",
+        "Primary Office Protocol 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "POP3 का पूर्ण रूप Post Office Protocol 3 है, जो ईमेल प्राप्त करने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1122afe2-5785-5094-9af5-2e805041af31",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में टेक्स्ट को इटैलिक करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + B",
+        "Ctrl + I",
+        "Ctrl + U",
+        "Ctrl + T"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ctrl + I का उपयोग MS Word में टेक्स्ट को इटैलिक करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "851f40bd-dcfa-5d5b-8462-878b5b75aad1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Malware क्या है?",
+      "options": [
+        "एक हार्डवेयर",
+        "एक दुर्भावनापूर्ण सॉफ्टवेयर",
+        "एक ऑपरेटिंग सिस्टम",
+        "एक डेटाबेस"
+      ],
+      "correctIndex": 1,
+      "explanation": "Malware एक दुर्भावनापूर्ण सॉफ्टवेयर है, जो कंप्यूटर को नुकसान पहुँचाता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fc126f6f-006a-5f13-9ab3-389d07b442f5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा ऑडियो फाइल फॉर्मेट है?",
+      "options": [
+        "MP3",
+        "PNG",
+        "PDF",
+        "TXT"
+      ],
+      "correctIndex": 0,
+      "explanation": "MP3 एक ऑडियो फाइल फॉर्मेट है, जो ध्वनि डेटा को स्टोर करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e9cf6e94-fc1b-57e2-8591-2200f60b62ac",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Switch का क्या कार्य है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "नेटवर्क डिवाइस को जोड़ना",
+        "प्रोग्राम चलाना",
+        "वायरस हटाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Switch नेटवर्क डिवाइस को जोड़ता है और डेटा पैकेट को सही गंतव्य तक भेजता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d7b1c933-4ec7-5021-ab22-2d9df0d357c7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "CSS का पूर्ण रूप क्या है?",
+      "options": [
+        "Cascading Style Sheets",
+        "Central Style Sheets",
+        "Common Style Sheets",
+        "Custom Style Sheets"
+      ],
+      "correctIndex": 0,
+      "explanation": "CSS का पूर्ण रूप Cascading Style Sheets है, जो वेब पेज की स्टाइलिंग के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bbe5b2cd-e336-532e-8686-9d0285cc9d54",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में MIN फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "औसत निकालने",
+        "योग करने",
+        "अधिकतम मान निकालने",
+        "न्यूनतम मान निकालने"
+      ],
+      "correctIndex": 3,
+      "explanation": "MIN फंक्शन का उपयोग MS Excel में न्यूनतम मान निकालने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "07025c30-4012-561b-abd6-d327cc65a202",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में VPN का पूर्ण रूप क्या है?",
+      "options": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Visible Private Network",
+        "Virtual Protected Network"
+      ],
+      "correctIndex": 0,
+      "explanation": "VPN का पूर्ण रूप Virtual Private Network है, जो सुरक्षित इंटरनेट कनेक्शन प्रदान करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8af6d504-6987-5e88-b375-8a9f5a305b62",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा वीडियो फाइल फॉर्मेट है?",
+      "options": [
+        "AVI",
+        "DOCX",
+        "PDF",
+        "TXT"
+      ],
+      "correctIndex": 0,
+      "explanation": "AVI एक वीडियो फाइल फॉर्मेट है, जो वीडियो डेटा को स्टोर करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "0adae758-8aeb-566d-a950-6503f918aa2a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "IMAP का पूर्ण रूप क्या है?",
+      "options": [
+        "Internet Message Access Protocol",
+        "Internal Message Access Protocol",
+        "International Message Access Protocol",
+        "Integrated Message Access Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "IMAP का पूर्ण रूप Internet Message Access Protocol है, जो ईमेल सर्वर पर ईमेल प्रबंधन के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9e3684be-19c8-54c8-b7ec-de74437cb090",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS PowerPoint में स्लाइड को डिलीट करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Delete",
+        "Ctrl + D",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "correctIndex": 0,
+      "explanation": "Delete कुंजी का उपयोग MS PowerPoint में स्लाइड को डिलीट करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4a39753e-d115-5e5e-b31c-ff01b6660015",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Phishing का क्या मतलब है?",
+      "options": [
+        "डेटा स्टोर करना",
+        "सुरक्षा प्रदान करना",
+        "गोपनीय जानकारी चुराना",
+        "प्रोग्राम चलाना"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phishing एक साइबर हमला है, जिसमें गोपनीय जानकारी जैसे पासवर्ड चुराए जाते हैं।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e569e669-3a8a-523d-bb1e-f4364c519f79",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर मे BIOS कहाँ स्थित होता है?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard Disk",
+        "Cache"
+      ],
+      "correctIndex": 1,
+      "explanation": "BIOS (ROM) में संग्रहीत होता है, जो स्थायी मेमोरी है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b0b2f501-6e9b-5bf1-ba48-1ce6d9686e46",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में COUNTIF फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "संख्याओं का योग",
+        "शर्तों के आधार पर गणना",
+        "औसत निकालने",
+        "अधिकतम मान निकालने"
+      ],
+      "correctIndex": 1,
+      "explanation": "COUNTIF फंक्शन का उपयोग MS Excel में शर्तों के आधार पर सेल्स की गणना करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "c4202329-c8fb-57e0-83fa-8eae69f52d18",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Modem का क्या कार्य है?",
+      "options": [
+        "डेटा को स्टोर करना",
+        "डिजिटल सिग्नल को एनालॉग में बदलना",
+        "प्रोग्राम्स चलाना",
+        "वायरस हटाना"
+      ],
+      "correctIndex": 0,
+      "explanation": "Modem डिजिटल सिग्नल को एनालॉग में और इसके विपरीत बदलता है, ताकि इंटरनेट कनेक्शन स्थापित हो सके।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bedfdb2e-d508-521a-9e5b-9df470a73c3b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा डेटा बेस्ड टाइप है?",
+      "options": [
+        "VARCHAR",
+        "MP3",
+        "JPEG",
+        "EXE"
+      ],
+      "correctIndex": 0,
+      "explanation": "VARCHAR एक डेटा टाइप है, जो डेटाबेस में टेक्स्ट स्टोर करने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "30b570ff-a2d2-5f0e-b226-8a574fa80aa9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Firewall किस परत पर काम करता है?",
+      "options": [
+        "Application Layer",
+        "Network Layer",
+        "Data Link Layer",
+        "Physical Layer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Firewall मुख्य रूप से Network Layer पर काम करता है, नेटवर्क ट्रैफिक को नियंत्रित करने के लिए।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "dcb4812c-1303-5434-b943-012888349bf9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में दस्तावेज़ को सेव करने की शॉटकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + N",
+        "Ctrl + O"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ctrl + S का उपयोग MS Word में दस्तावेज़ को सेव करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "d44e46e8-4bb9-5ab7-9dc7-fece250e816b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में Worm क्या है?",
+      "options": [
+        "एक हार्डवेयर",
+        "एक मालवेयर",
+        "एक ऑपरेटिंग सिस्टम",
+        "एक डेटाबेस"
+      ],
+      "correctIndex": 1,
+      "explanation": "Worm एक प्रकार का मालवेयर है, जो नेटवर्क के माध्यम से फैलता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e8272f6e-de8e-5f92-839d-c5b15e90d0ca",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा डेटा ट्रांसमिशन मोड है?",
+      "options": [
+        "Simplex",
+        "Half-Duplex",
+        "Full-Duplex",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Simplex, Half-Duplex, और Full-Duplex सभी डेटा ट्रांसमिशन मोड हैं।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f6babc99-1c44-521d-908b-c8aea7a42894",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "XML का पूर्ण रूप क्या है?",
+      "options": [
+        "Extensible Markup Language",
+        "Extra Markup Language",
+        "Extended Markup Language",
+        "External Markup Language"
+      ],
+      "correctIndex": 0,
+      "explanation": "XML का पूर्ण रूप Extensible Markup Language है, जो डेटा को संरचित रूप में स्टोर करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "761fd9a1-4913-576a-80ff-caf0a22b3deb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में टेक्स्ट को मर्ज करने का विकल्प क्या है?",
+      "options": [
+        "Merge & Center",
+        "Wrap Text",
+        "Text Align",
+        "Font Size"
+      ],
+      "correctIndex": 0,
+      "explanation": "Merge & Center का उपयोग MS Excel में सेल्स को मर्ज करने और टेक्स्ट को केंद्रित करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "cae86743-d1ca-5ecf-9a4f-dd3041f233d0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में में Encryption का क्या अर्थ है?",
+      "options": [
+        "डेटा को पढ़ने योग्य बनाना",
+        "डेटा को कोड में बदलना",
+        "डेटा को डिलीट करना",
+        "डेटा को कॉपी करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Encryption डेटा को कोड में बदलने की प्रक्रिया है, ताकि इसे अनधिकृत व्यक्ति न पढ़ें।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c8dc886e-1db3-5fa4-a024-0b7564c6bafb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा नेटवर्क डिवाइस है?",
+      "options": [
+        "Hub",
+        "Printer",
+        "Scanner",
+        "Monitor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hub एक नेटवर्क डिवाइस है, जो नेटवर्क में डिवाइस को जोड़ता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6ff7455d-f13c-5b58-b271-7a436638d781",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "RDBMS का पूर्ण रूप क्या है?",
+      "options": [
+        "Relational Database Management System",
+        "Rapid Database Management System",
+        "Regular Database Management System",
+        "Remote Database Management System"
+      ],
+      "correctIndex": 0,
+      "explanation": "RDBMS का पूर्ण रूप Relational Database Management System है, जो रिलेशनल डेटा को प्रबंध करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "227b77b2-e54f-592b-8db8-bc246ff5c8af",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS PowerPoint में Animation जोड़ने का विकल्प कहाँ होता है?",
+      "options": [
+        "Home Tab",
+        "Insert Tab",
+        "Animations Tab",
+        "Design Tab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Animations Tab में MS PowerPoint में Animation जोड़ने के विकल्प उपलब्ध होते हैं।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e4f03cf9-5c16-5264-8c15-0502b3097f88",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में में IP का क्या अर्थ है?",
+      "options": [
+        "Internet Protocol",
+        "Internal Protocol",
+        "International Protocol",
+        "Integrated Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "IP का अर्थ Internet Protocol है, जो नेटवर्क डेटा ट्रांसफर के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fa77f5c8-8e6d-5ea0-b7c1-f557810ee7e0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा डेटा बेस मॉडल है?",
+      "options": [
+        "Hierarchical",
+        "MP3",
+        "JPEG",
+        "TXT"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hierarchical एक डेटा बेस मॉडल है, जो डेटा को पेड़ जैसी संरचना में व्यवस्थित करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7d5e5825-ea5c-577b-aad7-3747946afd84",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में Page Break जोड़ने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + Enter",
+        "Ctrl + P",
+        "Ctrl + S",
+        "Ctrl + N"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ctrl + Enter का उपयोग MS Word में Page Break जोड़ने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b123bdea-1a17-5164-96a1-ac60abcb248d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में में Spyware क्या है?",
+      "options": [
+        "एक हार्डवेयर",
+        "एक मालवेयर",
+        "एक ऑपरेटिंग सिस्टम",
+        "एक डेटाबेस"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spyware एक मालवेयर है, जो उपयोगकर्ता की जानकारी चोरी करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4c4e8f3a-ba2a-598c-a490-0b380530e18e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा प्रोटोकॉल ईमेल भेजने के लिए उपयोग होता है?",
+      "options": [
+        "SMTP",
+        "FTP",
+        "HTTP",
+        "DNS"
+      ],
+      "correctIndex": 0,
+      "explanation": "SMTP (Simple Mail Transfer Protocol) ईमेल भेजने के लिए उपयोग होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "08ed6abb-fd85-5fc0-8f43-a67c5e8a0bae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में IF फंक्शन का उपयोग किसके लिए होता है?",
+      "options": [
+        "शर्त के आधार पर गणना",
+        "योग करने",
+        "औसत निकालने",
+        "अधिकतम मान निकालने"
+      ],
+      "correctIndex": 0,
+      "explanation": "IF फंक्शन का उपयोग MS Excel में शर्त के आधार पर गणना करने के लिए होता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "1ffc81c1-ae73-5dbf-899a-7f56f3343e85",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "CPU का पूरा नाम क्या है?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Program Unit",
+        "Computer Program Unit"
+      ],
+      "correctIndex": 0,
+      "explanation": "CPU का पूरा नाम Central Processing Unit है। यह कंप्यूटर का मस्तिष्क है जो सभी गणनाएं करता है।",
+      "subCategory": "हार्डवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "01dbe8ec-a811-52fc-8342-78851c4f8dd7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "RAM का उपयोग किस लिए किया जाता है?",
+      "options": [
+        "स्थायी डेटा संग्रहण",
+        "अस्थायी डेटा संग्रहण",
+        "डेटा प्रोसेसिंग",
+        "आउटपुट प्रदर्शन"
+      ],
+      "correctIndex": 1,
+      "explanation": "RAM (रैंडम एक्सेस मेमोरी) का उपयोग अस्थायी डेटा संग्रहण के लिए होता है, जो प्रोग्राम चलाने में मदद करता है।",
+      "subCategory": "हार्डवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "f949760b-7db3-57be-af50-b63f7b817e02",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एक ऑपरेटिंग सिस्टम है?",
+      "options": [
+        "एमएस वर्ड",
+        "विंडोज 10",
+        "फोटोशॉप",
+        "क्रोम"
+      ],
+      "correctIndex": 1,
+      "explanation": "विंडोज 10 एक ऑपरेटिंग सिस्टम है जो कंप्यूटर के हार्डवेयर और सॉफ्टवेयर को प्रबंधित करता है।",
+      "subCategory": "सॉफ्टवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7f605054-0f41-51be-ad67-a16c401ac3bd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट ब्राउज़ करने के लिए किसका उपयोग होता है?",
+      "options": [
+        "वेब ब्राउज़र",
+        "वर्ड प्रोसेसर",
+        "स्प्रेडशीट",
+        "डेटाबेस"
+      ],
+      "correctIndex": 0,
+      "explanation": "वेब ब्राउज़र, जैसे गूगल क्रोम या फायरफॉक्स, का उपयोग इंटरनेट पर वेबसाइट देखने के लिए होता है।",
+      "subCategory": "सॉफ्टवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a8c86b7b-d5b5-58ba-8de4-58647f947a93",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "1 बाइट में कितने बिट्स होते हैं?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 बाइट में 8 बिट्स होते हैं, जो डेटा की एक मूल इकाई है।",
+      "subCategory": "सामान्य कंप्यूटर ज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "bca72457-a2db-52d1-902e-397e7c37fb59",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "हार्ड डिस्क का मुख्य कार्य क्या है?",
+      "options": [
+        "डेटा प्रोसेसिंग",
+        "अस्थायी संग्रहण",
+        "स्थायी डेटा संग्रहण",
+        "आउटपुट प्रदर्शन"
+      ],
+      "correctIndex": 2,
+      "explanation": "हार्ड डिस्क का उपयोग डेटा को स्थायी रूप से संग्रहित करने के लिए होता है।",
+      "subCategory": "हार्डवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "3098a51f-3eb2-5980-b3aa-34258bc7ea24",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "WWW का पूरा नाम क्या है?",
+      "options": [
+        "वर्ल्ड वाइड वेब",
+        "वेब वर्ल्ड वाइड",
+        "वर्ल्ड वेब वर्क",
+        "वाइड वेब वर्ल्ड"
+      ],
+      "correctIndex": 0,
+      "explanation": "WWW का पूरा नाम वर्ल्ड वाइड वेब है, जो इंटरनेट पर वेबसाइटों का नेटवर्क है।",
+      "subCategory": "नेटवर्किंग",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7f851451-8b60-50b9-a97d-e5657fcc8134",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "USB का पूरा नाम क्या है?",
+      "options": [
+        "Universal Serial Bus",
+        "United Serial Bus",
+        "Universal System Bus",
+        "United System Bus"
+      ],
+      "correctIndex": 0,
+      "explanation": "USB का पूरा नाम Universal Serial Bus है, जो डेटा ट्रांसफर और डिवाइस कनेक्शन के लिए उपयोग होता है।",
+      "subCategory": "हार्डवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6079fb42-adcd-5f39-9c74-3672d391c6d2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा एक एप्लिकेशन सॉफ्टवेयर है?",
+      "options": [
+        "लिनक्स",
+        "एमएस एक्सेल",
+        "फायरवॉल",
+        "ड्राइवर"
+      ],
+      "correctIndex": 1,
+      "explanation": "एमएस एक्सेल एक एप्लिकेशन सॉफ्टवेयर है जो स्प्रेडशीट प्रबंधन के लिए उपयोग होता है।",
+      "subCategory": "सॉफ्टवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6f22f1ec-eddf-56d9-8215-438ca7acb1d9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में डेटा को अस्थायी रूप से स्टोर करने के लिए किस मेमोरी का उपयोग होता है?",
+      "options": [
+        "ROM",
+        "RAM",
+        "हार्ड डिस्क",
+        "SSD"
+      ],
+      "correctIndex": 1,
+      "explanation": "RAM (रैंडम एक्सेस मेमोरी) का उपयोग डेटा को अस्थायी रूप से स्टोर करने के लिए होता है।",
+      "subCategory": "हार्डवेयर",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "d4845a32-98c6-554d-aa65-d56b5fe3a69d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट कनेक्शन के लिए निम्नलिखित में से कौन सा उपकरण आवश्यक है?",
+      "options": [
+        "मॉडेम",
+        "प्रिंटर",
+        "मॉनिटर",
+        "कीबोर्ड"
+      ],
+      "correctIndex": 0,
+      "explanation": "मॉडेम इंटरनेट कनेक्शन स्थापित करने के लिए आवश्यक है क्योंकि यह नेटवर्क सिग्नल को डिजिटल डेटा में परिवर्तित करता है।",
+      "subCategory": "नेटवर्किंग",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a33d03a8-8617-58a2-8aea-0057c6169814",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "फाइल को व्यवस्थित करने के लिए कंप्यूटर में क्या उपयोग होता है?",
+      "options": [
+        "फोल्डर",
+        "प्रोग्राम",
+        "ड्राइवर",
+        "कैश"
+      ],
+      "correctIndex": 0,
+      "explanation": "फोल्डर का उपयोग फाइलों को व्यवस्थित और संग्रहित करने के लिए होता है।",
+      "subCategory": "सामान्य कंप्यूटर ज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "762e98a3-7905-5d74-acc4-15c1df2ba0dd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "HTTP का उपयोग किस लिए किया जाता है?",
+      "options": [
+        "डेटा स्टोरेज",
+        "वेब पेज ट्रांसफर",
+        "हार्डवेयर कनेक्शन",
+        "प्रोग्राम इंस्टॉलेशन"
+      ],
+      "correctIndex": 1,
+      "explanation": "HTTP (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल) का उपयोग वेब पेजों को इंटरनेट पर ट्रांसफर करने के लिए होता है।",
+      "subCategory": "नेटवर्किंग",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b390669a-fa5b-5b0b-b01b-c3be931b770d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "RAM का पूरा नाम क्या है?",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Rapid Access Memory",
+        "Real Access Memory"
+      ],
+      "correctIndex": 0,
+      "explanation": "RAM का पूरा नाम Random Access Memory है।",
+      "subCategory": "मेमोरी",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "93b97bbf-c86e-56d9-a379-ec3f58ed3d83",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट का आविष्कार कब हुआ?",
+      "options": [
+        "1969",
+        "1970",
+        "1971",
+        "1972"
+      ],
+      "correctIndex": 0,
+      "explanation": "इंटरनेट का आविष्कार 1969 में हुआ था।",
+      "subCategory": "इंटरनेट",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "246e44d9-7e84-5bc8-97db-57e21e4335f0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "HTML का पूरा नाम क्या है?",
+      "options": [
+        "HyperText Markup Language",
+        "High Text Markup Language",
+        "HyperText Machine Language",
+        "High Text Machine Language"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTML का पूरा नाम HyperText Markup Language है।",
+      "subCategory": "वेब टेक्नोलॉजी",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "26d9a4cc-94a5-54bb-bd3c-eb1499ac82ad",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    }
+  ]
+}
