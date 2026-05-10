@@ -1,0 +1,152 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-05-10T12:00:00Z",
+  "exams": [
+    {
+      "exam_id": "uksssc_2026",
+      "exam_name": "UKSSSC Exams",
+      "exam_name_hindi": "यूकेएसएसएससी 2026",
+      "description": "Group C, 12th Level, Graduate Level, Agriculture, etc.",
+      "status": "active"
+    },
+    {
+      "exam_id": "ukpsc_2026",
+      "exam_name": "UKPSC Prelims",
+      "exam_name_hindi": "यूकेपीएससी प्रीलिम्स 2026",
+      "description": "Lower & Upper PCS, RO/ARO, etc.",
+      "status": "active"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "graduate_level_2026",
+      "exam_id": "uksssc_2026",
+      "post_name": "Graduate Level (VDO/VPDO)",
+      "post_name_hindi": "स्नातक स्तरीय (VDO/VPDO)",
+      "total_questions": 100,
+      "duration_minutes": 120,
+      "syllabus_weights": {
+        "uttarakhand_gk": 40,
+        "general_hindi": 20,
+        "general_studies": 40
+      }
+    },
+    {
+      "post_id": "intermediate_level_2026",
+      "exam_id": "uksssc_2026",
+      "post_name": "12th Level / Intermediate",
+      "post_name_hindi": "12वीं स्तरीय (इंटरमीडिएट)",
+      "total_questions": 100,
+      "duration_minutes": 120,
+      "syllabus_weights": {
+        "uttarakhand_gk": 40,
+        "general_hindi": 20,
+        "general_studies": 40
+      }
+    },
+    {
+      "post_id": "krishi_level_2026",
+      "exam_id": "uksssc_2026",
+      "post_name": "Agriculture (Krishi)",
+      "post_name_hindi": "कृषि अधिकारी",
+      "total_questions": 100,
+      "duration_minutes": 120,
+      "syllabus_weights": {
+        "agriculture": 30,
+        "science": 10,
+        "uttarakhand_gk": 20,
+        "general_hindi": 20,
+        "general_studies": 20
+      }
+    },
+    {
+      "post_id": "pcs_prelims_2026",
+      "exam_id": "ukpsc_2026",
+      "post_name": "PCS Prelims (Upper/Lower)",
+      "post_name_hindi": "पीसीएस प्रीलिम्स",
+      "total_questions": 150,
+      "duration_minutes": 120,
+      "syllabus_weights": {
+        "uttarakhand_gk": 30,
+        "history": 20,
+        "geography": 20,
+        "polity": 20,
+        "economics": 20,
+        "science": 15,
+        "current_affairs": 25
+      }
+    }
+  ],
+  "subjects": [
+    {
+      "subject_id": "uttarakhand_gk",
+      "subject_name": "Uttarakhand GK",
+      "subject_name_hindi": "उत्तराखंड सामान्य ज्ञान",
+      "icon_data": "mountains",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "general_hindi",
+      "subject_name": "General Hindi",
+      "subject_name_hindi": "सामान्य हिंदी",
+      "icon_data": "book",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "general_studies",
+      "subject_name": "General Studies",
+      "subject_name_hindi": "सामान्य अध्ययन",
+      "icon_data": "public",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "agriculture",
+      "subject_name": "Agriculture",
+      "subject_name_hindi": "कृषि विज्ञान",
+      "icon_data": "grass",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "science",
+      "subject_name": "Science",
+      "subject_name_hindi": "सामान्य विज्ञान",
+      "icon_data": "science",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "history",
+      "subject_name": "History",
+      "subject_name_hindi": "इतिहास",
+      "icon_data": "history",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "geography",
+      "subject_name": "Geography",
+      "subject_name_hindi": "भूगोल",
+      "icon_data": "public",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "polity",
+      "subject_name": "Polity",
+      "subject_name_hindi": "राजनीति",
+      "icon_data": "gavel",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "economics",
+      "subject_name": "Economics",
+      "subject_name_hindi": "अर्थशास्त्र",
+      "icon_data": "trending_up",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "current_affairs",
+      "subject_name": "Current Affairs",
+      "subject_name_hindi": "सामयिकी",
+      "icon_data": "news",
+      "color_hex": "#1A1A2E"
+    }
+  ]
+}
