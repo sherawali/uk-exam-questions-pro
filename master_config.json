@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "updated_at": "2026-05-14T09:30:00Z",
+  "version": "1.0.3",
+  "updated_at": "2026-05-14T09:40:00Z",
   "exams": [
     {
       "exam_id": "uksssc_2026",
@@ -29,7 +29,12 @@
         "uttarakhand_gk": 40,
         "general_hindi": 20,
         "current_affairs": 10,
-        "general_studies": 30
+        "history": 6,
+        "polity": 6,
+        "geography": 6,
+        "economics": 4,
+        "computer": 4,
+        "science": 4
       }
     },
     {
@@ -43,7 +48,12 @@
         "uttarakhand_gk": 40,
         "general_hindi": 20,
         "current_affairs": 10,
-        "general_studies": 30
+        "history": 6,
+        "polity": 6,
+        "geography": 6,
+        "economics": 4,
+        "computer": 4,
+        "science": 4
       }
     },
     {
@@ -58,7 +68,10 @@
         "science": 10,
         "uttarakhand_gk": 20,
         "general_hindi": 20,
-        "general_studies": 20
+        "history": 5,
+        "polity": 5,
+        "geography": 5,
+        "economics": 5
       }
     },
     {
@@ -92,13 +105,6 @@
       "subject_name": "General Hindi",
       "subject_name_hindi": "सामान्य हिंदी",
       "icon_data": "book",
-      "color_hex": "#1A1A2E"
-    },
-    {
-      "subject_id": "general_studies",
-      "subject_name": "General Studies",
-      "subject_name_hindi": "सामान्य अध्ययन",
-      "icon_data": "public",
       "color_hex": "#1A1A2E"
     },
     {
