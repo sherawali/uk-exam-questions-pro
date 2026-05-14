@@ -1,6 +1,6 @@
 {
   "category": "Hindi",
-  "updated_at": "2026-05-14T10:05:00Z",
+  "updated_at": "2026-05-14 09:51:45",
   "questions": [
     {
       "question": "हिंदी में कुल कितनी विभक्तियाँ होती हैं?",
@@ -6555,6 +6555,2362 @@
       "tags": [
         "UK-EXAM-PRO",
         "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "हिंदी वर्णमाला में कुल कितने स्वर हैं?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctIndex": 1,
+      "explanation": "हिंदी वर्णमाला में कुल 11 स्वर हैं: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "a50e470d-9780-4ae7-980c-e95cb9310df1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अ' और 'आ' किस प्रकार के स्वर हैं?",
+      "options": [
+        "ह्रस्व स्वर",
+        "दीर्घ स्वर",
+        "प्लुत स्वर",
+        "संयुक्त स्वर"
+      ],
+      "correctIndex": 1,
+      "explanation": "'अ' और 'आ' मूल स्वर (अच्) हैं। 'अ' ह्रस्व है और 'आ' दीर्घ है, लेकिन दोनों मूल रूप से अच् वर्ण हैं।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "234075f7-c84a-4a84-a7a7-837f8771ac11",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "हिंदी में कुल कितने व्यंजन हैं?",
+      "options": [
+        "33",
+        "35",
+        "36",
+        "39"
+      ],
+      "correctIndex": 0,
+      "explanation": "हिंदी वर्णमाला में कुल 33 व्यंजन हैं।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "04170722-b3a7-460f-8790-bbe3e625d52f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'क', 'ख', 'ग', 'घ' किस वर्ग के अंतर्गत आते हैं?",
+      "options": [
+        "च वर्ग",
+        "ट वर्ग",
+        "क वर्ग",
+        "त वर्ग"
+      ],
+      "correctIndex": 2,
+      "explanation": "'क', 'ख', 'ग', 'घ', 'ङ' क वर्ग (कंठ्य) के अंतर्गत आते हैं।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "50957fe8-da0c-457d-b31d-bad3f55da738",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'ण' किस प्रकार का व्यंजन है?",
+      "options": [
+        "दंत्य",
+        "मूर्धन्य",
+        "तालव्य",
+        "ओष्ठ्य"
+      ],
+      "correctIndex": 1,
+      "explanation": "'ण' मूर्धन्य (retroflex) व्यंजन है। यह जीभ के मूर्धा (तालु के पीछे) से उच्चारित होता है।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "decf6065-25c5-4789-a2b2-aeac1020ae5d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'श', 'ष', 'स' किस प्रकार के व्यंजन हैं?",
+      "options": [
+        "स्पर्श",
+        "अनुनासिक",
+        "संघर्षी",
+        "उष्म"
+      ],
+      "correctIndex": 2,
+      "explanation": "'श', 'ष', 'स' संघर्षी (fricative) व्यंजन हैं जिन्हें उष्म व्यंजन भी कहा जाता है।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "cbf45f43-44d3-45b9-a81b-7dc63a7e3b4f",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'ऋ' किस प्रकार का स्वर है?",
+      "options": [
+        "ह्रस्व स्वर",
+        "दीर्घ स्वर",
+        "प्लुत स्वर",
+        "संयुक्त स्वर"
+      ],
+      "correctIndex": 0,
+      "explanation": "'ऋ' एक ह्रस्व स्वर है। इसका उच्चारण जीभ की मूर्धा से होता है।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "b396395d-2584-4783-af6f-c8eee1a7a772",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अनुस्वार' (ं) और 'विसर्ग' (ः) क्या हैं?",
+      "options": [
+        "स्वर",
+        "व्यंजन",
+        "आयुक्त चिह्न",
+        "विराम चिह्न"
+      ],
+      "correctIndex": 2,
+      "explanation": "अनुस्वार (ं) और विसर्ग (ः) आयुक्त चिह्न (diacritical marks) हैं जो स्वर या व्यंजन के साथ मिलकर उच्चारण बदलते हैं।",
+      "subCategory": "वर्ण (Varn)",
+      "questionType": "mcq",
+      "uuid": "49eea22b-78bf-4889-9932-c38bc3e5d948",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'देव' + 'ऋषि' = 'देवर्षि' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "विसर्ग संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "'देव' + 'ऋषि' = 'देवर्षि' में विसर्ग संधि है। 'व' + 'ऋ' = 'वृ' होकर विसर्ग लोप होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "6b311e47-4ad4-4622-8fa6-2e95a2458c78",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हिम' + 'आलय' = 'हिमालय' में कौन-सी संधि है?",
+      "options": [
+        "गुण संधि",
+        "वृद्धि संधि",
+        "यण संधि",
+        "दीर्घ संधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "'हिम' + 'आलय' = 'हिमालय' में गुण संधि है। 'अ' + 'आ' = 'आ' (दीर्घ) होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "f576e8d9-438c-4fdd-8a08-c5a1f434db70",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वाक्' + 'उदय' = 'वागुदय' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "विसर्ग संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 1,
+      "explanation": "'वाक्' + 'उदय' = 'वागुदय' में व्यंजन संधि है। 'क्' + 'उ' = 'गु' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "8e6b6048-ee17-484b-8c84-1889cc88a86a",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'न' + 'अयन' = 'नयन' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "यण संधि",
+        "दीर्घ संधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "'न' + 'अयन' = 'नयन' में स्वर संधि (विशेष रूप से लोप संधि) है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "590ad31a-1774-4da0-a575-ff4c7a8842f1",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वृक्ष' + 'उपरि' = 'वृक्षूपरि' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "विसर्ग संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 1,
+      "explanation": "'वृक्ष' + 'उपरि' = 'वृक्षूपरि' में व्यंजन संधि है। 'ष' + 'उ' = 'षू' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "64f6212a-6c6c-4c3b-a923-4955929e80c2",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'महा' + 'ईश्वर' = 'महेश्वर' में कौन-सी संधि hai?",
+      "options": [
+        "गुण संधि",
+        "वृद्धि संधि",
+        "यण संधि",
+        "दीर्घ संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "'महा' + 'ईश्वर' = 'महेश्वर' में यण संधि है। 'आ' + 'ई' = 'ए' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "773a3d0b-b57a-4905-a7eb-1115eda4c287",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सदा' + 'एव' = 'सदैव' में कौन-सी संधि है?",
+      "options": [
+        "गुण संधि",
+        "वृद्धि संधि",
+        "यण संधि",
+        "दीर्घ संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "'सदा' + 'एव' = 'सदैव' में यण संधि है। 'आ' + 'ए' = 'ऐ' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "8059fe9a-144c-4a4c-8a10-780c7616db5c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अ' + 'अ' = 'आ' किस संधि का नियम है?",
+      "options": [
+        "गुण संधि",
+        "वृद्धि संधि",
+        "यण संधि",
+        "दीर्घ संधि"
+      ],
+      "correctIndex": 3,
+      "explanation": "'अ' + 'अ' = 'आ' दीर्घ संधि का नियम है। समान स्वर मिलकर दीर्घ स्वर बनाते हैं।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "fffc610d-884c-44d2-b793-e4f9d4540ea8",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दूर' + 'दर्शन' = 'दूरदर्शन' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "विसर्ग संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 1,
+      "explanation": "'दूर' + 'दर्शन' = 'दूरदर्शन' में व्यंजन संधि (विसर्ग संधि का एक रूप) है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "181af5de-bbe5-404e-94b4-846be4dce6d3",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पुनः' + 'उदय' = 'पुनरुदय' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "विसर्ग संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "'पुनः' + 'उदय' = 'पुनरुदय' में विसर्ग संधि है। 'ः' + 'उ' = 'रु' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "a43c25ba-8e0a-4024-b80e-a94cc0f117af",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हरि' + 'इंद्र' = 'हरiंद्र' में कौन-सी संधि hai?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "यण संधि",
+        "अनुस्वार संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "'हरि' + 'इंद्र' = 'हरिंद्र' में यण संधि है। 'इ' + 'इ' = 'ई' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "cdaf6cb8-8cc6-4555-932a-202c0664b51c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सु' + 'उक्ति' = 'सूक्ति' में कौन-सी संधि है?",
+      "options": [
+        "गुण संधि",
+        "वृद्धि संधि",
+        "यण संधि",
+        "दीर्घ संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "'सु' + 'उक्ति' = 'सूक्ति' में यण संधि है। 'उ' + 'उ' = 'ऊ' होता है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "513ef463-2b8a-49a8-bace-1093b7dd9b87",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'राजपुरुष' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 0,
+      "explanation": "'राजा का पुरुष' = 'राजपुरुष'। यहाँ दूसरा पद प्रधान है, इसलिए तत्पुरुष समास है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "524463c3-e324-4664-8878-bcc0e80fda7d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'नीलकंठ' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 2,
+      "explanation": "'नीलकंठ' = जिसका कंठ नीला है। यहाँ समस्त पद विशेषण का काम करता है, इसलिए बहुव्रीहि समास है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "a521ef71-519e-4ef2-97df-f71bd6d690bb",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पंचतंत्र' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 3,
+      "explanation": "'पंच' (संख्या) + 'तंत्र' = 'पंचतंत्र'। जहाँ पहला पद संख्यावाचक हो, वहाँ द्विगु समास होता है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "89ae68ec-9df8-4f97-9e8b-f135d43df788",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'श्वेताश्व' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 1,
+      "explanation": "'श्वेत' + 'अश्व' = 'श्वेताश्व' (सफेद घोड़ा)। दोनों पद समान महत्त्व के हैं, इसलिए कर्मधारय समास है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "1d05b757-1237-4b65-9630-a91b733b84f9",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'चक्रपाणि' का समास-विग्रह क्या है?",
+      "options": [
+        "चक्र के पाणि",
+        "चक्र को पाणि",
+        "चक्र से पाणि",
+        "चक्र वाले पाणि"
+      ],
+      "correctIndex": 3,
+      "explanation": "'चक्रपाणि' = चक्र वाले हाथ वाला (भगवान विष्णु)। 'पाणि' में तृतीया तत्पुरुष समास है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "d6dd397c-4323-44bf-b679-593743375f9e",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अभ्रांग' में कौन-sa समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्वंद्व"
+      ],
+      "correctIndex": 2,
+      "explanation": "'अभ्रांग' = जिसका अंग अभ्र (बादल) के समान है। समस्त पद विशेषण है, इसलिए बहुव्रीहि समास।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "4977d40e-1891-4c2d-91a2-f6d341aafde6",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'द्वैत' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्वंद्व"
+      ],
+      "correctIndex": 3,
+      "explanation": "'द्वैत' = दो भिन्न पदार्थ। द्वंद्व समास में दोनों पद समान महत्त्व के होते हैं।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "f0d2e694-d7dc-4384-a8e0-66450b6617cd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मातृभाषा' में कौन-sa समास hai?",
+      "options": [
+        "षष्ठी तत्पुरुष",
+        "सप्तमी तत्पुरुष",
+        "तृतीया तत्पुरुष",
+        "चतुर्थी तत्पुरुष"
+      ],
+      "correctIndex": 0,
+      "explanation": "'माता की भाषा' = 'मातृभाषा'। षष्ठी विभक्ति का लोप होकर षष्ठी तत्पुरुष समास बना है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "2aca5944-7791-4cf3-b920-8db69a5e581c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'यथाशक्ति' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "अव्ययीभाव"
+      ],
+      "correctIndex": 3,
+      "explanation": "'यथा' (अव्यय) + 'शक्ति' = 'यथाशक्ति'। पहला पद अव्यय हो तो अव्ययीभाव समास होता है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "052bba93-deea-4450-8601-c7cced5c4059",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दशरथ' में कौन-sa समास hai?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 2,
+      "explanation": "'दशरथ' = जिसके रथ दस हैं। समस्त पद विशेषण है, इसलिए बहुव्रीहि समास।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "d900ed96-931a-40c6-b71c-c8a4e1fb55bf",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'त्रिभुवन' में कौन-sa समास hai?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 3,
+      "explanation": "'त्रि' (तीन) + 'भुवन' = 'त्रिभुवन'। संख्यावाचक पहला पद होने पर द्विगु समास।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "0e6976bb-ff24-4479-9652-2da42dc123ce",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हरiहर' में कौन-sa समास hai?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्वंद्व"
+      ],
+      "correctIndex": 3,
+      "explanation": "'हरiहर' = हरि और हर (विष्णु और शिव)। दो भिन्न पद समान महत्त्व से जुड़े हैं, इसलिए द्वंद्व समास।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "ec630b71-2d33-4797-8703-48081dd93e75",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'काली घटा घुमड़ आई' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "मानवीकरण"
+      ],
+      "correctIndex": 3,
+      "explanation": "'घुमड़ आई' मनुष्यों की क्रिया घटा को दी गई है। निर्जीव को सजीव की क्रिया देना मानवीकरण (Personification) है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "3a790282-194b-4e2d-aaa4-3acadde019c2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मुख कमल' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 1,
+      "explanation": "'मुख कमल' में मुख को कमल मान लिया गया है (सादृश्य के आधार पर एक का दूसरे में पूर्ण रूप से विलीन होना)। यह रूपक अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "efc6f6cf-7ebd-48e6-9584-d0ef0f14c75d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'चंद्रमा के समान मुख' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 0,
+      "explanation": "'के समान' उपma का चिह्न है। जहाँ सादृश्य दर्शाने के लिए 'सा', 'सम', 'वत्' आदि शब्द प्रयुक्त हों, वहाँ उपma अलंकार होता है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "3a3af7ef-10d6-4160-9e96-473a4f13ee4a",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह इतना गरीब है कि उसके पास धरती से आसमान जितना अंतर है' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 2,
+      "explanation": "यहाँ वस्तुस्थिति से अधिक वर्णन किया गया है। अत्यधिक अतिशयोक्ति (Hyperbole) अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "400d5809-7a41-4f05-8236-4401f50bee9b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हिमगिरि के समान हिमाचल' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 0,
+      "explanation": "'के समान' उपma चिह्न है। हिमाचल को हिमगिरि के समान कहा गया है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "9607702d-0ece-4d18-a8cc-3cd1b7cf64fd",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मुख चंद्रमा है' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 1,
+      "explanation": "'मुख चंद्रमा है' में उपma चिह्न नहीं है। सीधे मुख को चंद्रमा मान लिया गया है, इसलिए रूपक अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "b705f087-75d3-463a-b234-c1ddac75043f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वाणी अमृत है' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "मानवीकरण"
+      ],
+      "correctIndex": 1,
+      "explanation": "'वाणी अमृत है' में उपma चिह्न नहीं है। वाणी को सीधे अमृत मान लिया गया है, इसलिए रूपक अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "be622e73-9304-4040-83b0-ec401d6c707c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह गिरते-गिरते बचा' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 2,
+      "explanation": "'गिरते-गिरते बचा' में वस्तुस्थिति से अधिक अतिशयोक्ति है। यह अतिशयोक्ति अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "29259996-c7d2-481e-b700-2f9dfb0d3d8b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पंखों में बंधी आज़ादी' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 3,
+      "explanation": "'पंखों में बंधी आज़ादी' में विरोधाभास (Paradox) है क्योंकि पंख बंधे होने पर आज़ादी नहीं हो सकती। विरोधाभासी अर्थ सृजन।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "dd32f6ad-0e4d-4f6d-b25c-a52b7662bc43",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'नदी माँ की तरह सबको पालती है' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "मानवीकरण"
+      ],
+      "correctIndex": 3,
+      "explanation": "'नदी माँ की तरह सबको पालती है' में नदी को माँ की तरह सजीव मानकर मानवीकरण अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "927ee5b4-fe5d-4232-92f5-6b80c035ddd6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह इतना लंबा है कि आकाश को छू ले' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 2,
+      "explanation": "'आकाश को छू ले' अत्यधिक अतिशयोक्ति है। वास्तव में कोई इतना लंबा नहीं हो सकता।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "f68edd1f-4587-42ef-bfe5-ddcfc9f03bb1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मुख कमल के समान सुंदर है' में कौन-sa अलंकार hai?",
+      "options": [
+        "उपma",
+        "रूपक",
+        "अतिशयोक्ति",
+        "विरोधाभास"
+      ],
+      "correctIndex": 0,
+      "explanation": "'के समान' उपma चिह्न है। मुख की तुलना कमल से की गई है, इसलिए उपma अलंकार है।",
+      "subCategory": "अलंकार (Alankaar)",
+      "questionType": "mcq",
+      "uuid": "bd0b7851-1ecb-46f4-97ae-1747a8942808",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'गंगा' किस प्रकार की संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "भाववाचक",
+        "द्रव्यवाचक",
+        "व्यक्तिवाचक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'गंगा' एक विशिष्ट नदी का नाम है, इसलिए यह व्यक्तिवाचक संज्ञा (Proper Noun) है।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "a6d3bc8c-52c0-448a-83e8-21854bb52beb",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'ईर्ष्या' किस प्रकार की संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "भाववाचक",
+        "द्रव्यवाचक",
+        "व्यक्तिवाचक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'ईर्ष्या' एक भाव या अनुभूति का नाम है, इसलिए यह भाववाचक संज्ञा (Abstract Noun) है।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "a735d56e-ede5-47a2-bb3f-cf14b588aef5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सोना' किस प्रकार की संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "भाववाचक",
+        "द्रव्यवाचक",
+        "व्यक्तिवाचक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'सोना' एक धातु/द्रव्य का नाम है, इसलिए यह द्रव्यवाचक संज्ञा (Material Noun) है।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "6bb64f47-a78c-45e4-ad10-ed167e6fc2ec",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'कुत्ता' किस प्रकार की संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "भाववाचक",
+        "द्रव्यवाचक",
+        "व्यक्तिवाचक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'कुत्ता' एक जाति का नाम है, इसलिए यह जातिवाचक संज्ञा (Common Noun) hai।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "231ac074-40f2-4c00-b80d-d30d2d14b42a",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दलदल' किस प्रकार की संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "भाववाचक",
+        "द्रव्यवाचक",
+        "समूहवाचक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'दलदल' एक भाव या अवस्था का नाम है, इसलिए यह भाववाचक संज्ञा है।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "728fd1a8-48c5-4592-bf9c-2b12a05f51c9",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सेना' किस प्रकार की संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "भाववाचक",
+        "द्रव्यवाचक",
+        "समूहवाचक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'सेना' सैनिकों के समूह का नाम है, इसलिए यह समूहवाचक संज्ञा (Collective Noun) है।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "20b4042a-d005-4f08-bac7-a90eacc88963",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मैं' किस प्रकार का सर्वनाम hai?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "अनिश्चयवाचक",
+        "प्रश्नवाचक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'मैं' उत्तम पुरुष (first person) का सर्वनाम है, इसलिए पुरुषवाचक सर्वनाम।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "ec7f5275-e622-4bde-8e11-ba6ae55d95df",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'कोई' किस प्रकार का सर्वनाम hai?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "अनिश्चयवाचक",
+        "प्रश्नवाचक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'कोई' अनिश्चित व्यक्ति की ओर संकेत करता है, इसलिए अनिश्चयवाचक सर्वनाम (Indefinite Pronoun) है।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "63acdaa7-e6ec-4c0d-ab38-dfde68d800af",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'यह' किस प्रकार का सर्वनाम hai?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "अनिश्चयवाचक",
+        "प्रश्नवाचक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'यह' निश्चित वस्तु/व्यक्ति की ओर संकेत करता है, इसलिए निश्चयवाचक सर्वनाम (Demonstrative Pronoun) है।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "1846489b-4b36-4de9-89b3-b527051f999b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'क्या' किस प्रकार का सर्वनाम hai?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "अनिश्चयवाचक",
+        "प्रश्नवाचक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'क्या' प्रश्न पूछने में प्रयुक्त होता है, इसलिए प्रश्नवाचक सर्वनाम (Interrogative Pronoun) है।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "176238a4-271e-4ce6-9ec6-9092bfa79a47",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अपना' किस प्रकार का सर्वनाम hai?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "निजवाचक",
+        "प्रश्नवाचक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'अपना' स्वत्व या निजत्व बताता है, इसलिए निजवाचक सर्वनाम (Reflexive/Possessive Pronoun) है।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "e1b3b5f5-022c-40f9-8e61-4fa2439602f7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'जो' किस प्रकार का सर्वनाम hai?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "संबंधवाचक",
+        "प्रश्नवाचक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'जो' दो वाक्यों या वाक्यांशों में संबंध स्थापित करता है, इसलिए संबंधवाचक सर्वनाम (Relative Pronoun) है।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "f64927d7-5f52-4421-a426-a517c27c08dd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पहला' किस प्रकार का विशेषण hai?",
+      "options": [
+        "गुणवाचक",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'पहला' संख्या बताता है, इसलिए यह संख्यावाचक विशेषण (Numeral Adjective) है।",
+      "subCategory": "विशेषण (Adjective)",
+      "questionType": "mcq",
+      "uuid": "c847ad20-f787-41ae-b0a4-f70b788fa2bb",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सुंदर' किस प्रकार का विशेषण hai?",
+      "options": [
+        "गुणवाचक",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'सुंदर' गुण बताता है, इसलिए यह गुणवाचक विशेषण (Qualitative Adjective) है।",
+      "subCategory": "विशेषण (Adjective)",
+      "questionType": "mcq",
+      "uuid": "e335dd05-914d-4867-afe6-16eeadaf6862",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'कुछ' किस प्रकार का विशेषण hai?",
+      "options": [
+        "गुणवाचक",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "अनिश्चयवाचक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'कुछ' अनिश्चित मात्रा बताता है, इसलिए यह अनिश्चयवाचक विशेषण (Indefinite Adjective) है।",
+      "subCategory": "विशेषण (Adjective)",
+      "questionType": "mcq",
+      "uuid": "41141351-66a4-4b88-b3dd-c7c0a85fbfa4",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दो किलो' में किस प्रकार का विशेषण hai?",
+      "options": [
+        "गुणवाचक",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'दो किलो' माप/तौल बताता है, इसलिए यह परिमाणवाचक विशेषण (Quantitative Adjective) है।",
+      "subCategory": "विशेषण (Adjective)",
+      "questionType": "mcq",
+      "uuid": "789c05b6-cb29-4fc6-a3c7-7a92b951d4b6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मेरा' किस प्रकार का विशेषण hai?",
+      "options": [
+        "गुणवाचक",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'मेरा' सर्वनाम से बना है, इसलिए यह सार्वनामिक विशेषण (Pronominal Adjective) है।",
+      "subCategory": "विशेषण (Adjective)",
+      "questionType": "mcq",
+      "uuid": "2f9acb83-f649-423c-a45e-9252f9e6f7ea",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सोना' किस प्रकार की क्रिया hai?",
+      "options": [
+        "सकर्मक",
+        "अकर्मक",
+        "प्रेरणार्थक",
+        "नेवाचक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'सोना' में कर्म नहीं होता (वह सोता है), इसलिए यह अकर्मक क्रिया (Intransitive Verb) है।",
+      "subCategory": "क्रिया (Verb)",
+      "questionType": "mcq",
+      "uuid": "5b7f454d-e9bd-4d40-874b-348472a62ddb",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'खाना' किस प्रकार की क्रिया hai?",
+      "options": [
+        "सकर्मक",
+        "अकर्मक",
+        "प्रेरणार्थक",
+        "नेवाचक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'खाना' में कर्म होता है (रोटी खाना), इसलिए यह सकर्मक क्रिया (Transitive Verb) है।",
+      "subCategory": "क्रिया (Verb)",
+      "questionType": "mcq",
+      "uuid": "0f82a5bd-49e1-4fbb-a8cb-3a2a078542c2",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पढ़वाना' किस प्रकार की क्रिया hai?",
+      "options": [
+        "सकर्मक",
+        "अकर्मक",
+        "प्रेरणार्थक",
+        "नेवाचक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'पढ़वाना' में दूसरे से काम करवाया जाता है, इसलिए यह प्रेरणार्थक क्रिया (Causative Verb) है।",
+      "subCategory": "क्रिया (Verb)",
+      "questionType": "mcq",
+      "uuid": "6ebb98e1-5ec4-4cc7-92dc-e15ef8a8a1e9",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हंसना' किस प्रकार की क्रिया hai?",
+      "options": [
+        "सकर्मक",
+        "अकर्मक",
+        "प्रेरणार्थक",
+        "नेवाचक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'हंसना' में कर्म नहीं होता, इसलिए यह अकर्मक क्रिया है।",
+      "subCategory": "क्रिया (Verb)",
+      "questionType": "mcq",
+      "uuid": "c36857fe-58ce-4d27-8c64-205ed489104f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'जीतना' किस प्रकार की क्रिया hai?",
+      "options": [
+        "सकर्मक",
+        "अकर्मक",
+        "प्रेरणार्थक",
+        "नेवाचक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'जीतना' में कर्म होता है (मैच जीतना), इसलिए यह सकर्मक क्रिया है।",
+      "subCategory": "क्रिया (Verb)",
+      "questionType": "mcq",
+      "uuid": "336e89a2-8f66-4530-885a-17037946371b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मैंने खाया' में कौन-sa काल hai?",
+      "options": [
+        "सामान्य भूत",
+        "पूर्ण भूत",
+        "अपूर्ण भूत",
+        "संदिग्ध भूत"
+      ],
+      "correctIndex": 1,
+      "explanation": "'मैंने खाया' पूर्ण भूतकाल (Past Perfect Tense) है क्योंकि क्रिया पूर्ण हो चुकी है।",
+      "subCategory": "काल (Tense)",
+      "questionType": "mcq",
+      "uuid": "168c2b2f-1d21-4f92-bcae-b978b06e7382",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह खा रहा है' में कौन-sa काल hai?",
+      "options": [
+        "सामान्य वर्तमान",
+        "अपूर्ण वर्तमान",
+        "पूर्ण वर्तमान",
+        "संदिग्ध वर्तमान"
+      ],
+      "correctIndex": 1,
+      "explanation": "'वह खा रहा है' में क्रिया जारी है, इसलिए यह अपूर्ण वर्तमान काल (Present Continuous Tense) है।",
+      "subCategory": "काल (Tense)",
+      "questionType": "mcq",
+      "uuid": "f69ecea3-a1ba-4273-ad8c-7cef3df95566",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मैं खाऊँगा' में कौन-sa काल hai?",
+      "options": [
+        "सामान्य भविष्य",
+        "पूर्ण भविष्य",
+        "अपूर्ण भविष्य",
+        "संदिग्ध भविष्य"
+      ],
+      "correctIndex": 0,
+      "explanation": "'मैं खाऊँगा' सामान्य भविष्यत काल (Future Indefinite Tense) है।",
+      "subCategory": "काल (Tense)",
+      "questionType": "mcq",
+      "uuid": "fcb496ea-2bff-48ea-af8f-44676d0fe6a4",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह खा चुका होगा' में कौन-sa काल hai?",
+      "options": [
+        "सामान्य भविष्य",
+        "पूर्ण भविष्य",
+        "अपूर्ण भविष्य",
+        "संदिग्ध भविष्य"
+      ],
+      "correctIndex": 1,
+      "explanation": "'वह खा चुका होगा' पूर्ण भविष्यत काल (Future Perfect Tense) है क्योंकि भविष्य में क्रिया पूर्ण होने का अनुमान है।",
+      "subCategory": "काल (Tense)",
+      "questionType": "mcq",
+      "uuid": "4d53ae09-a89e-4c9a-968d-f3ef0afac4f7",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह खाता था' में कौन-sa काल hai?",
+      "options": [
+        "सामान्य भूत",
+        "पूर्ण भूत",
+        "अपूर्ण भूत",
+        "संदिग्ध भूत"
+      ],
+      "correctIndex": 2,
+      "explanation": "'वह खाता था' अपूर्ण भूतकाल (Past Continuous Tense) hai क्योंकि भूतकाल में क्रिया जारी थी।",
+      "subCategory": "काल (Tense)",
+      "questionType": "mcq",
+      "uuid": "ed142579-6362-4e55-a5e9-fec9b17fee27",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'बच्चा' का बहुवचन क्या hai?",
+      "options": [
+        "बच्चे",
+        "बच्चों",
+        "बच्चा",
+        "बच्चेन"
+      ],
+      "correctIndex": 0,
+      "explanation": "'बच्चा' का बहुवचन 'बच्चे' होता है।",
+      "subCategory": "वचन (Number)",
+      "questionType": "mcq",
+      "uuid": "7b122b36-6a00-4db5-a20e-63864b6639fb",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पुस्तक' का बहुवचन क्या hai?",
+      "options": [
+        "पुस्तकें",
+        "पुस्तकों",
+        "पुस्तक",
+        "पुस्तकेन"
+      ],
+      "correctIndex": 0,
+      "explanation": "'पुस्तक' का बहुवचन 'पुस्तकें' होता है।",
+      "subCategory": "वचन (Number)",
+      "questionType": "mcq",
+      "uuid": "90496367-4bff-449d-a19a-e0d34dece2d3",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'माला' का बहुवचन क्या hai?",
+      "options": [
+        "मालाएँ",
+        "मालाओं",
+        "माला",
+        "मालेन"
+      ],
+      "correctIndex": 0,
+      "explanation": "'माला' का बहुवचन 'मालाएँ' होता है।",
+      "subCategory": "वचन (Number)",
+      "questionType": "mcq",
+      "uuid": "d4e9bd16-0d04-4442-a2bd-9a344475064a",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दूध' का बहुवचन क्या hai?",
+      "options": [
+        "दूधें",
+        "दूधों",
+        "दूध",
+        "दूधेन"
+      ],
+      "correctIndex": 2,
+      "explanation": "'दूध' एक अविवाज्य संज्ञा है जिसका बहुवचन नहीं होता। इसलिए एकवचन और बहुवचन समान रहता है।",
+      "subCategory": "वचन (Number)",
+      "questionType": "mcq",
+      "uuid": "bd9dbc2b-3fc7-4835-8795-72f2c0f4cae3",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सिंह' का स्त्रीलिंग क्या hai?",
+      "options": [
+        "सिंहनी",
+        "सिंहा",
+        "सिंहिन",
+        "सिंहिका"
+      ],
+      "correctIndex": 0,
+      "explanation": "'सिंह' का स्त्रीलिंग 'सिंहनी' होता है।",
+      "subCategory": "लिंग (Gender)",
+      "questionType": "mcq",
+      "uuid": "381bb408-79ae-4266-a5ca-075e1e857885",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'गाय' का पुल्लिंग क्या hai?",
+      "options": [
+        "गो",
+        "बैल",
+        "गाया",
+        "गौ"
+      ],
+      "correctIndex": 1,
+      "explanation": "'गाय' का पुल्लिंग 'बैल' होता है।",
+      "subCategory": "लिंग (Gender)",
+      "questionType": "mcq",
+      "uuid": "2dfc7743-189d-4b49-8893-01965f0b0df2",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'नदी' किस लिंग का शब्द hai?",
+      "options": [
+        "पुल्लिंग",
+        "स्त्रीलिंग",
+        "उभयलिंग",
+        "नपुंसकलिंग"
+      ],
+      "correctIndex": 1,
+      "explanation": "'नदी' स्त्रीलिंग शब्द है।",
+      "subCategory": "लिंग (Gender)",
+      "questionType": "mcq",
+      "uuid": "ce692b6e-9b31-4758-bfbd-d79aa1b0ec75",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मित्र' किस लिंग का शब्द hai?",
+      "options": [
+        "पुल्लिंग",
+        "स्त्रीलिंग",
+        "उभयलिंग",
+        "नपुंसकलिंग"
+      ],
+      "correctIndex": 2,
+      "explanation": "'मित्र' उभयलिंग शब्द है जो पुल्लिंग और स्त्रीलिंग दोनों में प्रयुक्त होता है।",
+      "subCategory": "लिंग (Gender)",
+      "questionType": "mcq",
+      "uuid": "34910fc2-a589-4191-ba96-83a634134e21",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'राम ने फल खाया' में 'राम' किस कारक में hai?",
+      "options": [
+        "कर्ता कारक",
+        "कर्म कारक",
+        "करण कारक",
+        "संप्रदान कारक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'राम ने फल खाया' में 'राम' कर्ता कारक (Nominative Case) में है क्योंकि वह क्रिया करने वाला है।",
+      "subCategory": "कारक (Case)",
+      "questionType": "mcq",
+      "uuid": "8488b112-cbe1-4377-a3d1-99d2c894a246",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'राम को फल दो' में 'राम' किस कारक में hai?",
+      "options": [
+        "कर्ता कारक",
+        "कर्म कारक",
+        "करण कारक",
+        "संप्रदान कारक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'राम को फल दो' में 'राम' संप्रदान कारक (Dative Case) में है क्योंकि देने का लाभार्थी है।",
+      "subCategory": "कारक (Case)",
+      "questionType": "mcq",
+      "uuid": "c6881bec-e9db-4a25-872b-c3ea826783f2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'चाकू से काटो' में 'चाकू' किस कारक में hai?",
+      "options": [
+        "कर्ता कारक",
+        "कर्म कारक",
+        "करण कारक",
+        "अपादान कारक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'चाकू से काटो' में 'चाकू' करण कारक (Instrumental Case) में है क्योंकि यह साधन/औजार है।",
+      "subCategory": "कारक (Case)",
+      "questionType": "mcq",
+      "uuid": "19921f6f-38be-4cfb-8a24-bb14500cdc76",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'घर से आया' में 'घर' किस कारक में hai?",
+      "options": [
+        "कर्ता कारक",
+        "कर्म कारक",
+        "करण कारक",
+        "अपादान कारक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'घर से आया' में 'घर' अपादान कारक (Ablative Case) में है क्योंकि यह गमन/अलगाव का स्थान है।",
+      "subCategory": "कारक (Case)",
+      "questionType": "mcq",
+      "uuid": "a4dfbefe-5d0a-4bb5-a02d-9a1c07400648",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पेड़ पर पक्षी hai' में 'पेड़' किस कारक में hai?",
+      "options": [
+        "कर्ता कारक",
+        "कर्म कारक",
+        "अधिकरण कारक",
+        "संबंध कारक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'पेड़ पर पक्षी है' में 'पेड़' अधिकरण कारक (Locative Case) में है क्योंकि यह स्थान/आधार बताता है।",
+      "subCategory": "कारक (Case)",
+      "questionType": "mcq",
+      "uuid": "cd11c24d-9a7e-462a-9d58-f16b53f0b808",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अ' उपसर्ग का क्या अर्थ hai?",
+      "options": [
+        "बिना",
+        "साथ",
+        "अच्छा",
+        "बुरा"
+      ],
+      "correctIndex": 0,
+      "explanation": "'अ' उपसर्ग का अर्थ है बिना/नहीं। जैसे - अज्ञान (बिना ज्ञान का), अमर (न मरने वाला)।",
+      "subCategory": "उपसर्ग (Prefix)",
+      "questionType": "mcq",
+      "uuid": "3e4b42b2-1218-42c2-8535-161513e892bb",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सु' उपसर्ग का क्या अर्थ hai?",
+      "options": [
+        "बुरा",
+        "अच्छा",
+        "बड़ा",
+        "छोटा"
+      ],
+      "correctIndex": 1,
+      "explanation": "'सु' उपसर्ग का अर्थ है अच्छा। जैसे - सुपुत्र (अच्छा पुत्र), सुंदर (अच्छा देखने में)।",
+      "subCategory": "उपसर्ग (Prefix)",
+      "questionType": "mcq",
+      "uuid": "20d6dba9-1d80-4bde-8584-4084a5802995",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दुः' उपसर्ग का क्या अर्थ hai?",
+      "options": [
+        "अच्छा",
+        "बुरा/कठिन",
+        "बड़ा",
+        "छोटा"
+      ],
+      "correctIndex": 1,
+      "explanation": "'दुः' उपसर्ग का अर्थ है बुरा या कठिन। जैसे - दुःख (बुरा सुख), दुर्लभ (कठिन से लभ्य)।",
+      "subCategory": "उपसर्ग (Prefix)",
+      "questionType": "mcq",
+      "uuid": "343e9fc6-8687-431d-b0c9-99d4e6e47d6f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'प्र' उपसर्ग का क्या अर्थ hai?",
+      "options": [
+        "पीछे",
+        "आगे/विशेष",
+        "बिना",
+        "साथ"
+      ],
+      "correctIndex": 1,
+      "explanation": "'प्र' उपसर्ग का अर्थ है आगे या विशेष। जैसे - प्रथम (आगे), प्रसिद्ध (विशेष सिद्ध)।",
+      "subCategory": "उपसर्ग (Prefix)",
+      "questionType": "mcq",
+      "uuid": "e6fa509d-cc20-4b21-89f0-12470556cd47",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'परि' उपसर्ग का क्या अर्थ hai?",
+      "options": [
+        "अंदर",
+        "बाहर",
+        "चारों ओर",
+        "ऊपर"
+      ],
+      "correctIndex": 2,
+      "explanation": "'परि' उपसर्ग का अर्थ है चारों ओर। जैसे - परिभ्रमण (चारों ओर घूमना), परिचय (चारों ओर जानना)।",
+      "subCategory": "उपसर्ग (Prefix)",
+      "questionType": "mcq",
+      "uuid": "d3c6320c-d5b9-4a0d-946a-768ef805f41a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'लड़' + 'का' = 'लड़का' में कौन-sa प्रत्यय hai?",
+      "options": [
+        "ता",
+        "त्व",
+        "का",
+        "पन"
+      ],
+      "correctIndex": 2,
+      "explanation": "'लड़' में 'का' प्रत्यय जोड़ने से 'लड़का' बना है। 'का' संज्ञा बनाने वाला प्रत्यय है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "ccfb6a03-955a-4ccf-968f-aac267a636cc",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सच्चाई' में कौन-sa प्रत्यय hai?",
+      "options": [
+        "ता",
+        "त्व",
+        "पन",
+        "ई"
+      ],
+      "correctIndex": 3,
+      "explanation": "'सच' + 'ई' = 'सच्चाई'। 'ई' प्रत्यय भाववाचक संज्ञा बनाता है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "c0723145-9983-44e2-997c-234472b8e0bd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'बचपन' में कौन-sa प्रत्यय hai?",
+      "options": [
+        "ता",
+        "त्व",
+        "पन",
+        "ई"
+      ],
+      "correctIndex": 2,
+      "explanation": "'बच' + 'पन' = 'बचपन'। 'पन' प्रत्यय भाववाचक संज्ञा बनाता है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "97b9dd80-b7e4-42fc-9453-344b62846568",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मानवता' में कौन-sa प्रत्यय hai?",
+      "options": [
+        "ता",
+        "त्व",
+        "पन",
+        "ई"
+      ],
+      "correctIndex": 0,
+      "explanation": "'मानव' + 'ता' = 'मानवता'। 'ता' प्रत्यय भाववाचक संज्ञा बनाता है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "b10fc066-eb9e-4469-a2a2-025adebfdbd6",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पुत्रत्व' में कौन-sa प्रत्यय hai?",
+      "options": [
+        "ता",
+        "त्व",
+        "पन",
+        "ई"
+      ],
+      "correctIndex": 1,
+      "explanation": "'पुत्र' + 'त्व' = 'पुत्रत्व'। 'त्व' प्रत्यय संस्कृत मूल के शब्दों में लगकर भाववाचक संज्ञा बनाता है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "f58dd7ac-acc0-4195-a781-9e9d2e4aa67e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'आँखें चुराना' का अर्थ क्या hai?",
+      "options": [
+        "डरना",
+        "बचना/टालना",
+        "झूठ बोलना",
+        "रोना"
+      ],
+      "correctIndex": 1,
+      "explanation": "'आँखें चुराना' का अर्थ है बचना या टालna। जैसे - वह मुझसे आँखें चुराता है।",
+      "subCategory": "मुहावरे (Idioms)",
+      "questionType": "mcq",
+      "uuid": "a7e01281-34f3-4bc5-a1bb-17b2c2ab3328",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'नाक में दम करना' का अर्थ क्या hai?",
+      "options": [
+        "खुश करना",
+        "परेशान करना",
+        "मदद करना",
+        "सताना"
+      ],
+      "correctIndex": 1,
+      "explanation": "'नाक में दम करना' का अर्थ है बहुत परेशान करना।",
+      "subCategory": "मुहावरे (Idioms)",
+      "questionType": "mcq",
+      "uuid": "ebc20b08-e0b8-4260-b2ae-fdda6800543c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हाथ धोना' का अर्थ क्या hai?",
+      "options": [
+        "सफाई करना",
+        "काम छोड़ देना",
+        "मेहनत करना",
+        "कुछ नहीं करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "'हाथ धोना' का अर्थ है किसी काम से हाथ धो लेना यानी काम छोड़ देना।",
+      "subCategory": "मुहावरे (Idioms)",
+      "questionType": "mcq",
+      "uuid": "eb52f5e4-1897-4086-b18c-ae2efc6952cc",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दांत खट्टे करना' का अर्थ क्या hai?",
+      "options": [
+        "खाना",
+        "सिखाना/सबक देना",
+        "हंसना",
+        "रोना"
+      ],
+      "correctIndex": 1,
+      "explanation": "'दांत खट्टे करना' का अर्थ है सबक सिखाना या दुःख देना।",
+      "subCategory": "मुहावरे (Idioms)",
+      "questionType": "mcq",
+      "uuid": "a8a503a2-93c5-41c5-999a-9178f7d20eaa",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'कान में तेल डालना' का अर्थ क्या hai?",
+      "options": [
+        "सुनना",
+        "न सुनना/अनसुना करना",
+        "सफाई करना",
+        "मदद करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "'कान में तेल डालना' का अर्थ है किसी की बात न सुनना या अनसुना करना।",
+      "subCategory": "मुहावरे (Idioms)",
+      "questionType": "mcq",
+      "uuid": "0ee3f953-ba14-4c32-9d50-ba8c2776de12",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अग्नि' का तद्भव रूप क्या hai?",
+      "options": [
+        "अग्नि",
+        "आग",
+        "अगन",
+        "अंगार"
+      ],
+      "correctIndex": 1,
+      "explanation": "'अग्नि' तत्सम शब्द है और इसका तद्भव रूप 'आग' है।",
+      "subCategory": "तत्सम-तद्भव (Tatsam-Tadbhav)",
+      "questionType": "mcq",
+      "uuid": "119e6f5e-cf9f-4b6b-9de4-4ddd7049fbf3",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'मत्स्य' का तद्भव रूप क्या hai?",
+      "options": [
+        "मत्स्य",
+        "मछली",
+        "मीन",
+        "मीनार"
+      ],
+      "correctIndex": 1,
+      "explanation": "'मत्स्य' तत्सम शब्द है और इसका तद्भव रूप 'मछली' है।",
+      "subCategory": "तत्सम-तद्भव (Tatsam-Tadbhav)",
+      "questionType": "mcq",
+      "uuid": "b05ec5c0-4635-41ba-9733-97b19cdb3b4c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वृक्ष' का तद्भव रूप क्या hai?",
+      "options": [
+        "वृक्ष",
+        "वट",
+        "पेड़",
+        "तरु"
+      ],
+      "correctIndex": 2,
+      "explanation": "'वृक्ष' तत्सम शब्द है और इसका तद्भव रूप 'पेड़' है।",
+      "subCategory": "तत्सम-तद्भव (Tatsam-Tadbhav)",
+      "questionType": "mcq",
+      "uuid": "691710ba-4fb2-4f29-a415-3ec6f2b23a7e",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'चंद्र' का तद्भव रूप क्या hai?",
+      "options": [
+        "चंद्र",
+        "चांद",
+        "चंदा",
+        "चंद्रमा"
+      ],
+      "correctIndex": 1,
+      "explanation": "'चंद्र' तत्सम शब्द है और इसका तद्भव रूप 'चांद' है।",
+      "subCategory": "तत्सम-तद्भव (Tatsam-Tadbhav)",
+      "questionType": "mcq",
+      "uuid": "b4fbda8e-6465-4771-a141-a6b3c9165e9d",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सर्प' का तद्भव रूप क्या hai?",
+      "options": [
+        "सर्प",
+        "साँप",
+        "नाग",
+        "विषधर"
+      ],
+      "correctIndex": 1,
+      "explanation": "'सर्प' तत्सम शब्द है और इसका तद्भव रूप 'साँप' है।",
+      "subCategory": "तत्सम-तद्भव (Tatsam-Tadbhav)",
+      "questionType": "mcq",
+      "uuid": "3bc3d6c9-95dd-4a09-a21a-78f38a4fe30b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दिन' का पर्यायवाची शब्द क्या hai?",
+      "options": [
+        "रात्रि",
+        "दिवस",
+        "अंधकार",
+        "तारा"
+      ],
+      "correctIndex": 1,
+      "explanation": "'दिन' का पर्यायवाची 'दिवस' है। 'रात्रि' इसका विलोम है।",
+      "subCategory": "पर्यायवाची (Synonyms)",
+      "questionType": "mcq",
+      "uuid": "04e9425b-78d7-4a2a-af24-e0497976a739",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सुख' का विलोम शब्द क्या hai?",
+      "options": [
+        "आनंद",
+        "दुःख",
+        "हर्ष",
+        "प्रसन्नता"
+      ],
+      "correctIndex": 1,
+      "explanation": "'सुख' का विलोम 'दुःख' है।",
+      "subCategory": "विलोम (Antonyms)",
+      "questionType": "mcq",
+      "uuid": "cec203bb-700d-4c83-95ea-2a37cfec64e6",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पर्वत' का पर्यायवाची शब्द क्या hai?",
+      "options": [
+        "घाटी",
+        "पहाड़",
+        "नदी",
+        "तलहटी"
+      ],
+      "correctIndex": 1,
+      "explanation": "'पर्वत' का पर्यायवाची 'पहाड़' है। 'घाटी' इसका विपरीत अर्थ वाला शब्द है।",
+      "subCategory": "पर्यायवाची (Synonyms)",
+      "questionType": "mcq",
+      "uuid": "1df987f0-4e6d-45a6-b62a-2afc46485e88",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'जल' का पर्यायवाची शब्द क्या hai?",
+      "options": [
+        "अग्नि",
+        "पानी",
+        "वायु",
+        "पृथ्वी"
+      ],
+      "correctIndex": 1,
+      "explanation": "'जल' का पर्यायवाची 'पानी' है। 'अग्नि' इसका विलोम नहीं लेकिन विपरीत तत्व है।",
+      "subCategory": "पर्यायवाची (Synonyms)",
+      "questionType": "mcq",
+      "uuid": "dae7ba1e-b376-427d-b3a0-d122dfb6b71c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'कठिन' का विलोम शब्द क्या hai?",
+      "options": [
+        "कठोर",
+        "सरल",
+        "कठिनाई",
+        "कठोरता"
+      ],
+      "correctIndex": 1,
+      "explanation": "'कठिन' का विलोम 'सरल' है।",
+      "subCategory": "विलोम (Antonyms)",
+      "questionType": "mcq",
+      "uuid": "5c74ad12-0582-43b9-a094-c5bd383ad57b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-sa वाक्य शुद्ध hai?",
+      "options": [
+        "मैंने खाना खाया।",
+        "मैं खाना खाया।",
+        "मैं खाना खाता।",
+        "मैं खाना खाया हूँ।"
+      ],
+      "correctIndex": 0,
+      "explanation": "'मैंने खाना खाया' शुद्ध है। 'मैं खाना खाया' में कर्ता और क्रिया में असंगति है।",
+      "subCategory": "वाक्य शुद्धि (Sentence Correction)",
+      "questionType": "mcq",
+      "uuid": "b72f2d44-939d-40a7-b5aa-6f1ee85daa51",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-sa वाक्य शुद्ध hai?",
+      "options": [
+        "वह स्कूल जाता है।",
+        "वह स्कूल जा रहा।",
+        "वह स्कूल गया है।",
+        "वह स्कूल जायेगा।"
+      ],
+      "correctIndex": 0,
+      "explanation": "'वह स्कूल जाता है' शुद्ध है। अन्य विकल्पों में क्रिया के रूप में त्रुटि है।",
+      "subCategory": "वाक्य शुद्धि (Sentence Correction)",
+      "questionType": "mcq",
+      "uuid": "f388da47-6846-479c-b755-2558527279b4",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-sa वाक्य शुद्ध hai?",
+      "options": [
+        "मैंने उससे बात किया।",
+        "मैंने उससे बात की।",
+        "मैं उससे बात किया।",
+        "मैं उससे बात की।"
+      ],
+      "correctIndex": 1,
+      "explanation": "'मैंने उससे बात की' शुद्ध है। 'बात' स्त्रीलिंग है, इसलिए क्रिया 'की' होगी।",
+      "subCategory": "वाक्य शुद्धि (Sentence Correction)",
+      "questionType": "mcq",
+      "uuid": "27aa60aa-3f9b-430f-ae2c-a9eb242757e1",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-sa वाक्य शुद्ध hai?",
+      "options": [
+        "उसने किताब पढ़ी।",
+        "उसने किताब पढ़ा।",
+        "उसने किताब पढ़े।",
+        "उसने किताब पढ़ीं।"
+      ],
+      "correctIndex": 0,
+      "explanation": "'उसने किताब पढ़ी' शुद्ध है। 'किताब' स्त्रीलिंग है, इसलिए क्रिया 'पढ़ी' होगी।",
+      "subCategory": "वाक्य शुद्धि (Sentence Correction)",
+      "questionType": "mcq",
+      "uuid": "021e5738-5159-46aa-9b73-6695e620080f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-sa वाक्य शुद्ध hai?",
+      "options": [
+        "मैं बाजार गया।",
+        "मैं बाजार गई।",
+        "मैं बाजार गए।",
+        "मैं बाजार गया हूँ।"
+      ],
+      "correctIndex": 0,
+      "explanation": "'मैं बाजार गया' शुद्ध है (पुल्लिंग कर्ता के लिए)। यदि कर्ता स्त्रीलिंग हो तो 'गई' होगा।",
+      "subCategory": "वाक्य शुद्धि (Sentence Correction)",
+      "questionType": "mcq",
+      "uuid": "b28fe134-a221-48ed-9b65-bc92151795b4",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'यहाँ' किस प्रकार का अव्यय hai?",
+      "options": [
+        "संबंधबोधक",
+        "विभक्तिप्रतिनिधि",
+        "क्रियाविशेषण",
+        "समुच्चयबोधक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'यहाँ' स्थान बताता है, इसलिए यह क्रियाविशेषण अव्यय (Adverbial Indeclinable) है।",
+      "subCategory": "अव्यय (Indeclinable)",
+      "questionType": "mcq",
+      "uuid": "02d6cdb4-bc2e-4e52-b755-c62b39ffaa1b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'और' किस प्रकार का अव्यय hai?",
+      "options": [
+        "संबंधबोधक",
+        "विभक्तिप्रतिनिधि",
+        "क्रियाविशेषण",
+        "समुच्चयबोधक"
+      ],
+      "correctIndex": 3,
+      "explanation": "'और' दो वस्तुओं/व्यक्तियों को जोड़ता है, इसलिए यह समुच्चयबोधक अव्यय (Conjunctive Indeclinable) है।",
+      "subCategory": "अव्यय (Indeclinable)",
+      "questionType": "mcq",
+      "uuid": "30093d37-abcf-43c4-b49b-1b4e96220907",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'की' किस प्रकार का अव्यय hai?",
+      "options": [
+        "संबंधबोधक",
+        "विभक्तिप्रतिनिधि",
+        "क्रियाविशेषण",
+        "समुच्चयबोधक"
+      ],
+      "correctIndex": 0,
+      "explanation": "'की' संबंध बताता है, इसलिए यह संबंधबोधक अव्यय (Relational Indeclinable) है।",
+      "subCategory": "अव्यय (Indeclinable)",
+      "questionType": "mcq",
+      "uuid": "6a3d5360-9dde-4a83-9e97-934aadc26a9e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'बहुत' किस प्रकार का अव्यय hai?",
+      "options": [
+        "संबंधबोधक",
+        "विभक्तिप्रतिनिधि",
+        "क्रियाविशेषण",
+        "समुच्चयबोधक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'बहुत' मात्रा/परिमाण बताता है, इसलिए यह क्रियाविशेषण अव्यय है।",
+      "subCategory": "अव्यय (Indeclinable)",
+      "questionType": "mcq",
+      "uuid": "f3a1d84b-07e4-4f26-8115-6eb228a1cbb1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'में' किस प्रकार का अव्यय hai?",
+      "options": [
+        "संबंधबोधक",
+        "विभक्तिप्रतिनिधि",
+        "क्रियाविशेषण",
+        "समुच्चयबोधक"
+      ],
+      "correctIndex": 1,
+      "explanation": "'में' सप्तमी विभक्ति का कार्य करता है, इसलिए यह विभक्तिप्रतिनिधि अव्यय है।",
+      "subCategory": "अव्यय (Indeclinable)",
+      "questionType": "mcq",
+      "uuid": "ed4fc7bc-64c1-4b95-bc96-703b19ed27ca",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'फूल' किस प्रकार का शब्द hai?",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "विशेषण",
+        "क्रिया"
+      ],
+      "correctIndex": 0,
+      "explanation": "'फूल' एक वस्तु का नाम है, इसलिए यह संज्ञा शब्द है।",
+      "subCategory": "शब्द-भेद (Word Classification)",
+      "questionType": "mcq",
+      "uuid": "6b658e3a-b0f6-46b4-8070-64e7b87f527a",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'तुम' किस प्रकार का शब्द hai?",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "विशेषण",
+        "क्रिया"
+      ],
+      "correctIndex": 1,
+      "explanation": "'तुम' व्यक्ति की जगह प्रयुक्त होता है, इसलिए यह सर्वनाम शब्द है।",
+      "subCategory": "शब्द-भेद (Word Classification)",
+      "questionType": "mcq",
+      "uuid": "bfdee5b3-6e97-4305-8a67-194af0d860ac",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सुंदर' किस प्रकार का शब्द hai?",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "विशेषण",
+        "क्रिया"
+      ],
+      "correctIndex": 2,
+      "explanation": "'सुंदर' गुण बताता है, इसलिए यह विशेषण शब्द है।",
+      "subCategory": "शब्द-भेद (Word Classification)",
+      "questionType": "mcq",
+      "uuid": "1d086ac5-b503-4ca8-8758-071d1dda9de5",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'दौड़ना' किस प्रकार का शब्द hai?",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "विशेषण",
+        "क्रिया"
+      ],
+      "correctIndex": 3,
+      "explanation": "'दौड़ना' क्रिया का नाम है, इसलिए यह क्रिया शब्द है।",
+      "subCategory": "शब्द-भेद (Word Classification)",
+      "questionType": "mcq",
+      "uuid": "48d9276f-31bf-491c-8f12-c692aaa98df5",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'धीरे' किस प्रकार का शब्द hai?",
+      "options": [
+        "संज्ञा",
+        "सर्वनाम",
+        "विशेषण",
+        "अव्यय"
+      ],
+      "correctIndex": 3,
+      "explanation": "'धीरे' क्रिया की विशेषता बताता है और इसका रूप नहीं बदलता, इसलिए यह अव्यय है।",
+      "subCategory": "शब्द-भेद (Word Classification)",
+      "questionType": "mcq",
+      "uuid": "f7053672-c3be-40b5-9468-eb623958dfcc",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
       ]
     }
   ]
