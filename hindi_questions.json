@@ -1,6 +1,6 @@
 {
   "category": "Hindi",
-  "updated_at": "2026-05-14T09:40:00Z",
+  "updated_at": "2026-05-14T10:00:00Z",
   "questions": [
     {
       "question": "हिंदी में कुल कितनी विभक्तियाँ होती हैं?",
@@ -5320,6 +5320,291 @@
       "tags": [
         "UK-EXAM-PRO",
         "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा शब्द 'संज्ञा' (Noun) का उदाहरण है?",
+      "options": [
+        "सुंदर",
+        "दौड़ना",
+        "राम",
+        "और"
+      ],
+      "correctIndex": 2,
+      "explanation": "'राम' एक व्यक्ति का नाम है, इसलिए यह एक संज्ञा (Noun) है। 'सुंदर' विशेषण, 'दौड़ना' क्रिया और 'और' संबंधबोधक अव्यय है।",
+      "subCategory": "संज्ञा (Noun)",
+      "questionType": "mcq",
+      "uuid": "5db6e0a4-1426-4293-842a-0c749ba968f0",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'वह' शब्द किस प्रकार का सर्वनाम है?",
+      "options": [
+        "पुरुषवाचक सर्वनाम",
+        "निश्चयवाचक सर्वनाम",
+        "अनिश्चयवाचक सर्वनाम",
+        "प्रश्नवाचक सर्वनाम"
+      ],
+      "correctIndex": 0,
+      "explanation": "'वह' दूसरे व्यक्ति की ओर संकेत करता है, इसलिए यह पुरुषवाचक सर्वनाम (Demonstrative Pronoun) है।",
+      "subCategory": "सर्वनाम (Pronoun)",
+      "questionType": "mcq",
+      "uuid": "41d09531-07e8-481c-b893-2fae77cef0e5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा शब्द 'विशेषण' (Adjective) नहीं है?",
+      "options": [
+        "लाल",
+        "तीन",
+        "बच्चा",
+        "बड़ा"
+      ],
+      "correctIndex": 2,
+      "explanation": "'बच्चा' एक संज्ञा (Noun) है। 'लाल' (गुणवाचक), 'तीन' (संख्यावाचक) और 'बड़ा' (गुणवाचक) सभी विशेषण हैं।",
+      "subCategory": "विशेषण (Adjective)",
+      "questionType": "mcq",
+      "uuid": "18273290-b602-4229-a48b-35c4684be0bb",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'सुंदरता' शब्द में कौन-सा प्रत्यय लगा है?",
+      "options": [
+        "ता",
+        "त्व",
+        "पन",
+        "ई"
+      ],
+      "correctIndex": 0,
+      "explanation": "'सुंदर' में 'ता' प्रत्यय जोड़ने से 'सुंदरता' बना है। 'ता' प्रत्यय भाववाचक संज्ञा बनाता है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "f1990408-f013-48a6-b92e-2f26b5da5573",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा 'अव्यय' (Indeclinable) है?",
+      "options": [
+        "पुस्तक",
+        "धीरे",
+        "खुश",
+        "लड़का"
+      ],
+      "correctIndex": 1,
+      "explanation": "'धीरे' एक क्रियाविशेषण अव्यय है जो क्रिया की विशेषता बताता है और जिसका रूप नहीं बदलता।",
+      "subCategory": "अव्यय (Indeclinable)",
+      "questionType": "mcq",
+      "uuid": "2ee6ebe3-f117-4e2f-ba13-d2eb9470658b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'रामायण' में कौन-सी संधि है?",
+      "options": [
+        "स्वर संधि",
+        "व्यंजन संधि",
+        "विसर्ग संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "'राम' + 'अयण' = 'रामायण'। यहाँ 'अ' + 'अ' = 'आ' होकर स्वर संधि (दीर्घ संधि) का उदाहरण है।",
+      "subCategory": "संधि (Sandhi)",
+      "questionType": "mcq",
+      "uuid": "8e48fa2b-67a0-4423-a908-e86abd27ca39",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'नेपथ्य' शब्द का सही अर्थ क्या है?",
+      "options": [
+        "मंच के पीछे का स्थान",
+        "आकाश",
+        "पहाड़ी",
+        "न नदी"
+      ],
+      "correctIndex": 0,
+      "explanation": "'नेपथ्य' का अर्थ है मंच के पीछे का स्थान (Backstage) जहाँ कलाकार तैयार होते हैं।",
+      "subCategory": "शब्दार्थ (Vocabulary)",
+      "questionType": "mcq",
+      "uuid": "b893df90-349f-40e7-a079-b01a47ea8a2e",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'हितैषी' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "correctIndex": 2,
+      "explanation": "'हित' + 'एषी' = 'हितैषी'। जो हित चाहता है। यहाँ समस्त पद विशेषण का काम करता है, इसलिए बहुव्रीहि समास है।",
+      "subCategory": "समास (Compound)",
+      "questionType": "mcq",
+      "uuid": "f13a8e79-66d0-47a0-bab6-69801e4ee746",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा शब्द 'स्त्रीलिंग' (Feminine Gender) है?",
+      "options": [
+        "सिंह",
+        "घोड़ा",
+        "गाय",
+        "मोर"
+      ],
+      "correctIndex": 2,
+      "explanation": "'गाय' स्त्रीलिंग शब्द है। 'सिंह', 'घोड़ा' aur 'mor' pulling shabd hain.",
+      "subCategory": "लिंग (Gender)",
+      "questionType": "mcq",
+      "uuid": "21393f58-04cf-472c-a921-cf67dff2d3f6",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पढ़ता हूँ' में कौन-सा काल (Tense) है?",
+      "options": [
+        "भूतकाल",
+        "वर्तमान काल",
+        "भविष्यत काल",
+        "अनिश्चित काल"
+      ],
+      "correctIndex": 1,
+      "explanation": "'पढ़ता हूँ' वर्तमान समय की क्रिया को दर्शाता है, इसलिए यह सामान्य वर्तमान काल (Present Indefinite Tense) hai.",
+      "subCategory": "काल (Tense)",
+      "questionType": "mcq",
+      "uuid": "20b4ab6e-5e08-47cf-9e96-8ef19b571b68",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'अति' उपसर्ग किस अर्थ में प्रयुक्त होता है?",
+      "options": [
+        "कम",
+        "बहुत/अत्यधिक",
+        "अच्छा",
+        "बुरा"
+      ],
+      "correctIndex": 1,
+      "explanation": "'अति' उपसर्ग का अर्थ है बहुत, अत्यधिक या सीमा से अधिक। जैसे - अतिक्रमण, अतिरिक्त।",
+      "subCategory": "उपसर्ग (Prefix)",
+      "questionType": "mcq",
+      "uuid": "ac2baada-3589-4c13-ad5a-f6ec3203d6ce",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा 'मुहावरा' सही लिखा गया है?",
+      "options": [
+        "आँख दिखाना",
+        "आँख में धूल झोंकना",
+        "आँख लड़ाना",
+        "आँख चुराना"
+      ],
+      "correctIndex": 1,
+      "explanation": "'आँख में धूल झोंकना' सही मुहावरा है जिसका अर्थ है धोखा देना। 'आँख दिखाना' का अर्थ है डाँटना, 'आँख लड़ाना' का अर्थ है प्यार करना और 'आँख चुराना' का अर्थ है बचना/टालना।",
+      "subCategory": "मुहावरे (Idioms)",
+      "questionType": "mcq",
+      "uuid": "60f09e21-b842-4c1e-8080-89f4c8182e99",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'पीपल' शब्द का बहुवचन (Plural) क्या होगा?",
+      "options": [
+        "पीपलें",
+        "पीपल",
+        "पीपलों",
+        "पीपलियाँ"
+      ],
+      "correctIndex": 1,
+      "explanation": "'पीपल' एक अपवाद है जिसका एकवचन और बहुवचन समान रहता है। जैसे - एक पीपल, दो पीपल.",
+      "subCategory": "वचन (Number)",
+      "questionType": "mcq",
+      "uuid": "4b3d8d34-cdfa-4900-bbf3-196f72cb2faf",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'नेतृत्व' शब्द में कौन-sa pratyay hai?",
+      "options": [
+        "ता",
+        "त्व",
+        "पन",
+        "ई"
+      ],
+      "correctIndex": 1,
+      "explanation": "'नेता' + 'त्व' = 'नेतृत्व'। 'त्व' प्रत्यय संस्कृत मूल के शब्दों में लगकर भाववाचक संज्ञा बनाता है।",
+      "subCategory": "प्रत्यय (Suffix)",
+      "questionType": "mcq",
+      "uuid": "f02ddefd-aa9b-4bc2-a663-29290cd8b468",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "'देव' शब्द का तद्भव रूप क्या है?",
+      "options": [
+        "देवता",
+        "देवालय",
+        "देव",
+        "देब"
+      ],
+      "correctIndex": 2,
+      "explanation": "'देव' स्वयं तत्सम शब्द है। इसका तद्भव रूप हिंदी में प्रचलित नहीं है क्योंकि यह सीधे संस्कृत से लिया गया है। हालाँकि यदि विकल्प देखें तो 'देव' तत्सम रूप है।",
+      "subCategory": "तत्सम-तद्भव (Tatsam-Tadbhav)",
+      "questionType": "mcq",
+      "uuid": "50950fc5-6f76-40e0-bef6-170b90528101",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Grammar"
       ]
     }
   ]
