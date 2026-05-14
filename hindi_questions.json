@@ -1,6 +1,6 @@
 {
   "category": "Hindi",
-  "updated_at": "2026-05-14T10:00:00Z",
+  "updated_at": "2026-05-14T10:05:00Z",
   "questions": [
     {
       "question": "हिंदी में कुल कितनी विभक्तियाँ होती हैं?",
@@ -5605,6 +5605,956 @@
       "tags": [
         "UK-EXAM-PRO",
         "Hindi Grammar"
+      ]
+    },
+    {
+      "question": "हिंदी वर्णमाला में किस ध्वनि को 'काकल्य ध्वनि' (Kakalya) के नाम से जाना जाता है?",
+      "options": [
+        "श",
+        "ह",
+        "र",
+        "ल"
+      ],
+      "correctIndex": 1,
+      "explanation": "हिंदी में 'ह' को काकल्य (स्वरयंत्रमुखी) ध्वनि कहा जाता है। इसके उच्चारण में स्वरयंत्र (काकल) खुला रहता है और हवा बिना किसी अवरोध के सीधे बाहर निकलती है, केवल स्वरयंत्र में घर्षण होता है।",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "2a1e8e52-1f48-4395-b286-9a25b1c9443e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "उच्चारण की दृष्टि से 'य' और 'व' ध्वनियों को क्या कहा जाता है?",
+      "options": [
+        "अर्धस्वर",
+        "लुंठित",
+        "पार्श्विक",
+        "नासिक्य"
+      ],
+      "correctIndex": 0,
+      "explanation": "'य' और 'व' को हिंदी में 'अर्धस्वर' (Semi-vowels) कहा जाता है क्योंकि इनका उच्चारण कभी स्वर के समान होता है और कभी व्यंजन के समान।",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "4c8f258a-3e44-47b1-9f93-1b9c1d68a9f2",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "जिह्वा के उत्थापन (उठने) के आधार पर 'इ, ई, ए, ऐ' किस प्रकार के स्वर हैं?",
+      "options": [
+        "पश्च स्वर",
+        "मध्य स्वर",
+        "अग्र स्वर",
+        "विवृत स्वर"
+      ],
+      "correctIndex": 2,
+      "explanation": "जिन स्वरों के उच्चारण में जिह्वा का अग्र भाग (आगे का हिस्सा) ऊपर उठता है, उन्हें अग्र स्वर कहते हैं। 'इ, ई, ए, ऐ' अग्र स्वर के उदाहरण हैं।",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "f852b7b5-3d84-48ac-a337-b9c1f7a08331",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'अं' और 'अः' को आचार्य किशोरीदास वाजपेयी ने क्या नाम दिया है?",
+      "options": [
+        "संयुक्त स्वर",
+        "अयोगवाह",
+        "उत्क्षिप्त",
+        "द्विगुण"
+      ],
+      "correctIndex": 1,
+      "explanation": "आचार्य किशोरीदास वाजपेयी ने 'अं' (अनुस्वार) और 'अः' (विसर्ग) को 'अयोगवाह' कहा है, जिसका अर्थ है जो योग न होने पर भी साथ रहें। ये न तो पूर्ण स्वर हैं न ही पूर्ण व्यंजन।",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "6035f8e5-3d61-419b-ab87-0b13511b98f1",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से 'दन्तोष्ठ्य' (Dantoshthya) व्यंजन कौन सा है?",
+      "options": [
+        "प",
+        "म",
+        "व",
+        "य"
+      ],
+      "correctIndex": 2,
+      "explanation": "'व' एक दन्तोष्ठ्य व्यंजन है। इसके उच्चारण में निचले होंठ और ऊपरी दाँतों का स्पर्श होता है।",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "9a1bc40d-d90c-4c6e-8d96-c6a858102d4f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'उसी तपस्वी-से लम्बे थे, देवdaroo do char khade.' is pangti mein kaun sa alankar hai?",
+      "options": [
+        "upma",
+        "prateep",
+        "vyatirek",
+        "utpreksha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jahan prasiddh upman (devdaroo) ko upmey (tapasvi) bana diya jaye, wahan 'prateep' alankar hota hai.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "3213c49e-b2d2-4318-b80c-7b2c0df3b1e7",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Jahan karan ke bina hi karya ka hona bataya jaye, wahan kaun sa alankar hota hai?",
+      "options": [
+        "visheshokti",
+        "vibhawana",
+        "asangati",
+        "bhrantiman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vibhawana alankar mein bina karan ke karya hota hai.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "b6f578b8-b76e-4e4b-97c1-0c3d9b4b0ef5",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Drig urjhat tootat kutum, jurat chatur chit preeti.' In pangtiyon mein kaun sa alankar hai?",
+      "options": [
+        "virodhabhas",
+        "drishtant",
+        "asangati",
+        "nidarshana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jahan karan aur karya alag-alag sthanon par hon, wahan asangati alankar hota hai.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "7f738a5b-6f81-42e5-ac66-1c2105e4630a",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Jahan upmey mein upman ka sandeh utpann ho aur vah ant tak bana rahe, use kaun sa alankar kehte hain?",
+      "options": [
+        "bhrantiman",
+        "sandeh",
+        "utpreksha",
+        "rupak"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sandeh alankar mein anishchay ki sthiti ant tak bani rehti hai.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "d34fb0d6-1b48-4342-be43-ec5b8c731e5f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Naak ka moti adhar ki kanti se, beej dadim ka samajh kar bhranti se.' Isme kaun sa alankar hai?",
+      "options": [
+        "sandeh",
+        "prateep",
+        "bhrantiman",
+        "apahnuti"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yahan naak ke moti mein anar ke beej ka pakka bhram ho gaya hai.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "a8c909e7-5789-4e08-99d9-952467d3568c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Khechar' shabd mein kaun sa samas hai?",
+      "options": [
+        "avyayibhava",
+        "aluk tatpurush",
+        "karmadharay",
+        "nan tatpurush"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Khechar' ka arth hai aakash mein vicharan karne wala. Isme vibhakti ka lop nahi hua.",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "205a2df8-61d0-4dcb-b236-41951551a99d",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Kumbhkar' shabd mein tatpurush samas ka kaun sa bhed hai?",
+      "options": [
+        "karm tatpurush",
+        "karan tatpurush",
+        "uppad tatpurush",
+        "sampradan tatpurush"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jab uttar pad koi aisa kridant ho jo swatantra prayukt na hota ho, wahan uppad tatpurush hota hai.",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "4c8c7fdf-c0d1-4cb3-8d07-f1e16fdfdb5c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Inme se kis shabd mein 'Nan Tatpurush' samas hai?",
+      "options": [
+        "agyan",
+        "anuchar",
+        "nidar",
+        "pratikul"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jis samas mein purv pad nishedhatmak ho.",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "c015798e-49b5-4b5a-9b16-92d50e829d5b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Bailgadi' ka sahi samas vigrah kya hoga?",
+      "options": [
+        "bail aur gadi",
+        "bailon ke liye gadi",
+        "bail se khinchi jane wali gadi",
+        "bail ki gadi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bailgadi madhyampadlopi tatpurush ka udaharan hai.",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "f2ccf464-32b0-4e5b-b98a-7c9ff506822c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Barasingha' shabd mein kaun sa samas hai?",
+      "options": [
+        "dvigu",
+        "bahuvrihi",
+        "karmadharay",
+        "avyayibhava"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yadi pehla pad sankhyavachak hai, parantu yah shabd ek vishesh pashu ke liye rudh ho chuka hai.",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "04bb2e68-4ad0-4d40-b3b4-5cbe36f86dd6",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Swairini' shabd ka shuddh sandhi-vichhed kya hai?",
+      "options": [
+        "swa + irini",
+        "swai + rini",
+        "swa + eerini",
+        "swe + rini"
+      ],
+      "correctIndex": 2,
+      "explanation": "Swa + Eerini = Swairini. Yeh gun sandhi ka apwad hai.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "e86d2bc7-b8c2-4a0b-9df0-0b6be2a96a84",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Manokamna' shabd ka vyakaranik drishti se shuddh rup aur sandhi kya hogi?",
+      "options": [
+        "manah + kamna = manokamna",
+        "manah + kamna = manahkamna",
+        "man + kamna = mankamna",
+        "mano + kamna = manokamna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manah + Kamna = Manahkamna shuddh rup hai.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "d30fb289-4c8f-4ed3-a070-58c0ffdc6a8c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Ahoratra' shabd ka sahi sandhi-vichhed kya hai?",
+      "options": [
+        "aho + ratra",
+        "ahan + ratri",
+        "ahah + ratra",
+        "aham + ratri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ahan + Ratri = Ahoratra. Yeh vyanjan sandhi ka vishesh niyam hai.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "5d2b6354-9e87-43f0-827d-0af8f31b81cd",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Gavaksha' ka sahi sandhi-vichhed kaun sa hai?",
+      "options": [
+        "gav + aksha",
+        "go + aksha",
+        "gau + aksha",
+        "gawa + ksha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Go + Aksha = Gavaksha. Yeh ayadi sandhi ka apwad hai.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "9c14828a-8be5-4682-9f3b-6385d8365261",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Sanskar' shabd mein kaun si sandhi aur upasarg prayukt hua hai?",
+      "options": [
+        "sans + kar",
+        "sam + kar",
+        "san + kar",
+        "sa + skar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sam + Kar = Sanskar. Yeh vyanjan sandhi hai.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "5bc83cbe-5a9d-4876-b631-f2f2c8d2d6c1",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Sarkari kamkaj mein 'Prishthankan' (Endorsement) ka kya tatparya hai?",
+      "options": [
+        "patra ke piche sign",
+        "mool patra ki copy anya ko bhejna",
+        "patra lautana",
+        "sankshepan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prishthankan ka arth hai copy ko anya vibhagon ko bhejna.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "022b7a42-d636-4074-a690-e598de50a316",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Sarkari patrachar mein 'Alekhan' ya 'Praruphan' (Drafting) kise kehte hain?",
+      "options": [
+        "kacha masoda",
+        "final copy",
+        "sign lena",
+        "file band"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kacha masoda (Draft) taiyar karna Alekhan hai.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "b26ec580-2a82-4467-96a2-b91c0ff52516",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Ardh-shaskiya patra' (D.O. Letter) mein preshiti ka naam kahan likha jata hai?",
+      "options": [
+        "start mein right",
+        "end mein left",
+        "middle",
+        "subject ke upar"
+      ],
+      "correctIndex": 1,
+      "explanation": "D.O. Letter mein preshiti ka naam ant mein niche left mein hota hai.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "603f9dc2-e555-460d-9b19-efb4594c7c8c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Akhbaron mein sarkari faisle ki jankari janta tak pahunchane ke liye kya jari kiya jata hai?",
+      "options": [
+        "press vigyapti",
+        "office order",
+        "paripatra",
+        "anusmarak"
+      ],
+      "correctIndex": 0,
+      "explanation": "Press Vigyapti (Press Release) dwara janta ko suchit kiya jata hai.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "d3df0d00-4b13-43f9-ba22-1efc3a2a3e0b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Sarkari office mein internal matter (chutti, work etc) ke liye kis patra ka prayog hota hai?",
+      "options": [
+        "adhisuchana",
+        "karyalaya adesh",
+        "shaskiya patra",
+        "prastav"
+      ],
+      "correctIndex": 1,
+      "explanation": "Karyalaya Adesh (Office Order) ka prayog hota hai.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "5eb0624a-939e-4e4b-9e4f-40edb0922881",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Murgi ki ek taang' muhavre ka sahi arth kya hai?",
+      "options": [
+        "viklangta",
+        "apni hi baat par adde rehna",
+        "anokha jeev",
+        "haar manna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apni baat par adde rehna.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "9cf3a89e-2fc0-4d56-b072-a1b7346fb440",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Pet mein dadhi hona' muhavre ka arth hai:",
+      "options": [
+        "bimar hona",
+        "choti ayu mein chatur hona",
+        "mota hona",
+        "dhokebaaz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Choti ayu mein bahut chatur aur anubhavi hona.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "6da9151f-63e8-4221-82e7-5e9c0c883e30",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Sabzbag dikhana' muhavre ka arth:",
+      "options": [
+        "hariyali",
+        "jhuthe ashwasan dena",
+        "sayer karana",
+        "darana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jhuthe aur lubhavne ashwasan dena.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "76df513a-a131-413f-b648-5c4d0b0bcf9e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Udti chidiya pehchanna' muhavre ka arth:",
+      "options": [
+        "shikar",
+        "rahasya turant jaan lena",
+        "gyan hona",
+        "bhavishyavani"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rahasya ki baat turant jaan lena.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "20d86b51-71fb-41a6-b5b4-d53f86e3f429",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Paun barah hona' ka arth hai:",
+      "options": [
+        "bhari labh hona",
+        "nuksan",
+        "12 bajna",
+        "bhag jana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Charon aur se bhari labh hona.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "9de608ed-4b21-4b13-aec0-6e4769062b1b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Moonchh' ka sahi tatsam rup:",
+      "options": [
+        "shmashru",
+        "mrichhu",
+        "muchh",
+        "shwashru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shmashru shuddh tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "887a030c-5509-40ad-be00-e7f3747f4be4",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Devar' ka shuddh tatsam rup:",
+      "options": [
+        "dvitiyavar",
+        "dwivar",
+        "devvar",
+        "dauvar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dwivar (dusra var) tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "a793a6cf-be72-46cc-abae-34e87d472288",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Bhojai' ya 'Bhabhi' ka tatsam rup:",
+      "options": [
+        "bhratri-jaya",
+        "bhratri-patni",
+        "bhratri-vadhu",
+        "bhratri-jiya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bhratri-jaya tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "8e370422-b5e0-47b7-bf8a-a4e9b977bc6d",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Makkhan' ka tatsam rup:",
+      "options": [
+        "makkhan",
+        "makhan",
+        "mrakshan",
+        "manthan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mrakshan tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "e81d8bb0-038c-4a35-ba58-dd1bb8fbceb8",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Banka' shabd ka tatsam rup:",
+      "options": [
+        "vakra",
+        "bank",
+        "banka",
+        "vajra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vakra tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "e79e5e34-56b3-4f9e-a895-7b58c5a93d39",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Saas' ka tatsam rup:",
+      "options": [
+        "shwashur",
+        "swasa",
+        "shwashru",
+        "shaas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shwashru tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "0f63a436-1e66-4191-881b-a459392c68f6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Vyanjan ko 'Lundhit' ya 'Prakampit' dhwani kaha jata hai:",
+      "options": [
+        "l",
+        "r",
+        "da",
+        "sha"
+      ],
+      "correctIndex": 1,
+      "explanation": "'r' lundhit dhwani hai.",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "3048866a-1133-40e9-be64-77f68c346bc7",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Pranatva ke adhar par vyanjan ke do bhed:",
+      "options": [
+        "saghosh-aghosh",
+        "alppran-mahapran",
+        "sparsh-antastha",
+        "anunasik"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alppran aur Mahapran bhed hain.",
+      "subCategory": "वर्ण",
+      "questionType": "mcq",
+      "uuid": "6688fde6-6799-4c12-a1f2-1dcd1b3bc224",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Yeh mukh nahi chandrama hai' - alankar:",
+      "options": [
+        "rupak",
+        "utpreksha",
+        "apahnuti",
+        "vyatirek"
+      ],
+      "correctIndex": 2,
+      "explanation": "Apahnuti alankar jahan upmey ka nishedh ho.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "60e98ff7-5ed2-45e0-bdf1-3f62241b1d7d",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Neeri bhare nit prati rahen, tau na pyas bujhai.' - alankar:",
+      "options": [
+        "vibhawana",
+        "visheshokti",
+        "asangati",
+        "virodhabhas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Visheshokti jahan karan hone par bhi karya na ho.",
+      "subCategory": "alankar",
+      "questionType": "mcq",
+      "uuid": "20a8ff24-81eb-47eb-ba6c-2f4cdcd5e09d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Kankata' shabd ka sahi vigrah:",
+      "options": [
+        "kaan ko katne wala",
+        "kaan kata hai jiska",
+        "kaan aur kata",
+        "kaan se kata"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaan kata hai jiska (Bahuvrihi).",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "88ef2dc1-c5af-4d56-b0ff-27a3c391bbbe",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Latabhawan' shabd mein samas:",
+      "options": [
+        "tatpurush",
+        "karmadharay",
+        "bahuvrihi",
+        "dvigu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lata rupi bhawan (Karmadharay).",
+      "subCategory": "samas",
+      "questionType": "mcq",
+      "uuid": "261fb5e7-2b7e-40cd-8e4f-ff92a1cf9a91",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Nih + rav' ki sahi sandhi:",
+      "options": [
+        "nirv",
+        "nirav",
+        "neerav",
+        "nishrav"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nih + Rav = Neerav.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "efd69784-0aeb-4796-905c-d2320b9e83cf",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Shirachhed' shabd ka sandhi-vichhed:",
+      "options": [
+        "shirah + chhed",
+        "shir + chhed",
+        "shira + chhed",
+        "shiro + chhed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shirah + Chhed = Shirachhed.",
+      "subCategory": "sandhi",
+      "questionType": "mcq",
+      "uuid": "304917a0-03fa-4d04-bfdc-33dc08e332de",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Sarkari office mein 'Ashaskiya Tippani' (U.O. Note) ka prayog:",
+      "options": [
+        "govt aur janta",
+        "internal poochtach",
+        "court aur police",
+        "intl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal poochtach ke liye U.O. Note.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "43916295-8a21-4f10-ae49-1ff025c8ee70",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "Kis patra mein 'Bhavdiya' ka prayog nahi hota:",
+      "options": [
+        "shaskiya",
+        "vyaparik",
+        "ardh-shaskiya",
+        "avedan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ardh-shaskiya mein 'Apka' ya 'Sadbhavi' hota hai.",
+      "subCategory": "patra lekhan",
+      "questionType": "mcq",
+      "uuid": "cc92fbe0-760f-488b-b8c7-43a991f86981",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Khoon safed ho jana' muhavre ka arth:",
+      "options": [
+        "rakt kami",
+        "dar jana",
+        "daya-maya na rehna",
+        "mrityu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Daya-maya na rehna.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "8b082bb7-789a-4c22-b5e0-9bc24563a6f7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Kauwa chala hans ki chaal' ka arth:",
+      "options": [
+        "asambhav",
+        "andhanukaran",
+        "dhire chalna",
+        "murkhta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ayogya dwara yogya ki nakal.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "bcfbf743-982c-47fc-b1cf-ca5a770a35db",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Chhati ka dudh yaad aana' muhavre ka arth:",
+      "options": [
+        "bachpan",
+        "khushi",
+        "ghor sankat ya kasht",
+        "dudh pina"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ghor sankat mein padna.",
+      "subCategory": "muhavre",
+      "questionType": "mcq",
+      "uuid": "562cc472-a07a-4c91-a18a-92803b9bde76",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
+      ]
+    },
+    {
+      "question": "'Sendh' shabd ka sahi tatsam rup:",
+      "options": [
+        "sandhika",
+        "sandhi",
+        "send",
+        "sendhwa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sandhi tatsam hai.",
+      "subCategory": "tatsam-tadbhav",
+      "questionType": "mcq",
+      "uuid": "0a68d712-4f38-4e4c-bdf6-b7ff8ed0f379",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi Vyakaran"
       ]
     }
   ]
