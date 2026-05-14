@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-05-10T12:00:00Z",
+  "version": "1.0.1",
+  "updated_at": "2026-05-14T09:15:00Z",
   "exams": [
     {
       "exam_id": "uksssc_2026",
@@ -28,7 +28,8 @@
       "syllabus_weights": {
         "uttarakhand_gk": 40,
         "general_hindi": 20,
-        "general_studies": 40
+        "current_affairs": 10,
+        "general_studies": 30
       }
     },
     {
@@ -41,7 +42,8 @@
       "syllabus_weights": {
         "uttarakhand_gk": 40,
         "general_hindi": 20,
-        "general_studies": 40
+        "current_affairs": 10,
+        "general_studies": 30
       }
     },
     {
