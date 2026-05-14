@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "updated_at": "2026-05-14T09:15:00Z",
+  "version": "1.0.2",
+  "updated_at": "2026-05-14T09:30:00Z",
   "exams": [
     {
       "exam_id": "uksssc_2026",
@@ -102,6 +102,27 @@
       "color_hex": "#1A1A2E"
     },
     {
+      "subject_id": "reasoning",
+      "subject_name": "Reasoning",
+      "subject_name_hindi": "तर्कशक्ति",
+      "icon_data": "psychology",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "computer",
+      "subject_name": "Computer",
+      "subject_name_hindi": "कंप्यूटर",
+      "icon_data": "computer",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "math",
+      "subject_name": "Mathematics",
+      "subject_name_hindi": "गणित",
+      "icon_data": "calculate",
+      "color_hex": "#1A1A2E"
+    },
+    {
       "subject_id": "agriculture",
       "subject_name": "Agriculture",
       "subject_name_hindi": "कृषि विज्ञान",
@@ -148,6 +169,13 @@
       "subject_name": "Current Affairs",
       "subject_name_hindi": "सामयिकी",
       "icon_data": "news",
+      "color_hex": "#1A1A2E"
+    },
+    {
+      "subject_id": "environment",
+      "subject_name": "Environment",
+      "subject_name_hindi": "पर्यावरण",
+      "icon_data": "eco",
       "color_hex": "#1A1A2E"
     }
   ]
