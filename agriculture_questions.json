@@ -1,0 +1,104 @@
+{
+  "category": "Agriculture",
+  "lastUpdated": "2026-05-31T16:22:45.872162",
+  "version": "1.0",
+  "totalQuestions": 6,
+  "questions": [
+    {
+      "question": "धान की खेती के लिए सर्वोत्तम मिट्टी कौन सी है?",
+      "options": [
+        "दोमट मिट्टी",
+        "काली मिट्टी",
+        "चिकनी मिट्टी",
+        "रेतीली मिट्टी"
+      ],
+      "correctIndex": 2,
+      "explanation": "धान के लिए पानी रोकने की क्षमता वाली भारी चिकनी मिट्टी सर्वोत्तम मानी जाती है।",
+      "questionType": "mcq",
+      "subCategory": "मृदा विज्ञान",
+      "difficulty": "Easy",
+      "uuid": "9f0110a5-9a17-537f-b958-eb21c0a7ea15",
+      "updated_at": "2026-05-31T16:22:45.872119"
+    },
+    {
+      "question": "खैरा रोग (Khaira disease) किस तत्व की कमी से होता है?",
+      "options": [
+        "मैग्नीशियम",
+        "जस्ता (Zinc)",
+        "पोटेशियम",
+        "नाइट्रोजन"
+      ],
+      "correctIndex": 1,
+      "explanation": "धान में खैरा रोग जस्ता (Zinc) की कमी के कारण होता है।",
+      "questionType": "mcq",
+      "subCategory": "पादप रोग",
+      "difficulty": "Medium",
+      "uuid": "c9ee4e21-17a0-50cd-865c-73037d043964",
+      "updated_at": "2026-05-31T16:22:45.872130"
+    },
+    {
+      "question": "फसलों का राजा किसे कहा जाता है?",
+      "options": [
+        "गेहूं",
+        "धान",
+        "आम",
+        "मक्का"
+      ],
+      "correctIndex": 0,
+      "explanation": "खाद्यान्न फसलों में गेहूं को फसलों का राजा कहा जाता है।",
+      "questionType": "mcq",
+      "subCategory": "फसलों का वर्गीकरण",
+      "difficulty": "Easy",
+      "uuid": "37ba627b-2456-58af-9af8-628bc42018ab",
+      "updated_at": "2026-05-31T16:22:45.872138"
+    },
+    {
+      "question": "श्वेत क्रांति (White Revolution) का संबंध किससे है?",
+      "options": [
+        "दुग्ध उत्पादन",
+        "अंडा उत्पादन",
+        "गेहूं उत्पादन",
+        "मछली पालन"
+      ],
+      "correctIndex": 0,
+      "explanation": "श्वेत क्रांति का संबंध दुग्ध उत्पादन बढ़ाने से है, जिसके जनक वर्गीज कुरियन थे।",
+      "questionType": "mcq",
+      "subCategory": "कृषि क्रांतियां",
+      "difficulty": "Easy",
+      "uuid": "8f373179-5e3c-59c3-821f-75142680db9d",
+      "updated_at": "2026-05-31T16:22:45.872145"
+    },
+    {
+      "question": "उत्तराखंड में सेब की सबसे प्रसिद्ध किस्म कौन सी है?",
+      "options": [
+        "रेड डिलीशियस",
+        "गोल्डन डिलीशियस",
+        "मैकिन्टोश",
+        "रॉयल डिलाइट"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में रेड डिलीशियस किस्म का सेब सर्वाधिक लोकप्रिय है।",
+      "questionType": "mcq",
+      "subCategory": "बागवानी",
+      "difficulty": "Easy",
+      "uuid": "a5d43499-3504-5889-b131-fcc96fd57e7d",
+      "updated_at": "2026-05-31T16:22:45.872152"
+    },
+    {
+      "question": "कृषि वर्ष (Agricultural Year) की अवधि क्या होती है?",
+      "options": [
+        "1 अप्रैल से 31 मार्च",
+        "1 जुलाई से 30 जून",
+        "1 जनवरी से 31 दिसंबर",
+        "1 जून से 31 मई"
+      ],
+      "correctIndex": 1,
+      "explanation": "भारत में कृषि वर्ष 1 जुलाई से शुरू होकर 30 जून तक चलता है।",
+      "questionType": "mcq",
+      "subCategory": "कृषि चक्र",
+      "difficulty": "Medium",
+      "uuid": "4d163b59-108e-5020-bf56-fdc76f386620",
+      "updated_at": "2026-05-31T16:22:45.872160"
+    }
+  ]
+}
