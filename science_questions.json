@@ -1,6 +1,6 @@
 {
   "category": "Science",
-  "updated_at": "2026-05-10T17:19:13.324167",
+  "updated_at": "2026-05-31T16:40:00.000000",
   "questions": [
     {
       "question": "न्यूटन के गति के प्रथम नियम को अन्य किस नाम से जाना जाता है?",
@@ -1853,7 +1853,7 @@
         "दोनों गलत हैं"
       ],
       "correctIndex": 2,
-      "explanation": "दोनों कथन सही हैं। ये प्रकाश के परावर्तन के दो मौलिक नियम हैं: (1) ∠i = ∠r, और (2) आपतित किरण, परावर्तित किरण और सतह पर आपतन बिंदु पर ख<think>ा गया अभिलंब सभी एक ही समतल में स्थित होते हैं।",
+      "explanation": "दोनों कथन सही हैं। ये प्रकाश के परावर्तन के दो मौलिक नियम हैं: (1) ∠i = ∠r, और (2) आपतित किरण, परावर्तित किरण और सतह पर आपतन बिंदु पर खींचा गया अभिलंब सभी एक ही समतल में स्थित होते हैं।",
       "questionType": "mcq",
       "subCategory": "Physics",
       "examTarget": [
@@ -2053,103 +2053,6977 @@
       ]
     },
     {
-      "question": "मानव शरीर में रक्तचाप (Blood Pressure) को नियंत्रित करने वाली ग्रंथि कौन सी है?",
+      "question": "'बल' का SI मात्रक क्या है?",
       "options": [
-        "एड्रिनल ग्रंथि (Adrenal Gland)",
-        "थायराइड ग्रंथि",
-        "थाइमस ग्रंथि",
-        "पीयूष ग्रंथि"
+        "न्यूटन",
+        "वाट",
+        "जूल",
+        "पास्कल"
       ],
       "correctIndex": 0,
-      "explanation": "एड्रिनल ग्रंथि (अधिवृक्क ग्रंथि) एड्रेनालाईन हार्मोन स्रावित करती है जो रक्तचाप और हृदय गति को नियंत्रित करने में मदद करता है।",
-      "questionType": "mcq",
-      "subCategory": "जीव विज्ञान",
-      "difficulty": "Medium",
-      "uuid": "3a7f68a8-0e3c-54bf-ab06-3a2319c73524",
-      "updated_at": "2026-05-31T16:22:42.948082"
-    },
-    {
-      "question": "ध्वनि की तीव्रता (Loudness of Sound) मुख्य रूप से ध्वनि तरंग के किस गुण पर निर्भर करती है?",
-      "options": [
-        "आयाम (Amplitude)",
-        "आवृत्ति (Frequency)",
-        "तरंगदैर्ध्य",
-        "वेग"
-      ],
-      "correctIndex": 0,
-      "explanation": "ध्वनि की तीव्रता उसके आयाम (Amplitude) के वर्ग के समानुपाती होती है। तारत्व (Pitch) आवृत्ति पर निर्भर करता है।",
-      "questionType": "mcq",
-      "subCategory": "भौतिक विज्ञान",
-      "difficulty": "Medium",
-      "uuid": "9ca3f504-68d4-52d1-9dab-e5d1572358c6",
-      "updated_at": "2026-05-31T16:22:42.948099"
-    },
-    {
-      "question": "जंग लगने से बचाने के लिए लोहे पर जस्ते (Zinc) की परत चढ़ाने की प्रक्रिया को क्या कहा जाता है?",
-      "options": [
-        "यशदलेपन (Galvanization)",
-        "मिश्रधातु बनाना",
-        "एनीलिंग",
-        "विद्युत अपघटन"
-      ],
-      "correctIndex": 0,
-      "explanation": "लोहे को जंग से बचाने के लिए उस पर जस्ते की पतली परत चढ़ाने की प्रक्रिया को गैल्वेनाइजेशन (यशदलेपन) कहते हैं।",
-      "questionType": "mcq",
-      "subCategory": "रसायन विज्ञान",
+      "explanation": "बल का SI मात्रक न्यूटन है।",
+      "subCategory": "विज्ञान",
       "difficulty": "Easy",
-      "uuid": "824414c2-0f02-513d-8836-60e4fd59b55a",
-      "updated_at": "2026-05-31T16:22:42.948107"
+      "questionType": "mcq",
+      "uuid": "61c4fa7f-58a2-53cd-bf33-cdd3a0f9e3c6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
     },
     {
-      "question": "प्रकाश वर्ष (Light Year) निम्नलिखित में से किसकी मापन इकाई है?",
+      "question": "'दाब' का SI मात्रक क्या है?",
       "options": [
-        "खगोलीय दूरी (Distance)",
-        "समय",
-        "प्रकाश की तीव्रता",
-        "गति"
+        "न्यूटन",
+        "पास्कल",
+        "जूल",
+        "वाट"
+      ],
+      "correctIndex": 1,
+      "explanation": "दाब का SI मात्रक पास्कल है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "3a5b139b-b11c-570b-95e5-fb7e35998544",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'कार्य' का SI मात्रक क्या है?",
+      "options": [
+        "पास्कल",
+        "वाट",
+        "न्यूटन",
+        "जूल"
+      ],
+      "correctIndex": 3,
+      "explanation": "कार्य का SI मात्रक जूल है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fd99b181-3592-5d64-aeac-11f68c1e1e30",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'शक्ति' का SI मात्रक क्या है?",
+      "options": [
+        "न्यूटन",
+        "जूल",
+        "ओम",
+        "वाट"
+      ],
+      "correctIndex": 3,
+      "explanation": "शक्ति का SI मात्रक वाट है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "79a090ad-dc36-5795-81c5-7c6b38c881d8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'विद्युत धारा' का SI मात्रक क्या है?",
+      "options": [
+        "ओम",
+        "वोल्ट",
+        "एम्पियर",
+        "वाट"
+      ],
+      "correctIndex": 2,
+      "explanation": "विद्युत धारा का SI मात्रक एम्पियर है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fb776171-2f27-5ead-8daf-697330c6cc7b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'विद्युत प्रतिरोध' का SI मात्रक क्या है?",
+      "options": [
+        "वाट",
+        "वोल्ट",
+        "ओम",
+        "एम्पियर"
+      ],
+      "correctIndex": 2,
+      "explanation": "विद्युत प्रतिरोध का SI मात्रक ओम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "8134b391-5268-5613-8511-934f686ad7cc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'आवृत्ति' का SI मात्रक क्या है?",
+      "options": [
+        "हर्ट्ज",
+        "जूल",
+        "सेकंड",
+        "मीटर"
       ],
       "correctIndex": 0,
-      "explanation": "प्रकाश वर्ष दूरी की इकाई है। यह वह दूरी है जो प्रकाश एक वर्ष में निर्वात में तय करता है (लगभग 9.46 ट्रिलियन किमी)।",
-      "questionType": "mcq",
-      "subCategory": "भौतिक विज्ञान",
+      "explanation": "आवृत्ति का SI मात्रक हर्ट्ज है।",
+      "subCategory": "विज्ञान",
       "difficulty": "Easy",
-      "uuid": "76065f5a-e39e-5998-a68b-385947dc462d",
-      "updated_at": "2026-05-31T16:22:42.948115"
+      "questionType": "mcq",
+      "uuid": "91c95359-994a-55fe-9149-9720a0adea62",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
     },
     {
-      "question": "पानी का घनत्व (Density of Water) किस तापमान पर अधिकतम होता है?",
+      "question": "'ताप' का SI मात्रक क्या है?",
       "options": [
-        "4°C",
+        "जूल",
+        "केल्विन",
+        "डिग्री",
+        "कैलोरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "ताप का SI मात्रक केल्विन है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9d6f4ffd-0b15-5cc0-8188-32e2924d4064",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'ज्योति तीव्रता' का SI मात्रक क्या है?",
+      "options": [
+        "वाट",
+        "लुमेन",
+        "लक्स",
+        "कैंडेला"
+      ],
+      "correctIndex": 3,
+      "explanation": "ज्योति तीव्रता का SI मात्रक कैंडेला है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6ef8aa8c-e6bd-5c23-b2d5-38df3546c992",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'लंबाई' का SI मात्रक क्या है?",
+      "options": [
+        "सेकंड",
+        "किलोग्राम",
+        "मीटर",
+        "एम्पियर"
+      ],
+      "correctIndex": 2,
+      "explanation": "लंबाई का SI मात्रक मीटर है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e42c36ec-9816-5f4d-bcee-5a907f37d723",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'द्रव्यमान' का SI मात्रक क्या है?",
+      "options": [
+        "न्यूटन",
+        "ग्राम",
+        "किलोग्राम",
+        "मीटर"
+      ],
+      "correctIndex": 2,
+      "explanation": "द्रव्यमान का SI मात्रक किलोग्राम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e318802b-d920-5b08-bd9c-49d023e061da",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'समय' का SI मात्रक क्या है?",
+      "options": [
+        "सेकंड",
+        "हर्ट्ज",
+        "घंटा",
+        "मिनट"
+      ],
+      "correctIndex": 0,
+      "explanation": "समय का SI मात्रक सेकंड है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ae21c33b-8923-51b4-923b-dfe69c1e6523",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'विभवांतर' का SI मात्रक क्या है?",
+      "options": [
+        "वाट",
+        "एम्पियर",
+        "वोल्ट",
+        "ओम"
+      ],
+      "correctIndex": 2,
+      "explanation": "विभवांतर का SI मात्रक वोल्ट है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4466e82f-5c6d-5948-b92f-69fcda48aa52",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'ऊर्जा' का SI मात्रक क्या है?",
+      "options": [
+        "पास्कल",
+        "वाट",
+        "जूल",
+        "न्यूटन"
+      ],
+      "correctIndex": 2,
+      "explanation": "ऊर्जा का SI मात्रक जूल है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "2bed04a5-32f6-5353-b523-0b08c66d46b0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'त्वरण' का SI मात्रक क्या है?",
+      "options": [
+        "किलोमीटर",
+        "न्यूटन",
+        "मीटर/सेकंड",
+        "मीटर/सेकंड²"
+      ],
+      "correctIndex": 3,
+      "explanation": "त्वरण का SI मात्रक मीटर/सेकंड² है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a32409aa-eb2b-58aa-9e33-5c5685d1bb60",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'गुरुत्वाकर्षण का नियम' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "आइंस्टीन",
+        "न्यूटन",
+        "गैलीलियो",
+        "कॉपरनिकस"
+      ],
+      "correctIndex": 1,
+      "explanation": "गुरुत्वाकर्षण का नियम की खोज न्यूटन ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1984886d-5429-570b-bfb2-a72dd4539d01",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सापेक्षता का सिद्धांत' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "बोर",
+        "न्यूटन",
+        "आइंस्टीन",
+        "फैराडे"
+      ],
+      "correctIndex": 2,
+      "explanation": "सापेक्षता का सिद्धांत की खोज आइंस्टीन ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3705016f-5bc8-5d94-9464-184bac8e74e3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'विद्युत चुम्बकीय प्रेरण' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "ओम",
+        "एम्पियर",
+        "वोल्टा",
+        "फैराडे"
+      ],
+      "correctIndex": 3,
+      "explanation": "विद्युत चुम्बकीय प्रेरण की खोज फैराडे ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "836054cc-1ff0-5df1-ac5d-a1952520ad00",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'X-किरण' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "क्यूरी",
+        "बेक्वेरेल",
+        "रॉन्टजन",
+        "रदरफोर्ड"
+      ],
+      "correctIndex": 2,
+      "explanation": "X-किरण की खोज रॉन्टजन ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0312697d-80d6-5d1a-9550-03f7748b758d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'रेडियोएक्टिविटी' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "बेक्वेरेल",
+        "रदरफोर्ड",
+        "क्यूरी",
+        "रॉन्टजन"
+      ],
+      "correctIndex": 0,
+      "explanation": "रेडियोएक्टिविटी की खोज बेक्वेरेल ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2ccd6e9a-58b6-5062-be72-711a56824dd4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'इलेक्ट्रॉन' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "चैडविक",
+        "जे.जे. थॉमसन",
+        "बोर",
+        "रदरफोर्ड"
+      ],
+      "correctIndex": 1,
+      "explanation": "इलेक्ट्रॉन की खोज जे.जे. थॉमसन ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fdd484a8-1d22-5835-ba02-54b6bf8a0bd7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'न्यूट्रॉन' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "चैडविक",
+        "थॉमसन",
+        "बोर",
+        "रदरफोर्ड"
+      ],
+      "correctIndex": 0,
+      "explanation": "न्यूट्रॉन की खोज चैडविक ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2c55ca51-c115-5a08-b165-4f965db364c2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'प्रोटॉन' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "थॉमसन",
+        "रदरफोर्ड",
+        "चैडविक",
+        "बोर"
+      ],
+      "correctIndex": 1,
+      "explanation": "प्रोटॉन की खोज रदरफोर्ड ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "44624ca7-a1bf-57f5-9200-a53f6a6272ce",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'टेलीफोन' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "एडिसन",
+        "मार्कोनी",
+        "मोर्स",
+        "ग्राहम बेल"
+      ],
+      "correctIndex": 3,
+      "explanation": "टेलीफोन की खोज ग्राहम बेल ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5f65a01f-03e6-552f-abdf-34a1bffe1b66",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'बल्ब' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "टेसला",
+        "फैराडे",
+        "ग्राहम बेल",
+        "एडिसन"
+      ],
+      "correctIndex": 3,
+      "explanation": "बल्ब की खोज एडिसन ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "aa018119-0e9f-5a3f-a491-1566ecf88a3e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'रेडियो' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "टेसला",
+        "मार्कोनी",
+        "ग्राहम बेल",
+        "एडिसन"
+      ],
+      "correctIndex": 1,
+      "explanation": "रेडियो की खोज मार्कोनी ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d5af88a7-687c-5f3b-b0ae-998b71efefee",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'डायनामाइट' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "न्यूटन",
+        "अल्फ्रेड नोबेल",
+        "एडिसन",
+        "फैराडे"
+      ],
+      "correctIndex": 1,
+      "explanation": "डायनामाइट की खोज अल्फ्रेड नोबेल ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0818e678-e62b-5d1e-aaba-565045ed9fa8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'पेनिसिलिन' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "एडवर्ड जेनर",
+        "रॉबर्ट कोच",
+        "लुई पाश्चर",
+        "अलेक्जेंडर फ्लेमिंग"
+      ],
+      "correctIndex": 3,
+      "explanation": "पेनिसिलिन की खोज अलेक्जेंडर फ्लेमिंग ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0e098e02-8b72-5ce4-a9f9-dd8d10b321fb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'टीका (वैक्सीन)' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "रॉबर्ट कोच",
+        "एडवर्ड जेनर",
+        "फ्लेमिंग",
+        "लुई पाश्चर"
+      ],
+      "correctIndex": 1,
+      "explanation": "टीका (वैक्सीन) की खोज एडवर्ड जेनर ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c013d1d2-5d3b-53d2-8a5b-84a47348a5fa",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'रक्त परिसंचरण' की खोज/आविष्कार किसने किया?",
+      "options": [
+        "रॉबर्ट हुक",
+        "डार्विन",
+        "विलियम हार्वे",
+        "लैमार्क"
+      ],
+      "correctIndex": 2,
+      "explanation": "रक्त परिसंचरण की खोज विलियम हार्वे ने की थी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9fdbf80b-fb34-52db-93ed-60433aa3ebab",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'प्रत्येक क्रिया की समान और विपरीत प्रतिक्रिया होती है' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "गुरुत्वाकर्षण नियम",
+        "न्यूटन का दूसरा नियम",
+        "न्यूटन का पहला नियम",
+        "न्यूटन का तीसरा नियम"
+      ],
+      "correctIndex": 3,
+      "explanation": "यह न्यूटन का तीसरा नियम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d415ef34-2992-54fb-bdda-08258563abb3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'किसी वस्तु पर लगाया गया बल उसके द्रव्यमान और त्वरण के गुणनफल के बराबर होता है' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "न्यूटन का पहला नियम",
+        "न्यूटन का तीसरा नियम",
+        "न्यूटन का दूसरा नियम",
+        "ओम का नियम"
+      ],
+      "correctIndex": 2,
+      "explanation": "यह न्यूटन का दूसरा नियम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "49ee4205-71d1-5d10-8af4-97202df38712",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'कोई भी वस्तु अपनी विराम या गति की अवस्था में तब तक रहती है जब तक उस पर कोई बाहरी बल न लगे' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "न्यूटन का दूसरा नियम",
+        "गैलीलियो का नियम",
+        "न्यूटन का तीसरा नियम",
+        "न्यूटन का पहला नियम"
+      ],
+      "correctIndex": 3,
+      "explanation": "यह न्यूटन का पहला नियम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "86ebbe38-14da-557c-960c-86919b5989e8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'V = IR' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "कूलॉम का नियम",
+        "ओम का नियम",
+        "न्यूटन का नियम",
+        "फैराडे का नियम"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह ओम का नियम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "37fce961-fb5e-56b3-98f7-91f551c414ce",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'ऊर्जा न तो उत्पन्न की जा सकती है न नष्ट' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "ओम का नियम",
+        "न्यूटन का नियम",
+        "ऊर्जा संरक्षण का नियम",
+        "पास्कल का नियम"
+      ],
+      "correctIndex": 2,
+      "explanation": "यह ऊर्जा संरक्षण का नियम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c9cf04eb-efb1-5b25-98e6-47e0a8abff3a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'किसी बंद पात्र में द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचरित होता है' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "आर्किमिडीज का सिद्धांत",
+        "पास्कल का नियम",
+        "बॉयल का नियम",
+        "बरनूली का सिद्धांत"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह पास्कल का नियम है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5dca6119-d517-5a2d-a65e-7ea07b1fc55f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'जब कोई वस्तु किसी तरल में डुबोई जाती है तो उस पर ऊपर की ओर एक बल लगता है' — यह किसका नियम/सिद्धांत है?",
+      "options": [
+        "आर्किमिडीज का सिद्धांत",
+        "न्यूटन का नियम",
+        "बरनूली का सिद्धांत",
+        "पास्कल का नियम"
+      ],
+      "correctIndex": 0,
+      "explanation": "यह आर्किमिडीज का सिद्धांत है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b8e7e058-d618-5ac2-9975-bc58298f01f6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश की गति कितनी है?",
+      "options": [
+        "3 × 10⁴ मीटर/सेकंड",
+        "3 × 10⁶ मीटर/सेकंड",
+        "3 × 10¹⁰ मीटर/सेकंड",
+        "3 × 10⁸ मीटर/सेकंड"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 3 × 10⁸ मीटर/सेकंड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5a372666-0f88-5502-823f-d4ce34282868",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ध्वनि की गति (वायु में) लगभग कितनी है?",
+      "options": [
+        "3000 मीटर/सेकंड",
+        "1500 मीटर/सेकंड",
+        "100 मीटर/सेकंड",
+        "332 मीटर/सेकंड"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 332 मीटर/सेकंड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "75163e9a-4acd-5063-bd0f-070af9660b61",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "इंद्रधनुष में कितने रंग होते हैं?",
+      "options": [
+        "8",
+        "6",
+        "5",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 7।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "11000aad-c6d9-57d2-ae19-fa50350d1a57",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दृश्य प्रकाश का तरंगदैर्ध्य किस सीमा में होता है?",
+      "options": [
+        "100-200 nm",
+        "380-760 nm",
+        "800-1000 nm",
+        "1-100 nm"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 380-760 nm।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "89228083-560b-50e0-8203-ddb9c874f961",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश का अपवर्तन किसमें होता है?",
+      "options": [
+        "दो माध्यमों के बीच",
+        "निर्वात में",
+        "केवल जल में",
+        "एक ही माध्यम में"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: दो माध्यमों के बीच।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "804b2016-4b72-55b7-84e3-f9fe4e3735ed",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "उत्तल लेंस को क्या कहते हैं?",
+      "options": [
+        "प्रिज्म",
+        "समतल लेंस",
+        "अपसारी लेंस",
+        "अभिसारी लेंस"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: अभिसारी लेंस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3bd47dd3-1938-5a9d-bd67-34721c376c50",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अवतल लेंस को क्या कहते हैं?",
+      "options": [
+        "समतल लेंस",
+        "प्रिज्म",
+        "अपसारी लेंस",
+        "अभिसारी लेंस"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: अपसारी लेंस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4b0ef0b4-77ff-5d8d-bb4d-9f10f26e4ea1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव कान कितनी आवृत्ति तक ध्वनि सुन सकता है?",
+      "options": [
+        "50 Hz - 50,000 Hz",
+        "20 Hz - 20,000 Hz",
+        "10 Hz - 10,000 Hz",
+        "100 Hz - 100,000 Hz"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 20 Hz - 20,000 Hz।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b2ec0021-c8cd-5daf-bd75-763bd3294380",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अल्ट्रासाउंड की आवृत्ति कितनी होती है?",
+      "options": [
+        "20,000 Hz से अधिक",
+        "20,000 Hz से कम",
+        "100 Hz से कम",
+        "1000 Hz"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 20,000 Hz से अधिक।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7ad03974-a0ba-5a9e-bb77-aa9d975ce454",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रतिध्वनि (echo) सुनने के लिए न्यूनतम दूरी कितनी होनी चाहिए?",
+      "options": [
+        "10 मीटर",
+        "25 मीटर",
+        "50 मीटर",
+        "17 मीटर"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 17 मीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "127b54bc-eef9-55cc-864b-40cc86b91d24",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विद्युत धारा की दिशा किस दिशा में मानी जाती है?",
+      "options": [
+        "धनात्मक से ऋणात्मक",
+        "दोनों दिशाओं में",
+        "किसी भी दिशा में नहीं",
+        "ऋणात्मक से धनात्मक"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: धनात्मक से ऋणात्मक।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a5c1a0cc-6ce3-5f22-a104-84cb814353e2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "1 किलोवाट-घंटा (kWh) कितने जूल के बराबर है?",
+      "options": [
+        "3.6 × 10⁴ जूल",
+        "3.6 × 10⁶ जूल",
+        "3.6 × 10³ जूल",
+        "3.6 × 10⁹ जूल"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 3.6 × 10⁶ जूल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "64635f74-a2c0-5dd4-adbe-c76ad3b197db",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "घरेलू विद्युत आपूर्ति कितने वोल्ट की होती है (भारत)?",
+      "options": [
+        "440 वोल्ट",
+        "330 वोल्ट",
+        "110 वोल्ट",
+        "220 वोल्ट"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 220 वोल्ट।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f1bc13a4-c89e-519d-b50d-1f70cf8a421c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "फ्यूज तार किस धातु का बना होता है?",
+      "options": [
+        "तांबा",
+        "एल्यूमीनियम",
+        "लोहा",
+        "टिन और सीसा का मिश्रधातु"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: टिन और सीसा का मिश्रधातु।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4cd74416-e74d-50c3-a648-24862bd97e36",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "LED का पूरा नाम क्या है?",
+      "options": [
+        "Light Energy Device",
+        "Light Emitting Diode",
+        "Low Energy Diode",
+        "Light Electronic Device"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Light Emitting Diode।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f333f42f-87c9-5dd2-8304-cca91fe8bea6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बैटरी में किस ऊर्जा का रूपांतरण होता है?",
+      "options": [
+        "प्रकाश से विद्युत",
+        "रासायनिक ऊर्जा से विद्युत ऊर्जा",
+        "ऊष्मा से विद्युत",
+        "विद्युत से यांत्रिक"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: रासायनिक ऊर्जा से विद्युत ऊर्जा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4c8c60e1-5778-5a58-aa00-61e136b6abb9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विद्युत का सबसे अच्छा चालक कौन है?",
+      "options": [
+        "तांबा",
+        "एल्यूमीनियम",
+        "सोना",
+        "चाँदी"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: चाँदी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fd5cd32c-6a3b-5841-86a5-f4096653fa15",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विद्युत का सबसे अच्छा कुचालक (insulator) कौन है?",
+      "options": [
+        "लकड़ी",
+        "काँच",
+        "रबड़",
+        "प्लास्टिक"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: रबड़।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8413beeb-0b5f-580a-ae83-fea50c22713c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'जल' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "H₂O₂",
+        "H₂O",
+        "HO₂",
+        "H₃O"
+      ],
+      "correctIndex": 1,
+      "explanation": "जल का रासायनिक सूत्र H₂O है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "097dd75b-ab6e-567e-8a74-4b58c5b48e3b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'कार्बन डाइऑक्साइड' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "C₂O₃",
+        "C₂O",
+        "CO₂",
+        "CO"
+      ],
+      "correctIndex": 2,
+      "explanation": "कार्बन डाइऑक्साइड का रासायनिक सूत्र CO₂ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7062a8d2-de15-5da7-99af-5a09b624181a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सल्फ्यूरिक एसिड' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "HCl",
+        "HNO₃",
+        "H₂SO₄",
+        "H₂CO₃"
+      ],
+      "correctIndex": 2,
+      "explanation": "सल्फ्यूरिक एसिड का रासायनिक सूत्र H₂SO₄ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b7437d9b-2136-5afa-97fa-cccf28e392b1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'हाइड्रोक्लोरिक एसिड' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "H₂SO₄",
+        "HCl",
+        "HNO₃",
+        "NaCl"
+      ],
+      "correctIndex": 1,
+      "explanation": "हाइड्रोक्लोरिक एसिड का रासायनिक सूत्र HCl है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ca87dd39-d119-5cba-be72-19ec372f82e5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'नाइट्रिक एसिड' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "NaOH",
+        "HCl",
+        "HNO₃",
+        "H₂SO₄"
+      ],
+      "correctIndex": 2,
+      "explanation": "नाइट्रिक एसिड का रासायनिक सूत्र HNO₃ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5bff999f-a788-550d-ae4d-3dfaaffa2695",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सोडियम हाइड्रॉक्साइड' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "NaCl",
+        "Na₂SO₄",
+        "NaOH",
+        "Na₂CO₃"
+      ],
+      "correctIndex": 2,
+      "explanation": "सोडियम हाइड्रॉक्साइड का रासायनिक सूत्र NaOH है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "0b92724e-3480-5e0e-8629-e91dac547a12",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'कैल्शियम कार्बोनेट' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CaCl₂",
+        "CaO",
+        "Ca(OH)₂",
+        "CaCO₃"
+      ],
+      "correctIndex": 3,
+      "explanation": "कैल्शियम कार्बोनेट का रासायनिक सूत्र CaCO₃ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9c1b7278-73f3-5df7-b8e7-17fc301f9f8b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सोडियम क्लोराइड (नमक)' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "Na₂CO₃",
+        "NaOH",
+        "NaCl",
+        "NaHCO₃"
+      ],
+      "correctIndex": 2,
+      "explanation": "सोडियम क्लोराइड (नमक) का रासायनिक सूत्र NaCl है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "20f70376-39aa-5ec6-b260-8cb59e93b967",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'ओजोन' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "O",
+        "O₃",
+        "O₄",
+        "O₂"
+      ],
+      "correctIndex": 1,
+      "explanation": "ओजोन का रासायनिक सूत्र O₃ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "5b2dbf8d-98d8-5c29-8477-79fe91f1bc20",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'अमोनिया' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "NH₄",
+        "N₂O",
+        "NO₂",
+        "NH₃"
+      ],
+      "correctIndex": 3,
+      "explanation": "अमोनिया का रासायनिक सूत्र NH₃ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "285baeb7-6af6-5b96-9588-0bf197c5dd5e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'मीथेन' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "C₂H₂",
+        "CH₄",
+        "C₂H₆",
+        "CO₂"
+      ],
+      "correctIndex": 1,
+      "explanation": "मीथेन का रासायनिक सूत्र CH₄ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b6dcb16a-158c-57a5-8c4e-90141b5ed88b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'बेकिंग सोडा' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "NaOH",
+        "NaCl",
+        "Na₂CO₃",
+        "NaHCO₃"
+      ],
+      "correctIndex": 3,
+      "explanation": "बेकिंग सोडा का रासायनिक सूत्र NaHCO₃ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fc4c019a-1be2-5a0e-b526-4c3f9b625116",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'धोने का सोडा' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "Na₂CO₃",
+        "NaCl",
+        "NaHCO₃",
+        "NaOH"
+      ],
+      "correctIndex": 0,
+      "explanation": "धोने का सोडा का रासायनिक सूत्र Na₂CO₃ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "fdf015bd-4ffd-55ac-9bf7-959173c34bdb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'चूना (बिना बुझा)' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CaO",
+        "Ca(OH)₂",
+        "CaCl₂",
+        "CaCO₃"
+      ],
+      "correctIndex": 0,
+      "explanation": "चूना (बिना बुझा) का रासायनिक सूत्र CaO है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "d1d05ebd-02b1-5f4c-8ad0-08cedd12aecb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'बुझा हुआ चूना' का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CaCO₃",
+        "CaCl₂",
+        "CaO",
+        "Ca(OH)₂"
+      ],
+      "correctIndex": 3,
+      "explanation": "बुझा हुआ चूना का रासायनिक सूत्र Ca(OH)₂ है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4d4ec198-03aa-5aec-8239-1a93f5f67d72",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सोना' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Ag",
+        "Cu",
+        "Au",
+        "Fe"
+      ],
+      "correctIndex": 2,
+      "explanation": "सोना का रासायनिक प्रतीक Au है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "cfee7947-db2a-514f-b688-52c1f2010359",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'चाँदी' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Au",
+        "Fe",
+        "Hg",
+        "Ag"
+      ],
+      "correctIndex": 3,
+      "explanation": "चाँदी का रासायनिक प्रतीक Ag है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "73453c9e-ddf2-5657-ab96-0f6d473eb154",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'लोहा' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Zn",
+        "Cu",
+        "Au",
+        "Fe"
+      ],
+      "correctIndex": 3,
+      "explanation": "लोहा का रासायनिक प्रतीक Fe है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "8c13dce9-c9e4-55fe-a77d-5fe7c666ba6f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'तांबा' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Fe",
+        "Cu",
+        "Sn",
+        "Ag"
+      ],
+      "correctIndex": 1,
+      "explanation": "तांबा का रासायनिक प्रतीक Cu है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "dda44e0c-0704-56f6-805a-f419d68c9445",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'पारा' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Hg",
+        "Au",
+        "Pb",
+        "Ag"
+      ],
+      "correctIndex": 0,
+      "explanation": "पारा का रासायनिक प्रतीक Hg है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "3a19986e-566b-57be-bed5-d19d404180be",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सोडियम' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Mg",
+        "Ca",
+        "Na",
+        "K"
+      ],
+      "correctIndex": 2,
+      "explanation": "सोडियम का रासायनिक प्रतीक Na है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "1d185af4-9b47-5b5e-883a-5685001788b8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'पोटैशियम' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Ca",
+        "Na",
+        "K",
+        "Mg"
+      ],
+      "correctIndex": 2,
+      "explanation": "पोटैशियम का रासायनिक प्रतीक K है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a47d09bd-dc3a-50bb-b121-f092713607d8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'कैल्शियम' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Ca",
+        "Mg",
+        "K",
+        "Na"
+      ],
+      "correctIndex": 0,
+      "explanation": "कैल्शियम का रासायनिक प्रतीक Ca है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6b5614ea-34a8-5c20-98f0-ad96125c80f2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'हाइड्रोजन' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "H",
+        "O",
+        "He",
+        "N"
+      ],
+      "correctIndex": 0,
+      "explanation": "हाइड्रोजन का रासायनिक प्रतीक H है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "1e002730-ec91-5e93-86ac-1f2bb773cbb3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'ऑक्सीजन' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "O",
+        "H",
+        "C",
+        "N"
+      ],
+      "correctIndex": 0,
+      "explanation": "ऑक्सीजन का रासायनिक प्रतीक O है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ec67efde-fe13-5d75-bada-96e196fa00c3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'नाइट्रोजन' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "N",
+        "H",
+        "C",
+        "O"
+      ],
+      "correctIndex": 0,
+      "explanation": "नाइट्रोजन का रासायनिक प्रतीक N है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b5f5560b-ce1e-546a-846e-313af74ca2d0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'कार्बन' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "O",
+        "N",
+        "S",
+        "C"
+      ],
+      "correctIndex": 3,
+      "explanation": "कार्बन का रासायनिक प्रतीक C है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "09943bb1-3e7d-51c2-88d7-a84a079c3d74",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'सीसा' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Sn",
+        "Hg",
+        "Pb",
+        "Zn"
+      ],
+      "correctIndex": 2,
+      "explanation": "सीसा का रासायनिक प्रतीक Pb है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "da266b82-fa18-5998-8511-a907b1a15250",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'जस्ता' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Sn",
+        "Zn",
+        "Fe",
+        "Cu"
+      ],
+      "correctIndex": 1,
+      "explanation": "जस्ता का रासायनिक प्रतीक Zn है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "4a0c976f-cad6-5a07-9e2d-b2235ad7d59a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "'टिन' का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Fe",
+        "Zn",
+        "Sn",
+        "Pb"
+      ],
+      "correctIndex": 2,
+      "explanation": "टिन का रासायनिक प्रतीक Sn है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "eb9f269f-4f89-5a3d-bcbc-0d0919de48cc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "शुद्ध जल का pH मान कितना होता है?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 7।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3593850b-fe70-5d8c-b2ec-c4f431a355c1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अम्लीय विलयन का pH मान कितना होता है?",
+      "options": [
+        "14",
+        "7 से कम",
+        "7 से अधिक",
+        "7 के बराबर"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 7 से कम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cce138d7-7014-533e-a97b-58d0016e8af9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "क्षारीय विलयन का pH मान कितना होता है?",
+      "options": [
+        "7 से अधिक",
+        "0",
+        "7 के बराबर",
+        "7 से कम"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 7 से अधिक।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bc1c301c-36f8-5110-bac3-8379cc606269",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव रक्त का pH मान लगभग कितना होता है?",
+      "options": [
+        "8.0",
+        "6.5",
+        "7.4",
+        "7.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 7.4।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "49adff87-0496-546e-9471-35fc863e673f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "नींबू के रस का pH मान लगभग कितना होता है?",
+      "options": [
+        "2.2",
+        "5.5",
+        "9.0",
+        "7.0"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 2.2।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0e278aec-3418-5c9f-98b2-8417ac2d8f65",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दूध का pH मान लगभग कितना होता है?",
+      "options": [
+        "4.5",
+        "7.0",
+        "6.5",
+        "8.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 6.5।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4d8fb14b-14c6-53ef-aa9d-c63c32a22382",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे हल्की धातु कौन सी है?",
+      "options": [
+        "सोडियम",
+        "एल्यूमीनियम",
+        "मैग्नीशियम",
+        "लिथियम"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: लिथियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cfdd004a-1adb-5044-88d4-72920e934a28",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे भारी धातु कौन सी है?",
+      "options": [
+        "सोना",
+        "पारा",
+        "ऑस्मियम",
+        "प्लैटिनम"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: ऑस्मियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d6c7731a-072c-56e5-819f-c8b13697988c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कमरे के तापमान पर तरल अवस्था में रहने वाली धातु कौन सी है?",
+      "options": [
+        "पारा (Mercury)",
+        "गैलियम",
+        "ब्रोमीन",
+        "सोडियम"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: पारा (Mercury)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "39bb7db7-7415-582f-abd3-1b31c8979060",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+      "options": [
+        "रूबी",
+        "क्वार्ट्ज",
+        "हीरा",
+        "नीलम"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: हीरा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b73e58d4-c76c-5635-bf98-fb6f106a5c02",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे अधिक विद्युत चालक धातु कौन सी है?",
+      "options": [
+        "तांबा",
+        "सोना",
+        "एल्यूमीनियम",
+        "चाँदी"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: चाँदी।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4bd1633b-41d1-5c7f-9c98-94dfb37a4cd3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "लोहे पर जंग लगना किस प्रकार की अभिक्रिया है?",
+      "options": [
+        "अपचयन",
+        "विस्थापन",
+        "उदासीनीकरण",
+        "ऑक्सीकरण"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: ऑक्सीकरण।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d4fed4b6-b0b3-5242-9857-b2d0f907f79b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "जंग का रासायनिक सूत्र क्या है?",
+      "options": [
+        "FeO",
+        "Fe₂O₃",
+        "FeCl₃",
+        "Fe₃O₄"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Fe₂O₃।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "705056f3-cde3-556a-a88f-e6f7e4950191",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "स्टेनलेस स्टील किसका मिश्रधातु है?",
+      "options": [
+        "लोहा, टिन, सीसा",
+        "लोहा, तांबा, जस्ता",
+        "लोहा, क्रोमियम, निकल",
+        "लोहा, एल्यूमीनियम, निकल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: लोहा, क्रोमियम, निकल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e505f47a-19e3-5276-813a-11dfadbf912b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पीतल (Brass) किसका मिश्रधातु है?",
+      "options": [
+        "तांबा और जस्ता",
+        "तांबा और टिन",
+        "तांबा और सोना",
+        "लोहा और जस्ता"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: तांबा और जस्ता।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "18c4a3c8-9713-5553-a1ab-7dd299309069",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कांसा (Bronze) किसका मिश्रधातु है?",
+      "options": [
+        "तांबा और टिन",
+        "तांबा और जस्ता",
+        "लोहा और तांबा",
+        "सोना और चाँदी"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: तांबा और टिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7992b113-1435-54f7-aa78-7d694ab853b2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
+      "options": [
+        "आर्गन",
+        "नाइट्रोजन (78%)",
+        "कार्बन डाइऑक्साइड",
+        "ऑक्सीजन (21%)"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: नाइट्रोजन (78%)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ca1d13c0-11a4-5ead-a2d9-ae8378c260a8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "श्वसन के लिए कौन सी गैस आवश्यक है?",
+      "options": [
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "हाइड्रोजन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: ऑक्सीजन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "78374854-405a-546a-83b7-7d716d74b166",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश संश्लेषण में कौन सी गैस अवशोषित होती है?",
+      "options": [
+        "हाइड्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "ऑक्सीजन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: कार्बन डाइऑक्साइड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "56e9e03e-265b-5090-ab0e-69b6c720ba18",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश संश्लेषण में कौन सी गैस निकलती है?",
+      "options": [
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "ऑक्सीजन",
+        "हाइड्रोजन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: ऑक्सीजन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8c8136d0-60a3-5b91-ba1d-d42bfc9f4826",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "LPG में मुख्य रूप से कौन सी गैस होती है?",
+      "options": [
+        "इथेन",
+        "ब्यूटेन और प्रोपेन",
+        "मीथेन",
+        "एसिटिलीन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: ब्यूटेन और प्रोपेन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6c5f9fea-4872-547f-a2e0-2ebd93a2b1e9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "CNG में मुख्य रूप से कौन सी गैस होती है?",
+      "options": [
+        "इथेन",
+        "मीथेन",
+        "प्रोपेन",
+        "ब्यूटेन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मीथेन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cd0b8b63-f5d8-5d5c-8891-9c6833be82c0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हँसाने वाली गैस (Laughing Gas) कौन सी है?",
+      "options": [
+        "नाइट्रस ऑक्साइड (N₂O)",
+        "नाइट्रोजन डाइऑक्साइड (NO₂)",
+        "अमोनिया (NH₃)",
+        "नाइट्रिक ऑक्साइड (NO)"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: नाइट्रस ऑक्साइड (N₂O)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "99938568-079d-5138-a2bb-73a696b8ad53",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मार्श गैस कौन सी है?",
+      "options": [
+        "मीथेन (CH₄)",
+        "ब्यूटेन (C₄H₁₀)",
+        "प्रोपेन (C₃H₈)",
+        "इथेन (C₂H₆)"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: मीथेन (CH₄)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "be5e5d5d-376b-5952-b869-1be12bfb2784",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अश्रु गैस (Tear Gas) कौन सी है?",
+      "options": [
+        "क्लोरोएसीटोफिनोन",
+        "फॉस्जीन",
+        "क्लोरीन",
+        "अमोनिया"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: क्लोरोएसीटोफिनोन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "871ddd29-3f1a-542e-b375-c1275fda5b98",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ओजोन परत में छिद्र किस गैस के कारण होता है?",
+      "options": [
+        "SO₂",
+        "CO₂",
+        "NO₂",
+        "CFC (क्लोरोफ्लोरोकार्बन)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: CFC (क्लोरोफ्लोरोकार्बन)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "419283c6-b7f9-5104-8c29-e98886015ef5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सिरके में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "ऑक्सैलिक अम्ल",
+        "साइट्रिक अम्ल",
+        "टार्टरिक अम्ल",
+        "एसीटिक अम्ल"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: एसीटिक अम्ल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2fa375b1-22f0-54cf-ae31-92362d892286",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दही में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "टार्टरिक अम्ल",
+        "लैक्टिक अम्ल",
+        "साइट्रिक अम्ल",
+        "एसीटिक अम्ल"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: लैक्टिक अम्ल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b688b793-a9a0-5ddb-9543-b96b6cc44456",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "नींबू में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "मैलिक अम्ल",
+        "साइट्रिक अम्ल",
+        "लैक्टिक अम्ल",
+        "एसीटिक अम्ल"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: साइट्रिक अम्ल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "da2159c6-41b1-521f-ac9d-f340d57d5add",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सेब में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "मैलिक अम्ल",
+        "ऑक्सैलिक अम्ल",
+        "एसीटिक अम्ल",
+        "साइट्रिक अम्ल"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: मैलिक अम्ल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7088298c-71cd-5ae8-bc6b-2df5a561c17e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "चींटी के डंक में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "साइट्रिक अम्ल",
+        "लैक्टिक अम्ल",
+        "फॉर्मिक अम्ल (मेथेनोइक)",
+        "एसीटिक अम्ल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: फॉर्मिक अम्ल (मेथेनोइक)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ace8caa1-f6df-5cc6-b193-091c66e00539",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अम्ल + क्षार → ?",
+      "options": [
+        "अम्ल + जल",
+        "क्षार + गैस",
+        "लवण + जल",
+        "केवल लवण"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: लवण + जल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "aeb16315-e1e2-5e62-b55d-b28ae976ac8e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "लिटमस पेपर अम्ल में किस रंग का हो जाता है?",
+      "options": [
+        "पीला",
+        "नीला",
+        "लाल",
+        "हरा"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: लाल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f6aaccb4-b5e8-514a-ad09-bafaf1a4c44b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "लिटमस पेपर क्षार में किस रंग का हो जाता है?",
+      "options": [
+        "लाल",
+        "नीला",
+        "हरा",
+        "पीला"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: नीला।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "69619c62-ace8-59ac-81d7-cd180ffeb085",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन A की कमी से कौन सा रोग होता है?",
+      "options": [
+        "रिकेट्स",
+        "स्कर्वी",
+        "रतौंधी (Night Blindness)",
+        "बेरी-बेरी"
+      ],
+      "correctIndex": 2,
+      "explanation": "विटामिन A की कमी से रतौंधी (Night Blindness) रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "615390d8-a40e-5af5-a676-ff676f6ae34a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₁ की कमी से कौन सा रोग होता है?",
+      "options": [
+        "पेलाग्रा",
+        "स्कर्वी",
+        "बेरी-बेरी",
+        "रतौंधी"
+      ],
+      "correctIndex": 2,
+      "explanation": "विटामिन B₁ की कमी से बेरी-बेरी रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "0f898b73-5ea8-5bc5-bef3-ddee3a03e945",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₃ की कमी से कौन सा रोग होता है?",
+      "options": [
+        "रतौंधी",
+        "पेलाग्रा",
+        "एनीमिया",
+        "बेरी-बेरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन B₃ की कमी से पेलाग्रा रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "dae9fb9a-192c-51b6-ad35-7c3bef939ef8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₁₂ की कमी से कौन सा रोग होता है?",
+      "options": [
+        "पेलाग्रा",
+        "एनीमिया (रक्ताल्पता)",
+        "स्कर्वी",
+        "बेरी-बेरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन B₁₂ की कमी से एनीमिया (रक्ताल्पता) रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "01002972-4823-5a23-bba2-72b9f0e7cfdd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "options": [
+        "रतौंधी",
+        "स्कर्वी",
+        "रिकेट्स",
+        "बेरी-बेरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन C की कमी से स्कर्वी रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "63b77fe9-acc1-5a62-b94f-a1416b00eb42",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन D की कमी से कौन सा रोग होता है?",
+      "options": [
+        "स्कर्वी",
+        "बेरी-बेरी",
+        "रिकेट्स (सूखा रोग)",
+        "रतौंधी"
+      ],
+      "correctIndex": 2,
+      "explanation": "विटामिन D की कमी से रिकेट्स (सूखा रोग) रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "c81320b2-d76f-57ad-9e49-f53c2fac4db2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन E की कमी से कौन सा रोग होता है?",
+      "options": [
+        "रिकेट्स",
+        "स्कर्वी",
+        "बांझपन (प्रजनन क्षमता में कमी)",
+        "रतौंधी"
+      ],
+      "correctIndex": 2,
+      "explanation": "विटामिन E की कमी से बांझपन (प्रजनन क्षमता में कमी) रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7c74e935-4bf1-5c67-a50e-187a4619afc0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन K की कमी से कौन सा रोग होता है?",
+      "options": [
+        "रतौंधी",
+        "स्कर्वी",
+        "रक्त का थक्का न जमना",
+        "रिकेट्स"
+      ],
+      "correctIndex": 2,
+      "explanation": "विटामिन K की कमी से रक्त का थक्का न जमना रोग होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "0cc38f55-4486-5039-a035-a8f11088e537",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन A का रासायनिक नाम क्या है?",
+      "options": [
+        "एस्कॉर्बिक एसिड",
+        "थायमिन",
+        "कैल्सिफेरॉल",
+        "रेटिनॉल"
+      ],
+      "correctIndex": 3,
+      "explanation": "विटामिन A का रासायनिक नाम रेटिनॉल है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "22fe6cc3-5d8c-5c70-9f1b-439efee58674",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₁ का रासायनिक नाम क्या है?",
+      "options": [
+        "रेटिनॉल",
+        "थायमिन",
+        "नियासिन",
+        "राइबोफ्लेविन"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन B₁ का रासायनिक नाम थायमिन है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "04312f74-b3f6-553f-8119-aa7ec5caa563",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₂ का रासायनिक नाम क्या है?",
+      "options": [
+        "थायमिन",
+        "राइबोफ्लेविन",
+        "नियासिन",
+        "पाइरिडॉक्सिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन B₂ का रासायनिक नाम राइबोफ्लेविन है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bd91bfae-ee18-5238-8a92-ca3e1262644b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन C का रासायनिक नाम क्या है?",
+      "options": [
+        "रेटिनॉल",
+        "एस्कॉर्बिक एसिड",
+        "थायमिन",
+        "कैल्सिफेरॉल"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन C का रासायनिक नाम एस्कॉर्बिक एसिड है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a92b5aba-f99b-5a3a-b08a-ae41db21fb7f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन D का रासायनिक नाम क्या है?",
+      "options": [
+        "टोकोफेरॉल",
+        "कैल्सिफेरॉल",
+        "एस्कॉर्बिक एसिड",
+        "रेटिनॉल"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन D का रासायनिक नाम कैल्सिफेरॉल है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1431313b-97e9-5ae9-b029-e528554b3ee5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन E का रासायनिक नाम क्या है?",
+      "options": [
+        "कैल्सिफेरॉल",
+        "टोकोफेरॉल",
+        "रेटिनॉल",
+        "फिलोक्विनोन"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन E का रासायनिक नाम टोकोफेरॉल है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bbf811bd-b3ac-5a94-a49f-fc6e97062ab2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन K का रासायनिक नाम क्या है?",
+      "options": [
+        "टोकोफेरॉल",
+        "फिलोक्विनोन",
+        "रेटिनॉल",
+        "कैल्सिफेरॉल"
+      ],
+      "correctIndex": 1,
+      "explanation": "विटामिन K का रासायनिक नाम फिलोक्विनोन है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c0c20c13-26b9-5432-be51-5be9a612d7c5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में कुल हड्डियों की संख्या कितनी है?",
+      "options": [
+        "208",
+        "206",
+        "204",
+        "210"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 206।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a0aa61f4-870e-53ff-8764-e91afaa6b16e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर की सबसे बड़ी हड्डी कौन सी है?",
+      "options": [
+        "टिबिया",
+        "फीमर (जांघ की हड्डी)",
+        "रेडियस",
+        "ह्यूमरस"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: फीमर (जांघ की हड्डी)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d9c41615-af03-58d2-9b01-caa65fc38f05",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर की सबसे छोटी हड्डी कौन सी है?",
+      "options": [
+        "स्टेपीज (कान की हड्डी)",
+        "मैलियस",
+        "हैमर",
+        "इनकस"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: स्टेपीज (कान की हड्डी)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "109fe737-8859-581e-8bb4-af5b01a808ca",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "options": [
+        "यकृत (Liver)",
+        "मस्तिष्क (Brain)",
+        "त्वचा (Skin)",
+        "हृदय (Heart)"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: त्वचा (Skin)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "572fdfdc-cf88-5a87-8b7d-d182182146c1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?",
+      "options": [
+        "अग्न्याशय (Pancreas)",
+        "पिट्यूटरी",
+        "यकृत (Liver)",
+        "थायरॉइड"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: यकृत (Liver)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "140ad341-bcaf-5627-9a0d-cb88576a7d17",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे छोटी ग्रंथि कौन सी है?",
+      "options": [
+        "पिट्यूटरी ग्रंथि",
+        "थायरॉइड",
+        "पीनियल",
+        "एड्रीनल"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: पिट्यूटरी ग्रंथि।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "65c76f11-edfe-5580-8081-0cca8593db19",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव हृदय में कितने कक्ष होते हैं?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 4।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "507eda78-c0ec-50c3-b4ad-7bc15ff653e4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "RBC (लाल रक्त कणिकाएँ) का जीवनकाल कितना होता है?",
+      "options": [
+        "180 दिन",
+        "60 दिन",
+        "30 दिन",
+        "120 दिन"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 120 दिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "75b7c558-429e-50e1-ad30-4e34dd27cac6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "WBC (श्वेत रक्त कणिकाएँ) का मुख्य कार्य क्या है?",
+      "options": [
+        "रोगाणुओं से रक्षा",
+        "रक्त का थक्का जमाना",
+        "पोषण प्रदान करना",
+        "ऑक्सीजन परिवहन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: रोगाणुओं से रक्षा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "797f5a11-e80f-5fcf-9d34-c41608579898",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में सामान्य रक्तदाब कितना होता है?",
+      "options": [
+        "120/80 mmHg",
+        "130/85 mmHg",
+        "140/90 mmHg",
+        "100/70 mmHg"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 120/80 mmHg।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4b4f2fd7-fa30-54d8-a04d-bb8bf91ac97b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर का सामान्य तापमान कितना होता है?",
+      "options": [
+        "37°C (98.6°F)",
+        "36°C",
+        "38°C",
+        "39°C"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 37°C (98.6°F)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "eab996c0-ff14-5ead-be44-5f30670f2c56",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव मस्तिष्क का वजन लगभग कितना होता है?",
+      "options": [
+        "3 किग्रा",
+        "2 किग्रा",
+        "1 किग्रा",
+        "1.4 किग्रा"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 1.4 किग्रा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "318088d1-588b-5522-a76a-40fc876d0138",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "गुर्दे (Kidney) का मुख्य कार्य क्या है?",
+      "options": [
+        "पाचन",
+        "श्वसन",
+        "रक्त का शुद्धिकरण",
+        "रक्त का निर्माण"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: रक्त का शुद्धिकरण।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "65a30412-1442-56a6-a592-5e141817dd0f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "इंसुलिन किस अंग से स्रावित होता है?",
+      "options": [
+        "अग्न्याशय (Pancreas)",
+        "आमाशय (Stomach)",
+        "यकृत (Liver)",
+        "गुर्दा (Kidney)"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: अग्न्याशय (Pancreas)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8b2f1296-b110-51b6-b174-5f711b4dea93",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में सबसे मजबूत मांसपेशी कौन सी है?",
+      "options": [
+        "ट्राइसेप्स",
+        "मैसेटर (जबड़े की मांसपेशी)",
+        "क्वाड्रिसेप्स",
+        "बाइसेप्स"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मैसेटर (जबड़े की मांसपेशी)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8cb2a54f-2ef2-5f5c-88ab-32080d120a8f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मलेरिया का कारक जीव कौन सा है?",
+      "options": [
+        "बैक्टीरिया",
+        "वायरस",
+        "कवक",
+        "प्लाज्मोडियम"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: प्लाज्मोडियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "df3ef553-44b2-5c33-8bfe-01b8e01e6307",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मलेरिया किसके काटने से फैलता है?",
+      "options": [
+        "एडीज मच्छर",
+        "क्यूलेक्स मच्छर",
+        "मादा एनोफिलीज मच्छर",
+        "नर एनोफिलीज मच्छर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: मादा एनोफिलीज मच्छर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ef2bbacd-9a70-5235-9646-61039bccfef5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "डेंगू किसके काटने से फैलता है?",
+      "options": [
+        "एनोफिलीज मच्छर",
+        "सैंडफ्लाई",
+        "एडीज मच्छर",
+        "क्यूलेक्स मच्छर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: एडीज मच्छर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8009b0f3-ccc5-5748-a19c-08ce811911ea",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "टीबी (क्षय रोग) किस जीवाणु से होता है?",
+      "options": [
+        "ई. कोलाई",
+        "माइकोबैक्टीरियम ट्यूबरक्लोसिस",
+        "स्टैफिलोकोकस",
+        "स्ट्रेप्टोकोकस"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: माइकोबैक्टीरियम ट्यूबरक्लोसिस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e9ef11c3-cc42-564e-b06e-968d74ad4978",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "AIDS का पूरा नाम क्या है?",
+      "options": [
+        "Acquired Internal Deficiency Syndrome",
+        "Auto Immune Deficiency System",
+        "Acquired Immuno Deficiency Syndrome",
+        "Auto Immune Disease Syndrome"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: Acquired Immuno Deficiency Syndrome।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9b2c0141-d709-59f8-a4d5-efb461b0aa04",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "AIDS किस वायरस से होता है?",
+      "options": [
+        "HCV",
+        "HPV",
+        "HIV",
+        "HBV"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: HIV।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0d1408ac-b2e4-58ca-b665-4133ecaf10ed",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पोलियो किससे होता है?",
+      "options": [
+        "बैक्टीरिया",
+        "प्रोटोजोआ",
+        "वायरस",
+        "कवक"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: वायरस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "000cc6cb-33e1-578d-8f12-fc6439176a97",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रेबीज (Rabies) किससे फैलता है?",
+      "options": [
+        "हवा से",
+        "मच्छर से",
+        "पानी से",
+        "कुत्ते के काटने से"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कुत्ते के काटने से।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "950408c5-da9b-5a78-8ac1-71ef49f3ee33",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हैजा (Cholera) किससे होता है?",
+      "options": [
+        "प्रोटोजोआ",
+        "विब्रियो कॉलेरी बैक्टीरिया",
+        "कवक",
+        "वायरस"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: विब्रियो कॉलेरी बैक्टीरिया।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4161113f-4eb0-5d3e-8a73-b9d4bc51e445",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दाद (Ringworm) किससे होता है?",
+      "options": [
+        "वायरस",
+        "बैक्टीरिया",
+        "प्रोटोजोआ",
+        "कवक (Fungus)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कवक (Fungus)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cb134f52-ac35-58ca-8a25-23510a71a627",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कोशिका का पावरहाउस किसे कहते हैं?",
+      "options": [
+        "माइटोकॉन्ड्रिया",
+        "राइबोसोम",
+        "लाइसोसोम",
+        "गॉल्जी बॉडी"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: माइटोकॉन्ड्रिया।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3b33eae2-2abb-53c1-8c9b-a92a0ac3dea8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कोशिका की आत्मघाती थैली किसे कहते हैं?",
+      "options": [
+        "लाइसोसोम",
+        "माइटोकॉन्ड्रिया",
+        "गॉल्जी बॉडी",
+        "राइबोसोम"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: लाइसोसोम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0a93fce9-0b6a-5887-8a95-dde874158709",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रोटीन संश्लेषण कहाँ होता है?",
+      "options": [
+        "राइबोसोम",
+        "केंद्रक",
+        "माइटोकॉन्ड्रिया",
+        "गॉल्जी बॉडी"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: राइबोसोम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a57f7491-255c-586e-a4d3-509846c82c3f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "DNA का पूरा नाम क्या है?",
+      "options": [
+        "Deoxyribonucleic Acid",
+        "Dinucleic Ribose Acid",
+        "Deoxyribonitric Acid",
+        "Diribonucleic Acid"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: Deoxyribonucleic Acid।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "78094727-0a92-5ddb-bafc-98e8fbca90fd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "RNA का पूरा नाम क्या है?",
+      "options": [
+        "Retinoic Acid",
+        "Ribonucleic Acid",
+        "Ribonitric Acid",
+        "Reactive Nucleic Acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Ribonucleic Acid।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a28ccd1d-21e8-527f-9cd4-5d46995b5dae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कोशिका विभाजन के कितने प्रकार हैं?",
+      "options": [
+        "4",
+        "2 (समसूत्री और अर्धसूत्री)",
+        "1",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 2 (समसूत्री और अर्धसूत्री)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d68c730d-3fc8-586d-bee7-d270549fb47a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में गुणसूत्रों की संख्या कितनी है?",
+      "options": [
+        "42",
+        "48",
+        "44",
+        "46 (23 जोड़े)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 46 (23 जोड़े)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c9ceb7d8-d16d-5d74-84e7-616b5b686aba",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पादप कोशिका में कोशिका भित्ति किसकी बनी होती है?",
+      "options": [
+        "सेलुलोज",
+        "लिपिड",
+        "काइटिन",
+        "प्रोटीन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: सेलुलोज।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "57db47ed-d2a1-52ea-9774-c78793b7adf7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश संश्लेषण किस अंगक में होता है?",
+      "options": [
+        "केंद्रक",
+        "माइटोकॉन्ड्रिया",
+        "राइबोसोम",
+        "क्लोरोप्लास्ट (हरित लवक)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: क्लोरोप्लास्ट (हरित लवक)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a0818d5a-6f20-5617-b1f6-bf4ac87dcb1b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पत्तियों का हरा रंग किसके कारण होता है?",
+      "options": [
+        "क्लोरोफिल",
+        "ज़ैन्थोफिल",
+        "एंथोसायनिन",
+        "कैरोटीन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: क्लोरोफिल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f0b030a8-bb2c-5c69-a0fe-fd6d51a2f58f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "जड़ों द्वारा जल अवशोषण की प्रक्रिया क्या कहलाती है?",
+      "options": [
+        "परासरण (Osmosis)",
+        "अवशोषण",
+        "विसरण (Diffusion)",
+        "वाष्पोत्सर्जन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: परासरण (Osmosis)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d6119b98-39f9-5686-aea1-e034936fd204",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पत्तियों से जल के वाष्प के रूप में निकलने की प्रक्रिया क्या कहलाती है?",
+      "options": [
+        "परासरण",
+        "वाष्पोत्सर्जन (Transpiration)",
+        "विसरण",
+        "श्वसन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: वाष्पोत्सर्जन (Transpiration)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6512b9be-9ffc-5eba-a2c5-3c5868426914",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पौधों में भोजन का परिवहन किसके द्वारा होता है?",
+      "options": [
+        "कैम्बियम",
+        "कॉर्टेक्स",
+        "जाइलम",
+        "फ्लोएम"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: फ्लोएम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3323d851-c8c5-5825-9f36-6492b298bec0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पौधों में जल का परिवहन किसके द्वारा होता है?",
+      "options": [
+        "एपिडर्मिस",
+        "फ्लोएम",
+        "कैम्बियम",
+        "जाइलम"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: जाइलम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d034d2fc-3504-5014-8169-30dd39ef838c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "फलों को पकाने वाला हार्मोन कौन सा है?",
+      "options": [
+        "एथिलीन",
+        "जिबरेलिन",
+        "ऑक्सिन",
+        "साइटोकाइनिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: एथिलीन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "dd73467c-c8b3-573b-888d-03a617325002",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पौधों की वृद्धि का हार्मोन कौन सा है?",
+      "options": [
+        "एब्सिसिक एसिड",
+        "ऑक्सिन",
+        "एथिलीन",
+        "जिबरेलिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: ऑक्सिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0c7e08cd-3269-5727-8180-9c5403c20f55",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ध्वनि किस माध्यम में सबसे तेज चलती है?",
+      "options": [
+        "द्रव",
+        "ठोस",
+        "गैस",
+        "निर्वात"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: ठोस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ff87e0c6-42f7-5579-b120-20a97e23783d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश किस माध्यम में सबसे तेज चलता है?",
+      "options": [
+        "काँच",
+        "जल",
+        "निर्वात",
+        "वायु"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: निर्वात।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5440230d-a520-52bd-bd5b-6ee08716950a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ध्वनि निर्वात में चल सकती है?",
+      "options": [
+        "नहीं",
+        "हाँ",
+        "केवल उच्च आवृत्ति पर",
+        "कभी-कभी"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: नहीं।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5f7cde9d-98f2-566a-915e-fadd2ca6c3ba",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रकाश का वेग किस माध्यम में सबसे कम होता है?",
+      "options": [
+        "काँच",
+        "जल",
+        "वायु",
+        "निर्वात"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: काँच।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "879299e1-1402-5433-a99c-6152e3b1459e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "तारे टिमटिमाते क्यों हैं?",
+      "options": [
+        "वायुमंडलीय अपवर्तन के कारण",
+        "ध्रुवण के कारण",
+        "परावर्तन के कारण",
+        "विवर्तन के कारण"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: वायुमंडलीय अपवर्तन के कारण।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "61d284a3-5966-5707-ad63-83748a78737d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आकाश का रंग नीला क्यों दिखता है?",
+      "options": [
+        "विवर्तन के कारण",
+        "प्रकाश के प्रकीर्णन (Scattering) के कारण",
+        "अपवर्तन के कारण",
+        "परावर्तन के कारण"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: प्रकाश के प्रकीर्णन (Scattering) के कारण।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4c9bce4d-52df-5f16-afca-da71b13f6a0e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सूर्य का प्रकाश पृथ्वी तक कितने समय में पहुँचता है?",
+      "options": [
+        "1 मिनट",
+        "लगभग 8 मिनट 20 सेकंड",
+        "30 सेकंड",
+        "15 मिनट"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: लगभग 8 मिनट 20 सेकंड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "77b70c63-a071-5056-97d3-eb2ec3cf8f9e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पृथ्वी पर गुरुत्वीय त्वरण (g) का मान कितना है?",
+      "options": [
+        "8.9 m/s²",
+        "9.8 m/s²",
+        "10.2 m/s²",
+        "11 m/s²"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 9.8 m/s²।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b0618790-51d8-57f7-8417-8e05fbc5d232",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "चंद्रमा पर गुरुत्वीय त्वरण पृथ्वी के कितना है?",
+      "options": [
+        "1/3",
+        "1/6",
+        "1/8",
+        "1/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1/6।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "866a515d-9ffc-54d2-a5bb-9f3d89cfa954",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पृथ्वी सूर्य के चारों ओर कितने दिन में एक चक्कर लगाती है?",
+      "options": [
+        "366 दिन",
+        "360 दिन",
+        "365.25 दिन",
+        "364 दिन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 365.25 दिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "eaadca83-7079-56b3-9e7f-fb44013a5559",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ऊष्मा का SI मात्रक क्या है?",
+      "options": [
+        "केल्विन",
+        "कैलोरी",
+        "वाट",
+        "जूल"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: जूल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "08d0f03d-cae3-5350-9a3b-b7c3460fd971",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "तापमान मापने का यंत्र क्या है?",
+      "options": [
+        "बैरोमीटर",
+        "हाइग्रोमीटर",
+        "थर्मामीटर",
+        "एनीमोमीटर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: थर्मामीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f706e552-f7ea-5620-a150-84efab1f9ca1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वायुमंडलीय दाब मापने का यंत्र क्या है?",
+      "options": [
+        "हाइग्रोमीटर",
+        "मैनोमीटर",
+        "बैरोमीटर",
+        "थर्मामीटर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: बैरोमीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "843f9c67-6669-5715-8860-2736db71d95c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आर्द्रता मापने का यंत्र क्या है?",
+      "options": [
+        "थर्मामीटर",
+        "एनीमोमीटर",
+        "बैरोमीटर",
+        "हाइग्रोमीटर"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: हाइग्रोमीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d3039e76-7a4e-586e-9f86-ab04cf27ca62",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हवा की गति मापने का यंत्र क्या है?",
+      "options": [
+        "हाइग्रोमीटर",
+        "एनीमोमीटर",
+        "बैरोमीटर",
+        "स्पीडोमीटर"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: एनीमोमीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "015c27b8-c868-5064-9b58-a06edd8fd128",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भूकंप मापने का यंत्र क्या है?",
+      "options": [
+        "एनीमोमीटर",
+        "थर्मामीटर",
+        "बैरोमीटर",
+        "सिस्मोग्राफ (रिक्टर स्केल)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: सिस्मोग्राफ (रिक्टर स्केल)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2ca4a6e6-c0d4-521e-a524-a7d96d8afa59",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दूध की शुद्धता मापने का यंत्र क्या है?",
+      "options": [
+        "थर्मामीटर",
+        "हाइड्रोमीटर",
+        "बैरोमीटर",
+        "लैक्टोमीटर"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: लैक्टोमीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "00d884c5-a941-508b-a3ee-3bb75f1e63f6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रक्तदाब मापने का यंत्र क्या है?",
+      "options": [
+        "स्टेथोस्कोप",
+        "बैरोमीटर",
+        "स्फिग्मोमैनोमीटर",
+        "थर्मामीटर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: स्फिग्मोमैनोमीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ae265a45-754f-5547-ab6c-3f6d816c2079",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विद्युत धारा मापने का यंत्र क्या है?",
+      "options": [
+        "गैल्वेनोमीटर",
+        "ओममीटर",
+        "वोल्टमीटर",
+        "एमीटर (अमीटर)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: एमीटर (अमीटर)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4a27de63-baf5-5546-bf92-c21c70dcc5a7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विभवांतर मापने का यंत्र क्या है?",
+      "options": [
+        "गैल्वेनोमीटर",
+        "वाटमीटर",
+        "एमीटर",
+        "वोल्टमीटर"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: वोल्टमीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "655baaf5-9c4a-5097-aa7e-d5aa34031cc5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दूरी मापने के लिए किस इकाई का उपयोग होता है?",
+      "options": [
+        "किलोमीटर",
+        "प्रकाश वर्ष",
+        "मील",
+        "गज"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: प्रकाश वर्ष।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "adfc74ab-44b1-505b-9822-8f45521d08d2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "न्यूक्लियर रिएक्टर में मंदक (Moderator) के रूप में किसका उपयोग होता है?",
+      "options": [
+        "हल्का जल",
+        "भारी जल (Heavy Water)",
+        "नमक का पानी",
+        "साधारण जल"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: भारी जल (Heavy Water)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b6f3c6c0-cc75-57fa-aae7-eeda8cd299e9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सोलर सेल किस ऊर्जा को विद्युत ऊर्जा में बदलता है?",
+      "options": [
+        "यांत्रिक ऊर्जा",
+        "सौर ऊर्जा (प्रकाश)",
+        "ऊष्मा ऊर्जा",
+        "रासायनिक ऊर्जा"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: सौर ऊर्जा (प्रकाश)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2d8e2a18-ce06-57f1-b0f4-7a36430a0efd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "माइक्रोवेव ओवन किस सिद्धांत पर काम करता है?",
+      "options": [
+        "गुरुत्वाकर्षण",
+        "ध्वनि तरंगों",
+        "विद्युत चुम्बकीय तरंगों",
+        "चुम्बकीय क्षेत्र"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: विद्युत चुम्बकीय तरंगों।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e07cc312-303b-51aa-96c1-628556895f4a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रेफ्रिजरेटर में कौन सी गैस शीतलक (Coolant) के रूप में प्रयोग होती है?",
+      "options": [
+        "क्लोरीन",
+        "फ्रीऑन (CFC)",
+        "ऑक्सीजन",
+        "अमोनिया"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: फ्रीऑन (CFC)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "65f7b283-c241-550a-aee5-3aa90bb51fa5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "साइकिल का टायर गर्मी में क्यों फट जाता है?",
+      "options": [
+        "गर्मी में गैस का प्रसार",
+        "ठंड के कारण",
+        "दाब कम होने से",
+        "टायर पुराना होने से"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: गर्मी में गैस का प्रसार।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ae18eda3-559a-5fd3-8e58-de31cc0634da",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बर्फ पानी पर क्यों तैरती है?",
+      "options": [
+        "गुरुत्वाकर्षण के कारण",
+        "बर्फ हल्की होती है",
+        "बर्फ का घनत्व पानी से कम होता है",
+        "पानी भारी होता है"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: बर्फ का घनत्व पानी से कम होता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b98782b7-d197-5b2d-b02e-e6ae30492adf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "इंद्रधनुष किस सिद्धांत पर बनता है?",
+      "options": [
+        "विवर्तन",
+        "अपवर्तन",
+        "प्रकाश का विक्षेपण (Dispersion)",
+        "परावर्तन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: प्रकाश का विक्षेपण (Dispersion)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2ef82708-fecf-5e19-b797-b0269bdc094f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हीरा क्यों चमकता है?",
+      "options": [
+        "प्रकीर्णन",
+        "विवर्तन",
+        "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+        "अपवर्तन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: पूर्ण आंतरिक परावर्तन (Total Internal Reflection)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cabd5a70-9a77-5068-83cd-63c379d0959f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दर्पण में प्रतिबिंब किस सिद्धांत पर बनता है?",
+      "options": [
+        "प्रकीर्णन",
+        "विवर्तन",
+        "परावर्तन (Reflection)",
+        "अपवर्तन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: परावर्तन (Reflection)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b4e982e0-5a56-52fa-b595-d9bcc73fd2cb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र क्या है?",
+      "options": [
+        "Ca(OH)₂",
+        "CaCO₃",
+        "CaSO₄·2H₂O",
+        "CaSO₄·½H₂O"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: CaSO₄·½H₂O।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4871d462-2f54-5297-9cdb-955c77e0d41a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ब्लीचिंग पाउडर का रासायनिक सूत्र क्या है?",
+      "options": [
+        "Ca(OH)₂",
+        "CaCl₂",
+        "NaOCl",
+        "Ca(OCl)Cl"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Ca(OCl)Cl।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "db13c22d-236b-5294-af6e-df2568862020",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "जिप्सम का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CaSO₄·2H₂O",
+        "CaSO₄·½H₂O",
+        "Ca(OH)₂",
+        "CaCO₃"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: CaSO₄·2H₂O।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6cc28769-50c2-5bd3-be19-14e2f543b27c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "नीला थोथा (Blue Vitriol) क्या है?",
+      "options": [
+        "सोडियम सल्फेट",
+        "जिंक सल्फेट",
+        "फेरस सल्फेट",
+        "कॉपर सल्फेट (CuSO₄·5H₂O)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कॉपर सल्फेट (CuSO₄·5H₂O)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "110b7da3-f297-5a66-a4d7-23906d36a827",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हरा कसीस (Green Vitriol) क्या है?",
+      "options": [
+        "मैग्नीशियम सल्फेट",
+        "कॉपर सल्फेट",
+        "जिंक सल्फेट",
+        "फेरस सल्फेट (FeSO₄·7H₂O)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: फेरस सल्फेट (FeSO₄·7H₂O)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "214521a9-73b0-5179-9f85-8396d71ea1c6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सफेद कसीस (White Vitriol) क्या है?",
+      "options": [
+        "फेरस सल्फेट",
+        "जिंक सल्फेट (ZnSO₄·7H₂O)",
+        "कॉपर सल्फेट",
+        "सोडियम सल्फेट"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: जिंक सल्फेट (ZnSO₄·7H₂O)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9b873450-bced-5aa2-b5a1-693b0390d460",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अम्लराज (Aqua Regia) किसका मिश्रण है?",
+      "options": [
+        "HCl और HNO₃ (3:1)",
+        "HCl और H₂O",
+        "H₂SO₄ और HCl",
+        "HNO₃ और H₂SO₄"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: HCl और HNO₃ (3:1)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cd9f9304-6193-5b2b-8277-21ffbf204193",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अम्लराज किस धातु को गला सकता है?",
+      "options": [
+        "तांबा",
+        "चाँदी",
+        "सोना (Gold)",
+        "लोहा"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: सोना (Gold)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cf529daa-eefd-5cd2-b8f9-666e716a4ae9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "परमाणु क्रमांक (Atomic Number) किसे कहते हैं?",
+      "options": [
+        "द्रव्यमान संख्या",
+        "इलेक्ट्रॉन की संख्या",
+        "न्यूट्रॉन की संख्या",
+        "प्रोटॉन की संख्या"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: प्रोटॉन की संख्या।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "02f69da3-ac5f-5405-a994-6dbe73a2d596",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "द्रव्यमान संख्या (Mass Number) क्या है?",
+      "options": [
+        "केवल प्रोटॉन",
+        "प्रोटॉन + इलेक्ट्रॉन",
+        "प्रोटॉन + न्यूट्रॉन",
+        "न्यूट्रॉन + इलेक्ट्रॉन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: प्रोटॉन + न्यूट्रॉन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6849b9a6-c5fc-5c49-9d83-d7886ea2323f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "समस्थानिक (Isotopes) क्या होते हैं?",
+      "options": [
+        "समान इलेक्ट्रॉन",
+        "समान द्रव्यमान, भिन्न परमाणु क्रमांक",
+        "समान न्यूट्रॉन",
+        "समान परमाणु क्रमांक, भिन्न द्रव्यमान संख्या"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: समान परमाणु क्रमांक, भिन्न द्रव्यमान संख्या।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d03eed72-fc65-54c3-928e-02db5e8e6800",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हाइड्रोजन के समस्थानिक कौन से हैं?",
+      "options": [
+        "प्रोटियम, ड्यूटीरियम, ट्राइटियम",
+        "हीलियम, लिथियम, बेरिलियम",
+        "प्रोटॉन, न्यूट्रॉन, इलेक्ट्रॉन",
+        "H₂, H₃, H₄"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: प्रोटियम, ड्यूटीरियम, ट्राइटियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "78bbf5d7-04a1-545f-a857-24a34f1dd840",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आवर्त सारणी (Periodic Table) किसने बनाई?",
+      "options": [
+        "रदरफोर्ड",
+        "मेंडेलीव",
+        "बोर",
+        "डाल्टन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मेंडेलीव।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b9f93dc2-edce-5a58-8606-742d8b3fd6dc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आधुनिक आवर्त सारणी में कितने तत्व हैं?",
+      "options": [
+        "112",
+        "108",
+        "118",
+        "120"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 118।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a8e96b99-f56b-5647-b3fa-a45288729378",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आवर्त सारणी में कितने आवर्त (Period) हैं?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 7।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f10da1d8-ce27-5bef-8823-030763a3c019",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आवर्त सारणी में कितने वर्ग (Group) हैं?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 18।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "704be020-61af-5b0b-8b76-e75afee0c52b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे हल्का तत्व कौन सा है?",
+      "options": [
+        "लिथियम",
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "हीलियम"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: हाइड्रोजन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "34aeac8d-6261-5ea9-9bc3-d2cede4246e1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे भारी प्राकृतिक तत्व कौन सा है?",
+      "options": [
+        "सोना",
+        "प्लैटिनम",
+        "प्लूटोनियम",
+        "यूरेनियम"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: यूरेनियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "24677699-b551-589f-980b-43943b5005b6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "नोबल (अक्रिय) गैसें कौन सी हैं?",
+      "options": [
+        "क्लोरीन, ब्रोमीन, आयोडीन",
+        "सोडियम, पोटैशियम, कैल्शियम",
+        "हीलियम, नियॉन, आर्गन, क्रिप्टॉन, जीनॉन, रेडॉन",
+        "हाइड्रोजन, ऑक्सीजन, नाइट्रोजन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: हीलियम, नियॉन, आर्गन, क्रिप्टॉन, जीनॉन, रेडॉन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "12b7509d-42a0-5768-9b62-6b408a84c9db",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दूध से दही बनना कौन सा परिवर्तन है?",
+      "options": [
+        "भौतिक परिवर्तन",
+        "रासायनिक परिवर्तन",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: रासायनिक परिवर्तन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d6375982-a60a-5092-998e-a2e8f68203bb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बर्फ का पिघलना कौन सा परिवर्तन है?",
+      "options": [
+        "दोनों",
+        "रासायनिक परिवर्तन",
+        "भौतिक परिवर्तन",
+        "कोई नहीं"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: भौतिक परिवर्तन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2241792b-cd7e-5492-83de-daa280f3d08b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कागज का जलना कौन सा परिवर्तन है?",
+      "options": [
+        "रासायनिक परिवर्तन",
+        "कोई नहीं",
+        "भौतिक परिवर्तन",
+        "दोनों"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: रासायनिक परिवर्तन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d235b0dd-2f21-5faa-b669-00050a6bc705",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ऊर्ध्वपातन (Sublimation) का उदाहरण क्या है?",
+      "options": [
+        "कपूर",
+        "चीनी",
+        "नमक",
+        "बर्फ"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: कपूर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "19a08a2d-4a84-5c20-84a0-1049bdeb7736",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आसवन (Distillation) विधि किसके लिए उपयोग होती है?",
+      "options": [
+        "दो मिश्रणीय द्रवों को अलग करने",
+        "रासायनिक अभिक्रिया",
+        "ठोस से द्रव अलग करने",
+        "गैस से ठोस अलग करने"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: दो मिश्रणीय द्रवों को अलग करने।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1805e9f1-6c1a-5474-99d1-b35c672b1436",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "क्रोमैटोग्राफी किसके लिए उपयोग होती है?",
+      "options": [
+        "गैसों को मापने",
+        "ताप मापने",
+        "रंगों/पदार्थों को अलग करने",
+        "धातुओं को शुद्ध करने"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: रंगों/पदार्थों को अलग करने।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a71d17bd-29ea-53fd-bf3c-366ca1651b96",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विलयन (Solution) का उदाहरण क्या है?",
+      "options": [
+        "नमक का पानी में घोल",
+        "तेल और पानी",
+        "रेत और पानी",
+        "दूध"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: नमक का पानी में घोल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "df01282d-5dc7-5784-927c-e331b2a39369",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कोलाइड (Colloid) का उदाहरण क्या है?",
+      "options": [
+        "शुद्ध जल",
+        "नमक का पानी",
+        "दूध",
+        "चीनी का पानी"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: दूध।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ae375693-6209-5dfe-b249-63ef25a07b3c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "निलंबन (Suspension) का उदाहरण क्या है?",
+      "options": [
+        "नमक का पानी",
+        "दूध",
+        "मिट्टी का पानी (गंदला पानी)",
+        "शुद्ध जल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: मिट्टी का पानी (गंदला पानी)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b5ef132b-d684-58cb-837e-1e6611fb2441",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "टिंडल प्रभाव किसमें दिखता है?",
+      "options": [
+        "कोलाइड",
+        "शुद्ध जल",
+        "निलंबन",
+        "विलयन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: कोलाइड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "80b85ade-ac9c-5886-822b-07a1f724e456",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "साबुन कैसे बनता है?",
+      "options": [
+        "वसा + NaCl",
+        "वसा + NaOH (साबुनीकरण)",
+        "वसा + HCl",
+        "तेल + H₂SO₄"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: वसा + NaOH (साबुनीकरण)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ab215d96-ef9f-5658-8f22-e05565640679",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मनुष्य के दाँतों में कौन सा पदार्थ सबसे कठोर होता है?",
+      "options": [
+        "सीमेंटम",
+        "इनेमल (Enamel)",
+        "डेंटीन",
+        "पल्प"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: इनेमल (Enamel)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5c2a2a09-8c74-5337-b3ce-19637ac8d557",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रक्त का pH मान कितना होता है?",
+      "options": [
+        "8.0 - 8.5",
+        "6.5 - 7.0",
+        "7.35 - 7.45",
+        "5.5 - 6.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 7.35 - 7.45।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "895f0354-1f97-5652-bb0d-aaaf2fea762a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रक्त समूह (Blood Group) की खोज किसने की?",
+      "options": [
+        "विलियम हार्वे",
+        "रॉबर्ट कोच",
+        "लुई पाश्चर",
+        "कार्ल लैंडस्टीनर"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कार्ल लैंडस्टीनर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2ed5b3c0-04e3-5a8d-9b30-b5392eedcb66",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सर्वदाता (Universal Donor) रक्त समूह कौन सा है?",
+      "options": [
+        "AB",
+        "O",
+        "B",
+        "A"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: O।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3594b692-2614-5364-869b-1b156e7039ab",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सर्वग्राही (Universal Recipient) रक्त समूह कौन सा है?",
+      "options": [
+        "O",
+        "B",
+        "AB",
+        "A"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: AB।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2ecb0382-c7bd-54be-8835-e5b07b6ad6c5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हीमोग्लोबिन में कौन सी धातु पाई जाती है?",
+      "options": [
+        "जस्ता",
+        "मैग्नीशियम",
+        "लोहा (Iron)",
+        "तांबा"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: लोहा (Iron)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1513aa1a-e5a2-5382-83c2-2184f298ab83",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में सबसे बड़ी कोशिका कौन सी है?",
+      "options": [
+        "RBC",
+        "अंडाणु (Ovum)",
+        "तंत्रिका कोशिका",
+        "WBC"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: अंडाणु (Ovum)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "18450739-4f19-5138-a482-2707250a78e6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर की सबसे छोटी कोशिका कौन सी है?",
+      "options": [
+        "RBC",
+        "WBC",
+        "प्लेटलेट्स",
+        "शुक्राणु (Sperm)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: शुक्राणु (Sperm)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "548bd2bc-f746-551d-b846-09d86fc52c24",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में कितने प्रतिशत जल होता है?",
+      "options": [
+        "70%",
+        "50%",
+        "60%",
+        "80%"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 70%।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f18099a3-a897-5744-9b52-e2be53784f35",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में रक्त की मात्रा लगभग कितनी होती है?",
+      "options": [
+        "5-6 लीटर",
+        "1-2 लीटर",
+        "3-4 लीटर",
+        "8-10 लीटर"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 5-6 लीटर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "12d054ce-8c85-5e40-900c-563d61809340",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पित्त (Bile) कहाँ बनता है?",
+      "options": [
+        "यकृत (Liver)",
+        "आमाशय",
+        "अग्न्याशय",
+        "पित्ताशय (Gallbladder)"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: यकृत (Liver)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "82571e1b-908b-50fb-9b03-151282d6d3bb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पित्त कहाँ संग्रहित होता है?",
+      "options": [
+        "पित्ताशय (Gallbladder)",
+        "यकृत",
+        "अग्न्याशय",
+        "आँत"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: पित्ताशय (Gallbladder)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f95bb127-a8ce-5d23-a7c6-f36e9d860cbf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पाचन की प्रक्रिया कहाँ से शुरू होती है?",
+      "options": [
+        "छोटी आँत",
+        "मुँह (Mouth)",
+        "आमाशय",
+        "बड़ी आँत"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मुँह (Mouth)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c2fa6d01-e5bf-5450-ad59-82c6702493f6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रोटीन का पाचन कहाँ होता है?",
+      "options": [
+        "मुँह",
+        "छोटी आँत",
+        "बड़ी आँत",
+        "आमाशय (Stomach)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: आमाशय (Stomach)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "09742bb9-6305-5f08-832e-3a725623ac8f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वसा का पाचन कहाँ होता है?",
+      "options": [
+        "छोटी आँत (Small Intestine)",
+        "बड़ी आँत",
+        "आमाशय",
+        "मुँह"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: छोटी आँत (Small Intestine)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "be987345-c4b2-5d51-a012-729f6cc9810e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कार्बोहाइड्रेट का पाचन कहाँ शुरू होता है?",
+      "options": [
+        "आमाशय",
+        "मुँह (Mouth)",
+        "बड़ी आँत",
+        "छोटी आँत"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मुँह (Mouth)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "328683f4-24ae-5c38-bf38-ebd3c3e50826",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "लार (Saliva) में कौन सा एंजाइम पाया जाता है?",
+      "options": [
+        "लाइपेज",
+        "एमाइलेज (Amylase/Ptyalin)",
+        "पेप्सिन",
+        "ट्रिप्सिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: एमाइलेज (Amylase/Ptyalin)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7e75c56d-9aa0-5e1f-96a8-ac0cf30ca59c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आमाशय में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "सल्फ्यूरिक अम्ल",
+        "नाइट्रिक अम्ल",
+        "हाइड्रोक्लोरिक अम्ल (HCl)",
+        "एसीटिक अम्ल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: हाइड्रोक्लोरिक अम्ल (HCl)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2a7446f7-aafd-5697-8f0e-4f9726da0052",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "फेफड़ों का मुख्य कार्य क्या है?",
+      "options": [
+        "पाचन",
+        "उत्सर्जन",
+        "गैसों का आदान-प्रदान (O₂ और CO₂)",
+        "रक्त शुद्धिकरण"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: गैसों का आदान-प्रदान (O₂ और CO₂)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1deed5c2-645f-5da9-a8d7-a03394da709e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "श्वसन में ली जाने वाली वायु में ऑक्सीजन कितनी प्रतिशत होती है?",
+      "options": [
+        "78%",
+        "21%",
+        "4%",
+        "16%"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 21%।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bc8e7421-9761-5d23-97ec-40c7e0ee247a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "छोड़ी जाने वाली वायु में CO₂ कितनी प्रतिशत होती है?",
+      "options": [
+        "16%",
+        "0.04%",
+        "21%",
+        "4%"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 4%।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d3bbbdf0-774d-5ae1-9fce-845b53f770ab",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "थायरॉइड ग्रंथि कौन सा हार्मोन स्रावित करती है?",
+      "options": [
+        "थायरॉक्सिन",
+        "टेस्टोस्टेरोन",
+        "एड्रीनलिन",
+        "इंसुलिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: थायरॉक्सिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9e860663-9ad0-55b4-b2bc-21ff1d36bf87",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "थायरॉइड ग्रंथि की अतिसक्रियता से कौन सा रोग होता है?",
+      "options": [
+        "गठिया",
+        "ग्रेव्स रोग (Graves Disease)",
+        "एनीमिया",
+        "मधुमेह"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: ग्रेव्स रोग (Graves Disease)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "68c04c11-0510-584e-89ea-cb107cdea55d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "आयोडीन की कमी से कौन सा रोग होता है?",
+      "options": [
+        "मधुमेह",
+        "घेंघा (Goitre)",
+        "स्कर्वी",
+        "रिकेट्स"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: घेंघा (Goitre)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e296aaca-dff8-53ab-ab5d-ef4430c5abb2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मधुमेह (Diabetes) किस हार्मोन की कमी से होता है?",
+      "options": [
+        "एड्रीनलिन",
+        "थायरॉक्सिन",
+        "इंसुलिन",
+        "ग्लूकागॉन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: इंसुलिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "85b9431d-71fd-5c37-a542-779b22b05db8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "BCG का टीका किस रोग से बचाव के लिए है?",
+      "options": [
+        "टीबी (क्षय रोग)",
+        "मलेरिया",
+        "पोलियो",
+        "हेपेटाइटिस"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: टीबी (क्षय रोग)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "02f731b9-230c-5fb1-ad0c-c907f574101d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "OPV (Oral Polio Vaccine) किस रोग से बचाव के लिए है?",
+      "options": [
+        "टीबी",
+        "हेपेटाइटिस",
+        "खसरा",
+        "पोलियो"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: पोलियो।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d993e15d-1cd6-5cd1-91cd-2020dee91a96",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "MMR वैक्सीन किन रोगों से बचाव करती है?",
+      "options": [
+        "मलेरिया, डेंगू, चिकनगुनिया",
+        "खसरा, मम्प्स, रूबेला",
+        "टीबी, हैजा, टाइफाइड",
+        "पोलियो, डिप्थीरिया, टेटनस"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: खसरा, मम्प्स, रूबेला।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7c1b6505-b78f-5d52-81e7-78eff0487642",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "एंटीबायोटिक किसके विरुद्ध काम करता है?",
+      "options": [
+        "बैक्टीरिया",
+        "प्रोटोजोआ",
+        "कवक",
+        "वायरस"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: बैक्टीरिया।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2ad0b4c7-dd9f-569f-bc66-be7027536a85",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पहली एंटीबायोटिक कौन सी थी?",
+      "options": [
+        "टेट्रासाइक्लिन",
+        "एमॉक्सिसिलिन",
+        "स्ट्रेप्टोमाइसिन",
+        "पेनिसिलिन"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: पेनिसिलिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cb8f2ae4-b2f1-5bec-8e45-6c8262f75be7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन D का मुख्य स्रोत क्या है?",
+      "options": [
+        "फल",
+        "सब्जियाँ",
+        "सूर्य का प्रकाश",
+        "दूध"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: सूर्य का प्रकाश।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "58933a5f-5776-52d4-8ced-6cf0cc25fc78",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन C का मुख्य स्रोत क्या है?",
+      "options": [
+        "अंडा",
+        "दूध",
+        "खट्टे फल (नींबू, संतरा, आँवला)",
+        "मछली"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: खट्टे फल (नींबू, संतरा, आँवला)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "40ab3df8-36d8-5ac1-b80f-3b925839f5fd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन A का मुख्य स्रोत क्या है?",
+      "options": [
+        "गाजर, दूध, अंडा",
+        "गेहूँ",
+        "चावल",
+        "आलू"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: गाजर, दूध, अंडा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "83ae2e39-c4b9-5fdd-9110-a8756106b814",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रोटीन का मुख्य स्रोत क्या है?",
+      "options": [
+        "फल, सब्जियाँ",
+        "तेल, घी",
+        "दालें, अंडा, मांस, दूध",
+        "चावल, गेहूँ"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: दालें, अंडा, मांस, दूध।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b38a4333-2cac-5ccf-a67f-b01780046d6d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कार्बोहाइड्रेट का मुख्य स्रोत क्या है?",
+      "options": [
+        "दालें, अंडा",
+        "दूध, दही",
+        "चावल, गेहूँ, आलू",
+        "फल, सब्जियाँ"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: चावल, गेहूँ, आलू।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "83c81a43-c933-538e-abb0-4854bab494de",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वसा (Fat) का मुख्य स्रोत क्या है?",
+      "options": [
+        "दालें",
+        "सब्जियाँ",
+        "चावल, गेहूँ",
+        "तेल, घी, मक्खन"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: तेल, घी, मक्खन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9a68a757-c28c-55ea-87ce-054b99785e9e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "क्वाशियोरकोर रोग किसकी कमी से होता है?",
+      "options": [
+        "कार्बोहाइड्रेट",
+        "खनिज",
+        "विटामिन",
+        "प्रोटीन"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: प्रोटीन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fcf5d10e-2317-5821-a860-86a542be793a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मरास्मस रोग किसकी कमी से होता है?",
+      "options": [
+        "प्रोटीन और कैलोरी दोनों",
+        "केवल विटामिन",
+        "केवल खनिज",
+        "केवल प्रोटीन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: प्रोटीन और कैलोरी दोनों।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a957c045-6119-517c-b344-b1950a10d7d4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रक्त में शर्करा का स्तर कौन नियंत्रित करता है?",
+      "options": [
+        "हृदय",
+        "अग्न्याशय (Pancreas)",
+        "यकृत",
+        "गुर्दा"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: अग्न्याशय (Pancreas)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0f8e5136-a2ec-54d7-bada-e4eac8ed6735",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "तंत्रिका तंत्र (Nervous System) का नियंत्रण केंद्र कौन है?",
+      "options": [
+        "रीढ़ की हड्डी",
+        "हृदय",
+        "मस्तिष्क (Brain)",
+        "यकृत"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: मस्तिष्क (Brain)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "59168dd4-1b4f-5afe-a2b1-c0da0e6993c0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव मस्तिष्क का सबसे बड़ा भाग कौन सा है?",
+      "options": [
+        "पोन्स",
+        "अनुमस्तिष्क (Cerebellum)",
+        "प्रमस्तिष्क (Cerebrum)",
+        "मेडुला ऑब्लांगेटा"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: प्रमस्तिष्क (Cerebrum)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "db0d14b4-4f64-5830-a823-95b4d83e35ad",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रतिवर्ती क्रिया (Reflex Action) का नियंत्रण कहाँ होता है?",
+      "options": [
+        "मेरुरज्जु (Spinal Cord)",
+        "हृदय",
+        "मस्तिष्क",
+        "यकृत"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: मेरुरज्जु (Spinal Cord)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "088b1807-fbcc-50f3-922c-fb78ca9f5301",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अनुवांशिकता (Genetics) का जनक किसे माना जाता है?",
+      "options": [
+        "ग्रेगर मेंडल",
+        "लैमार्क",
+        "रॉबर्ट हुक",
+        "चार्ल्स डार्विन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: ग्रेगर मेंडल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "abd81c8f-3399-5fee-8e64-b110572cee5f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विकास का सिद्धांत (Theory of Evolution) किसने दिया?",
+      "options": [
+        "ग्रेगर मेंडल",
+        "चार्ल्स डार्विन",
+        "लैमार्क",
+        "ह्यूगो डी व्रीज"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: चार्ल्स डार्विन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f99d2d98-513b-5ad2-ba25-f990b9f6929d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कोशिका (Cell) की खोज किसने की?",
+      "options": [
+        "श्लाइडेन",
+        "रॉबर्ट ब्राउन",
+        "रॉबर्ट हुक",
+        "श्वान"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: रॉबर्ट हुक।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e87b708f-2459-587b-adb1-741e0a3cc8eb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "केंद्रक (Nucleus) की खोज किसने की?",
+      "options": [
+        "श्वान",
+        "रॉबर्ट हुक",
+        "श्लाइडेन",
+        "रॉबर्ट ब्राउन"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: रॉबर्ट ब्राउन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "915f8a4d-1166-532c-ae03-cd1fd6adbbbb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सौरमंडल में कुल कितने ग्रह हैं?",
+      "options": [
+        "10",
+        "9",
+        "7",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 8।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fbb3cbf9-2131-5690-a14a-f4cb93306436",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सूर्य के सबसे निकट ग्रह कौन सा है?",
+      "options": [
+        "पृथ्वी (Earth)",
+        "शुक्र (Venus)",
+        "बुध (Mercury)",
+        "मंगल (Mars)"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: बुध (Mercury)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "dfe81afd-c401-5088-bd78-fa92d157b3cf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सूर्य से सबसे दूर ग्रह कौन सा है?",
+      "options": [
+        "प्लूटो",
+        "शनि",
+        "यूरेनस",
+        "नेप्च्यून (Neptune)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: नेप्च्यून (Neptune)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b42e93d3-4f5b-542f-856d-08b9c267e5dc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे बड़ा ग्रह कौन सा है?",
+      "options": [
+        "यूरेनस",
+        "बृहस्पति (Jupiter)",
+        "नेप्च्यून",
+        "शनि (Saturn)"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: बृहस्पति (Jupiter)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3064b5e6-6f05-59c6-86b3-5fb3b4609e2c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सबसे छोटा ग्रह कौन सा है?",
+      "options": [
+        "पृथ्वी (Earth)",
+        "बुध (Mercury)",
+        "मंगल (Mars)",
+        "शुक्र (Venus)"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: बुध (Mercury)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "af6dd9d4-ae7f-5813-8730-7fafe14927ba",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पृथ्वी का एकमात्र प्राकृतिक उपग्रह कौन सा है?",
+      "options": [
+        "शुक्र",
+        "मंगल",
+        "चंद्रमा",
+        "बुध"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: चंद्रमा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b50c67fc-44e3-5c43-ba5f-b3db66d5ad15",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "किस ग्रह को 'लाल ग्रह' कहते हैं?",
+      "options": [
+        "बृहस्पति",
+        "शनि",
+        "बुध",
+        "मंगल (Mars)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: मंगल (Mars)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4cc79e77-778d-5af4-82ed-2c9443d1ea8d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "किस ग्रह को 'भोर का तारा' या 'शाम का तारा' कहते हैं?",
+      "options": [
+        "शुक्र (Venus)",
+        "बृहस्पति",
+        "मंगल",
+        "बुध"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: शुक्र (Venus)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4c899287-e7c3-5d22-b31b-eea70970ba0a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "शनि ग्रह की विशेषता क्या है?",
+      "options": [
+        "सबसे बड़ा होना",
+        "सबसे गर्म होना",
+        "वलय (Rings) होना",
+        "लाल रंग"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: वलय (Rings) होना।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0e8fd14d-6c44-53fa-b364-e7dc175d19ea",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सूर्य किस प्रकार का तारा है?",
+      "options": [
+        "नीला दानव",
+        "लाल बौना",
+        "पीला बौना तारा (Yellow Dwarf)",
+        "श्वेत बौना"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: पीला बौना तारा (Yellow Dwarf)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ba8d2527-0de5-5f8a-b946-35ec1b0008fc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "खाद्य श्रृंखला (Food Chain) में ऊर्जा का प्रवाह कैसा होता है?",
+      "options": [
+        "द्विदिशीय",
+        "बहुदिशीय",
+        "एकदिशीय (Unidirectional)",
+        "कोई प्रवाह नहीं"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: एकदिशीय (Unidirectional)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "385d916d-65b7-594c-bfed-945b63bb9237",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पारिस्थितिकी तंत्र में ऊर्जा का प्राथमिक स्रोत क्या है?",
+      "options": [
+        "मिट्टी",
+        "वायु",
+        "सूर्य",
+        "जल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: सूर्य।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "311d29ad-78d7-57d0-aa02-be05c21890c0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "उत्पादक (Producer) का उदाहरण क्या है?",
+      "options": [
+        "हरे पौधे",
+        "मांसाहारी जानवर",
+        "शाकाहारी जानवर",
+        "कवक"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: हरे पौधे।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bb1ab29a-6c2e-556d-b751-1a50ba57f9a1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अपघटक (Decomposer) का उदाहरण क्या है?",
+      "options": [
+        "जानवर",
+        "पौधे",
+        "कीड़े",
+        "कवक और बैक्टीरिया"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कवक और बैक्टीरिया।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "09ca2ed8-a19e-5bde-bbb1-2f276c6e1818",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वायुमंडल में CO₂ की मात्रा लगभग कितनी प्रतिशत है?",
+      "options": [
+        "0.4%",
+        "21%",
+        "4%",
+        "0.04%"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 0.04%।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4327864e-1e3e-531f-bee6-91e223c52297",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रोटीन का पाचन किस एंजाइम द्वारा होता है?",
+      "options": [
+        "माल्टेज",
+        "लाइपेज",
+        "पेप्सिन",
+        "एमाइलेज"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: पेप्सिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7e32ebe6-45c0-5fff-aa52-c48610a49abf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वसा का पाचन किस एंजाइम द्वारा होता है?",
+      "options": [
+        "पेप्सिन",
+        "एमाइलेज",
+        "ट्रिप्सिन",
+        "लाइपेज"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: लाइपेज।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fa06312f-2526-5c6f-b38c-10f51ad3c410",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "स्टार्च का पाचन किस एंजाइम द्वारा शुरू होता है?",
+      "options": [
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "एमाइलेज (Ptyalin)",
+        "लाइपेज"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: एमाइलेज (Ptyalin)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "de9764ef-d6b9-5d5f-9ba2-caadb1e8ed72",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₆ का रासायनिक नाम क्या है?",
+      "options": [
+        "पाइरिडॉक्सिन",
+        "थायमिन",
+        "राइबोफ्लेविन",
+        "नियासिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: पाइरिडॉक्सिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0501ed1c-3c1d-53df-aa7e-79f40edee386",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₅ का रासायनिक नाम क्या है?",
+      "options": [
+        "पाइरिडॉक्सिन",
+        "थायमिन",
+        "पैंटोथेनिक एसिड",
+        "बायोटिन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: पैंटोथेनिक एसिड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f95fbc49-8798-5830-b3f9-d4ba10e6ef8e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₇ का रासायनिक नाम क्या है?",
+      "options": [
+        "पैंटोथेनिक एसिड",
+        "बायोटिन",
+        "फोलिक एसिड",
+        "नियासिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: बायोटिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "67efc19f-f9a9-5f94-b9b3-8edc230fc89c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "विटामिन B₉ का रासायनिक नाम क्या है?",
+      "options": [
+        "बायोटिन",
+        "फोलिक एसिड",
+        "पाइरिडॉक्सिन",
+        "सायनोकोबालामिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: फोलिक एसिड।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cdddd49a-4fb8-5caa-884c-cfce72dc19ed",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "लोहे (Iron) की कमी से कौन सा रोग होता है?",
+      "options": [
+        "बेरी-बेरी",
+        "स्कर्वी",
+        "रिकेट्स",
+        "एनीमिया (रक्ताल्पता)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: एनीमिया (रक्ताल्पता)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6f560766-77ba-5bd7-b4bc-620ae5c16a63",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कैल्शियम की कमी से क्या होता है?",
+      "options": [
+        "बेरी-बेरी",
+        "हड्डियाँ कमजोर होना",
+        "रक्ताल्पता",
+        "रतौंधी"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: हड्डियाँ कमजोर होना।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e4951780-408b-5e43-a6a7-f115374690d4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सूखा रोग (Rickets) किसकी कमी से होता है?",
+      "options": [
+        "विटामिन C",
+        "विटामिन A",
+        "विटामिन D और कैल्शियम",
+        "विटामिन B"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: विटामिन D और कैल्शियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b2b1f027-390e-51d6-bedd-6912e381176f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "किसी वस्तु का भार (Weight) किस पर निर्भर करता है?",
+      "options": [
+        "वस्तु के आकार पर",
+        "वस्तु के रंग पर",
+        "गुरुत्वीय त्वरण (g) पर",
+        "तापमान पर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: गुरुत्वीय त्वरण (g) पर।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "cea4b375-edb3-5ed4-8686-e12f2bb62c82",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "द्रव्यमान (Mass) और भार (Weight) में क्या अंतर है?",
+      "options": [
+        "दोनों समान हैं",
+        "कोई अंतर नहीं",
+        "द्रव्यमान स्थिर, भार बदलता है",
+        "भार स्थिर, द्रव्यमान बदलता है"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: द्रव्यमान स्थिर, भार बदलता है।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7cea21e4-4d3b-59d2-9f30-6f328d8dc313",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "न्यूटन का गति का पहला नियम किसे कहते हैं?",
+      "options": [
+        "क्रिया-प्रतिक्रिया",
+        "जड़त्व का नियम",
+        "संवेग का नियम",
+        "गुरुत्वाकर्षण"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: जड़त्व का नियम।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bf1f0042-0119-5aba-b443-b562fcfc8702",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "संवेग (Momentum) का सूत्र क्या है?",
+      "options": [
+        "p = m / v",
+        "p = m × v",
+        "p = m + v",
+        "p = m - v"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: p = m × v।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "10cb4906-7ec4-5cb7-880a-8f65caf2bf7b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कार्य (Work) का सूत्र क्या है?",
+      "options": [
+        "W = F + d",
+        "W = F × d",
+        "W = F / d",
+        "W = F - d"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: W = F × d।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f03a5642-c8a4-59ba-beff-2a34a2738b55",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "शक्ति (Power) का सूत्र क्या है?",
+      "options": [
+        "P = W × t",
+        "P = W / t",
+        "P = F × d",
+        "P = W + t"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: P = W / t।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fc775a35-f053-5555-b316-9c12fc085c0e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "गतिज ऊर्जा (Kinetic Energy) का सूत्र क्या है?",
+      "options": [
+        "KE = ½mgh",
+        "KE = ½mv²",
+        "KE = mgh",
+        "KE = mv"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: KE = ½mv²।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a07fe3be-d42b-5fac-840b-c7e47302739c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "स्थितिज ऊर्जा (Potential Energy) का सूत्र क्या है?",
+      "options": [
+        "PE = mgh",
+        "PE = mv",
+        "PE = mg",
+        "PE = ½mv²"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: PE = mgh।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "835b1c28-9b6e-5d60-95f5-1400a184e794",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "परमाणु (Atom) की खोज किसने की?",
+      "options": [
+        "थॉमसन",
+        "जॉन डाल्टन",
+        "बोर",
+        "रदरफोर्ड"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: जॉन डाल्टन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5c632f19-1f76-519e-9da4-adf4a06b7435",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रदरफोर्ड ने कौन सा प्रयोग किया?",
+      "options": [
+        "तेल बूँद प्रयोग",
+        "स्वर्ण पत्र प्रयोग (Gold Foil Experiment)",
+        "कैथोड रे प्रयोग",
+        "अल्फा कण प्रयोग"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: स्वर्ण पत्र प्रयोग (Gold Foil Experiment)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "68f57c02-bc45-53b0-8fab-d907098b1adf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बोर ने किस परमाणु का मॉडल दिया?",
+      "options": [
+        "हाइड्रोजन",
+        "लिथियम",
+        "हीलियम",
+        "ऑक्सीजन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: हाइड्रोजन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f6e4fa13-faf5-5042-bf5b-eb6d8b51870f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "इलेक्ट्रॉन पर कौन सा आवेश होता है?",
+      "options": [
+        "धनात्मक (+)",
+        "ऋणात्मक (-)",
+        "दोनों",
+        "उदासीन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: ऋणात्मक (-)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f036faba-fad2-5d75-89d2-7d929de9f633",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "प्रोटॉन पर कौन सा आवेश होता है?",
+      "options": [
+        "ऋणात्मक (-)",
+        "दोनों",
+        "धनात्मक (+)",
+        "उदासीन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: धनात्मक (+)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "56898c28-b2fd-547f-ab5f-5e4b649e1b8a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "न्यूट्रॉन पर कौन सा आवेश होता है?",
+      "options": [
+        "कोई आवेश नहीं (उदासीन)",
+        "ऋणात्मक",
+        "धनात्मक",
+        "दोनों"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: कोई आवेश नहीं (उदासीन)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9b5ae729-bc0a-5039-af1e-16f54c1b9afd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में अंडाणु कहाँ बनते हैं?",
+      "options": [
+        "फैलोपियन ट्यूब",
+        "योनि",
+        "अंडाशय (Ovary)",
+        "गर्भाशय (Uterus)"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: अंडाशय (Ovary)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "342df67a-4ab7-52be-9eed-28cfcce0e206",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में शुक्राणु कहाँ बनते हैं?",
+      "options": [
+        "शुक्राशय",
+        "प्रोस्टेट ग्रंथि",
+        "वृषण (Testes)",
+        "मूत्रमार्ग"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: वृषण (Testes)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5466ecff-407c-56fb-90ac-526063656b91",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "DNA की संरचना किसने खोजी?",
+      "options": [
+        "वाटसन और क्रिक",
+        "रदरफोर्ड",
+        "मेंडल",
+        "डार्विन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: वाटसन और क्रिक।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "049a8cf1-dff2-509c-b320-db5c461ba2e1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "DNA का आकार कैसा होता है?",
+      "options": [
+        "गोलाकार",
+        "सीधा",
+        "एकल कुंडल",
+        "दोहरी कुंडलित सीढ़ी (Double Helix)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: दोहरी कुंडलित सीढ़ी (Double Helix)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "76793de7-7d75-55d3-ad70-b4bef8951eb8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बिजली के बल्ब में कौन सी गैस भरी होती है?",
+      "options": [
+        "कार्बन डाइऑक्साइड",
+        "हाइड्रोजन",
+        "ऑक्सीजन",
+        "आर्गन या नाइट्रोजन"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: आर्गन या नाइट्रोजन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "019d4dcb-0b96-5fb8-b102-c66476f6491a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ट्यूबलाइट में कौन सी गैस भरी होती है?",
+      "options": [
+        "पारा वाष्प और आर्गन",
+        "हाइड्रोजन",
+        "नाइट्रोजन",
+        "ऑक्सीजन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: पारा वाष्प और आर्गन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6b982ce5-813f-5ac6-8f76-67d4fc212728",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बोरोसिल काँच किसका बना होता है?",
+      "options": [
+        "लेड सिलिकेट",
+        "पोटाश सिलिकेट",
+        "बोरॉन सिलिकेट",
+        "सोडा सिलिकेट"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: बोरॉन सिलिकेट।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "39fdaf21-b23e-5623-8faf-58d291877dcf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सीमेंट में मुख्य रूप से क्या होता है?",
+      "options": [
+        "मैग्नीशियम ऑक्साइड",
+        "कैल्शियम कार्बोनेट",
+        "सोडियम सिलिकेट",
+        "कैल्शियम सिलिकेट और कैल्शियम एल्युमिनेट"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कैल्शियम सिलिकेट और कैल्शियम एल्युमिनेट।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "32a4c06e-cc8f-588c-87d0-42d141b8af12",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पानी का क्वथनांक (Boiling Point) कितना है?",
+      "options": [
+        "100°C",
+        "90°C",
+        "120°C",
+        "110°C"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 100°C।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "682257de-13fe-59fc-b857-016e93895fb8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पानी का हिमांक (Freezing Point) कितना है?",
+      "options": [
+        "10°C",
+        "-10°C",
         "0°C",
-        "-4°C",
-        "100°C"
+        "4°C"
       ],
-      "correctIndex": 0,
-      "explanation": "पानी का असामान्य प्रसार होता है, जिसके कारण 4 डिग्री सेल्सियस पर इसका आयतन न्यूनतम और घनत्व अधिकतम होता है।",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 0°C।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "भौतिक विज्ञान",
-      "difficulty": "Easy",
-      "uuid": "cb7dc049-e6d5-5543-a3c0-eed72e287f75",
-      "updated_at": "2026-05-31T16:22:42.948123"
+      "uuid": "c6f958d7-b2b2-53f6-ac8b-28e4eba96bfb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
     },
     {
-      "question": "लाफिंग गैस (Laughing Gas) का रासायनिक नाम और सूत्र क्या है जिसका उपयोग एनेस्थीसिया के रूप में भी किया जाता है?",
+      "question": "जल का अधिकतम घनत्व किस तापमान पर होता है?",
       "options": [
-        "नाइट्रस ऑक्साइड (N2O)",
-        "नाइट्रिक ऑक्साइड (NO)",
-        "नाइट्रोजन डाइऑक्साइड (NO2)",
-        "डाईनाइट्रोजन ट्राइऑक्साइड (N2O3)"
+        "25°C",
+        "4°C",
+        "100°C",
+        "0°C"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 4°C।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "929302d3-c69a-57bd-a88e-465f81337c4e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ध्वनि प्रदूषण की सीमा (Safe Limit) कितनी है?",
+      "options": [
+        "120 डेसिबल",
+        "50 डेसिबल",
+        "85 डेसिबल",
+        "100 डेसिबल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 85 डेसिबल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ded5aeca-fe3d-5f54-92c0-2eb4e72d4cbe",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "मानव शरीर में सबसे कठोर पदार्थ कौन सा है?",
+      "options": [
+        "नाखून",
+        "बाल",
+        "हड्डी",
+        "दाँतों का इनेमल"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: दाँतों का इनेमल।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fe3ca453-dcae-5a88-ad65-ec2193241480",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "रक्त में ग्लूकोज का सामान्य स्तर कितना होता है?",
+      "options": [
+        "70-110 mg/dL (खाली पेट)",
+        "30-50 mg/dL",
+        "200-250 mg/dL",
+        "150-200 mg/dL"
       ],
       "correctIndex": 0,
-      "explanation": "लाफिंग गैस का रासायनिक नाम नाइट्रस ऑक्साइड (N2O) है।",
+      "explanation": "सही उत्तर: 70-110 mg/dL (खाली पेट)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "रसायन विज्ञान",
-      "difficulty": "Easy",
-      "uuid": "6b15026a-c391-54da-904b-1e681a8b2aa0",
-      "updated_at": "2026-05-31T16:22:42.948130"
+      "uuid": "68cb1b5a-d798-5484-8626-0c09cd1fe687",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "जैव विविधता (Biodiversity) का हॉटस्पॉट कौन सा क्षेत्र है?",
+      "options": [
+        "पश्चिमी घाट (Western Ghats)",
+        "गंगा का मैदान",
+        "दक्कन का पठार",
+        "थार रेगिस्तान"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: पश्चिमी घाट (Western Ghats)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f0428858-c94f-55d2-af88-f9365f9e80da",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भारत का राष्ट्रीय जलीय जीव कौन है?",
+      "options": [
+        "मगरमच्छ",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "शार्क"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: गंगा डॉल्फिन।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c3411bd1-3cd7-5da1-bd2b-07be1aba3500",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भारत का राष्ट्रीय पक्षी कौन है?",
+      "options": [
+        "मोर (Indian Peafowl)",
+        "तोता",
+        "कौआ",
+        "बाज"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: मोर (Indian Peafowl)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "79805f8a-61a6-5d1b-8a8f-b763db9c91b0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भारत का राष्ट्रीय पशु कौन है?",
+      "options": [
+        "हाथी",
+        "गैंडा",
+        "बंगाल टाइगर (Royal Bengal Tiger)",
+        "शेर"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: बंगाल टाइगर (Royal Bengal Tiger)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7b005686-8810-5189-be52-9e170ce65b29",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भारत का राष्ट्रीय फूल कौन सा है?",
+      "options": [
+        "सूरजमुखी",
+        "कमल (Lotus)",
+        "गुलाब",
+        "चमेली"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: कमल (Lotus)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d461b276-5575-5858-8e41-937cfb598181",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भारत का राष्ट्रीय वृक्ष कौन सा है?",
+      "options": [
+        "पीपल",
+        "आम",
+        "नीम",
+        "बरगद (Banyan Tree)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: बरगद (Banyan Tree)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c2294011-cf69-5a3d-8ca4-5c9658a942b8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "भारत का राष्ट्रीय फल कौन सा है?",
+      "options": [
+        "आम (Mango)",
+        "सेब",
+        "केला",
+        "अंगूर"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: आम (Mango)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "920c13cb-ae53-520c-ae44-c6d2e81cc91b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पीलिया (Jaundice) किस अंग से संबंधित है?",
+      "options": [
+        "गुर्दा (Kidney)",
+        "फेफड़ा",
+        "हृदय",
+        "यकृत (Liver)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: यकृत (Liver)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "aa961333-fc4a-5c7b-9b01-c4228520934c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "निमोनिया किस अंग को प्रभावित करता है?",
+      "options": [
+        "गुर्दा",
+        "यकृत",
+        "हृदय",
+        "फेफड़े (Lungs)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: फेफड़े (Lungs)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2687a439-cba9-50b5-86fa-db2afb4cf055",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "हृदय रोग का मुख्य कारण क्या है?",
+      "options": [
+        "कैल्शियम की कमी",
+        "कोलेस्ट्रॉल बढ़ना और धमनियों का सिकुड़ना",
+        "प्रोटीन की अधिकता",
+        "विटामिन की कमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: कोलेस्ट्रॉल बढ़ना और धमनियों का सिकुड़ना।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d4f998fa-e065-5e11-98f9-066876aaf331",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "एलर्जी किसके कारण होती है?",
+      "options": [
+        "बैक्टीरिया",
+        "वायरस",
+        "कवक",
+        "प्रतिरक्षा तंत्र (Immune System) की अतिसंवेदनशीलता"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: प्रतिरक्षा तंत्र (Immune System) की अतिसंवेदनशीलता।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "78ee8561-8544-5518-9b7b-e356a3c9d9df",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "कैंसर क्या है?",
+      "options": [
+        "वायरल संक्रमण",
+        "हार्मोनल कमी",
+        "बैक्टीरियल संक्रमण",
+        "कोशिकाओं की अनियंत्रित वृद्धि"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कोशिकाओं की अनियंत्रित वृद्धि।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "01a5d2be-7b47-5bc3-bc39-4ce6e4de72f9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "सूक्ष्मदर्शी (Microscope) किसके लिए प्रयोग होता है?",
+      "options": [
+        "दाब मापने",
+        "दूर की वस्तुओं को देखने",
+        "तापमान मापने",
+        "सूक्ष्म वस्तुओं को बड़ा करके देखने"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: सूक्ष्म वस्तुओं को बड़ा करके देखने।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fa1426b6-f91c-598a-ab55-7367c49ab0b0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "दूरदर्शी (Telescope) किसके लिए प्रयोग होता है?",
+      "options": [
+        "दूर की वस्तुओं को देखने",
+        "सूक्ष्म वस्तुओं को देखने",
+        "दाब मापने",
+        "तापमान मापने"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: दूर की वस्तुओं को देखने।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "457132ca-f7ee-5b96-bb62-2309d638be3a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "स्टेथोस्कोप किसके लिए प्रयोग होता है?",
+      "options": [
+        "तापमान मापने",
+        "हृदय और फेफड़ों की आवाज सुनने",
+        "रक्तदाब मापने",
+        "नाड़ी गति मापने"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: हृदय और फेफड़ों की आवाज सुनने।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "831ea528-016d-5a4c-8c22-adc8dc663a50",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ECG क्या मापता है?",
+      "options": [
+        "रक्त शर्करा",
+        "ऑक्सीजन स्तर",
+        "हृदय की विद्युत गतिविधि",
+        "रक्तदाब"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: हृदय की विद्युत गतिविधि।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d8c0add4-5976-54b6-a4ef-cfbef93c3b5c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "EEG क्या मापता है?",
+      "options": [
+        "मस्तिष्क की विद्युत गतिविधि",
+        "हृदय की गतिविधि",
+        "रक्तदाब",
+        "मांसपेशियों की गतिविधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: मस्तिष्क की विद्युत गतिविधि।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ea010c91-b2f0-50c1-9b43-f1368d11a4e6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अम्ल वर्षा (Acid Rain) किसके कारण होती है?",
+      "options": [
+        "O₃ के कारण",
+        "SO₂ और NO₂ गैसों के कारण",
+        "CO₂ के कारण",
+        "CH₄ के कारण"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: SO₂ और NO₂ गैसों के कारण।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fa680449-5606-5de9-8df8-04c2ef6218d8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ग्रीनहाउस प्रभाव के लिए सबसे अधिक जिम्मेदार गैस कौन सी है?",
+      "options": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "कार्बन डाइऑक्साइड (CO₂)",
+        "हाइड्रोजन"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: कार्बन डाइऑक्साइड (CO₂)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ea2832b7-f253-548e-b792-fba68abbef23",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ग्लोबल वार्मिंग का मुख्य कारण क्या है?",
+      "options": [
+        "जल प्रदूषण",
+        "वनों की कटाई",
+        "ओजोन परत का क्षरण",
+        "ग्रीनहाउस गैसों की वृद्धि"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: ग्रीनहाउस गैसों की वृद्धि।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "55a4412d-a648-588a-ad1b-19efff0b0a78",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "जल प्रदूषण का मुख्य कारक क्या है?",
+      "options": [
+        "वायु प्रदूषण",
+        "रेडियोएक्टिव प्रदूषण",
+        "ध्वनि प्रदूषण",
+        "औद्योगिक अपशिष्ट और सीवेज"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: औद्योगिक अपशिष्ट और सीवेज।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e0d13a3d-a11a-5575-8e95-b4b7d38fd467",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "BOD (Biochemical Oxygen Demand) किसका सूचक है?",
+      "options": [
+        "मृदा प्रदूषण का",
+        "वायु प्रदूषण का",
+        "जल प्रदूषण का",
+        "ध्वनि प्रदूषण का"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: जल प्रदूषण का।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f767233d-73a7-58d8-a690-f58a71c8d3d5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "नवीकरणीय ऊर्जा स्रोत कौन सा है?",
+      "options": [
+        "परमाणु ऊर्जा",
+        "प्राकृतिक गैस",
+        "कोयला, पेट्रोलियम",
+        "सौर ऊर्जा, पवन ऊर्जा, जल ऊर्जा"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: सौर ऊर्जा, पवन ऊर्जा, जल ऊर्जा।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0146ac22-f375-5fda-90f4-76a1da83f5e8",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "अनवीकरणीय ऊर्जा स्रोत कौन सा है?",
+      "options": [
+        "जल ऊर्जा",
+        "सौर ऊर्जा",
+        "पवन ऊर्जा",
+        "कोयला, पेट्रोलियम, प्राकृतिक गैस"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कोयला, पेट्रोलियम, प्राकृतिक गैस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e0951666-f328-5932-97b2-b9d69a5a618b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "जीवाश्म ईंधन (Fossil Fuel) का उदाहरण क्या है?",
+      "options": [
+        "परमाणु ऊर्जा",
+        "लकड़ी, गोबर",
+        "कोयला, पेट्रोलियम, प्राकृतिक गैस",
+        "सौर ऊर्जा"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: कोयला, पेट्रोलियम, प्राकृतिक गैस।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7bf08cb3-f124-5a90-81c8-9044f0e855dc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "बायोगैस का मुख्य घटक क्या है?",
+      "options": [
+        "मीथेन (CH₄)",
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "हाइड्रोजन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: मीथेन (CH₄)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fc587312-d996-53bb-8523-358f0f4daa9a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "CNG का पूरा नाम क्या है?",
+      "options": [
+        "Compressed Natural Gas",
+        "Chemical Natural Gas",
+        "Carbon Natural Gas",
+        "Compressed Nitrogen Gas"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: Compressed Natural Gas।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c48260d8-c6d9-5d62-820b-823d198e01f3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "LPG का पूरा नाम क्या है?",
+      "options": [
+        "Liquid Propane Gas",
+        "Light Petroleum Gas",
+        "Liquefied Petroleum Gas",
+        "Low Pressure Gas"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: Liquefied Petroleum Gas।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "46ef6e0a-ff8d-5b62-ac76-0e8fd06b3e07",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "पानी के शुद्धिकरण में कौन सा रसायन प्रयोग होता है?",
+      "options": [
+        "फ्लोरीन",
+        "क्लोरीन (Chlorine)",
+        "आयोडीन",
+        "ब्रोमीन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: क्लोरीन (Chlorine)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c8747b01-f0e0-5370-80db-66e67177a17a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "R.O. का पूरा नाम क्या है?",
+      "options": [
+        "Reduced Oxygen",
+        "Reverse Osmosis",
+        "Refined Oil",
+        "Rapid Oxidation"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Reverse Osmosis।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0b093dba-05b8-5b02-9408-79e5d69bde1c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "UV किरणें किसके लिए हानिकारक हैं?",
+      "options": [
+        "बालों के लिए",
+        "हड्डियों के लिए",
+        "त्वचा और आँखों के लिए",
+        "नाखूनों के लिए"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: त्वचा और आँखों के लिए।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c3204cb1-3ab2-523a-ba12-31ccad663a8f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "ओजोन परत कहाँ पाई जाती है?",
+      "options": [
+        "मध्य मंडल",
+        "आयन मंडल",
+        "समताप मंडल (Stratosphere)",
+        "क्षोभ मंडल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: समताप मंडल (Stratosphere)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "13d1b47a-c166-57a7-b6fc-5bbd539627ae",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
+    },
+    {
+      "question": "वायुमंडल की सबसे निचली परत कौन सी है?",
+      "options": [
+        "बहिर्मंडल",
+        "मध्य मंडल",
+        "क्षोभ मंडल (Troposphere)",
+        "समताप मंडल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: क्षोभ मंडल (Troposphere)।",
+      "subCategory": "विज्ञान",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5ddb1d23-15f5-5ab6-9374-4f9197c778a5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Science"
+      ]
     }
-  ],
-  "totalQuestions": 106,
-  "lastUpdated": "2026-05-31T16:22:42.948132",
-  "version": "1.1"
+  ]
 }
