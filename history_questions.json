@@ -1,6 +1,6 @@
 {
   "category": "History",
-  "updated_at": "2026-05-10T17:19:13.285312",
+  "updated_at": "2026-05-31T16:45:00.000000",
   "questions": [
     {
       "question": "मध्यकालीन भारत में 'दिल्ली सल्तनत' की स्थापना कब हुई थी?",
@@ -4278,103 +4278,1467 @@
       ]
     },
     {
-      "question": "प्राचीन भारतीय इतिहास में 'विक्रमशिला विश्वविद्यालय' की स्थापना किस पाल वंश के शासक द्वारा की गई थी?",
+      "question": "सिंधु घाटी सभ्यता की खोज किसने की?",
       "options": [
-        "धर्मपाल",
-        "देवपाल",
-        "गोपाल",
-        "महिपाल"
+        "जॉन मार्शल",
+        "मार्टिमर व्हीलर",
+        "अलेक्जेंडर कनिंघम",
+        "दयाराम साहनी और राखालदास बनर्जी"
       ],
-      "correctIndex": 0,
-      "explanation": "विक्रमशिला विश्वविद्यालय बिहार के भागलपुर जिले में स्थित था, जिसकी स्थापना पाल राजा धर्मपाल (770-810 ई.) ने की थी। यह बौद्ध शिक्षा का एक प्रमुख केंद्र था।",
-      "questionType": "mcq",
-      "subCategory": "प्राचीन इतिहास",
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: दयाराम साहनी और राखालदास बनर्जी।",
+      "subCategory": "इतिहास",
       "difficulty": "Easy",
-      "uuid": "a8a0e253-a5f9-51bc-bfb5-56cafaaccffd",
-      "updated_at": "2026-05-31T16:16:06.074478"
+      "questionType": "mcq",
+      "uuid": "263e04b1-e4b7-5631-acb1-91cabe002d9e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
     },
     {
-      "question": "मध्यकालीन भारत में दिल्ली सल्तनत के किस शासक ने सर्वप्रथम 'तांबे के जीतल' और 'चांदी के टका' नामक मानक सिक्के जारी किए थे?",
+      "question": "सिंधु घाटी सभ्यता का काल क्या है?",
+      "options": [
+        "2500-1750 ई.पू.",
+        "500-200 ई.पू.",
+        "1500-500 ई.पू.",
+        "3500-2500 ई.पू."
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 2500-1750 ई.पू.।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ac981d3b-1539-590d-b9d3-420cdfbdce60",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "मोहनजोदड़ो किस नदी के किनारे बसा था?",
+      "options": [
+        "सिंधु नदी",
+        "गंगा",
+        "यमुना",
+        "सतलज"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: सिंधु नदी।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "05542c64-b6d2-513f-a68e-75e272ed8a0b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "हड़प्पा किस नदी के किनारे बसा था?",
+      "options": [
+        "चनाब",
+        "गंगा",
+        "रावी नदी",
+        "सिंधु"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: रावी नदी।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9859f759-e66a-5517-866f-d54b347323c1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "सिंधु सभ्यता का सबसे बड़ा स्थल कौन सा है?",
+      "options": [
+        "हड़प्पा",
+        "लोथल",
+        "मोहनजोदड़ो",
+        "राखीगढ़ी"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: राखीगढ़ी।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "986aa2fe-7658-5d75-9dea-04a95fb47555",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "सिंधु सभ्यता का बंदरगाह शहर कौन सा था?",
+      "options": [
+        "धोलावीरा",
+        "कालीबंगन",
+        "लोथल",
+        "हड़प्पा"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: लोथल।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7df90723-b4e2-52a6-8c2b-6edbd510d2af",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "वेदों की संख्या कितनी है?",
+      "options": [
+        "6",
+        "3",
+        "4 (ऋग्वेद, यजुर्वेद, सामवेद, अथर्ववेद)",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 4 (ऋग्वेद, यजुर्वेद, सामवेद, अथर्ववेद)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b678dda2-ebec-5720-b1fa-4ec72a1132f9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "सबसे प्राचीन वेद कौन सा है?",
+      "options": [
+        "ऋग्वेद",
+        "अथर्ववेद",
+        "यजुर्वेद",
+        "सामवेद"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: ऋग्वेद।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6019acae-03f4-5441-827d-f741f164684a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "महावीर स्वामी किस धर्म के संस्थापक माने जाते हैं?",
+      "options": [
+        "बौद्ध धर्म",
+        "जैन धर्म",
+        "हिन्दू धर्म",
+        "सिख धर्म"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: जैन धर्म।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b4e10539-936e-5bf1-aec7-41be671513c7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "गौतम बुद्ध का जन्म कहाँ हुआ?",
+      "options": [
+        "कुशीनगर",
+        "बोधगया",
+        "लुम्बिनी (नेपाल)",
+        "सारनाथ"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: लुम्बिनी (नेपाल)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7509e657-c715-5b34-81db-74c0b733282c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "गौतम बुद्ध को ज्ञान कहाँ प्राप्त हुआ?",
+      "options": [
+        "कुशीनगर",
+        "बोधगया",
+        "लुम्बिनी",
+        "सारनाथ"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: बोधगया।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "a6cc3a11-f86c-5f88-8744-79831171931e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "बुद्ध ने अपना पहला उपदेश कहाँ दिया?",
+      "options": [
+        "राजगृह",
+        "बोधगया",
+        "सारनाथ",
+        "लुम्बिनी"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: सारनाथ।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2cca9700-c63b-52cc-a4ae-ad64b774e472",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "मौर्य वंश का संस्थापक कौन था?",
+      "options": [
+        "चंद्रगुप्त मौर्य",
+        "बृहद्रथ",
+        "अशोक",
+        "बिंदुसार"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: चंद्रगुप्त मौर्य।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "265523d7-9506-54d8-8e9c-64e33762d942",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "अशोक ने किस युद्ध के बाद बौद्ध धर्म अपनाया?",
+      "options": [
+        "प्लासी",
+        "हल्दीघाटी",
+        "पानीपत",
+        "कलिंग युद्ध"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कलिंग युद्ध।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "01740049-ccfd-5d57-88f2-d0e95409c2f7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "अर्थशास्त्र किसने लिखा?",
+      "options": [
+        "बाणभट्ट",
+        "चंद्रगुप्त",
+        "अशोक",
+        "चाणक्य (कौटिल्य)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: चाणक्य (कौटिल्य)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9cf05922-eb1a-504d-8387-f0ac84f09817",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "गुप्त वंश का संस्थापक कौन था?",
+      "options": [
+        "श्रीगुप्त",
+        "चंद्रगुप्त I",
+        "समुद्रगुप्त",
+        "चंद्रगुप्त II"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: श्रीगुप्त।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e0746ee1-611c-52cc-9c73-dedfc6d660e2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारत का नेपोलियन किसे कहा जाता है?",
+      "options": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त मौर्य",
+        "अशोक",
+        "अकबर"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: समुद्रगुप्त।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2723cd03-4e13-58eb-8e87-8c9ffb0c8d48",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "गुप्तकाल को क्या कहा जाता है?",
+      "options": [
+        "रजत युग",
+        "कांस्य युग",
+        "लौह युग",
+        "भारत का स्वर्ण युग"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: भारत का स्वर्ण युग।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a6d08ee9-5195-5318-85ab-9c92823ec277",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "हर्षवर्धन की राजधानी कहाँ थी?",
+      "options": [
+        "प्रयाग",
+        "उज्जैन",
+        "कन्नौज",
+        "पाटलिपुत्र"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: कन्नौज।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "90567438-0d27-517d-9c95-1189058e13ff",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "चोल वंश का प्रसिद्ध शासक कौन था?",
+      "options": [
+        "हर्षवर्धन",
+        "राजराजा I",
+        "पुलकेशिन II",
+        "कनिष्क"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: राजराजा I।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6278d4f8-99d5-514c-8c1b-bcfa92869c9f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "दिल्ली सल्तनत की स्थापना किसने की?",
       "options": [
         "इल्तुतमिश",
-        "कुतुबुद्दीन ऐबक",
         "बलबन",
+        "कुतुबुद्दीन ऐबक",
         "अलाउद्दीन खिलजी"
       ],
-      "correctIndex": 0,
-      "explanation": "इल्तुतमिश ने दिल्ली सल्तनत का पहला शुद्ध अरबी सिक्का चलाया। उसने चांदी का टका (175 ग्रेन) और तांबे का जीतल शुरू किया, जिससे सिक्का प्रणाली व्यवस्थित हुई।",
-      "questionType": "mcq",
-      "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium",
-      "uuid": "a81f771e-4bf1-50cb-938b-61eb20b53d57",
-      "updated_at": "2026-05-31T16:16:06.074495"
-    },
-    {
-      "question": "19वीं शताब्दी के उत्तरार्ध में ज्योतिराव फुले द्वारा स्थापित 'सत्यशोधक समाज' का मुख्य उद्देश्य क्या था?",
-      "options": [
-        "शूद्रों और अति-शूद्रों को सामाजिक और शैक्षणिक रूप से सशक्त बनाना",
-        "वेदों की सर्वोच्चता को पुनः स्थापित करना",
-        "सती प्रथा का पूर्ण उन्मूलन",
-        "मूर्ति पूजा का विरोध करना"
-      ],
-      "correctIndex": 0,
-      "explanation": "ज्योतिराव फुले ने 24 सितंबर 1873 को महाराष्ट्र में सत्यशोधक समाज की स्थापना की, जिसका मुख्य उद्देश्य दलितों, महिलाओं और शूद्रों को सामाजिक उत्पीड़न से मुक्ति दिलाना और शिक्षित करना था।",
-      "questionType": "mcq",
-      "subCategory": "आधुनिक इतिहास",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: कुतुबुद्दीन ऐबक।",
+      "subCategory": "इतिहास",
       "difficulty": "Easy",
-      "uuid": "48b1663f-f6fd-5c53-8883-4cf093c8b3d6",
-      "updated_at": "2026-05-31T16:16:06.074504"
+      "questionType": "mcq",
+      "uuid": "8b6d1fc2-4070-56af-9451-8e986a8b8c81",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
     },
     {
-      "question": "1916 के प्रसिद्ध 'लखनऊ समझौते' (Lucknow Pact) के दौरान कांग्रेस के अध्यक्ष कौन थे, जिसमें नरम दल, गरम दल और मुस्लिम लीग के बीच समझौता हुआ था?",
+      "question": "दिल्ली सल्तनत का पहला वंश कौन सा था?",
       "options": [
-        "अंबिका चरण मजूमदार",
-        "बाल गंगाधर तिलक",
-        "गोपाल कृष्ण गोखले",
-        "रासबिहारी घोष"
+        "गुलाम वंश (मामलूक)",
+        "खिलजी वंश",
+        "तुगलक वंश",
+        "लोदी वंश"
       ],
       "correctIndex": 0,
-      "explanation": "1916 के कांग्रेस के लखनऊ अधिवेशन की अध्यक्षता अंबिका चरण मजूमदार ने की थी। इस अधिवेशन में कांग्रेस के दोनों धड़ों (नरम दल और गरम दल) का पुनर्मिलन हुआ तथा कांग्रेस और मुस्लिम लीग के बीच ऐतिहासिक समझौता हुआ।",
-      "questionType": "mcq",
-      "subCategory": "आधुनिक इतिहास",
+      "explanation": "सही उत्तर: गुलाम वंश (मामलूक)।",
+      "subCategory": "इतिहास",
       "difficulty": "Medium",
-      "uuid": "eba5162e-bff2-5ee3-8689-0c1034771c42",
-      "updated_at": "2026-05-31T16:16:06.074512"
+      "questionType": "mcq",
+      "uuid": "97944dad-6fec-5ef2-a853-1d3bee9bdd7a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
     },
     {
-      "question": "सिंधु घाटी सभ्यता का प्रसिद्ध स्थल 'धौलावीरा' किस राज्य में स्थित है, जिसे हाल ही में यूनेस्को की विश्व धरोहर सूची में शामिल किया गया है?",
+      "question": "रजिया सुल्तान किस वंश की शासक थी?",
       "options": [
-        "गुजरात",
-        "राजस्थान",
-        "हरियाणा",
-        "पंजाब"
+        "गुलाम वंश",
+        "खिलजी वंश",
+        "सैय्यद वंश",
+        "तुगलक वंश"
       ],
       "correctIndex": 0,
-      "explanation": "धौलावीरा गुजरात के कच्छ जिले में स्थित हड़प्पा कालीन स्थल है। यह अपनी उत्कृष्ट जल संचयन प्रणाली (Water Harvesting System) और नगर नियोजन के लिए प्रसिद्ध है। इसे यूनेस्को द्वारा विश्व धरोहर स्थल घोषित किया गया है।",
-      "questionType": "mcq",
-      "subCategory": "प्राचीन इतिहास",
+      "explanation": "सही उत्तर: गुलाम वंश।",
+      "subCategory": "इतिहास",
       "difficulty": "Medium",
-      "uuid": "3a79d382-089c-50d1-9310-8c66a83b65e2",
-      "updated_at": "2026-05-31T16:16:06.074520"
+      "questionType": "mcq",
+      "uuid": "1385482a-9e93-5dfd-9c04-ad861959578e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
     },
     {
-      "question": "मुग़ल सम्राट अकबर द्वारा शुरू की गई प्रशासनिक प्रणाली 'मनसबदारी प्रथा' का मुख्य स्रोत किस देश/साम्याज्य से लिया गया था?",
+      "question": "मुगल वंश का संस्थापक कौन था?",
       "options": [
-        "मंगोलिया",
-        "फारस (ईरान)",
-        "तुर्की",
-        "मिस्र"
+        "बाबर",
+        "हुमायूँ",
+        "शाहजहाँ",
+        "अकबर"
       ],
       "correctIndex": 0,
-      "explanation": "अकबर ने मनसबदारी प्रणाली मंगोल सेना के दशमलव वर्गीकरण पर आधारित चंगेज खान की सैन्य व्यवस्था से प्रेरित होकर अपने प्रशासन में लागू की थी।",
+      "explanation": "सही उत्तर: बाबर।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
       "questionType": "mcq",
-      "subCategory": "मध्यकालीन इतिहास",
+      "uuid": "d36ba30a-0ed5-5ce7-8429-a6e9f310b266",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "पानीपत का प्रथम युद्ध कब हुआ?",
+      "options": [
+        "1761",
+        "1526",
+        "1556",
+        "1857"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1526।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "01f7f9a9-8830-5e5d-8695-a5614d688b39",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "पानीपत का प्रथम युद्ध किसके बीच हुआ?",
+      "options": [
+        "हुमायूँ और शेरशाह",
+        "बाबर और इब्राहिम लोदी",
+        "अकबर और हेमू",
+        "बाबर और राणा सांगा"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: बाबर और इब्राहिम लोदी।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "85cc0c53-280e-56c9-82b9-7cf8453c7437",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "पानीपत का द्वितीय युद्ध कब हुआ?",
+      "options": [
+        "1761",
+        "1526",
+        "1600",
+        "1556"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 1556।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c16f9f58-11a3-5f2b-914d-461670362c50",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "पानीपत के द्वितीय युद्ध में किसकी विजय हुई?",
+      "options": [
+        "बाबर",
+        "अकबर",
+        "हेमू",
+        "हुमायूँ"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: अकबर।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1bb18f33-9499-5d00-90eb-45006b8c8257",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "अकबर ने दीन-ए-इलाही धर्म कब चलाया?",
+      "options": [
+        "1582",
+        "1556",
+        "1605",
+        "1600"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 1582।",
+      "subCategory": "इतिहास",
       "difficulty": "Hard",
-      "uuid": "0e876b5f-81a3-5e50-807b-63d60e1673ab",
-      "updated_at": "2026-05-31T16:16:06.074527"
+      "questionType": "mcq",
+      "uuid": "2ed5e44e-f6e6-5438-80cc-3607293dd079",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "ताजमहल किसने बनवाया?",
+      "options": [
+        "शाहजहाँ",
+        "अकबर",
+        "जहाँगीर",
+        "औरंगजेब"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: शाहजहाँ।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "1a202014-b9a1-5a6e-b2d9-15c7d0d3d8d0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "ताजमहल किसकी याद में बनवाया गया?",
+      "options": [
+        "नूरजहाँ",
+        "मुमताज महल",
+        "जोधाबाई",
+        "गुलबदन बेगम"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मुमताज महल।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "bb537cec-febe-599a-8f49-8fc81655ea8d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "शिवाजी महाराज की राजधानी कहाँ थी?",
+      "options": [
+        "रायगढ़",
+        "कोल्हापुर",
+        "पुणे",
+        "सतारा"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: रायगढ़।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c6a85fdc-2cc2-5051-bfaa-c078719ead32",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "प्लासी का युद्ध कब हुआ?",
+      "options": [
+        "1600",
+        "1857",
+        "1764",
+        "1757"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 1757।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e6b61b4e-4dcb-5bd6-895f-90d8520a8231",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "प्लासी के युद्ध में किसकी विजय हुई?",
+      "options": [
+        "मीर जाफर",
+        "सिराजुद्दौला",
+        "अंग्रेज (रॉबर्ट क्लाइव)",
+        "टीपू सुल्तान"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: अंग्रेज (रॉबर्ट क्लाइव)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e40cefa9-61fb-5907-8550-d4f6e9eb7467",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "बक्सर का युद्ध कब हुआ?",
+      "options": [
+        "1857",
+        "1757",
+        "1764",
+        "1600"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 1764।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "06a8ff31-5276-5212-832f-47384ef946f2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "1857 की क्रांति का नेतृत्व किसने किया?",
+      "options": [
+        "तात्या टोपे",
+        "मंगल पांडे (प्रथम)",
+        "रानी लक्ष्मीबाई",
+        "बहादुर शाह जफर"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: मंगल पांडे (प्रथम)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "218e27b8-ab9c-5141-b8ba-c042bff10d4e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "1857 की क्रांति कब शुरू हुई?",
+      "options": [
+        "10 मई 1857",
+        "26 जनवरी 1857",
+        "15 अगस्त 1857",
+        "10 जनवरी 1857"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 10 मई 1857।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "713c3b91-443f-50e2-ad06-f102a8118723",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई?",
+      "options": [
+        "1905",
+        "1885",
+        "1920",
+        "1857"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1885।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "ed356651-8309-5438-8fbb-e4a548015578",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?",
+      "options": [
+        "गोपालकृष्ण गोखले",
+        "दादाभाई नौरोजी",
+        "बाल गंगाधर तिलक",
+        "ए.ओ. ह्यूम (Allan Octavian Hume)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: ए.ओ. ह्यूम (Allan Octavian Hume)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "31978b36-cd86-568d-9496-2d2f2b200c22",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "बंगाल विभाजन कब हुआ?",
+      "options": [
+        "1885",
+        "1930",
+        "1920",
+        "1905"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 1905।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "7f3fe5c8-597e-5105-b2d1-4a01a714773b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "जलियाँवाला बाग हत्याकांड कब हुआ?",
+      "options": [
+        "8 अगस्त 1942",
+        "15 अगस्त 1947",
+        "13 अप्रैल 1919",
+        "26 जनवरी 1930"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 13 अप्रैल 1919।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "32920969-b764-570d-bb08-76cf84143fe1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "जलियाँवाला बाग हत्याकांड की आज्ञा किसने दी?",
+      "options": [
+        "जनरल डायर",
+        "लॉर्ड कर्जन",
+        "लॉर्ड इरविन",
+        "लॉर्ड माउंटबेटन"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: जनरल डायर।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "62b3355e-69ec-598d-af8b-996b105df57f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "असहयोग आंदोलन कब शुरू हुआ?",
+      "options": [
+        "1942",
+        "1919",
+        "1920",
+        "1930"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 1920।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c5ce676d-dd64-5fd1-ad6f-61e5a0fc081c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "सविनय अवज्ञा आंदोलन कब शुरू हुआ?",
+      "options": [
+        "1920",
+        "1930",
+        "1942",
+        "1919"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1930।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0f623ad4-8a8a-5e90-acaa-295aad863df1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "दांडी मार्च कब हुआ?",
+      "options": [
+        "15 अगस्त 1947",
+        "12 मार्च 1930",
+        "1 जनवरी 1930",
+        "26 जनवरी 1930"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 12 मार्च 1930।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8c2e5dcf-4e26-5b81-a235-5b1de842ea6b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "options": [
+        "1930",
+        "15 अगस्त 1947",
+        "8 अगस्त 1942",
+        "26 जनवरी 1950"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 8 अगस्त 1942।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "0b090dbd-c083-506c-8560-278df5184587",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'करो या मरो' नारा किसने दिया?",
+      "options": [
+        "भगत सिंह",
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: महात्मा गांधी।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "e7779ab9-da52-5904-856f-6c89252c9d37",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'तुम मुझे खून दो, मैं तुम्हें आजादी दूंगा' नारा किसका है?",
+      "options": [
+        "भगत सिंह",
+        "सुभाष चंद्र बोस",
+        "महात्मा गांधी",
+        "लाला लाजपत राय"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: सुभाष चंद्र बोस।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "b31eead0-90e5-5ab0-9114-161e9c7fedfa",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'इंकलाब जिंदाबाद' नारा किसने दिया?",
+      "options": [
+        "सुभाष चंद्र बोस",
+        "भगत सिंह",
+        "रामप्रसाद बिस्मिल",
+        "चंद्रशेखर आजाद"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: भगत सिंह।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "6e0035bd-cd97-571f-8f9c-2d121970f306",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'स्वराज मेरा जन्मसिद्ध अधिकार है' किसने कहा?",
+      "options": [
+        "दादाभाई नौरोजी",
+        "लाला लाजपत राय",
+        "महात्मा गांधी",
+        "बाल गंगाधर तिलक"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: बाल गंगाधर तिलक।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "c8471fa3-6ba2-5668-95cc-c0decd504334",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'सारे जहाँ से अच्छा' किसने लिखा?",
+      "options": [
+        "सुभाष चंद्र बोस",
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "रवीन्द्रनाथ टैगोर",
+        "मुहम्मद इकबाल"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: मुहम्मद इकबाल।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "39199269-d18e-5e4c-b0aa-94ddabdd5d02",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'वंदे मातरम' किसने लिखा?",
+      "options": [
+        "मुहम्मद इकबाल",
+        "रवीन्द्रनाथ टैगोर",
+        "सरोजिनी नायडू",
+        "बंकिम चंद्र चट्टोपाध्याय"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: बंकिम चंद्र चट्टोपाध्याय।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9babd669-8344-552f-a293-21fd9c87587c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "'जन गण मन' किसने लिखा?",
+      "options": [
+        "रवीन्द्रनाथ टैगोर",
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "सरोजिनी नायडू",
+        "मुहम्मद इकबाल"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: रवीन्द्रनाथ टैगोर।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "9412db93-bf58-5e86-97d6-481fff3be0df",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारत की आजादी कब मिली?",
+      "options": [
+        "30 जनवरी 1948",
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "14 अगस्त 1947"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 15 अगस्त 1947।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "7cc39249-752f-5700-a120-1115fb139eb4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारत का संविधान कब लागू हुआ?",
+      "options": [
+        "26 नवंबर 1949",
+        "26 जनवरी 1950",
+        "15 अगस्त 1947",
+        "1 जनवरी 1950"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 26 जनवरी 1950।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "226e6d0f-fc4e-5510-8ba0-6010229de632",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारतीय संविधान सभा के अध्यक्ष कौन थे?",
+      "options": [
+        "सरदार पटेल",
+        "डॉ. राजेन्द्र प्रसाद",
+        "जवाहरलाल नेहरू",
+        "डॉ. भीमराव अम्बेडकर"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: डॉ. राजेन्द्र प्रसाद।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5d5c8091-b357-5bef-8f33-696f7449cd72",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारतीय संविधान का निर्माण किसने किया?",
+      "options": [
+        "संविधान सभा (डॉ. अम्बेडकर प्रारूप समिति अध्यक्ष)",
+        "ब्रिटिश सरकार",
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: संविधान सभा (डॉ. अम्बेडकर प्रारूप समिति अध्यक्ष)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "421bd863-60fb-5f49-80de-3a92e6e7cb0f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारत के प्रथम प्रधानमंत्री कौन थे?",
+      "options": [
+        "सरदार पटेल",
+        "जवाहरलाल नेहरू",
+        "डॉ. राजेन्द्र प्रसाद",
+        "लाल बहादुर शास्त्री"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: जवाहरलाल नेहरू।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "11d43114-fffa-5ab2-bfaf-4c6def1a4245",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "भारत के प्रथम राष्ट्रपति कौन थे?",
+      "options": [
+        "डॉ. अम्बेडकर",
+        "जवाहरलाल नेहरू",
+        "डॉ. राधाकृष्णन",
+        "डॉ. राजेन्द्र प्रसाद"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: डॉ. राजेन्द्र प्रसाद।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "efe77309-a2de-56c9-8685-3454ad026dab",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "कत्यूरी वंश की राजधानी कहाँ थी?",
+      "options": [
+        "श्रीनगर",
+        "देहरादून",
+        "अल्मोड़ा",
+        "कार्तिकेयपुर (बागेश्वर)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: कार्तिकेयपुर (बागेश्वर)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6cbe7357-d89a-55ac-9684-9c1f01eaf3d3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "चंद वंश की राजधानी कहाँ थी?",
+      "options": [
+        "श्रीनगर",
+        "पिथौरागढ़",
+        "देहरादून",
+        "चम्पावत (बाद में अल्मोड़ा)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: चम्पावत (बाद में अल्मोड़ा)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "22bafe9c-81bd-5b25-a5b6-c1273bf27068",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "गढ़वाल में परमार (पंवार) वंश की स्थापना किसने की?",
+      "options": [
+        "अजयपाल",
+        "कनकपाल",
+        "प्रद्युम्नशाह",
+        "सुदर्शनशाह"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: कनकपाल।",
+      "subCategory": "इतिहास",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "a11f5ca2-6461-585c-8f0b-310c05aa90de",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "उत्तराखंड में गोरखा शासन कब से कब तक रहा?",
+      "options": [
+        "1700-1800",
+        "1790-1815",
+        "1815-1857",
+        "1857-1947"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1790-1815।",
+      "subCategory": "इतिहास",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "106d97a6-cb31-5649-be47-a9b273dd179d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "गढ़वाल का अंतिम स्वतंत्र राजा कौन था?",
+      "options": [
+        "सुदर्शनशाह",
+        "प्रद्युम्नशाह",
+        "अजयपाल",
+        "कनकपाल"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: प्रद्युम्नशाह।",
+      "subCategory": "इतिहास",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "ba871a45-6f54-5332-8466-5fcd89a9b070",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "ब्रिटिशों ने गोरखाओं को किस संधि से हराया?",
+      "options": [
+        "सुर्जी अर्जुनगाँव",
+        "बेसिन संधि",
+        "संगौली की संधि (1816)",
+        "लाहौर संधि"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: संगौली की संधि (1816)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Hard",
+      "questionType": "mcq",
+      "uuid": "e6f043af-2a2e-52f1-9e21-4732e39015d4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "चिपको आंदोलन कब शुरू हुआ?",
+      "options": [
+        "1973",
+        "1963",
+        "1983",
+        "1993"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 1973।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0c65a33f-57b5-5bf3-9e2c-3acc26bdb4e3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "चिपको आंदोलन कहाँ शुरू हुआ?",
+      "options": [
+        "अल्मोड़ा",
+        "देहरादून",
+        "रेणी गाँव (चमोली)",
+        "नैनीताल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: रेणी गाँव (चमोली)।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2113f9d8-2118-54f8-9bac-e32d554c62da",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "चिपको आंदोलन की प्रमुख नेता कौन थीं?",
+      "options": [
+        "मेधा पाटकर",
+        "सुंदरलाल बहुगुणा",
+        "गौरा देवी",
+        "चंडीप्रसाद भट्ट"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: गौरा देवी।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "81ba7445-cd07-53a7-8c68-479ac1464124",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "टिहरी बांध आंदोलन का नेतृत्व किसने किया?",
+      "options": [
+        "सुंदरलाल बहुगुणा",
+        "चंडीप्रसाद भट्ट",
+        "मेधा पाटकर",
+        "गौरा देवी"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: सुंदरलाल बहुगुणा।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "447dbfc1-ebec-581f-8caf-a053ced8d0f0",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "उत्तराखंड राज्य कब बना?",
+      "options": [
+        "9 नवंबर 2000",
+        "15 अगस्त 2000",
+        "26 जनवरी 2001",
+        "1 जनवरी 2001"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 9 नवंबर 2000।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "62a2e2a1-c33c-50f8-bdda-771cd4f81327",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "उत्तराखंड पहले किस राज्य का हिस्सा था?",
+      "options": [
+        "मध्य प्रदेश",
+        "हिमाचल प्रदेश",
+        "उत्तर प्रदेश",
+        "बिहार"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: उत्तर प्रदेश।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "f047adae-728f-5381-bddd-42f6b5809b00",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "फ्रांसीसी क्रांति कब हुई?",
+      "options": [
+        "1800",
+        "1789",
+        "1776",
+        "1848"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1789।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1958b1ad-6eb9-55a1-8129-f932ad39fc56",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "अमेरिकी स्वतंत्रता कब मिली?",
+      "options": [
+        "1789",
+        "1861",
+        "1776",
+        "1800"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 1776।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "29b743ea-1197-5092-9220-a72e9efdf812",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "प्रथम विश्व युद्ध कब हुआ?",
+      "options": [
+        "1920-1925",
+        "1905-1910",
+        "1914-1918",
+        "1939-1945"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 1914-1918।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "75651697-b87c-5dc7-8e31-e4fe6d21edce",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "द्वितीय विश्व युद्ध कब हुआ?",
+      "options": [
+        "1939-1945",
+        "1914-1918",
+        "1950-1955",
+        "1960-1965"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: 1939-1945।",
+      "subCategory": "इतिहास",
+      "difficulty": "Easy",
+      "questionType": "mcq",
+      "uuid": "892e9ac9-3104-561c-86d6-b5e33a559255",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "संयुक्त राष्ट्र संघ (UNO) की स्थापना कब हुई?",
+      "options": [
+        "26 जनवरी 1950",
+        "24 अक्टूबर 1945",
+        "1 जनवरी 1942",
+        "15 अगस्त 1947"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 24 अक्टूबर 1945।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9fd52214-c54e-5319-b2aa-9958b035a1af",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
+    },
+    {
+      "question": "रूसी क्रांति कब हुई?",
+      "options": [
+        "1789",
+        "1947",
+        "1905",
+        "1917"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 1917।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "2d1a617c-e448-5f00-8697-a3121136ed01",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ]
     }
-  ],
-  "totalQuestions": 231,
-  "lastUpdated": "2026-05-31T16:16:06.074530",
-  "version": "1.1"
+  ]
 }
