@@ -1,6 +1,6 @@
 {
   "category": "Uttarakhand",
-  "updated_at": "2026-07-07T08:56:25.478131",
+  "updated_at": "2026-07-07T09:02:39.052903",
   "questions": [
     {
       "question": "उत्तराखंड का सबसे ऊँचा पर्वत शिखर कौन सा है?",
@@ -14396,7 +14396,7 @@
       "correctIndex": 0,
       "explanation": "कंडाली उत्सव भोटिया जनजाति द्वारा मनाया जाता है, जो पिथौरागढ़ और चमोली जिलों में कंडाली पौधे की कटाई और प्रकृति के प्रति कृतज्ञता व्यक्त करने के लिए आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "2a196b3e-8136-59ee-a6b1-85e5ab92810a",
       "tags": [
@@ -14415,7 +14415,7 @@
       "correctIndex": 0,
       "explanation": "मौण उत्सव अगलाड़ नदी के किनारे मसूरी के पास आयोजित होता है, जो मछली पकड़ने और स्थानीय परंपराओं का उत्सव है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4b23162d-dee1-55e3-9c7e-e1a879dabe37",
       "tags": [
@@ -14434,7 +14434,7 @@
       "correctIndex": 0,
       "explanation": "चौफला नृत्य फूल देई त्योहार के दौरान विशेष रूप से किया जाता है, जिसमें समूह में गोलाकार नृत्य किया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "51715714-04fc-5321-90d9-bb41989e86b0",
       "tags": [
@@ -14453,7 +14453,7 @@
       "correctIndex": 0,
       "explanation": "सोमनाथ मेला अल्मोड़ा जिले के मासी में आयोजित होता है, जो धार्मिक और सांस्कृतिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "e1ddad3b-867c-5f8d-a127-e1408b72f112",
       "tags": [
@@ -14472,7 +14472,7 @@
       "correctIndex": 0,
       "explanation": "हिलजात्रा कुमाऊँ क्षेत्र में मनाई जाती है, जो पशुपालन और कृषि की समृद्धि का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "521cc980-3bee-56f2-ab10-3d6d0dbded82",
       "tags": [
@@ -14491,7 +14491,7 @@
       "correctIndex": 0,
       "explanation": "बुक्सा जनजाति मुख्य रूप से उधम सिंह नगर जिले में निवास करती है और अपनी अनूठी सांस्कृतिक परंपराओं के लिए जानी जाती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "76d50825-8757-5a39-aaaf-a04e78a2c54f",
       "tags": [
@@ -14510,7 +14510,7 @@
       "correctIndex": 0,
       "explanation": "बट्टू उत्तराखंड का एक पारंपरिक भोजन है, जो मंडुवा और दाल से बनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a6b2b1a1-fe5c-5e7c-8054-661c91ac4d67",
       "tags": [
@@ -14529,7 +14529,7 @@
       "correctIndex": 0,
       "explanation": "कौथिग मेला बैसाखी के अवसर पर आयोजित होता है, जिसमें सांस्कृतिक और व्यापारिक गतिविधियाँ होती हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f7059a08-ef8d-552a-b99f-e976a0cdaaf2",
       "tags": [
@@ -14548,7 +14548,7 @@
       "correctIndex": 0,
       "explanation": "रम्मान उत्तराखंड का एक लोक नाट्य है, जो गढ़वाल क्षेत्र में रामायण की कहानियों पर आधारित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7303a762-339a-529a-8750-c14602a3209d",
       "tags": [
@@ -14567,7 +14567,7 @@
       "correctIndex": 0,
       "explanation": "जियारानी का मेला काशीपुर (उधम सिंह नगर) और रानीबाग (नैनीताल) में आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ae6aef4b-56e6-582e-84bd-750e85387962",
       "tags": [
@@ -14586,7 +14586,7 @@
       "correctIndex": 0,
       "explanation": "मरोज त्योहार वसंत के आगमन के साथ संबंधित है और कुमाऊँ क्षेत्र में मनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "98c9846a-1bcc-5673-ab46-6d7138e14e28",
       "tags": [
@@ -14605,7 +14605,7 @@
       "correctIndex": 0,
       "explanation": "ऐंपण कला का उपयोग शुभ अवसरों जैसे दीपावली, नामकरण, और विवाह के समय घरों की सजावट के लिए किया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f98282c0-915d-588e-b910-c26070b731cf",
       "tags": [
@@ -14624,7 +14624,7 @@
       "correctIndex": 0,
       "explanation": "पंवाड़ा उत्तराखंड की लोक गाथाएँ हैं, जो वीर रस और ऐतिहासिक कथाओं पर आधारित होती हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7f368f47-e9bb-5d67-8fb3-e3fb9d3e2464",
       "tags": [
@@ -14643,7 +14643,7 @@
       "correctIndex": 0,
       "explanation": "विशु मेला जौनसार-बावर क्षेत्र में आयोजित होता है, जो स्थानीय संस्कृति और परंपराओं को दर्शाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "526a0570-817f-53c4-b910-0dd34014451c",
       "tags": [
@@ -14662,7 +14662,7 @@
       "correctIndex": 0,
       "explanation": "फूल देई त्योहार में गुड़ का उपयोग प्रसाद के रूप में किया जाता है, जो चावल और नारियल के साथ बाँटा जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "db35c50b-5001-54c7-9969-bb4e4e9bf5cc",
       "tags": [
@@ -14681,7 +14681,7 @@
       "correctIndex": 0,
       "explanation": "बुखाल मेला पौड़ी गढ़वाल जिले में आयोजित होता है, जो स्थानीय संस्कृति और व्यापार का केंद्र है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "07d69c8d-e67e-5a13-9582-1536ca4d2cd9",
       "tags": [
@@ -14700,7 +14700,7 @@
       "correctIndex": 0,
       "explanation": "छोलिया नृत्य विवाह समारोहों में प्रदर्शित किया जाता है, जो कुमाऊँ क्षेत्र की विशेषता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a96dda50-d343-5c4b-bc6a-3a59057577ba",
       "tags": [
@@ -14719,7 +14719,7 @@
       "correctIndex": 0,
       "explanation": "श्री नागराज देवता मेला उत्तरकाशी में आयोजित होता है, जो धार्मिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e4b810e0-7a8a-5aa4-b6b0-eb681361c2d3",
       "tags": [
@@ -14738,7 +14738,7 @@
       "correctIndex": 0,
       "explanation": "मंगल गीत शुभ अवसरों जैसे विवाह और नामकरण के दौरान गाए जाते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4a202720-f9d9-52a3-b013-b8bc624d327d",
       "tags": [
@@ -14757,7 +14757,7 @@
       "correctIndex": 0,
       "explanation": "कफल उत्तराखंड का एक पारंपरिक जंगली फल है, जो स्थानीय व्यंजनों में उपयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "629c1bca-18ec-50e6-bd1c-0e4600bfa9df",
       "tags": [
@@ -14776,7 +14776,7 @@
       "correctIndex": 0,
       "explanation": "झण्डा मेला देहरादून में आयोजित होता है, जो सिख समुदाय के लिए महत्वपूर्ण है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e71443c2-d5fa-561f-8e84-de7eac2594d8",
       "tags": [
@@ -14795,7 +14795,7 @@
       "correctIndex": 0,
       "explanation": "बिखोती त्योहार वैशाख मास में मनाया जाता है, जो वसंत के आगमन का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "469ba0b1-36b8-59f6-a38f-533f35bf7d68",
       "tags": [
@@ -14814,7 +14814,7 @@
       "correctIndex": 0,
       "explanation": "खुदेद गीत सांस्कृतिक समारोहों में गाए जाते हैं, जो स्थानीय परंपराओं को दर्शाते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9e5b4e3d-a648-58dc-a17e-9e0d7739e270",
       "tags": [
@@ -14833,7 +14833,7 @@
       "correctIndex": 0,
       "explanation": "चैती गीत वसंत ऋतु से संबंधित हैं और चैत्र मास में गाए जाते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f255c2c6-4495-5a3f-86ad-85657be3b5aa",
       "tags": [
@@ -14852,7 +14852,7 @@
       "correctIndex": 0,
       "explanation": "मुस्तमानु मेला अल्मोड़ा जिले में आयोजित होता है, जो स्थानीय संस्कृति को प्रदर्शित करता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "70100dd3-bbb3-51d1-a81d-b5d9117f43d6",
       "tags": [
@@ -14871,7 +14871,7 @@
       "correctIndex": 0,
       "explanation": "बुरांश (रोडोडेंड्रोन) उत्तराखंड का एक पारंपरिक फूल है, जिसका उपयोग पेय पदार्थों में किया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "c825d7e0-8f09-5a24-b44c-b57b4895f12e",
       "tags": [
@@ -14890,7 +14890,7 @@
       "correctIndex": 0,
       "explanation": "गुयाँ एकादशी श्रावण मास में मनाई जाती है, जो धार्मिक महत्व का त्योहार है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "398443af-40d9-5404-b1f0-4c513b8d1c9d",
       "tags": [
@@ -14909,7 +14909,7 @@
       "correctIndex": 0,
       "explanation": "बालू उत्तराखंड की एक पारंपरिक मिठाई है, जो गुड़ और मोटे अनाज से बनाई जाती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b7f10e90-a778-55fb-908f-e6187463e8d7",
       "tags": [
@@ -14928,7 +14928,7 @@
       "correctIndex": 0,
       "explanation": "पांडव नृत्य पांडवों की कहानियों पर आधारित है और उनके सम्मान में किया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7a3cb97b-c3f7-5c20-b3e4-da6d33a1f6dc",
       "tags": [
@@ -14947,7 +14947,7 @@
       "correctIndex": 0,
       "explanation": "हदखान मेला अल्मोड़ा जिले में आयोजित होता है, जो धार्मिक और सांस्कृतिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "e608c39e-c46f-5a51-8cb5-8e63396797b8",
       "tags": [
@@ -14966,7 +14966,7 @@
       "correctIndex": 0,
       "explanation": "बसंत पंचमी में जौ का उपयोग आशीर्वाद के रूप में किया जाता है, जो समृद्धि का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b4ee9bec-865f-5b85-a34f-bf5e2701766f",
       "tags": [
@@ -14985,7 +14985,7 @@
       "correctIndex": 0,
       "explanation": "बिन्सर महादेव का महाशिवरात्रि समारोह पौड़ी जिले में आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "f4ccbfe8-4ed3-5f6b-9fa5-a2825d472a6c",
       "tags": [
@@ -15004,7 +15004,7 @@
       "correctIndex": 0,
       "explanation": "शकुण गीत शुभ लक्षणों और भविष्यवाणी से संबंधित हैं, जो शुभ अवसरों पर गाए जाते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f72c1bc4-4afe-5b39-acd4-8f7d7cd2dbb3",
       "tags": [
@@ -15023,7 +15023,7 @@
       "correctIndex": 0,
       "explanation": "कौथिक कुमाऊँनी भाषा में मेले को कहा जाता है, जो सांस्कृतिक और धार्मिक आयोजन होते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "88e3a910-3b46-506c-bf07-a8d7989f0db7",
       "tags": [
@@ -15042,7 +15042,7 @@
       "correctIndex": 0,
       "explanation": "चिलियानौला मेला रानीखेत में आयोजित होता है, जो स्थानीय संस्कृति को प्रदर्शित करता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "b3a49463-d07d-5d92-a16c-355cc00732a4",
       "tags": [
@@ -15061,7 +15061,7 @@
       "correctIndex": 0,
       "explanation": "भट्ट उत्तराखंड की एक पारंपरिक दाल है, जो स्थानीय व्यंजनों में उपयोग होती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b7d4a35f-6a3b-5938-b91a-b2badafcd3ab",
       "tags": [
@@ -15080,7 +15080,7 @@
       "correctIndex": 0,
       "explanation": "मंगसीर बग्वाल कार्तिक मास में मनाई जाती है, जो दीपावली के बाद होती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "803e480e-a795-5375-a06e-992e370033f6",
       "tags": [
@@ -15099,7 +15099,7 @@
       "correctIndex": 0,
       "explanation": "रणसिंह उत्तराखंड का एक पारंपरिक वाद्य यंत्र है, जो लोक संगीत में प्रयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "050f4f79-ee50-5e07-97a9-ab40d6e5e6f8",
       "tags": [
@@ -15118,7 +15118,7 @@
       "correctIndex": 0,
       "explanation": "देवलगढ़ मेला पौड़ी जिले में आयोजित होता है, जो सांस्कृतिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "c3681e66-c5fe-5bfa-908a-4558bd6ef731",
       "tags": [
@@ -15137,7 +15137,7 @@
       "correctIndex": 0,
       "explanation": "भाग्नुला गीत प्रकृति की सुंदरता और हिमालय के वैभव को दर्शाते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6e8ae569-6920-5d35-81c4-2dd92e4680ba",
       "tags": [
@@ -15156,7 +15156,7 @@
       "correctIndex": 0,
       "explanation": "पालीपछाऊँ मेला जौनसार क्षेत्र में आयोजित होता है, जो स्थानीय परंपराओं को प्रदर्शित करता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "ef95eb84-e255-5f03-9564-4edeb447dadf",
       "tags": [
@@ -15175,7 +15175,7 @@
       "correctIndex": 0,
       "explanation": "जौ रोटी उत्तराखंड का एक पारंपरिक भोजन है, जो जौ के आटे से बनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "41f9365e-3376-5dd3-b53b-f0b49cd9c6f4",
       "tags": [
@@ -15194,7 +15194,7 @@
       "correctIndex": 0,
       "explanation": "इगास त्योहार कार्तिक मास में दीपावली के ग्यारह दिन बाद मनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ac986e92-66ee-55e9-bbf4-f15ca07c1507",
       "tags": [
@@ -15213,7 +15213,7 @@
       "correctIndex": 0,
       "explanation": "कुरूली उत्तराखंड का एक पारंपरिक वाद्य यंत्र है, जो लोक संगीत में प्रयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "282cc539-e57e-5ecb-8ba5-78dc885de993",
       "tags": [
@@ -15232,7 +15232,7 @@
       "correctIndex": 0,
       "explanation": "भिकियासैंण मेला अल्मोड़ा जिले में आयोजित होता है, जो स्थानीय संस्कृति को प्रदर्शित करता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "9df83a9c-590f-5adf-ac71-306c1fbfb11f",
       "tags": [
@@ -15251,7 +15251,7 @@
       "correctIndex": 0,
       "explanation": "रैंस उत्तराखंड की एक पारंपरिक दाल है, जो स्थानीय व्यंजनों में उपयोग होती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "38842701-ebd8-578d-9d6f-ce89ddbf0718",
       "tags": [
@@ -15270,7 +15270,7 @@
       "correctIndex": 0,
       "explanation": "श्रीकृष्ण जन्माष्टमी महोत्सव रानीखेत में विशेष रूप से आयोजित होता है, जो धार्मिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1c9beb83-ded7-5a8c-875f-9b8e090ff916",
       "tags": [
@@ -15289,7 +15289,7 @@
       "correctIndex": 0,
       "explanation": "बनारा गीत प्रेम और प्रकृति के विषयों पर आधारित होते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "803daa10-11a4-5440-82f5-dc429706475e",
       "tags": [
@@ -15308,7 +15308,7 @@
       "correctIndex": 0,
       "explanation": "अगस्त्यमुनि बैसाखी मेला रुद्रप्रयाग में आयोजित होता है, जो सांस्कृतिक और धार्मिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "04bd7c9b-2cac-5045-b6be-f40f139c71b2",
       "tags": [
@@ -15327,7 +15327,7 @@
       "correctIndex": 0,
       "explanation": "झिंगोरा उत्तराखंड का एक पारंपरिक मोटा अनाज है, जो स्थानीय व्यंजनों में उपयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "73fd5df7-9814-5ab9-ae00-fa1f9af6269a",
       "tags": [
@@ -15346,7 +15346,7 @@
       "correctIndex": 1,
       "explanation": "मुख्यमंत्री पुष्कर सिंह धामी ने 2024 में जौलजीबी मेले का उद्घाटन किया और 64.47 करोड़ रुपये की 18 योजनाओं का शिलान्यास किया।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "be9b8b60-e8f1-5892-9a97-57ec0472a31a",
       "tags": [
@@ -15365,7 +15365,7 @@
       "correctIndex": 0,
       "explanation": "हरेला त्योहार कुमाऊँ क्षेत्र में वर्षा ऋतु के आगमन पर श्रावण मास में मनाया जाता है, जो प्रकृति और कृषि की समृद्धि का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8f00d107-0873-5337-bc5a-e09edb859b31",
       "tags": [
@@ -15384,7 +15384,7 @@
       "correctIndex": 0,
       "explanation": "फूल देई त्योहार चैत्र मास के पहले दिन मनाया जाता है, जिसमें युवा लड़कियाँ घर-घर जाकर फूल और प्रसाद बाँटती हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "52085d36-bee2-5026-b9db-93a9d9ba643d",
       "tags": [
@@ -15403,7 +15403,7 @@
       "correctIndex": 0,
       "explanation": "नंदा देवी मेला भाद्रपद मास में आयोजित होता है, जिसमें नंदा देवी की पूजा-अर्चना की जाती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "09cb5927-bd86-59f7-8a1c-f181f4750ae0",
       "tags": [
@@ -15422,7 +15422,7 @@
       "correctIndex": 0,
       "explanation": "उत्तरायणी मेला, जो बागेश्वर में आयोजित होता है, स्थानीय भाषा में 'घुघुतिया' के नाम से जाना जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ca94d3c0-c85c-51ca-ae9c-2193f35da60c",
       "tags": [
@@ -15441,7 +15441,7 @@
       "correctIndex": 0,
       "explanation": "बग्वाल मेला चम्पावत जिले के देवीधुरा में आयोजित होता है, जिसमें पत्थरों की बारिश की परंपरा है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e539ac37-99b1-5d21-8ab9-1600861e6ba2",
       "tags": [
@@ -15460,7 +15460,7 @@
       "correctIndex": 0,
       "explanation": "गंगा दशहरा ज्येष्ठ मास के दसवें दिन मनाया जाता है, जो गंगा नदी के अवतरण का उत्सव है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "bee817ba-a25e-5d94-896b-f6a363c9b5cc",
       "tags": [
@@ -15479,7 +15479,7 @@
       "correctIndex": 0,
       "explanation": "जौलजीबी मेला काली नदी के तट पर पिथौरागढ़ और चम्पावत जिलों की सीमा पर आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "dc0235fe-fc3c-5c12-8e59-5b124c2da621",
       "tags": [
@@ -15498,7 +15498,7 @@
       "correctIndex": 0,
       "explanation": "कुंभ मेला हरिद्वार में आयोजित होता है और यह यूनेस्को की अमूर्त सांस्कृतिक विरासत सूची में शामिल है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "631331df-5465-5c77-93f1-f77682b0b3a6",
       "tags": [
@@ -15517,7 +15517,7 @@
       "correctIndex": 0,
       "explanation": "बिस्सू मेला देहरादून के चकराता में जौनसारी जनजाति द्वारा संतूरो देवी की पूजा के लिए मनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "feb4c1bf-673f-5367-b64e-9c045d6efef7",
       "tags": [
@@ -15536,7 +15536,7 @@
       "correctIndex": 0,
       "explanation": "पाती मेला पौड़ी जिले के बगेली थलीसैण में आयोजित होता है, जिसमें ताकत और साहस का प्रदर्शन होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "697dee15-08a8-5aa6-b087-7297b40a71ec",
       "tags": [
@@ -15555,7 +15555,7 @@
       "correctIndex": 0,
       "explanation": "घुघुतिया त्योहार मकर संक्रांति के अवसर पर मनाया जाता है, जिसमें घुघुते बनाकर कौवों को खिलाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5bf2cebb-ac78-5a35-8ad9-210e515b7d66",
       "tags": [
@@ -15574,7 +15574,7 @@
       "correctIndex": 0,
       "explanation": "गोचर मेला 1943 में चमोली जिले में शुरू हुआ था, जिसका उद्देश्य व्यापार और संस्कृति को बढ़ावा देना था।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0535bb7a-e861-5982-a986-f9a35851e493",
       "tags": [
@@ -15593,7 +15593,7 @@
       "correctIndex": 0,
       "explanation": "जागेश्वर श्रावणी महोत्सव श्रावण मास में 15 जुलाई से 15 अगस्त तक आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "47aaacc8-95ee-54bb-9ee3-1586e63c859f",
       "tags": [
@@ -15612,7 +15612,7 @@
       "correctIndex": 0,
       "explanation": "पूर्णागिरि मेला चम्पावत के पास पूर्णागिरि मंदिर में चैत्र और आश्विन नवरात्रि के दौरान आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d9a27db1-e897-54e6-a826-3edacfb3c7a2",
       "tags": [
@@ -15631,7 +15631,7 @@
       "correctIndex": 0,
       "explanation": "बैकुंठ चतुर्दशी मेला श्रीनगर में कमलेश्वर मंदिर में आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "95ca5b81-547f-5a9b-a194-4675c6c33338",
       "tags": [
@@ -15650,7 +15650,7 @@
       "correctIndex": 0,
       "explanation": "शरदोत्सव नैनीताल में अक्टूबर माह में आयोजित होता है, जिसमें सांस्कृतिक और खेल कार्यक्रम होते हैं।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "72b43795-e349-5c28-89a3-96bdbf6ff496",
       "tags": [
@@ -15669,7 +15669,7 @@
       "correctIndex": 0,
       "explanation": "थल मेला पिथौरागढ़ जिले में बैशाखी के अवसर पर रामगंगा नदी के तट पर आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ef033c66-3004-5ca3-8a3c-ed4f21cad2c9",
       "tags": [
@@ -15688,7 +15688,7 @@
       "correctIndex": 0,
       "explanation": "कुमाऊँ महोत्सव अक्टूबर से फरवरी के बीच आयोजित होता है, जो कुमाऊँ की संस्कृति को प्रदर्शित करता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7f3248b7-0284-5947-a6ec-dcc6fc400615",
       "tags": [
@@ -15707,7 +15707,7 @@
       "correctIndex": 0,
       "explanation": "भिटौली त्योहार चैत्र मास में भाइयों द्वारा बहनों को उपहार देने के लिए मनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "fbb725f9-9d98-5472-8f98-e0b52cac7f9c",
       "tags": [
@@ -15726,7 +15726,7 @@
       "correctIndex": 0,
       "explanation": "दशहरा में अल्मोड़ा में रावण के पुतले जलाए जाते हैं, जो सत्य की जीत का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3a98787c-24db-5403-b493-cd685e20878d",
       "tags": [
@@ -15745,7 +15745,7 @@
       "correctIndex": 0,
       "explanation": "न्योली उत्तराखंड का एक लोक गीत है, जो प्रकृति और संस्कृति की महिमा को दर्शाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "504c2a92-d4b9-5648-a678-189032184e62",
       "tags": [
@@ -15764,7 +15764,7 @@
       "correctIndex": 0,
       "explanation": "झोड़ा उत्तराखंड का एक प्रसिद्ध लोक नृत्य है, जो सामूहिक रूप से मेले और उत्सवों में किया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ef58b594-5091-53ba-ae6d-2e41bfef9f21",
       "tags": [
@@ -15783,7 +15783,7 @@
       "correctIndex": 0,
       "explanation": "माघ मेला उत्तरकाशी में माघ मास में एक सप्ताह तक आयोजित होता है, जिसमें गंगा स्नान होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1b6db572-0fff-5bc7-bc99-7b943e527f34",
       "tags": [
@@ -15802,7 +15802,7 @@
       "correctIndex": 0,
       "explanation": "चांचरी उत्तराखंड का एक लोक नृत्य है, जो मेले और उत्सवों में प्रदर्शित किया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b8368001-69ee-5523-b960-68bc3198ddd2",
       "tags": [
@@ -15821,7 +15821,7 @@
       "correctIndex": 0,
       "explanation": "बिन्सर मेला पौड़ी जिले के बिंदेश्वर महादेव मंदिर में वैकुंठ चतुर्दशी पर आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "f7a197ad-2c07-5f71-9cf7-59705eb1e062",
       "tags": [
@@ -15840,7 +15840,7 @@
       "correctIndex": 0,
       "explanation": "रांसो एक कारुणिक गीत है, जो मृत आत्मा को शांत करने के लिए गाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "cdb2a3e4-7b6d-520b-82fb-f9b79c63b84c",
       "tags": [
@@ -15859,7 +15859,7 @@
       "correctIndex": 0,
       "explanation": "घी संक्रांति भाद्रपद मास में मनाया जाता है, जिसमें घी और पौष्टिक भोजन का महत्व है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5a75c60e-cf6c-5e0d-86b5-db11416816a7",
       "tags": [
@@ -15878,7 +15878,7 @@
       "correctIndex": 0,
       "explanation": "गढ़वाल महोत्सव अक्टूबर से फरवरी के बीच आयोजित होता है, जो गढ़वाल की संस्कृति को प्रदर्शित करता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "287bfa91-9224-5591-8ad5-5096c7e84f0b",
       "tags": [
@@ -15897,7 +15897,7 @@
       "correctIndex": 0,
       "explanation": "हुड़का उत्तराखंड का एक पारंपरिक वाद्य यंत्र है, जो लोक नृत्यों में प्रयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "06de7162-554b-56ef-9885-d5bc0525bf3e",
       "tags": [
@@ -15916,7 +15916,7 @@
       "correctIndex": 0,
       "explanation": "सिद्धबली जयंती मेला कोटद्वार में बजरंगबली मंदिर में जनवरी में आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "09b643d7-d460-5941-a005-ea1d8ced3121",
       "tags": [
@@ -15935,7 +15935,7 @@
       "correctIndex": 0,
       "explanation": "खतडुवा त्योहार आषाढ़ मास में मनाया जाता है, जो फसल की समृद्धि का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8c3ffec3-91f9-5692-bf59-cc13a3f0e683",
       "tags": [
@@ -15954,7 +15954,7 @@
       "correctIndex": 0,
       "explanation": "रणभूत नृत्य युद्ध में मरे वीरों की आत्मा को पूजने और नचाने से संबंधित है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "b89235c5-c1b5-5305-a6de-11a09bcf19a1",
       "tags": [
@@ -15973,7 +15973,7 @@
       "correctIndex": 0,
       "explanation": "चैती मेला उधमसिंह नगर के काशीपुर में बाला सुंदरी देवी मंदिर में आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "173f5cdd-d3a2-58bb-9040-9d3ce8b2104f",
       "tags": [
@@ -15992,7 +15992,7 @@
       "correctIndex": 0,
       "explanation": "नंदा देवी राज यात्रा हर 12 वर्ष में आयोजित होती है, जो एक महत्वपूर्ण तीर्थ यात्रा है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "92e3203b-c73d-5de2-a959-9f36f7ea5edd",
       "tags": [
@@ -16011,7 +16011,7 @@
       "correctIndex": 0,
       "explanation": "दमुआ उत्तराखंड का एक पारंपरिक वाद्य यंत्र है, जो लोक संगीत में प्रयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "59210625-2ba0-5162-8995-0e12cc206912",
       "tags": [
@@ -16030,7 +16030,7 @@
       "correctIndex": 0,
       "explanation": "हरियाली पूड़ा मेला चमोली जिले के नोटी गाँव में चैत्र मास में आयोजित होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "08810ddc-acb3-5d63-9ce9-9bc051aa5aa8",
       "tags": [
@@ -16049,7 +16049,7 @@
       "correctIndex": 0,
       "explanation": "फाग उत्तराखंड का एक लोक गीत है, जो होली और अन्य उत्सवों में गाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "03967fc6-adaf-5544-ace3-629ec6e76ecf",
       "tags": [
@@ -16068,7 +16068,7 @@
       "correctIndex": 0,
       "explanation": "बसंत पंचमी में सरस्वती पूजा और पतंगबाजी की परंपरा है, जो वसंत के आगमन का प्रतीक है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "69f88e43-7a32-558f-ad69-d5e3d98c7605",
       "tags": [
@@ -16087,7 +16087,7 @@
       "correctIndex": 0,
       "explanation": "कपिलेश्वर मेला साउनी में आयोजित होता है, जो धार्मिक और सांस्कृतिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "8b03f430-a95b-5d2a-be6a-4f47ae04d3d1",
       "tags": [
@@ -16106,7 +16106,7 @@
       "correctIndex": 0,
       "explanation": "गहत उत्तराखंड की एक पारंपरिक दाल है, जो पौष्टिक भोजन का हिस्सा है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "88ac3119-50da-5b96-90b3-91f6caeccdd7",
       "tags": [
@@ -16125,7 +16125,7 @@
       "correctIndex": 0,
       "explanation": "कुमाऊँनी होली में संगीत और नृत्य की विशेष परंपरा है, जो इसे अनूठा बनाती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "395fd250-d669-53d6-a895-39eb2a709116",
       "tags": [
@@ -16144,7 +16144,7 @@
       "correctIndex": 0,
       "explanation": "वट सावित्री त्योहार विवाहित महिलाओं द्वारा अपने पति की लंबी आयु के लिए मनाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "68c74e3e-9e6d-518a-952b-072993454584",
       "tags": [
@@ -16163,7 +16163,7 @@
       "correctIndex": 0,
       "explanation": "मंडुवा उत्तराखंड का एक पारंपरिक मोटा अनाज है, जो स्थानीय भोजन में प्रयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f02440c7-b558-5b82-8124-9498c4ca1b02",
       "tags": [
@@ -16182,7 +16182,7 @@
       "correctIndex": 0,
       "explanation": "स्याल्दे-बिखौती मेला द्वाराहाट में आयोजित होता है, जो सांस्कृतिक और धार्मिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8dbf99b0-32af-5cab-b4e8-294dbb68d4b1",
       "tags": [
@@ -16201,7 +16201,7 @@
       "correctIndex": 0,
       "explanation": "गंगा आरती हरिद्वार में हर की पौड़ी पर विशेष रूप से आयोजित होती है, जो एक धार्मिक अनुष्ठान है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6bb9e72b-20be-5c13-9be0-4d4796c7d5d8",
       "tags": [
@@ -16220,7 +16220,7 @@
       "correctIndex": 0,
       "explanation": "बैर उत्तराखंड का एक लोक गीत है, जो प्रेम और प्रकृति के विषयों पर गाया जाता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "70919cd8-91e2-5075-889f-b1ce6dddf1cb",
       "tags": [
@@ -16239,7 +16239,7 @@
       "correctIndex": 0,
       "explanation": "दिक्कड़ पूजा उत्तराखंड में स्थानीय देवताओं के सम्मान में की जाती है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "d3bd304b-6b70-56a7-9a73-7a81577cac46",
       "tags": [
@@ -16258,7 +16258,7 @@
       "correctIndex": 0,
       "explanation": "नगाड़ा उत्तराखंड का एक पारंपरिक वाद्य यंत्र है, जो लोक संगीत और नृत्य में प्रयोग होता है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "326f2295-c4f5-59b1-a305-f3593412370f",
       "tags": [
@@ -16277,7 +16277,7 @@
       "correctIndex": 0,
       "explanation": "दूनागिरी मेला दूनागिरी मंदिर के पास आयोजित होता है, जो धार्मिक महत्व का है।",
       "subCategory": "सांस्कृतिक",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5ffadc9f-549e-51ff-9a46-51e729eb8337",
       "tags": [
