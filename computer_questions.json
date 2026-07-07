@@ -1,6 +1,6 @@
 {
   "category": "Computer",
-  "updated_at": "2026-05-10T17:19:13.232303",
+  "updated_at": "2026-05-31T16:40:00.000000",
   "questions": [
     {
       "question": "LAN का पूर्ण रूप क्या है?",
@@ -2549,1063 +2549,1961 @@
       ]
     },
     {
-      "question": "निम्नलिखित में से कौन सा प्रोटोकॉल ईमेल भेजने के लिए उपयोग किया जाता है?",
+      "question": "ROM का पूरा नाम क्या है?",
       "options": [
-        "SMTP",
-        "POP3",
-        "IMAP",
-        "FTP"
+        "Read Open Memory",
+        "Rapid Only Memory",
+        "Read Only Memory",
+        "Random Only Memory"
       ],
-      "correctIndex": 0,
-      "explanation": "Simple Mail Transfer Protocol (SMTP) का उपयोग क्लाइंट से सर्वर या सर्वर से सर्वर पर ईमेल भेजने के लिए किया जाता है। POP3 और IMAP का उपयोग ईमेल प्राप्त करने के लिए किया जाता है।",
-      "questionType": "mcq",
-      "subCategory": "नेटवर्किंग और इंटरनेट",
-      "difficulty": "Easy",
-      "uuid": "192e8758-cb91-5904-bd91-c96492370fb3",
-      "updated_at": "2026-05-31T16:22:23.592686"
-    },
-    {
-      "question": "कंप्यूटर सुरक्षा के संदर्भ में, 'रैंसमवेयर' (Ransomware) क्या है?",
-      "options": [
-        "एक प्रकार का मैलवेयर जो उपयोगकर्ता के डेटा को एन्क्रिप्ट करता है और उसे अनलॉक करने के लिए फिरौती मांगता है",
-        "एक एंटीवायरस सॉफ़्टवेयर",
-        "डेटा बैकअप टूल",
-        "एक नेटवर्क प्रोटोकॉल"
-      ],
-      "correctIndex": 0,
-      "explanation": "रैंसमवेयर एक हानिकारक मैलवेयर है जो फाइलों को लॉक कर देता है और उन्हें डिक्रिप्ट करने के लिए पैसे (फिरौती) की मांग करता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर सुरक्षा",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: Read Only Memory।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "dc3711a9-7637-506f-9446-58501ff801bf",
-      "updated_at": "2026-05-31T16:22:23.592712"
+      "questionType": "mcq",
+      "uuid": "838bcf86-2823-5deb-8621-0268a293939d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "भारतीय सुपरकंप्यूटर के जनक के रूप में किसे जाना जाता है जिन्होंने 'परम' (PARAM) श्रृंखला के सुपरकंप्यूटरों के विकास का नेतृत्व किया था?",
+      "question": "ALU का पूरा नाम क्या है?",
       "options": [
-        "विजय भटकर",
-        "रघुनाथ माशेलकर",
-        "जयंत नार्लीकर",
-        "सी.एन.आर. राव"
+        "Arithmetic Logic Unit",
+        "Advance Logic Unit",
+        "All Logic Unit",
+        "Arithmetic Logical Use"
       ],
       "correctIndex": 0,
-      "explanation": "डॉ. विजय भटकर को भारतीय सुपरकंप्यूटिंग का जनक माना जाता है। उन्होंने 1991 में भारत के पहले सुपरकंप्यूटर 'PARAM 8000' के विकास का नेतृत्व किया था।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर का इतिहास",
-      "difficulty": "Easy",
-      "uuid": "aca8401a-be12-54dd-bf7d-56f230bb0aea",
-      "updated_at": "2026-05-31T16:22:23.592724"
-    },
-    {
-      "question": "वेब पेजों को विशिष्ट रूप से पहचानने के लिए निम्नलिखित में से किसका उपयोग किया जाता है?",
-      "options": [
-        "URL (Uniform Resource Locator)",
-        "IP Address",
-        "HTML",
-        "HTTP"
-      ],
-      "correctIndex": 0,
-      "explanation": "URL इंटरनेट पर किसी भी विशिष्ट वेब पेज या संसाधन का पता (Address) होता है।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
-      "difficulty": "Easy",
-      "uuid": "59c044f1-b095-52e1-b735-ef1b782df085",
-      "updated_at": "2026-05-31T16:22:23.592733"
-    },
-    {
-      "question": "कंप्यूटर नेटवर्किंग में 'IPv6' (Internet Protocol version 6) एड्रेस का आकार कितना होता है?",
-      "options": [
-        "128 बिट्स",
-        "32 बिट्स",
-        "64 बिट्स",
-        "16 बिट्स"
-      ],
-      "correctIndex": 0,
-      "explanation": "IPv6 एड्रेस का आकार 128 बिट्स (16 बाइट्स) होता है, जबकि पुराने IPv4 एड्रेस का आकार 32 बिट्स होता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर नेटवर्क",
+      "explanation": "सही उत्तर: Arithmetic Logic Unit।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "829b0725-14eb-5bc5-8342-c4062e77dab2",
-      "updated_at": "2026-05-31T16:22:23.592743"
+      "questionType": "mcq",
+      "uuid": "511a6054-a0de-5818-ab54-698b62067ef4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "स्प्रेडशीट प्रोग्राम (जैसे MS Excel) में फ़ार्मूला हमेशा किस चिह्न से शुरू होना चाहिए?",
+      "question": "कंप्यूटर का मस्तिष्क किसे कहते हैं?",
       "options": [
-        "= (बराबर)",
-        "+ (प्लस)",
-        "@ (ऐट)",
-        "# (हैश)"
+        "Monitor",
+        "RAM",
+        "Hard Disk",
+        "CPU"
       ],
-      "correctIndex": 0,
-      "explanation": "MS Excel या किसी भी स्प्रेडशीट में फॉर्मूला या गणना शुरू करने के लिए सबसे पहले '=' (बराबर) का चिह्न लगाना अनिवार्य है।",
-      "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "f9b284b6-6c0d-5bf3-82b1-337dabcab431",
-      "updated_at": "2026-05-31T16:22:23.592751"
-    },
-    {
-      "question": "कंप्यूटर का पितामह (Father of Computer) किसे कहा जाता है?",
-      "options": [
-        "चार्ल्स बैबेज",
-        "ब्लेज़ पास्कल",
-        "हर्मन होलेरिथ",
-        "जॉन वॉन न्यूमैन"
-      ],
-      "correctIndex": 0,
-      "explanation": "चार्ल्स बैबेज को कंप्यूटर का पितामह कहा जाता है क्योंकि उन्होंने पहले यांत्रिक कंप्यूटर (एनालिटिकल इंजन) की रूपरेखा तैयार की थी।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर का इतिहास",
-      "difficulty": "Easy",
-      "uuid": "9c85106d-342b-55d7-a248-814552531361",
-      "updated_at": "2026-05-31T16:29:08.246989"
-    },
-    {
-      "question": "कंप्यूटर की भौतिक बनावट (Physical Structure) को क्या कहते हैं जिसे हम देख और छू सकते हैं?",
-      "options": [
-        "हार्डवेयर",
-        "सॉफ्टवेयर",
-        "ऑपरेटिंग सिस्टम",
-        "डेटाबेस"
-      ],
-      "correctIndex": 0,
-      "explanation": "कंप्यूटर के वे भौतिक भाग जिन्हें हम देख और छू सकते हैं (जैसे मॉनिटर, कीबोर्ड, मदरबोर्ड), उन्हें हार्डवेयर (Hardware) कहते हैं।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर के घटक",
-      "difficulty": "Easy",
-      "uuid": "d183925b-2422-5999-bccf-23d145f0d70e",
-      "updated_at": "2026-05-31T16:29:08.247009"
-    },
-    {
-      "question": "कंप्यूटर के विकास में सर्वाधिक योगदान किसका माना जाता है जिन्होंने संग्रहीत प्रोग्राम संरचना का प्रस्ताव दिया था?",
-      "options": [
-        "जॉन वॉन न्यूमैन",
-        "चार्ल्स बैबेज",
-        "ब्लेज़ पास्कल",
-        "जोसेफ जैक्वार्ड"
-      ],
-      "correctIndex": 0,
-      "explanation": "जॉन वॉन न्यूमैन का आधुनिक कंप्यूटर के विकास में सर्वाधिक योगदान है। उन्होंने वॉन न्यूमैन आर्किटेक्चर (संग्रहीत प्रोग्राम अवधारणा) दी जो आज भी उपयोग होती है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर का इतिहास",
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: CPU।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "092a1ba3-25f2-53fb-8ff7-711597e35ac1",
-      "updated_at": "2026-05-31T16:29:08.247018"
+      "questionType": "mcq",
+      "uuid": "013aafcb-2bbc-50f9-85b8-dd40930c7977",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "इंटीग्रेटेड सर्किट (IC Chips) का विकास कंप्यूटर की तीसरी पीढ़ी में किस वैज्ञानिक द्वारा किया गया था?",
+      "question": "RAM किस प्रकार की मेमोरी है?",
       "options": [
-        "जे.एस. किल्बी",
-        "सी.वी. रमन",
-        "चार्ल्स बैबेज",
-        "रॉबर्ट नॉयस"
+        "अस्थायी (Volatile)",
+        "कैश",
+        "स्थायी (Non-Volatile)",
+        "सेकेंडरी"
       ],
       "correctIndex": 0,
-      "explanation": "1958 में टेक्सास इंस्ट्रूमेंट्स के जे.एस. किल्बी (Jack Kilby) ने पहली बार इंटीग्रेटेड सर्किट (IC) चिप का विकास किया था।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर का इतिहास",
+      "explanation": "सही उत्तर: अस्थायी (Volatile)।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "f8b78dac-352d-5793-866a-f14beeeb56e9",
-      "updated_at": "2026-05-31T16:29:08.247027"
+      "questionType": "mcq",
+      "uuid": "701db620-8c03-5dc3-8c7b-42174cc3c6e4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर चिप्स (IC Chips) पर सामान्यतः किसकी परत चढ़ी होती है जो एक अर्धचालक है?",
+      "question": "ROM किस प्रकार की मेमोरी है?",
       "options": [
-        "सिलिकॉन",
-        "क्रोमियम",
-        "लोहा",
-        "सोना"
+        "कैश",
+        "स्थायी (Non-Volatile)",
+        "अस्थायी (Volatile)",
+        "प्राइमरी"
       ],
-      "correctIndex": 0,
-      "explanation": "कंप्यूटर की IC चिप्स सिलिकॉन (Silicon) की बनी होती हैं, जो एक प्रसिद्ध अर्धचालक (Semiconductor) सामग्री है। कैलिफोर्निया के सिलिकॉन वैली और भारत के बेंगलुरु को इसी नाम से जाना जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर घटक",
-      "difficulty": "Easy",
-      "uuid": "27626e27-c1b3-50ff-8df1-728779b3bf6b",
-      "updated_at": "2026-05-31T16:29:08.247034"
-    },
-    {
-      "question": "चुम्बकीय डिस्क (Magnetic Disk) जैसे हार्ड ड्राइव पर डेटा को स्टोर करने के लिए किस पदार्थ की परत का उपयोग किया जाता है?",
-      "options": [
-        "आयरन ऑक्साइड",
-        "सोडियम पेरोक्साइड",
-        "मैग्नीशियम ऑक्साइड",
-        "फास्फोरस पेरोक्साइड"
-      ],
-      "correctIndex": 0,
-      "explanation": "चुम्बकीय डिस्क की सतह पर आयरन ऑक्साइड (Iron Oxide) की एक पतली परत चढ़ी होती है जो चुंबकीय रूप से डेटा रिकॉर्ड करने में मदद करती है।",
-      "questionType": "mcq",
-      "subCategory": "स्टोरेज डिवाइस",
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: स्थायी (Non-Volatile)।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "00ba7c0e-3a76-5dfd-baec-1b88ae8333f1",
-      "updated_at": "2026-05-31T16:29:08.247043"
-    },
-    {
-      "question": "कंप्यूटर मेमोरी में सूचना की सबसे छोटी इकाई को क्या कहते हैं जिसकी केवल दो अवस्थाएँ (0 या 1) हो सकती हैं?",
-      "options": [
-        "बिट (Bit)",
-        "बाइट (Byte)",
-        "निबल (Nibble)",
-        "वर्ड (Word)"
-      ],
-      "correctIndex": 0,
-      "explanation": "बिट (Binary Digit) कंप्यूटर मेमोरी की सबसे छोटी इकाई है। इसका मान 0 या 1 हो सकता है।",
       "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "3308b3ae-6215-5d1f-b70e-397dcb3f1833",
-      "updated_at": "2026-05-31T16:29:08.247050"
+      "uuid": "47611eca-c5ac-511e-bdaa-7cdd8242a447",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "एक बाइट (Byte) में कुल कितने बिट्स (Bits) होते हैं?",
+      "question": "1 KB (Kilobyte) में कितने Bytes होते हैं?",
+      "options": [
+        "512 Bytes",
+        "1000 Bytes",
+        "1024 Bytes",
+        "2048 Bytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 1024 Bytes।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ac2bb4c4-9775-5d1d-a575-e10b2654e079",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "1 MB (Megabyte) में कितने KB होते हैं?",
+      "options": [
+        "1000 KB",
+        "1024 KB",
+        "512 KB",
+        "2048 KB"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1024 KB।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bbf05d24-cb3b-5e4e-937a-7548fa148692",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "1 GB (Gigabyte) में कितने MB होते हैं?",
+      "options": [
+        "2048 MB",
+        "1024 MB",
+        "1000 MB",
+        "512 MB"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1024 MB।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f77db856-c262-5a6c-89fe-6d30e7804dd6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "1 TB (Terabyte) में कितने GB होते हैं?",
+      "options": [
+        "512 GB",
+        "1024 GB",
+        "2048 GB",
+        "1000 GB"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 1024 GB।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d257fff0-bdd5-5e63-b4cb-f1603e49a47b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "बाइनरी संख्या प्रणाली का आधार (Base) क्या है?",
       "options": [
         "8",
-        "4",
-        "16",
-        "32"
-      ],
-      "correctIndex": 0,
-      "explanation": "कंप्यूटर में 8 बिट्स (Bits) के समूह को 1 बाइट (Byte) कहा जाता है। 4 बिट्स के समूह को 1 निबल (Nibble) कहा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "a8b75161-76be-5fa6-9fbc-9be6655c01dc",
-      "updated_at": "2026-05-31T16:29:08.247057"
-    },
-    {
-      "question": "1024 बाइट्स (Bytes) निम्नलिखित में से किसके बराबर होता है?",
-      "options": [
-        "1 KB (किलोबाइट)",
-        "1 MB (मेगाबाइट)",
-        "1 GB (गीगाबाइट)",
-        "1 TB (टेराबाइट)"
-      ],
-      "correctIndex": 0,
-      "explanation": "1024 बाइट्स मिलकर 1 किलोबाइट (Kilobyte - KB) बनाते हैं। इसी प्रकार 1024 KB = 1 MB होता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "de3496f5-22e2-5527-bc41-1494dcf88009",
-      "updated_at": "2026-05-31T16:29:08.247064"
-    },
-    {
-      "question": "1024 KB (किलोबाइट) निम्नलिखित में से किसके बराबर होता है?",
-      "options": [
-        "1 MB (मेगाबाइट)",
-        "1 GB",
-        "1 TB",
-        "1 बाइट"
-      ],
-      "correctIndex": 0,
-      "explanation": "1024 किलोबाइट (KB) मिलकर 1 मेगाबाइट (Megabyte - MB) के बराबर होता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "ff229b23-63a8-5645-a997-94c09d50f680",
-      "updated_at": "2026-05-31T16:29:08.247072"
-    },
-    {
-      "question": "1024 MB (मेगाबाइट) निम्नलिखित में से किसके बराबर होता है?",
-      "options": [
-        "1 GB (गीगाबाइट)",
-        "1 TB",
-        "1 KB",
-        "1 PB"
-      ],
-      "correctIndex": 0,
-      "explanation": "1024 मेगाबाइट (MB) मिलकर 1 गीगाबाइट (Gigabyte - GB) का निर्माण करते हैं।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "30b48f7c-b53a-56a8-b573-84dd5059c370",
-      "updated_at": "2026-05-31T16:29:08.247079"
-    },
-    {
-      "question": "1024 GB (गीगाबाइट) निम्नलिखित में से किसके बराबर होता है?",
-      "options": [
-        "1 TB (टेराबाइट)",
-        "1 PB",
-        "1 MB",
-        "1 KB"
-      ],
-      "correctIndex": 0,
-      "explanation": "1024 गीगाबाइट (GB) मिलकर 1 टेराबाइट (Terabyte - TB) के बराबर होता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "d5c4999f-9b0a-5943-a149-335a50756c67",
-      "updated_at": "2026-05-31T16:29:08.247086"
-    },
-    {
-      "question": "कंप्यूटर वायरस (Virus) वास्तव में क्या होता है जो कंप्यूटर में स्वयं की प्रतिलिपियाँ बनाकर नुकसान पहुँचाता है?",
-      "options": [
-        "एक दुर्भावनापूर्ण सॉफ्टवेयर प्रोग्राम",
-        "एक जीवाणु/बैक्टीरिया",
-        "एक हार्डवेयर डिवाइस",
-        "एक एंटीवायरस सुरक्षा कार्ड"
-      ],
-      "correctIndex": 0,
-      "explanation": "कंप्यूटर वायरस एक विशेष रूप से लिखा गया सॉफ्टवेयर प्रोग्राम है जो कंप्यूटर के सामान्य कामकाज को बाधित करने या डेटा चोरी करने के उद्देश्य से बनाया जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर सुरक्षा",
-      "difficulty": "Easy",
-      "uuid": "1c6f412e-91fb-5780-8eb2-ce6a02f066ab",
-      "updated_at": "2026-05-31T16:29:08.247093"
-    },
-    {
-      "question": "WWW (World Wide Web) का आविष्कार टिम बर्नर्स-ली ने जिनेवा की सर्न (CERN) प्रयोगशाला में किस वर्ष किया था?",
-      "options": [
-        "1989",
-        "1995",
-        "1980",
-        "2000"
-      ],
-      "correctIndex": 0,
-      "explanation": "टिम बर्नर्स-ली ने 1989 में वर्ल्ड वाइड वेब (WWW) का आविष्कार किया था, जिसने इंटरनेट पर सूचना साझा करने का स्वरूप बदल दिया।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
-      "difficulty": "Medium",
-      "uuid": "137329e2-a87a-5fbc-baa1-6b1e953cc6eb",
-      "updated_at": "2026-05-31T16:29:08.247100"
-    },
-    {
-      "question": "ईमेल (E-mail) के जन्मदाता और संदेशों में '@' (ऐट) चिह्न का उपयोग शुरू करने वाले व्यक्ति कौन हैं?",
-      "options": [
-        "रे टॉमलिंसन",
-        "टिम बर्नर्स-ली",
-        "बिल गेट्स",
-        "स्टीव जॉब्स"
-      ],
-      "correctIndex": 0,
-      "explanation": "रे टॉमलिंसन (Ray Tomlinson) को ईमेल का जन्मदाता माना जाता है जिन्होंने 1971 में पहला नेटवर्क ईमेल भेजा और यूज़रनेम तथा होस्ट को अलग करने के लिए '@' का प्रयोग किया।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
-      "difficulty": "Medium",
-      "uuid": "c61166df-174e-5fb9-9025-b143d18c0154",
-      "updated_at": "2026-05-31T16:29:08.247107"
-    },
-    {
-      "question": "किसी वेबसाइट का पहला या मुख्य पृष्ठ जो उस वेबसाइट की सामग्री का सारांश देता है, क्या कहलाता है?",
-      "options": [
-        "होम पेज (Home Page)",
-        "मेनू पेज",
-        "बुकमार्क पेज",
-        "सर्च पेज"
-      ],
-      "correctIndex": 0,
-      "explanation": "किसी भी वेबसाइट को ब्राउज़र में खोलने पर जो सबसे पहला पेज खुलता है, उसे होम पेज (Home Page) कहा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
-      "difficulty": "Easy",
-      "uuid": "f6dae35a-93ce-58ec-84b1-fe742c755980",
-      "updated_at": "2026-05-31T16:29:08.247114"
-    },
-    {
-      "question": "कंप्यूटर के संदर्भ में 'RAM' का पूर्ण रूप क्या होता है जो एक अस्थायी/वोलेटाइल मेमोरी है?",
-      "options": [
-        "Random Access Memory",
-        "Read Access Memory",
-        "Rapid Action Memory",
-        "Row Active Module"
-      ],
-      "correctIndex": 0,
-      "explanation": "RAM का पूर्ण रूप Random Access Memory है। यह एक वोलेटाइल (अस्थायी) मेमोरी है, यानी कंप्यूटर बंद होने पर इसका सारा डेटा नष्ट हो जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "68b9b1ca-db6f-5dfa-af6a-a5011ef17aa7",
-      "updated_at": "2026-05-31T16:29:08.247122"
-    },
-    {
-      "question": "कंप्यूटर के संदर्भ में 'ROM' का पूर्ण रूप क्या होता है जो एक स्थायी/नॉन-वोलेटाइल मेमोरी है?",
-      "options": [
-        "Read Only Memory",
-        "Random Output Memory",
-        "Row Only Module",
-        "Read Output Memory"
-      ],
-      "correctIndex": 0,
-      "explanation": "ROM का पूर्ण रूप Read Only Memory है। यह एक नॉन-वोलेटाइल (स्थायी) मेमोरी है, जिसमें लिखे गए निर्देश कंप्यूटर बंद होने पर भी सुरक्षित रहते हैं।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "31321834-b3e4-5522-b077-11963e6727d2",
-      "updated_at": "2026-05-31T16:29:08.247129"
-    },
-    {
-      "question": "कंप्यूटर का मस्तिष्क (Brain of Computer) किसे कहा जाता है जो सभी प्रोसेसिंग कार्य करता है?",
-      "options": [
-        "CPU",
-        "मॉनिटर",
-        "कीबोर्ड",
-        "हार्ड डिस्क"
-      ],
-      "correctIndex": 0,
-      "explanation": "CPU (Central Processing Unit) को कंप्यूटर का मस्तिष्क कहा जाता है क्योंकि यह कंप्यूटर की सभी गणनाओं और नियंत्रण कार्यों को संचालित करता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर आर्किटेक्चर",
-      "difficulty": "Easy",
-      "uuid": "f4c63c21-f750-52da-8245-d0048c04dca7",
-      "updated_at": "2026-05-31T16:29:08.247137"
-    },
-    {
-      "question": "कंप्यूटर में प्रयुक्त होने वाले शब्द 'CPU' का पूर्ण रूप क्या है?",
-      "options": [
-        "Central Processing Unit",
-        "Computer Processing Unit",
-        "Central Program Unit",
-        "Common Processing Unit"
-      ],
-      "correctIndex": 0,
-      "explanation": "CPU का पूर्ण रूप Central Processing Unit है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर आर्किटेक्चर",
-      "difficulty": "Easy",
-      "uuid": "3129c58d-92c4-5114-88e5-fb1bd7953c96",
-      "updated_at": "2026-05-31T16:29:08.247144"
-    },
-    {
-      "question": "कीबोर्ड या माउस के माध्यम से कंप्यूटर में जो कच्चे आंकड़े या निर्देश भेजे जाते हैं, उन्हें क्या कहा जाता है?",
-      "options": [
-        "इनपुट (Input)",
-        "आउटपुट (Output)",
-        "प्रोसेसिंग",
-        "स्टोरेज"
-      ],
-      "correctIndex": 0,
-      "explanation": "उपयोगकर्ता द्वारा कंप्यूटर में दर्ज किए जाने वाले डेटा और निर्देशों को इनपुट (Input) कहा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर के घटक",
-      "difficulty": "Easy",
-      "uuid": "95ae3163-6ee0-5c4f-8513-08ef31bd27e2",
-      "updated_at": "2026-05-31T16:29:08.247152"
-    },
-    {
-      "question": "कंप्यूटर द्वारा डेटा को संसाधित (Process) करने के बाद जो जानकारी स्क्रीन या प्रिंटर पर प्रदर्शित होती है, उसे क्या कहते हैं?",
-      "options": [
-        "आउटपुट (Output)",
-        "इनपुट",
-        "रॉ डेटा",
-        "मेमोरी"
-      ],
-      "correctIndex": 0,
-      "explanation": "कंप्यूटर द्वारा इनपुट को प्रोसेस करने के बाद प्राप्त होने वाले परिणाम को आउटपुट (Output) कहा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर के घटक",
-      "difficulty": "Easy",
-      "uuid": "9ef0c972-120b-576e-adf7-6848dbe4db22",
-      "updated_at": "2026-05-31T16:29:08.247160"
-    },
-    {
-      "question": "एक मानक कीबोर्ड (Standard Keyboard) में सबसे ऊपर स्थित 'Function Keys' (F1 से F12) की कुल संख्या कितनी होती है?",
-      "options": [
-        "12",
+        "2",
         "10",
-        "15",
+        "16"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: 2।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "aefa74df-1796-5714-8485-4318b32efae5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "ऑक्टल संख्या प्रणाली का आधार (Base) क्या है?",
+      "options": [
+        "2",
+        "16",
+        "10",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 8।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "64cc7f79-7838-5ed3-9cd7-c6a23c29b451",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "हेक्साडेसिमल संख्या प्रणाली का आधार (Base) क्या है?",
+      "options": [
+        "16",
+        "2",
+        "10",
         "8"
       ],
       "correctIndex": 0,
-      "explanation": "एक मानक कीबोर्ड में F1 से लेकर F12 तक कुल 12 फंक्शन कुंजियाँ (Function Keys) होती हैं, जिनका उपयोग विशिष्ट कार्यों के लिए किया जाता है।",
+      "explanation": "सही उत्तर: 16।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "इनपुट डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "c94d4972-d770-5aaf-b18f-93997d5132bb",
-      "updated_at": "2026-05-31T16:29:08.247167"
+      "uuid": "87571754-e2dd-50fd-8007-b6722aea1255",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर में विभिन्न वीडियो गेम्स खेलने के लिए किस इनपुट डिवाइस का मुख्य रूप से उपयोग किया जाता है?",
+      "question": "डेसिमल संख्या प्रणाली का आधार (Base) क्या है?",
       "options": [
-        "जॉयस्टिक (Joystick)",
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 10।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "87502928-106b-5231-9e25-b43c276382c2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "निम्नलिखित में से कौन सा इनपुट और आउटपुट दोनों है?",
+      "options": [
+        "स्पीकर",
         "प्रिंटर",
-        "लाइट पेन",
+        "टचस्क्रीन",
         "कीबोर्ड"
       ],
-      "correctIndex": 0,
-      "explanation": "जॉयस्टिक एक प्रकार का इनपुट डिवाइस है जिसका उपयोग मुख्य रूप से वीडियो गेमिंग और रोबोटिक आर्म्स को नियंत्रित करने के लिए किया जाता है।",
-      "questionType": "mcq",
-      "subCategory": "इनपुट डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "c618e238-1dd0-55db-9c86-81d127ef0f47",
-      "updated_at": "2026-05-31T16:29:08.247175"
-    },
-    {
-      "question": "कंप्यूटर इनपुट डिवाइस के संदर्भ में 'OCR' का पूर्ण रूप क्या होता है?",
-      "options": [
-        "Optical Character Recognition",
-        "Optical Card Reader",
-        "Online Character Reader",
-        "Output Character Reader"
-      ],
-      "correctIndex": 0,
-      "explanation": "OCR का पूर्ण रूप Optical Character Recognition है। यह तकनीक छपे हुए या हस्तलिखित टेक्स्ट को मशीन-रीडेबल टेक्स्ट में परिवर्तित करती है।",
-      "questionType": "mcq",
-      "subCategory": "इनपुट डिवाइस",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: टचस्क्रीन।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "c217810e-e792-5528-b3c4-398854c43335",
-      "updated_at": "2026-05-31T16:29:08.247182"
+      "questionType": "mcq",
+      "uuid": "a937f405-b7d4-5e0b-b6cf-a871f5073424",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर या टीवी मॉनिटर की स्क्रीन के आकार (Display Size) को मापने का मानक तरीका क्या है?",
+      "question": "स्कैनर क्या है?",
       "options": [
-        "डायगोनली (विकर्णतः - एक कोने से विपरीत कोने तक)",
-        "हॉरिजॉन्टली (क्षैतिज रूप से)",
-        "वर्टिकली (लंबवत रूप से)",
-        "चौड़ाई और ऊंचाई का योग"
+        "प्रोसेसिंग डिवाइस",
+        "इनपुट डिवाइस",
+        "आउटपुट डिवाइस",
+        "स्टोरेज डिवाइस"
       ],
-      "correctIndex": 0,
-      "explanation": "स्क्रीन के डिस्प्ले आकार को हमेशा डायगोनली (विकर्णतः), यानी स्क्रीन के एक कोने से उसके विपरीत कोने तक मापा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "आउटपुट डिवाइस",
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: इनपुट डिवाइस।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "0db55709-9306-5ba4-b77a-776f8f932fd4",
-      "updated_at": "2026-05-31T16:29:08.247189"
+      "questionType": "mcq",
+      "uuid": "ef7967fd-f2a3-5cec-92f2-c814c5aca416",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "यदि कंप्यूटर स्क्रीन पर दिखने वाला परिणाम (Soft Copy) है, तो प्रिंटर द्वारा कागज पर मुद्रित परिणाम को क्या कहेंगे?",
+      "question": "मॉनिटर क्या है?",
       "options": [
-        "हार्ड कॉपी (Hard Copy)",
-        "डुप्लिकेट कॉपी",
-        "डिजिटल कॉपी",
-        "बैकअप कॉपी"
+        "इनपुट डिवाइस",
+        "आउटपुट डिवाइस",
+        "प्रोसेसिंग डिवाइस",
+        "स्टोरेज डिवाइस"
       ],
-      "correctIndex": 0,
-      "explanation": "मॉनिटर पर प्रदर्शित होने वाले डिजिटल आउटपुट को सॉफ्ट कॉपी और प्रिंटर द्वारा कागज पर छापे गए भौतिक आउटपुट को हार्ड कॉपी (Hard Copy) कहते हैं।",
-      "questionType": "mcq",
-      "subCategory": "आउटपुट डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "e6965cfa-6aa8-5642-a26c-a8869a4e50cb",
-      "updated_at": "2026-05-31T16:29:08.247196"
-    },
-    {
-      "question": "मदरबोर्ड पर सीधे स्थित होने के कारण कंप्यूटर की आंतरिक या मुख्य मेमोरी (Main Memory) किसे कहा जाता है?",
-      "options": [
-        "RAM और ROM",
-        "हार्ड डिस्क",
-        "पेन ड्राइव",
-        "मेमोरी कार्ड"
-      ],
-      "correctIndex": 0,
-      "explanation": "RAM और ROM को कंप्यूटर की प्राथमिक या मुख्य मेमोरी (Primary Memory) कहा जाता है, जो सीधे मदरबोर्ड पर स्थापित होती हैं और जिन तक CPU सीधे पहुंच सकता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "4f8c6090-4b49-59e2-b057-6a440d6a562a",
-      "updated_at": "2026-05-31T16:29:08.247203"
-    },
-    {
-      "question": "फ्लॉपी डिस्क (Floppy Disk) या हार्ड डिस्क किस प्रकार की मेमोरी के उदाहरण हैं जिन्हें बाहर से जोड़ा जा सकता है?",
-      "options": [
-        "एक्सटर्नल / सेकेंडरी मेमोरी",
-        "प्राइमरी मेमोरी",
-        "रजिस्टर",
-        "कैश मेमोरी"
-      ],
-      "correctIndex": 0,
-      "explanation": "हार्ड डिस्क और फ्लॉपी डिस्क बाहरी या सेकेंडरी मेमोरी (Secondary Storage) के उदाहरण हैं जो बड़ी मात्रा में डेटा को स्थायी रूप से सुरक्षित रखते हैं।",
-      "questionType": "mcq",
-      "subCategory": "स्टोरेज डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "68c9f7eb-8fef-53a5-bcf5-570c1a870a64",
-      "updated_at": "2026-05-31T16:29:08.247210"
-    },
-    {
-      "question": "कंप्यूटर पर काम करते समय अचानक बिजली जाने पर किस वोलेटाइल मेमोरी का डेटा तुरंत समाप्त (नष्ट) हो जाता है?",
-      "options": [
-        "RAM",
-        "ROM",
-        "हार्ड डिस्क",
-        "फ्लॉपी डिस्क"
-      ],
-      "correctIndex": 0,
-      "explanation": "RAM एक वोलेटाइल मेमोरी है, इसलिए विद्युत आपूर्ति बाधित होते ही इसमें संग्रहीत सारा अस्थाई डेटा तुरंत नष्ट हो जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "680d6159-94e2-5f4d-a81d-f45d271fb1d3",
-      "updated_at": "2026-05-31T16:29:08.247218"
-    },
-    {
-      "question": "किस मेमोरी में रखा गया डेटा कंप्यूटर के बंद होने (विद्युत आपूर्ति कटने) के बाद भी सुरक्षित और अपरिवर्तित रहता है?",
-      "options": [
-        "ROM",
-        "RAM",
-        "कैश मेमोरी",
-        "रजिस्टर"
-      ],
-      "correctIndex": 0,
-      "explanation": "ROM (Read Only Memory) एक नॉन-वोलेटाइल मेमोरी है जो कंप्यूटर का स्विच ऑफ होने पर भी डेटा को सुरक्षित रखती है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर मेमोरी",
-      "difficulty": "Easy",
-      "uuid": "e87e4f90-1c3b-5b3c-b1ec-7b2ba3c3dc60",
-      "updated_at": "2026-05-31T16:29:08.247225"
-    },
-    {
-      "question": "स्टोरेज माध्यम 'CD-ROM' का पूर्ण रूप क्या होता है जो ऑप्टिकल मीडिया का उदाहरण है?",
-      "options": [
-        "Compact Disc Read Only Memory",
-        "Computer Disc Read Only Memory",
-        "Circular Disc Read Only Memory",
-        "Common Disc Read Only Memory"
-      ],
-      "correctIndex": 0,
-      "explanation": "CD-ROM का पूर्ण रूप Compact Disc Read Only Memory है।",
-      "questionType": "mcq",
-      "subCategory": "स्टोरेज डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "0f2cee50-db93-5a7e-bc51-8b5143a30ea9",
-      "updated_at": "2026-05-31T16:29:08.247233"
-    },
-    {
-      "question": "कंप्यूटर सिस्टम बंद होने पर भी डेटा को स्थायी रूप से सुरक्षित रखने के लिए हम किस डिवाइस का उपयोग करते हैं?",
-      "options": [
-        "सेकेंडरी स्टोरेज डिवाइस (जैसे Hard Disk)",
-        "RAM",
-        "प्राइमरी मेमोरी",
-        "कैश मेमोरी"
-      ],
-      "correctIndex": 0,
-      "explanation": "स्थायी रूप से फाइलों को सुरक्षित रखने के लिए सेकेंडरी स्टोरेज डिवाइस जैसे कि हार्ड डिस्क ड्राइव (HDD) या सॉलिड स्टेट ड्राइव (SSD) का उपयोग किया जाता है।",
-      "questionType": "mcq",
-      "subCategory": "स्टोरेज डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "84097eb5-8575-5d68-b29d-dc99a1624c49",
-      "updated_at": "2026-05-31T16:29:08.247240"
-    },
-    {
-      "question": "कंप्यूटर सॉफ्टवेयर (Software) का मुख्य उद्देश्य कच्चे डेटा को किसमें परिवर्तित करना होता है?",
-      "options": [
-        "सूचना (Information) में",
-        "वेबसाइटों में",
-        "प्रोग्रामों में",
-        "ऑब्जेक्ट्स में"
-      ],
-      "correctIndex": 0,
-      "explanation": "सॉफ्टवेयर का मुख्य उद्देश्य कच्चे इनपुट डेटा (Raw Data) को संसाधित करके अर्थपूर्ण जानकारी या सूचना (Information) में परिवर्तित करना है।",
-      "questionType": "mcq",
-      "subCategory": "सॉफ्टवेयर",
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: आउटपुट डिवाइस।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "7e6da576-7b89-5901-b3ae-fc7fd2e372ff",
-      "updated_at": "2026-05-31T16:29:08.247249"
+      "questionType": "mcq",
+      "uuid": "38f61820-430f-5709-bc74-ae56bfa37d6e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "सॉफ्टवेयर कोड में छिपी हुई गलतियों (Errors या Bugs) को खोजने और उन्हें ठीक करने की प्रक्रिया को क्या कहते हैं?",
+      "question": "माउस क्या है?",
       "options": [
-        "डीबगिंग (Debugging)",
-        "कंपाइलिंग",
-        "रन करना",
-        "इंटरप्रेट करना"
+        "आउटपुट डिवाइस",
+        "प्रोसेसिंग डिवाइस",
+        "स्टोरेज डिवाइस",
+        "पॉइंटिंग इनपुट डिवाइस"
       ],
-      "correctIndex": 0,
-      "explanation": "सॉफ्टवेयर कोड में मौजूद एरर्स (Bugs) का पता लगाने और उन्हें ठीक करने की तकनीकी प्रक्रिया को डीबगिंग (Debugging) कहा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "सॉफ्टवेयर",
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: पॉइंटिंग इनपुट डिवाइस।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "2960d92d-0236-58f0-a215-1a2a63f573ae",
-      "updated_at": "2026-05-31T16:29:08.247257"
+      "questionType": "mcq",
+      "uuid": "02f200e8-713b-5423-9f8f-ebc3da8551ff",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर सिस्टम का वह भाग जिसे कोई देख और समझ सकता है लेकिन स्पर्श (भौतिक रूप से छू) नहीं सकता, उसे क्या कहते हैं?",
+      "question": "बारकोड रीडर क्या है?",
       "options": [
-        "सॉफ्टवेयर (Software)",
-        "हार्डवेयर",
-        "मदरबोर्ड",
-        "पेरिफेरल"
+        "आउटपुट डिवाइस",
+        "स्टोरेज डिवाइस",
+        "नेटवर्किंग डिवाइस",
+        "इनपुट डिवाइस"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: इनपुट डिवाइस।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5472856d-6f1b-559c-bca2-d31230940de9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "प्रोजेक्टर क्या है?",
+      "options": [
+        "प्रोसेसिंग डिवाइस",
+        "स्टोरेज डिवाइस",
+        "आउटपुट डिवाइस",
+        "इनपुट डिवाइस"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: आउटपुट डिवाइस।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "25cc978d-fdbb-5823-987c-9a789f96cbb9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "ऑपरेटिंग सिस्टम का उदाहरण कौन सा है?",
+      "options": [
+        "Chrome, Firefox",
+        "Windows, Linux, macOS",
+        "MS Word, Excel",
+        "Photoshop, CorelDRAW"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Windows, Linux, macOS।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f42dde7a-15ee-5f5f-ba31-46a69930945b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word क्या है?",
+      "options": [
+        "वर्ड प्रोसेसिंग सॉफ्टवेयर",
+        "प्रेजेंटेशन सॉफ्टवेयर",
+        "डेटाबेस सॉफ्टवेयर",
+        "स्प्रेडशीट सॉफ्टवेयर"
       ],
       "correctIndex": 0,
-      "explanation": "सॉफ्टवेयर कंप्यूटर के प्रोग्रामों का समूह होता है जो कंप्यूटर को चलाता है। इसे छुआ नहीं जा सकता, केवल हार्डवेयर के माध्यम से अनुभव किया जा सकता है।",
+      "explanation": "सही उत्तर: वर्ड प्रोसेसिंग सॉफ्टवेयर।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "सॉफ्टवेयर",
-      "difficulty": "Easy",
-      "uuid": "6cb7933a-02e1-5553-9615-b0ce49da65c6",
-      "updated_at": "2026-05-31T16:29:08.247265"
+      "uuid": "9887f2e5-262c-518c-a75c-c97ab2f0b48d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "विंडोज (Windows 7/10/11) किस प्रकार के सॉफ्टवेयर श्रेणी के अंतर्गत आता है जो पूरे हार्डवेयर को संचालित करता है?",
+      "question": "MS Excel क्या है?",
       "options": [
-        "ऑपरेटिंग सिस्टम (OS)",
+        "प्रेजेंटेशन सॉफ्टवेयर",
+        "डेटाबेस सॉफ्टवेयर",
+        "वर्ड प्रोसेसिंग सॉफ्टवेयर",
+        "स्प्रेडशीट सॉफ्टवेयर"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: स्प्रेडशीट सॉफ्टवेयर।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "861acc65-b1c6-5e63-ad73-fe070d037268",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS PowerPoint क्या है?",
+      "options": [
+        "प्रेजेंटेशन सॉफ्टवेयर",
+        "स्प्रेडशीट",
+        "वर्ड प्रोसेसिंग",
+        "डेटाबेस"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: प्रेजेंटेशन सॉफ्टवेयर।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b362c8df-4e56-57d7-bffe-98c87fdc7fe2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Access क्या है?",
+      "options": [
+        "वर्ड प्रोसेसिंग",
+        "डेटाबेस मैनेजमेंट सॉफ्टवेयर",
+        "स्प्रेडशीट",
+        "प्रेजेंटेशन"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: डेटाबेस मैनेजमेंट सॉफ्टवेयर।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5c78da01-3251-50ea-bc4d-83d2894b4d77",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Linux क्या है?",
+      "options": [
+        "एंटीवायरस",
         "वर्ड प्रोसेसर",
-        "डेटाबेस मैनेजर",
-        "यूटिलिटी सॉफ्टवेयर"
+        "ओपन सोर्स ऑपरेटिंग सिस्टम",
+        "ब्राउज़र"
       ],
-      "correctIndex": 0,
-      "explanation": "माइक्रोसॉफ्ट विंडोज एक ऑपरेटिंग सिस्टम (System Software) है जो कंप्यूटर के हार्डवेयर और अन्य सभी सॉफ्टवेयरों के बीच एक इंटरफेस का कार्य करता है।",
-      "questionType": "mcq",
-      "subCategory": "ऑपरेटिंग सिस्टम",
-      "difficulty": "Easy",
-      "uuid": "9798563a-5684-5401-b84a-223d9530cd03",
-      "updated_at": "2026-05-31T16:29:08.247274"
-    },
-    {
-      "question": "लिनक्स (Linux) किस प्रकार का ऑपरेटिंग सिस्टम सॉफ्टवेयर है जिसका सोर्स कोड सभी के लिए मुफ्त उपलब्ध है?",
-      "options": [
-        "ओपन सोर्स ऑपरेटिंग सिस्टम (Open Source OS)",
-        "प्रोपराइटरी सॉफ्टवेयर",
-        "क्लोज्ड सोर्स सॉफ्टवेयर",
-        "शेयरवेयर"
-      ],
-      "correctIndex": 0,
-      "explanation": "लिनक्स (Linux) एक ओपन-सोर्स ऑपरेटिंग सिस्टम है, जिसका अर्थ है कि इसका सोर्स कोड दुनिया भर के डेवलपर्स के लिए निःशुल्क उपलब्ध और संपादन योग्य है।",
-      "questionType": "mcq",
-      "subCategory": "ऑपरेटिंग सिस्टम",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: ओपन सोर्स ऑपरेटिंग सिस्टम।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "28733ff1-b938-5a72-b46c-f323987014bf",
-      "updated_at": "2026-05-31T16:29:08.247281"
+      "questionType": "mcq",
+      "uuid": "32dce127-d420-557b-a7c5-c3b753d16dfc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर डिजाइनिंग क्षेत्र में प्रयुक्त होने वाले शब्द 'CAD' का पूर्ण रूप क्या होता है?",
+      "question": "एंटीवायरस सॉफ्टवेयर क्या करता है?",
       "options": [
-        "Computer Aided Design",
-        "Computer Active Design",
-        "Calculated Aided Design",
-        "Common Applied Design"
+        "इंटरनेट चलाता है",
+        "डेटा स्टोर करता है",
+        "कंप्यूटर को वायरस से सुरक्षित रखता है",
+        "प्रिंट करता है"
       ],
-      "correctIndex": 0,
-      "explanation": "CAD का पूर्ण रूप Computer Aided Design है। इसका उपयोग इंजीनियर्स और आर्किटेक्ट्स द्वारा डिजिटल मॉडल और ब्लूप्रिंट बनाने के लिए किया जाता है।",
-      "questionType": "mcq",
-      "subCategory": "सॉफ्टवेयर",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: कंप्यूटर को वायरस से सुरक्षित रखता है।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "745a01e2-e592-5aae-adc4-4dce6b8ce3fc",
-      "updated_at": "2026-05-31T16:29:08.247289"
+      "questionType": "mcq",
+      "uuid": "f381bb91-88d8-5eff-a230-b4a4fcc5f963",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "माइक्रोसॉफ्ट वर्ड (MS Word) निम्नलिखित में से किस प्रकार के सॉफ्टवेयर का उदाहरण है?",
+      "question": "HTTP का पूरा नाम क्या है?",
       "options": [
-        "वर्ड प्रोसेसिंग सॉफ्टवेयर (Word Processor)",
-        "स्प्रेडशीट सॉफ्टवेयर",
-        "प्रेजेंटेशन प्रोग्राम",
-        "डेटाबेस मैनेजमेंट सिस्टम"
+        "High Transfer Protocol",
+        "HyperText Transmission Protocol",
+        "HyperText Transfer Protocol",
+        "HyperText Transport Protocol"
       ],
-      "correctIndex": 0,
-      "explanation": "MS Word एक वर्ड प्रोसेसिंग सॉफ्टवेयर है जिसका उपयोग पत्र, रिपोर्ट, पुस्तकें और दस्तावेज़ तैयार करने और उन्हें प्रारूपित करने के लिए किया जाता है।",
-      "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "89ca5341-6d8e-58ae-9a8d-bfcfd9071aff",
-      "updated_at": "2026-05-31T16:29:08.247297"
-    },
-    {
-      "question": "एमएस एक्सेल (MS Excel) में बनने वाली फ़ाइल को मुख्य रूप से क्या कहा जाता है जिसमें कई वर्कशीट होती हैं?",
-      "options": [
-        "वर्कबुक (Workbook)",
-        "डॉक्यूमेंट",
-        "प्रेजेंटेशन",
-        "टेबल"
-      ],
-      "correctIndex": 0,
-      "explanation": "MS Excel की एक फ़ाइल को वर्कबुक (Workbook) कहा जाता है, जिसमें डिफ़ॉल्ट रूप से एक या अधिक कार्यपत्रक (Worksheets) शामिल होते हैं।",
-      "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "135fc738-f023-52ec-96da-557656687356",
-      "updated_at": "2026-05-31T16:29:08.247305"
-    },
-    {
-      "question": "Excel स्प्रेडशीट में खड़ी लाइनों (Columns) और आड़ी लाइनों (Rows) के मिलान बिंदु (Intersection) को क्या कहते हैं?",
-      "options": [
-        "सेल (Cell)",
-        "बॉक्स",
-        "ग्रिड",
-        "ब्लॉक"
-      ],
-      "correctIndex": 0,
-      "explanation": "कॉलम और रो के मिलान बिंदु (कटान बिंदु) को सेल (Cell) कहा जाता है। प्रत्येक सेल का एक विशिष्ट पता होता है (जैसे A1)।",
-      "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "84fe2eec-82a1-5ebf-88a2-06afc3726071",
-      "updated_at": "2026-05-31T16:29:08.247314"
-    },
-    {
-      "question": "इंटरनेट का जनक (Father of Internet) किसे माना जाता है जिन्होंने TCP/IP प्रोटोकॉल के विकास में महत्वपूर्ण भूमिका निभाई?",
-      "options": [
-        "विंट सर्फ (Vint Cerf)",
-        "टिम बर्नर्स-ली",
-        "बिल गेट्स",
-        "चार्ल्स बैबेज"
-      ],
-      "correctIndex": 0,
-      "explanation": "विंट सर्फ (Vint Cerf) और बॉब काह्न को इंटरनेट का जनक माना जाता है क्योंकि उन्होंने डेटा पैकेट के हस्तांतरण के लिए बुनियादी TCP/IP प्रोटोकॉल सूट का सह-डिज़ाइन किया था।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: HyperText Transfer Protocol।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "50f55dde-e515-5378-8ad1-09a8fdd76e44",
-      "updated_at": "2026-05-31T16:29:08.247322"
+      "questionType": "mcq",
+      "uuid": "efd7ceb5-f673-5476-bcfc-55d170d0ed02",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "भारत में पहली बार सार्वजनिक इंटरनेट सेवा का प्रारंभ कब और किस कंपनी द्वारा हुआ था?",
+      "question": "URL का पूरा नाम क्या है?",
       "options": [
-        "15 अगस्त 1995 (VSNL द्वारा)",
-        "26 जनवरी 2000 (BSNL द्वारा)",
-        "15 अगस्त 1947 (सर्न द्वारा)",
-        "1 जनवरी 1991 (MTNL द्वारा)"
+        "Uniform Remote Locator",
+        "United Resource Locator",
+        "Uniform Resource Locator",
+        "Universal Resource Locator"
       ],
-      "correctIndex": 0,
-      "explanation": "भारत में पहली बार इंटरनेट का व्यावसायिक उपयोग 15 अगस्त 1995 को विदेश संचार निगम लिमिटेड (VSNL) द्वारा शुरू किया गया था।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट का इतिहास",
-      "difficulty": "Hard",
-      "uuid": "c0acf3c1-3a22-5867-9083-843f7d9df758",
-      "updated_at": "2026-05-31T16:29:08.247330"
-    },
-    {
-      "question": "विश्व के सबसे लोकप्रिय सर्च इंजन 'Google' की स्थापना किस वर्ष स्टैनफोर्ड के छात्र लैरी पेज और सर्गेई ब्रिन द्वारा की गई थी?",
-      "options": [
-        "1998",
-        "1995",
-        "2004",
-        "1990"
-      ],
-      "correctIndex": 0,
-      "explanation": "गूगल (Google) की स्थापना सितंबर 1998 में की गई थी, जिसने इंटरनेट पर सूचना खोजने की दिशा को क्रांतिकारी रूप से बदल दिया।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट का इतिहास",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: Uniform Resource Locator।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "cb6f7851-4068-5c54-8482-b47b993cdcea",
-      "updated_at": "2026-05-31T16:29:08.247339"
+      "questionType": "mcq",
+      "uuid": "20c295a8-6f88-579f-8c8e-8261fc96577c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "किसी वेब पते (URL) जैसे 'http://example.com' में 'http' शब्द क्या निरूपित करता है?",
+      "question": "IP Address का पूरा नाम क्या है?",
       "options": [
-        "प्रोटोकॉल (Protocol)",
-        "डोमेन नेम",
-        "होस्ट नेम",
-        "फाइल पाथ"
+        "Internet Personal Address",
+        "Internet Protocol Address",
+        "Internal Protocol Address",
+        "Internet Program Address"
       ],
-      "correctIndex": 0,
-      "explanation": "URL के पहले भाग में 'http' या 'https' लिखा होता है, जो एक प्रोटोकॉल (प्रोटोकॉल ट्रांसफर नियम) को दर्शाता है।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Internet Protocol Address।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "db23d2f9-d46a-5a39-8f43-19223f847541",
-      "updated_at": "2026-05-31T16:29:08.247347"
+      "questionType": "mcq",
+      "uuid": "ddb93970-49b2-5728-8b14-f7dbed712f93",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर नेटवर्क में विभिन्न प्रणालियों के बीच सुचारू रूप से डेटा ट्रांसफर करने के स्थापित नियमों के समूह को क्या कहते हैं?",
+      "question": "DNS का पूरा नाम क्या है?",
       "options": [
-        "प्रोटोकॉल (Protocol)",
-        "एल्गोरिथ्म",
-        "सॉफ्टवेयर गाइड",
-        "सिस्टम रूल्स"
+        "Data Name System",
+        "Domain Name System",
+        "Domain Network System",
+        "Digital Name System"
       ],
-      "correctIndex": 0,
-      "explanation": "नेटवर्क पर डेटा का सही और सुरक्षित हस्तांतरण सुनिश्चित करने के लिए बनाए गए नियमों के समूह को प्रोटोकॉल (Protocol) कहा जाता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर नेटवर्क",
-      "difficulty": "Easy",
-      "uuid": "f8d1a511-5479-54ce-9359-cdd75a71c3d4",
-      "updated_at": "2026-05-31T16:29:08.247356"
-    },
-    {
-      "question": "IP एड्रेस (IPv4) में कुल 4 खंड (Octets) होते हैं जो डॉट्स द्वारा अलग किए जाते हैं। इसका कुल आकार कितना होता है?",
-      "options": [
-        "32 बिट्स",
-        "64 बिट्स",
-        "128 बिट्स",
-        "16 बिट्स"
-      ],
-      "correctIndex": 0,
-      "explanation": "IPv4 (Internet Protocol Version 4) एड्रेस का कुल आकार 32 बिट्स होता है (4 बाइट्स, जिसमें 8-8 बिट्स के 4 खंड होते हैं, जैसे 192.168.1.1)।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर नेटवर्क",
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Domain Name System।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "ba9cba87-46ee-59ba-b357-e2785e19e56f",
-      "updated_at": "2026-05-31T16:29:08.247364"
+      "questionType": "mcq",
+      "uuid": "5f8ab3f5-753f-5b34-951e-5462956d172f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "वेबसाइटों के नाम के अंत में प्रयुक्त होने वाले प्रत्यय '.com' का क्या अर्थ होता है?",
+      "question": "ISP का पूरा नाम क्या है?",
       "options": [
-        "कमर्शियल (Commercial - व्यावसायिक)",
-        "कंप्यूटर",
-        "कम्युनिकेशन",
-        "कम्युनिटी"
+        "Internet Software Provider",
+        "Internal Service Provider",
+        "Internet Service Provider",
+        "Internet System Provider"
       ],
-      "correctIndex": 0,
-      "explanation": "वेबसाइट डोमेन एक्सटेंशन '.com' का अर्थ कमर्शियल (व्यावसायिक) होता है, जो दर्शाता है कि यह वेबसाइट किसी व्यावसायिक संस्था की है।",
-      "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
-      "difficulty": "Easy",
-      "uuid": "d68685c1-d05b-5469-be96-86db550c3a72",
-      "updated_at": "2026-05-31T16:29:08.247373"
-    },
-    {
-      "question": "टेलीफोन लाइनों के माध्यम से कंप्यूटर के डिजिटल सिग्नलों को एनालॉग सिग्नलों में बदलने वाले उपकरण का नाम क्या है?",
-      "options": [
-        "मॉडेम (Modem)",
-        "राउटर",
-        "स्विच",
-        "हब"
-      ],
-      "correctIndex": 0,
-      "explanation": "मॉडेम (Modem - Modulator Demodulator) डिजिटल सिग्नलों को एनालॉग में बदलता है ताकि वे टेलीफोन तारों पर यात्रा कर सकें और फिर वापस डिजिटल में बदलता है।",
-      "questionType": "mcq",
-      "subCategory": "नेटवर्क डिवाइस",
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: Internet Service Provider।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "ccdd8e57-80dc-5616-9135-6047474ad765",
-      "updated_at": "2026-05-31T16:29:08.247387"
+      "questionType": "mcq",
+      "uuid": "0c952ea3-3211-5499-94dc-200b54f620de",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "स्थानीय स्तर पर बिना किसी तार के नेटवर्क कनेक्टिविटी प्रदान करने वाली तकनीक 'Wi-Fi' का पूर्ण रूप क्या होता है?",
+      "question": "Wi-Fi का पूरा नाम क्या है?",
       "options": [
         "Wireless Fidelity",
-        "Wireless Focus",
-        "Wired Fidelity",
-        "Wired Focus"
+        "Wireless Finder",
+        "Wireless File",
+        "Wide Fidelity"
       ],
       "correctIndex": 0,
-      "explanation": "Wi-Fi का पूर्ण रूप Wireless Fidelity है। यह रेडियो तरंगों का उपयोग करके उपकरणों को वायरलेस कनेक्टिविटी प्रदान करता है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर नेटवर्क",
-      "difficulty": "Easy",
-      "uuid": "d5098262-56f7-546d-990a-88df982abc03",
-      "updated_at": "2026-05-31T16:29:08.247422"
-    },
-    {
-      "question": "कंप्यूटर सुरक्षा में 'Firewall' का प्राथमिक उद्देश्य क्या होता है जो ट्रैफिक की निगरानी करता है?",
-      "options": [
-        "अनधिकृत पहुंच (Unauthorized Access) को रोकना",
-        "कंप्यूटर की स्क्रीन ब्राइटनेस बढ़ाना",
-        "वायरस को डिलीट करना",
-        "डेटा का बैकअप बनाना"
-      ],
-      "correctIndex": 0,
-      "explanation": "फायरवॉल (Firewall) एक सुरक्षा प्रणाली है जो आने वाले और जाने वाले नेटवर्क ट्रैफ़िक की निगरानी और नियंत्रण करके अनधिकृत पहुंच या हैकर्स को ब्लॉक करती है।",
-      "questionType": "mcq",
-      "subCategory": "कंप्यूटर सुरक्षा",
+      "explanation": "सही उत्तर: Wireless Fidelity।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "215dc070-19d6-5882-a160-8f12e0a1bf7b",
-      "updated_at": "2026-05-31T16:29:08.247435"
+      "questionType": "mcq",
+      "uuid": "eed217c9-7478-583a-998c-991013cf149f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "वेब पेजों और वेबसाइटों की मूल संरचना को लिखने के लिए किस मानक कोडिंग भाषा का उपयोग किया जाता है?",
+      "question": "LAN का पूरा नाम क्या है?",
       "options": [
-        "HTML",
-        "C++",
-        "Java",
-        "Python"
+        "Long Area Network",
+        "Large Area Network",
+        "Local Access Network",
+        "Local Area Network"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Local Area Network।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "13b86806-18fe-5827-9352-042c39dadab6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "WAN का पूरा नाम क्या है?",
+      "options": [
+        "Web Area Network",
+        "Wide Area Network",
+        "World Area Network",
+        "Wireless Area Network"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Wide Area Network।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9566680a-d4f7-55e7-a95a-79f939f297a5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MAN का पूरा नाम क्या है?",
+      "options": [
+        "Metropolitan Area Network",
+        "Modern Area Network",
+        "Main Area Network",
+        "Mega Area Network"
       ],
       "correctIndex": 0,
-      "explanation": "HTML (HyperText Markup Language) का उपयोग वेब पेजों को डिज़ाइन करने और उनकी मूल संरचना तैयार करने के लिए किया जाता है।",
+      "explanation": "सही उत्तर: Metropolitan Area Network।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "इंटरनेट और वेब",
-      "difficulty": "Easy",
-      "uuid": "40eece34-c367-5451-8076-3db549e66ca7",
-      "updated_at": "2026-05-31T16:29:08.247443"
+      "uuid": "bc18eda6-8af3-5245-9e48-60b7f33e15bc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "विंडोज ऑपरेटिंग सिस्टम और एमएस ऑफिस में किसी चयनित फ़ाइल या टेक्स्ट को कॉपी (Copy) करने की शॉर्टकट कुंजी क्या है?",
+      "question": "ई-मेल (E-mail) का पूरा नाम क्या है?",
       "options": [
-        "Ctrl + C",
-        "Ctrl + V",
-        "Ctrl + X",
-        "Ctrl + Z"
+        "Extended Mail",
+        "Electronic Mail",
+        "Express Mail",
+        "Emergency Mail"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Electronic Mail।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0f880fa6-7a0a-5c21-9283-c0905572c5a3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में SUM फंक्शन क्या करता है?",
+      "options": [
+        "गिनती करता है",
+        "संख्याओं का योग करता है",
+        "अधिकतम निकालता है",
+        "औसत निकालता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: संख्याओं का योग करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "427eefc8-af86-5932-80da-bb9a47cc2ac4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में AVERAGE फंक्शन क्या करता है?",
+      "options": [
+        "गिनती करता है",
+        "संख्याओं का औसत निकालता है",
+        "न्यूनतम निकालता है",
+        "योग करता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: संख्याओं का औसत निकालता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "87da1a5d-5c9f-528a-a275-bcd4fac6ae0b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में COUNT फंक्शन क्या करता है?",
+      "options": [
+        "अधिकतम निकालता है",
+        "संख्यात्मक मानों की गिनती करता है",
+        "योग करता है",
+        "औसत निकालता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: संख्यात्मक मानों की गिनती करता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bdc67934-c10e-5989-9d26-fce1f5e4d92e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में MAX फंक्शन क्या करता है?",
+      "options": [
+        "अधिकतम मान निकालता है",
+        "न्यूनतम मान",
+        "औसत",
+        "योग"
       ],
       "correctIndex": 0,
-      "explanation": "Ctrl + C शॉर्टकट का उपयोग किसी भी चयनित डेटा या फ़ाइल को क्लिपबोर्ड पर कॉपी करने के लिए किया जाता है।",
+      "explanation": "सही उत्तर: अधिकतम मान निकालता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "972db935-9ed8-5eb6-92be-30bfa0aa07c3",
-      "updated_at": "2026-05-31T16:29:08.247451"
+      "uuid": "13bd90d6-117d-50a4-9bbc-f087ceab97e1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कॉपी या कट किए गए टेक्स्ट/फ़ाइल को वांछित स्थान पर रखने (Paste) के लिए किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+      "question": "MS Excel में MIN फंक्शन क्या करता है?",
       "options": [
-        "Ctrl + V",
-        "Ctrl + P",
-        "Ctrl + C",
-        "Ctrl + Shift"
+        "योग",
+        "अधिकतम मान",
+        "न्यूनतम मान निकालता है",
+        "औसत"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: न्यूनतम मान निकालता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ac0597cc-7255-5d00-831b-20c187d65219",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में IF फंक्शन क्या करता है?",
+      "options": [
+        "योग करता है",
+        "गिनती करता है",
+        "औसत निकालता है",
+        "शर्त (Condition) के आधार पर मान देता है"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: शर्त (Condition) के आधार पर मान देता है।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "05431875-5e36-5b1a-bf2a-82446a538cf6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+C शॉर्टकट किसके लिए है?",
+      "options": [
+        "Cut",
+        "Paste",
+        "Close",
+        "Copy"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Copy।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "22b32be6-9cd5-586e-a0c1-f17ebde9ea83",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+V शॉर्टकट किसके लिए है?",
+      "options": [
+        "Copy",
+        "View",
+        "Cut",
+        "Paste"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Paste।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "270bf82e-70b2-594f-b8c0-068a2c39ec56",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+X शॉर्टकट किसके लिए है?",
+      "options": [
+        "Copy",
+        "Paste",
+        "Close",
+        "Cut"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Cut।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "acdbf755-d2ae-58e8-8b9b-f53cd0cb1ad9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+Z शॉर्टकट किसके लिए है?",
+      "options": [
+        "Redo",
+        "Zoom",
+        "Close",
+        "Undo"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Undo।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6d266b79-bd5f-57dd-a3a7-41444e8e47e2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+Y शॉर्टकट किसके लिए है?",
+      "options": [
+        "Undo",
+        "Copy",
+        "Paste",
+        "Redo"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Redo।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "12fae0c9-bd29-5a3b-96ef-06aa7ab718b6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+S शॉर्टकट किसके लिए है?",
+      "options": [
+        "Share",
+        "Save",
+        "Select All",
+        "Search"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Save।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ae7d7296-3f87-57e3-b915-f940eca4cf74",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+A शॉर्टकट किसके लिए है?",
+      "options": [
+        "Add",
+        "Save",
+        "Align",
+        "Select All"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Select All।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9b77c4ea-0bab-5b42-a1b5-4e45f58c53ea",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+P शॉर्टकट किसके लिए है?",
+      "options": [
+        "Paste",
+        "Print",
+        "Properties",
+        "Preview"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Print।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "82ad8a04-f180-582b-b143-940998235e50",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Ctrl+F शॉर्टकट किसके लिए है?",
+      "options": [
+        "File",
+        "Format",
+        "Font",
+        "Find"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Find।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "89452522-f84b-5dcc-bae3-e0ef97eda636",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Alt+F4 शॉर्टकट किसके लिए है?",
+      "options": [
+        "प्रिंट करना",
+        "नई फाइल खोलना",
+        "प्रोग्राम बंद करना (Close)",
+        "सेव करना"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: प्रोग्राम बंद करना (Close)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "97493623-5c6e-5a94-8d4b-6c936b6e1585",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "F5 Key MS PowerPoint में क्या करती है?",
+      "options": [
+        "नया स्लाइड बनाना",
+        "स्लाइड शो शुरू करना",
+        "प्रिंट करना",
+        "फाइल सेव करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: स्लाइड शो शुरू करना।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d1c6afd0-d073-52d9-929c-97348d8e6cb4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर के जनक (Father of Computer) कौन हैं?",
+      "options": [
+        "स्टीव जॉब्स",
+        "बिल गेट्स",
+        "एलन ट्यूरिंग",
+        "चार्ल्स बैबेज"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: चार्ल्स बैबेज।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1d2b945a-b0d6-52ca-9586-bbadf6ff14fb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "प्रथम इलेक्ट्रॉनिक कंप्यूटर कौन सा था?",
+      "options": [
+        "ENIAC",
+        "MARK-I",
+        "UNIVAC",
+        "EDVAC"
       ],
       "correctIndex": 0,
-      "explanation": "Ctrl + V का उपयोग पहले से कॉपी या कट की गई जानकारी को पेस्ट करने के लिए किया जाता है।",
+      "explanation": "सही उत्तर: ENIAC।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "5fe06b27-adf6-5f41-a55f-629f9c83aa4c",
-      "updated_at": "2026-05-31T16:29:08.247460"
+      "uuid": "1bfbf6aa-b149-5175-b119-73ad150534fc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर में किसी हालिया क्रिया (Action) को निरस्त करके पूर्व अवस्था में जाने (Undo) की शॉर्टकट कुंजी क्या है?",
+      "question": "भारत का पहला सुपरकंप्यूटर कौन सा है?",
       "options": [
-        "Ctrl + Z",
-        "Ctrl + Y",
-        "Ctrl + U",
-        "Ctrl + Shift"
+        "PARAM 10000",
+        "PARAM 8000",
+        "PRATYUSH",
+        "AADITYA"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: PARAM 8000।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ee782907-41a5-587e-8834-e80916dc499a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट का आविष्कार किसने किया?",
+      "options": [
+        "टिम बर्नर्स-ली",
+        "बिल गेट्स",
+        "मार्क जुकरबर्ग",
+        "विंट सर्फ और बॉब कान"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: विंट सर्फ और बॉब कान।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d21a23c4-eb41-5906-a37a-5d485bbd2f3f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "WWW (वर्ल्ड वाइड वेब) किसने बनाया?",
+      "options": [
+        "लैरी पेज",
+        "टिम बर्नर्स-ली",
+        "विंट सर्फ",
+        "बिल गेट्स"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: टिम बर्नर्स-ली।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f8ce8c6d-0925-5cf1-af31-dfd6c88d06ee",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Google की स्थापना किसने की?",
+      "options": [
+        "मार्क जुकरबर्ग",
+        "लैरी पेज और सर्गेई ब्रिन",
+        "स्टीव जॉब्स",
+        "बिल गेट्स"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: लैरी पेज और सर्गेई ब्रिन।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "c558f03d-ee12-589a-a90e-6edfbd27b869",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Facebook (Meta) की स्थापना किसने की?",
+      "options": [
+        "लैरी पेज",
+        "जैक डोर्सी",
+        "बिल गेट्स",
+        "मार्क जुकरबर्ग"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: मार्क जुकरबर्ग।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "19d4a9f1-dfef-5e40-b4b5-e965bfcb010b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Microsoft की स्थापना किसने की?",
+      "options": [
+        "स्टीव जॉब्स",
+        "बिल गेट्स और पॉल एलन",
+        "मार्क जुकरबर्ग",
+        "लैरी पेज"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: बिल गेट्स और पॉल एलन।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "6ee1c664-1c3b-58cc-9525-4cb596656c3e",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Apple कंपनी की स्थापना किसने की?",
+      "options": [
+        "जेफ बेज़ोस",
+        "स्टीव जॉब्स, स्टीव वोज़नियाक",
+        "बिल गेट्स",
+        "मार्क जुकरबर्ग"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: स्टीव जॉब्स, स्टीव वोज़नियाक।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4ae71248-578e-5a3b-8cc8-51f094c808b4",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "प्रथम पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
+      "options": [
+        "वैक्यूम ट्यूब",
+        "माइक्रोप्रोसेसर",
+        "ट्रांजिस्टर",
+        "IC"
       ],
       "correctIndex": 0,
-      "explanation": "Ctrl + Z का उपयोग किसी हालिया क्रिया को पूर्ववत करने (Undo) के लिए किया जाता है।",
+      "explanation": "सही उत्तर: वैक्यूम ट्यूब।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
       "questionType": "mcq",
-      "subCategory": "एमएस ऑफिस",
-      "difficulty": "Easy",
-      "uuid": "5e45c24c-3d90-5c8e-a9fd-31e255af5446",
-      "updated_at": "2026-05-31T16:29:08.247486"
+      "uuid": "d1c5ecea-f995-56b2-9a16-dd206fd6ab85",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "विभिन्न दस्तावेज़ों को बिना किसी बदलाव के साझा करने के लिए प्रयुक्त होने वाले शब्द 'PDF' का पूर्ण रूप क्या होता है?",
+      "question": "द्वितीय पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
+      "options": [
+        "IC",
+        "ट्रांजिस्टर",
+        "माइक्रोप्रोसेसर",
+        "वैक्यूम ट्यूब"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: ट्रांजिस्टर।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "a84dc1b0-22ff-59a9-8c5e-2abb440647fd",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "तृतीय पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
+      "options": [
+        "वैक्यूम ट्यूब",
+        "ट्रांजिस्टर",
+        "माइक्रोप्रोसेसर",
+        "IC (Integrated Circuit)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: IC (Integrated Circuit)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "dd45d708-3729-5caa-9fda-f8c2ea1b503a",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "चतुर्थ पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
+      "options": [
+        "माइक्रोप्रोसेसर (VLSI)",
+        "ट्रांजिस्टर",
+        "IC",
+        "वैक्यूम ट्यूब"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: माइक्रोप्रोसेसर (VLSI)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0d6ce40f-08e3-51ac-9214-1c9f3dcc19b5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "पंचम पीढ़ी के कंप्यूटर की विशेषता क्या है?",
+      "options": [
+        "कृत्रिम बुद्धिमत्ता (AI)",
+        "माइक्रोप्रोसेसर",
+        "IC",
+        "ट्रांजिस्टर"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: कृत्रिम बुद्धिमत्ता (AI)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "efa6cb7e-c937-5eb5-aef8-b842ec20d5ec",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "फायरवॉल (Firewall) क्या है?",
+      "options": [
+        "डेटाबेस",
+        "एंटीवायरस",
+        "ऑपरेटिंग सिस्टम",
+        "नेटवर्क सुरक्षा प्रणाली"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: नेटवर्क सुरक्षा प्रणाली।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "860a69cc-0cc5-5a1d-8a03-166170964865",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "हैकिंग (Hacking) क्या है?",
+      "options": [
+        "प्रोग्रामिंग",
+        "नेटवर्किंग",
+        "अनधिकृत रूप से कंप्यूटर/नेटवर्क में प्रवेश",
+        "डेटा एंट्री"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: अनधिकृत रूप से कंप्यूटर/नेटवर्क में प्रवेश।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "836e0c51-2c74-5334-8fe3-bf52fc0137ea",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "फिशिंग (Phishing) क्या है?",
+      "options": [
+        "हैकिंग",
+        "नकली वेबसाइट/ईमेल द्वारा व्यक्तिगत जानकारी चुराना",
+        "प्रोग्रामिंग",
+        "वायरस"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: नकली वेबसाइट/ईमेल द्वारा व्यक्तिगत जानकारी चुराना।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4913722e-df3f-5155-8f63-2b404df9002f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "रैनसमवेयर (Ransomware) क्या है?",
+      "options": [
+        "एंटीवायरस",
+        "ब्राउज़र",
+        "डेटा को एन्क्रिप्ट कर फिरौती माँगने वाला मालवेयर",
+        "फायरवॉल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: डेटा को एन्क्रिप्ट कर फिरौती माँगने वाला मालवेयर।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9c9905f5-9ba2-5bc2-ac0d-2e0242a1adb9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'.pdf' फाइल एक्सटेंशन किसकी है?",
       "options": [
         "Portable Document Format",
-        "Printable Document Format",
-        "Page Document Format",
-        "Program Document Format"
+        "Program Data File",
+        "Public Document File",
+        "Personal Data File"
       ],
       "correctIndex": 0,
-      "explanation": "PDF का पूर्ण रूप Portable Document Format है। यह दस्तावेज़ों को अलग-अलग उपकरणों और ऑपरेटिंग सिस्टमों पर बिना उनका स्वरूप बदले प्रदर्शित करता है।",
-      "questionType": "mcq",
-      "subCategory": "स्टोरेज डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "9c598a48-bd29-566e-a919-63bf95770408",
-      "updated_at": "2026-05-31T16:29:08.247502"
-    },
-    {
-      "question": "सीडी (CD) से अधिक क्षमता वाले वीडियो और डेटा को स्टोर करने वाले ऑप्टिकल स्टोरेज डिवाइस 'DVD' का पूर्ण रूप क्या होता है?",
-      "options": [
-        "Digital Video Disc / Digital Versatile Disc",
-        "Digital Virtual Disc",
-        "Direct Video Disc",
-        "Data Video Disc"
-      ],
-      "correctIndex": 0,
-      "explanation": "DVD का पूर्ण रूप Digital Video Disc या Digital Versatile Disc है।",
-      "questionType": "mcq",
-      "subCategory": "स्टोरेज डिवाइस",
-      "difficulty": "Easy",
-      "uuid": "3c7d5978-492a-5e57-a1b8-cd30ed4a7195",
-      "updated_at": "2026-05-31T16:29:08.247519"
-    },
-    {
-      "question": "तीसरी पीढ़ी के कंप्यूटरों में विकसित की गई व्यावसायिक अनुप्रयोगों के लिए प्रयुक्त भाषा 'COBOL' का पूर्ण रूप क्या होता है?",
-      "options": [
-        "Common Business Oriented Language",
-        "Common Basic Oriented Language",
-        "Computer Business Oriented Language",
-        "Common Business Object Language"
-      ],
-      "correctIndex": 0,
-      "explanation": "COBOL का पूर्ण रूप Common Business Oriented Language है, जिसका विकास विशेष रूप से व्यावसायिक अनुप्रयोगों के लिए किया गया था।",
-      "questionType": "mcq",
-      "subCategory": "प्रोग्रामिंग भाषाएँ",
+      "explanation": "सही उत्तर: Portable Document Format।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "f89f0f7d-9e29-50d9-bede-ad2cf6a95723",
-      "updated_at": "2026-05-31T16:29:08.247536"
+      "questionType": "mcq",
+      "uuid": "345aa176-c7ab-56fb-987b-17625c91a393",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     },
     {
-      "question": "कंप्यूटर प्रोग्रामिंग के शुरुआती दौर में गणितीय सूत्रों को हल करने के लिए विकसित 'FORTRAN' भाषा का पूर्ण रूप क्या है?",
+      "question": "'.xlsx' फाइल एक्सटेंशन किस सॉफ्टवेयर की है?",
       "options": [
-        "Formula Translation",
-        "Format Translation",
-        "Formula Transaction",
-        "Foreign Translation"
+        "MS Access",
+        "MS Excel",
+        "MS Word",
+        "MS PowerPoint"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: MS Excel।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "665b3558-d0d0-5cc1-87be-f0f013d56516",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'.docx' फाइल एक्सटेंशन किस सॉफ्टवेयर की है?",
+      "options": [
+        "MS Word",
+        "MS PowerPoint",
+        "MS Excel",
+        "Notepad"
       ],
       "correctIndex": 0,
-      "explanation": "FORTRAN का पूर्ण रूप Formula Translation है। यह दुनिया की पहली उच्च-स्तरीय प्रोग्रामिंग भाषा (High-Level Language) थी जिसका उपयोग जटिल गणितीय गणनाओं के लिए किया गया था।",
-      "questionType": "mcq",
-      "subCategory": "प्रोग्रामिंग भाषाएँ",
+      "explanation": "सही उत्तर: MS Word।",
+      "subCategory": "कंप्यूटर",
       "difficulty": "Medium",
-      "uuid": "552a39e3-7178-5fe0-8acd-aef40970f87a",
-      "updated_at": "2026-05-31T16:29:08.247549"
+      "questionType": "mcq",
+      "uuid": "00ec39cb-3b22-506c-88a0-6450b1a399d5",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'.pptx' फाइल एक्सटेंशन किस सॉफ्टवेयर की है?",
+      "options": [
+        "MS Access",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: MS PowerPoint।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "f54f2e59-75da-5677-9646-848b7f5eb801",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'.jpg' फाइल एक्सटेंशन किसके लिए है?",
+      "options": [
+        "Document फाइल",
+        "Audio फाइल",
+        "Image/Photo फाइल",
+        "Video फाइल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: Image/Photo फाइल।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bd5a664d-7a84-5554-9aa7-a8ce34b650bf",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'.mp3' फाइल एक्सटेंशन किसके लिए है?",
+      "options": [
+        "Document फाइल",
+        "Audio फाइल",
+        "Video फाइल",
+        "Image फाइल"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Audio फाइल।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8785d820-17d6-5040-a8d0-209865274e83",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'.mp4' फाइल एक्सटेंशन किसके लिए है?",
+      "options": [
+        "Video फाइल",
+        "Image फाइल",
+        "Document फाइल",
+        "Audio फाइल"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: Video फाइल।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5698cfb4-d5e6-5155-afd3-624dd48235ce",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "UMANG App क्या है?",
+      "options": [
+        "Universal Mobile App",
+        "Unified Management App",
+        "United Mobile App",
+        "Unified Mobile Application for New-age Governance"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Unified Mobile Application for New-age Governance।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0b4e57f5-cee4-5ccc-be2d-5fd220b4277d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "DigiLocker क्या है?",
+      "options": [
+        "ई-कॉमर्स",
+        "ऑनलाइन बैंकिंग",
+        "डिजिटल दस्तावेज़ भंडारण प्लेटफॉर्म",
+        "सोशल मीडिया"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: डिजिटल दस्तावेज़ भंडारण प्लेटफॉर्म।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "b79bddac-7f37-5222-b9b7-cfe4395184e6",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "UPI का पूरा नाम क्या है?",
+      "options": [
+        "Universal Payments Interface",
+        "Unified Payments Interface",
+        "Unified Personal Interface",
+        "United Payments Interface"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Unified Payments Interface।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "bea2bb5a-c9cf-582b-9c6f-47d7df9dd43f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "BHIM App किसके लिए है?",
+      "options": [
+        "ऑनलाइन शॉपिंग",
+        "सोशल मीडिया",
+        "डिजिटल भुगतान (UPI Payment)",
+        "ई-मेल"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: डिजिटल भुगतान (UPI Payment)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4ddbe732-72c0-57d1-b4e2-b86a2a06d080",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Aadhaar Card में कितने अंकों का नंबर होता है?",
+      "options": [
+        "10 अंक",
+        "16 अंक",
+        "12 अंक",
+        "8 अंक"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: 12 अंक।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "aef79437-f2dc-53f2-ae9c-55fc4b29ac6c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'C' प्रोग्रामिंग भाषा किसने विकसित की?",
+      "options": [
+        "जेम्स गोस्लिंग",
+        "गुइडो वैन रॉसम",
+        "डेनिस रिची",
+        "बियरने स्ट्रॉस्ट्रप"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: डेनिस रिची।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "1cae5ed5-3f06-50fd-a4c2-2aa3041af9cc",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'Java' प्रोग्रामिंग भाषा किसने बनाई?",
+      "options": [
+        "बियरने स्ट्रॉस्ट्रप",
+        "डेनिस रिची",
+        "जेम्स गोस्लिंग",
+        "गुइडो वैन रॉसम"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: जेम्स गोस्लिंग।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "d78cbdd6-4078-5ae9-9d96-4c7102543409",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'Python' प्रोग्रामिंग भाषा किसने बनाई?",
+      "options": [
+        "गुइडो वैन रॉसम",
+        "बियरने स्ट्रॉस्ट्रप",
+        "जेम्स गोस्लिंग",
+        "डेनिस रिची"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: गुइडो वैन रॉसम।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9163ba1a-fa04-5292-ab6a-dfe00b21cce9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "'C++' प्रोग्रामिंग भाषा किसने बनाई?",
+      "options": [
+        "जेम्स गोस्लिंग",
+        "गुइडो वैन रॉसम",
+        "डेनिस रिची",
+        "बियरने स्ट्रॉस्ट्रप"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: बियरने स्ट्रॉस्ट्रप।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ee95df43-0e29-5306-b9b2-fd5ed4bcc1f9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Cloud Computing क्या है?",
+      "options": [
+        "इंटरनेट पर डेटा स्टोरेज और कंप्यूटिंग सेवाएँ",
+        "सॉफ्टवेयर अपडेट",
+        "लोकल स्टोरेज",
+        "हार्डवेयर"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: इंटरनेट पर डेटा स्टोरेज और कंप्यूटिंग सेवाएँ।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "e951af46-cbb1-55c1-a58c-d72176be428c",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "AI (Artificial Intelligence) का हिंदी में अर्थ क्या है?",
+      "options": [
+        "कृत्रिम बुद्धिमत्ता",
+        "प्राकृतिक बुद्धिमत्ता",
+        "आभासी बुद्धिमत्ता",
+        "स्वचालित बुद्धिमत्ता"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: कृत्रिम बुद्धिमत्ता।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "4e06dcb7-c548-5d2c-bf76-109a2461cc36",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "IoT (Internet of Things) क्या है?",
+      "options": [
+        "ब्राउज़र",
+        "उपकरणों को इंटरनेट से जोड़ने की तकनीक",
+        "ऑपरेटिंग सिस्टम",
+        "इंटरनेट सेवा"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: उपकरणों को इंटरनेट से जोड़ने की तकनीक।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "0c7c5adc-eff7-566b-8574-d122f43c38a1",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "Bluetooth क्या है?",
+      "options": [
+        "वायरलेस डेटा ट्रांसफर तकनीक (शॉर्ट रेंज)",
+        "GPS",
+        "इंटरनेट",
+        "Wi-Fi"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: वायरलेस डेटा ट्रांसफर तकनीक (शॉर्ट रेंज)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "01303ef1-5475-5b9f-921f-0bec7670923d",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "GPS का पूरा नाम क्या है?",
+      "options": [
+        "General Positioning System",
+        "Global Program System",
+        "Global Personal System",
+        "Global Positioning System"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: Global Positioning System।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3ac0740f-23ef-586e-ae52-7c7e784fc0c2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "PDF का पूरा नाम क्या है?",
+      "options": [
+        "Portable Document Format",
+        "Personal Document Format",
+        "Print Document Format",
+        "Public Document Format"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: Portable Document Format।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "3d401be2-0af7-59ff-a24b-505aca079dd3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "ASCII का पूरा नाम क्या है?",
+      "options": [
+        "Advanced Standard Code for Information",
+        "American System Code for Internet",
+        "American Standard Code for Information Interchange",
+        "Automated Standard Code for Information"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: American Standard Code for Information Interchange।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "56e2ae6c-eba3-50b7-b751-f96915f5f9a7",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "BIOS का पूरा नाम क्या है?",
+      "options": [
+        "Basic Integrated Operating System",
+        "Basic Input Output System",
+        "Basic Internal Operating System",
+        "Binary Input Output System"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Basic Input Output System।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "875f52b6-cdf0-5711-8563-8aebccd8de63",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "SMTP का पूरा नाम क्या है?",
+      "options": [
+        "Simple Mail Transfer Protocol",
+        "Simple Message Transfer Protocol",
+        "Standard Mail Transfer Protocol",
+        "Secure Mail Transfer Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "सही उत्तर: Simple Mail Transfer Protocol।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "413d346b-80fb-5bd5-8e05-7f8a81e139fb",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "FTP का पूरा नाम क्या है?",
+      "options": [
+        "File Transmission Protocol",
+        "File Transfer Protocol",
+        "File Transport Protocol",
+        "Fast Transfer Protocol"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: File Transfer Protocol।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "746c8b11-5b4a-58ff-b9f8-28bf4207b4d3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में Header और Footer कहाँ दिखते हैं?",
+      "options": [
+        "केवल ऊपर",
+        "बीच में",
+        "पृष्ठ के ऊपर और नीचे",
+        "बाएँ और दाएँ"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: पृष्ठ के ऊपर और नीचे।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "8549ae0a-0d83-5691-8360-3552ff250fda",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में Mail Merge क्या है?",
+      "options": [
+        "ई-मेल भेजना",
+        "फाइल मर्ज करना",
+        "डेटा बैकअप",
+        "एक ही पत्र को कई लोगों को भेजने की सुविधा"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: एक ही पत्र को कई लोगों को भेजने की सुविधा।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "fffb73b4-b40f-50f0-8d8c-d388db7d81b9",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Word में Spell Check किसके लिए है?",
+      "options": [
+        "प्रिंटिंग",
+        "सेविंग",
+        "वर्तनी (Spelling) की जाँच करने",
+        "फॉर्मेटिंग"
+      ],
+      "correctIndex": 2,
+      "explanation": "सही उत्तर: वर्तनी (Spelling) की जाँच करने।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "5325985d-f2d7-5a32-b669-13bfb17bb48f",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में Cell Address क्या होता है?",
+      "options": [
+        "केवल नंबर",
+        "Column Letter + Row Number (जैसे A1, B2)",
+        "केवल Letter",
+        "Row + Sheet"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही उत्तर: Column Letter + Row Number (जैसे A1, B2)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "ba15ac41-28f8-586d-8d3b-d8e90ec7a8c3",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में Worksheet में कितनी Rows होती हैं?",
+      "options": [
+        "1,000,000",
+        "65,536",
+        "256",
+        "1,048,576"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 1,048,576।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "9696da67-294b-5faf-8557-971e763bd5c2",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS Excel में Worksheet में कितने Columns होते हैं?",
+      "options": [
+        "1024",
+        "65,536",
+        "256",
+        "16,384 (XFD)"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही उत्तर: 16,384 (XFD)।",
+      "subCategory": "कंप्यूटर",
+      "difficulty": "Medium",
+      "questionType": "mcq",
+      "uuid": "364dac56-97fb-5687-8baf-095d9c926d5b",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     }
-  ],
-  "totalQuestions": 200,
-  "lastUpdated": "2026-05-31T16:29:08.247571",
-  "version": "1.2000000000000002"
+  ]
 }
