@@ -1,6 +1,6 @@
 {
   "category": "Hindi",
-  "updated_at": "2026-09-02T10:01:20.043297",
+  "updated_at": "2026-09-02T10:20:30.396879",
   "questions": [
     {
       "question": "हिंदी में कुल कितनी विभक्तियाँ होती हैं?",
@@ -4955,6 +4955,766 @@
       "subCategory": "क्रियाविशेषण",
       "questionType": "mcq",
       "uuid": "d42f8b61-93a7-4c05-be27-16e359a084cd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘अग्नि’ का पर्यायवाची कौन-सा है?",
+      "options": [
+        "पावक",
+        "पवन",
+        "पयोधि",
+        "पर्वत"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘पावक’ अग्नि का पर्यायवाची है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "c1bad865-974d-5ebe-1f30-b037a37e30d0",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘उन्नति’ का विलोम क्या है?",
+      "options": [
+        "प्रगति",
+        "अवनति",
+        "समृद्धि",
+        "विकास"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘अवनति’ उन्नति का विलोम है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "c48b2b88-f428-5641-1762-581aa1e4d513",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘जो कभी न मरे’ के लिए एक शब्द क्या है?",
+      "options": [
+        "अमर",
+        "अज्ञ",
+        "अदृश्य",
+        "अशक्त"
+      ],
+      "correctIndex": 0,
+      "explanation": "जो कभी न मरे उसे ‘अमर’ कहते हैं।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "512e7ef1-1535-56ca-5a28-29c33d64dbdc",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘नाक कटना’ का अर्थ क्या है?",
+      "options": [
+        "अपमान होना",
+        "बीमार होना",
+        "भाग जाना",
+        "क्रोधित होना"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘नाक कटना’ का अर्थ प्रतिष्ठा या सम्मान नष्ट होना है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "830a2ab1-8286-5a8a-719d-c583438def9c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘आँखों का तारा’ का अर्थ क्या है?",
+      "options": [
+        "बहुत प्रिय होना",
+        "बहुत दूर होना",
+        "बहुत क्रोधित होना",
+        "बहुत थकना"
+      ],
+      "correctIndex": 0,
+      "explanation": "इस मुहावरे का अर्थ अत्यंत प्रिय होना है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "c128c0fd-8478-5a56-b1bb-1ecf87567268",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘अंधों में काना राजा’ का अर्थ क्या है?",
+      "options": [
+        "अयोग्यों में थोड़ा योग्य श्रेष्ठ",
+        "राजा का अंधा होना",
+        "बहुत बुद्धिमान होना",
+        "सबका समान होना"
+      ],
+      "correctIndex": 0,
+      "explanation": "अयोग्य समूह में अपेक्षाकृत योग्य व्यक्ति भी श्रेष्ठ माना जाता है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "efdf4ee7-8a00-5580-684c-cf39101e3012",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘राजपुत्र’ में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "द्वंद्व",
+        "बहुव्रीहि",
+        "अव्ययीभाव"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘राजा का पुत्र’ होने से यह षष्ठी तत्पुरुष है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "fa7761c1-e79b-539a-7935-00933e0c8cac",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘नीलकमल’ में कौन-सा समास है?",
+      "options": [
+        "कर्मधारय",
+        "द्वंद्व",
+        "द्विगु",
+        "अव्ययीभाव"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘नीला कमल’ में विशेषण-विशेष्य संबंध है, इसलिए कर्मधारय समास है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "9cbcf0d1-d292-54aa-c31a-93a3c4a481bc",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘मिठास’ में कौन-सा प्रत्यय है?",
+      "options": [
+        "आस",
+        "ता",
+        "पन",
+        "त्व"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘मिठास’ में ‘आस’ प्रत्यय माना जाता है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "d1ac2006-a567-5a7f-f092-6418a11660d1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘अत्याचार’ में कौन-सा उपसर्ग है?",
+      "options": [
+        "अति",
+        "अनु",
+        "अप",
+        "अधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘अति’ उपसर्ग से अत्याचार बना है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "1247199b-f961-56b4-c3d2-16eddc4c6e46",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘राम ने पत्र लिखा।’ में ‘राम’ कौन-सा कारक है?",
+      "options": [
+        "कर्ता",
+        "कर्म",
+        "करण",
+        "अधिकरण"
+      ],
+      "correctIndex": 0,
+      "explanation": "कार्य करने वाला राम है, इसलिए कर्ता कारक है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "5244e31e-3918-5097-fa68-4d30e5a96ce9",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘चाकू से फल काटा।’ में ‘चाकू से’ कौन-सा कारक है?",
+      "options": [
+        "करण",
+        "कर्ता",
+        "संप्रदान",
+        "अधिकरण"
+      ],
+      "correctIndex": 0,
+      "explanation": "कार्य का साधन चाकू है, इसलिए करण कारक है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "d6ac0d05-4a65-575e-3541-8cd77baaa170",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘वह कल आएगा।’ में कौन-सा काल है?",
+      "options": [
+        "भूत",
+        "वर्तमान",
+        "भविष्यत्",
+        "अपूर्ण भूत"
+      ],
+      "correctIndex": 2,
+      "explanation": "‘आएगा’ भविष्य में होने वाले कार्य को बताता है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "87d46d10-2099-58c9-d202-1ba2b07d099b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘सुंदर फूल’ में ‘सुंदर’ क्या है?",
+      "options": [
+        "गुणवाचक विशेषण",
+        "संख्यावाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘सुंदर’ फूल के गुण का बोध कराता है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "755e311e-bf5b-5e97-490d-1b3008e7fae9",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘जो मेहनत करता है, वही सफल होता है।’ में ‘जो’ क्या है?",
+      "options": [
+        "संबंधवाचक सर्वनाम",
+        "प्रश्नवाचक",
+        "निजवाचक",
+        "निश्चयवाचक"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘जो’ का संबंध ‘वही’ से है, इसलिए यह संबंधवाचक सर्वनाम है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "be24afad-20f2-5f06-dd6d-797f29542318",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘वह सिंह के समान वीर है।’ में कौन-सा अलंकार है?",
+      "options": [
+        "उपमा",
+        "रूपक",
+        "यमक",
+        "श्लेष"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘के समान’ द्वारा तुलना होने से उपमा अलंकार है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "c2647fd8-ad2b-5491-f0e2-006aab598763",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘हाय! वह चला गया।’ में प्रमुख रस कौन-सा है?",
+      "options": [
+        "करुण",
+        "वीर",
+        "हास्य",
+        "अद्भुत"
+      ],
+      "correctIndex": 0,
+      "explanation": "वियोग और शोक का भाव करुण रस से संबंधित है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "6f3fd29c-f571-5fd5-41dd-142e1bb713a7",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘वीरों का कैसा हो वसंत’ में प्रमुख रस कौन-सा है?",
+      "options": [
+        "वीर",
+        "करुण",
+        "भयानक",
+        "हास्य"
+      ],
+      "correctIndex": 0,
+      "explanation": "रचना में शौर्य और उत्साह का भाव है, इसलिए वीर रस प्रमुख है।",
+      "subCategory": "वर्ण एवं वर्णमाला",
+      "questionType": "mcq",
+      "uuid": "df2d50d2-630e-54cb-6322-f7e465b96e1d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी किस प्रकार की लिपि मानी जाती है?",
+      "options": [
+        "ध्वन्यात्मक",
+        "चित्रात्मक",
+        "भावचित्रात्मक",
+        "संकेतात्मक"
+      ],
+      "correctIndex": 0,
+      "explanation": "देवनागरी को सामान्यतः ध्वन्यात्मक और वैज्ञानिक विशेषताओं वाली लिपि माना जाता है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "76d9c8fe-f04a-5277-97ce-2b102fcb06c9",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी लेखन की प्रमुख विशेषता क्या है?",
+      "options": [
+        "शिरोरेखा",
+        "दाएँ से बाएँ लेखन",
+        "चित्रचिह्न",
+        "अक्षर-विच्छेद"
+      ],
+      "correctIndex": 0,
+      "explanation": "देवनागरी में अक्षरों के ऊपर चलने वाली क्षैतिज रेखा शिरोरेखा इसकी प्रमुख पहचान है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "5552af4b-9de0-5264-f819-d89d998c65f6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "हिंदी किस लिपि में लिखी जाती है?",
+      "options": [
+        "देवनागरी",
+        "गुरुमुखी",
+        "रोमन",
+        "बांग्ला"
+      ],
+      "correctIndex": 0,
+      "explanation": "मानक हिंदी की लिपि देवनागरी है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "576db53c-e35b-5675-ed0e-1ece2d097247",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी में लेखन की दिशा क्या है?",
+      "options": [
+        "बाएँ से दाएँ",
+        "दाएँ से बाएँ",
+        "ऊपर से नीचे",
+        "नीचे से ऊपर"
+      ],
+      "correctIndex": 0,
+      "explanation": "देवनागरी बाएँ से दाएँ लिखी जाती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "245a8d7c-4de3-56b5-a892-070e590a6287",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी में ‘कि’ लिखते समय मात्रा कहाँ लगती है?",
+      "options": [
+        "क के बाद",
+        "क के पहले",
+        "क के ऊपर ही",
+        "क के नीचे"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘इ’ की मात्रा ‘ि’ लिखित रूप में व्यंजन के पहले दिखाई देती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "862ea78f-ea3b-5328-cfd4-f1e168aaa7ba",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘की’ में कौन-सी मात्रा है?",
+      "options": [
+        "इ की मात्रा",
+        "ई की मात्रा",
+        "उ की मात्रा",
+        "ए की मात्रा"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘की’ में दीर्घ ई की मात्रा ‘ी’ प्रयुक्त होती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "4f5c57e4-d91e-5e1d-9b30-0b769f68f3ef",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘कु’ में कौन-सी मात्रा प्रयुक्त है?",
+      "options": [
+        "उ",
+        "ऊ",
+        "ऋ",
+        "ए"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘कु’ में ह्रस्व उ की मात्रा ‘ु’ लगती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "0b922083-1c0d-5a9c-3bfa-77d55980ec2e",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘कू’ में कौन-सी मात्रा प्रयुक्त है?",
+      "options": [
+        "उ",
+        "ऊ",
+        "ओ",
+        "औ"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘कू’ में दीर्घ ऊ की मात्रा ‘ू’ प्रयुक्त होती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "1b2d8aa7-1f16-5940-a018-faf9416fd3d2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘के’ में कौन-सी मात्रा है?",
+      "options": [
+        "ए",
+        "ऐ",
+        "ओ",
+        "औ"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘के’ में ए की मात्रा ‘े’ प्रयुक्त होती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "985abefc-41ea-5835-1d64-988e682f2407",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘कै’ में कौन-सी मात्रा है?",
+      "options": [
+        "ए",
+        "ऐ",
+        "ओ",
+        "औ"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘कै’ में ऐ की मात्रा ‘ै’ प्रयुक्त होती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "07d490ab-a09e-5fc4-5299-91fd44034b56",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘को’ में कौन-सी मात्रा है?",
+      "options": [
+        "ओ",
+        "औ",
+        "ए",
+        "ऐ"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘को’ में ओ की मात्रा ‘ो’ प्रयुक्त होती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "a1534a30-69f4-59e9-46ac-c0c2ba7c52bb",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘कौ’ में कौन-सी मात्रा है?",
+      "options": [
+        "ओ",
+        "औ",
+        "ऐ",
+        "ए"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘कौ’ में औ की मात्रा ‘ौ’ प्रयुक्त होती है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "13f2ca2f-3083-59c8-df2c-3c8162eb465a",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "नुक्ते का प्रयोग मुख्यतः किसके लिए किया जाता है?",
+      "options": [
+        "विदेशी ध्वनियों को दर्शाने के लिए",
+        "स्वर हटाने के लिए",
+        "वाक्य समाप्त करने के लिए",
+        "मात्रा हटाने के लिए"
+      ],
+      "correctIndex": 0,
+      "explanation": "नुक्ता विदेशी भाषाओं से आए कुछ शब्दों की विशिष्ट ध्वनियों को दर्शाने में उपयोगी है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "fe58bc3b-67a7-5d54-fad6-e18df3ea8ce6",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘ज़’ किस चिह्न के प्रयोग से लिखा जाता है?",
+      "options": [
+        "अनुस्वार",
+        "नुक्ता",
+        "विसर्ग",
+        "हलंत"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘ज़’ में ज के नीचे नुक्ता लगाया जाता है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "3bba30be-5137-5237-1667-82d0818f5689",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘फ़’ किसका नुक्तायुक्त रूप है?",
+      "options": [
+        "फ",
+        "ब",
+        "प",
+        "व"
+      ],
+      "correctIndex": 0,
+      "explanation": "विदेशी ध्वनि को दर्शाने के लिए फ के नीचे नुक्ता लगाकर ‘फ़’ लिखा जाता है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "185bdacf-c20e-5e68-a21b-f52183d212fa",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी में मात्रा किसके साथ जुड़ती है?",
+      "options": [
+        "व्यंजन के साथ",
+        "केवल स्वर के साथ",
+        "विरामचिह्न के साथ",
+        "अंक के साथ"
+      ],
+      "correctIndex": 0,
+      "explanation": "मात्राएँ सामान्यतः व्यंजनों के साथ जुड़कर उनके स्वर-रूप को दर्शाती हैं।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "023f6d3a-e864-5e33-932d-ce4c971f1185",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘क्’ में हलंत का क्या कार्य है?",
+      "options": [
+        "अंतर्निहित अ हटाना",
+        "नया स्वर जोड़ना",
+        "अनुस्वार बनाना",
+        "विसर्ग बनाना"
+      ],
+      "correctIndex": 0,
+      "explanation": "हलंत व्यंजन में निहित ‘अ’ स्वर को हटाता है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "2db092c1-81fa-549a-5f7e-7193ed841dac",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "‘क्ष’ देवनागरी में किसका उदाहरण है?",
+      "options": [
+        "संयुक्त व्यंजन",
+        "स्वतंत्र स्वर",
+        "मात्रा",
+        "विरामचिह्न"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्ष दो व्यंजनों के संयोग से बना संयुक्त व्यंजन है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "9b72f276-a808-5aef-4757-9288d0815d41",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी में पूर्ण विराम का सामान्य चिह्न कौन-सा है?",
+      "options": [
+        "।",
+        ",",
+        ";",
+        "?"
+      ],
+      "correctIndex": 0,
+      "explanation": "हिंदी लेखन में वाक्य के अंत में सामान्यतः ‘।’ पूर्ण विराम लगाया जाता है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "a673e0dd-1327-5636-164d-b6af7e3c0648",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "देवनागरी की वैज्ञानिकता का एक कारण क्या है?",
+      "options": [
+        "ध्वनि और अक्षर के बीच अपेक्षाकृत नियमित संबंध",
+        "केवल चित्रों का प्रयोग",
+        "दाएँ से बाएँ लेखन",
+        "स्वरों का अभाव"
+      ],
+      "correctIndex": 0,
+      "explanation": "देवनागरी में ध्वनियों और उनके लिखित संकेतों के बीच अपेक्षाकृत नियमित संबंध इसकी वैज्ञानिक विशेषता है।",
+      "subCategory": "देवनागरी लिपि",
+      "questionType": "mcq",
+      "uuid": "3ae89ce5-3633-533e-9ae1-94b7954ba550",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "निम्न में शुद्ध वर्तनी कौन-सी है?",
+      "options": [
+        "आशीर्वाद",
+        "आर्शीवाद",
+        "आशिर्वाद",
+        "आर्शिवाद"
+      ],
+      "correctIndex": 0,
+      "explanation": "मानक वर्तनी ‘आशीर्वाद’ है।",
+      "subCategory": "वर्तनी",
+      "questionType": "mcq",
+      "uuid": "4a082556-2944-59cf-f004-fd688edc2421",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Hindi"
+      ]
+    },
+    {
+      "question": "निम्न में शुद्ध शब्द कौन-सा है?",
+      "options": [
+        "उज्ज्वल",
+        "उज्जवल",
+        "उज्वल",
+        "उज्ज्वल्ल"
+      ],
+      "correctIndex": 0,
+      "explanation": "शुद्ध रूप ‘उज्ज्वल’ है।",
+      "subCategory": "वर्तनी",
+      "questionType": "mcq",
+      "uuid": "48cd12a5-00a6-50fe-b3ba-7a77c9414310",
       "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
