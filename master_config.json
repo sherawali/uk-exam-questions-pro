@@ -188,10 +188,10 @@
   "manifest": {
     "version": "2026.09.14.01",
     "last_updated": "2026-09-14T10:00:00Z",
-    "total_questions": 5288,
+    "total_questions": 5303,
     "files": {
       "agriculture_questions.json": 99,
-      "computer_questions.json": 237,
+      "computer_questions.json": 252,
       "current_affairs_questions.json": 430,
       "economics_questions.json": 116,
       "environment_questions.json": 83,

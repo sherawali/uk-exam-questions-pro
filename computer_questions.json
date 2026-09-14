@@ -4504,6 +4504,291 @@
         "UK-EXAM-PRO",
         "Computer"
       ]
+    },
+    {
+      "question": "MS Excel में किसी सेल में वर्तमान दिनांक (Current Date) प्रविष्ट करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "Ctrl + ;",
+        "Ctrl + Shift + :",
+        "Ctrl + D",
+        "Alt + Shift + D"
+      ],
+      "correctIndex": 0,
+      "explanation": "MS Excel में 'Ctrl + ;' (सेमीकोलन) दबाने से चयनित सेल में वर्तमान दिनांक स्वतः प्रविष्ट हो जाती है, जबकि 'Ctrl + Shift + :' से वर्तमान समय दर्ज होता है।",
+      "subCategory": "MS Office",
+      "questionType": "mcq",
+      "uuid": "6deb2510-f93e-42c9-95fa-f974333f29f3",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "इंटरनेट पर सुरक्षित डेटा संचरण के लिए प्रयुक्त HTTPS प्रोटोकॉल में 'S' का क्या अर्थ है?",
+      "options": [
+        "Standard",
+        "Secure",
+        "System",
+        "Server"
+      ],
+      "correctIndex": 1,
+      "explanation": "HTTPS का पूर्ण रूप Hypertext Transfer Protocol Secure है। यह SSL/TLS एन्क्रिप्शन का उपयोग करके वेब ब्राउज़र और वेबसाइट के बीच डेटा को सुरक्षित बनाता है।",
+      "subCategory": "इंटरनेट एवं साइबर सुरक्षा",
+      "questionType": "mcq",
+      "uuid": "76c795c6-11a8-464b-b0d3-14a239626d7f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में RAM (रैंडम एक्सेस मेमोरी) को किस प्रकार की मेमोरी माना जाता है?",
+      "options": [
+        "स्थायी (Non-volatile)",
+        "अस्थायी (Volatile)",
+        "ऑप्टिकल",
+        "सेकेंडरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "RAM एक वोलेटाइल (अस्थायी) मेमोरी है, जिसका अर्थ है कि कंप्यूटर बंद होने या बिजली कटने पर इसमें संचित सारा डेटा समाप्त हो जाता है।",
+      "subCategory": "कंप्यूटर हार्डवेयर",
+      "questionType": "mcq",
+      "uuid": "f7ee2cb4-3817-4091-9e31-c74a43e01b74",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर सुरक्षा में 'Phishing' (फ़िशिंग) का मुख्य उद्देश्य क्या होता है?",
+      "options": [
+        "हार्ड डिस्क को फॉर्मेट करना",
+        "पासवर्ड और क्रेडिट कार्ड जैसी संवेदनशील जानकारी चुराना",
+        "कंप्यूटर की गति तेज करना",
+        "एंटीवायरस सॉफ़्टवेयर को अपडेट करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "फ़िशिंग एक साइबर हमला है जिसमें भ्रामक ईमेल या नकली वेबसाइटों के ज़रिए उपयोगकर्ताओं से उनकी गोपनीय जानकारी जैसे पासवर्ड, ओटीपी या बैंकिंग विवरण चुराए जाते हैं।",
+      "subCategory": "साइबर सुरक्षा",
+      "questionType": "mcq",
+      "uuid": "90a878b0-16f9-423a-bb65-4d43241dc674",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "लिनक्स (Linux) ऑपरेटिंग सिस्टम का मूल कोर (Core) घटक क्या कहलाता है?",
+      "options": [
+        "शेल (Shell)",
+        "कर्नेल (Kernel)",
+        "बायोस (BIOS)",
+        "कंपाइलर (Compiler)"
+      ],
+      "correctIndex": 1,
+      "explanation": "कर्नेल लिनक्स ऑपरेटिंग सिस्टम का केंद्रीय मुख्य भाग है, जो हार्डवेयर और सॉफ़्टवेयर प्रक्रियाओं के बीच नियंत्रण व समन्वय का कार्य करता है।",
+      "subCategory": "ऑपरेटिंग सिस्टम",
+      "questionType": "mcq",
+      "uuid": "ad2b1011-5166-40dd-b49c-d4e85ef57029",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "IPv4 पते (Address) का आकार कितने बिट्स (Bits) का होता है?",
+      "options": [
+        "16 बिट्स",
+        "32 बिट्स",
+        "64 बिट्स",
+        "128 बिट्स"
+      ],
+      "correctIndex": 1,
+      "explanation": "IPv4 पता 32 बिट्स का होता है जिसे चार ऑक्टेट्स (जैसे 192.168.1.1) में विभाजित किया जाता है। जबकि IPv6 पता 128 बिट्स का होता है।",
+      "subCategory": "नेटवर्किंग",
+      "questionType": "mcq",
+      "uuid": "9f530bca-0399-4052-87f0-13116ad07fb6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर में कैश मेमोरी (Cache Memory) किन दो घटकों के बीच कार्य करती है?",
+      "options": [
+        "CPU और RAM",
+        "RAM और हार्ड डिस्क",
+        "कीबोर्ड और मॉनिटर",
+        "CPU और हार्ड डिस्क"
+      ],
+      "correctIndex": 0,
+      "explanation": "कैश मेमोरी अत्यंत तीव्र गति वाली अर्धचालक मेमोरी है जो CPU (प्रोसेसर) और मुख्य मेमोरी (RAM) के बीच बफर की तरह काम करके प्रोसेसिंग गति बढ़ाती है।",
+      "subCategory": "कंप्यूटर हार्डवेयर",
+      "questionType": "mcq",
+      "uuid": "ec9797d4-f29e-4add-b575-6bec9c9dc0f7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "पायथन (Python) किस प्रकार की प्रोग्रामिंग भाषा है?",
+      "options": [
+        "लो-लेवल मशीन भाषा",
+        "हाई-लेवल इंटरप्रिटेड भाषा",
+        "असेंबली भाषा",
+        "केवल मार्कअप भाषा"
+      ],
+      "correctIndex": 1,
+      "explanation": "पायथन एक उच्च-स्तरीय (High-level), सामान्य-उद्देश्यीय और इंटरप्रिटेड प्रोग्रामिंग भाषा है, जिसका आविष्कार गाइडो वैन रोसुम ने किया था।",
+      "subCategory": "प्रोग्रामिंग भाषाएं",
+      "questionType": "mcq",
+      "uuid": "4f3d9185-fc83-48a0-9275-e59adfef752d",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "क्लाउड कंप्यूटिंग में 'SaaS' का पूर्ण रूप क्या है?",
+      "options": [
+        "Software as a Service",
+        "System as a Service",
+        "Storage as a Service",
+        "Security as a Solution"
+      ],
+      "correctIndex": 0,
+      "explanation": "SaaS का पूर्ण रूप 'Software as a Service' है। इसमें इंटरनेट के माध्यम से सॉफ़्टवेयर अनुप्रयोग सीधे उपयोगकर्ताओं को उपलब्ध कराए जाते हैं (जैसे Google Docs, Gmail)।",
+      "subCategory": "क्लाउड कंप्यूटिंग",
+      "questionType": "mcq",
+      "uuid": "79328e06-a9e5-4249-b9b2-2eb24d8bfa63",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर शब्दावली में 'Ransomware' (रैनसमवेयर) क्या है?",
+      "options": [
+        "एक एंटीवायरस प्रोग्राम",
+        "उपयोगकर्ता के डेटा को लॉक कर फिरौती मांगने वाला मैलवेयर",
+        "निःशुल्क मिलने वाला ओपन सोर्स सॉफ़्टवेयर",
+        "इंटरनेट स्पीड बढ़ाने वाला टूल"
+      ],
+      "correctIndex": 1,
+      "explanation": "रैनसमवेयर एक प्रकार का दुर्भावनापूर्ण सॉफ़्टवेयर (मैलवेयर) है जो उपयोगकर्ता की फाइलों को एन्क्रिप्ट कर देता है और उन्हें अनलॉक करने के बदले पैसे (फिरौती) मांगता है।",
+      "subCategory": "साइबर सुरक्षा",
+      "questionType": "mcq",
+      "uuid": "7d7e3e7d-2e2f-436d-a430-3eb9723cda5c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "MS PowerPoint में स्लाइड शो को शुरू से प्रारंभ करने की शॉर्टकट कुंजी क्या है?",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "Ctrl + F5",
+        "F7"
+      ],
+      "correctIndex": 0,
+      "explanation": "MS PowerPoint में पहली स्लाइड से स्लाइड शो शुरू करने के लिए F5 कुंजी का प्रयोग होता है, जबकि वर्तमान स्लाइड से शुरू करने के लिए Shift + F5 दबाया जाता है।",
+      "subCategory": "MS Office",
+      "questionType": "mcq",
+      "uuid": "e2f86e14-4787-48eb-972d-a493f94eb356",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर प्रणाली में 'DNS' का प्राथमिक कार्य क्या है?",
+      "options": [
+        "ईमेल भेजना",
+        "डोमेन नाम को IP पते में परिवर्तित करना",
+        "फ़ाइलों को कंप्रेस करना",
+        "कंप्यूटर को बूट करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "DNS (Domain Name System) इंटरनेट की फोनबुक की तरह कार्य करता है, जो मानव-पठनीय डोमेन नाम (जैसे www.google.com) को मशीन-पठनीय IP पते में अनुवादित करता है।",
+      "subCategory": "नेटवर्किंग",
+      "questionType": "mcq",
+      "uuid": "44e7c366-430b-402d-b307-0ccb5ceffbca",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "आर्टिफिशियल इंटेलिजेंस (AI) में 'NLP' का पूर्ण रूप क्या है?",
+      "options": [
+        "Natural Language Processing",
+        "Neural Logic Protocol",
+        "Network Layer Program",
+        "Native Learning Process"
+      ],
+      "correctIndex": 0,
+      "explanation": "NLP का पूर्ण रूप Natural Language Processing है। यह AI की वह शाखा है जो कंप्यूटर को मानव भाषा को समझने, विश्लेषण करने और उत्पन्न करने में सक्षम बनाती है।",
+      "subCategory": "आर्टिफिशियल इंटेलिजेंस",
+      "questionType": "mcq",
+      "uuid": "8763d264-e7f1-45f3-8458-012663047aaf",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "1 Terabyte (1 TB) में कितने Gigabytes (GB) होते हैं?",
+      "options": [
+        "1000 GB",
+        "1024 GB",
+        "1048 GB",
+        "512 GB"
+      ],
+      "correctIndex": 1,
+      "explanation": "द्विआधारी (बाइनरी) प्रणाली के आधार पर 1 Terabyte (TB) में 1024 Gigabytes (GB) होते हैं। 1 GB में 1024 MB होते हैं।",
+      "subCategory": "कंप्यूटर बुनियादी ज्ञान",
+      "questionType": "mcq",
+      "uuid": "fb6a8424-533b-4263-a65a-ecb25fcd73e1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
+    },
+    {
+      "question": "कंप्यूटर मदरबोर्ड पर स्थित 'BIOS' चिप का क्या मुख्य उद्देश्य है?",
+      "options": [
+        "कंप्यूटर को बूट करते समय हार्डवेयर की जांच (POST) और आरंभ करना",
+        "वीडियो गेम चलाना",
+        "इंटरनेट कनेक्शन स्थापित करना",
+        "डॉक्यूमेंट टाइप करना"
+      ],
+      "correctIndex": 0,
+      "explanation": "BIOS (Basic Input/Output System) रोम (ROM) में संचित एक फर्मवेयर है जो सिस्टम चालू होते ही पावर-ऑन सेल्फ टेस्ट (POST) करके ऑपरेटिंग सिस्टम लोड करता है।",
+      "subCategory": "कंप्यूटर हार्डवेयर",
+      "questionType": "mcq",
+      "uuid": "634e6947-b684-42da-8ab6-5761efc2619b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Computer"
+      ]
     }
   ]
 }
