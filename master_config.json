@@ -184,5 +184,25 @@
       "icon_data": "eco",
       "color_hex": "#1A1A2E"
     }
-  ]
+  ],
+  "manifest": {
+    "version": "2026.09.14.01",
+    "last_updated": "2026-09-14T10:00:00Z",
+    "total_questions": 5288,
+    "files": {
+      "agriculture_questions.json": 99,
+      "computer_questions.json": 237,
+      "current_affairs_questions.json": 430,
+      "economics_questions.json": 116,
+      "environment_questions.json": 83,
+      "geography_questions.json": 111,
+      "hindi_questions.json": 377,
+      "history_questions.json": 408,
+      "math_questions.json": 500,
+      "polity_questions.json": 361,
+      "reasoning_questions.json": 500,
+      "science_questions.json": 467,
+      "uttarakhand_questions.json": 1599
+    }
+  }
 }
