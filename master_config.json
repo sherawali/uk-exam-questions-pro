@@ -188,7 +188,7 @@
   "manifest": {
     "version": "2026.09.14.01",
     "last_updated": "2026-09-14T10:00:00Z",
-    "total_questions": 5303,
+    "total_questions": 5318,
     "files": {
       "agriculture_questions.json": 99,
       "computer_questions.json": 252,
@@ -196,7 +196,7 @@
       "economics_questions.json": 116,
       "environment_questions.json": 83,
       "geography_questions.json": 111,
-      "hindi_questions.json": 377,
+      "hindi_questions.json": 392,
       "history_questions.json": 408,
       "math_questions.json": 500,
       "polity_questions.json": 361,
