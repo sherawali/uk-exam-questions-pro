@@ -11,7 +11,7 @@
       "correctIndex": 1,
       "explanation": "बड़ा और छोटा विपरीत शब्द हैं। उसी तरह, लंबा का विपरीत शब्द छोटा है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -33,7 +33,7 @@
       "correctIndex": 1,
       "explanation": "श्रृंखला में प्रत्येक संख्या पिछले से 3 अधिक है: 2 + 3 = 5, 5 + 3 = 8, 8 + 3 = 11, 11 + 3 = 14।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -55,7 +55,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को वर्णमाला में 3 स्थान आगे बढ़ाया जाता है: C+3=F, A+3=D, T+3=W। उसी तरह, D+3=I, O+3=R, G+3=L।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -77,7 +77,7 @@
       "correctIndex": 2,
       "explanation": "उत्तर में 5 किमी और दाएँ (पूर्व) में 3 किमी चलने पर वह उत्तर-पूर्व दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -99,7 +99,7 @@
       "correctIndex": 0,
       "explanation": "E, C का पिता है और C, B की बहन है। अतः E, B का पिता है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -121,7 +121,7 @@
       "correctIndex": 0,
       "explanation": "पुरुष जो बच्चे नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे, क्योंकि आयत बच्चों को दर्शाता है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -143,7 +143,7 @@
       "correctIndex": 3,
       "explanation": "E, A के बाएँ है। A, B के बाएँ है। C, D के दाएँ है। क्रम: E, A, B, D, C। सबसे बाएँ E है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -165,7 +165,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को एक स्थान आगे बढ़ाया जाता है: P+1=Q, e+1=f, n+1=o, c+1=d, i+1=j, l+1=m। उसी तरह, P+1=Q, a+1=b, p+1=q, e+1=f, r+1=s।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -187,7 +187,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 3×2=6, 6×2=12, 12×2=24, 24×2=48।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -209,7 +209,7 @@
       "correctIndex": 0,
       "explanation": "E, D की माँ है और D, C का पिता है। अतः E, C की माँ है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -231,7 +231,7 @@
       "correctIndex": 0,
       "explanation": "शब्द को उलट दिया जाता है: MANGO → OGNAM। उसी तरह, APPLE → ELPPA।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -253,7 +253,7 @@
       "correctIndex": 2,
       "explanation": "दक्षिण में 4 किमी और बाएँ (पूर्व) में 3 किमी चलने पर वह दक्षिण-पूर्व दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -275,7 +275,7 @@
       "correctIndex": 1,
       "explanation": "श्रृंखला में संख्याएँ वर्ग हैं: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -297,7 +297,7 @@
       "correctIndex": 0,
       "explanation": "शिक्षक जो कर्मचारी नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -319,7 +319,7 @@
       "correctIndex": 3,
       "explanation": "P, Q के दाएँ। R, S के बाएँ। T, P के दाएँ। क्रम: R, S, Q, P, T। सबसे दाएँ T है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -341,7 +341,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 7×2=14, 14×2=28, 28×2=56, 56×2=112।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -363,7 +363,7 @@
       "correctIndex": 0,
       "explanation": "E, C की माँ है और C, B की माँ है। अतः E, B की माँ है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -385,7 +385,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया जाता है: S+2=V, U+2=X, N+2=Q। उसी तरह, M+2=Q, O+2=R, O+2=U, N+2=T।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -407,7 +407,7 @@
       "correctIndex": 2,
       "explanation": "पश्चिम में 6 किमी और दाएँ (उत्तर) में 8 किमी चलने पर वह उत्तर-पश्चिम दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -429,7 +429,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 5×2=10, 10×2=20, 20×2=40, 40×2=80।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -451,7 +451,7 @@
       "correctIndex": 0,
       "explanation": "डॉक्टर जो वकील नहीं हैं, केवल वृत्त क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -473,7 +473,7 @@
       "correctIndex": 1,
       "explanation": "A, B के दाएँ। C, D के बाएँ। E, A के दाएँ। क्रम: C, D, B, A, E। सबसे बाएँ C है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -495,7 +495,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 4×2=8, 8×2=16, 16×2=32, 32×2=64।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -517,7 +517,7 @@
       "correctIndex": 0,
       "explanation": "E, C का पिता है और C, A की माँ है। अतः E, A का पिता है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -539,7 +539,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया जाता है: R+2=T, I+2=K, V+2=A, E+2=G, R+2=T। उसी तरह, O+2=Q, C+2=F, E+2=G, A+2=C, N+2=P।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -561,7 +561,7 @@
       "correctIndex": 2,
       "explanation": "पूर्व में 10 किमी और बाएँ (उत्तर) में 6 किमी चलने पर वह उत्तर-पूर्व दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -583,7 +583,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 6×2=12, 12×2=24, 24×2=48, 48×2=96।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -605,7 +605,7 @@
       "correctIndex": 0,
       "explanation": "कोच जो प्रशंसक नहीं हैं, केवल वृत्त क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -627,7 +627,7 @@
       "correctIndex": 1,
       "explanation": "E, A के बाएँ। A, B के बाएँ। C, D के दाएँ। क्रम: E, A, B, D, C। सबसे दाएँ C है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -649,7 +649,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 5 स्थान आगे बढ़ाया जाता है: F+5=K, A+5=F, N+5=S। उसी तरह, G+5=L, U+5=Z, N+5=S।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -671,7 +671,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 8×2=16, 16×2=32, 32×2=64, 64×2=128।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -693,7 +693,7 @@
       "correctIndex": 0,
       "explanation": "E, C का पिता है और C, A का पिता है। अतः E, A का पिता है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -715,7 +715,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया जाता है: S+1=T, T+1=U, A+1=B, R+1=S। उसी तरह, M+1=N, O+1=P, O+1=P, N+1=O।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -737,7 +737,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 9×2=18, 18×2=36, 36×2=72, 72×2=144।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -759,7 +759,7 @@
       "correctIndex": 0,
       "explanation": "नर्तक जो संगीतकार नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -781,7 +781,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 6 स्थान आगे बढ़ाया जाता है: C+6=I, L+6=R, O+6=U, C+6=I, K+6=Q। उसी तरह, W+6=C, A+6=G, T+6=Z, C+6=I, H+6=N।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -803,7 +803,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 10×2=20, 20×2=40, 40×2=80, 80×2=160।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -825,7 +825,7 @@
       "correctIndex": 2,
       "explanation": "E, C की बहन है और C, B की माँ है। अतः E, B की बहन नहीं, बल्कि माँ है। लेकिन विकल्पों में त्रुटि है, सही उत्तर 'माँ' होना चाहिए।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -847,7 +847,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 4 स्थान आगे बढ़ाया जाता है: G+4=K, O+4=S, L+4=P, D+4=I। उसी तरह, S+4=W, I+4=M, L+4=P, V+4=Z, E+4=I, R+4=V।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -869,7 +869,7 @@
       "correctIndex": 2,
       "explanation": "दक्षिण में 5 किमी और दाएँ (पश्चिम) में 12 किमी चलने पर वह दक्षिण-पश्चिम दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -891,7 +891,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 11×2=22, 22×2=44, 44×2=88, 88×2=176।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -913,7 +913,7 @@
       "correctIndex": 0,
       "explanation": "कवि जो पत्रकार नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -935,7 +935,7 @@
       "correctIndex": 0,
       "explanation": "A, B के बाएँ। C, D के दाएँ। E, A के दाएँ। क्रम: A, E, B, D, C। सबसे बाएँ A है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -957,7 +957,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 7 स्थान आगे बढ़ाया जाता है: H+7=O, A+7=I, P+7=W, P+7=W, Y+7=F। उसी तरह, S+7=A, A+7=I, D+7=K, L+7=S, Y+7=F।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -979,7 +979,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 12×2=24, 24×2=48, 48×2=96, 96×2=192।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1001,7 +1001,7 @@
       "correctIndex": 0,
       "explanation": "E, C की बहन है और C, A की माँ है। अतः E, A की माँ है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1023,7 +1023,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 6 स्थान आगे बढ़ाया जाता है: B+6=I, I+6=O, R+6=Y, D+6=K। उसी तरह, F+6=L, I+6=O, S+6=Y, H+6=N।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1045,7 +1045,7 @@
       "correctIndex": 2,
       "explanation": "पूर्व में 8 किमी और दाएँ (दक्षिण) में 6 किमी चलने पर वह दक्षिण-पूर्व दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1067,7 +1067,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 13×2=26, 26×2=52, 52×2=104, 104×2=208।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1089,7 +1089,7 @@
       "correctIndex": 0,
       "explanation": "मूर्तिकार जो लेखक नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1111,7 +1111,7 @@
       "correctIndex": 0,
       "explanation": "A, B के दाएँ। C, D के बाएँ। E, A के बाएँ। क्रम: C, D, E, A, B। सबसे दाएँ B है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1133,7 +1133,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 5 स्थान आगे बढ़ाया जाता है: M+5=S, O+5=T, U+5=Z, S+5=Y, E+5=J। उसी तरह, K+5=P, E+5=J, Y+5=D, B+5=I, O+5=T, A+5=F, R+5=W।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1155,7 +1155,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 14×2=28, 28×2=56, 56×2=112, 112×2=224।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1177,7 +1177,7 @@
       "correctIndex": 0,
       "explanation": "E, C का भाई है और C, B का पिता है। अतः E, B का पिता है।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1199,7 +1199,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 7 स्थान आगे बढ़ाया जाता है: C+7=K, A+7=I, N+7=U, D+7=K, L+7=S, E+7=L। उसी तरह, L+7=S, I+7=P, G+7=N, H+7=O, T+7=A।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1221,7 +1221,7 @@
       "correctIndex": 2,
       "explanation": "पश्चिम में 9 किमी और बाएँ (दक्षिण) में 5 किमी चलने पर वह दक्षिण-पश्चिम दिशा में होगा।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1243,7 +1243,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या पिछले की दोगुनी है: 15×2=30, 30×2=60, 60×2=120, 120×2=240।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1265,7 +1265,7 @@
       "correctIndex": 0,
       "explanation": "प्रोफेसर जो छात्र नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1287,7 +1287,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 6 स्थान आगे बढ़ाया जाता है: R+6=X, I+6=O, N+6=T, G+6=M। उसी तरह, S+6=Y, I+6=O, N+6=T, G+6=A।",
       "subCategory": "रीजनिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1309,7 +1309,7 @@
       "correctIndex": 0,
       "explanation": "C=3, A=1, B=2, इसलिए CAB = 312",
       "subCategory": "कोडिंग-डिकोडिंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1331,7 +1331,7 @@
       "correctIndex": 0,
       "explanation": "यह 2 से गुणा की श्रृंखला है: 2×2=4, 4×2=8, 8×2=16, 16×2=32",
       "subCategory": "संख्या श्रृंखला",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1353,7 +1353,7 @@
       "correctIndex": 1,
       "explanation": "B=1, O=3, O=3, K=4, इसलिए C=2, O=3, O=3, K=4 = 2334",
       "subCategory": "कोडिंग-डिकोडिंग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1375,7 +1375,7 @@
       "correctIndex": 0,
       "explanation": "उत्तर से दक्षिण की ओर जाने पर बाएं हाथ की दिशा पूर्व होगी।",
       "subCategory": "दिशा",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "examTarget": [
         "both"
       ],
@@ -1397,7 +1397,7 @@
       "correctIndex": 0,
       "explanation": "कल शुक्रवार है, तो आज गुरुवार है, परसों रविवार होगा।",
       "subCategory": "कैलेंडर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "examTarget": [
         "both"
       ],
@@ -1420,7 +1420,7 @@
       "explanation": "L=12, O=15, G=7, I=9, C=3 = 12+15+7+9+3 = 46। Error in option, correct answer is 46 but closest is 47।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1443,7 +1443,7 @@
       "explanation": "पैटर्न: (a + b)² = परिणाम। इसलिए, (5 + 3)² = 64, (7 + 2)² = 81, और (9 + 4)² = 169।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1466,7 +1466,7 @@
       "explanation": "अंतर: 4, 6, 8, 10, 12। अगला अंतर 12 होगा, 30+12 = 42।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1489,7 +1489,7 @@
       "explanation": "B(2) + O(15) + O(15) + K(11) = 43। इसी प्रकार, P(16) + E(5) + N(14) = 35।",
       "category": "Reasoning",
       "subCategory": "Alphabet Coding",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1512,7 +1512,7 @@
       "explanation": "G=7, I=9, V=22, E=5 positions। T=20, A=1, K=11, E=5 = 20-1-11-5।",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1535,7 +1535,7 @@
       "explanation": "8-5=3, 3×8=24+4=28। 7-3=4, 4×7=28-10=18? No। Pattern: (a×b) - (a+b)। 8×5-(8+5)=40-13=27≈28? 9×4-(9+4)=36-13=23। Not matching.",
       "category": "Reasoning",
       "subCategory": "Logical Reasoning",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1558,7 +1558,7 @@
       "explanation": "अंतर: +2, +3, +4, +5। A(1)+2=C(3), C+3=F(6), F+4=J(10), J+5=O(15) or M(13)? Wait, positions: A=1, C=3, F=6, J=10। Diff: 2,3,4। Next diff 5 gives 10+5=15=O। But in alphabet next is M=13। Either O or M। Usually O correct।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1570,18 +1570,18 @@
       ]
     },
     {
-      "question": "कथन: सभी किताबें कागज हैं। सभी कागज सफेद हैं। निष्कर्ष: कुछ किताबें सफेद हैं।",
+      "question": "कथन:\nI. सभी किताबें कागज हैं।\nII. सभी कागज सफेद हैं।\n\nनिष्कर्ष:\nकुछ किताबें सफेद हैं।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निष्कर्ष निश्चित है",
-        "निष्कर्ष संभव है",
-        "निष्कर्ष असंभव है",
+        "निष्कर्ष निश्चित रूप से सत्य (अनुसरण करता) है",
+        "निष्कर्ष केवल संभव है (निश्चित नहीं)",
+        "निष्कर्ष असत्य (गलत) है",
         "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 0,
-      "explanation": "यदि सभी किताबें कागज हैं और सभी कागज सफेद हैं, तो सभी किताबें सफेद हैं। अतः निश्चित है।",
+      "explanation": "यदि सभी किताबें कागज हैं और सभी कागज सफेद हैं, तो सभी किताबें सफेद हैं। जब सभी किताबें सफेद हैं, तो कुछ किताबें भी निश्चित रूप से सफेद होंगी। अतः निष्कर्ष निश्चित रूप से सत्य है।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1604,7 +1604,7 @@
       "explanation": "D=4, E=5, L=12, H=8, I=9 = 4+5+12+8+9 = 38।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
-      "difficulty": 1,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1627,7 +1627,7 @@
       "explanation": "अंतर: +2, +4, +6, +8, +10। 23+10 = 33।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1650,7 +1650,7 @@
       "explanation": "4 बजे घंटे की सुई 4 पर होती है। विपरीत दिशा में 4 से उल्टा = 8 पर।",
       "category": "Reasoning",
       "subCategory": "Logical Reasoning",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1673,7 +1673,7 @@
       "explanation": "P(16)×10 + I(9)×? + P(16)×? + E(5) = 16+9+16+5 = 46, not 1695। Pattern: P(16)I(9)E(5) = 1695? 16×100+9×10+5×1=1600+90+5=1695। T(20)A(1)P(16)E(5) = 20×100+1×10+16×1+5? 2000+10+16+5=2031। No.",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1696,7 +1696,7 @@
       "explanation": "2×3 = 6, 3×4 = 12, 4×5 = 20, 5×6 = 30।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1719,7 +1719,7 @@
       "explanation": "C=3, L=12, O=15, U=21, D=4। R=18, A=1, I=9, N=14 = 18-1-9-14।",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1731,18 +1731,18 @@
       ]
     },
     {
-      "question": "कथन: कोई मछली पक्षी नहीं है। सभी गीज मछली हैं। निष्कर्ष: कुछ गीज पक्षी नहीं हैं।",
+      "question": "कथन:\nI. कोई मछली पक्षी नहीं है।\nII. सभी गीज मछली हैं।\n\nनिष्कर्ष:\nकुछ गीज पक्षी नहीं हैं।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निश्चित सत्य",
-        "संभव सत्य",
-        "असंभव सत्य",
-        "निर्धारित नहीं"
+        "निष्कर्ष निश्चित रूप से सत्य (अनुसरण करता) है",
+        "निष्कर्ष केवल संभव है (निश्चित नहीं)",
+        "निष्कर्ष असत्य है",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 0,
-      "explanation": "यदि कोई मछली पक्षी नहीं और सभी गीज मछली हैं, तो कोई भी गीज पक्षी नहीं है। अतः निश्चित सत्य।",
+      "explanation": "यदि कोई मछली पक्षी नहीं है और सभी गीज मछली हैं, तो कोई भी गीज पक्षी नहीं हो सकता। अतः यह निश्चित है कि कुछ गीज भी पक्षी नहीं हैं। निष्कर्ष पूर्णतः सत्य है।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 3,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1765,7 +1765,7 @@
       "explanation": "वृत्त के कोने नहीं होते, बाकी सभी के कोने होते हैं।",
       "category": "Reasoning",
       "subCategory": "Odd One Out",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1788,7 +1788,7 @@
       "explanation": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)। But 15 is O।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1811,7 +1811,7 @@
       "explanation": "54 ÷ 45 = 1 (शून्य के साथ) = 1।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1834,7 +1834,7 @@
       "explanation": "केला बीज वाला फल है, बाकी बीज नहीं।",
       "category": "Reasoning",
       "subCategory": "Odd One Out",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1846,18 +1846,18 @@
       ]
     },
     {
-      "question": "कथन: कुछ लड़के विद्यार्थी हैं। कुछ विद्यार्थी परीक्षा देते हैं। निष्कर्ष: कुछ लड़के परीक्षा देते हैं।",
+      "question": "कथन:\nI. कुछ लड़के विद्यार्थी हैं।\nII. कुछ विद्यार्थी परीक्षा देते हैं।\n\nनिष्कर्ष:\nकुछ लड़के परीक्षा देते हैं।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निश्चित",
-        "संभव",
-        "असंभव",
-        "निर्धारित नहीं"
+        "निष्कर्ष निश्चित रूप से सत्य है",
+        "निष्कर्ष केवल संभव है (निश्चित नहीं)",
+        "निष्कर्ष पूर्णतः असत्य है",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 1,
-      "explanation": "यह संभव है लेकिन निश्चित नहीं है क्योंकि वही लड़के जो विद्यार्थी हैं।",
+      "explanation": "लड़के और परीक्षा देने वाले दोनों विद्यार्थी समूह के कुछ हिस्से हैं। वे आपस में जुड़ भी सकते हैं और नहीं भी। अतः यह संभव है लेकिन निश्चित नहीं है।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1880,7 +1880,7 @@
       "explanation": "8×6 - 6 = 42, 5×3 + 5 = 20? Pattern: a×b ± (a-b)। 7×4 - ? =28? 7×4=28, take 28। 7+4=11, 11×? =33? No। 7×4=28।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1903,7 +1903,7 @@
       "explanation": "अंतर: +4, +6, +8, +10, +12 = 42।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1926,7 +1926,7 @@
       "explanation": "दाएं हाथ से मुड़कर = दक्षिण की ओर।",
       "category": "Reasoning",
       "subCategory": "Direction Sense",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1949,7 +1949,7 @@
       "explanation": "A+2=C, C+3=F, F+4=J, J+5=O।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1972,7 +1972,7 @@
       "explanation": "C=3, A=1, T=20 = 24। M=13, O=15, B=2, I=9, L=12, E=5 = 56? Sum = 56। But 13+15+2+9+12+5=56, not 54। Use alphabetical position: 3+1+20=24, 13+15+2+9+12+5? 13+15=28, 28+2=30, 30+9=39, 39+12=51, 51+5=56।",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1995,7 +1995,7 @@
       "explanation": "9 एकमात्र भाज्य संख्या है (3×3), बाकी सभी अभाज्य हैं।",
       "category": "Reasoning",
       "subCategory": "Odd One Out",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2007,18 +2007,18 @@
       ]
     },
     {
-      "question": "कथन: सभी पुस्तकें रोचक हैं। कोई किताब रोचक नहीं है। निष्कर्ष: कुछ रोचक पुस्तकें नहीं हैं।",
+      "question": "कथन:\nI. सभी पुस्तकें रोचक हैं।\nII. कोई किताब रोचक नहीं है।\n\nनिष्कर्ष:\nकुछ रोचक पुस्तकें नहीं हैं।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निश्चित",
-        "संभव",
-        "असंभव",
-        "निर्धारित नहीं"
+        "निष्कर्ष निश्चित रूप से सत्य है",
+        "निष्कर्ष केवल संभव है",
+        "निष्कर्ष असत्य है",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 0,
-      "explanation": "पहले कथन से सभी पुस्तकें रोचक हैं, दूसरे से कोई भी रोचक नहीं। दोनों विरोधाभासी हैं, इसलिए कुछ रोचक पुस्तकें निश्चित रूप से नहीं हैं।",
+      "explanation": "कथनों के अनुसार यदि कोई भी किताब रोचक नहीं है, तो कुछ रोचक वस्तुएं पुस्तकें नहीं हो सकतीं। अतः निष्कर्ष निश्चित रूप से सत्य है।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 3,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2041,7 +2041,7 @@
       "explanation": "यह वर्ग श्रृंखला है: 1², 2², 3², 4² = 5² = 25।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2064,7 +2064,7 @@
       "explanation": "T=20, A=1, B=2, L=12, E=5। C=3, H=8, A=1, I=9, R=18 = 3-8-1-9-18? Wait I=9, R=18, so C=3, H=8, A=1, I=9, R=18 = 3-8-1-9-18।",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2087,7 +2087,7 @@
       "explanation": "पुत्र x, पिता 3x। x + 3x = 60 → 4x = 60 → x = 15।",
       "category": "Reasoning",
       "subCategory": "Blood Relation",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2110,7 +2110,7 @@
       "explanation": "×2, ×3, ×4, ×5 = 24×5 = 120।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2122,18 +2122,18 @@
       ]
     },
     {
-      "question": "कथन: सभी डॉक्टर इंजीनियर हैं। रमन इंजीनियर है। निष्कर्ष: रमन डॉक्टर है।",
+      "question": "कथन:\nI. सभी डॉक्टर इंजीनियर हैं।\nII. रमन इंजीनियर है।\n\nनिष्कर्ष:\nरमन डॉक्टर है।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निश्चित",
-        "संभव",
-        "निश्चित नहीं",
-        "गलत"
+        "निष्कर्ष निश्चित रूप से सत्य है",
+        "निष्कर्ष संभव है लेकिन निश्चित नहीं",
+        "निष्कर्ष निश्चित रूप से गलत है",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 1,
-      "explanation": "सभी डॉक्टर इंजीनियर हैं लेकिन सभी इंजीनियर डॉक्टर नहीं। रमन इंजीनियर है, डॉक्टर हो भी सकता है और नहीं भी।",
+      "explanation": "सभी डॉक्टर इंजीनियर के दायरे में आते हैं, लेकिन सभी इंजीनियर डॉक्टर नहीं हैं। रमन इंजीनियर है, इसलिए वह डॉक्टर हो भी सकता है और नहीं भी। अतः निष्कर्ष संभव है पर निश्चित नहीं।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2156,7 +2156,7 @@
       "explanation": "6² + 2×4 = 36 + 8 = 44 (no)। (6+4)×? = 10×4=40? 6×4+8=32, 7×5+13=48, 8×6+16=64। Pattern: a×b + (a+b)×2? No, a×b + 8, 10, 12 diff। 6×4=24+8=32, 7×5=35+13=48। Not consistent।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2179,7 +2179,7 @@
       "explanation": "उत्तर-पूर्व से दाएं मुड़ने पर दक्षिण-पूर्व।",
       "category": "Reasoning",
       "subCategory": "Direction Sense",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2202,7 +2202,7 @@
       "explanation": "A से Z, B से Y (reverse), C से X। Next: D से W = DW।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2225,7 +2225,7 @@
       "explanation": "R=18, E=5, P=16, U=21, B=2, L=12, I=9, C=3। D=4, E=5, M=13, O=15, C=3, R=18, A=1, C=3, Y=25 = 4-5-13-15-3-18-1-25।",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2248,7 +2248,7 @@
       "explanation": "12×3 = 36, 12÷3 = 4।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2271,7 +2271,7 @@
       "explanation": "बाघ बिल्ली परिवार (Felidae) से है, कुत्ता कैनिड से।",
       "category": "Reasoning",
       "subCategory": "Odd One Out",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2283,18 +2283,18 @@
       ]
     },
     {
-      "question": "कथन: कोई X, Y नहीं है। सभी Z, X हैं। निष्कर्ष: कुछ Z, Y नहीं हैं।",
+      "question": "कथन:\nI. कोई X, Y नहीं है।\nII. सभी Z, X हैं।\n\nनिष्कर्ष:\nकुछ Z, Y नहीं हैं।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निश्चित",
-        "संभव",
-        "असंभव",
-        "निर्धारित नहीं"
+        "निष्कर्ष निश्चित रूप से सत्य (अनुसरण करता) है",
+        "निष्कर्ष केवल संभव है",
+        "निष्कर्ष असत्य है",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 0,
-      "explanation": "X और Y वृत्त अलग हैं, Z X का समूह है। Z के सभी X हैं लेकिन X में Y नहीं है। अतः Z में भी Y नहीं। निश्चित।",
+      "explanation": "चूंकि कोई X, Y नहीं है और Z पूरी तरह X के अंदर है, इसलिए कोई भी Z, Y नहीं हो सकता। जब कोई Z, Y नहीं है, तो 'कुछ Z, Y नहीं हैं' भी निश्चित रूप से सत्य है।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 3,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2317,7 +2317,7 @@
       "explanation": "फिबोनैची श्रृंखला: 1+1=2, 1+2=3, 2+3=5, 3+5=8, 5+8=13।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2340,7 +2340,7 @@
       "explanation": "मोबाइल संचार का साधन है। ऑटोमोबाइल यातायात का साधन है।",
       "category": "Reasoning",
       "subCategory": "Analogy",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2363,7 +2363,7 @@
       "explanation": "3²+5²=9+25=34? No। 3×5+13=28? 7×9+13=76? Not। 3!+5=6+22=28? 7!+9=5042+? No। 4!+6=24+? = ?। Pattern unclear.",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2386,7 +2386,7 @@
       "explanation": "80% = 448। 100% = 448×100/80 = 560 ₹।",
       "category": "Reasoning",
       "subCategory": "Percentage",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2409,7 +2409,7 @@
       "explanation": "Grapes बीज वाले अंगूर हैं, बाकी एकल बीज वाले।",
       "category": "Reasoning",
       "subCategory": "Odd One Out",
-      "difficulty": 1,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2432,7 +2432,7 @@
       "explanation": "×2+1 pattern: 1×2+1=3, 3×2+1=7, 7×2+1=15, 15×2+1=31, 31×2+1=63।",
       "category": "Reasoning",
       "subCategory": "Number Series",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2444,18 +2444,18 @@
       ]
     },
     {
-      "question": "कथन: कुछ विद्यार्थी मेहनती हैं। सभी मेहनती लोग सफल होते हैं। निष्कर्ष: कुछ विद्यार्थी सफल होते हैं।",
+      "question": "कथन:\nI. कुछ विद्यार्थी मेहनती हैं।\nII. सभी मेहनती लोग सफल होते हैं।\n\nनिष्कर्ष:\nकुछ विद्यार्थी सफल होते हैं।\n\nउपर्युक्त कथनों के आधार पर निष्कर्ष के संबंध में कौन-सा विकल्प सही है?",
       "options": [
-        "निश्चित",
-        "संभव",
-        "असंभव",
-        "निर्धारित नहीं"
+        "निष्कर्ष निश्चित रूप से सत्य (अनुसरण करता) है",
+        "निष्कर्ष केवल संभव है",
+        "निष्कर्ष असत्य है",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 0,
-      "explanation": "कुछ विद्यार्थी मेहनती हैं जो सफल होते हैं। अन्य विद्यार्थी भी सफल हो सकते हैं। निश्चित है।",
+      "explanation": "जो विद्यार्थी मेहनती हैं, वे सभी सफल होते हैं। इसलिए कम से कम कुछ विद्यार्थी निश्चित रूप से सफल होते हैं। अतः निष्कर्ष निश्चित रूप से अनुसरण करता है।",
       "category": "Reasoning",
       "subCategory": "Syllogism",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2478,7 +2478,7 @@
       "explanation": "√64 = 8, √81 = 9। √121 = 11।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2501,7 +2501,7 @@
       "explanation": "I=Indian, N=Year, D=Day, I=Independence? Not। F=Freedom, R=Republic, E=Eternity। Just logical। Actually: Freedom relates to similar।",
       "category": "Reasoning",
       "subCategory": "Coding Decoding",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -2523,7 +2523,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या में 3 जोड़ा गया है। अगली = 15 + 3 = 18।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3adeea3e-7c6b-5479-b0ff-fad4546fd740",
       "tags": [
@@ -2542,7 +2542,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या में 4 जोड़ा गया है। अगली = 30 + 4 = 34।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "48ba67e1-2c59-56d1-9174-5bd0d713b762",
       "tags": [
@@ -2561,7 +2561,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या में 5 जोड़ा गया है। अगली = 39 + 5 = 44।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "37d7de30-d1ef-5bfc-847e-6e121835d12f",
       "tags": [
@@ -2580,7 +2580,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक संख्या में 6 जोड़ा गया है। अगली = 28 + 6 = 34।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "090d7406-d92e-5fdc-8186-06afbb1b9b4a",
       "tags": [
@@ -2599,7 +2599,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या में 7 जोड़ा गया है। अगली = 33 + 7 = 40।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "30e2879b-2bfb-55c2-95f2-0723be764018",
       "tags": [
@@ -2618,7 +2618,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक संख्या में 8 जोड़ा गया है। अगली = 47 + 8 = 55।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9408ec38-0fb4-5420-a807-6e2b87f1a196",
       "tags": [
@@ -2637,7 +2637,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक संख्या में 9 जोड़ा गया है। अगली = 54 + 9 = 63।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f577bbe4-929e-5cc7-95b0-49ca17b25c4d",
       "tags": [
@@ -2656,7 +2656,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक संख्या में 11 जोड़ा गया है। अगली = 63 + 11 = 74।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "71c5714a-d978-51cc-88fa-bdbc0148b0ca",
       "tags": [
@@ -2675,7 +2675,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक संख्या में 12 जोड़ा गया है। अगली = 55 + 12 = 67।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a4a07334-29b6-5072-8d32-01504c55299c",
       "tags": [
@@ -2694,7 +2694,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक संख्या में 13 जोड़ा गया है। अगली = 71 + 13 = 84।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7a7fa2fb-8fb4-5936-bb6d-d7239c8c41a1",
       "tags": [
@@ -2713,7 +2713,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या में 15 जोड़ा गया है। अगली = 62 + 15 = 77।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "565b95e2-cbd3-52b0-a187-7f006a8eb520",
       "tags": [
@@ -2732,7 +2732,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक संख्या को 2 से गुणा किया गया है। अगली = 16 × 2 = 32।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6b128c94-3706-581e-981d-c102d5410cda",
       "tags": [
@@ -2751,7 +2751,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक संख्या को 2 से गुणा किया गया है। अगली = 32 × 2 = 64।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ced56060-08a1-5051-818e-1bd40d2409a7",
       "tags": [
@@ -2770,7 +2770,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या को 2 से गुणा किया गया है। अगली = 48 × 2 = 96।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "cf22ee76-8871-5f3e-a56f-ebf941abd888",
       "tags": [
@@ -2789,7 +2789,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक संख्या को 2 से गुणा किया गया है। अगली = 64 × 2 = 128।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c48f9c8c-6c1a-526b-a3ab-9862684e90e1",
       "tags": [
@@ -2808,7 +2808,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक संख्या को 2 से गुणा किया गया है। अगली = 80 × 2 = 160।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2c068c27-ea35-5132-b56a-6d50b0e39b51",
       "tags": [
@@ -2827,7 +2827,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या को 3 से गुणा किया गया है। अगली = 81 × 3 = 243।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9b987888-0b84-5fbb-bf37-4066b2938be8",
       "tags": [
@@ -2846,7 +2846,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक संख्या को 3 से गुणा किया गया है। अगली = 162 × 3 = 486।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bdb82e10-666e-5a9c-8386-a5a717d1205e",
       "tags": [
@@ -2865,7 +2865,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक संख्या को 3 से गुणा किया गया है। अगली = 243 × 3 = 729।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "698e3649-2374-5d8f-b759-2d32d0039958",
       "tags": [
@@ -2884,7 +2884,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक संख्या को 3 से गुणा किया गया है। अगली = 324 × 3 = 972।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4c26d04b-96d4-572e-a306-a01e358b4d27",
       "tags": [
@@ -2903,7 +2903,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक संख्या को 3 से गुणा किया गया है। अगली = 405 × 3 = 1215।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7fb8d829-4017-5feb-b747-2a903b7ed840",
       "tags": [
@@ -2922,7 +2922,7 @@
       "correctIndex": 1,
       "explanation": "यह वर्ग श्रृंखला है: 1², 2²,... अगला = 6² = 36।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "367bacc1-b5ad-519e-9d39-9f05af98cee9",
       "tags": [
@@ -2941,7 +2941,7 @@
       "correctIndex": 2,
       "explanation": "यह वर्ग श्रृंखला है: 2², 3²,... अगला = 7² = 49।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "01add29a-3ca4-53b7-a69a-8550cf8c1f94",
       "tags": [
@@ -2960,7 +2960,7 @@
       "correctIndex": 0,
       "explanation": "यह वर्ग श्रृंखला है: 3², 4²,... अगला = 8² = 64।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7ff926b4-3fab-50e7-9e47-30f1d8bb194f",
       "tags": [
@@ -2979,7 +2979,7 @@
       "correctIndex": 0,
       "explanation": "यह वर्ग श्रृंखला है: 4², 5²,... अगला = 9² = 81।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a635e939-3699-5f75-b8f1-3b78f5cbe46f",
       "tags": [
@@ -2998,7 +2998,7 @@
       "correctIndex": 3,
       "explanation": "अंतर बढ़ता जा रहा है: +1, +2, +3,... अगली = 17।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f32d9d8f-8f7b-5a17-b0f7-e0f11ac251e8",
       "tags": [
@@ -3017,7 +3017,7 @@
       "correctIndex": 3,
       "explanation": "अंतर बढ़ता जा रहा है: +2, +4, +6,... अगली = 32।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "69a53654-7c73-59d2-ad38-9de5f9771220",
       "tags": [
@@ -3036,7 +3036,7 @@
       "correctIndex": 2,
       "explanation": "अंतर बढ़ता जा रहा है: +3, +6, +9,... अगली = 47।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6db8d307-6a73-529c-8b60-32e455ca42a8",
       "tags": [
@@ -3055,7 +3055,7 @@
       "correctIndex": 1,
       "explanation": "अंतर बढ़ता जा रहा है: +1, +2, +3,... अगली = 18।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "fcd0a72c-1092-5e6f-8583-36d6fb40f27b",
       "tags": [
@@ -3074,7 +3074,7 @@
       "correctIndex": 3,
       "explanation": "अंतर बढ़ता जा रहा है: +2, +4, +6,... अगली = 33।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "204b9887-bdbc-5c22-bbea-914fd7ca4146",
       "tags": [
@@ -3093,7 +3093,7 @@
       "correctIndex": 2,
       "explanation": "अंतर बढ़ता जा रहा है: +3, +6, +9,... अगली = 48।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b2d0d236-a503-5a9c-8e97-cc402e44d065",
       "tags": [
@@ -3112,7 +3112,7 @@
       "correctIndex": 2,
       "explanation": "अंतर बढ़ता जा रहा है: +1, +2, +3,... अगली = 20।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d7b25ecb-50a5-5fc0-9a3c-1ee74cd9758d",
       "tags": [
@@ -3131,7 +3131,7 @@
       "correctIndex": 1,
       "explanation": "अंतर बढ़ता जा रहा है: +2, +4, +6,... अगली = 35।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "93dc1894-a0b3-5c1b-9912-31390697a635",
       "tags": [
@@ -3150,7 +3150,7 @@
       "correctIndex": 0,
       "explanation": "अंतर बढ़ता जा रहा है: +3, +6, +9,... अगली = 50।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "624e2dfb-59c7-54f4-affa-1030298241eb",
       "tags": [
@@ -3169,7 +3169,7 @@
       "correctIndex": 1,
       "explanation": "अंतर बढ़ता जा रहा है: +1, +2, +3,... अगली = 22।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "133081d6-06b4-54ba-bae3-fcbc71010ba8",
       "tags": [
@@ -3188,7 +3188,7 @@
       "correctIndex": 0,
       "explanation": "अंतर बढ़ता जा रहा है: +2, +4, +6,... अगली = 37।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1bf0c8da-38e2-5b55-ab60-ed195f5a63d9",
       "tags": [
@@ -3207,7 +3207,7 @@
       "correctIndex": 2,
       "explanation": "अंतर बढ़ता जा रहा है: +3, +6, +9,... अगली = 52।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "47f6f66c-4d52-58ad-b0a7-29025705bff7",
       "tags": [
@@ -3226,7 +3226,7 @@
       "correctIndex": 3,
       "explanation": "अंतर बढ़ता जा रहा है: +1, +2, +3,... अगली = 25।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d1ded764-1370-5080-9d64-69f8004bd761",
       "tags": [
@@ -3245,7 +3245,7 @@
       "correctIndex": 0,
       "explanation": "अंतर बढ़ता जा रहा है: +2, +4, +6,... अगली = 40।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0197e193-3cfa-574e-b5bc-3161b5f2e4a5",
       "tags": [
@@ -3264,7 +3264,7 @@
       "correctIndex": 0,
       "explanation": "अंतर बढ़ता जा रहा है: +3, +6, +9,... अगली = 55।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b9186c14-e709-5233-84c3-9da5838f71b9",
       "tags": [
@@ -3283,7 +3283,7 @@
       "correctIndex": 0,
       "explanation": "27 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "630dffe1-d91f-5891-bc71-67eb4618164a",
       "tags": [
@@ -3302,7 +3302,7 @@
       "correctIndex": 3,
       "explanation": "24 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "faae3843-12ab-5b26-b7ff-8a498d623ec7",
       "tags": [
@@ -3321,7 +3321,7 @@
       "correctIndex": 2,
       "explanation": "26 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "05145bad-5074-5916-814c-e4801964f61a",
       "tags": [
@@ -3340,7 +3340,7 @@
       "correctIndex": 3,
       "explanation": "6 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a1c524c0-d71a-53b9-a4a6-4e28c9574205",
       "tags": [
@@ -3359,7 +3359,7 @@
       "correctIndex": 3,
       "explanation": "20 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8154ead5-fb8d-514f-a591-7e3a70a7db19",
       "tags": [
@@ -3378,7 +3378,7 @@
       "correctIndex": 3,
       "explanation": "12 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "04681171-d3fc-5148-b360-9169cddca104",
       "tags": [
@@ -3397,7 +3397,7 @@
       "correctIndex": 0,
       "explanation": "26 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ece21305-a628-5512-81cb-5987a6b0bba0",
       "tags": [
@@ -3416,7 +3416,7 @@
       "correctIndex": 2,
       "explanation": "27 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "57fb342f-1fd0-5525-bc2a-f2cf2652f7bc",
       "tags": [
@@ -3435,7 +3435,7 @@
       "correctIndex": 2,
       "explanation": "18 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7f74303c-56e7-5993-8856-c1667b6f7ade",
       "tags": [
@@ -3454,7 +3454,7 @@
       "correctIndex": 0,
       "explanation": "16 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "123a43a9-744a-51ab-bb41-025d475ab9a4",
       "tags": [
@@ -3473,7 +3473,7 @@
       "correctIndex": 2,
       "explanation": "25 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "66addebd-c79d-520b-bc20-e42cbd0a13fb",
       "tags": [
@@ -3492,7 +3492,7 @@
       "correctIndex": 0,
       "explanation": "27 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1b9cf973-856b-5b1d-8185-4ef0eb81717f",
       "tags": [
@@ -3511,7 +3511,7 @@
       "correctIndex": 2,
       "explanation": "15 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d9c832da-be11-5dbb-88f9-850da0d61962",
       "tags": [
@@ -3530,7 +3530,7 @@
       "correctIndex": 3,
       "explanation": "4 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6493779e-2559-580a-ae32-be2b8c107523",
       "tags": [
@@ -3549,7 +3549,7 @@
       "correctIndex": 3,
       "explanation": "15 अभाज्य संख्या नहीं है जबकि बाकी सभी अभाज्य हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4a3a833e-dd15-5b85-84f6-03af1075bb5f",
       "tags": [
@@ -3568,7 +3568,7 @@
       "correctIndex": 1,
       "explanation": "19 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "11944c0e-35cd-5908-847f-51e1bb6268e7",
       "tags": [
@@ -3587,7 +3587,7 @@
       "correctIndex": 2,
       "explanation": "29 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "766f6007-bdbb-5f9b-b3db-07ea03fa1f99",
       "tags": [
@@ -3606,7 +3606,7 @@
       "correctIndex": 2,
       "explanation": "25 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7d20decc-f461-5e40-b42a-df0cb673bbdc",
       "tags": [
@@ -3625,7 +3625,7 @@
       "correctIndex": 3,
       "explanation": "9 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b6007000-75b8-5a17-9832-230514de0efd",
       "tags": [
@@ -3644,7 +3644,7 @@
       "correctIndex": 0,
       "explanation": "23 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "fc6e1418-a353-58a9-bbad-8b6b0be280c7",
       "tags": [
@@ -3663,7 +3663,7 @@
       "correctIndex": 2,
       "explanation": "25 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "31ca812c-8e62-55f5-a17a-88c58122df06",
       "tags": [
@@ -3682,7 +3682,7 @@
       "correctIndex": 1,
       "explanation": "47 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "fd391948-71b8-52e5-ae60-5374879a8a01",
       "tags": [
@@ -3701,7 +3701,7 @@
       "correctIndex": 3,
       "explanation": "9 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "11e196a2-4db6-5dab-a940-fab7f075adb9",
       "tags": [
@@ -3720,7 +3720,7 @@
       "correctIndex": 2,
       "explanation": "3 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "203a5593-86d5-517b-876f-3a511e53d565",
       "tags": [
@@ -3739,7 +3739,7 @@
       "correctIndex": 3,
       "explanation": "43 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "46663c16-0c1b-546e-85b5-b28a2f57cfd4",
       "tags": [
@@ -3758,7 +3758,7 @@
       "correctIndex": 2,
       "explanation": "45 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2e7223a6-792a-5bcf-a5f2-60327f7019f6",
       "tags": [
@@ -3777,7 +3777,7 @@
       "correctIndex": 2,
       "explanation": "15 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "50041778-b675-596f-a98a-826614bf28d3",
       "tags": [
@@ -3796,7 +3796,7 @@
       "correctIndex": 0,
       "explanation": "43 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8c079e57-5764-5b0c-bcbd-59d4030bcbaa",
       "tags": [
@@ -3815,7 +3815,7 @@
       "correctIndex": 2,
       "explanation": "15 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ea696f4c-5411-5724-b5e2-13dff4eb582b",
       "tags": [
@@ -3834,7 +3834,7 @@
       "correctIndex": 0,
       "explanation": "15 विषम (odd) संख्या है जबकि बाकी सभी सम (even) हैं।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "57c06c7e-f62e-573b-b45b-37d91b14ed80",
       "tags": [
@@ -3853,7 +3853,7 @@
       "correctIndex": 1,
       "explanation": "154 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "28a360d4-baee-51d2-aa0a-0a1fa8fac723",
       "tags": [
@@ -3872,7 +3872,7 @@
       "correctIndex": 0,
       "explanation": "119 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "951107c5-f2ff-566d-ad1b-44630b9c3838",
       "tags": [
@@ -3891,7 +3891,7 @@
       "correctIndex": 2,
       "explanation": "5 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "40cdd269-0b1d-5f21-a24c-936c2f7b6b55",
       "tags": [
@@ -3910,7 +3910,7 @@
       "correctIndex": 1,
       "explanation": "109 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ccb19434-71b8-5ff1-84c0-8e39f4cd8d1c",
       "tags": [
@@ -3929,7 +3929,7 @@
       "correctIndex": 2,
       "explanation": "167 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "965ce977-6ad4-5944-8737-d43274ba670d",
       "tags": [
@@ -3948,7 +3948,7 @@
       "correctIndex": 3,
       "explanation": "104 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "50ed8d0b-8e45-5f13-a029-e6c3f3448129",
       "tags": [
@@ -3967,7 +3967,7 @@
       "correctIndex": 3,
       "explanation": "51 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "453b66af-eb14-5790-a23c-4cccff40e047",
       "tags": [
@@ -3986,7 +3986,7 @@
       "correctIndex": 1,
       "explanation": "188 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "88dd0148-3ff5-584a-b85a-7c9c891d3b5f",
       "tags": [
@@ -4005,7 +4005,7 @@
       "correctIndex": 1,
       "explanation": "199 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f03288e0-ad19-5d10-85af-c9d3da3061e9",
       "tags": [
@@ -4024,7 +4024,7 @@
       "correctIndex": 0,
       "explanation": "76 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a3b4e7e6-4c2b-51ac-a218-87f3090184a2",
       "tags": [
@@ -4043,7 +4043,7 @@
       "correctIndex": 1,
       "explanation": "77 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "59bcba6c-c2d3-578d-ac20-4a318615cfff",
       "tags": [
@@ -4062,7 +4062,7 @@
       "correctIndex": 0,
       "explanation": "184 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5ee6c860-be57-5af9-83d6-d8f39d103adf",
       "tags": [
@@ -4081,7 +4081,7 @@
       "correctIndex": 0,
       "explanation": "174 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "89293ccc-a67a-53db-9e96-1fb9749878cd",
       "tags": [
@@ -4100,7 +4100,7 @@
       "correctIndex": 2,
       "explanation": "56 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "eb0836af-59da-5966-aeae-e60436af6a60",
       "tags": [
@@ -4119,7 +4119,7 @@
       "correctIndex": 3,
       "explanation": "6 पूर्ण वर्ग संख्या नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2243936d-1b70-5c2d-8098-c3ef9df4bd1d",
       "tags": [
@@ -4138,7 +4138,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। RUN → SVO।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "805cfcfb-881b-5edf-984e-8c0ae9d960a4",
       "tags": [
@@ -4157,7 +4157,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। PIT → QJU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3c6a06eb-85b2-51ae-8d7b-111ae23ea65a",
       "tags": [
@@ -4176,7 +4176,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। HAT → IBU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8fe0072f-2fbb-556b-9d2a-16770e27a224",
       "tags": [
@@ -4195,7 +4195,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। GAP → HBQ।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "90f8ed8c-f296-5255-9dfe-b3d912d3d3df",
       "tags": [
@@ -4214,7 +4214,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। RAT → SBU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "040b902d-b54e-5221-b7f1-b4e3aad882d1",
       "tags": [
@@ -4233,7 +4233,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। HUG → IVH।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4ac4af53-4e02-584b-a7d8-493d2771bf83",
       "tags": [
@@ -4252,7 +4252,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। LIT → MJU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "56388e5f-be8e-51ef-bfe5-da4220e68a35",
       "tags": [
@@ -4271,7 +4271,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। JAM → KBN।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ae713111-77d9-5328-906b-cba1a394014d",
       "tags": [
@@ -4290,7 +4290,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। LED → MFE।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "900ba927-8d2f-5379-aca9-a9da3eecee3c",
       "tags": [
@@ -4309,7 +4309,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। MET → NFU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "504636d7-af25-5a8b-a292-35096e8d285d",
       "tags": [
@@ -4328,7 +4328,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। PET → QFU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "56cb93f6-f386-58e7-ac20-47fcde341d75",
       "tags": [
@@ -4347,7 +4347,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। LAP → MBQ।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9c5f1c84-a72a-57cd-a140-9319ce68e1f6",
       "tags": [
@@ -4366,7 +4366,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। FED → GFE।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "561d97f6-bc6b-512d-820a-e5f41e6b50e8",
       "tags": [
@@ -4385,7 +4385,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। SIT → TJU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "19e505b5-69e6-509c-9c47-0e64e1078613",
       "tags": [
@@ -4404,7 +4404,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। BED → CFE।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "db716581-9f97-5677-b020-5ad8b9261820",
       "tags": [
@@ -4423,7 +4423,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। RED → SFE।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "965b5b33-9959-5021-bb17-a84097fc40fd",
       "tags": [
@@ -4442,7 +4442,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। SET → TFU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f316144a-e86f-5a26-a437-0c94fdd1e176",
       "tags": [
@@ -4461,7 +4461,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। NET → OFU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ac1918e0-4791-5ebf-af24-2a0b24c6e09e",
       "tags": [
@@ -4480,7 +4480,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। BUS → CVT।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "13f7af36-97ac-5a0c-8112-78d576c7e00e",
       "tags": [
@@ -4499,7 +4499,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है। JET → KFU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "235ab67a-1d04-5ed5-84cb-9e6f4bd56087",
       "tags": [
@@ -4518,7 +4518,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। JET → LGV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ee893605-d087-5438-99b2-d7bd13c0b528",
       "tags": [
@@ -4537,7 +4537,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। MET → OGV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f5e81ccf-d03c-5c2e-8abb-033861d44aca",
       "tags": [
@@ -4556,7 +4556,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। LED → NGF।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "522ae885-d0a0-5270-a850-86eef677651c",
       "tags": [
@@ -4575,7 +4575,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। WET → YGV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "23d53283-42d8-5d0a-b024-83fec30c95fd",
       "tags": [
@@ -4594,7 +4594,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। RED → TGF।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f67338d2-18d1-554a-acff-2d355f596243",
       "tags": [
@@ -4613,7 +4613,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। PIN → RKP।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7a06a61c-654a-5e8a-97de-6490519bb300",
       "tags": [
@@ -4632,7 +4632,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। FIT → HKV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "be5f76a1-d944-5029-8b49-b6e923854bba",
       "tags": [
@@ -4651,7 +4651,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। RUN → TWP।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6466689b-64ff-55d0-b656-a3f10a1c5231",
       "tags": [
@@ -4670,7 +4670,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। JAM → LCO।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3f3bbad8-3766-5b5b-b48c-fcc9848dd065",
       "tags": [
@@ -4689,7 +4689,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। HUG → JWI।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a2d6a555-eaa8-5446-9f44-5e0595b335b0",
       "tags": [
@@ -4708,7 +4708,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। NET → PGV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "97f80f66-4366-5cf8-abd5-11569e431702",
       "tags": [
@@ -4727,7 +4727,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। HIT → JKV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a82344d6-3d4e-5de2-ba04-1f38935bdd68",
       "tags": [
@@ -4746,7 +4746,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। BED → DGF।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5e6e46ae-d6e4-5ab4-9c5e-580474fa32d9",
       "tags": [
@@ -4765,7 +4765,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। LAP → NCR।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e30777f9-4302-5ac3-8e05-ed8d3b04e36f",
       "tags": [
@@ -4784,7 +4784,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। BUS → DWU।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "318addcf-f626-5ab6-b7a1-05e361960a61",
       "tags": [
@@ -4803,7 +4803,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। PET → RGV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2804286f-6700-58e0-931a-95286501fc4b",
       "tags": [
@@ -4822,7 +4822,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। FED → HGF।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "503f9e1b-ab2e-5673-bad8-234a4abbb1c0",
       "tags": [
@@ -4841,7 +4841,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। PIT → RKV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e3d8eff5-b437-561d-b881-4404e8ffbf7e",
       "tags": [
@@ -4860,7 +4860,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। SET → UGV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d0eb2967-d9ca-5c4a-ba39-f1662016670d",
       "tags": [
@@ -4879,7 +4879,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है। LIT → NKV।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e91a2876-2039-53d7-beba-caf7e2cc5bb8",
       "tags": [
@@ -4898,7 +4898,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 3 स्थान आगे बढ़ाया गया है। SUN → VXQ।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2ec3c45b-1a01-5956-ad18-be25bb7561db",
       "tags": [
@@ -4917,7 +4917,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 3 स्थान आगे बढ़ाया गया है। FIT → ILW।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2c657ebb-2047-54a1-9c84-522372dcc4a6",
       "tags": [
@@ -4936,7 +4936,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर को 3 स्थान आगे बढ़ाया गया है। FAN → IDQ।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "192c6706-eb11-52cc-80ca-e6acb416d81c",
       "tags": [
@@ -4955,7 +4955,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर को 3 स्थान आगे बढ़ाया गया है। BED → EHG।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6f77c4b2-79d4-5ce5-b326-e117d8280521",
       "tags": [
@@ -4974,7 +4974,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर को 3 स्थान आगे बढ़ाया गया है। FED → IHG।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bbfa0bad-853e-5055-babe-19fb3c8c51f3",
       "tags": [
@@ -4993,7 +4993,7 @@
       "correctIndex": 2,
       "explanation": "उत्तर से दाएँ मुड़ने पर = पूर्व।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9e83d5fb-122b-5bef-b683-b3a6bb54404b",
       "tags": [
@@ -5012,7 +5012,7 @@
       "correctIndex": 2,
       "explanation": "दक्षिण से बाएँ मुड़ने पर = पूर्व।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "958e6776-e7f0-5e60-ba26-9223030aeaf0",
       "tags": [
@@ -5031,7 +5031,7 @@
       "correctIndex": 2,
       "explanation": "पूर्व से दाएँ मुड़ने पर = दक्षिण।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ddac7665-01c2-54e7-b3c4-860f9a9b4fef",
       "tags": [
@@ -5050,7 +5050,7 @@
       "correctIndex": 0,
       "explanation": "उत्तर से बाएँ मुड़ने पर = पश्चिम।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ea6c003e-416a-5cb6-b522-18acce143b09",
       "tags": [
@@ -5069,7 +5069,7 @@
       "correctIndex": 3,
       "explanation": "दक्षिण से दाएँ मुड़ने पर = पश्चिम।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1943616f-3ff1-59b9-bd62-d5e511af34e6",
       "tags": [
@@ -5088,7 +5088,7 @@
       "correctIndex": 0,
       "explanation": "पश्चिम से बाएँ मुड़ने पर = दक्षिण।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "15c4d7d7-1fb6-537e-b5cc-510bec45ce46",
       "tags": [
@@ -5107,7 +5107,7 @@
       "correctIndex": 2,
       "explanation": "पश्चिम से दाएँ मुड़ने पर = उत्तर।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "85947f66-797d-5cb1-84b7-5b5b882a93f8",
       "tags": [
@@ -5126,7 +5126,7 @@
       "correctIndex": 0,
       "explanation": "पूर्व से बाएँ मुड़ने पर = उत्तर।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c3d5e0e1-c7a9-568b-bdea-eddc22439958",
       "tags": [
@@ -5145,7 +5145,7 @@
       "correctIndex": 0,
       "explanation": "विजय, मोहन का पिता है। मोहन, अनिल की माता है। इसलिए विजय, अनिल का/की नाना/नानी है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "af989807-5d23-5bcb-8d5a-74c195276dfd",
       "tags": [
@@ -5164,7 +5164,7 @@
       "correctIndex": 0,
       "explanation": "नीता, राम का भाई है। राम, विजय का पिता है। इसलिए नीता, विजय का/की चाचा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "157f0bb0-1715-558c-af3a-1d43e7f79077",
       "tags": [
@@ -5183,7 +5183,7 @@
       "correctIndex": 1,
       "explanation": "रीता, प्रिया की बहन है। प्रिया, विजय का पुत्र है। इसलिए रीता, विजय का/की पुत्री है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "27973fbb-0d68-5aea-bc31-467e7b539724",
       "tags": [
@@ -5202,7 +5202,7 @@
       "correctIndex": 1,
       "explanation": "रवि, सोहन का पुत्र है। सोहन, गीता का भाई है। इसलिए रवि, गीता का/की भतीजा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "cfb0df0d-a4db-5e58-822b-c928f631642d",
       "tags": [
@@ -5221,7 +5221,7 @@
       "correctIndex": 2,
       "explanation": "रवि, मोहन की माता है। मोहन, सुनील की पत्नी है। इसलिए रवि, सुनील का/की सास है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b377952b-60f5-57eb-a5bc-3e3ab77efb0d",
       "tags": [
@@ -5240,7 +5240,7 @@
       "correctIndex": 1,
       "explanation": "सोहन, श्याम का पुत्र है। श्याम, गीता की पुत्री है। इसलिए सोहन, गीता का/की नाती है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1104796f-8d49-5843-b840-3c88c02b4b0a",
       "tags": [
@@ -5259,7 +5259,7 @@
       "correctIndex": 2,
       "explanation": "काजल, प्रिया का पिता है। प्रिया, नीता का भाई है। इसलिए काजल, नीता का/की पिता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d154896a-69ac-59ce-9731-e88dade1eb84",
       "tags": [
@@ -5278,7 +5278,7 @@
       "correctIndex": 3,
       "explanation": "रीता, पूजा की पत्नी है। पूजा, प्रिया का पिता है। इसलिए रीता, प्रिया का/की माता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "19d595f7-1c20-5d49-b824-8266ad407b55",
       "tags": [
@@ -5297,7 +5297,7 @@
       "correctIndex": 1,
       "explanation": "विजय, गीता का पिता है। गीता, सोहन की माता है। इसलिए विजय, सोहन का/की नाना/नानी है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "02053f7a-d1cd-54d2-b207-eebdfd52026c",
       "tags": [
@@ -5316,7 +5316,7 @@
       "correctIndex": 3,
       "explanation": "रवि, राम का भाई है। राम, अजय का पिता है। इसलिए रवि, अजय का/की चाचा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "70854184-5c63-5eec-ad33-df88682708e3",
       "tags": [
@@ -5335,7 +5335,7 @@
       "correctIndex": 1,
       "explanation": "काजल, श्याम की बहन है। श्याम, मोहन का पुत्र है। इसलिए काजल, मोहन का/की पुत्री है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6542b6ee-2caf-5ca0-aa6e-ae3d29e6a703",
       "tags": [
@@ -5354,7 +5354,7 @@
       "correctIndex": 3,
       "explanation": "रीता, सुनील का पुत्र है। सुनील, गीता का भाई है। इसलिए रीता, गीता का/की भतीजा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ad39bca9-6e49-59bb-8076-557b5d497621",
       "tags": [
@@ -5373,7 +5373,7 @@
       "correctIndex": 0,
       "explanation": "गीता, काजल की माता है। काजल, सीता की पत्नी है। इसलिए गीता, सीता का/की सास है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0aa23243-0d8d-53ac-b6e9-d8d19dae25a7",
       "tags": [
@@ -5392,7 +5392,7 @@
       "correctIndex": 0,
       "explanation": "विजय, श्याम का पुत्र है। श्याम, प्रिया की पुत्री है। इसलिए विजय, प्रिया का/की नाती है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "52a9005b-0563-5a5b-b175-200eed7d6458",
       "tags": [
@@ -5411,7 +5411,7 @@
       "correctIndex": 0,
       "explanation": "प्रिया, रीता का पिता है। रीता, श्याम का भाई है। इसलिए प्रिया, श्याम का/की पिता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b5ebaebe-e15e-5dc2-8289-ff9eec26c187",
       "tags": [
@@ -5430,7 +5430,7 @@
       "correctIndex": 3,
       "explanation": "सुनील, विजय की पत्नी है। विजय, काजल का पिता है। इसलिए सुनील, काजल का/की माता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "25558cfb-79cc-59d1-aac2-ac7860496eac",
       "tags": [
@@ -5449,7 +5449,7 @@
       "correctIndex": 0,
       "explanation": "प्रिया, सीता का पिता है। सीता, रीता की माता है। इसलिए प्रिया, रीता का/की नाना/नानी है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "47a1ed49-ef11-5a22-819e-4b207e1fa4d2",
       "tags": [
@@ -5468,7 +5468,7 @@
       "correctIndex": 0,
       "explanation": "गीता, मोहन का भाई है। मोहन, सोहन का पिता है। इसलिए गीता, सोहन का/की चाचा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "82428a44-2226-5303-8df9-d4ac3c8900f1",
       "tags": [
@@ -5487,7 +5487,7 @@
       "correctIndex": 1,
       "explanation": "रवि, प्रिया की बहन है। प्रिया, अनिल का पुत्र है। इसलिए रवि, अनिल का/की पुत्री है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "81a8b966-1bc3-5501-9014-d75f986a96b7",
       "tags": [
@@ -5506,7 +5506,7 @@
       "correctIndex": 0,
       "explanation": "रीता, सीता का पुत्र है। सीता, रवि का भाई है। इसलिए रीता, रवि का/की भतीजा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "eceb5f87-dfd6-5298-a4bb-fdde933b16ca",
       "tags": [
@@ -5525,7 +5525,7 @@
       "correctIndex": 1,
       "explanation": "नीता, सुनील की माता है। सुनील, प्रिया की पत्नी है। इसलिए नीता, प्रिया का/की सास है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c7cb76f0-6e2d-5e42-8571-342c2f6927f4",
       "tags": [
@@ -5544,7 +5544,7 @@
       "correctIndex": 2,
       "explanation": "अनिल, काजल का पुत्र है। काजल, सोहन की पुत्री है। इसलिए अनिल, सोहन का/की नाती है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "54659176-d818-5752-9a21-0ce0707cc619",
       "tags": [
@@ -5563,7 +5563,7 @@
       "correctIndex": 1,
       "explanation": "पूजा, नीता का पिता है। नीता, प्रिया का भाई है। इसलिए पूजा, प्रिया का/की पिता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7a8a7b29-7395-5fce-aec5-9964d25ff49a",
       "tags": [
@@ -5582,7 +5582,7 @@
       "correctIndex": 3,
       "explanation": "पूजा, सीता की पत्नी है। सीता, अनिल का पिता है। इसलिए पूजा, अनिल का/की माता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "313f0f38-973b-5ecb-8545-73cf4937899a",
       "tags": [
@@ -5601,7 +5601,7 @@
       "correctIndex": 2,
       "explanation": "सुनील, मोहन का पिता है। मोहन, नीता की माता है। इसलिए सुनील, नीता का/की नाना/नानी है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7dd76772-47b2-56e8-b49a-778fc7343b00",
       "tags": [
@@ -5620,7 +5620,7 @@
       "correctIndex": 2,
       "explanation": "सीता, अजय का भाई है। अजय, नीता का पिता है। इसलिए सीता, नीता का/की चाचा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1f100a0a-c9f7-5fbc-b886-82af22e31b5b",
       "tags": [
@@ -5639,7 +5639,7 @@
       "correctIndex": 0,
       "explanation": "सीता, अजय की बहन है। अजय, गीता का पुत्र है। इसलिए सीता, गीता का/की पुत्री है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7fed9772-4617-510b-8902-d5a2eb82f5de",
       "tags": [
@@ -5658,7 +5658,7 @@
       "correctIndex": 0,
       "explanation": "श्याम, रवि का पुत्र है। रवि, विजय का भाई है। इसलिए श्याम, विजय का/की भतीजा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "85f9ee53-aa21-500a-a9f7-d5170dc45ebc",
       "tags": [
@@ -5677,7 +5677,7 @@
       "correctIndex": 0,
       "explanation": "गीता, श्याम की माता है। श्याम, सोहन की पत्नी है। इसलिए गीता, सोहन का/की सास है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "21ccc402-5825-5c45-a442-805fc190b589",
       "tags": [
@@ -5696,7 +5696,7 @@
       "correctIndex": 0,
       "explanation": "मोहन, पूजा का पुत्र है। पूजा, सीता की पुत्री है। इसलिए मोहन, सीता का/की नाती है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fdd7600e-4770-5438-81b4-01f5cb2d2f67",
       "tags": [
@@ -5715,7 +5715,7 @@
       "correctIndex": 1,
       "explanation": "पूजा, सुनील का पिता है। सुनील, प्रिया का भाई है। इसलिए पूजा, प्रिया का/की पिता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7f19f194-05df-5ba3-9f42-5c61c555b031",
       "tags": [
@@ -5734,7 +5734,7 @@
       "correctIndex": 1,
       "explanation": "श्याम, सोहन की पत्नी है। सोहन, मोहन का पिता है। इसलिए श्याम, मोहन का/की माता है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9d599cd4-2b6f-5d1d-9d3b-8fc9a4d80928",
       "tags": [
@@ -5753,7 +5753,7 @@
       "correctIndex": 3,
       "explanation": "सोहन, सुनील का पिता है। सुनील, अनिल की माता है। इसलिए सोहन, अनिल का/की नाना/नानी है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "88b32c12-567a-5198-b527-46b889441384",
       "tags": [
@@ -5772,7 +5772,7 @@
       "correctIndex": 3,
       "explanation": "गीता, सोहन का भाई है। सोहन, पूजा का पिता है। इसलिए गीता, पूजा का/की चाचा है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0a4a5fe6-7164-55bc-8fdd-330e2ad51fe1",
       "tags": [
@@ -5791,7 +5791,7 @@
       "correctIndex": 0,
       "explanation": "मोहन, सुनील की बहन है। सुनील, पूजा का पुत्र है। इसलिए मोहन, पूजा का/की पुत्री है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "dfa2cdcf-bcd9-5f43-abe3-7d0f4bcd39b7",
       "tags": [
@@ -5810,7 +5810,7 @@
       "correctIndex": 1,
       "explanation": "जैसे पुस्तक का संबंध पुस्तकालय से है, वैसे ही रोगी का संबंध अस्पताल से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2279cf17-ef88-516e-97f2-39c000f70857",
       "tags": [
@@ -5829,7 +5829,7 @@
       "correctIndex": 1,
       "explanation": "जैसे डॉक्टर का संबंध अस्पताल से है, वैसे ही शिक्षक का संबंध विद्यालय से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "605658e4-cb5a-51c5-ab25-261565d67248",
       "tags": [
@@ -5848,7 +5848,7 @@
       "correctIndex": 2,
       "explanation": "जैसे कलम का संबंध लिखना से है, वैसे ही चाकू का संबंध काटना से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "574e0273-0954-5dc3-9c4a-fe2d04b0d95f",
       "tags": [
@@ -5867,7 +5867,7 @@
       "correctIndex": 0,
       "explanation": "जैसे पक्षी का संबंध घोंसला से है, वैसे ही मनुष्य का संबंध घर से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "203e2877-ae6b-560d-86d7-b11828f68207",
       "tags": [
@@ -5886,7 +5886,7 @@
       "correctIndex": 0,
       "explanation": "जैसे गाय का संबंध दूध से है, वैसे ही मधुमक्खी का संबंध शहद से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d3584112-ce8b-5e28-a9cf-1ff2782e6441",
       "tags": [
@@ -5905,7 +5905,7 @@
       "correctIndex": 0,
       "explanation": "जैसे सूर्य का संबंध दिन से है, वैसे ही चंद्रमा का संबंध रात से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "523be674-a5a2-524f-8044-1d674073c780",
       "tags": [
@@ -5924,7 +5924,7 @@
       "correctIndex": 2,
       "explanation": "जैसे आँख का संबंध देखना से है, वैसे ही कान का संबंध सुनना से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "058b7299-8fe7-5176-83c7-310466adddaf",
       "tags": [
@@ -5943,7 +5943,7 @@
       "correctIndex": 2,
       "explanation": "जैसे पानी का संबंध प्यास से है, वैसे ही भोजन का संबंध भूख से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2afbf71c-e61c-571a-9f04-235ee5752a30",
       "tags": [
@@ -5962,7 +5962,7 @@
       "correctIndex": 1,
       "explanation": "जैसे मछली का संबंध पानी से है, वैसे ही पक्षी का संबंध आकाश से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "31612432-5bc2-50ea-9b4b-7187412dbf16",
       "tags": [
@@ -5981,7 +5981,7 @@
       "correctIndex": 2,
       "explanation": "जैसे गर्मी का संबंध पसीना से है, वैसे ही सर्दी का संबंध ठंड से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "09cc24d9-ec68-5f85-9f1e-5a4031807925",
       "tags": [
@@ -6000,7 +6000,7 @@
       "correctIndex": 1,
       "explanation": "जैसे लकड़ी का संबंध बढ़ई से है, वैसे ही लोहा का संबंध लोहार से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b1149791-0e93-5065-aedc-2c47ca98e739",
       "tags": [
@@ -6019,7 +6019,7 @@
       "correctIndex": 0,
       "explanation": "जैसे चित्रकार का संबंध तूलिका से है, वैसे ही लेखक का संबंध कलम से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "994de584-8d7d-5b8c-94f5-a47e92ab10b8",
       "tags": [
@@ -6038,7 +6038,7 @@
       "correctIndex": 3,
       "explanation": "जैसे बच्चा का संबंध रोना से है, वैसे ही कुत्ता का संबंध भौंकना से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ee3a6bbf-2b1f-5aa1-bef9-194db60034de",
       "tags": [
@@ -6057,7 +6057,7 @@
       "correctIndex": 0,
       "explanation": "जैसे वृक्ष का संबंध जंगल से है, वैसे ही सैनिक का संबंध सेना से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "451e4a27-4d53-57b3-a9cf-57229334a5ee",
       "tags": [
@@ -6076,7 +6076,7 @@
       "correctIndex": 0,
       "explanation": "जैसे नदी का संबंध समुद्र से है, वैसे ही सड़क का संबंध शहर से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "08c2e4c5-2825-5f85-903c-cdde64c815fa",
       "tags": [
@@ -6095,7 +6095,7 @@
       "correctIndex": 0,
       "explanation": "जैसे अंगूर का संबंध फल से है, वैसे ही गुलाब का संबंध फूल से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b2bb2783-7bf6-5d95-b888-d1d0130b59fe",
       "tags": [
@@ -6114,7 +6114,7 @@
       "correctIndex": 0,
       "explanation": "जैसे मोर का संबंध भारत से है, वैसे ही कंगारू का संबंध ऑस्ट्रेलिया से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b73d9a60-cb59-5a8f-92f6-26ca5eb0fb8d",
       "tags": [
@@ -6133,7 +6133,7 @@
       "correctIndex": 0,
       "explanation": "जैसे पायलट का संबंध विमान से है, वैसे ही ड्राइवर का संबंध कार से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "c138870d-2022-5a6d-a81b-3b9de4c45523",
       "tags": [
@@ -6152,7 +6152,7 @@
       "correctIndex": 0,
       "explanation": "जैसे चावल का संबंध खेत से है, वैसे ही कोयला का संबंध खदान से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e8e6a35c-f5c2-5cf4-808d-3997144786c0",
       "tags": [
@@ -6171,7 +6171,7 @@
       "correctIndex": 3,
       "explanation": "जैसे टमाटर का संबंध सब्जी से है, वैसे ही सेब का संबंध फल से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "39895b1b-ed05-5ba3-bddb-c72694cdfa67",
       "tags": [
@@ -6190,7 +6190,7 @@
       "correctIndex": 0,
       "explanation": "जैसे पुस्तकालय का संबंध पुस्तक से है, वैसे ही अस्पताल का संबंध रोगी से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0b4cb2fe-842d-5fd5-8602-d5eaba403b28",
       "tags": [
@@ -6209,7 +6209,7 @@
       "correctIndex": 3,
       "explanation": "जैसे अस्पताल का संबंध डॉक्टर से है, वैसे ही विद्यालय का संबंध शिक्षक से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4bbf0b87-05f1-524f-b9fe-875d8c27544a",
       "tags": [
@@ -6228,7 +6228,7 @@
       "correctIndex": 0,
       "explanation": "जैसे लिखना का संबंध कलम से है, वैसे ही काटना का संबंध चाकू से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "63035fa6-c87e-5869-b4bc-9ba5c4036deb",
       "tags": [
@@ -6247,7 +6247,7 @@
       "correctIndex": 2,
       "explanation": "जैसे घोंसला का संबंध पक्षी से है, वैसे ही घर का संबंध मनुष्य से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0bc3c76e-3a17-5271-8f91-2a2b609d4d43",
       "tags": [
@@ -6266,7 +6266,7 @@
       "correctIndex": 3,
       "explanation": "जैसे दूध का संबंध गाय से है, वैसे ही शहद का संबंध मधुमक्खी से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d0705a26-4c35-5a72-bf9f-27e52e59504c",
       "tags": [
@@ -6285,7 +6285,7 @@
       "correctIndex": 1,
       "explanation": "जैसे दिन का संबंध सूर्य से है, वैसे ही रात का संबंध चंद्रमा से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "968d4922-9937-5bdf-9054-189774822993",
       "tags": [
@@ -6304,7 +6304,7 @@
       "correctIndex": 2,
       "explanation": "जैसे देखना का संबंध आँख से है, वैसे ही सुनना का संबंध कान से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "25b4d44d-8236-5fee-8a6f-0eaec489c951",
       "tags": [
@@ -6323,7 +6323,7 @@
       "correctIndex": 0,
       "explanation": "जैसे प्यास का संबंध पानी से है, वैसे ही भूख का संबंध भोजन से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0ea16a0b-62e0-5e9e-a00d-e4479257d515",
       "tags": [
@@ -6342,7 +6342,7 @@
       "correctIndex": 1,
       "explanation": "जैसे पानी का संबंध मछली से है, वैसे ही आकाश का संबंध पक्षी से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2666ad43-bc98-54f7-b1fd-e5ac1d80ce8e",
       "tags": [
@@ -6361,7 +6361,7 @@
       "correctIndex": 3,
       "explanation": "जैसे पसीना का संबंध गर्मी से है, वैसे ही ठंड का संबंध सर्दी से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8839bc4e-41ef-57ee-a456-04f2140990b1",
       "tags": [
@@ -6380,7 +6380,7 @@
       "correctIndex": 2,
       "explanation": "जैसे बढ़ई का संबंध लकड़ी से है, वैसे ही लोहार का संबंध लोहा से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ee65fe2c-a546-5f71-b992-be62e45d9290",
       "tags": [
@@ -6399,7 +6399,7 @@
       "correctIndex": 0,
       "explanation": "जैसे तूलिका का संबंध चित्रकार से है, वैसे ही कलम का संबंध लेखक से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "843f43d6-926b-56dc-b25d-d50398c1fe49",
       "tags": [
@@ -6418,7 +6418,7 @@
       "correctIndex": 0,
       "explanation": "जैसे रोना का संबंध बच्चा से है, वैसे ही भौंकना का संबंध कुत्ता से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "40126432-9fee-5a98-9fa8-799990e1afc3",
       "tags": [
@@ -6437,7 +6437,7 @@
       "correctIndex": 1,
       "explanation": "जैसे जंगल का संबंध वृक्ष से है, वैसे ही सेना का संबंध सैनिक से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f5da7d71-0ddf-5a9b-888a-ab913e4d8add",
       "tags": [
@@ -6456,7 +6456,7 @@
       "correctIndex": 0,
       "explanation": "जैसे समुद्र का संबंध नदी से है, वैसे ही शहर का संबंध सड़क से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d10b8766-b78c-519e-9f97-94567913d7f8",
       "tags": [
@@ -6475,7 +6475,7 @@
       "correctIndex": 0,
       "explanation": "जैसे फल का संबंध अंगूर से है, वैसे ही फूल का संबंध गुलाब से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5c5e567e-7fd5-5c9d-869c-ce4835201ff7",
       "tags": [
@@ -6494,7 +6494,7 @@
       "correctIndex": 1,
       "explanation": "जैसे भारत का संबंध मोर से है, वैसे ही ऑस्ट्रेलिया का संबंध कंगारू से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1a72421f-db56-5b18-8d79-d283fc446438",
       "tags": [
@@ -6513,7 +6513,7 @@
       "correctIndex": 1,
       "explanation": "जैसे विमान का संबंध पायलट से है, वैसे ही कार का संबंध ड्राइवर से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6a59bd3e-704c-52d9-aa2c-93a1993a028b",
       "tags": [
@@ -6532,7 +6532,7 @@
       "correctIndex": 0,
       "explanation": "जैसे खेत का संबंध चावल से है, वैसे ही खदान का संबंध कोयला से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2c9ceca6-4a0d-5c2b-b710-54fe58da464f",
       "tags": [
@@ -6551,7 +6551,7 @@
       "correctIndex": 1,
       "explanation": "जैसे सब्जी का संबंध टमाटर से है, वैसे ही फल का संबंध सेब से है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8e045878-b475-5e66-8fb9-d3fae75ebfb6",
       "tags": [
@@ -6570,7 +6570,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 15 - 10 + 1 = 6।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f68ade6f-1560-5244-b439-4a181498ebc7",
       "tags": [
@@ -6589,7 +6589,7 @@
       "correctIndex": 3,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 19 - 8 + 1 = 12।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "57ac05f1-0647-5915-951a-85956e327fa8",
       "tags": [
@@ -6608,7 +6608,7 @@
       "correctIndex": 2,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 29 - 3 + 1 = 27।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f26ffbd5-8c3b-589c-bd9a-e35ebed1428a",
       "tags": [
@@ -6627,7 +6627,7 @@
       "correctIndex": 3,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 37 - 13 + 1 = 25।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "cd1f0eea-30c7-5ea3-97e8-4c7bb7fceff7",
       "tags": [
@@ -6646,7 +6646,7 @@
       "correctIndex": 3,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 18 - 10 + 1 = 9।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "175f7660-63f7-5849-a9cb-caea58296ea8",
       "tags": [
@@ -6665,7 +6665,7 @@
       "correctIndex": 3,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 32 - 7 + 1 = 26।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "963f3a17-64a6-5b68-8f37-f0bf21ef8b0d",
       "tags": [
@@ -6684,7 +6684,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 39 - 22 + 1 = 18।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7b198414-7652-555e-945c-51beeee8e04d",
       "tags": [
@@ -6703,7 +6703,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 26 - 14 + 1 = 13।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e83df37c-f047-5d43-a969-b450e9a96231",
       "tags": [
@@ -6722,7 +6722,7 @@
       "correctIndex": 2,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 17 - 13 + 1 = 5।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "986be669-c839-5b96-8802-5fa641a85d58",
       "tags": [
@@ -6741,7 +6741,7 @@
       "correctIndex": 0,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 34 - 9 + 1 = 26।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8612591c-5b6d-5ba9-b18e-d2b63dfbaaa2",
       "tags": [
@@ -6760,7 +6760,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 18 - 4 + 1 = 15।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "295f38b2-9254-5b49-90dc-c4da35a11e67",
       "tags": [
@@ -6779,7 +6779,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 26 - 7 + 1 = 20।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f3a921ee-01ba-52ec-a959-be3dd146e0e5",
       "tags": [
@@ -6798,7 +6798,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 15 - 4 + 1 = 12।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a8566be9-a1e5-58c3-9ad5-da95da225b0e",
       "tags": [
@@ -6817,7 +6817,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 25 - 6 + 1 = 20।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3fd1dd27-fb81-5aa2-8fb8-e0f8d4ff44b3",
       "tags": [
@@ -6836,7 +6836,7 @@
       "correctIndex": 2,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 30 - 23 + 1 = 8।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fc774357-a03c-53b3-856d-3aff543f1dd9",
       "tags": [
@@ -6855,7 +6855,7 @@
       "correctIndex": 2,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 25 - 5 + 1 = 21।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f423e7e6-7f6f-5836-b9fa-d037eef6df6d",
       "tags": [
@@ -6874,7 +6874,7 @@
       "correctIndex": 0,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 37 - 27 + 1 = 11।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0063aa51-2722-5eb9-b746-0d70cdace5e3",
       "tags": [
@@ -6893,7 +6893,7 @@
       "correctIndex": 0,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 29 - 24 + 1 = 6।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8735e916-1466-5a41-8cf0-73ccff02694a",
       "tags": [
@@ -6912,7 +6912,7 @@
       "correctIndex": 1,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 38 - 10 + 1 = 29।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2c2c4263-c28d-5982-b7a3-3ea5515667f2",
       "tags": [
@@ -6931,7 +6931,7 @@
       "correctIndex": 0,
       "explanation": "दाएँ से स्थान = कुल - बाएँ से + 1 = 25 - 7 + 1 = 19।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0f67e7cf-efe3-59af-be34-8e8285edae0f",
       "tags": [
@@ -6950,7 +6950,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 17 + 16 - 1 = 32।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ea1ffeb5-6823-5397-af7f-070637bbb1a6",
       "tags": [
@@ -6969,7 +6969,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 11 + 19 - 1 = 29।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "716591af-cc03-5610-af77-dcf9bfcdbe23",
       "tags": [
@@ -6988,7 +6988,7 @@
       "correctIndex": 1,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 9 + 15 - 1 = 23।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "28e972c4-36d7-5885-904d-b47449d86ace",
       "tags": [
@@ -7007,7 +7007,7 @@
       "correctIndex": 3,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 18 + 19 - 1 = 36।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5d3158f1-83f5-58c2-9aad-b267aed8e194",
       "tags": [
@@ -7026,7 +7026,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 19 + 18 - 1 = 36।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "453812ff-2d47-50b9-9e31-a21bc45fe920",
       "tags": [
@@ -7045,7 +7045,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 19 + 12 - 1 = 30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e03a950c-1d63-5a4f-9344-7612e4af4783",
       "tags": [
@@ -7064,7 +7064,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 7 + 11 - 1 = 17।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "51cc65b3-47dc-5da2-838f-22171932a204",
       "tags": [
@@ -7083,7 +7083,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 10 + 5 - 1 = 14।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "10ff962d-acd1-5240-a306-c65723b600ed",
       "tags": [
@@ -7102,7 +7102,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 10 + 18 - 1 = 27।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ecf6b92e-d121-517d-8fa1-7b8dbce9b74d",
       "tags": [
@@ -7121,7 +7121,7 @@
       "correctIndex": 1,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 15 + 5 - 1 = 19।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "edcadc64-84ba-56e6-a983-df3ba0b29f04",
       "tags": [
@@ -7140,7 +7140,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 20 + 5 - 1 = 24।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "dfa5bca8-8bb0-5c18-8c8e-b661fee35f07",
       "tags": [
@@ -7159,7 +7159,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 14 + 9 - 1 = 22।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2de6514a-0983-5c22-ae7b-2379e89a4657",
       "tags": [
@@ -7178,7 +7178,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 16 + 5 - 1 = 20।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "dc28a543-5792-5b9e-ada4-3e1476aec583",
       "tags": [
@@ -7197,7 +7197,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 11 + 11 - 1 = 21।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2e41f288-406b-583e-8534-0e0b8292269d",
       "tags": [
@@ -7216,7 +7216,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 14 + 10 - 1 = 23।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ac518294-8fe4-5d0f-88e6-38a67e59771e",
       "tags": [
@@ -7235,7 +7235,7 @@
       "correctIndex": 0,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 18 + 7 - 1 = 24।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "166a9e4f-d8a8-50f7-8e4b-1d772cffff6a",
       "tags": [
@@ -7254,7 +7254,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 14 + 19 - 1 = 32।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d2da9ef9-6593-5ba7-b105-1df70bfe3712",
       "tags": [
@@ -7273,7 +7273,7 @@
       "correctIndex": 2,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 7 + 16 - 1 = 22।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2fae0235-cae2-51b0-870d-5174a828593a",
       "tags": [
@@ -7292,7 +7292,7 @@
       "correctIndex": 1,
       "explanation": "कुल = बाएँ + दाएँ - 1 = 12 + 14 - 1 = 25।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7cdcd2eb-51d7-5852-a436-22654ca8af45",
       "tags": [
@@ -7311,7 +7311,7 @@
       "correctIndex": 3,
       "explanation": "'÷' → '×', '×' → '÷'। 3 × 6 ÷ 6 = 3।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c892ac91-94d5-5ab6-856b-d22bc0455416",
       "tags": [
@@ -7330,7 +7330,7 @@
       "correctIndex": 3,
       "explanation": "'×' → '÷', '÷' → '×'। 4 ÷ 6 × 3 = 2।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e1900112-072b-5ead-9070-2d33b1d69c7c",
       "tags": [
@@ -7349,7 +7349,7 @@
       "correctIndex": 0,
       "explanation": "'×' → '-', '-' → '×'। 19 - 8 × 6 = 66।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e1aa9ffa-a7c2-5d32-abc7-01ffe5fb040b",
       "tags": [
@@ -7368,7 +7368,7 @@
       "correctIndex": 3,
       "explanation": "'÷' → '+', '+' → '÷'। 2 + 4 ÷ 6 = 1।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6679ae40-3396-5df1-890d-ff373a46f949",
       "tags": [
@@ -7387,7 +7387,7 @@
       "correctIndex": 1,
       "explanation": "'×' → '-', '-' → '×'। 12 - 10 × 7 = 14।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8ff3956a-0776-53ee-be7c-4695a6f77001",
       "tags": [
@@ -7406,7 +7406,7 @@
       "correctIndex": 0,
       "explanation": "'×' → '÷', '÷' → '×'। 9 ÷ 9 × 6 = 6।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d90c5a8d-752c-58b0-afcd-87e8f00298af",
       "tags": [
@@ -7425,7 +7425,7 @@
       "correctIndex": 1,
       "explanation": "'×' → '-', '-' → '×'। 17 - 2 × 3 = 45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2f9765a3-70bc-57db-a96d-6a6816fe3673",
       "tags": [
@@ -7444,7 +7444,7 @@
       "correctIndex": 1,
       "explanation": "'×' → '-', '-' → '×'। 5 - 3 × 4 = 8।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "297ef3c9-eec4-5fed-ab76-e86f57768944",
       "tags": [
@@ -7463,7 +7463,7 @@
       "correctIndex": 2,
       "explanation": "'÷' → '+', '+' → '÷'। 16 + 4 ÷ 10 = 2।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "14a6ded8-62d9-5846-abd3-f03f1c7abf3b",
       "tags": [
@@ -7482,7 +7482,7 @@
       "correctIndex": 0,
       "explanation": "'+' → '×', '×' → '+'। 7 × 3 + 5 = 26।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5586b6aa-31d9-5320-a0aa-0f18f433b1e6",
       "tags": [
@@ -7501,7 +7501,7 @@
       "correctIndex": 2,
       "explanation": "'-' → '×', '×' → '-'। 5 × 6 - 3 = 27।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a2d6f4a3-426b-5aa8-8d96-37fd14a74d76",
       "tags": [
@@ -7520,7 +7520,7 @@
       "correctIndex": 1,
       "explanation": "'+' → '×', '×' → '+'। 7 × 2 + 8 = 22।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "cf6e9f3b-de91-5e11-a163-9ce009bd881d",
       "tags": [
@@ -7539,7 +7539,7 @@
       "correctIndex": 1,
       "explanation": "'×' → '+', '+' → '×'। 6 + 8 × 9 = 126।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d6e14d5b-0112-561d-9f31-325e618ed6ee",
       "tags": [
@@ -7558,7 +7558,7 @@
       "correctIndex": 0,
       "explanation": "'+' → '×', '×' → '+'। 3 × 8 + 3 = 27।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0e308d4c-78a1-5672-bcb8-1c9d0f1d8744",
       "tags": [
@@ -7577,7 +7577,7 @@
       "correctIndex": 0,
       "explanation": "'+' → '×', '×' → '+'। 12 × 2 + 4 = 28।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "470a1696-223c-563f-8171-536e1b8e4344",
       "tags": [
@@ -7596,7 +7596,7 @@
       "correctIndex": 3,
       "explanation": "'×' → '-', '-' → '×'। 18 - 9 × 5 = 45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6823dcb9-09af-5310-b51f-fd7ff7a571b2",
       "tags": [
@@ -7615,7 +7615,7 @@
       "correctIndex": 3,
       "explanation": "'-' → '+', '+' → '-'। 4 + 5 - 10 = -1।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "88535184-5216-5266-8fd1-436c994a5d2d",
       "tags": [
@@ -7634,7 +7634,7 @@
       "correctIndex": 1,
       "explanation": "'+' → '-', '-' → '+'। 4 - 8 + 10 = 6।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "707d2456-77e8-50f9-be23-9fb862f71bbb",
       "tags": [
@@ -7653,7 +7653,7 @@
       "correctIndex": 0,
       "explanation": "'+' → '×', '×' → '+'। 6 × 3 + 7 = 25।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4669c435-a5b8-52f2-9e2b-800a53b6dda9",
       "tags": [
@@ -7672,7 +7672,7 @@
       "correctIndex": 3,
       "explanation": "'-' → '×', '×' → '-'। 4 × 6 - 6 = 18।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ccccb7a0-f482-5132-aa82-b0c619bbd865",
       "tags": [
@@ -7691,7 +7691,7 @@
       "correctIndex": 1,
       "explanation": "'-' → '×', '×' → '-'। 16 × 2 - 5 = 27।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "68fd3dfb-3bc5-5f86-b120-77b1cd4084e5",
       "tags": [
@@ -7710,7 +7710,7 @@
       "correctIndex": 0,
       "explanation": "'×' → '+', '+' → '×'। 2 + 10 × 5 = 60।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d7c5cf1d-cfa4-56c2-b2ae-66f6e810a80a",
       "tags": [
@@ -7729,7 +7729,7 @@
       "correctIndex": 2,
       "explanation": "'-' → '×', '×' → '-'। 10 × 8 - 4 = 76।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4017e227-b68b-50ae-a98f-a01e665d1fb4",
       "tags": [
@@ -7748,7 +7748,7 @@
       "correctIndex": 1,
       "explanation": "'×' → '-', '-' → '×'। 8 - 8 × 9 = 0।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0f9b6ec5-ef0d-5591-90b5-9b54e1fa0530",
       "tags": [
@@ -7767,7 +7767,7 @@
       "correctIndex": 3,
       "explanation": "'+' → '×', '×' → '+'। 13 × 2 + 4 = 30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "82c0ad6b-752c-5e07-83fc-87ef99cbc572",
       "tags": [
@@ -7786,7 +7786,7 @@
       "correctIndex": 3,
       "explanation": "'-' → '+', '+' → '-'। 16 + 4 - 3 = 17।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4bd779f8-1fea-5813-b213-f07c51a3d2e6",
       "tags": [
@@ -7805,7 +7805,7 @@
       "correctIndex": 1,
       "explanation": "14 ÷ 7 = शेष 0। मंगलवार से 0 दिन बाद = मंगलवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6ec1591c-317f-5f11-a155-f532e2b18cf2",
       "tags": [
@@ -7824,7 +7824,7 @@
       "correctIndex": 1,
       "explanation": "7 ÷ 7 = शेष 0। रविवार से 0 दिन बाद = रविवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "81ecb9e5-4953-5e9a-95e3-9424a47eb234",
       "tags": [
@@ -7843,7 +7843,7 @@
       "correctIndex": 1,
       "explanation": "100 ÷ 7 = शेष 2। शनिवार से 2 दिन बाद = सोमवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d80b8595-7965-5161-91c5-1e7d2108276c",
       "tags": [
@@ -7862,7 +7862,7 @@
       "correctIndex": 1,
       "explanation": "7 ÷ 7 = शेष 0। सोमवार से 0 दिन बाद = सोमवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8287a22d-c397-55ea-af73-0dbdf26748cc",
       "tags": [
@@ -7881,7 +7881,7 @@
       "correctIndex": 3,
       "explanation": "100 ÷ 7 = शेष 2। गुरुवार से 2 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6fdd2320-6562-5346-8f19-7eed795e504b",
       "tags": [
@@ -7900,7 +7900,7 @@
       "correctIndex": 2,
       "explanation": "60 ÷ 7 = शेष 4। मंगलवार से 4 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4b614b72-5371-5ddf-97a3-9d55e9136fe1",
       "tags": [
@@ -7919,7 +7919,7 @@
       "correctIndex": 0,
       "explanation": "7 ÷ 7 = शेष 0। शनिवार से 0 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ba464cd7-f7bd-541f-a76d-f96f35334c11",
       "tags": [
@@ -7938,7 +7938,7 @@
       "correctIndex": 0,
       "explanation": "90 ÷ 7 = शेष 6। शनिवार से 6 दिन बाद = शुक्रवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ecf8723d-e7bf-581f-a67e-db6550faa12f",
       "tags": [
@@ -7957,7 +7957,7 @@
       "correctIndex": 0,
       "explanation": "30 ÷ 7 = शेष 2। शुक्रवार से 2 दिन बाद = रविवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ab4efecb-8546-51c6-93be-8aecf15dd71a",
       "tags": [
@@ -7976,7 +7976,7 @@
       "correctIndex": 1,
       "explanation": "28 ÷ 7 = शेष 0। शुक्रवार से 0 दिन बाद = शुक्रवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3dcd6578-9e61-52bd-9ac7-6171f7625225",
       "tags": [
@@ -7995,7 +7995,7 @@
       "correctIndex": 0,
       "explanation": "15 ÷ 7 = शेष 1। शनिवार से 1 दिन बाद = रविवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4c23669c-b928-5f40-aa6c-612ed76538a4",
       "tags": [
@@ -8014,7 +8014,7 @@
       "correctIndex": 1,
       "explanation": "14 ÷ 7 = शेष 0। रविवार से 0 दिन बाद = रविवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "23a24bd4-f205-586f-a6bd-5a40fa8cb2d7",
       "tags": [
@@ -8033,7 +8033,7 @@
       "correctIndex": 1,
       "explanation": "90 ÷ 7 = शेष 6। रविवार से 6 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f6d8f5a0-0067-55a6-91b9-c0ff162f3b06",
       "tags": [
@@ -8052,7 +8052,7 @@
       "correctIndex": 1,
       "explanation": "14 ÷ 7 = शेष 0। शनिवार से 0 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5254ad83-0c06-5c1f-90e6-17dd7c3dcc73",
       "tags": [
@@ -8071,7 +8071,7 @@
       "correctIndex": 2,
       "explanation": "21 ÷ 7 = शेष 0। शुक्रवार से 0 दिन बाद = शुक्रवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ce934da7-2ec0-5b80-ad46-b0f6939a7d8d",
       "tags": [
@@ -8090,7 +8090,7 @@
       "correctIndex": 0,
       "explanation": "30 ÷ 7 = शेष 2। शनिवार से 2 दिन बाद = सोमवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "fbac9c93-88b6-5251-a2ab-298ef5605473",
       "tags": [
@@ -8109,7 +8109,7 @@
       "correctIndex": 0,
       "explanation": "21 ÷ 7 = शेष 0। गुरुवार से 0 दिन बाद = गुरुवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e4be633a-a314-537e-9ec9-8e2b16bfb525",
       "tags": [
@@ -8128,7 +8128,7 @@
       "correctIndex": 2,
       "explanation": "100 ÷ 7 = शेष 2। बुधवार से 2 दिन बाद = शुक्रवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "de1e2a76-87a3-5918-ae6b-4d030d842cf4",
       "tags": [
@@ -8147,7 +8147,7 @@
       "correctIndex": 2,
       "explanation": "14 ÷ 7 = शेष 0। गुरुवार से 0 दिन बाद = गुरुवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "49b42b87-c7e6-5d33-b503-354fc4049db9",
       "tags": [
@@ -8166,7 +8166,7 @@
       "correctIndex": 3,
       "explanation": "21 ÷ 7 = शेष 0। सोमवार से 0 दिन बाद = सोमवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "58b6ee61-2ccc-5a41-b5ed-3749f36d8e1a",
       "tags": [
@@ -8185,7 +8185,7 @@
       "correctIndex": 0,
       "explanation": "45 ÷ 7 = शेष 3। बुधवार से 3 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2baa7aaf-07dc-58eb-930b-40007e25d7a7",
       "tags": [
@@ -8204,7 +8204,7 @@
       "correctIndex": 1,
       "explanation": "60 ÷ 7 = शेष 4। शुक्रवार से 4 दिन बाद = मंगलवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7fac4a47-296d-5840-91b7-36a603cfc95d",
       "tags": [
@@ -8223,7 +8223,7 @@
       "correctIndex": 0,
       "explanation": "45 ÷ 7 = शेष 3। शनिवार से 3 दिन बाद = मंगलवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7293883c-ef78-5314-b12a-421bbfb63fa9",
       "tags": [
@@ -8242,7 +8242,7 @@
       "correctIndex": 3,
       "explanation": "100 ÷ 7 = शेष 2। शुक्रवार से 2 दिन बाद = रविवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a30dad87-4b6a-52a1-9844-9addf71d1fa7",
       "tags": [
@@ -8261,7 +8261,7 @@
       "correctIndex": 3,
       "explanation": "100 ÷ 7 = शेष 2। सोमवार से 2 दिन बाद = बुधवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "28e902d0-98b2-5994-9667-f09500bd2ba3",
       "tags": [
@@ -8280,7 +8280,7 @@
       "correctIndex": 1,
       "explanation": "21 ÷ 7 = शेष 0। बुधवार से 0 दिन बाद = बुधवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "732c8abf-2f5b-5a71-9b63-f5a0377a966c",
       "tags": [
@@ -8299,7 +8299,7 @@
       "correctIndex": 1,
       "explanation": "21 ÷ 7 = शेष 0। शनिवार से 0 दिन बाद = शनिवार।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ef13c658-eb2b-51df-9d06-7e8c27b4a1a2",
       "tags": [
@@ -8318,7 +8318,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = F।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f00c1609-60a9-5896-94e1-80b9244d17c6",
       "tags": [
@@ -8337,7 +8337,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = G।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0f6404f3-21b5-51e2-94cb-f489a667c52c",
       "tags": [
@@ -8356,7 +8356,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = H।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "891e7e7f-ddea-5bbc-b7f5-8ca10acfda98",
       "tags": [
@@ -8375,7 +8375,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = I।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4811f5a9-1138-5578-abb7-47f6d264f252",
       "tags": [
@@ -8394,7 +8394,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = J।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fa84dafb-7a40-532e-a660-db327ffdc423",
       "tags": [
@@ -8413,7 +8413,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = K।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3084df4b-bce2-57ee-ae6a-3acf91d7bcd8",
       "tags": [
@@ -8432,7 +8432,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = L।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1512bae6-dd64-53c4-8ebe-c8e0ec35fbd2",
       "tags": [
@@ -8451,7 +8451,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = M।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c22575af-2a7c-569b-9834-13a4719e65cf",
       "tags": [
@@ -8470,7 +8470,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = N।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1e32bbd4-0067-5916-ba96-cbf43813c29a",
       "tags": [
@@ -8489,7 +8489,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = O।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c588d0dc-6c21-5fe3-a398-c1e779aec1b3",
       "tags": [
@@ -8508,7 +8508,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = P।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2476b9ec-7031-554a-bca4-0c34d41f66e4",
       "tags": [
@@ -8527,7 +8527,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = Q।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7153ffb6-d3d3-51c1-8fb7-5eba8e0d380a",
       "tags": [
@@ -8546,7 +8546,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = R।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a1f911b3-6e7a-5f10-94de-bafb26e59137",
       "tags": [
@@ -8565,7 +8565,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = S।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8dfd2e05-7797-5c70-ba9d-beed768ead45",
       "tags": [
@@ -8584,7 +8584,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 1 स्थान का अंतर है। अगला = T।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b4b68cc5-dd0a-5ed5-95e3-709ee46d6026",
       "tags": [
@@ -8603,7 +8603,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = K।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "af1ef1fa-ec8d-5100-9aea-596cc28e49c4",
       "tags": [
@@ -8622,7 +8622,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = L।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8a77a9ed-b478-50b8-baf4-5a926ca3e4ea",
       "tags": [
@@ -8641,7 +8641,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = M।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "78f48dfb-0a15-5eb6-bead-fcc74d7214c7",
       "tags": [
@@ -8660,7 +8660,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = N।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "70829f86-87c0-5451-a512-f8b4d92b6277",
       "tags": [
@@ -8679,7 +8679,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = O।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "869b69c5-abe8-5bcb-ae6d-af85142f5fe1",
       "tags": [
@@ -8698,7 +8698,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = P।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "151bdcb7-e5a7-5716-8016-55d3704cb881",
       "tags": [
@@ -8717,7 +8717,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = Q।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "680e8e2d-1da8-5fbc-96e5-dc08eea51170",
       "tags": [
@@ -8736,7 +8736,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = R।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a6a48eb1-f6d5-5e9e-b893-5be9e5120175",
       "tags": [
@@ -8755,7 +8755,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = S।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "552e3a42-23b0-56e6-9916-544f9979b046",
       "tags": [
@@ -8774,7 +8774,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = T।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "35c4d3b8-4936-5f3a-8c28-737feeebbc61",
       "tags": [
@@ -8793,7 +8793,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = U।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1e04dbdd-556e-503f-9d4f-80bf884e8011",
       "tags": [
@@ -8812,7 +8812,7 @@
       "correctIndex": 0,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = V।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0325ce11-61b2-58c6-a8f8-fa0f07cde8b3",
       "tags": [
@@ -8831,7 +8831,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = W।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4f0c8c8d-04f5-5833-8634-104669bf688c",
       "tags": [
@@ -8850,7 +8850,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = X।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "34ebfcea-97ec-5abf-adc5-ed96e4db296b",
       "tags": [
@@ -8869,7 +8869,7 @@
       "correctIndex": 1,
       "explanation": "प्रत्येक अक्षर में 2 स्थान का अंतर है। अगला = Y।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e050edc7-8b56-5858-9c94-ecff856cd9df",
       "tags": [
@@ -8888,7 +8888,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 3 स्थान का अंतर है। अगला = P।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "242b450e-12a7-5f82-8e75-2231b7f49e72",
       "tags": [
@@ -8907,7 +8907,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 3 स्थान का अंतर है। अगला = Q।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4ae27569-16ad-5159-a68d-d53d176f9edb",
       "tags": [
@@ -8926,7 +8926,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 3 स्थान का अंतर है। अगला = R।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "54d9cba0-1de0-58f0-aebc-132fd3c3356d",
       "tags": [
@@ -8945,7 +8945,7 @@
       "correctIndex": 3,
       "explanation": "प्रत्येक अक्षर में 3 स्थान का अंतर है। अगला = S।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fc4c6f5b-0ae9-553d-8a39-918e23626a43",
       "tags": [
@@ -8964,7 +8964,7 @@
       "correctIndex": 2,
       "explanation": "प्रत्येक अक्षर में 3 स्थान का अंतर है। अगला = T।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "dd389347-15b8-57ce-a3ed-3609cb8c539e",
       "tags": [
@@ -8983,7 +8983,7 @@
       "correctIndex": 2,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 9:00 = 3:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1764bf33-22f2-5761-b543-53a00da1ec19",
       "tags": [
@@ -9002,7 +9002,7 @@
       "correctIndex": 2,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 6:00 = 6:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "11790afb-3263-58c1-b22d-d3b4e44cf769",
       "tags": [
@@ -9021,7 +9021,7 @@
       "correctIndex": 2,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 6:15 = 5:45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9543425c-6576-58a4-856e-bf7d13a2c8ec",
       "tags": [
@@ -9040,7 +9040,7 @@
       "correctIndex": 1,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 10:15 = 1:45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b85ea261-9985-5e3f-a4f9-6cc8b7fdedc4",
       "tags": [
@@ -9059,7 +9059,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 2:45 = 9:15।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "98fb5de1-587d-5cc7-aaa3-5c272823f971",
       "tags": [
@@ -9078,7 +9078,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 3:15 = 8:45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bde849b1-e14c-531a-8ba8-062150a35622",
       "tags": [
@@ -9097,7 +9097,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 10:00 = 2:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9d563c74-16a7-5bcb-b605-750dd023e4cd",
       "tags": [
@@ -9116,7 +9116,7 @@
       "correctIndex": 1,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 10:45 = 1:15।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0f5cae78-46f2-59da-94aa-13156a34d54e",
       "tags": [
@@ -9135,7 +9135,7 @@
       "correctIndex": 3,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 3:45 = 8:15।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bc7009ed-b135-5b8d-8e4c-4b9d5e0b1eb9",
       "tags": [
@@ -9154,7 +9154,7 @@
       "correctIndex": 1,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 3:30 = 8:30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e9c66e29-438e-58b1-b604-9f818444efb0",
       "tags": [
@@ -9173,7 +9173,7 @@
       "correctIndex": 1,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 7:15 = 4:45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "56d62a68-3d6f-5497-993d-b062eaee4666",
       "tags": [
@@ -9192,7 +9192,7 @@
       "correctIndex": 3,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 1:30 = 10:30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3dfa64fb-4396-5fb1-a5bf-60da457d8958",
       "tags": [
@@ -9211,7 +9211,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 5:00 = 7:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c2594b3a-9187-584b-9099-aeccd79c2c50",
       "tags": [
@@ -9230,7 +9230,7 @@
       "correctIndex": 1,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 11:15 = 12:45।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "553bca6c-d2fa-5c0c-a69f-834bd53aeb31",
       "tags": [
@@ -9249,7 +9249,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 7:30 = 4:30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6bbf6ab5-ebd9-5a4e-a378-a649f84999cc",
       "tags": [
@@ -9268,7 +9268,7 @@
       "correctIndex": 2,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 3:00 = 9:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2e7e3be4-8e46-57e8-bbe6-c157e0162948",
       "tags": [
@@ -9287,7 +9287,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 12:00 = 12:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "35efe220-da49-5f62-916a-16efcdefd2f1",
       "tags": [
@@ -9306,7 +9306,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 7:00 = 5:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f089b509-0231-57d3-bce2-423989356014",
       "tags": [
@@ -9325,7 +9325,7 @@
       "correctIndex": 2,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 11:45 = 12:15।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d1788eff-78a0-5ed7-bc31-c7368e952900",
       "tags": [
@@ -9344,7 +9344,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 8:30 = 3:30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b72a61aa-7d1b-5f43-bc82-f3c8a0183d29",
       "tags": [
@@ -9363,7 +9363,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 11:60 - 6:30 = 5:30।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "14b2a5ab-3fec-59a8-8858-a13c5e4459bb",
       "tags": [
@@ -9382,7 +9382,7 @@
       "correctIndex": 0,
       "explanation": "दर्पण प्रतिबिंब: 12:00 - 4:00 = 8:00।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b9afec8e-6448-5318-b32b-12c79d70d647",
       "tags": [
@@ -9401,7 +9401,7 @@
       "correctIndex": 2,
       "explanation": "सेब, आम, केला सभी फल हैं जबकि 'आलू' फल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1947e85e-3c31-5390-9a6d-1d1aaf503e0d",
       "tags": [
@@ -9420,7 +9420,7 @@
       "correctIndex": 0,
       "explanation": "गुलाब, कमल, चमेली सभी फूल हैं जबकि 'केला' फूल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7796db52-af37-5f12-8474-033140a2d31a",
       "tags": [
@@ -9439,7 +9439,7 @@
       "correctIndex": 1,
       "explanation": "कुर्सी, मेज, पलंग सभी फर्नीचर हैं जबकि 'किताब' फर्नीचर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3f269467-eb8f-5ba4-ac67-6aed1cc77578",
       "tags": [
@@ -9458,7 +9458,7 @@
       "correctIndex": 3,
       "explanation": "कुत्ता, बिल्ली, गाय सभी जानवर हैं जबकि 'तोता' जानवर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3e391f28-79c0-5621-a342-98bea814c0c1",
       "tags": [
@@ -9477,7 +9477,7 @@
       "correctIndex": 0,
       "explanation": "तोता, कौआ, चील सभी पक्षी हैं जबकि 'कुत्ता' पक्षी नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4e3c87e1-f3e4-59f8-a7a1-f8e5ec153798",
       "tags": [
@@ -9496,7 +9496,7 @@
       "correctIndex": 1,
       "explanation": "हिंदी, अंग्रेजी, उर्दू सभी भाषा हैं जबकि 'भारत' भाषा नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "86557d8e-1557-5204-9b7d-8d8fba588fa7",
       "tags": [
@@ -9515,7 +9515,7 @@
       "correctIndex": 0,
       "explanation": "भारत, पाकिस्तान, चीन सभी देश हैं जबकि 'कोलकाता' देश नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ef7576b2-c48f-532c-8c4c-0a9a117de904",
       "tags": [
@@ -9534,7 +9534,7 @@
       "correctIndex": 2,
       "explanation": "दिल्ली, मुंबई, कोलकाता सभी शहर हैं जबकि 'भारत' शहर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "33a2e160-3f36-50b4-976b-ee96d74e01bb",
       "tags": [
@@ -9553,7 +9553,7 @@
       "correctIndex": 0,
       "explanation": "सेब, आम, केला सभी फल हैं जबकि 'प्याज' फल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "90a85be3-3813-5b43-95b8-c6e5de96c262",
       "tags": [
@@ -9572,7 +9572,7 @@
       "correctIndex": 2,
       "explanation": "गुलाब, कमल, चमेली सभी फूल हैं जबकि 'सेब' फूल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3eb7c053-704b-5889-b6c9-18c8fa7fc7d7",
       "tags": [
@@ -9591,7 +9591,7 @@
       "correctIndex": 3,
       "explanation": "कुर्सी, मेज, पलंग सभी फर्नीचर हैं जबकि 'किताब' फर्नीचर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "126b62df-c3b5-5c6a-936d-2beaf95ab62b",
       "tags": [
@@ -9610,7 +9610,7 @@
       "correctIndex": 2,
       "explanation": "कुत्ता, बिल्ली, गाय सभी जानवर हैं जबकि 'तोता' जानवर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "1f6f79af-4e61-5655-a589-771b463080e5",
       "tags": [
@@ -9629,7 +9629,7 @@
       "correctIndex": 2,
       "explanation": "तोता, कौआ, चील सभी पक्षी हैं जबकि 'गाय' पक्षी नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5c4731ae-8d91-5f40-9133-d19be3711d67",
       "tags": [
@@ -9648,7 +9648,7 @@
       "correctIndex": 1,
       "explanation": "हिंदी, अंग्रेजी, उर्दू सभी भाषा हैं जबकि 'भारत' भाषा नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e5c5b602-222a-5f85-8073-0fbcce7fa2c3",
       "tags": [
@@ -9667,7 +9667,7 @@
       "correctIndex": 0,
       "explanation": "भारत, पाकिस्तान, चीन सभी देश हैं जबकि 'मुंबई' देश नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "59b82240-c57c-5662-8035-875e237ad2f3",
       "tags": [
@@ -9686,7 +9686,7 @@
       "correctIndex": 0,
       "explanation": "दिल्ली, मुंबई, कोलकाता सभी शहर हैं जबकि 'जापान' शहर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7db44cd0-9d84-58a1-9fdf-6dec7add11e6",
       "tags": [
@@ -9705,7 +9705,7 @@
       "correctIndex": 0,
       "explanation": "सेब, आम, केला सभी फल हैं जबकि 'आलू' फल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "07c67bfb-6e83-556a-b465-6bb8da11ab8e",
       "tags": [
@@ -9724,7 +9724,7 @@
       "correctIndex": 0,
       "explanation": "गुलाब, कमल, चमेली सभी फूल हैं जबकि 'सेब' फूल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7a1d817b-c8c7-5a7b-ab7e-30eb584b61b8",
       "tags": [
@@ -9743,7 +9743,7 @@
       "correctIndex": 0,
       "explanation": "कुर्सी, मेज, पलंग सभी फर्नीचर हैं जबकि 'किताब' फर्नीचर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a022c5fa-73be-5fef-8eb8-88b1164e0127",
       "tags": [
@@ -9762,7 +9762,7 @@
       "correctIndex": 0,
       "explanation": "कुत्ता, बिल्ली, गाय सभी जानवर हैं जबकि 'तोता' जानवर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "44d62b37-6b8b-5a6e-8f8d-53dcc5ec5364",
       "tags": [
@@ -9781,7 +9781,7 @@
       "correctIndex": 2,
       "explanation": "तोता, कौआ, चील सभी पक्षी हैं जबकि 'बिल्ली' पक्षी नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c8a21ad9-d383-5a53-b125-dfb398667db7",
       "tags": [
@@ -9800,7 +9800,7 @@
       "correctIndex": 3,
       "explanation": "हिंदी, अंग्रेजी, उर्दू सभी भाषा हैं जबकि 'भारत' भाषा नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "39fc5faf-805c-5fbd-9466-4df24fcfb309",
       "tags": [
@@ -9819,7 +9819,7 @@
       "correctIndex": 3,
       "explanation": "भारत, पाकिस्तान, चीन सभी देश हैं जबकि 'कोलकाता' देश नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a95e48a7-e11c-508f-aa97-63c6ce650b07",
       "tags": [
@@ -9838,7 +9838,7 @@
       "correctIndex": 1,
       "explanation": "दिल्ली, मुंबई, कोलकाता सभी शहर हैं जबकि 'चीन' शहर नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9babf254-c4ab-55c9-a19f-6dede82d153f",
       "tags": [
@@ -9857,7 +9857,7 @@
       "correctIndex": 1,
       "explanation": "सेब, आम, केला सभी फल हैं जबकि 'गाजर' फल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fea9177a-1510-560a-b234-27c9c9f2d0f5",
       "tags": [
@@ -9876,7 +9876,7 @@
       "correctIndex": 1,
       "explanation": "गुलाब, कमल, चमेली सभी फूल हैं जबकि 'केला' फूल नहीं है।",
       "subCategory": "तर्कशक्ति",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f8e73a79-3cf4-56be-8290-94c1fc7102aa",
       "tags": [
