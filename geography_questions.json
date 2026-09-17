@@ -51,7 +51,7 @@
       "subCategory": "जलवायु",
       "questionType": "mcq",
       "uuid": "7bc3478c-84b0-5c6e-94f3-20451a8f5c5d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "question": "निम्नलिखित कथन-कारण की जाँच कीजिए:\n\nकथन (Assertion): हिमालय पर्वत श्रृंखला का निर्माण प्लेट विवर्तनिकी के कारण हुआ है।\nकारण (Reason): भारतीय प्लेट और यूरेशियन प्लेट के अभिसरण से हिमालय का उद्भव हुआ।",
+      "question": "निम्नलिखित कथन-कारण की जाँच कीजिए:",
       "options": [
         "कथन और कारण दोनों सत्य हैं तथा कारण, कथन की सही व्याख्या है",
         "कथन और कारण दोनों सत्य हैं परन्तु कारण, कथन की सही व्याख्या नहीं है",
@@ -108,7 +108,7 @@
       "subCategory": "भू-आकृतिक प्रक्रियाएँ",
       "questionType": "mcq",
       "uuid": "d5e523bd-8d55-599d-89cb-4c42f446660c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -127,7 +127,7 @@
       "subCategory": "उत्तराखंड का भूगोल",
       "questionType": "mcq",
       "uuid": "8a465238-c748-5e71-9ca3-46ad429a9e03",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -241,7 +241,7 @@
       "subCategory": "हिमालय - स्थलाकृतियाँ",
       "questionType": "mcq",
       "uuid": "9d0105b8-2e88-591c-b9aa-085d64de45a1",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -336,7 +336,7 @@
       "subCategory": "हिमालय - श्रेणियाँ एवं निर्माण",
       "questionType": "mcq",
       "uuid": "3d665312-9123-56ff-b21b-0d0bee1d13d1",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -393,7 +393,7 @@
       "subCategory": "हिमालय - संरचनात्मक विशेषताएँ",
       "questionType": "mcq",
       "uuid": "a06b815c-22b0-5680-9006-4040a7fab65f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -545,7 +545,7 @@
       "subCategory": "हिमालय - प्रमुख दर्रे",
       "questionType": "mcq",
       "uuid": "3bd799a1-b9bf-510d-85a8-9569f816744e",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -621,7 +621,7 @@
       "subCategory": "हिमालय - भौतिक विशेषताएँ",
       "questionType": "mcq",
       "uuid": "841598a4-570a-5867-a017-29f2ed955959",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -678,7 +678,7 @@
       "subCategory": "दक्षिण भारत के घाट - पश्चिमी घाट की चोटियाँ",
       "questionType": "mcq",
       "uuid": "9105b979-0441-5f4a-bfa4-699cdafb9d15",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -697,7 +697,7 @@
       "subCategory": "दक्षिण भारत के घाट - तुलनात्मक विशेषताएँ",
       "questionType": "mcq",
       "uuid": "0c755795-5192-585a-9360-3e31392f3cab",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -868,7 +868,7 @@
       "subCategory": "दक्षिण भारत के घाट - तुलनात्मक विशेषताएँ",
       "questionType": "mcq",
       "uuid": "79a8d2b1-3de4-5ecc-bff8-c6501f7ee002",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -963,7 +963,7 @@
       "subCategory": "दक्षिण भारत के घाट - नदियों की प्रकृति",
       "questionType": "mcq",
       "uuid": "6684b9fd-ee25-517e-bb81-ca1c924da6cd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1001,7 +1001,7 @@
       "subCategory": "दक्षिण भारत के घाट - पूर्वी घाट का क्रम",
       "questionType": "mcq",
       "uuid": "b42d045e-fcb8-5518-83bd-9eab397e53a2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1020,7 +1020,7 @@
       "subCategory": "दक्षिण भारत के घाट - जलवायु एवं वृष्टि छाया प्रदेश",
       "questionType": "mcq",
       "uuid": "3edd8f0e-fd17-5439-9e73-72c442ea8764",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1077,7 +1077,7 @@
       "subCategory": "दक्षिण भारत के घाट - जैव विविधता हॉटस्पॉट",
       "questionType": "mcq",
       "uuid": "1c58a439-dee7-5a51-b34d-2bd6fe01e02a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1113,7 +1113,7 @@
       "correctIndex": 0,
       "explanation": "गंगा भारत की सबसे लंबी नदी है।",
       "subCategory": "नदियाँ",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "cf70147c-bfec-5f2e-b067-ccda4e11fb1c",
       "tags": [
@@ -1132,7 +1132,7 @@
       "correctIndex": 0,
       "explanation": "भारत में कुल 28 राज्य हैं।",
       "subCategory": "राजनीतिक भूगोल",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7b84ac49-9540-5c54-a6e8-2b4a1ad64732",
       "tags": [
@@ -1151,7 +1151,7 @@
       "correctIndex": 0,
       "explanation": "माउंट एवरेस्ट हिमालय की सबसे ऊंची चोटी है।",
       "subCategory": "पर्वत",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "47ab56ff-d7da-5b89-941d-9e0bfca79091",
       "tags": [
@@ -1170,7 +1170,7 @@
       "correctIndex": 0,
       "explanation": "राजस्थान भारत का सबसे बड़ा राज्य है।",
       "subCategory": "राज्य",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "6a90e6b0-d13e-545d-9b3b-703822ff63e9",
       "tags": [
@@ -1189,7 +1189,7 @@
       "correctIndex": 0,
       "explanation": "भारत की मानक समय रेखा 82.5° पूर्वी देशांतर है।",
       "subCategory": "समय",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f64278ff-ef16-5df0-80ed-ab5d7f90750a",
       "tags": [
@@ -1210,7 +1210,7 @@
       "questionType": "mcq",
       "subCategory": "Physical Geography",
       "uuid": "0aad1b0d-c0d7-53c3-8037-3306e72d6d49",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1229,7 +1229,7 @@
       "questionType": "mcq",
       "subCategory": "Indian Geography",
       "uuid": "c85a69f3-e743-536b-88b7-b6316cda7855",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1248,7 +1248,7 @@
       "questionType": "mcq",
       "subCategory": "Indian Drainage System",
       "uuid": "bdd3e0dd-20f6-53d3-a658-b662a9859ca0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1267,7 +1267,7 @@
       "questionType": "mcq",
       "subCategory": "Uttarakhand Geography",
       "uuid": "255904e6-59f1-5315-a532-76547dce792f",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1286,7 +1286,7 @@
       "questionType": "mcq",
       "subCategory": "Population Geography",
       "uuid": "731a9e45-f6cb-5bdb-8e50-3b61cf4de8cd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1305,7 +1305,7 @@
       "questionType": "mcq",
       "subCategory": "Agricultural Geography",
       "uuid": "af3e0a68-686c-5839-bd48-dbb67d522804",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1343,7 +1343,7 @@
       "questionType": "mcq",
       "subCategory": "Uttarakhand Geography",
       "uuid": "a37c05f1-ab1c-5eef-9b2d-af714f70a039",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1362,7 +1362,7 @@
       "questionType": "mcq",
       "subCategory": "Environmental Geography",
       "uuid": "2c22e0f3-443e-52eb-ade3-b1008cc68925",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1381,7 +1381,7 @@
       "questionType": "mcq",
       "subCategory": "Physical Geography",
       "uuid": "093f4259-7040-5342-b538-d73896c88236",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1400,7 +1400,7 @@
       "questionType": "mcq",
       "subCategory": "Climate Geography",
       "uuid": "274e103a-6cf4-5338-b816-dcb3bb7a41ec",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1419,7 +1419,7 @@
       "questionType": "mcq",
       "subCategory": "Population Geography",
       "uuid": "ca8a7a75-a0cd-5e04-9cbf-e872a5bd6135",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1438,7 +1438,7 @@
       "questionType": "mcq",
       "subCategory": "Astronomy",
       "uuid": "15fd9db6-f7cb-5af6-8119-b1a1394d6844",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1457,7 +1457,7 @@
       "questionType": "mcq",
       "subCategory": "Earth's Interior",
       "uuid": "817cf367-72ac-5d1c-b1fe-47ba204b9090",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1476,7 +1476,7 @@
       "questionType": "mcq",
       "subCategory": "Climate",
       "uuid": "5cc8cd29-4309-5af1-ad44-eb5cc3e30976",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1514,7 +1514,7 @@
       "questionType": "mcq",
       "subCategory": "Soil Geography",
       "uuid": "5901d80c-6ded-52ca-b679-55827eb11ab3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1533,7 +1533,7 @@
       "questionType": "mcq",
       "subCategory": "Population Geography",
       "uuid": "0d567b52-de31-5dc0-b20b-a4ba2859a549",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1552,7 +1552,7 @@
       "questionType": "mcq",
       "subCategory": "Uttarakhand Geography",
       "uuid": "428fa79a-1627-5c2a-bcdf-36753dd6f3bc",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1571,7 +1571,7 @@
       "questionType": "mcq",
       "subCategory": "Agricultural Geography",
       "uuid": "ab26be0e-6c23-584b-bbf3-7aed93b23596",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1590,7 +1590,7 @@
       "questionType": "mcq",
       "subCategory": "Mineral Resources",
       "uuid": "e3d35248-1dbf-510d-9d19-c48f2c0ae212",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1628,7 +1628,7 @@
       "questionType": "mcq",
       "subCategory": "Social Geography",
       "uuid": "82ea4e9c-113e-5f00-a0d8-d891be5a5937",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1647,7 +1647,7 @@
       "questionType": "mcq",
       "subCategory": "Urban Geography",
       "uuid": "8d73de29-be56-58e6-a59d-c167e5851b10",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1685,7 +1685,7 @@
       "questionType": "mcq",
       "subCategory": "Environmental Conservation",
       "uuid": "84d10fc1-ae9c-58e1-ae89-89e76c0e98a8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
@@ -1704,7 +1704,7 @@
       "questionType": "mcq",
       "subCategory": "Water Resource Management",
       "uuid": "49e147c8-6d24-5d1f-b901-989597b4f057",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography"
