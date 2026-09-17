@@ -1,23 +1,23 @@
 {
-  "version": "4.3.0",
-  "last_sync": "2026-09-17T11:45:00Z",
+  "version": "4.4.0",
+  "last_sync": "2026-09-17T11:55:00Z",
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 10088,
+    "total_questions": 9965,
     "files": {
-      "agriculture_questions.json": 173,
-      "computer_questions.json": 252,
-      "current_affairs_questions.json": 430,
-      "economics_questions.json": 116,
+      "agriculture_questions.json": 172,
+      "computer_questions.json": 251,
+      "current_affairs_questions.json": 400,
+      "economics_questions.json": 96,
       "environment_questions.json": 83,
-      "geography_questions.json": 111,
-      "hindi_questions.json": 392,
+      "geography_questions.json": 93,
+      "hindi_questions.json": 390,
       "history_questions.json": 1083,
-      "math_questions.json": 500,
+      "math_questions.json": 499,
       "polity_questions.json": 381,
       "reasoning_questions.json": 500,
-      "science_questions.json": 467,
+      "science_questions.json": 417,
       "uttarakhand_questions.json": 5600
     }
   }

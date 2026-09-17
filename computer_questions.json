@@ -5004,25 +5004,6 @@
       ]
     },
     {
-      "question": "MS Excel में किसी सेल में वर्तमान दिनांक (Current Date) प्रविष्ट करने की शॉर्टकट कुंजी क्या है?",
-      "options": [
-        "Ctrl + ;",
-        "Ctrl + Shift + :",
-        "Ctrl + D",
-        "Alt + Shift + D"
-      ],
-      "correctIndex": 0,
-      "explanation": "MS Excel में 'Ctrl + ;' (सेमीकोलन) दबाने से चयनित सेल में वर्तमान दिनांक स्वतः प्रविष्ट हो जाती है, जबकि 'Ctrl + Shift + :' से वर्तमान समय दर्ज होता है।",
-      "subCategory": "MS Office",
-      "questionType": "mcq",
-      "uuid": "6deb2510-f93e-42c9-95fa-f974333f29f3",
-      "difficulty": "medium",
-      "tags": [
-        "UK-EXAM-PRO",
-        "Computer"
-      ]
-    },
-    {
       "question": "इंटरनेट पर सुरक्षित डेटा संचरण के लिए प्रयुक्त HTTPS प्रोटोकॉल में 'S' का क्या अर्थ है?",
       "options": [
         "Standard",
