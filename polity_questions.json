@@ -51,7 +51,7 @@
       "subCategory": "भारतीय राजव्यवस्था - राष्ट्रपति",
       "questionType": "mcq",
       "uuid": "0be63be0-0953-5205-aff8-81e6d5c7c555",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -70,7 +70,7 @@
       "subCategory": "भारतीय राजव्यवस्था - केंद्र-राज्य विधायी संबंध",
       "questionType": "mcq",
       "uuid": "95b62d29-1f6f-5de7-8d35-945ad6a08fa6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -127,7 +127,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्यपाल की शक्तियाँ",
       "questionType": "mcq",
       "uuid": "d7219232-7b1a-5b85-b049-2110a3c33fff",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -146,7 +146,7 @@
       "subCategory": "भारतीय राजव्यवस्था - पंचायती राज",
       "questionType": "mcq",
       "uuid": "8930e0e4-8fff-52f3-8f49-2443478ea02d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -241,7 +241,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "4bd2f067-c5a8-5ee5-bc79-fa1581ae555b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -260,7 +260,7 @@
       "subCategory": "भारतीय राजव्यवस्था - न्यायपालिका एवं न्यायिक सक्रियता",
       "questionType": "mcq",
       "uuid": "20d07e4c-d1ff-5059-b1cb-403cad98e4d4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -279,7 +279,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - विधान एवं सामाजिक न्याय",
       "questionType": "mcq",
       "uuid": "184d1078-417a-5a3b-938e-338cde8248d3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -298,7 +298,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संवैधानिक निकाय",
       "questionType": "mcq",
       "uuid": "c9292c6a-4d1f-563a-8eeb-1d3421e3fbec",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -317,7 +317,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य योजनाएं एवं शिक्षा",
       "questionType": "mcq",
       "uuid": "7adf41f6-d14b-5002-b465-5d2b358e3b3c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -374,7 +374,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - सांविधिक निकाय",
       "questionType": "mcq",
       "uuid": "69dd974f-c990-595f-b3cf-21cb83eb9649",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -431,7 +431,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - भूमि सुधार एवं कृषि नीति",
       "questionType": "mcq",
       "uuid": "cceed980-528f-5c2b-86ce-db568a9a6f16",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -450,7 +450,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संसद एवं विधान प्रक्रिया",
       "questionType": "mcq",
       "uuid": "401c61c0-8912-5fba-b59c-2a88feffee39",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -488,7 +488,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य योजनाएं एवं आर्थिक विकास",
       "questionType": "mcq",
       "uuid": "3abe283e-9812-5331-89fc-505a2303a3b7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -507,7 +507,7 @@
       "subCategory": "भारतीय राजव्यवस्था - मौलिक अधिकार",
       "questionType": "mcq",
       "uuid": "644e1662-3429-5140-b85f-68b40d4aa180",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -564,7 +564,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - शिक्षा नीति एवं संवैधानिक मूल्य",
       "questionType": "mcq",
       "uuid": "f1d842ac-0e3d-50b8-99cc-34f021fd7183",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -602,7 +602,7 @@
       "subCategory": "भारतीय राजव्यवस्था - राजभाषा एवं अनुसूचियां",
       "questionType": "mcq",
       "uuid": "6e9e10fe-b254-5496-95b3-737069b9cce1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -659,7 +659,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य की संरचना एवं विधान",
       "questionType": "mcq",
       "uuid": "9005d7f2-9de6-5f44-b2be-f41dd89e2025",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -678,7 +678,7 @@
       "subCategory": "भारतीय राजव्यवस्था - चुनाव प्रक्रिया",
       "questionType": "mcq",
       "uuid": "49bbf143-2379-5541-8761-34399721cd58",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -697,7 +697,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संवैधानिक संशोधन एवं सहकारी समितियाँ",
       "questionType": "mcq",
       "uuid": "58d77671-36b3-58ed-8a90-bdae782418d6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -716,7 +716,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - न्यायपालिका",
       "questionType": "mcq",
       "uuid": "2d6cad24-d08c-547b-baee-4e4818c18b6a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -735,7 +735,7 @@
       "subCategory": "भारतीय राजव्यवस्था - आपातकालीन प्रावधान",
       "questionType": "mcq",
       "uuid": "f7b7705a-6b16-5761-8b45-e98a171e74a6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -792,7 +792,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य योजनाएं एवं पर्यटन",
       "questionType": "mcq",
       "uuid": "68e69de6-4115-5a6e-8dc1-c772a6d8e86a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -887,7 +887,7 @@
       "subCategory": "भारतीय राजव्यवस्था - आपातकालीन प्रावधान",
       "questionType": "mcq",
       "uuid": "85ccc3f2-8381-50e9-a4ff-ff8d8ad6810f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -963,7 +963,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संविधान की संरचना",
       "questionType": "mcq",
       "uuid": "72e0b08b-1678-5216-9a7c-45fb57fb32a8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -982,7 +982,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन एवं आरक्षण",
       "questionType": "mcq",
       "uuid": "1bff48f2-11d3-50b9-89d1-5d481e292247",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1001,7 +1001,7 @@
       "subCategory": "भारतीय राजव्यवस्था - चुनाव सुधार एवं संशोधन",
       "questionType": "mcq",
       "uuid": "a8ee090b-ba97-54c8-89c3-6be8cecc7864",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1058,7 +1058,7 @@
       "subCategory": "भारतीय राजव्यवस्था - राज्य विधानमंडल",
       "questionType": "mcq",
       "uuid": "1c950a33-5d21-5bb1-a3c2-5d1a3e957808",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1077,7 +1077,7 @@
       "subCategory": "भारतीय राजव्यवस्था - न्यायपालिका",
       "questionType": "mcq",
       "uuid": "767ba43a-89bf-5b6d-9e53-cdd6951b90b2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1134,7 +1134,7 @@
       "subCategory": "भारतीय राजव्यवस्था - सांविधिक अधिकार एवं निकाय",
       "questionType": "mcq",
       "uuid": "3402b78a-b281-5198-b080-c258ff311f84",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1191,7 +1191,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य सूची के विषय",
       "questionType": "mcq",
       "uuid": "a3f73733-a850-5cfb-bf14-4980fd5d25cf",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1248,7 +1248,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन एवं नियोजन",
       "questionType": "mcq",
       "uuid": "3e142577-0893-5d39-87f8-59c442291d0e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1343,7 +1343,7 @@
       "subCategory": "भारतीय राजव्यवस्था - राष्ट्रपति",
       "questionType": "mcq",
       "uuid": "c3fbec8d-6c9d-5994-a56f-99defa666244",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1362,7 +1362,7 @@
       "subCategory": "भारतीय राजव्यवस्था - सांविधिक निकाय",
       "questionType": "mcq",
       "uuid": "e79af270-0e22-57b0-9a3f-7ce6299273a4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1476,7 +1476,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संसद",
       "questionType": "mcq",
       "uuid": "9e0ae4cd-eb4a-56d9-b9c1-511476e09e80",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1609,7 +1609,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - सांविधिक निकाय",
       "questionType": "mcq",
       "uuid": "82ec5d85-de6c-5a07-998a-0c690611df43",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1742,7 +1742,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संविधान के स्रोत",
       "questionType": "mcq",
       "uuid": "2f45586a-3121-58ee-bd42-6e754793159f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1837,7 +1837,7 @@
       "subCategory": "भारतीय राजव्यवस्था - केंद्र-राज्य विधायी संबंध",
       "questionType": "mcq",
       "uuid": "36b23c0e-2d66-590f-98ed-aadb93a9bb39",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1894,7 +1894,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संवैधानिक निकाय एवं संशोधन",
       "questionType": "mcq",
       "uuid": "13231924-59a7-59a8-81ee-df60a9de6163",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1970,7 +1970,7 @@
       "subCategory": "भारतीय राजव्यवस्था - चुनाव सुधार",
       "questionType": "mcq",
       "uuid": "ef3da998-b37c-5308-a921-f3ff2c53cdf3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -1989,7 +1989,7 @@
       "subCategory": "भारतीय राजव्यवस्था - मौलिक अधिकार",
       "questionType": "mcq",
       "uuid": "a90adc29-0d0f-543a-ac5a-c21360bffa5b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2027,7 +2027,7 @@
       "subCategory": "भारतीय राजव्यवस्था - राज्यपाल",
       "questionType": "mcq",
       "uuid": "5a89ee95-5d38-5b7c-84d8-7fe499af6066",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2103,7 +2103,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "b44f1263-58a2-5646-b6de-ccca4de8a77c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2160,7 +2160,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संवैधानिक संशोधन",
       "questionType": "mcq",
       "uuid": "ab5e82b5-26bf-55b8-a792-6a7b5434d200",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2331,7 +2331,7 @@
       "subCategory": "भारतीय राजव्यवस्था - चुनाव",
       "questionType": "mcq",
       "uuid": "3f88afca-8122-5f59-b7ce-8a2732f6317d",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2369,7 +2369,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्यपाल",
       "questionType": "mcq",
       "uuid": "d892c703-3aa8-585a-89ab-e4a2dd77a4c7",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2407,7 +2407,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य योजनाएं",
       "questionType": "mcq",
       "uuid": "90ab409b-6852-5e4a-8335-b3632e24a406",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2578,7 +2578,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य गठन एवं संरचना",
       "questionType": "mcq",
       "uuid": "6b8c2633-115b-5a03-8638-5220baa06aa4",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2616,7 +2616,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संवैधानिक संशोधन",
       "questionType": "mcq",
       "uuid": "636477a1-b0e2-5ddd-ba68-c12f62037fbb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2768,7 +2768,7 @@
       "subCategory": "भारतीय राजव्यवस्था - संसद एवं विधान",
       "questionType": "mcq",
       "uuid": "93e48927-9737-5045-bc0d-4e50d486d412",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2806,7 +2806,7 @@
       "subCategory": "भारतीय राजव्यवस्था - न्यायपालिका",
       "questionType": "mcq",
       "uuid": "68555865-a0c3-5835-b939-10ddf1934b63",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2882,7 +2882,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य गठन",
       "questionType": "mcq",
       "uuid": "49439b43-16e7-51a1-930d-66cb72a2fb62",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -2996,7 +2996,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य गठन",
       "questionType": "mcq",
       "uuid": "7358fbc2-3ea6-5e90-8dba-390468fcdb40",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3015,7 +3015,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - विधानमंडल",
       "questionType": "mcq",
       "uuid": "d289ad09-7fe3-525a-8451-579552c4402b",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3091,7 +3091,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका",
       "questionType": "mcq",
       "uuid": "7efd9011-6a77-5901-bd17-376e53c17f88",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3110,7 +3110,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका",
       "questionType": "mcq",
       "uuid": "b35ccd66-ceae-5c5f-af33-08c2577ad22b",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3148,7 +3148,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका",
       "questionType": "mcq",
       "uuid": "d6cb556e-2147-5265-9248-f6218a3805bb",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3224,7 +3224,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - संसदीय प्रतिनिधित्व",
       "questionType": "mcq",
       "uuid": "17092874-afd9-5cdc-bda1-49de40c403dc",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3243,7 +3243,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - संसदीय प्रतिनिधित्व",
       "questionType": "mcq",
       "uuid": "7dcb3e43-1270-5a80-a961-dd993ddc9913",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3262,7 +3262,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - सामान्य",
       "questionType": "mcq",
       "uuid": "613b7810-a50e-50e9-a0f0-4c82efbc8eae",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3300,7 +3300,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - प्रशासनिक संरचना",
       "questionType": "mcq",
       "uuid": "aff38a8f-1d24-57c4-b864-4d7713781fb9",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3319,7 +3319,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - प्रशासनिक संरचना",
       "questionType": "mcq",
       "uuid": "a6a48c3b-c670-5462-8127-63c5cbc983e0",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3338,7 +3338,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - प्रशासनिक संरचना",
       "questionType": "mcq",
       "uuid": "85adfd62-3b7a-5c9d-bf17-bf3e3e5b0d47",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3357,7 +3357,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "23c5cf0f-4776-5ee0-a168-152764e97aa0",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3376,7 +3376,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "7a3fea1c-82f5-56b0-9057-f6ef9c4d5a41",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3395,7 +3395,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "6b253f17-943a-5cf0-bdf5-c1ed802f23fd",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3452,7 +3452,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - संवैधानिक निकाय",
       "questionType": "mcq",
       "uuid": "588ea57e-8fdc-5362-8c36-1886ed305e42",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3490,7 +3490,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - विधानमंडल",
       "questionType": "mcq",
       "uuid": "c37f3c1e-67b6-5fa3-a36b-b49f52f5a684",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3509,7 +3509,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - विधानमंडल",
       "questionType": "mcq",
       "uuid": "c3f0166f-ebf3-5c46-8c25-55231c2ba0ae",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3604,7 +3604,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - सामान्य",
       "questionType": "mcq",
       "uuid": "9e2b8d32-eaca-5f1d-b6ca-8ab543e84e0d",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3699,7 +3699,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "773650f7-811c-51c8-b931-135d83618ff0",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3718,7 +3718,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - सामान्य",
       "questionType": "mcq",
       "uuid": "4cf749f1-2a84-510e-a1e5-bdd3e4d685e0",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3775,7 +3775,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य गठन",
       "questionType": "mcq",
       "uuid": "10b5757d-4eea-5b62-9da5-c2d9e7e4b5e4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3813,7 +3813,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका",
       "questionType": "mcq",
       "uuid": "edcd329a-c8fc-57a7-8bdb-5d989e9b0d88",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3832,7 +3832,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका",
       "questionType": "mcq",
       "uuid": "330c7dce-edb4-5873-81ee-76d3aa09c0df",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3889,7 +3889,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य गठन",
       "questionType": "mcq",
       "uuid": "379dd0dc-d8dd-59a1-b6c7-958acffb32c0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -3984,7 +3984,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - राज्य गठन",
       "questionType": "mcq",
       "uuid": "9dc27269-e064-543b-8ef0-11f9e12d0178",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4060,7 +4060,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका",
       "questionType": "mcq",
       "uuid": "7ef7a6d2-9071-55da-998a-d946af6dcfb6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4155,7 +4155,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - वित्त",
       "questionType": "mcq",
       "uuid": "0d1acf22-938b-54d8-9fab-d4d3ca96d83f",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4174,7 +4174,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - विधानमंडल",
       "questionType": "mcq",
       "uuid": "e4969032-2ac7-5257-952d-d8ef05e8ea76",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4326,7 +4326,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - संवैधानिक ढाँचा",
       "questionType": "mcq",
       "uuid": "1c492648-5431-59e9-87c0-f6855a330955",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4459,7 +4459,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "372b0ca5-a66b-5e98-acaa-f978ae693aa5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4611,7 +4611,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - आयोग",
       "questionType": "mcq",
       "uuid": "c8d09bab-9587-5d8e-99cd-1e1fc328763a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4630,7 +4630,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - स्थानीय स्वशासन",
       "questionType": "mcq",
       "uuid": "c9d7ff02-756d-5018-a223-cfdecc0126aa",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4649,7 +4649,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - संसदीय प्रतिनिधित्व",
       "questionType": "mcq",
       "uuid": "e93e7802-2970-5193-9915-eed260e01440",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4763,7 +4763,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - प्रशासन",
       "questionType": "mcq",
       "uuid": "ad917de1-b7fe-5223-ae8b-80bc396407a4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4839,7 +4839,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - वित्त",
       "questionType": "mcq",
       "uuid": "89cd6756-ad54-50ef-bc5a-b647746dc66c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4896,7 +4896,7 @@
       "subCategory": "उत्तराखंड की राजव्यवस्था - कार्यपालिका/विधानमंडल",
       "questionType": "mcq",
       "uuid": "93b18ada-82c9-5661-831b-91e00d0e0d9c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -4932,7 +4932,7 @@
       "correctIndex": 0,
       "explanation": "भारतीय संविधान का निर्माण संविधान सभा द्वारा किया गया था, जिसका गठन 1946 में हुआ था।",
       "subCategory": "संविधान",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "274ab0e5-7e96-5ff5-a1a5-9c26bebdfe62",
       "tags": [
@@ -4951,7 +4951,7 @@
       "correctIndex": 0,
       "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ, जिसे गणतंत्र दिवस के रूप में मनाया जाता है।",
       "subCategory": "संविधान",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2b64330b-2e3c-5c0f-85bd-ec0c4adeb731",
       "tags": [
@@ -4970,7 +4970,7 @@
       "correctIndex": 0,
       "explanation": "प्रस्तावना में केवल एक बार संशोधन हुआ है, जो 42वें संविधान संशोधन (1976) के द्वारा किया गया।",
       "subCategory": "प्रस्तावना",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "47d4668d-5d40-5c5d-9554-5631a926cd99",
       "tags": [
@@ -4989,7 +4989,7 @@
       "correctIndex": 2,
       "explanation": "सच्चिदानंद सिन्हा संविधान सभा के अस्थायी अध्यक्ष थे, बाद में डॉ. राजेंद्र प्रसाद स्थायी अध्यक्ष बने।",
       "subCategory": "संविधान सभा",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f7423aa1-8ee1-58cf-93ba-2007a8e5ce33",
       "tags": [
@@ -5008,7 +5008,7 @@
       "correctIndex": 0,
       "explanation": "मौलिक अधिकार भारतीय संविधान के भाग III (अनुच्छेद 12-35) में वर्णित हैं।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ed06f7a7-1470-5d68-974e-cba0938421f6",
       "tags": [
@@ -5027,7 +5027,7 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रपति का कार्यकाल 5 वर्ष का होता है, जैसा कि अनुच्छेद 56 में उल्लेखित है।",
       "subCategory": "राष्ट्रपति",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3d903668-e85f-56d3-90de-0969424082ff",
       "tags": [
@@ -5046,7 +5046,7 @@
       "correctIndex": 0,
       "explanation": "उपराष्ट्रपति का निर्वाचन संसद के दोनों सदनों (लोक सभा और राज्य सभा) के सदस्यों द्वारा किया जाता है।",
       "subCategory": "उपराष्ट्रपति",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "cb2ddd37-1fbf-50b7-a1b4-8c977f2aaf52",
       "tags": [
@@ -5065,7 +5065,7 @@
       "correctIndex": 0,
       "explanation": "प्रधानमंत्री की नियुक्ति राष्ट्रपति द्वारा की जाती है, जैसा कि अनुच्छेद 75 में उल्लेखित है।",
       "subCategory": "प्रधानमंत्री",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "90d40024-76ca-5e5e-a2f7-d59e571d4fed",
       "tags": [
@@ -5084,7 +5084,7 @@
       "correctIndex": 1,
       "explanation": "मूल रूप से संविधान में 7 मौलिक अधिकार थे, लेकिन 44वें संशोधन (1978) द्वारा संपत्ति का अधिकार हटा दिया गया।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "352e27d4-81bb-5c11-bbba-cde6a7799ee4",
       "tags": [
@@ -5103,7 +5103,7 @@
       "correctIndex": 0,
       "explanation": "अनुच्छेद 352 राष्ट्रीय आपातकाल की घोषणा से संबंधित है।",
       "subCategory": "आपातकाल",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bb408122-9b93-52e6-8f7a-ada6652e1a5e",
       "tags": [
@@ -5122,7 +5122,7 @@
       "correctIndex": 0,
       "explanation": "मुख्य न्यायाधीश की नियुक्ति राष्ट्रपति द्वारा की जाती है (अनुच्छेद 124)।",
       "subCategory": "न्यायपालिका",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7a4b2bbf-3443-5a91-872c-967436fac182",
       "tags": [
@@ -5141,7 +5141,7 @@
       "correctIndex": 1,
       "explanation": "नीति निदेशक तत्व भाग IV (अनुच्छेद 36-51) में वर्णित हैं।",
       "subCategory": "नीति निदेशक तत्व",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e76badbb-1948-5c10-9e32-5f173072d842",
       "tags": [
@@ -5160,7 +5160,7 @@
       "correctIndex": 0,
       "explanation": "लोक सभा का सामान्य कार्यकाल 5 वर्ष होता है, जैसा कि अनुच्छेद 83 में उल्लेखित है।",
       "subCategory": "संसद",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d3b9849f-2e54-533a-afda-e53202c36b65",
       "tags": [
@@ -5179,7 +5179,7 @@
       "correctIndex": 1,
       "explanation": "राज्य सभा के सदस्यों का कार्यकाल 6 वर्ष का होता है, और यह एक स्थायी सदन है।",
       "subCategory": "संसद",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9d6a2bb1-93de-5c5f-8640-3c68c70957eb",
       "tags": [
@@ -5198,7 +5198,7 @@
       "correctIndex": 0,
       "explanation": "वित्त आयोग का गठन अनुच्छेद 280 के तहत किया जाता है।",
       "subCategory": "वित्त आयोग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "07254193-4704-5687-8ecf-3cfcd5495ef1",
       "tags": [
@@ -5217,7 +5217,7 @@
       "correctIndex": 0,
       "explanation": "CAG की नियुक्ति राष्ट्रपति द्वारा की जाती है (अनुच्छेद 148)।",
       "subCategory": "CAG",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b0ba9e72-6de5-5582-b077-e235e754cd23",
       "tags": [
@@ -5236,7 +5236,7 @@
       "correctIndex": 0,
       "explanation": "संविधान संशोधन की प्रक्रिया अनुच्छेद 368 में वर्णित है।",
       "subCategory": "संविधान संशोधन",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "68362f66-17d4-524a-b7ec-8228178f3ed7",
       "tags": [
@@ -5255,7 +5255,7 @@
       "correctIndex": 1,
       "explanation": "वर्तमान में भारत में 25 उच्च न्यायालय हैं।",
       "subCategory": "न्यायपालिका",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9a5fcdc0-6a03-5082-94f7-d1b6793ef550",
       "tags": [
@@ -5274,7 +5274,7 @@
       "correctIndex": 0,
       "explanation": "73वाँ संशोधन (1992) पंचायती राज व्यवस्था से संबंधित है।",
       "subCategory": "पंचायती राज",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "65dfaf12-41f2-5c03-a40f-a81c28306f81",
       "tags": [
@@ -5293,7 +5293,7 @@
       "correctIndex": 1,
       "explanation": "74वाँ संशोधन (1992) नगरपालिका व्यवस्था से संबंधित है।",
       "subCategory": "नगरपालिका",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4745db28-6ecd-5c10-9b35-26c0d0fea811",
       "tags": [
@@ -5312,7 +5312,7 @@
       "correctIndex": 0,
       "explanation": "नागरिकता से संबंधित प्रावधान अनुच्छेद 5 से 11 में वर्णित हैं।",
       "subCategory": "नागरिकता",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "41c95e24-2d19-58e9-a41e-52a3096a4486",
       "tags": [
@@ -5331,7 +5331,7 @@
       "correctIndex": 1,
       "explanation": "भारतीय संविधान में वर्तमान में 12 अनुसूचियाँ हैं।",
       "subCategory": "अनुसूचियाँ",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f6c5c68e-59bd-5e87-819e-06f4fb2ee8c0",
       "tags": [
@@ -5350,7 +5350,7 @@
       "correctIndex": 0,
       "explanation": "अनुच्छेद 359 राष्ट्रीय आपातकाल के दौरान मौलिक अधिकारों के निलंबन से संबंधित है।",
       "subCategory": "आपातकाल",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2dd03b1d-e3b3-5edc-b665-084286e1c110",
       "tags": [
@@ -5369,7 +5369,7 @@
       "correctIndex": 0,
       "explanation": "सातवीं अनुसूची में संघ, राज्य और समवर्ती सूची के तहत शक्तियों का विभाजन है।",
       "subCategory": "अनुसूचियाँ",
-      "difficulty": "Medium",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "d96a1053-ef00-545c-9db7-46bd652056a5",
       "tags": [
@@ -5388,7 +5388,7 @@
       "correctIndex": 0,
       "explanation": "मूल कर्तव्यों को 42वें संशोधन (1976) द्वारा अनुच्छेद 51A में जोड़ा गया।",
       "subCategory": "मूल कर्तव्य",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8c588f13-66e7-5389-a48a-6784f5881c2b",
       "tags": [
@@ -5407,7 +5407,7 @@
       "correctIndex": 1,
       "explanation": "भारतीय संविधान में 11 मूल कर्तव्य अनुच्छेद 51A में वर्णित हैं।",
       "subCategory": "मूल कर्तव्य",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1c1f392f-439a-5dbb-a6d7-a93afb8279d2",
       "tags": [
@@ -5426,7 +5426,7 @@
       "correctIndex": 0,
       "explanation": "निर्वाचन आयोग का गठन अनुच्छेद 324 के तहत हुआ है।",
       "subCategory": "निर्वाचन आयोग",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a4cb3bd8-0b89-5472-ac01-b67a556cdaea",
       "tags": [
@@ -5445,7 +5445,7 @@
       "correctIndex": 0,
       "explanation": "भारत में मतदान की न्यूनतम आयु 18 वर्ष है (61वाँ संशोधन, 1989)।",
       "subCategory": "निर्वाचन",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9962de9a-3846-5a5e-a065-d848134a6b6a",
       "tags": [
@@ -5464,7 +5464,7 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रपति के पास लोक सभा को भंग करने की शक्ति है, लेकिन राज्य सभा स्थायी सदन है।",
       "subCategory": "संसद",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9de72b8e-679d-5c02-8e84-4b7c440afd0e",
       "tags": [
@@ -5483,7 +5483,7 @@
       "correctIndex": 2,
       "explanation": "अनुच्छेद 330-334 में अनुसूचित जाति और जनजाति के लिए संसद और विधानसभाओं में आरक्षण का प्रावधान है।",
       "subCategory": "आरक्षण",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "85b19e67-814d-5ffa-8164-6a15f6956a61",
       "tags": [
@@ -5502,7 +5502,7 @@
       "correctIndex": 0,
       "explanation": "राजभाषा से संबंधित प्रावधान अनुच्छेद 343 से 351 में वर्णित हैं।",
       "subCategory": "राजभाषा",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ee11ed0b-bbe2-5ab6-ab30-a1a281b0059b",
       "tags": [
@@ -5521,7 +5521,7 @@
       "correctIndex": 0,
       "explanation": "संविधान सभा की पहली बैठक 9 दिसंबर 1946 को हुई थी।",
       "subCategory": "संविधान सभा",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a51b845c-6b7e-51ae-aca9-225d62183f01",
       "tags": [
@@ -5540,7 +5540,7 @@
       "correctIndex": 0,
       "explanation": "सर्वोच्च न्यायालय की स्थापना 26 जनवरी 1950 को हुई थी।",
       "subCategory": "न्यायपालिका",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7dadf77c-4c6f-50b6-9d34-151c44328f3d",
       "tags": [
@@ -5559,7 +5559,7 @@
       "correctIndex": 1,
       "explanation": "लोक सभा की अधिकतम सदस्य संख्या 552 हो सकती है, जिसमें 530 राज्य, 20 केंद्रशासित प्रदेश और 2 नामित सदस्य शामिल हैं।",
       "subCategory": "संसद",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "90823075-27be-5d3e-b223-07bab20e2509",
       "tags": [
@@ -5578,7 +5578,7 @@
       "correctIndex": 1,
       "explanation": "राज्य सभा की अधिकतम सदस्य संख्या 250 हो सकती है, जिसमें 238 निर्वाचित और 12 नामित सदस्य शामिल हैं।",
       "subCategory": "संसद",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "89c69b81-a041-5cb2-8e24-6affffb21ba9",
       "tags": [
@@ -5597,7 +5597,7 @@
       "correctIndex": 0,
       "explanation": "समानता का अधिकार अनुच्छेद 14 से 18 में वर्णित है।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5007c895-9744-5793-a80c-63c4db84fc88",
       "tags": [
@@ -5616,7 +5616,7 @@
       "correctIndex": 1,
       "explanation": "स्वतंत्रता का अधिकार अनुच्छेद 19 से 22 में वर्णित है।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f81326a1-dc1d-5234-87fd-362af8e06599",
       "tags": [
@@ -5635,7 +5635,7 @@
       "correctIndex": 2,
       "explanation": "शोषण के विरुद्ध अधिकार अनुच्छेद 23 और 24 में वर्णित है।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "710a8564-22f6-5e75-ac17-47b6c2c14085",
       "tags": [
@@ -5654,7 +5654,7 @@
       "correctIndex": 3,
       "explanation": "धर्म की स्वतंत्रता का अधिकार अनुच्छेद 25 से 28 में वर्णित है।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "904e6287-cf58-591c-8d61-0184e3c8b7b4",
       "tags": [
@@ -5673,7 +5673,7 @@
       "correctIndex": 0,
       "explanation": "संवैधानिक उपचार का अधिकार अनुच्छेद 32 में वर्णित है, जिसे 'संविधान का हृदय' कहा जाता है।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8cdc77fe-be3f-5d22-848f-4961416d1bdb",
       "tags": [
@@ -5692,7 +5692,7 @@
       "correctIndex": 2,
       "explanation": "वित्तीय आपातकाल का प्रावधान अनुच्छेद 360 में है।",
       "subCategory": "आपातकाल",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "325c58fc-17d5-5e7a-b553-696c470297b5",
       "tags": [
@@ -5711,7 +5711,7 @@
       "correctIndex": 0,
       "explanation": "राज्यपाल की नियुक्ति राष्ट्रपति द्वारा की जाती है (अनुच्छेद 155)।",
       "subCategory": "राज्यपाल",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "df911190-ee5e-584f-892e-cbc11c13fe35",
       "tags": [
@@ -5730,7 +5730,7 @@
       "correctIndex": 2,
       "explanation": "दलबदल विरोधी कानून दसवीं अनुसूची में वर्णित है (52वाँ संशोधन, 1985)।",
       "subCategory": "अनुसूचियाँ",
-      "difficulty": "Medium",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "08ac4b19-1411-5b75-a329-3f1c89cae6ae",
       "tags": [
@@ -5749,7 +5749,7 @@
       "correctIndex": 0,
       "explanation": "डॉ. बी.आर. अंबेडकर प्रारूप समिति के अध्यक्ष थे।",
       "subCategory": "संविधान सभा",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c3b77871-c821-5fe2-af96-91f576221a5f",
       "tags": [
@@ -5768,7 +5768,7 @@
       "correctIndex": 0,
       "explanation": "केंद्र-राज्य संबंधों का वर्णन भाग XI में किया गया है।",
       "subCategory": "केंद्र-राज्य संबंध",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b334386a-11d4-52d9-a813-02f0860273ff",
       "tags": [
@@ -5787,7 +5787,7 @@
       "correctIndex": 1,
       "explanation": "अनुच्छेद 356 राज्य में संवैधानिक तंत्र की विफलता पर राष्ट्रपति शासन लागू करने के लिए है।",
       "subCategory": "आपातकाल",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9c87d4e3-3a47-5dbf-b06b-30f1abb2ebfe",
       "tags": [
@@ -5806,7 +5806,7 @@
       "correctIndex": 1,
       "explanation": "आठवीं अनुसूची में 22 भाषाएँ शामिल हैं।",
       "subCategory": "अनुसूचियाँ",
-      "difficulty": "Medium",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "179817c4-3846-51b5-a8c4-f84f777493b8",
       "tags": [
@@ -5825,7 +5825,7 @@
       "correctIndex": 1,
       "explanation": "शिक्षा का अधिकार अनुच्छेद 21A में 86वें संशोधन (2002) द्वारा जोड़ा गया।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "df7258af-a07d-530e-9d27-d9fbb7220c9a",
       "tags": [
@@ -5844,7 +5844,7 @@
       "correctIndex": 1,
       "explanation": "'धर्मनिरपेक्ष' शब्द 42वें संशोधन (1976) द्वारा प्रस्तावना में जोड़ा गया।",
       "subCategory": "प्रस्तावना",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "83820800-d43d-5a33-9300-026ac9192742",
       "tags": [
@@ -5863,7 +5863,7 @@
       "correctIndex": 0,
       "explanation": "भारतीय संविधान के अनुच्छेद 1 में 'भारत' या 'भारत संघ' की परिभाषा दी गई है, जो राज्य की परिभाषा भी है।",
       "subCategory": "संविधान",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2b937fe0-035f-59c8-8c47-70e2e7db8aa4",
       "tags": [
@@ -5882,7 +5882,7 @@
       "correctIndex": 2,
       "explanation": "भारत में राष्ट्रपति का चुनाव 'संयुक्त मतदान' प्रणाली द्वारा होता है, जिसमें संसद और राज्य विधानसभाओं के निर्वाचित सदस्य भाग लेते हैं।",
       "subCategory": "राष्ट्रपति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f022fc9e-fdf6-54a6-8dcf-14be712b6114",
       "tags": [
@@ -5901,7 +5901,7 @@
       "correctIndex": 0,
       "explanation": "भारतीय संविधान का भाग III मौलिक अधिकारों से संबंधित है, जिसमें नागरिकों के मूलभूत अधिकारों का उल्लेख है।",
       "subCategory": "मौलिक अधिकार",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "111d4a76-3331-5c4c-a4b5-3cec51753187",
       "tags": [
@@ -5920,7 +5920,7 @@
       "correctIndex": 1,
       "explanation": "भारतीय संविधान का भाग IV राज्य नीति के निर्देशक सिद्धांतों से संबंधित है, जो सरकार को नीति निर्धारण में मार्गदर्शन करते हैं।",
       "subCategory": "राज्य नीति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8ebc52d4-f2be-5d0d-9359-bb1c1cd86440",
       "tags": [
@@ -5939,7 +5939,7 @@
       "correctIndex": 1,
       "explanation": "भारत में राष्ट्रपति का कार्यकाल 5 वर्ष का होता है, जिसे पुनः चुने जाने पर बढ़ाया जा सकता है।",
       "subCategory": "राष्ट्रपति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "30daed16-50d0-550f-8173-066361f719b5",
       "tags": [
@@ -5958,7 +5958,7 @@
       "correctIndex": 0,
       "explanation": "भारत में राष्ट्रपति को हटाने की प्रक्रिया 'महाभियोग' कहलाती है, जिसे दोनों सदनों द्वारा पारित किया जाता है।",
       "subCategory": "राष्ट्रपति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fe7d5493-4613-5b9e-a578-162c857f4ba1",
       "tags": [
@@ -5977,7 +5977,7 @@
       "correctIndex": 2,
       "explanation": "भारत में उपराष्ट्रपति का चुनाव 'संयुक्त मतदान' प्रणाली द्वारा होता है, जिसमें संसद के दोनों सदनों के निर्वाचित सदस्य भाग लेते हैं।",
       "subCategory": "उपराष्ट्रपति",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0aad626e-b3d2-5528-b4bb-22658d8c1764",
       "tags": [
@@ -5996,7 +5996,7 @@
       "correctIndex": 1,
       "explanation": "भारत में प्रधानमंत्री का कार्यकाल 5 वर्ष का होता है, जो लोकसभा के कार्यकाल के समान होता है।",
       "subCategory": "प्रधानमंत्री",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a9668d50-a467-53d9-9d53-ea9376707ae9",
       "tags": [
@@ -6015,7 +6015,7 @@
       "correctIndex": 0,
       "explanation": "भारत में संसद का संयुक्त सत्र तब बुलाया जाता है जब दोनों सदनों के बीच कोई महत्वपूर्ण विधेयक पर मतभेद होते हैं।",
       "subCategory": "संसद",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2720b4f6-22a4-5183-9d59-a423033ce407",
       "tags": [
@@ -6034,7 +6034,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 395 (मूल में)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "75e48d41-451b-52a3-97d4-1b89caf02b18",
       "tags": [
@@ -6053,7 +6053,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 12।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "cbf5ecbf-4799-58e0-b274-b4ee11b9a843",
       "tags": [
@@ -6072,7 +6072,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: समाजवादी, पंथनिरपेक्ष, अखंडता।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3d4804f4-e103-5303-b8e0-aaa670501b2c",
       "tags": [
@@ -6091,7 +6091,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: भाग III (अनुच्छेद 12-35)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0e97c47d-dccb-5228-874e-3aaed1ab46b3",
       "tags": [
@@ -6110,7 +6110,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: भाग IV-A (अनुच्छेद 51A)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0f076584-ed24-52c6-bbbf-0db49662a7d4",
       "tags": [
@@ -6129,7 +6129,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: भाग IV (अनुच्छेद 36-51)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "590f902f-4cde-5831-a75f-bab18edfacd0",
       "tags": [
@@ -6148,7 +6148,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 5 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "02ff76a8-9a82-554b-ac74-175c69e83544",
       "tags": [
@@ -6167,7 +6167,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: उपराष्ट्रपति।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "84ce0369-75b4-5a72-9050-a6d642682f65",
       "tags": [
@@ -6186,7 +6186,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 552।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "44a18485-7693-5487-ac9d-e122805e4d1b",
       "tags": [
@@ -6205,7 +6205,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 250।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "50bfb08f-1549-59f5-b244-7788b5f3bb38",
       "tags": [
@@ -6224,7 +6224,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 6 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6fe65b28-157c-5554-bdd6-f0326f97fc03",
       "tags": [
@@ -6243,7 +6243,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: 5 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "c1daa6ce-405e-552a-b7d9-172713fd6343",
       "tags": [
@@ -6262,7 +6262,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: नई दिल्ली।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e458b5b2-c264-5478-bf71-6122f165c92d",
       "tags": [
@@ -6281,7 +6281,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: राष्ट्रपति।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bad7c532-9c31-564f-8611-e33c92686cb4",
       "tags": [
@@ -6300,7 +6300,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 18 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d80703a4-2cf4-5d30-9111-338548b53c51",
       "tags": [
@@ -6319,7 +6319,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: 25 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f9435b9a-b84f-5607-895b-d8f10a33f058",
       "tags": [
@@ -6338,7 +6338,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 30 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "535a1f2a-e6a7-53bd-8ade-35afeef75fb1",
       "tags": [
@@ -6357,7 +6357,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: 35 वर्ष।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "cdf5bf9b-76e4-5e6d-8261-9388981eeb67",
       "tags": [
@@ -6376,7 +6376,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: अनुच्छेद 324।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7620a538-33b9-5103-a876-d4cff5693bc7",
       "tags": [
@@ -6395,7 +6395,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: अनुच्छेद 148।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "88a2698c-ae66-5f4f-b3b6-9c70b7915928",
       "tags": [
@@ -6414,7 +6414,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: अनुच्छेद 356।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "cda62470-8b3b-5398-89c3-1814d8354b92",
       "tags": [
@@ -6433,7 +6433,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: अनुच्छेद 352।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "280292de-e4ca-5752-8f0b-9c2f5f841253",
       "tags": [
@@ -6452,7 +6452,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: अनुच्छेद 360।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "29edc0af-83f1-5f9d-a0de-5bbd1fa25df6",
       "tags": [
@@ -6471,7 +6471,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 11वीं अनुसूची।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "3d0598ee-5654-51ae-a65f-42c9c8974be9",
       "tags": [
@@ -6490,7 +6490,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 12वीं अनुसूची।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "hard",
       "questionType": "mcq",
       "uuid": "c0e92436-166b-52f5-a4c5-9a814d68d4c5",
       "tags": [
@@ -6509,7 +6509,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: पंचायती राज।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "dfa7e217-bdbb-5a3c-bcc1-fcff0d4a7db8",
       "tags": [
@@ -6528,7 +6528,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: नगरपालिका।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "49be969b-10d4-50a4-833f-f05f41d7a70f",
       "tags": [
@@ -6547,7 +6547,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: अनुच्छेद 21A।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b1d189d8-f2ef-5fdc-a093-cbb787fd0a6c",
       "tags": [
@@ -6566,7 +6566,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: अनुच्छेद 368।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "baa1a2fb-a03a-54f9-aff9-c15e03f58695",
       "tags": [
@@ -6585,7 +6585,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: राष्ट्रपति + लोकसभा + राज्यसभा।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "efe2ec2b-999e-5edd-a169-62d5070c6a78",
       "tags": [
@@ -6604,7 +6604,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: लोकसभा।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3962a0ed-b0b2-5e0d-9995-90fbe3ca216d",
       "tags": [
@@ -6623,7 +6623,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: जन गण मन।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f7659c92-4f3d-50d4-8754-9617887f3f1f",
       "tags": [
@@ -6642,7 +6642,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: वंदे मातरम।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4c510666-5495-5d26-8657-f59e8dbfa83b",
       "tags": [
@@ -6661,7 +6661,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: अशोक स्तंभ (सारनाथ)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "049744cc-2d98-521d-98a2-d2d214577980",
       "tags": [
@@ -6680,7 +6680,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: पिंगली वेंकैया।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e5604044-8010-545d-bc87-418ce62727fc",
       "tags": [
@@ -6699,7 +6699,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: 24।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f2435f24-8a1d-5ce7-8ba3-f42eaba704e6",
       "tags": [
@@ -6718,7 +6718,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: 2005।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d6c774a4-1096-5a34-837c-b64fed740b3e",
       "tags": [
@@ -6737,7 +6737,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 70।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "c08b1458-374c-57e5-b6ea-556a5034204c",
       "tags": [
@@ -6756,7 +6756,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: नैनीताल।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d7e7dba5-3823-55c4-badf-a0add0f49c40",
       "tags": [
@@ -6775,7 +6775,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: देहरादून (अंतरिम)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2651c168-818c-57b0-abcf-d031190d3713",
       "tags": [
@@ -6794,7 +6794,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: गैरसैण (भराड़ीसैण)।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "229de400-8599-5249-ac41-c2f5846729dd",
       "tags": [
@@ -6813,7 +6813,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: 13।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1f1ca37c-9481-5ec0-bf26-a30deb57d243",
       "tags": [
@@ -6832,7 +6832,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: 5।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ea945f03-07d8-5934-b744-c04c5e918581",
       "tags": [
@@ -6851,7 +6851,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: 3।",
       "subCategory": "राजव्यवस्था",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4fe1bea5-c9db-541c-b28a-4650b771b714",
       "tags": [
@@ -6872,7 +6872,7 @@
       "subCategory": "भारतीय संविधान",
       "questionType": "mcq",
       "uuid": "a0dc8800-c6af-49d0-b353-b651bfc5e0a7",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -6891,7 +6891,7 @@
       "subCategory": "भारतीय संविधान",
       "questionType": "mcq",
       "uuid": "56b22758-92ad-4f5b-a210-12ea40ff7a3c",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -6910,7 +6910,7 @@
       "subCategory": "भारतीय संविधान",
       "questionType": "mcq",
       "uuid": "5a2766e3-3697-4bbf-873c-6e7b13af3a9a",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -6929,7 +6929,7 @@
       "subCategory": "भारतीय संविधान",
       "questionType": "mcq",
       "uuid": "618740df-0649-418a-a61e-198ddf6f21d9",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -6986,7 +6986,7 @@
       "subCategory": "भारतीय राजव्यवस्था",
       "questionType": "mcq",
       "uuid": "33f4e5c4-6b99-4bc6-a18c-8f999ae8cb15",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -7005,7 +7005,7 @@
       "subCategory": "भारतीय राजव्यवस्था",
       "questionType": "mcq",
       "uuid": "b18dc713-c14f-4a59-ab59-2db33c8d9d0c",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"
@@ -7195,7 +7195,7 @@
       "subCategory": "भारतीय न्यायपालिका",
       "questionType": "mcq",
       "uuid": "1c4525af-041d-4db1-b49e-0bdf3768c3a1",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Polity"

@@ -13,11 +13,21 @@
       "subCategory": "नेटवर्किंग",
       "questionType": "mcq",
       "uuid": "d867cb15-42de-5563-87f0-e449fe2a917c",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of LAN?",
+        "options_en": [
+          "Line area network",
+          "Local area network",
+          "Logical array network",
+          "Large Area Network"
+        ],
+        "explanation_en": "The full form of LAN is Local Area Network. It is a computer network that connects computers and other devices within a limited geographic area, such as a home, office, or school."
+      }
     },
     {
       "question": "यूनिक्स (UNIX) क्या है?",
@@ -32,11 +42,21 @@
       "subCategory": "ऑपरेटिंग सिस्टम",
       "questionType": "mcq",
       "uuid": "ae7d9b0f-de04-5736-9610-f1d11abac331",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is UNIX?",
+        "options_en": [
+          "A programming language",
+          "An operating system",
+          "An input device",
+          "A web browser"
+        ],
+        "explanation_en": "UNIX is a multi-user, multitasking operating system that was developed at Bell Labs. It has influenced the development of many other modern operating systems such as Linux and macOS."
+      }
     },
     {
       "question": "URL का पूर्ण रूप क्या है?",
@@ -51,11 +71,21 @@
       "subCategory": "इंटरनेट और वेब टेक्नोलॉजीज",
       "questionType": "mcq",
       "uuid": "6446275b-c3a2-5cf5-b4a4-94a65e4244e7",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of URL?",
+        "options_en": [
+          "Universal Resource Locator",
+          "Uniform resource locator",
+          "Unified Resource Link",
+          "Ultimate Resource Locator"
+        ],
+        "explanation_en": "The full form of URL is Uniform Resource Locator. It is the address of a resource (such as a web page, an image or a file) on the Internet."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा एक डेटाबेस मैनेजमेंट सिस्टम (DBMS) नहीं है?",
@@ -74,7 +104,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is not a Database Management System (DBMS)?",
+        "options_en": [
+          "MySQL",
+          "Oracle",
+          "Microsoft Access",
+          "Adobe photoshop"
+        ],
+        "explanation_en": "Adobe Photoshop is a graphics editing software. MySQL, Oracle and Microsoft Access are popular database management systems used to store, manage and retrieve data."
+      }
     },
     {
       "question": "फ़ायरवॉल का मुख्य उद्देश्य क्या है?",
@@ -93,7 +133,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main purpose of firewall?",
+        "options_en": [
+          "Increase computer speed",
+          "Organize files",
+          "Prevent unauthorized access",
+          "Updating software"
+        ],
+        "explanation_en": "The main purpose of a firewall is to prevent unauthorized access. It is a security system that helps protect your computer or network from external threats."
+      }
     },
     {
       "question": "कंप्यूटर में ALU का पूर्ण रूप क्या है?",
@@ -108,11 +158,21 @@
       "subCategory": "कंप्यूटर आर्किटेक्चर",
       "questionType": "mcq",
       "uuid": "7002ac68-1093-531f-ac7a-13c267e1f24c",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of ALU in computer?",
+        "options_en": [
+          "Application Logic Unit",
+          "Arithmetic logic unit",
+          "Advanced logic unit",
+          "Access logic unit"
+        ],
+        "explanation_en": "The full form of ALU is Arithmetic Logic Unit. It is an important part of the Central Processing Unit (CPU) that performs all arithmetic and logical operations."
+      }
     },
     {
       "question": "माइक्रोसॉफ्ट पावरपॉइंट का उपयोग मुख्य रूप से किसके लिए किया जाता है?",
@@ -131,7 +191,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Microsoft PowerPoint mainly used for?",
+        "options_en": [
+          "Create document",
+          "Create spreadsheet",
+          "Create presentations",
+          "Send email"
+        ],
+        "explanation_en": "Microsoft PowerPoint is mainly used to create presentations. It is used to create slideshows containing text, images, animations, and other multimedia elements."
+      }
     },
     {
       "question": "कमांड-लाइन इंटरफेस (CLI) किस ऑपरेटिंग सिस्टम की एक विशेषता है?",
@@ -150,7 +220,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Command-line interface (CLI) is a feature of which operating system?",
+        "options_en": [
+          "Windows only",
+          "MacOS only",
+          "Linux only",
+          "Multiple operating systems including Windows, macOS, and Linux"
+        ],
+        "explanation_en": "Command-line interface (CLI) is a user interface that allows users to interact with a computer by typing text commands. It is a feature of many operating systems, including Windows, macOS, and Linux, although graphical user interfaces (GUIs) are more common in modern versions."
+      }
     },
     {
       "question": "फ़ाइल एक्सटेंशन '.docx' किस प्रकार की फ़ाइल को इंगित करता है?",
@@ -169,7 +249,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of file does the file extension '.docx' indicate?",
+        "options_en": [
+          "Image file",
+          "Text file",
+          "Microsoft Word Document",
+          "Excel spreadsheet"
+        ],
+        "explanation_en": "The file extension '.docx' indicates a Microsoft Word document file. This extension is used by Microsoft Word 2007 and later versions."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा एक आउटपुट डिवाइस है?",
@@ -184,11 +274,21 @@
       "subCategory": "इनपुट/आउटपुट डिवाइस",
       "questionType": "mcq",
       "uuid": "bedde752-0c20-5293-b646-3f2468eed2a4",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an output device?",
+        "options_en": [
+          "Mouse",
+          "Scanner",
+          "Joystick",
+          "Printer"
+        ],
+        "explanation_en": "A printer is an output device that takes electronic data from a computer and prints it in physical form (such as on paper). Mouse, scanner, and joystick are input devices that are used to enter data or commands into a computer."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा एक इनपुट डिवाइस है?",
@@ -203,11 +303,21 @@
       "subCategory": "इनपुट/आउटपुट डिवाइस",
       "questionType": "mcq",
       "uuid": "0a64a213-a9dd-5c90-b2c3-7cbfe7957880",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an input device?",
+        "options_en": [
+          "Monitor",
+          "Printer",
+          "Keyboard",
+          "Speaker"
+        ],
+        "explanation_en": "Keyboard is an input device used to enter data and commands into a computer. Monitor and printer are output devices, while speaker is audio output device."
+      }
     },
     {
       "question": "माइक्रोसॉफ्ट वर्ड किसका उदाहरण है?",
@@ -222,11 +332,21 @@
       "subCategory": "सॉफ्टवेयर",
       "questionType": "mcq",
       "uuid": "768b9680-691b-5851-9c95-5f5036422e94",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Microsoft Word an example of?",
+        "options_en": [
+          "System software",
+          "Application software",
+          "Operating system",
+          "Firmware"
+        ],
+        "explanation_en": "Microsoft Word is application software used to create and edit text documents. System software manages the hardware and software of a computer, operating system is a type of system software, and firmware is software embedded in the hardware."
+      }
     },
     {
       "question": "सबसे लोकप्रिय ऑपरेटिंग सिस्टम में से एक विंडोज किस कंपनी द्वारा विकसित किया गया है?",
@@ -245,7 +365,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Windows, one of the most popular operating systems, is developed by which company?",
+        "options_en": [
+          "Apple",
+          "Microsoft",
+          "Google",
+          "IBM"
+        ],
+        "explanation_en": "Windows operating system is developed by Microsoft Corporation. Apple has its own operating system macOS, Google is primarily known for Android and Chrome OS, and IBM focuses primarily on enterprise-level hardware and software."
+      }
     },
     {
       "question": "इंटरनेट से जुड़े प्रत्येक कंप्यूटर का एक विशिष्ट पहचान संख्या होती है, जिसे क्या कहते हैं?",
@@ -264,7 +394,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Every computer connected to the Internet has a unique identification number, what is it called?",
+        "options_en": [
+          "MAC address",
+          "IP address",
+          "Email address",
+          "Website address"
+        ],
+        "explanation_en": "Every computer connected to the Internet has a unique identification number called an IP address (Internet Protocol address). A MAC address is a physical address assigned to a network interface card, an email address is used to send and receive electronic mail, and a website address (URL) is the unique address of a web page."
+      }
     },
     {
       "question": "World Wide Web (WWW) का आविष्कार किसने किया?",
@@ -279,11 +419,21 @@
       "subCategory": "इंटरनेट और वेब टेक्नोलॉजीज",
       "questionType": "mcq",
       "uuid": "21ffb979-ca11-505e-bf30-6937ba6f861a",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who invented the World Wide Web (WWW)?",
+        "options_en": [
+          "Tim Berners-Lee",
+          "Vint surf",
+          "Bill gates",
+          "Steve jobs"
+        ],
+        "explanation_en": "Tim Berners-Lee is considered the inventor of the World Wide Web (WWW). Vint Cerf is known as the 'Father of the Internet', Bill Gates is the co-founder of Microsoft, and Steve Jobs was the co-founder of Apple."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सी एक प्रोग्रामिंग भाषा नहीं है?",
@@ -298,11 +448,21 @@
       "subCategory": "प्रोग्रामिंग भाषाएँ",
       "questionType": "mcq",
       "uuid": "eadac175-f0c1-5ffd-9453-86c2d75bfb58",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is not a programming language?",
+        "options_en": [
+          "Java",
+          "Python",
+          "HTML",
+          "C++"
+        ],
+        "explanation_en": "HTML (HyperText Markup Language) is a markup language used to structure a web page, not a programming language. Java, Python, and C++ are popular programming languages ​​used to develop different types of software."
+      }
     },
     {
       "question": "डेटाबेस में रिकॉर्ड का एक संग्रह क्या कहलाता है?",
@@ -317,11 +477,21 @@
       "subCategory": "डेटाबेस",
       "questionType": "mcq",
       "uuid": "224aaf1d-57ae-51b7-9a6c-f8464e30a0d8",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a collection of records in a database called?",
+        "options_en": [
+          "Table",
+          "Field",
+          "File",
+          "Key"
+        ],
+        "explanation_en": "A collection of records in a database is called a table. Each table contains related data organized into rows and columns. Field is a single column in a table, file is a general term used to refer to a stored collection of data, and key is used to identify specific records in the table."
+      }
     },
     {
       "question": "कंप्यूटर को दुर्भावनापूर्ण सॉफ्टवेयर (जैसे वायरस) से बचाने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
@@ -340,7 +510,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What software is used to protect computers from malicious software (such as viruses)?",
+        "options_en": [
+          "Firewall",
+          "Antivirus",
+          "Backup utility",
+          "Disk cleaner"
+        ],
+        "explanation_en": "Antivirus software is used to protect, detect, and remove computer viruses from malicious software (viruses, worms, trojans, etc.). The firewall provides network security by blocking unauthorized access, the backup utility makes copies of the data, and the disk cleaner frees up disk space by deleting unnecessary files."
+      }
     },
     {
       "question": "कंप्यूटर का मस्तिष्क किसे कहा जाता है?",
@@ -359,7 +539,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is called the brain of a computer?",
+        "options_en": [
+          "Memory unit",
+          "Central Processing Unit (CPU)",
+          "Input unit",
+          "Output unit"
+        ],
+        "explanation_en": "The central processing unit (CPU) is called the brain of the computer because it performs all of the computer's core functions, such as processing instructions and performing calculations. The memory unit stores data and instructions, the input unit is used to enter data into the computer, and the output unit displays the processed data."
+      }
     },
     {
       "question": "माइक्रोसॉफ्ट एक्सेल में, सेल में संख्याओं की एक श्रृंखला का योग करने के लिए किस फंक्शन का उपयोग किया जाता है?",
@@ -378,7 +568,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In Microsoft Excel, which function is used to sum a range of numbers in a cell?",
+        "options_en": [
+          "AVERAGE()",
+          "SUM()",
+          "PRODUCT()",
+          "COUNT()"
+        ],
+        "explanation_en": "In Microsoft Excel, the SUM() function is used to sum a range of numbers in a cell. The AVERAGE() function finds the average of numbers, the PRODUCT() function multiplies numbers, and the COUNT() function counts the number of numbers in a cell."
+      }
     },
     {
       "question": "कंप्यूटर का जनक किसे माना जाता है?",
@@ -393,11 +593,21 @@
       "subCategory": "कंप्यूटर का इतिहास",
       "questionType": "mcq",
       "uuid": "1ae285ca-1831-501a-bb2f-83c73549da2b",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who is considered the father of computer?",
+        "options_en": [
+          "Charles Babbage",
+          "Blaise pascal",
+          "John von Neumann",
+          "Herman Hollerith"
+        ],
+        "explanation_en": "Charles Babbage is considered the father of the computer. He designed the first mechanical computer 'Analytical Engine'. Blaise Pascal created the mechanical calculator, John von Neumann conceptualized the stored program computer, and Herman Hollerith invented a machine that processed data using punch cards."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन-सा कंप्यूटर का मुख्य भाग नहीं है?",
@@ -416,7 +626,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is not a main part of a computer?",
+        "options_en": [
+          "Central Processing Unit (CPU)",
+          "Memory",
+          "Input device",
+          "Modem"
+        ],
+        "explanation_en": "Modem is a networking device used to connect a computer to the Internet. While it may be an important peripheral, it is not a core internal part of the computer. The CPU, memory, and input devices are essential for the basic functioning of a computer."
+      }
     },
     {
       "question": "RAM का पूर्ण रूप क्या है?",
@@ -431,11 +651,21 @@
       "subCategory": "मेमोरी",
       "questionType": "mcq",
       "uuid": "8e5b994b-91dd-5c4c-b2c2-77fea186b20b",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of RAM?",
+        "options_en": [
+          "Read only memory",
+          "Random access memory",
+          "Reading Ability Module",
+          "Rotational access memory"
+        ],
+        "explanation_en": "The full form of RAM is Random Access Memory. It is a type of computer memory that stores data temporarily so that the CPU can access it quickly. Read only memory (ROM) stores data permanently."
+      }
     },
     {
       "question": "ऑपरेटिंग सिस्टम का मुख्य कार्य क्या है?",
@@ -454,7 +684,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main function of operating system?",
+        "options_en": [
+          "Running application software",
+          "Controlling input and output devices",
+          "Managing system resources",
+          "All of the above"
+        ],
+        "explanation_en": "The operating system manages the computer's hardware and software resources, provides a platform for running application software, and controls the operation of input and output devices. Hence, option 'All of the above' is correct."
+      }
     },
     {
       "question": "इंटरनेट पर वेबसाइटों को देखने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
@@ -473,7 +713,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which software is used to view websites on the Internet?",
+        "options_en": [
+          "Word processor",
+          "Spreadsheet",
+          "Web browser",
+          "Presentation software"
+        ],
+        "explanation_en": "Web browser software is used to view websites on the Internet. Some popular web browsers include Google Chrome, Mozilla Firefox, and Safari. Word processors are used to create text documents, spreadsheets are used to analyze data, and presentation software is used to create slideshows."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा ऑपरेटिंग सिस्टम है?",
@@ -486,13 +736,23 @@
       "correctIndex": 1,
       "explanation": "Windows 10 एक ऑपरेटिंग सिस्टम है, जो कंप्यूटर के हार्डवेयर और सॉफ्टवेयर के बीच संचार को प्रबंधित करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4ab440a3-e4ea-5307-bc44-cb020eedba72",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an operating system?",
+        "options_en": [
+          "MS Word",
+          "Windows 10",
+          "Google Chrome",
+          "Adobe photoshop"
+        ],
+        "explanation_en": "Windows 10 is an operating system that manages communication between a computer's hardware and software."
+      }
     },
     {
       "question": "1 GB में कितने MB होते हैं?",
@@ -505,13 +765,23 @@
       "correctIndex": 2,
       "explanation": "1 GB = 1024 MB, क्योंकि कंप्यूटर में मेमोरी बाइनरी सिस्टम (2^10) में मापी जाती है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4d4467e8-cb55-51dc-8534-5a5392d52478",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many MB are there in 1 GB?",
+        "options_en": [
+          "100MB",
+          "1000MB",
+          "1024 MB",
+          "512MB"
+        ],
+        "explanation_en": "1 GB = 1024 MB, because memory in computers is measured in the binary system (2^10)."
+      }
     },
     {
       "question": "WWW का पूर्ण रूप क्या है?",
@@ -524,13 +794,23 @@
       "correctIndex": 0,
       "explanation": "WWW का पूर्ण रूप World Wide Web है, जो इंटरनेट पर हाइपरलिंक के माध्यम से जानकारी को जोड़ता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6870f2c2-9ef1-5fee-86db-8e49b95da4d7",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of WWW?",
+        "options_en": [
+          "World Wide Web",
+          "World Wide Web",
+          "Web World Wide",
+          "Wide World Web"
+        ],
+        "explanation_en": "The full form of WWW is World Wide Web, which connects information through hyperlinks on the Internet."
+      }
     },
     {
       "question": "MS Excel में कार्यपत्रक को क्या कहते हैं?",
@@ -543,13 +823,23 @@
       "correctIndex": 1,
       "explanation": "MS Excel में कार्यपत्रक को Spreadsheet कहा जाता है, जो डेटा को तालिका रूप में व्यवस्थित करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "75a75f33-9273-52ca-a3df-486dcda051f4",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a worksheet called in MS Excel?",
+        "options_en": [
+          "Document",
+          "Spreadsheet",
+          "Slides",
+          "Database"
+        ],
+        "explanation_en": "The worksheet in MS Excel is called Spreadsheet, which organizes data in tabular form."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा इनपुट डिवाइस है?",
@@ -562,13 +852,23 @@
       "correctIndex": 1,
       "explanation": "Keyboard एक इनपुट डिवाइस है, क्योंकि यह उपयोगकर्ता से डेटा को कंप्यूटर में भेजता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "906508b6-1202-5514-9f44-5c2c2199ffae",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an input device?",
+        "options_en": [
+          "Monitor",
+          "Keyboard",
+          "Printer",
+          "Speaker"
+        ],
+        "explanation_en": "Keyboard is an input device, because it sends data from the user to the computer."
+      }
     },
     {
       "question": "HTTP का पूर्ण रूप क्या है?",
@@ -581,13 +881,23 @@
       "correctIndex": 0,
       "explanation": "HTTP का पूर्ण रूप Hyper Text Transfer Protocol है, जो वेब पेजों को स्थानांतरित करने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "20123666-ded8-5a81-9577-ed7c03281d0a",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of HTTP?",
+        "options_en": [
+          "Hyper Text Transfer Protocol",
+          "High Text Transfer Protocol",
+          "Hyper Text Transmission Protocol",
+          "Home Text Transfer Protocol"
+        ],
+        "explanation_en": "The full form of HTTP is Hyper Text Transfer Protocol, which is used to transfer web pages."
+      }
     },
     {
       "question": "कंप्यूटर में डेटा को स्थायी रूप से स्टोर करने के लिए किसका उपयोग होता है?",
@@ -600,13 +910,23 @@
       "correctIndex": 2,
       "explanation": "Hard Disk का उपयोग डेटा को स्थायी रूप से स्टोर करने के लिए होता है, क्योंकि यह नॉन-वोलेटाइल मेमोरी है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5a87eb21-ef6d-5283-a518-458ed645bc48",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is used to permanently store data in a computer?",
+        "options_en": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "Cache"
+        ],
+        "explanation_en": "Hard Disk is used to store data permanently, because it is non-volatile memory."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा ब्राउज़र नहीं है?",
@@ -619,13 +939,23 @@
       "correctIndex": 2,
       "explanation": "Microsoft Word एक वर्ड प्रोसेसिंग सॉफ्टवेयर है, न कि वेब ब्राउज़र।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ff7817e0-98a8-5603-8d76-6a61c3e58fec",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is not a browser?",
+        "options_en": [
+          "Google Chrome",
+          "Mozilla Firefox",
+          "Microsoft Word",
+          "Safari"
+        ],
+        "explanation_en": "Microsoft Word is word processing software, not a web browser."
+      }
     },
     {
       "question": "MS Word में नया दस्तावेज़ खोलने की शॉर्टकट कुंजी क्या है?",
@@ -638,13 +968,23 @@
       "correctIndex": 0,
       "explanation": "Ctrl + N का उपयोग MS Word में नया दस्तावेज़ खोलने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "abbe1c7c-5940-5944-abf2-6deab3a19d58",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to open a new document in MS Word?",
+        "options_en": [
+          "Ctrl + N",
+          "Ctrl+O",
+          "Ctrl+S",
+          "Ctrl+P"
+        ],
+        "explanation_en": "Ctrl + N is used to open a new document in MS Word."
+      }
     },
     {
       "question": "कंप्यूटर वायरस क्या है?",
@@ -657,13 +997,23 @@
       "correctIndex": 1,
       "explanation": "कंप्यूटर वायरस एक दुर्भावनापूर्ण सॉफ्टवेयर प्रोग्राम है, जो डेटा को नष्ट कर सकता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "11e59553-d2bd-5296-95a2-b96af52bb1df",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a computer virus?",
+        "options_en": [
+          "A hardware",
+          "A software program",
+          "An operating system",
+          "A database"
+        ],
+        "explanation_en": "A computer virus is a malicious software program that can destroy data."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा आउटपुट डिवाइस है?",
@@ -676,13 +1026,23 @@
       "correctIndex": 2,
       "explanation": "Monitor एक आउटपट डिवाइस है, क्योंकि यह कंप्यूटर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "c0a804a3-e306-5541-91fd-b8984c7a9756",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an output device?",
+        "options_en": [
+          "Scanner",
+          "Mouse",
+          "Monitor",
+          "Keyboard"
+        ],
+        "explanation_en": "Monitor is an output device, because it displays the data received from the computer on the screen."
+      }
     },
     {
       "question": "इंटरनेट पर गोपनीय डेटा को सुरक्षित करने के लिए किस प्रोटोकॉल का उपयोग होता है?",
@@ -695,13 +1055,23 @@
       "correctIndex": 2,
       "explanation": "HTTPS (Hyper Text Transfer Protocol Secure) गोपनीय डेटा को सुरक्षित करने के लिए SSL/TLS का उपयोग करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ca4de708-a5c3-5ed7-a327-f9dcccdf7554",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which protocol is used to secure confidential data on the Internet?",
+        "options_en": [
+          "Ftp",
+          "Http",
+          "HTTPS",
+          "Smtp"
+        ],
+        "explanation_en": "HTTPS (Hyper Text Transfer Protocol Secure) uses SSL/TLS to secure confidential data."
+      }
     },
     {
       "question": "MS Excel में सेल को चुनने के लिए किस कुंजी का उपयोग होता है?",
@@ -714,13 +1084,23 @@
       "correctIndex": 1,
       "explanation": "Shift कुंजी का उपयोग MS Excel में एक से अधिक सेल को चुनने के लिए किया जाता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b831af77-545a-5a23-84f0-eaf480a78df1",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which key is used to select a cell in MS Excel?",
+        "options_en": [
+          "Ctrl",
+          "Shift",
+          "Alt",
+          "Enter"
+        ],
+        "explanation_en": "Shift key is used to select more than one cell in MS Excel."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा डेटाबेस मैनेजमेंट सिस्टम है?",
@@ -733,13 +1113,23 @@
       "correctIndex": 0,
       "explanation": "Oracle एक डेटाबेस मैनेजमेंट सिस्टम है, जो डेटा को व्यवस्थित और प्रबंधित करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "711158e8-3090-5f62-a48e-0b7ad0864c31",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a database management system?",
+        "options_en": [
+          "Oracle",
+          "MS Word",
+          "Windows",
+          "Photoshop"
+        ],
+        "explanation_en": "Oracle is a database management system that organizes and manages data."
+      }
     },
     {
       "question": "कंप्यूटर में प्रोग्राम और डेटा को स्टोर करने के लिए किस मेमोरी का उपयोग होता है?",
@@ -752,13 +1142,23 @@
       "correctIndex": 1,
       "explanation": "Secondary Memory (जैसे Hard Disk) का उपयोग प्रोग्राम और डेटा को स्थायी रूप से स्टोर करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "8daebdc0-7e41-5dea-a476-13c96a0d5b7c",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which memory is used to store programs and data in a computer?",
+        "options_en": [
+          "Primary Memory",
+          "Secondary Memory",
+          "Cache memory",
+          "Virtual Memory"
+        ],
+        "explanation_en": "Secondary memory (such as a hard disk) is used to permanently store programs and data."
+      }
     },
     {
       "question": "IP एड्रेस में कितने बिट्स होते हैं (IPv4)?",
@@ -771,13 +1171,23 @@
       "correctIndex": 1,
       "explanation": "IPv4 एड्रेस 32 बिट्स का होता है, जो चार ऑक्टेट्स में विभाजित होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "78d96980-dad2-53c5-9f87-0fc82c99d8d8",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many bits are there in an IP address (IPv4)?",
+        "options_en": [
+          "16",
+          "32",
+          "64",
+          "128"
+        ],
+        "explanation_en": "An IPv4 address is 32 bits, divided into four octets."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा एंटीवायरस सॉफ्टवेयर है?",
@@ -790,13 +1200,23 @@
       "correctIndex": 0,
       "explanation": "Norton एक एंटीवायरस सॉफ्टवेयर है, जो कंप्यूटर को वायरस से बचाता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e41c2a61-99a6-5c97-aea0-61a05b5eb22a",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is antivirus software?",
+        "options_en": [
+          "Norton",
+          "MS Excel",
+          "Notepad",
+          "VLC Player"
+        ],
+        "explanation_en": "Norton is an antivirus software, which protects the computer from viruses."
+      }
     },
     {
       "question": "MS PowerPoint में नई स्लाइड जोड़ने की शॉर्टकट कुंजी क्या है?",
@@ -809,13 +1229,23 @@
       "correctIndex": 0,
       "explanation": "Ctrl + M का उपयोग MS PowerPoint में नई स्लाइड जोड़ने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "74fcaeec-0123-5135-b5b7-7125d7e1418e",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to add new slide in MS PowerPoint?",
+        "options_en": [
+          "Ctrl+M",
+          "Ctrl + N",
+          "Ctrl+S",
+          "Ctrl+P"
+        ],
+        "explanation_en": "Ctrl + M is used to add a new slide in MS PowerPoint."
+      }
     },
     {
       "question": "कंप्यूटर में बाइनरी सिस्टम में कितने अंक होते हैं?",
@@ -828,13 +1258,23 @@
       "correctIndex": 1,
       "explanation": "बाइनरी सिस्टम में केवल दो अंक होते हैं: 0 और 1।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "87ad4bed-3877-5ac4-8869-74deb482fa11",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many digits are there in binary system in computer?",
+        "options_en": [
+          "1",
+          "2",
+          "8",
+          "10"
+        ],
+        "explanation_en": "The binary system has only two digits: 0 and 1."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा क्लाउड स्टोरेज सेवा है?",
@@ -847,13 +1287,23 @@
       "correctIndex": 0,
       "explanation": "Google Drive एक क्लाउड स्टोरेज सेवा है, जो डेटा को ऑनलाइन स्टोर करती है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8c11031c-5f05-53d8-b935-ce94076562f1",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a cloud storage service?",
+        "options_en": [
+          "Google Drive",
+          "MS Access",
+          "Windows Media Player",
+          "Notepad"
+        ],
+        "explanation_en": "Google Drive is a cloud storage service that stores data online."
+      }
     },
     {
       "question": "OSI मॉडल में कितनी परतें होती हैं?",
@@ -866,13 +1316,23 @@
       "correctIndex": 2,
       "explanation": "OSI (Open Systems Interconnection) मॉडल में 7 परतें होती हैं।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3b51bf48-16bf-5055-8ef6-9a389267e9b7",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many layers are there in the OSI model?",
+        "options_en": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "explanation_en": "The OSI (Open Systems Interconnection) model consists of 7 layers."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा प्रोग्रामिंग भाषा है?",
@@ -885,13 +1345,23 @@
       "correctIndex": 0,
       "explanation": "Python एक प्रोग्रामिंग भाषा है, जिसका उपयोग सॉफ्टवेयर विकास के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "321b6b96-ea02-5da8-a397-def1c86f2e16",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a programming language?",
+        "options_en": [
+          "Python",
+          "MS Excel",
+          "Google Chrome",
+          "Adobe Reader"
+        ],
+        "explanation_en": "Python is a programming language used for software development."
+      }
     },
     {
       "question": "कंप्यूटर में BIOS का क्या कार्य है?",
@@ -904,13 +1374,23 @@
       "correctIndex": 1,
       "explanation": "BIOS (Basic Input/Output System) हार्डवेयर को प्रारंभ करता है और ऑपरेटिंग सिस्टम को लोड करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8fc38cf4-23c8-551a-8d39-0f9f6674972c",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of BIOS in computer?",
+        "options_en": [
+          "Storing data",
+          "Initialize hardware",
+          "Connecting to the internet",
+          "Virus removal"
+        ],
+        "explanation_en": "BIOS (Basic Input/Output System) initializes the hardware and loads the operating system."
+      }
     },
     {
       "question": "FTP का पूर्ण रूप क्या है?",
@@ -923,13 +1403,23 @@
       "correctIndex": 0,
       "explanation": "FTP का पूर्ण रूप File Transfer Protocol है, जो फाइलों को स्थानांतरित करने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "76e9d328-188d-575a-bab1-4f0af0677c4b",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of FTP?",
+        "options_en": [
+          "File Transfer Protocol",
+          "Fast Transfer Protocol",
+          "File Transmission Protocol",
+          "Flexible Transfer Protocol"
+        ],
+        "explanation_en": "The full form of FTP is File Transfer Protocol, which is used to transfer files."
+      }
     },
     {
       "question": "MS Word में टेक्स्ट को बोल्ड करने की शॉर्टकट कुंजी क्या है?",
@@ -942,13 +1432,23 @@
       "correctIndex": 0,
       "explanation": "Ctrl + B का उपयोग MS Word में टेक्स्ट को बोल्ड करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "2c19632e-9ef0-515d-9fb6-45e866af13b3",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to bold text in MS Word?",
+        "options_en": [
+          "Ctrl + B",
+          "Ctrl + I",
+          "Ctrl+U",
+          "Ctrl+T"
+        ],
+        "explanation_en": "Ctrl + B is used to bold text in MS Word."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा स्टोरेज डिवाइस नहीं है?",
@@ -961,7 +1461,7 @@
       "correctIndex": 2,
       "explanation": "Monitor एक आउटपुट डिवाइस है, न कि स्टोरेज डिवाइस।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9fc4fa51-6c81-5f19-913a-80c798fd2caa",
       "tags": [
@@ -980,7 +1480,7 @@
       "correctIndex": 0,
       "explanation": "SQL का पूर्ण रूप Structured Query Language है, जो डेटाबेस प्रबंधन के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3aaa97ad-679f-567e-821d-73d59fd3be19",
       "tags": [
@@ -999,7 +1499,7 @@
       "correctIndex": 0,
       "explanation": "ALU (Arithmetic Logic Unit) डेटा को प्रोसेस करने के लिए गणनाएँ और तार्किक संचालन करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3ab62700-0e8f-567e-af5a-7fb9c1496777",
       "tags": [
@@ -1018,7 +1518,7 @@
       "correctIndex": 3,
       "explanation": "Bus, Ring, और Star सभी नेटवर्क टोपोलॉजी हैं, जो नेटवर्क डिवाइस को जोड़ने के तरीके हैं।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8d85982f-7d23-53a9-a59b-fb29f0b9ca73",
       "tags": [
@@ -1037,7 +1537,7 @@
       "correctIndex": 1,
       "explanation": "SUM फंक्शन का उपयोग MS Excel में संख्याओं का योग करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1e6e6841-66d7-54b9-ab50-5bc7589ab6f1",
       "tags": [
@@ -1056,7 +1556,7 @@
       "correctIndex": 1,
       "explanation": "फायरवॉल नेटवर्क सुरक्षा प्रदान करता है, अनधिकृत पहुँच को रोकता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ef5aee64-a6f8-579c-80c6-843bc251636e",
       "tags": [
@@ -1075,7 +1575,7 @@
       "correctIndex": 0,
       "explanation": "WAN का पूर्ण रूप Wide Area Network है, जो बड़े भौगोलिक क्षेत्र में नेटवर्क को जोड़ता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5daafa0d-7fab-5255-b832-c7a06c64d6db",
       "tags": [
@@ -1094,7 +1594,7 @@
       "correctIndex": 0,
       "explanation": "Android एक मोबाइल ऑपरेटिंग सिस्टम है, जो स्मार्टफोन और टैबलेट पर उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b03b174c-8c38-5a29-9c34-074b09622247",
       "tags": [
@@ -1113,7 +1613,7 @@
       "correctIndex": 1,
       "explanation": "Cache Memory का उपयोग प्रोसेसिंग गति बढ़ाने के लिए होता है, क्योंकि यह CPU के निकट तेज़ मेमोरी है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "7727ec5c-c29d-5506-82d7-1466c0b7893c",
       "tags": [
@@ -1132,7 +1632,7 @@
       "correctIndex": 0,
       "explanation": "Bluetooth एक वायरलेस तकनीक है, जो डिवाइसों के बीच शॉर्ट-रेंज डेटा ट्रांसफर के लिए उपयोग होती है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5a9a2675-4d03-5b24-be87-612f4e19c522",
       "tags": [
@@ -1151,7 +1651,7 @@
       "correctIndex": 2,
       "explanation": "Ctrl + U का उपयोग MS Word में टेक्स्ट को अंडरलाइन करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ec6c9db2-d488-5f37-8419-d5ea44b56348",
       "tags": [
@@ -1170,7 +1670,7 @@
       "correctIndex": 0,
       "explanation": "GUI का अर्थ Graphical User Interface है, जो उपयोगकर्ता को ग्राफिकल तरीके से इंटरैक्ट करने की सुविधा देता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b7ad5f4d-124a-51cf-8d22-2e77a31dba36",
       "tags": [
@@ -1189,7 +1689,7 @@
       "correctIndex": 0,
       "explanation": "Google एक सर्च इंजन है, जो इंटरनेट पर जानकारी खोजने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6c4267be-818c-5618-8282-4f8c315e84e7",
       "tags": [
@@ -1208,7 +1708,7 @@
       "correctIndex": 1,
       "explanation": "Motherboard सभी हार्डवेयर घटकों को जोड़ता है और उनके बीच संचार सक्षम करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8b2008a1-b59a-504d-9b1e-cee6f7aac797",
       "tags": [
@@ -1227,7 +1727,7 @@
       "correctIndex": 0,
       "explanation": "DNS का पूर्ण रूप Domain Name System है, जो डोमेन नाम को IP एड्रेस में बदलता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2f5df2bb-d7ea-5621-83c9-b07618faf22d",
       "tags": [
@@ -1246,7 +1746,7 @@
       "correctIndex": 1,
       "explanation": "VLOOKUP फंक्शन का उपयोग MS Excel में किसी तालिका में डेटा खोजने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "22c0cfa7-c991-56f7-b347-47d1ef0905ae",
       "tags": [
@@ -1265,7 +1765,7 @@
       "correctIndex": 0,
       "explanation": "UPS (Uninterruptible Power Supply) पावर बैकअप प्रदान करता है, ताकि बिजली जाने पर कंप्यूटर चालू रहे।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "67ed634c-426e-596e-9616-2c081f252091",
       "tags": [
@@ -1284,7 +1784,7 @@
       "correctIndex": 2,
       "explanation": "CD-ROM एक ऑप्टिकल स्टोरेज डिवाइस है, जो लेजर तकनीक का उपयोग करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "90159c06-5e9c-5478-b860-1202e04a0d58",
       "tags": [
@@ -1303,7 +1803,7 @@
       "correctIndex": 0,
       "explanation": "TCP/IP का पूर्ण रूप Transmission Control Protocol/Internet Protocol है, जो नेटवर्क संचार के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "2b91f7fc-28f4-570d-b799-eac685b4e7c5",
       "tags": [
@@ -1322,7 +1822,7 @@
       "correctIndex": 0,
       "explanation": "F5 का उपयोग MS PowerPoint में स्लाइड शो शुरू करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "24b7c058-159f-5d84-b43c-4195d796ab3c",
       "tags": [
@@ -1341,7 +1841,7 @@
       "correctIndex": 1,
       "explanation": "Boot Process ऑपरेटिंग सिस्टम को मेमोरी में लोड करने की प्रक्रिया है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "dfc35440-2066-59e1-a3ec-9cf5260d20c4",
       "tags": [
@@ -1360,7 +1860,7 @@
       "correctIndex": 3,
       "explanation": "ZIP, JPEG, और MP3 सभी डेटा कम्प्रेशन तकनीक हैं, जो फाइल आकार को कम करते हैं।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a81b08ca-b826-5619-adf8-7576d5b3773d",
       "tags": [
@@ -1379,7 +1879,7 @@
       "correctIndex": 0,
       "explanation": "SMTP का पूर्ण रूप Simple Mail Transfer Protocol है, जो ईमेल भेजने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7e6ddbe6-4f39-5aad-bf19-821d5bd75731",
       "tags": [
@@ -1398,7 +1898,7 @@
       "correctIndex": 1,
       "explanation": "AVERAGE फंक्शन का उपयोग MS Excel में संख्याओं का औसत निकालने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4d965a9b-b1ec-5eb4-b40e-cfcb71b0d0ca",
       "tags": [
@@ -1417,7 +1917,7 @@
       "correctIndex": 1,
       "explanation": "GPU (Graphics Processing Unit) ग्राफिक्स और विजुअल डेटा को प्रोसेस करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9ddaffe8-df0d-5da1-9125-31cedc693f97",
       "tags": [
@@ -1436,7 +1936,7 @@
       "correctIndex": 0,
       "explanation": "Trojan एक प्रकार का मालवेयर है, जो कंप्यूटर को नुकसान पहुँचाता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "23d56803-da41-5433-a3aa-7f95d38592d2",
       "tags": [
@@ -1455,7 +1955,7 @@
       "correctIndex": 0,
       "explanation": "HTML का पूर्ण रूप Hyper Text Markup Language है, जो वेब पेज बनाने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a7c68815-1218-5020-b94a-78168bfdb601",
       "tags": [
@@ -1474,7 +1974,7 @@
       "correctIndex": 0,
       "explanation": "Ctrl + P का उपयोग MS Word में दस्तावेज़ को प्रिंट करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "013c3c95-6bf4-551c-97a0-0a231ae17db1",
       "tags": [
@@ -1493,7 +1993,7 @@
       "correctIndex": 1,
       "explanation": "Virtual Memory Hard Disk का हिस्सा है, जो RAM की कमी होने पर उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a71eec5f-153b-5d59-b1ac-aa0b8828bab8",
       "tags": [
@@ -1512,7 +2012,7 @@
       "correctIndex": 0,
       "explanation": "JavaScript एक वेब डेवलपमेंट टूल है, जो वेब पेज को इंटरैक्टिव बनाता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "bf793dd8-6a62-58a8-905d-8a79db262c1b",
       "tags": [
@@ -1531,7 +2031,7 @@
       "correctIndex": 1,
       "explanation": "MAC एड्रेस 48 बिट्स का होता है, जो नेटवर्क डिवाइस की पहचान करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5df32807-d2f5-5830-9407-0d954f233845",
       "tags": [
@@ -1550,7 +2050,7 @@
       "correctIndex": 0,
       "explanation": "Microsoft Outlook एक ईमेल क्लाइंट है, जो ईमेल प्रबंधन के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "112d95c1-4726-556a-9961-87db61d12d76",
       "tags": [
@@ -1569,7 +2069,7 @@
       "correctIndex": 0,
       "explanation": "SSD का पूर्ण रूप Solid State Drive है, जो तेज़ स्टोरेज डिवाइस है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1a692c25-39ea-500b-ac6d-36acba39d7af",
       "tags": [
@@ -1588,7 +2088,7 @@
       "correctIndex": 2,
       "explanation": "MAX फंक्शन का उपयोग MS Excel में अधिकतम मान निकालने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5530496e-49f9-589a-8d3e-697ce95f24f7",
       "tags": [
@@ -1607,7 +2107,7 @@
       "correctIndex": 1,
       "explanation": "Router नेटवर्क ट्रैफिक को विभिन्न नेटवर्क के बीच निर्देशित करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "eb8935fd-328c-5682-a2f4-b555c5fafbc0",
       "tags": [
@@ -1626,7 +2126,7 @@
       "correctIndex": 0,
       "explanation": "JPEG एक ग्राफिक्स फाइल फॉर्मेट है, जो छवियों को स्टोर करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b588e688-82fd-5dcb-95f8-bc0298dd0071",
       "tags": [
@@ -1645,7 +2145,7 @@
       "correctIndex": 0,
       "explanation": "POP3 का पूर्ण रूप Post Office Protocol 3 है, जो ईमेल प्राप्त करने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1122afe2-5785-5094-9af5-2e805041af31",
       "tags": [
@@ -1664,7 +2164,7 @@
       "correctIndex": 1,
       "explanation": "Ctrl + I का उपयोग MS Word में टेक्स्ट को इटैलिक करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "851f40bd-dcfa-5d5b-8462-878b5b75aad1",
       "tags": [
@@ -1683,7 +2183,7 @@
       "correctIndex": 1,
       "explanation": "Malware एक दुर्भावनापूर्ण सॉफ्टवेयर है, जो कंप्यूटर को नुकसान पहुँचाता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fc126f6f-006a-5f13-9ab3-389d07b442f5",
       "tags": [
@@ -1702,7 +2202,7 @@
       "correctIndex": 0,
       "explanation": "MP3 एक ऑडियो फाइल फॉर्मेट है, जो ध्वनि डेटा को स्टोर करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e9cf6e94-fc1b-57e2-8591-2200f60b62ac",
       "tags": [
@@ -1721,7 +2221,7 @@
       "correctIndex": 1,
       "explanation": "Switch नेटवर्क डिवाइस को जोड़ता है और डेटा पैकेट को सही गंतव्य तक भेजता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d7b1c933-4ec7-5021-ab22-2d9df0d357c7",
       "tags": [
@@ -1740,7 +2240,7 @@
       "correctIndex": 0,
       "explanation": "CSS का पूर्ण रूप Cascading Style Sheets है, जो वेब पेज की स्टाइलिंग के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "bbe5b2cd-e336-532e-8686-9d0285cc9d54",
       "tags": [
@@ -1759,7 +2259,7 @@
       "correctIndex": 3,
       "explanation": "MIN फंक्शन का उपयोग MS Excel में न्यूनतम मान निकालने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "07025c30-4012-561b-abd6-d327cc65a202",
       "tags": [
@@ -1778,7 +2278,7 @@
       "correctIndex": 0,
       "explanation": "VPN का पूर्ण रूप Virtual Private Network है, जो सुरक्षित इंटरनेट कनेक्शन प्रदान करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8af6d504-6987-5e88-b375-8a9f5a305b62",
       "tags": [
@@ -1797,7 +2297,7 @@
       "correctIndex": 0,
       "explanation": "AVI एक वीडियो फाइल फॉर्मेट है, जो वीडियो डेटा को स्टोर करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0adae758-8aeb-566d-a950-6503f918aa2a",
       "tags": [
@@ -1816,7 +2316,7 @@
       "correctIndex": 0,
       "explanation": "IMAP का पूर्ण रूप Internet Message Access Protocol है, जो ईमेल सर्वर पर ईमेल प्रबंधन के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9e3684be-19c8-54c8-b7ec-de74437cb090",
       "tags": [
@@ -1835,7 +2335,7 @@
       "correctIndex": 0,
       "explanation": "Delete कुंजी का उपयोग MS PowerPoint में स्लाइड को डिलीट करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4a39753e-d115-5e5e-b31c-ff01b6660015",
       "tags": [
@@ -1854,7 +2354,7 @@
       "correctIndex": 2,
       "explanation": "Phishing एक साइबर हमला है, जिसमें गोपनीय जानकारी जैसे पासवर्ड चुराए जाते हैं।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e569e669-3a8a-523d-bb1e-f4364c519f79",
       "tags": [
@@ -1873,7 +2373,7 @@
       "correctIndex": 1,
       "explanation": "BIOS (ROM) में संग्रहीत होता है, जो स्थायी मेमोरी है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b0b2f501-6e9b-5bf1-ba48-1ce6d9686e46",
       "tags": [
@@ -1892,7 +2392,7 @@
       "correctIndex": 1,
       "explanation": "COUNTIF फंक्शन का उपयोग MS Excel में शर्तों के आधार पर सेल्स की गणना करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c4202329-c8fb-57e0-83fa-8eae69f52d18",
       "tags": [
@@ -1911,7 +2411,7 @@
       "correctIndex": 0,
       "explanation": "Modem डिजिटल सिग्नल को एनालॉग में और इसके विपरीत बदलता है, ताकि इंटरनेट कनेक्शन स्थापित हो सके।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bedfdb2e-d508-521a-9e5b-9df470a73c3b",
       "tags": [
@@ -1930,7 +2430,7 @@
       "correctIndex": 0,
       "explanation": "VARCHAR एक डेटा टाइप है, जो डेटाबेस में टेक्स्ट स्टोर करने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "30b570ff-a2d2-5f0e-b226-8a574fa80aa9",
       "tags": [
@@ -1949,7 +2449,7 @@
       "correctIndex": 1,
       "explanation": "Firewall मुख्य रूप से Network Layer पर काम करता है, नेटवर्क ट्रैफिक को नियंत्रित करने के लिए।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "dcb4812c-1303-5434-b943-012888349bf9",
       "tags": [
@@ -1968,7 +2468,7 @@
       "correctIndex": 0,
       "explanation": "Ctrl + S का उपयोग MS Word में दस्तावेज़ को सेव करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d44e46e8-4bb9-5ab7-9dc7-fece250e816b",
       "tags": [
@@ -1987,7 +2487,7 @@
       "correctIndex": 1,
       "explanation": "Worm एक प्रकार का मालवेयर है, जो नेटवर्क के माध्यम से फैलता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "e8272f6e-de8e-5f92-839d-c5b15e90d0ca",
       "tags": [
@@ -2006,7 +2506,7 @@
       "correctIndex": 3,
       "explanation": "Simplex, Half-Duplex, और Full-Duplex सभी डेटा ट्रांसमिशन मोड हैं।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f6babc99-1c44-521d-908b-c8aea7a42894",
       "tags": [
@@ -2025,7 +2525,7 @@
       "correctIndex": 0,
       "explanation": "XML का पूर्ण रूप Extensible Markup Language है, जो डेटा को संरचित रूप में स्टोर करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "761fd9a1-4913-576a-80ff-caf0a22b3deb",
       "tags": [
@@ -2044,7 +2544,7 @@
       "correctIndex": 0,
       "explanation": "Merge & Center का उपयोग MS Excel में सेल्स को मर्ज करने और टेक्स्ट को केंद्रित करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "cae86743-d1ca-5ecf-9a4f-dd3041f233d0",
       "tags": [
@@ -2063,7 +2563,7 @@
       "correctIndex": 1,
       "explanation": "Encryption डेटा को कोड में बदलने की प्रक्रिया है, ताकि इसे अनधिकृत व्यक्ति न पढ़ें।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "c8dc886e-1db3-5fa4-a024-0b7564c6bafb",
       "tags": [
@@ -2082,7 +2582,7 @@
       "correctIndex": 0,
       "explanation": "Hub एक नेटवर्क डिवाइस है, जो नेटवर्क में डिवाइस को जोड़ता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6ff7455d-f13c-5b58-b271-7a436638d781",
       "tags": [
@@ -2101,7 +2601,7 @@
       "correctIndex": 0,
       "explanation": "RDBMS का पूर्ण रूप Relational Database Management System है, जो रिलेशनल डेटा को प्रबंध करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "227b77b2-e54f-592b-8db8-bc246ff5c8af",
       "tags": [
@@ -2120,7 +2620,7 @@
       "correctIndex": 2,
       "explanation": "Animations Tab में MS PowerPoint में Animation जोड़ने के विकल्प उपलब्ध होते हैं।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e4f03cf9-5c16-5264-8c15-0502b3097f88",
       "tags": [
@@ -2139,7 +2639,7 @@
       "correctIndex": 0,
       "explanation": "IP का अर्थ Internet Protocol है, जो नेटवर्क डेटा ट्रांसफर के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "fa77f5c8-8e6d-5ea0-b7c1-f557810ee7e0",
       "tags": [
@@ -2158,7 +2658,7 @@
       "correctIndex": 0,
       "explanation": "Hierarchical एक डेटा बेस मॉडल है, जो डेटा को पेड़ जैसी संरचना में व्यवस्थित करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7d5e5825-ea5c-577b-aad7-3747946afd84",
       "tags": [
@@ -2177,7 +2677,7 @@
       "correctIndex": 0,
       "explanation": "Ctrl + Enter का उपयोग MS Word में Page Break जोड़ने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b123bdea-1a17-5164-96a1-ac60abcb248d",
       "tags": [
@@ -2196,7 +2696,7 @@
       "correctIndex": 1,
       "explanation": "Spyware एक मालवेयर है, जो उपयोगकर्ता की जानकारी चोरी करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "4c4e8f3a-ba2a-598c-a490-0b380530e18e",
       "tags": [
@@ -2215,7 +2715,7 @@
       "correctIndex": 0,
       "explanation": "SMTP (Simple Mail Transfer Protocol) ईमेल भेजने के लिए उपयोग होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "08ed6abb-fd85-5fc0-8f43-a67c5e8a0bae",
       "tags": [
@@ -2234,7 +2734,7 @@
       "correctIndex": 0,
       "explanation": "IF फंक्शन का उपयोग MS Excel में शर्त के आधार पर गणना करने के लिए होता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1ffc81c1-ae73-5dbf-899a-7f56f3343e85",
       "tags": [
@@ -2253,7 +2753,7 @@
       "correctIndex": 0,
       "explanation": "CPU का पूरा नाम Central Processing Unit है। यह कंप्यूटर का मस्तिष्क है जो सभी गणनाएं करता है।",
       "subCategory": "हार्डवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "01dbe8ec-a811-52fc-8342-78851c4f8dd7",
       "tags": [
@@ -2272,7 +2772,7 @@
       "correctIndex": 1,
       "explanation": "RAM (रैंडम एक्सेस मेमोरी) का उपयोग अस्थायी डेटा संग्रहण के लिए होता है, जो प्रोग्राम चलाने में मदद करता है।",
       "subCategory": "हार्डवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f949760b-7db3-57be-af50-b63f7b817e02",
       "tags": [
@@ -2291,7 +2791,7 @@
       "correctIndex": 1,
       "explanation": "विंडोज 10 एक ऑपरेटिंग सिस्टम है जो कंप्यूटर के हार्डवेयर और सॉफ्टवेयर को प्रबंधित करता है।",
       "subCategory": "सॉफ्टवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7f605054-0f41-51be-ad67-a16c401ac3bd",
       "tags": [
@@ -2310,7 +2810,7 @@
       "correctIndex": 0,
       "explanation": "वेब ब्राउज़र, जैसे गूगल क्रोम या फायरफॉक्स, का उपयोग इंटरनेट पर वेबसाइट देखने के लिए होता है।",
       "subCategory": "सॉफ्टवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a8c86b7b-d5b5-58ba-8de4-58647f947a93",
       "tags": [
@@ -2329,7 +2829,7 @@
       "correctIndex": 1,
       "explanation": "1 बाइट में 8 बिट्स होते हैं, जो डेटा की एक मूल इकाई है।",
       "subCategory": "सामान्य कंप्यूटर ज्ञान",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "bca72457-a2db-52d1-902e-397e7c37fb59",
       "tags": [
@@ -2348,7 +2848,7 @@
       "correctIndex": 2,
       "explanation": "हार्ड डिस्क का उपयोग डेटा को स्थायी रूप से संग्रहित करने के लिए होता है।",
       "subCategory": "हार्डवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3098a51f-3eb2-5980-b3aa-34258bc7ea24",
       "tags": [
@@ -2367,7 +2867,7 @@
       "correctIndex": 0,
       "explanation": "WWW का पूरा नाम वर्ल्ड वाइड वेब है, जो इंटरनेट पर वेबसाइटों का नेटवर्क है।",
       "subCategory": "नेटवर्किंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "7f851451-8b60-50b9-a97d-e5657fcc8134",
       "tags": [
@@ -2386,7 +2886,7 @@
       "correctIndex": 0,
       "explanation": "USB का पूरा नाम Universal Serial Bus है, जो डेटा ट्रांसफर और डिवाइस कनेक्शन के लिए उपयोग होता है।",
       "subCategory": "हार्डवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6079fb42-adcd-5f39-9c74-3672d391c6d2",
       "tags": [
@@ -2405,7 +2905,7 @@
       "correctIndex": 1,
       "explanation": "एमएस एक्सेल एक एप्लिकेशन सॉफ्टवेयर है जो स्प्रेडशीट प्रबंधन के लिए उपयोग होता है।",
       "subCategory": "सॉफ्टवेयर",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6f22f1ec-eddf-56d9-8215-438ca7acb1d9",
       "tags": [
@@ -2424,7 +2924,7 @@
       "correctIndex": 1,
       "explanation": "RAM (रैंडम एक्सेस मेमोरी) का उपयोग डेटा को अस्थायी रूप से स्टोर करने के लिए होता है।",
       "subCategory": "हार्डवेयर",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "d4845a32-98c6-554d-aa65-d56b5fe3a69d",
       "tags": [
@@ -2443,7 +2943,7 @@
       "correctIndex": 0,
       "explanation": "मॉडेम इंटरनेट कनेक्शन स्थापित करने के लिए आवश्यक है क्योंकि यह नेटवर्क सिग्नल को डिजिटल डेटा में परिवर्तित करता है।",
       "subCategory": "नेटवर्किंग",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "a33d03a8-8617-58a2-8aea-0057c6169814",
       "tags": [
@@ -2462,7 +2962,7 @@
       "correctIndex": 0,
       "explanation": "फोल्डर का उपयोग फाइलों को व्यवस्थित और संग्रहित करने के लिए होता है।",
       "subCategory": "सामान्य कंप्यूटर ज्ञान",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "762e98a3-7905-5d74-acc4-15c1df2ba0dd",
       "tags": [
@@ -2481,7 +2981,7 @@
       "correctIndex": 1,
       "explanation": "HTTP (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल) का उपयोग वेब पेजों को इंटरनेट पर ट्रांसफर करने के लिए होता है।",
       "subCategory": "नेटवर्किंग",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b390669a-fa5b-5b0b-b01b-c3be931b770d",
       "tags": [
@@ -2500,7 +3000,7 @@
       "correctIndex": 0,
       "explanation": "RAM का पूरा नाम Random Access Memory है।",
       "subCategory": "मेमोरी",
-      "difficulty": "Easy",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "93b97bbf-c86e-56d9-a379-ec3f58ed3d83",
       "tags": [
@@ -2519,7 +3019,7 @@
       "correctIndex": 0,
       "explanation": "इंटरनेट का आविष्कार 1969 में हुआ था।",
       "subCategory": "इंटरनेट",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "246e44d9-7e84-5bc8-97db-57e21e4335f0",
       "tags": [
@@ -2538,7 +3038,7 @@
       "correctIndex": 0,
       "explanation": "HTML का पूरा नाम HyperText Markup Language है।",
       "subCategory": "वेब टेक्नोलॉजी",
-      "difficulty": "Easy",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "26d9a4cc-94a5-54bb-bd3c-eb1499ac82ad",
       "tags": [
@@ -2557,7 +3057,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: Read Only Memory।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "838bcf86-2823-5deb-8621-0268a293939d",
       "tags": [
@@ -2576,7 +3076,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Arithmetic Logic Unit।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "511a6054-a0de-5818-ab54-698b62067ef4",
       "tags": [
@@ -2595,7 +3095,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: CPU।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "013aafcb-2bbc-50f9-85b8-dd40930c7977",
       "tags": [
@@ -2614,7 +3114,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: अस्थायी (Volatile)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "701db620-8c03-5dc3-8c7b-42174cc3c6e4",
       "tags": [
@@ -2633,7 +3133,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: स्थायी (Non-Volatile)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "47611eca-c5ac-511e-bdaa-7cdd8242a447",
       "tags": [
@@ -2652,7 +3152,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: 1024 Bytes।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ac2bb4c4-9775-5d1d-a575-e10b2654e079",
       "tags": [
@@ -2671,7 +3171,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 1024 KB।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "bbf05d24-cb3b-5e4e-937a-7548fa148692",
       "tags": [
@@ -2690,7 +3190,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 1024 MB।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f77db856-c262-5a6c-89fe-6d30e7804dd6",
       "tags": [
@@ -2709,7 +3209,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 1024 GB।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d257fff0-bdd5-5e63-b4cb-f1603e49a47b",
       "tags": [
@@ -2728,7 +3228,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: 2।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "aefa74df-1796-5714-8485-4318b32efae5",
       "tags": [
@@ -2747,7 +3247,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 8।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "64cc7f79-7838-5ed3-9cd7-c6a23c29b451",
       "tags": [
@@ -2766,7 +3266,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: 16।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "87571754-e2dd-50fd-8007-b6722aea1255",
       "tags": [
@@ -2785,7 +3285,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: 10।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "87502928-106b-5231-9e25-b43c276382c2",
       "tags": [
@@ -2804,7 +3304,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: टचस्क्रीन।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a937f405-b7d4-5e0b-b6cf-a871f5073424",
       "tags": [
@@ -2823,7 +3323,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: इनपुट डिवाइस।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ef7967fd-f2a3-5cec-92f2-c814c5aca416",
       "tags": [
@@ -2842,7 +3342,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: आउटपुट डिवाइस।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "38f61820-430f-5709-bc74-ae56bfa37d6e",
       "tags": [
@@ -2861,7 +3361,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: पॉइंटिंग इनपुट डिवाइस।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "02f200e8-713b-5423-9f8f-ebc3da8551ff",
       "tags": [
@@ -2880,7 +3380,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: इनपुट डिवाइस।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5472856d-6f1b-559c-bca2-d31230940de9",
       "tags": [
@@ -2899,7 +3399,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: आउटपुट डिवाइस।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "25cc978d-fdbb-5823-987c-9a789f96cbb9",
       "tags": [
@@ -2918,7 +3418,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Windows, Linux, macOS।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f42dde7a-15ee-5f5f-ba31-46a69930945b",
       "tags": [
@@ -2937,7 +3437,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: वर्ड प्रोसेसिंग सॉफ्टवेयर।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9887f2e5-262c-518c-a75c-c97ab2f0b48d",
       "tags": [
@@ -2956,7 +3456,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: स्प्रेडशीट सॉफ्टवेयर।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "861acc65-b1c6-5e63-ad73-fe070d037268",
       "tags": [
@@ -2975,7 +3475,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: प्रेजेंटेशन सॉफ्टवेयर।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "b362c8df-4e56-57d7-bffe-98c87fdc7fe2",
       "tags": [
@@ -2994,7 +3494,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: डेटाबेस मैनेजमेंट सॉफ्टवेयर।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5c78da01-3251-50ea-bc4d-83d2894b4d77",
       "tags": [
@@ -3013,7 +3513,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: ओपन सोर्स ऑपरेटिंग सिस्टम।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "32dce127-d420-557b-a7c5-c3b753d16dfc",
       "tags": [
@@ -3032,7 +3532,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: कंप्यूटर को वायरस से सुरक्षित रखता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "f381bb91-88d8-5eff-a230-b4a4fcc5f963",
       "tags": [
@@ -3051,7 +3551,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: HyperText Transfer Protocol।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "efd7ceb5-f673-5476-bcfc-55d170d0ed02",
       "tags": [
@@ -3070,7 +3570,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: Uniform Resource Locator।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "20c295a8-6f88-579f-8c8e-8261fc96577c",
       "tags": [
@@ -3089,7 +3589,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Internet Protocol Address।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ddb93970-49b2-5728-8b14-f7dbed712f93",
       "tags": [
@@ -3108,7 +3608,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Domain Name System।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5f8ab3f5-753f-5b34-951e-5462956d172f",
       "tags": [
@@ -3127,7 +3627,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: Internet Service Provider।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0c952ea3-3211-5499-94dc-200b54f620de",
       "tags": [
@@ -3146,7 +3646,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Wireless Fidelity।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "eed217c9-7478-583a-998c-991013cf149f",
       "tags": [
@@ -3165,7 +3665,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Local Area Network।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "13b86806-18fe-5827-9352-042c39dadab6",
       "tags": [
@@ -3184,7 +3684,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Wide Area Network।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9566680a-d4f7-55e7-a95a-79f939f297a5",
       "tags": [
@@ -3203,7 +3703,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Metropolitan Area Network।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bc18eda6-8af3-5245-9e48-60b7f33e15bc",
       "tags": [
@@ -3222,7 +3722,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Electronic Mail।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0f880fa6-7a0a-5c21-9283-c0905572c5a3",
       "tags": [
@@ -3241,7 +3741,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: संख्याओं का योग करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "427eefc8-af86-5932-80da-bb9a47cc2ac4",
       "tags": [
@@ -3260,7 +3760,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: संख्याओं का औसत निकालता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "87da1a5d-5c9f-528a-a275-bcd4fac6ae0b",
       "tags": [
@@ -3279,7 +3779,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: संख्यात्मक मानों की गिनती करता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bdc67934-c10e-5989-9d26-fce1f5e4d92e",
       "tags": [
@@ -3298,7 +3798,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: अधिकतम मान निकालता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "13bd90d6-117d-50a4-9bbc-f087ceab97e1",
       "tags": [
@@ -3317,7 +3817,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: न्यूनतम मान निकालता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ac0597cc-7255-5d00-831b-20c187d65219",
       "tags": [
@@ -3336,7 +3836,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: शर्त (Condition) के आधार पर मान देता है।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "05431875-5e36-5b1a-bf2a-82446a538cf6",
       "tags": [
@@ -3355,7 +3855,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Copy।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "22b32be6-9cd5-586e-a0c1-f17ebde9ea83",
       "tags": [
@@ -3374,7 +3874,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Paste।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "270bf82e-70b2-594f-b8c0-068a2c39ec56",
       "tags": [
@@ -3393,7 +3893,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Cut।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "acdbf755-d2ae-58e8-8b9b-f53cd0cb1ad9",
       "tags": [
@@ -3412,7 +3912,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Undo।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6d266b79-bd5f-57dd-a3a7-41444e8e47e2",
       "tags": [
@@ -3431,7 +3931,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Redo।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "12fae0c9-bd29-5a3b-96ef-06aa7ab718b6",
       "tags": [
@@ -3450,7 +3950,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Save।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ae7d7296-3f87-57e3-b915-f940eca4cf74",
       "tags": [
@@ -3469,7 +3969,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Select All।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9b77c4ea-0bab-5b42-a1b5-4e45f58c53ea",
       "tags": [
@@ -3488,7 +3988,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Print।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "82ad8a04-f180-582b-b143-940998235e50",
       "tags": [
@@ -3507,7 +4007,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Find।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "89452522-f84b-5dcc-bae3-e0ef97eda636",
       "tags": [
@@ -3526,7 +4026,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: प्रोग्राम बंद करना (Close)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "97493623-5c6e-5a94-8d4b-6c936b6e1585",
       "tags": [
@@ -3545,7 +4045,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: स्लाइड शो शुरू करना।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d1c6afd0-d073-52d9-929c-97348d8e6cb4",
       "tags": [
@@ -3564,7 +4064,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: चार्ल्स बैबेज।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1d2b945a-b0d6-52ca-9586-bbadf6ff14fb",
       "tags": [
@@ -3583,7 +4083,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: ENIAC।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1bfbf6aa-b149-5175-b119-73ad150534fc",
       "tags": [
@@ -3602,7 +4102,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: PARAM 8000।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ee782907-41a5-587e-8834-e80916dc499a",
       "tags": [
@@ -3621,7 +4121,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: विंट सर्फ और बॉब कान।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d21a23c4-eb41-5906-a37a-5d485bbd2f3f",
       "tags": [
@@ -3640,7 +4140,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: टिम बर्नर्स-ली।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f8ce8c6d-0925-5cf1-af31-dfd6c88d06ee",
       "tags": [
@@ -3659,7 +4159,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: लैरी पेज और सर्गेई ब्रिन।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "c558f03d-ee12-589a-a90e-6edfbd27b869",
       "tags": [
@@ -3678,7 +4178,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: मार्क जुकरबर्ग।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "19d4a9f1-dfef-5e40-b4b5-e965bfcb010b",
       "tags": [
@@ -3697,7 +4197,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: बिल गेट्स और पॉल एलन।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "6ee1c664-1c3b-58cc-9525-4cb596656c3e",
       "tags": [
@@ -3716,7 +4216,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: स्टीव जॉब्स, स्टीव वोज़नियाक।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4ae71248-578e-5a3b-8cc8-51f094c808b4",
       "tags": [
@@ -3735,7 +4235,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: वैक्यूम ट्यूब।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d1c5ecea-f995-56b2-9a16-dd206fd6ab85",
       "tags": [
@@ -3754,7 +4254,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: ट्रांजिस्टर।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "a84dc1b0-22ff-59a9-8c5e-2abb440647fd",
       "tags": [
@@ -3773,7 +4273,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: IC (Integrated Circuit)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "dd45d708-3729-5caa-9fda-f8c2ea1b503a",
       "tags": [
@@ -3792,7 +4292,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: माइक्रोप्रोसेसर (VLSI)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "0d6ce40f-08e3-51ac-9214-1c9f3dcc19b5",
       "tags": [
@@ -3811,7 +4311,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: कृत्रिम बुद्धिमत्ता (AI)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "efa6cb7e-c937-5eb5-aef8-b842ec20d5ec",
       "tags": [
@@ -3830,7 +4330,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: नेटवर्क सुरक्षा प्रणाली।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "860a69cc-0cc5-5a1d-8a03-166170964865",
       "tags": [
@@ -3849,7 +4349,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: अनधिकृत रूप से कंप्यूटर/नेटवर्क में प्रवेश।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "836e0c51-2c74-5334-8fe3-bf52fc0137ea",
       "tags": [
@@ -3868,7 +4368,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: नकली वेबसाइट/ईमेल द्वारा व्यक्तिगत जानकारी चुराना।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4913722e-df3f-5155-8f63-2b404df9002f",
       "tags": [
@@ -3887,7 +4387,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: डेटा को एन्क्रिप्ट कर फिरौती माँगने वाला मालवेयर।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "9c9905f5-9ba2-5bc2-ac0d-2e0242a1adb9",
       "tags": [
@@ -3906,7 +4406,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Portable Document Format।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "345aa176-c7ab-56fb-987b-17625c91a393",
       "tags": [
@@ -3925,7 +4425,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: MS Excel।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "665b3558-d0d0-5cc1-87be-f0f013d56516",
       "tags": [
@@ -3944,7 +4444,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: MS Word।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "00ec39cb-3b22-506c-88a0-6450b1a399d5",
       "tags": [
@@ -3963,7 +4463,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: MS PowerPoint।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "f54f2e59-75da-5677-9646-848b7f5eb801",
       "tags": [
@@ -3982,7 +4482,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: Image/Photo फाइल।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "bd5a664d-7a84-5554-9aa7-a8ce34b650bf",
       "tags": [
@@ -4001,7 +4501,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Audio फाइल।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8785d820-17d6-5040-a8d0-209865274e83",
       "tags": [
@@ -4020,7 +4520,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Video फाइल।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "5698cfb4-d5e6-5155-afd3-624dd48235ce",
       "tags": [
@@ -4039,7 +4539,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Unified Mobile Application for New-age Governance।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0b4e57f5-cee4-5ccc-be2d-5fd220b4277d",
       "tags": [
@@ -4058,7 +4558,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: डिजिटल दस्तावेज़ भंडारण प्लेटफॉर्म।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "b79bddac-7f37-5222-b9b7-cfe4395184e6",
       "tags": [
@@ -4077,7 +4577,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Unified Payments Interface।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "bea2bb5a-c9cf-582b-9c6f-47d7df9dd43f",
       "tags": [
@@ -4096,7 +4596,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: डिजिटल भुगतान (UPI Payment)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4ddbe732-72c0-57d1-b4e2-b86a2a06d080",
       "tags": [
@@ -4115,7 +4615,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: 12 अंक।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "aef79437-f2dc-53f2-ae9c-55fc4b29ac6c",
       "tags": [
@@ -4134,7 +4634,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: डेनिस रिची।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "1cae5ed5-3f06-50fd-a4c2-2aa3041af9cc",
       "tags": [
@@ -4153,7 +4653,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: जेम्स गोस्लिंग।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "d78cbdd6-4078-5ae9-9d96-4c7102543409",
       "tags": [
@@ -4172,7 +4672,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: गुइडो वैन रॉसम।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9163ba1a-fa04-5292-ab6a-dfe00b21cce9",
       "tags": [
@@ -4191,7 +4691,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: बियरने स्ट्रॉस्ट्रप।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "ee95df43-0e29-5306-b9b2-fd5ed4bcc1f9",
       "tags": [
@@ -4210,7 +4710,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: इंटरनेट पर डेटा स्टोरेज और कंप्यूटिंग सेवाएँ।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "e951af46-cbb1-55c1-a58c-d72176be428c",
       "tags": [
@@ -4229,7 +4729,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: कृत्रिम बुद्धिमत्ता।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "4e06dcb7-c548-5d2c-bf76-109a2461cc36",
       "tags": [
@@ -4248,7 +4748,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: उपकरणों को इंटरनेट से जोड़ने की तकनीक।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "0c7c5adc-eff7-566b-8574-d122f43c38a1",
       "tags": [
@@ -4267,7 +4767,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: वायरलेस डेटा ट्रांसफर तकनीक (शॉर्ट रेंज)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "01303ef1-5475-5b9f-921f-0bec7670923d",
       "tags": [
@@ -4286,7 +4786,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: Global Positioning System।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "3ac0740f-23ef-586e-ae52-7c7e784fc0c2",
       "tags": [
@@ -4305,7 +4805,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Portable Document Format।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "3d401be2-0af7-59ff-a24b-505aca079dd3",
       "tags": [
@@ -4324,7 +4824,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: American Standard Code for Information Interchange।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "56e2ae6c-eba3-50b7-b751-f96915f5f9a7",
       "tags": [
@@ -4343,7 +4843,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Basic Input Output System।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "875f52b6-cdf0-5711-8563-8aebccd8de63",
       "tags": [
@@ -4362,7 +4862,7 @@
       "correctIndex": 0,
       "explanation": "सही उत्तर: Simple Mail Transfer Protocol।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "413d346b-80fb-5bd5-8e05-7f8a81e139fb",
       "tags": [
@@ -4381,7 +4881,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: File Transfer Protocol।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "746c8b11-5b4a-58ff-b9f8-28bf4207b4d3",
       "tags": [
@@ -4400,7 +4900,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: पृष्ठ के ऊपर और नीचे।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "8549ae0a-0d83-5691-8360-3552ff250fda",
       "tags": [
@@ -4419,7 +4919,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: एक ही पत्र को कई लोगों को भेजने की सुविधा।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "fffb73b4-b40f-50f0-8d8c-d388db7d81b9",
       "tags": [
@@ -4438,7 +4938,7 @@
       "correctIndex": 2,
       "explanation": "सही उत्तर: वर्तनी (Spelling) की जाँच करने।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "5325985d-f2d7-5a32-b669-13bfb17bb48f",
       "tags": [
@@ -4457,7 +4957,7 @@
       "correctIndex": 1,
       "explanation": "सही उत्तर: Column Letter + Row Number (जैसे A1, B2)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "ba15ac41-28f8-586d-8d3b-d8e90ec7a8c3",
       "tags": [
@@ -4476,7 +4976,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 1,048,576।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "9696da67-294b-5faf-8557-971e763bd5c2",
       "tags": [
@@ -4495,7 +4995,7 @@
       "correctIndex": 3,
       "explanation": "सही उत्तर: 16,384 (XFD)।",
       "subCategory": "कंप्यूटर",
-      "difficulty": "Medium",
+      "difficulty": "easy",
       "questionType": "mcq",
       "uuid": "364dac56-97fb-5687-8baf-095d9c926d5b",
       "tags": [
@@ -4535,7 +5035,7 @@
       "subCategory": "इंटरनेट एवं साइबर सुरक्षा",
       "questionType": "mcq",
       "uuid": "76c795c6-11a8-464b-b0d3-14a239626d7f",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
@@ -4554,7 +5054,7 @@
       "subCategory": "कंप्यूटर हार्डवेयर",
       "questionType": "mcq",
       "uuid": "f7ee2cb4-3817-4091-9e31-c74a43e01b74",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
@@ -4649,7 +5149,7 @@
       "subCategory": "प्रोग्रामिंग भाषाएं",
       "questionType": "mcq",
       "uuid": "4f3d9185-fc83-48a0-9275-e59adfef752d",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
@@ -4668,7 +5168,7 @@
       "subCategory": "क्लाउड कंप्यूटिंग",
       "questionType": "mcq",
       "uuid": "79328e06-a9e5-4249-b9b2-2eb24d8bfa63",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
@@ -4706,7 +5206,7 @@
       "subCategory": "MS Office",
       "questionType": "mcq",
       "uuid": "e2f86e14-4787-48eb-972d-a493f94eb356",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
@@ -4782,7 +5282,7 @@
       "subCategory": "कंप्यूटर हार्डवेयर",
       "questionType": "mcq",
       "uuid": "634e6947-b684-42da-8ab6-5761efc2619b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Computer"

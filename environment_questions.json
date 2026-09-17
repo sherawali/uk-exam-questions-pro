@@ -12,7 +12,7 @@
       "explanation": "औरोहानी वन्यजीव अभयारण्य चमोली जिले में स्थित है।",
       "category": "Environment",
       "subCategory": "Wildlife Sanctuaries",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -35,7 +35,7 @@
       "explanation": "जिम कॉर्बेट राष्ट्रीय उद्यान उत्तराखंड का प्रमुख अंतर्राष्ट्रीय पक्षी विहार है।",
       "category": "Environment",
       "subCategory": "Bird Sanctuaries",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -58,7 +58,7 @@
       "explanation": "गंगोत्री राष्ट्रीय उद्यान 1985 में स्थापित हुआ।",
       "category": "Environment",
       "subCategory": "National Parks",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -81,7 +81,7 @@
       "explanation": "नंदा देवी जैविक विविधता उद्यान उत्तराखंड में है।",
       "category": "Environment",
       "subCategory": "Biosphere Reserves",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -104,7 +104,7 @@
       "explanation": "भागीरथी अलकनदा की प्रमुख सहायक नहीं है।",
       "category": "Environment",
       "subCategory": "Rivers",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -127,7 +127,7 @@
       "explanation": "नंदा देवी (7816 मीटर) उत्तराखंड का सबसे ऊंचा शिखर है।",
       "category": "Environment",
       "subCategory": "Mountains",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -150,7 +150,7 @@
       "explanation": "गोविंद सागर उत्तराखंड में 3050 मीटर की ऊंचाई पर स्थित है।",
       "category": "Environment",
       "subCategory": "Lakes",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -173,7 +173,7 @@
       "explanation": "ब्लूमैनिक (Blue Myth) प्रजाति जिम कॉर्बेट राष्ट्रीय उद्यान में पाई जाती है।",
       "category": "Environment",
       "subCategory": "Wildlife",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -196,7 +196,7 @@
       "explanation": "वन्यजीव संस्थान (WII) हल्द्वानी, नैनीताल में स्थित है।",
       "category": "Environment",
       "subCategory": "Research Institutes",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -219,7 +219,7 @@
       "explanation": "जिम कॉर्बेट राष्ट्रीय उद्यान उत्तराखंड का प्रमुख राष्ट्रीय उद्यान है।",
       "category": "Environment",
       "subCategory": "National Parks",
-      "difficulty": 1,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -242,7 +242,7 @@
       "explanation": "टिहरी गोदी बांध भागीरथी नदी पर बना है।",
       "category": "Environment",
       "subCategory": "Dams",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -265,7 +265,7 @@
       "explanation": "मानसून वन्यजीव निकाय 2015 में आरंभ हुआ।",
       "category": "Environment",
       "subCategory": "Conservation",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -288,7 +288,7 @@
       "explanation": "उत्तराखंड में लगभग 315 बंगाल टाइगर हैं।",
       "category": "Environment",
       "subCategory": "Endangered Species",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -311,7 +311,7 @@
       "explanation": "राजाजी राष्ट्रीय उद्यान उधम सिंह नगर जिले में है।",
       "category": "Environment",
       "subCategory": "National Parks",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -334,7 +334,7 @@
       "explanation": "रामगंगा उत्तराखंड का पक्षी विहार नहीं है।",
       "category": "Environment",
       "subCategory": "Bird Sanctuaries",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -357,7 +357,7 @@
       "explanation": "ताज़ुल मलिक (Monal) ऊंची पर्वत श्रृंखला म���ं पाया जाता है।",
       "category": "Environment",
       "subCategory": "Birds",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -380,7 +380,7 @@
       "explanation": "चीतल (Musk Deer) उत्तराखंड का राजकीय पशु है।",
       "category": "Environment",
       "subCategory": "State Animal",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -403,7 +403,7 @@
       "explanation": "ब्रह्मकमल उत्तराखंड का राष्ट्रीय पुष्फ है।",
       "category": "Environment",
       "subCategory": "State Flower",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -426,7 +426,7 @@
       "explanation": "भोंक (Banj) ऊंचाई वाले क्षेत्रों में पाया जाता है।",
       "category": "Environment",
       "subCategory": "Forests",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -449,7 +449,7 @@
       "explanation": "वन्यजीव (संरक्षण) अधिनियम 1987 में लागू हुआ।",
       "category": "Environment",
       "subCategory": "Wildlife Laws",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -472,7 +472,7 @@
       "explanation": "कानत उत्तराखंड का संरक्षित क्षेत्र नहीं है।",
       "category": "Environment",
       "subCategory": "Protected Areas",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -495,7 +495,7 @@
       "explanation": "हिम तेंदुआ उच्च हिमालयी क्षेत्रों में पाया जाता है।",
       "category": "Environment",
       "subCategory": "Endangered Species",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -518,7 +518,7 @@
       "explanation": "चमोली जिले में ट्राइटन मछली पालन प्रमुख है।",
       "category": "Environment",
       "subCategory": "Aquaculture",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -541,7 +541,7 @@
       "explanation": "बालू मिट्टी का उपयोग ईंट बनाने, खेती और निर्माण में होता है।",
       "category": "Environment",
       "subCategory": "Soil",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -564,7 +564,7 @@
       "explanation": "उत्तराखंड में 50+ जल विद्युत परियोजनाएं हैं।",
       "category": "Environment",
       "subCategory": "Hydropower",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -587,7 +587,7 @@
       "explanation": "गंगोत्री हिमनद भागीरथी नदी का प्रमुख स्रोत है।",
       "category": "Environment",
       "subCategory": "Glaciers",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -610,7 +610,7 @@
       "explanation": "कंटी लोवर टेम्पल वायु गुणवत्ता मापन के लिए उपयोग होता है।",
       "category": "Environment",
       "subCategory": "Pollution Monitoring",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -633,7 +633,7 @@
       "explanation": "फूलों की घाटी 1984 में राष्ट्रीय उद्यान बनी।",
       "category": "Environment",
       "subCategory": "National Parks",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -656,7 +656,7 @@
       "explanation": "कठोर पानी में किडनी पत्थर की समस्या होती है।",
       "category": "Environment",
       "subCategory": "Water Quality",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -679,7 +679,7 @@
       "explanation": "मटकूर चमोली जिले का पारंपरिक चरवाहा समुदाय है।",
       "category": "Environment",
       "subCategory": "Tribal Communities",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -702,7 +702,7 @@
       "explanation": "सतपुड़ा मैसिफ़ोड बाघ का प्रमुख आवा�� है।",
       "category": "Environment",
       "subCategory": "Wildlife Habitats",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -725,7 +725,7 @@
       "explanation": "कौनिया झरना चम्पावत जिले में स्थित है।",
       "category": "Environment",
       "subCategory": "Waterfalls",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -748,7 +748,7 @@
       "explanation": "चोपता का वैज्ञानिक नाम मोना लोफ़िओसिस है।",
       "category": "Environment",
       "subCategory": "Birds",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -771,7 +771,7 @@
       "explanation": "टफ़्ट मृदा घाटियों में पाई जाती है।",
       "category": "Environment",
       "subCategory": "Soil Types",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -794,7 +794,7 @@
       "explanation": "केदारनाथ मंदिर 3584 मीटर की ऊंचाई पर है।",
       "category": "Environment",
       "subCategory": "Religious Places",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -817,7 +817,7 @@
       "explanation": "हिमालयन इंस्टीट्यूट ऑफ़ माइनिंग हल्द्वानी में है।",
       "category": "Environment",
       "subCategory": "Educational Institutes",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -840,7 +840,7 @@
       "explanation": "बेरोज़गारी के कई कारण हैं - कम उद्योग, शिक्षा, और अवसंरचना।",
       "category": "Environment",
       "subCategory": "Social Issues",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -863,7 +863,7 @@
       "explanation": "डोंग झरना उत्तरकाशी जिले में है।",
       "category": "Environment",
       "subCategory": "Waterfalls",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -886,7 +886,7 @@
       "explanation": "डोडियाली लोक नृत्य तिउर (शीतकालीन त्योहार) पर किया जाता है।",
       "category": "Environment",
       "subCategory": "Folk Dance",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -909,7 +909,7 @@
       "explanation": "जंगल बृहद में काला भालू (Himalayan Black Bear) है।",
       "category": "Environment",
       "subCategory": "Bears",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -932,7 +932,7 @@
       "explanation": "उत्तराखंड में सिंचाई मुख्यतः कूंएं से होती है।",
       "category": "Environment",
       "subCategory": "Irrigation",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -955,7 +955,7 @@
       "explanation": "चीता भारत से विलुप्त हो चुका है।",
       "category": "Environment",
       "subCategory": "Extinct Species",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -978,7 +978,7 @@
       "explanation": "चूना पत्थर उत्तराखंड का प्रमुख खनिज है।",
       "category": "Environment",
       "subCategory": "Minerals",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1001,7 +1001,7 @@
       "explanation": "भैंसी से मusk (कस्तूरी) प्राप्त होती है।",
       "category": "Environment",
       "subCategory": "Animal Products",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1024,7 +1024,7 @@
       "explanation": "वायु प्रदूषण के कई कारण हैं।",
       "category": "Environment",
       "subCategory": "Air Pollution",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1047,7 +1047,7 @@
       "explanation": "जैव विविधता घटने के कई कारण हैं।",
       "category": "Environment",
       "subCategory": "Biodiversity",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1070,7 +1070,7 @@
       "explanation": "गंगा उत्तराखंड की प्रमुख नदी है।",
       "category": "Environment",
       "subCategory": "Rivers",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1093,7 +1093,7 @@
       "explanation": "वन्यजीव संरक्षण अधिनियम 1972 में लागू हुआ।",
       "category": "Environment",
       "subCategory": "Wildlife Laws",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1116,7 +1116,7 @@
       "explanation": "पर्यावरण दिवस 5 जून को मनाया जाता है।",
       "category": "Environment",
       "subCategory": "Environmental Days",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1139,7 +1139,7 @@
       "explanation": "ग्लेशियर पहाड़ी सतह पर बनता है।",
       "category": "Environment",
       "subCategory": "Glaciers",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1162,7 +1162,7 @@
       "explanation": "जल संकट के कई कारण हैं।",
       "category": "Environment",
       "subCategory": "Water Crisis",
-      "difficulty": 2,
+      "difficulty": "hard",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1185,7 +1185,7 @@
       "explanation": "झंडू मांसाहारी पक्षी है।",
       "category": "Environment",
       "subCategory": "Birds",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1208,7 +1208,7 @@
       "explanation": "Uttarakhand Pollution Control Board (UPPCB) पर्यावरण नियामक है।",
       "category": "Environment",
       "subCategory": "Regulatory Bodies",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1231,7 +1231,7 @@
       "explanation": "हिमालयन बार्ट्रेड कीटाहारी है।",
       "category": "Environment",
       "subCategory": "Mammals",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1254,7 +1254,7 @@
       "explanation": "जिम कॉर्बेट क्षेत्र में जैविक विविधता सबसे अधिक है।",
       "category": "Environment",
       "subCategory": "Biodiversity",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1277,7 +1277,7 @@
       "explanation": "रेड डेटा IUCN द्वारा प्रकाशित होता है।",
       "category": "Environment",
       "subCategory": "Conservation",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1300,7 +1300,7 @@
       "explanation": "उत्तराखंड में 6 नेशनल पार्क हैं।",
       "category": "Environment",
       "subCategory": "National Parks",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1323,7 +1323,7 @@
       "explanation": "मोनाल 2015 में उत्तराखंड का राजकीय पक्षी बना।",
       "category": "Environment",
       "subCategory": "State Bird",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1346,7 +1346,7 @@
       "explanation": "देवदार (Deodar) उत्तराखंड का राष्ट्रीय वृक्ष है।",
       "category": "Environment",
       "subCategory": "State Tree",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1369,7 +1369,7 @@
       "explanation": "रैबीज़ कुत्ते से फैलता है।",
       "category": "Environment",
       "subCategory": "Diseases",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1392,7 +1392,7 @@
       "explanation": "उत्तराखंड में वार्षिक वर्षा 1500-2000 MM है।",
       "category": "Environment",
       "subCategory": "Climate",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1415,7 +1415,7 @@
       "explanation": "बादल 3 प्रकार के होते हैं - सिर्रस, क्यूम्युलस, निंबस।",
       "category": "Environment",
       "subCategory": "Weather",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1438,7 +1438,7 @@
       "explanation": "उत्तराखंड में सोलर एनर्जी की संभावना उच्च है।",
       "category": "Environment",
       "subCategory": "Renewable Energy",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1461,7 +1461,7 @@
       "explanation": "पीएम 2.5 का अर्थ 2.5 माइक्रोन के कण।",
       "category": "Environment",
       "subCategory": "Air Pollution",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1484,7 +1484,7 @@
       "explanation": "तापमान मैदानी क्षेत्रों में सबसे अधिक होता है।",
       "category": "Environment",
       "subCategory": "Climate",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1507,7 +1507,7 @@
       "explanation": "बायोगैस गोबर से बनती है।",
       "category": "Environment",
       "subCategory": "Renewable Energy",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1530,7 +1530,7 @@
       "explanation": "कंपोस्ट खाद खेती में उपयोग होती है।",
       "category": "Environment",
       "subCategory": "Fertilizers",
-      "difficulty": 1,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1553,7 +1553,7 @@
       "explanation": "वृक्षारोपण से मृदा क्षरण रोका जा सकता है।",
       "category": "Environment",
       "subCategory": "Soil Conservation",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1576,7 +1576,7 @@
       "explanation": "जलवायु परिवर्तन के सभी प्रभाव दिखाई दे रहे हैं।",
       "category": "Environment",
       "subCategory": "Climate Change",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1599,7 +1599,7 @@
       "explanation": "राइज़ोबियम जैविक खाद में प्रमुख है।",
       "category": "Environment",
       "subCategory": "Biofertilizers",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1622,7 +1622,7 @@
       "explanation": "धूप की तीव्रता दोपहर में सबसे अधिक होती है।",
       "category": "Environment",
       "subCategory": "Climate",
-      "difficulty": 1,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1645,7 +1645,7 @@
       "explanation": "कार्बन फ़ुटप्रिंट CO2 उत्सर्जन का माप है।",
       "category": "Environment",
       "subCategory": "Carbon Footprint",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1668,7 +1668,7 @@
       "explanation": "शीतकालीन मानसून दिसंबर-जनवरी में होता है।",
       "category": "Environment",
       "subCategory": "Monsoon",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1691,7 +1691,7 @@
       "explanation": "ऊर्जा संरक्षण दिवस 14 दिसंबर को मनाया जाता है।",
       "category": "Environment",
       "subCategory": "Energy Conservation",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1714,7 +1714,7 @@
       "explanation": "उ��्तराखंड में वायु की दिशा मुख्यतः पश्चिमी होती है।",
       "category": "Environment",
       "subCategory": "Winds",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1737,7 +1737,7 @@
       "explanation": "रेनवाटर हैर्वेस्टिंग के कई उद्देश्य हैं।",
       "category": "Environment",
       "subCategory": "Water Conservation",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1760,7 +1760,7 @@
       "explanation": "हरित प्रदूषण कृषि अवशेष से होता है।",
       "category": "Environment",
       "subCategory": "Pollution",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1783,7 +1783,7 @@
       "explanation": "जैविक विविधता संधि 1992 में हुई।",
       "category": "Environment",
       "subCategory": "International Agreements",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1806,7 +1806,7 @@
       "explanation": "सतत विकास का अर्थ है संतुलित विकास।",
       "category": "Environment",
       "subCategory": "Sustainable Development",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1829,7 +1829,7 @@
       "explanation": "कचरे से ऊर्जा परियोजना देहरादून में है।",
       "category": "Environment",
       "subCategory": "Waste Management",
-      "difficulty": 3,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1852,7 +1852,7 @@
       "explanation": "Uttarakhand Pollution Control Board (UPCB)।",
       "category": "Environment",
       "subCategory": "Regulatory Bodies",
-      "difficulty": 2,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1875,7 +1875,7 @@
       "explanation": "हरित क्रांति का उद्देश्य खाद्य उत्पादन बढ़ाना था।",
       "category": "Environment",
       "subCategory": "Green Revolution",
-      "difficulty": 2,
+      "difficulty": "medium",
       "questionType": "mcq",
       "examTarget": [
         "both"
@@ -1898,7 +1898,7 @@
       "explanation": "पुनर्चक्रण की दर लगभग 5% है।",
       "category": "Environment",
       "subCategory": "Recycling",
-      "difficulty": 3,
+      "difficulty": "easy",
       "questionType": "mcq",
       "examTarget": [
         "both"
