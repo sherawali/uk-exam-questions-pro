@@ -1,6 +1,18 @@
 {
   "version": "4.4.0",
   "last_sync": "2026-09-17T11:55:00Z",
+  "flash_news": {
+    "enabled": false,
+    "id": "news_v1",
+    "title": "UKSSSC परीक्षा सूचना",
+    "title_en": "UKSSSC Exam Notice",
+    "message": "🔥 स्नातक स्तरीय परीक्षा (VDO/VPDO) 2026 के लिए नए प्रश्न अपडेट कर दिए गए हैं!",
+    "message_en": "🔥 New questions updated for Graduate Level 2026 exam!",
+    "type": "info",
+    "action_label": "अपडेट देखें",
+    "action_label_en": "View Update",
+    "action_route": "sync"
+  },
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
