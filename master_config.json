@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0",
-  "last_sync": "2026-09-17T11:55:00Z",
+  "version": "4.5.0",
+  "last_sync": "2026-09-17T23:29:58Z",
   "flash_news": {
     "enabled": false,
     "id": "news_v1",
@@ -16,7 +16,7 @@
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 9965,
+    "total_questions": 10115,
     "files": {
       "agriculture_questions.json": 172,
       "computer_questions.json": 251,
@@ -25,7 +25,7 @@
       "environment_questions.json": 83,
       "geography_questions.json": 93,
       "hindi_questions.json": 390,
-      "history_questions.json": 1083,
+      "history_questions.json": 1233,
       "math_questions.json": 499,
       "polity_questions.json": 381,
       "reasoning_questions.json": 500,
