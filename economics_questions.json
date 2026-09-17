@@ -12,7 +12,7 @@
       "explanation": "भारत में वस्तु एवं सेवा कर (GST) 1 जुलाई 2017 को लागू किया गया था। यह एक अप्रत्यक्ष कर (Indirect Tax) है।",
       "questionType": "mcq",
       "uuid": "e956f97c-3994-5ec8-8c86-559b7eb20cb6",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "subCategory": "Economics",
       "tags": [
         "UK-EXAM-PRO",
@@ -50,7 +50,7 @@
       "explanation": "RBI का मुख्यालय मुंबई में स्थित है। इसकी स्थापना 1 अप्रैल 1935 को हुई थी।",
       "questionType": "mcq",
       "uuid": "e276c492-073f-564d-8ecf-79a3137a896e",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "subCategory": "Economics",
       "tags": [
         "UK-EXAM-PRO",
@@ -107,7 +107,7 @@
       "explanation": "उत्तराखंड की अर्थव्यवस्था मुख्य रूप से पर्यटन (Tirth Yatra & Adventure) और कृषि पर निर्भर है।",
       "questionType": "mcq",
       "uuid": "7e140b38-3cf5-53bb-8629-fc9e389b95fa",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "subCategory": "Economics",
       "tags": [
         "UK-EXAM-PRO",
@@ -203,14 +203,14 @@
       "questionType": "mcq",
       "subCategory": "Basic Concepts",
       "uuid": "39f64a9e-0e17-5c5b-8684-50a81a2f9eb0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
       ]
     },
     {
-      "question": "कथन 1: पलामपुर गांव में कृषि उत्पादन के मुख्य कारक भूमि, श्रम, पूंजी और उद्यमिता हैं।\nकथन 2: पलामपुर में अधिकांश किसान छोटे जोत वाले हैं और सिंचाई के लिए नलकूपों का उपयोग करते हैं।",
+      "question": "कथन 1: पलामपुर गांव में कृषि उत्पादन के मुख्य कारक भूमि, श्रम, पूंजी और उद्यमिता हैं।\nकथन 2: पलामपुर में अधिकांश किसान छोटे जोत वाले हैं और सिंचाई के लिए नलकूपों का उपयोग करते हैं।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -222,14 +222,14 @@
       "questionType": "mcq",
       "subCategory": "NCERT Class 9 - Village Economy",
       "uuid": "c4d408e1-f96f-5979-8ddd-6f2cd4e30241",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
       ]
     },
     {
-      "question": "अभिकथन (A): भारत में गरीबी की समस्या मुख्य रूप से ग्रामीण क्षेत्रों में व्याप्त है।\nकारण (R): अधिकांश गरीब परिवार कृषि कार्य पर निर्भर हैं और भूमिहीन हैं।",
+      "question": "अभिकथन (A): भारत में गरीबी की समस्या मुख्य रूप से ग्रामीण क्षेत्रों में व्याप्त है।\nकारण (R): अधिकांश गरीब परिवार कृषि कार्य पर निर्भर हैं और भूमिहीन हैं।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं तथा कारण, अभिकथन की सही व्याख्या करता है।",
         "अभिकथन और कारण दोनों सही हैं परन्तु कारण, अभिकथन की सही व्याख्या नहीं करता है।",
@@ -241,7 +241,7 @@
       "questionType": "mcq",
       "subCategory": "Poverty and Development",
       "uuid": "48d247d6-0a62-5c9b-8a27-37ee82048ca9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "question": "कथन 1: 1991 में आर्थिक उदारीकरण के बाद भारत में विदेशी निवेश बढ़ा।\nकथन 2: उदारीकरण से पहले भारत में लाइसेंस राज प्रणाली लागू थी।",
+      "question": "कथन 1: 1991 में आर्थिक उदारीकरण के बाद भारत में विदेशी निवेश बढ़ा।\nकथन 2: उदारीकरण से पहले भारत में लाइसेंस राज प्रणाली लागू थी।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -279,14 +279,14 @@
       "questionType": "mcq",
       "subCategory": "Liberalisation and Reforms",
       "uuid": "ff2573b8-de95-5a63-8c78-77f033fda369",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
       ]
     },
     {
-      "question": "अभिकथन (A): संघीय बजट 2026-27 में सार्वजनिक पूंजीगत व्यय 12.2 लाख करोड़ रुपये निर्धारित किया गया है।\nकारण (R): यह बुनियादी ढांचे के विकास और रोजगार सृजन को बढ़ावा देने के लिए किया गया है।",
+      "question": "अभिकथन (A): संघीय बजट 2026-27 में सार्वजनिक पूंजीगत व्यय 12.2 लाख करोड़ रुपये निर्धारित किया गया है।\nकारण (R): यह बुनियादी ढांचे के विकास और रोजगार सृजन को बढ़ावा देने के लिए किया गया है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं तथा कारण, अभिकथन की सही व्याख्या करता है।",
         "अभिकथन और कारण दोनों सही हैं परन्तु कारण, अभिकथन की सही व्याख्या नहीं करता है।",
@@ -298,7 +298,7 @@
       "questionType": "mcq",
       "subCategory": "Union Budget 2026-27",
       "uuid": "18cb2044-e14a-5bd5-99c9-3e49972ac8f6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "question": "कथन 1: बजट 2026-27 में बुनियादी ढांचे के लिए 12.2 लाख करोड़ रुपये का पूंजीगत व्यय प्रस्तावित है।\nकथन 2: इसमें 7 नए हाई-स्पीड रेल कॉरिडोर और 20 राष्ट्रीय जलमार्गों को शामिल किया गया है।",
+      "question": "कथन 1: बजट 2026-27 में बुनियादी ढांचे के लिए 12.2 लाख करोड़ रुपये का पूंजीगत व्यय प्रस्तावित है।\nकथन 2: इसमें 7 नए हाई-स्पीड रेल कॉरिडोर और 20 राष्ट्रीय जलमार्गों को शामिल किया गया है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -336,7 +336,7 @@
       "questionType": "mcq",
       "subCategory": "Union Budget 2026-27",
       "uuid": "a1858e49-d5a5-514e-b74c-b35b36b330a4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "question": "कथन 1: मुद्रा आपूर्ति में वृद्धि से मुद्रास्फीति बढ़ सकती है।\nकथन 2: रिजर्व बैंक ऑफ इंडिया मुद्रा नीति का नियंत्रण करता है।",
+      "question": "कथन 1: मुद्रा आपूर्ति में वृद्धि से मुद्रास्फीति बढ़ सकती है।\nकथन 2: रिजर्व बैंक ऑफ इंडिया मुद्रा नीति का नियंत्रण करता है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -374,14 +374,14 @@
       "questionType": "mcq",
       "subCategory": "Money and Banking",
       "uuid": "25347816-cc11-5698-91d8-c142e06ca362",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
       ]
     },
     {
-      "question": "अभिकथन (A): हरित क्रांति के बाद भारत में गेहूं और चावल का उत्पादन बढ़ा।\nकारण (R): उच्च उपज वाली किस्मों, उर्वरकों और सिंचाई का उपयोग बढ़ा।",
+      "question": "अभिकथन (A): हरित क्रांति के बाद भारत में गेहूं और चावल का उत्पादन बढ़ा।\nकारण (R): उच्च उपज वाली किस्मों, उर्वरकों और सिंचाई का उपयोग बढ़ा।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं तथा कारण, अभिकथन की सही व्याख्या करता है।",
         "अभिकथन और कारण दोनों सही हैं परन्तु कारण, अभिकथन की सही व्याख्या नहीं करता है।",
@@ -393,7 +393,7 @@
       "questionType": "mcq",
       "subCategory": "Agriculture and Food Security",
       "uuid": "d0df48e2-2739-575a-adab-759d076d9e5c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "question": "कथन 1: वैश्वीकरण से भारत में आईटी क्षेत्र का विकास हुआ।\nकथन 2: वैश्वीकरण से कृषि निर्यात में कमी आई।",
+      "question": "कथन 1: वैश्वीकरण से भारत में आईटी क्षेत्र का विकास हुआ।\nकथन 2: वैश्वीकरण से कृषि निर्यात में कमी आई।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -431,14 +431,14 @@
       "questionType": "mcq",
       "subCategory": "Globalisation",
       "uuid": "7631b179-bbc5-53a7-bfb3-7b6e82afbf33",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
       ]
     },
     {
-      "question": "अभिकथन (A): कक्षा 11 में 'मानव पूंजी' को भौतिक पूंजी से अलग बताया गया है।\nकारण (R): मानव पूंजी में शिक्षा, स्वास्थ्य और कौशल शामिल हैं।",
+      "question": "अभिकथन (A): कक्षा 11 में 'मानव पूंजी' को भौतिक पूंजी से अलग बताया गया है।\nकारण (R): मानव पूंजी में शिक्षा, स्वास्थ्य और कौशल शामिल हैं।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं तथा कारण, अभिकथन की सही व्याख्या करता है।",
         "अभिकथन और कारण दोनों सही हैं परन्तु कारण, अभिकथन की सही व्याख्या नहीं करता है।",
@@ -450,7 +450,7 @@
       "questionType": "mcq",
       "subCategory": "Human Capital - Class 11",
       "uuid": "81a387f5-aa03-50e0-9d45-78a60e7a2030",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -488,14 +488,14 @@
       "questionType": "mcq",
       "subCategory": "Union Budget 2026-27",
       "uuid": "570279d8-28df-5f4c-add3-dd7858f10b04",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
       ]
     },
     {
-      "question": "कथन 1: NCERT कक्षा 6-8 में संसाधनों को नवीकरणीय और अनवीकरणीय में बांटा गया है।\nकथन 2: कक्षा 9 में 'लोग एक संसाधन' अध्याय मानव पूंजी पर केंद्रित है।",
+      "question": "कथन 1: NCERT कक्षा 6-8 में संसाधनों को नवीकरणीय और अनवीकरणीय में बांटा गया है।\nकथन 2: कक्षा 9 में 'लोग एक संसाधन' अध्याय मानव पूंजी पर केंद्रित है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -507,7 +507,7 @@
       "questionType": "mcq",
       "subCategory": "NCERT Class 6-9 Basic",
       "uuid": "b1ca79ad-45df-539b-b209-7f98b29b47da",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -526,7 +526,7 @@
       "questionType": "mcq",
       "subCategory": "Basic Economic Concepts",
       "uuid": "25a46dca-a9f2-513a-aa5d-50956cb4c3c3",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -545,7 +545,7 @@
       "questionType": "mcq",
       "subCategory": "National Income",
       "uuid": "ad49eb55-0c00-5833-9dff-acbbd659252a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -564,7 +564,7 @@
       "questionType": "mcq",
       "subCategory": "Money and Banking",
       "uuid": "8261ae10-fe95-5ed2-a23c-360e23f537f8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -583,7 +583,7 @@
       "questionType": "mcq",
       "subCategory": "Current Affairs - Budget",
       "uuid": "3ab79fdd-0a75-52bd-b80f-1eeef50e1c44",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -602,7 +602,7 @@
       "questionType": "mcq",
       "subCategory": "Government Schemes - Agriculture",
       "uuid": "3f2990d8-96bc-599f-85df-66d666110c3d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -621,7 +621,7 @@
       "questionType": "mcq",
       "subCategory": "Monetary Policy",
       "uuid": "89fed00f-d269-5a8f-9b98-5045dd18ce20",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -659,7 +659,7 @@
       "questionType": "mcq",
       "subCategory": "Employment and Unemployment",
       "uuid": "5b38a969-9e67-54d0-88eb-3621774364ff",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -678,7 +678,7 @@
       "questionType": "mcq",
       "subCategory": "Tax Reforms",
       "uuid": "c6fed1ce-5717-55fa-b52f-95a1c75ad5fc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -716,7 +716,7 @@
       "questionType": "mcq",
       "subCategory": "Financial Inclusion",
       "uuid": "6328d447-b3e0-5fd2-81f8-28273f74f3cc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -735,7 +735,7 @@
       "questionType": "mcq",
       "subCategory": "Agricultural Development",
       "uuid": "c3a6226a-606b-5440-ad3e-41b9b1dee642",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -773,7 +773,7 @@
       "questionType": "mcq",
       "subCategory": "Food Security",
       "uuid": "50a97d28-d6c4-577a-ae02-5eb55abecc45",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -792,7 +792,7 @@
       "questionType": "mcq",
       "subCategory": "Economic Reforms",
       "uuid": "e35c4093-f776-56cb-8f96-205986f0e9dc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -811,7 +811,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "7133de3d-b8b9-5d4f-8f02-1d2a5ba58b99",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -830,7 +830,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "6f0acafb-b737-5fb0-86fd-d77595b6ec18",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -887,7 +887,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "61059e54-99a7-5e75-97a9-4916ad38bb2c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -906,7 +906,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "cd836f2e-68bf-5b4c-be7a-79a0f664980c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -925,7 +925,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "7ec041d5-24d5-56a9-880c-73bce915fa6a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -944,7 +944,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "5e0b96f6-8c5e-596e-b800-631c23ae1c09",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1001,7 +1001,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "46bfb9a2-594a-5a23-a6ce-af3cfbcc898e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1020,7 +1020,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "66583e62-0f72-57d6-b232-fe636011ad97",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1039,7 +1039,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "cc003ad0-6df7-5cfc-9dc3-1afcda305950",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1058,7 +1058,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "aa830983-b3a2-57bc-b4f5-f4f58959984a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1077,7 +1077,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "d18b9b12-dd39-542e-b586-97bfd5196790",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1096,7 +1096,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "abebe5b3-1907-5571-806a-6404913febb3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1134,7 +1134,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "451ab0ca-32ff-5581-b55a-d44a95f55be1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1191,7 +1191,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "59736e7a-6d05-5f70-a45e-f938407eedbc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1229,7 +1229,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "9c9a41f8-37d7-5a91-bf21-34d6302b9b6d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1305,7 +1305,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "ae53508c-94d9-59f7-bd0f-70cb35cf1b57",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1343,7 +1343,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "78bbab70-b629-5087-baee-24b050a42570",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1381,7 +1381,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "4af96153-e447-5b81-b13d-9c0f884439a1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1400,7 +1400,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "5501e2a6-e255-57e4-8f82-788dbb4a22a7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1457,7 +1457,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "ae017b94-d514-53a6-8ec3-b40476853616",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1476,7 +1476,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "0b7afc17-51e6-535e-b25c-eb8d5ba623ee",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1514,7 +1514,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "17d82c15-d303-5be5-8690-a6f40757642b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1533,7 +1533,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "665b23a0-f7dc-5b68-a1e6-5287bf98c215",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1571,7 +1571,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "359919a9-ce80-5d40-b78e-26207a4a0c75",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1590,7 +1590,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "8030a7fc-1daa-5b6a-b682-1ed08c930ceb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1609,7 +1609,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "734210e3-0d40-57f0-a288-0454af3d823e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1628,7 +1628,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "7af70687-b8dc-508a-b54c-ef3bbeea0466",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1647,7 +1647,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "576c57ee-7562-5470-8baa-986e308048cd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1666,7 +1666,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "cf720a71-6114-5757-b093-6b6c84978c34",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1685,7 +1685,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "1cf28820-c882-5801-89a3-47c0761f0a94",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1704,7 +1704,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "60667122-db18-547f-ab9c-44082d7b0839",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1723,7 +1723,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "b9760519-c7cb-5ef7-a14c-beea96590c75",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1799,7 +1799,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "a1b3c4ee-31f6-5eea-8186-e04caeccc853",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1818,7 +1818,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "b3684c6b-8de1-5c83-955c-9cad7c5de676",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1856,7 +1856,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "9e32bfc3-705b-52af-83a7-ec2b701b37e0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1875,7 +1875,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "5490dfc9-a8d7-586a-9525-4a54bd4d95ab",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1913,7 +1913,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "94ac5e9d-f228-5e77-8036-848604d0e3c0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -1989,7 +1989,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "ad87db4d-0754-5e5b-897d-b95f5a1b92e5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2027,7 +2027,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "02e66c53-10a8-5c3d-8d9e-3fd491edffc5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2046,7 +2046,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "421af71e-267f-5a9e-afa9-f9361cd1b5be",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2065,7 +2065,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "db86064d-d2e2-5401-82c8-185bef22e48f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2084,7 +2084,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "a9e995b8-3b2f-5c23-b6fd-18a2364464b9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2103,7 +2103,7 @@
       "questionType": "mcq",
       "subCategory": "Economics",
       "uuid": "ea6a7f6a-33d6-5262-912a-c002da7c228b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2217,7 +2217,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "f466a05b-99df-490c-9ad7-20772ff7c439",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2293,7 +2293,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "3018ef0b-4e07-43bf-b7a7-39e1f5d8aa0d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2312,7 +2312,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "a64ef5a8-3103-4e01-9d20-129a505f3298",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2426,7 +2426,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "d3d38b29-d74d-43d2-8644-9e04607336dd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2464,7 +2464,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "b21bf6f5-377d-43ba-8ca0-f2e31ea17298",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2559,7 +2559,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "95bec78e-58fe-4d17-944b-dec8e205d323",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2692,7 +2692,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "bf45f8ce-d9db-4910-839c-b6724ce36439",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2730,7 +2730,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "76efd59a-c9d8-41f9-91e3-3a8421d097f4",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2825,7 +2825,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "23361b6c-9cfb-4c2c-94a5-e9767d375e4e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2958,7 +2958,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "e890719d-56a5-485c-96a3-2bfcc06a4a39",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -2996,7 +2996,7 @@
       "subCategory": "NITI Aayog",
       "questionType": "mcq",
       "uuid": "87504bf4-4e76-4c53-b78f-34f7d466441d",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3091,7 +3091,7 @@
       "subCategory": "NITI Aayog नेतृत्व",
       "questionType": "mcq",
       "uuid": "af0fff68-91ef-49ce-8aee-eccd40b73dc0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3129,7 +3129,7 @@
       "subCategory": "NITI Aayog नेतृत्व",
       "questionType": "mcq",
       "uuid": "6112f5f4-f80a-4a35-93e8-da6ba7e50c03",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3224,7 +3224,7 @@
       "subCategory": "NITI Aayog नेतृत्व",
       "questionType": "mcq",
       "uuid": "033aff01-650e-43c3-ad30-29bd7c094ee1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3262,7 +3262,7 @@
       "subCategory": "NITI Aayog नेतृत्व",
       "questionType": "mcq",
       "uuid": "3ba8ae76-fc5a-4ee9-a61c-0cd57906f1e1",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3357,7 +3357,7 @@
       "subCategory": "NITI Aayog नेतृत्व",
       "questionType": "mcq",
       "uuid": "1acb9107-9211-407e-b353-7bdcb1e4e29b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3395,7 +3395,7 @@
       "subCategory": "NITI Aayog नेतृत्व",
       "questionType": "mcq",
       "uuid": "9101a417-dce5-48f3-9ef1-4ca32e2bdcb5",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3414,7 +3414,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "fee7f3e0-e51c-492f-b568-6d5f95618cec",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3490,7 +3490,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "b2ae18c0-b3b1-40ea-914b-c2c9b792a139",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3509,7 +3509,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "5a474b0f-1248-4b64-b519-fcaa17960024",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3623,7 +3623,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "0a028c92-53cf-49f3-85c2-85e2a9e16404",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3661,7 +3661,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "53ca4157-3bdd-4254-93fa-4b4d5b1dcd43",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3756,7 +3756,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "7b1f4558-c8f8-4845-98df-890f35755993",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3794,7 +3794,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "e3547150-027b-400a-9f0c-7e2fc9d60591",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3889,7 +3889,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "289f9e56-8a30-4ac7-b35d-ff68077e1be0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -3927,7 +3927,7 @@
       "subCategory": "Governing Council",
       "questionType": "mcq",
       "uuid": "5ce9deea-85a1-48b8-b1e8-57c142070bdf",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4022,7 +4022,7 @@
       "subCategory": "सहकारी संघवाद",
       "questionType": "mcq",
       "uuid": "237db163-3623-4347-ba43-e05bfe204f44",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4060,7 +4060,7 @@
       "subCategory": "सहकारी संघवाद",
       "questionType": "mcq",
       "uuid": "9c7394ca-5bd5-4df7-a898-c8ccacd3c349",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4155,7 +4155,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "d61d36a8-ba6a-413e-804c-305678b2981a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4193,7 +4193,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "7ea395b1-a5b3-4210-8190-173ec030d31b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4288,7 +4288,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "ba7f8a4c-9315-4f59-8cbd-503746507b34",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4326,7 +4326,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "a64c7dd6-6766-451c-9204-b1e67986961f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4421,7 +4421,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "2e479dac-e72a-4722-905c-e0df7a3660f4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4459,7 +4459,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "82737393-b113-4bc4-8a54-be04f161482d",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4478,7 +4478,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "4da4df27-92aa-42e8-ae97-2799ce5b2571",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4554,7 +4554,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "1c5b1e37-4184-4c1d-94bc-d99bdc624c68",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4573,7 +4573,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "b2922f20-2c4b-45ef-afbf-7e6cb6772fa0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4687,7 +4687,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "2c1ab521-a840-4dc5-885f-2d3d85eaa1cc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4820,7 +4820,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "2834d295-510d-4871-9ef9-4ae2e8fe9a6f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4858,7 +4858,7 @@
       "subCategory": "Aspirational Districts",
       "questionType": "mcq",
       "uuid": "bc66827b-61a5-41f3-934b-671747caf679",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4953,7 +4953,7 @@
       "subCategory": "Aspirational Blocks",
       "questionType": "mcq",
       "uuid": "0f49436f-cc69-4ef5-afbd-1bc2a3699da7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -4991,7 +4991,7 @@
       "subCategory": "Aspirational Blocks",
       "questionType": "mcq",
       "uuid": "a533b1a7-a55d-4495-bb9f-ebc09e4c2007",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5086,7 +5086,7 @@
       "subCategory": "SDG Index",
       "questionType": "mcq",
       "uuid": "febd5a51-b2d7-4dfb-8ce5-ddce9a4cd4e0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5124,7 +5124,7 @@
       "subCategory": "SDG Index",
       "questionType": "mcq",
       "uuid": "83757347-7021-439f-bdd7-302cbdff0ea1",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5219,7 +5219,7 @@
       "subCategory": "SDG Index",
       "questionType": "mcq",
       "uuid": "115b93f4-f6ec-4445-a306-d50db42572b1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5257,7 +5257,7 @@
       "subCategory": "SDG Index",
       "questionType": "mcq",
       "uuid": "dc5d9eb1-0b41-463d-9885-ee4b0c94c651",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5352,7 +5352,7 @@
       "subCategory": "SDG Index",
       "questionType": "mcq",
       "uuid": "5b1f9be9-f60a-4134-9c32-9624a5231dc7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5485,7 +5485,7 @@
       "subCategory": "बहुआयामी गरीबी",
       "questionType": "mcq",
       "uuid": "964fe97e-5776-4dd1-9b8d-241f32e6ad1a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5618,7 +5618,7 @@
       "subCategory": "बहुआयामी गरीबी",
       "questionType": "mcq",
       "uuid": "f6b2919d-180f-43c7-8309-a5f7e38aa95e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5656,7 +5656,7 @@
       "subCategory": "बहुआयामी गरीबी",
       "questionType": "mcq",
       "uuid": "89e4afde-a698-40ff-827a-b4df96e7efc4",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5751,7 +5751,7 @@
       "subCategory": "मुद्रास्फीति मूल अवधारणा",
       "questionType": "mcq",
       "uuid": "f8f1c19b-be7c-4d46-bd5c-627f6beec91a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5884,7 +5884,7 @@
       "subCategory": "CPI",
       "questionType": "mcq",
       "uuid": "9f2df4b1-c5dc-4fb4-b6cf-8fc7bff1616e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -5922,7 +5922,7 @@
       "subCategory": "CPI",
       "questionType": "mcq",
       "uuid": "ee94d1c0-7f31-4155-8987-3b0d4b584d7b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6017,7 +6017,7 @@
       "subCategory": "WPI",
       "questionType": "mcq",
       "uuid": "9c102b59-de3f-410d-b4c9-da712dc9e438",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6055,7 +6055,7 @@
       "subCategory": "WPI",
       "questionType": "mcq",
       "uuid": "57d6b16a-f05e-4a62-9dfd-a08ecdee4959",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6150,7 +6150,7 @@
       "subCategory": "CPI",
       "questionType": "mcq",
       "uuid": "da048c2c-31ce-484e-a0a0-703208a88942",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6188,7 +6188,7 @@
       "subCategory": "CPI",
       "questionType": "mcq",
       "uuid": "926c1ff5-d450-4eee-aa9c-893fc13b2799",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6283,7 +6283,7 @@
       "subCategory": "CPI श्रृंखला",
       "questionType": "mcq",
       "uuid": "8c408dac-6321-4b8f-b0e4-c8efc1e39204",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6321,7 +6321,7 @@
       "subCategory": "CPI श्रृंखला",
       "questionType": "mcq",
       "uuid": "0f638f2f-21c4-4d5a-83d2-28e93824b3bd",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6416,7 +6416,7 @@
       "subCategory": "CPI श्रृंखला",
       "questionType": "mcq",
       "uuid": "df3956a1-3d84-4ee8-8aac-cc2d8fccbf24",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6549,7 +6549,7 @@
       "subCategory": "CPI",
       "questionType": "mcq",
       "uuid": "cfa7e9b7-31ab-496a-b7f0-5276aa37b36f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6587,7 +6587,7 @@
       "subCategory": "CPI",
       "questionType": "mcq",
       "uuid": "b9caf365-061e-46cb-adef-e124ec6658dc",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6682,7 +6682,7 @@
       "subCategory": "CPI/CFPI",
       "questionType": "mcq",
       "uuid": "31721dc7-5158-4de5-8056-343e6991ecc3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6815,7 +6815,7 @@
       "subCategory": "मुद्रास्फीति मापन",
       "questionType": "mcq",
       "uuid": "b9865dde-e7f3-4741-8c3d-f618d3b334e7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6853,7 +6853,7 @@
       "subCategory": "मुद्रास्फीति मापन",
       "questionType": "mcq",
       "uuid": "946ac502-acce-4e69-ac56-152491cbab3b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6948,7 +6948,7 @@
       "subCategory": "मुद्रास्फीति मापन",
       "questionType": "mcq",
       "uuid": "d72bf012-e1f6-4d30-97e9-bfc0d0b3d443",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -6986,7 +6986,7 @@
       "subCategory": "मुद्रास्फीति मापन",
       "questionType": "mcq",
       "uuid": "a4b386c2-8792-4c65-9423-1a5647c4cd26",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7081,7 +7081,7 @@
       "subCategory": "मुद्रास्फीति अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "9114447d-be51-47d7-8630-b121b6fb6c50",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7119,7 +7119,7 @@
       "subCategory": "मुद्रास्फीति अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "3856564c-7ee8-415f-ab7b-ec1af5396a00",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7214,7 +7214,7 @@
       "subCategory": "मुद्रास्फीति अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "6396159b-b816-4afa-a88b-5226e479fd98",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7347,7 +7347,7 @@
       "subCategory": "मुद्रास्फीति अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "1e56df10-eab5-46c0-b421-aaba1181e3b6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7404,7 +7404,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "c4ca5a22-a224-41eb-a34e-869435abba2d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7480,7 +7480,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "3c8f2800-88e0-4201-b52e-c5fd7def237d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7499,7 +7499,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "78f53301-8a98-4a7f-be67-2e129f176b75",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7613,7 +7613,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "878e2ff4-3212-43f7-9ac8-a3961b924f7c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7651,7 +7651,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "1afa8ab6-4da4-4288-bdb5-b2df3922cbc7",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7746,7 +7746,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "f92782bf-a17f-42e0-8fb0-2d8f3c8d1c99",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7784,7 +7784,7 @@
       "subCategory": "मुद्रास्फीति के कारण",
       "questionType": "mcq",
       "uuid": "96cdae58-460b-431c-9ec1-6c1d378ad939",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -7879,7 +7879,7 @@
       "subCategory": "मुद्रास्फीति मापन",
       "questionType": "mcq",
       "uuid": "a7c65ec8-e6f7-4c95-9676-42b4e2b25d88",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8012,7 +8012,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "2c556e8b-8ff1-4de3-879c-15f84905af16",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8050,7 +8050,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "272a7948-dafd-4fc3-ad53-d91f04710281",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8145,7 +8145,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "80054963-c0d2-4fad-ad11-78ff022e0f91",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8183,7 +8183,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "cc800904-ad3e-4f5e-bea9-2158a248fb15",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8278,7 +8278,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "e9e1a7f9-2d49-41b7-8cf9-5211d9886ae5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8316,7 +8316,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "31a472ff-8fd1-4505-a1c5-ac6161bf6d60",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8335,7 +8335,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "155dde2c-8f00-4d61-b771-f8acb5d2870f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8411,7 +8411,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "bd175cb9-0b55-4c23-962b-c3abc727ccd0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8430,7 +8430,7 @@
       "subCategory": "मुद्रास्फीति लक्ष्य",
       "questionType": "mcq",
       "uuid": "0a0d7467-6e31-47a9-b125-59c6001ca8dc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8544,7 +8544,7 @@
       "subCategory": "समसामयिक CPI",
       "questionType": "mcq",
       "uuid": "5b6029dd-512e-4d32-ac3d-08f6252746a2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8582,7 +8582,7 @@
       "subCategory": "समसामयिक CPI",
       "questionType": "mcq",
       "uuid": "683d1fe0-9dac-4259-ac1a-3e18c6ea26a7",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8677,7 +8677,7 @@
       "subCategory": "समसामयिक CPI",
       "questionType": "mcq",
       "uuid": "7d4ea6af-1a3c-4d8e-9478-cd34bad3ed2a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8715,7 +8715,7 @@
       "subCategory": "समसामयिक CPI",
       "questionType": "mcq",
       "uuid": "c553301b-faf2-453e-996d-a9d465a79473",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8810,7 +8810,7 @@
       "subCategory": "समसामयिक CPI",
       "questionType": "mcq",
       "uuid": "17ef8ab7-3755-4a51-8806-22a10d92be3a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8848,7 +8848,7 @@
       "subCategory": "समसामयिक CPI",
       "questionType": "mcq",
       "uuid": "f257836d-ba8f-477d-a84b-c33cb05794a8",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8943,7 +8943,7 @@
       "subCategory": "WPI",
       "questionType": "mcq",
       "uuid": "18e321fe-20ae-4367-80b7-e8add4a6664b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -8981,7 +8981,7 @@
       "subCategory": "WPI",
       "questionType": "mcq",
       "uuid": "935fd7a0-af14-45e8-9236-b628bb6ad48b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9076,7 +9076,7 @@
       "subCategory": "RBI परिचय",
       "questionType": "mcq",
       "uuid": "7ac8fec6-dc8a-40c2-b084-9ef21e4a1396",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9114,7 +9114,7 @@
       "subCategory": "RBI परिचय",
       "questionType": "mcq",
       "uuid": "31c07031-7ff3-4244-8331-18cf825c79c6",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9209,7 +9209,7 @@
       "subCategory": "RBI परिचय",
       "questionType": "mcq",
       "uuid": "da742cad-549b-497b-a245-ddb6841c172d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9247,7 +9247,7 @@
       "subCategory": "RBI परिचय",
       "questionType": "mcq",
       "uuid": "ff376f76-f551-4adb-886f-da6976094928",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9266,7 +9266,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "5a095515-105e-43ce-a0e7-94205098735b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9342,7 +9342,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "33f643ab-1b65-4463-8b36-9cab6127d18c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9361,7 +9361,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "1760c676-526c-4cbf-8dc1-57ab8bc6ecab",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9475,7 +9475,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "2a8c44fc-ca38-4c25-abd4-497087278fd8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9608,7 +9608,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "ad9e0e0a-62ee-47eb-9078-82dacfec0f9a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9741,7 +9741,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "0e6221f3-ede8-4bc6-9d41-83d5742836a8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9798,7 +9798,7 @@
       "subCategory": "बैंकिंग आरक्षित अनुपात",
       "questionType": "mcq",
       "uuid": "96aa1326-61af-44e1-ac32-57632f369159",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9874,7 +9874,7 @@
       "subCategory": "बैंकिंग आरक्षित अनुपात",
       "questionType": "mcq",
       "uuid": "e99c832b-f622-490f-8c0e-20a83a1fefac",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -9893,7 +9893,7 @@
       "subCategory": "बैंकिंग आरक्षित अनुपात",
       "questionType": "mcq",
       "uuid": "f13d8b15-2be7-447c-acde-515e9d3bf7fd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10007,7 +10007,7 @@
       "subCategory": "बैंकिंग आरक्षित अनुपात",
       "questionType": "mcq",
       "uuid": "0d806cc1-0fcc-4895-8a82-ae6138867b67",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10140,7 +10140,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "30723168-a23c-4f52-b926-1f626536f6cd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10178,7 +10178,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "ba02c0aa-358c-4376-ab95-5fed6a90ccd3",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10273,7 +10273,7 @@
       "subCategory": "मौद्रिक नीति उपकरण",
       "questionType": "mcq",
       "uuid": "1030c898-f55d-466f-a38d-12873a1f85a3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10406,7 +10406,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "c06599e7-54b4-4526-a595-e8b8736cb583",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10444,7 +10444,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "f43f85d9-2dcf-4820-a8ed-ab18f6014b76",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10539,7 +10539,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "1d7b6dc7-3c9b-4118-b729-7ac2114242f9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10672,7 +10672,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "7a62c524-03bf-47a8-ba6d-8299fc048208",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10805,7 +10805,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "9fc9e850-3fd2-4923-985e-4ad4e92e974b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10843,7 +10843,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "7260a27f-7aee-44ec-aac8-c927eae4e731",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10862,7 +10862,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "8b0e5dc1-5f7c-4414-b2f9-e00da2d9304f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10938,7 +10938,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "45699803-7bce-4dca-a128-9199e0aa13ab",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -10957,7 +10957,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "21d46b56-dbdb-428c-9978-cc614df01f98",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11071,7 +11071,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "6b30e718-79b4-4237-a9da-8392a21b9581",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11109,7 +11109,7 @@
       "subCategory": "MPC",
       "questionType": "mcq",
       "uuid": "f7b54c88-08fa-4c5f-a844-6f02077f3d24",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11204,7 +11204,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "cd35bccb-4b70-44dc-ada6-f0a0147389fc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11242,7 +11242,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "019b77c8-6c35-4216-aaab-f2c023b60bd4",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11337,7 +11337,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "de59a04c-42d4-4168-bdd3-fdc3406d2cd5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11375,7 +11375,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "106c8fa7-5a6a-4d4d-9073-dec3fc0fc2d2",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11470,7 +11470,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "dbac1940-6e61-4cc2-a7e8-fc57ac058665",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11508,7 +11508,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "872faee5-ea1f-44d6-8b38-53c7b39d7c5c",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11603,7 +11603,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "22d637f7-bb66-4700-9d1b-7257c0c1805c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11641,7 +11641,7 @@
       "subCategory": "समसामयिक RBI दरें",
       "questionType": "mcq",
       "uuid": "9d431b45-d249-4133-a8c6-5b042dc44630",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11736,7 +11736,7 @@
       "subCategory": "मौद्रिक संचरण",
       "questionType": "mcq",
       "uuid": "249013ee-36f8-448c-b178-8bca53e9c8c1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -11869,7 +11869,7 @@
       "subCategory": "मौद्रिक संचरण",
       "questionType": "mcq",
       "uuid": "a3e7fac6-09db-4dda-a975-e6c6c5c7f770",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12002,7 +12002,7 @@
       "subCategory": "बैंकिंग सुरक्षा",
       "questionType": "mcq",
       "uuid": "13a8d5e4-06bb-47aa-a5e2-988411e23433",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12135,7 +12135,7 @@
       "subCategory": "राजकोषीय नीति",
       "questionType": "mcq",
       "uuid": "2e0cd997-5ecf-4f55-977a-34486e36ed1d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12268,7 +12268,7 @@
       "subCategory": "घाटा अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "4cf11be8-8e17-4e91-b66d-8d6191645c78",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12401,7 +12401,7 @@
       "subCategory": "घाटा अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "9e3fd099-1bc0-443a-b5c5-b4bac709f8ee",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12534,7 +12534,7 @@
       "subCategory": "घाटा अवधारणाएँ",
       "questionType": "mcq",
       "uuid": "d0a9d2f7-545d-4317-b8d4-334fe5903eb7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12667,7 +12667,7 @@
       "subCategory": "सरकारी व्यय",
       "questionType": "mcq",
       "uuid": "f2b19803-5ded-45e9-85c1-0defa2b37974",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12800,7 +12800,7 @@
       "subCategory": "सरकारी व्यय",
       "questionType": "mcq",
       "uuid": "9c61ac54-ddf7-4e36-9be8-59e2c28b4400",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12933,7 +12933,7 @@
       "subCategory": "FRBM",
       "questionType": "mcq",
       "uuid": "a9ac1ffb-e2a2-4b47-9098-f6ae9047dc0c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -12971,7 +12971,7 @@
       "subCategory": "FRBM",
       "questionType": "mcq",
       "uuid": "972f3010-de96-4f9a-badf-81ed9ec9605f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13066,7 +13066,7 @@
       "subCategory": "केंद्रीय बजट 2026-27",
       "questionType": "mcq",
       "uuid": "6b022399-1ec7-4e25-8846-81b6f964a302",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13199,7 +13199,7 @@
       "subCategory": "केंद्रीय बजट 2026-27",
       "questionType": "mcq",
       "uuid": "d01045f6-c806-4353-85ac-8ccf8e3e84c8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13237,7 +13237,7 @@
       "subCategory": "केंद्रीय बजट 2026-27",
       "questionType": "mcq",
       "uuid": "7a24af0f-044a-4738-a851-6556d3287b04",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13332,7 +13332,7 @@
       "subCategory": "केंद्रीय बजट 2026-27",
       "questionType": "mcq",
       "uuid": "3345b55d-f4e2-4242-a929-d42f3df4896a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13465,7 +13465,7 @@
       "subCategory": "केंद्रीय बजट 2026-27",
       "questionType": "mcq",
       "uuid": "c7e095bb-f643-44d1-9d8c-54e387d66b2c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13522,7 +13522,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "5b1a45f8-1e9e-4847-a4a4-63ff4b45d113",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13598,7 +13598,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "c900576b-0c61-4e54-944e-6d3805804701",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13731,7 +13731,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "e0c48803-1c88-406d-b95d-8ca9a8989c61",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13769,7 +13769,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "513cd975-0327-4802-b4be-ed9a78078c24",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13864,7 +13864,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "1bb36ec9-2519-4c86-b236-987a65ab54f6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13902,7 +13902,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "1b3028ad-65f5-4634-a6a6-7926394c0ffd",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13921,7 +13921,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "5b796adb-a8c5-475e-9622-a741473b8587",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -13997,7 +13997,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "557dc9af-e2e6-4d85-a558-cd0791113611",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14016,7 +14016,7 @@
       "subCategory": "GST Council",
       "questionType": "mcq",
       "uuid": "fa0f669f-45c9-4f66-95c7-2461d358e321",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14054,7 +14054,7 @@
       "subCategory": "Finance Commission",
       "questionType": "mcq",
       "uuid": "51ef1dd8-d978-486d-ad25-ff50063f5d10",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14130,7 +14130,7 @@
       "subCategory": "Finance Commission",
       "questionType": "mcq",
       "uuid": "5d79b1d4-4eb4-43ab-87af-73aa970be366",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14187,7 +14187,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "5c105a19-a7eb-4aa4-80ba-5d4e00ef27a2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14263,7 +14263,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "3753256c-968e-470e-a214-89a9f0dd574f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14282,7 +14282,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "6eca9a2d-2894-4076-9a53-1f6082804e95",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14396,7 +14396,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "2c736a9c-f7e5-4d1e-8747-9242dab48753",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14434,7 +14434,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "bde36a8c-ac5d-4c68-8c2f-a9e304a8fc28",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14529,7 +14529,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "6543837c-9dc9-4d5d-827a-96175caad3c3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14662,7 +14662,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "9256bcbb-1f37-4723-8481-5c881ea5807d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14700,7 +14700,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "431e242f-1917-4f58-aaca-cae47c5f52c3",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14795,7 +14795,7 @@
       "subCategory": "समसामयिक GDP",
       "questionType": "mcq",
       "uuid": "47104c5d-9f29-437c-a619-e951ed912419",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14833,7 +14833,7 @@
       "subCategory": "समसामयिक GDP",
       "questionType": "mcq",
       "uuid": "1e13eee9-43d8-4e01-a14b-8d999d7b1168",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -14928,7 +14928,7 @@
       "subCategory": "राष्ट्रीय आय",
       "questionType": "mcq",
       "uuid": "27302ec5-eacd-402b-9cb7-6cffb21b3da2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15061,7 +15061,7 @@
       "subCategory": "बाह्य क्षेत्र",
       "questionType": "mcq",
       "uuid": "f5c05df8-39e0-45e2-a6e1-ca996ab0ec6d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15194,7 +15194,7 @@
       "subCategory": "बाह्य क्षेत्र",
       "questionType": "mcq",
       "uuid": "d86e5927-4c16-4407-a5fd-9848de86bdf5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15327,7 +15327,7 @@
       "subCategory": "विनिमय दर",
       "questionType": "mcq",
       "uuid": "3d77e3b2-f8a2-48a6-842d-b106a1b68e19",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15460,7 +15460,7 @@
       "subCategory": "वित्तीय नियामक",
       "questionType": "mcq",
       "uuid": "0bd78879-9085-4536-9834-de0c6a3f32f4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15593,7 +15593,7 @@
       "subCategory": "वित्तीय नियामक",
       "questionType": "mcq",
       "uuid": "afd256d1-2990-4460-9ada-c03ed1d2cdf5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15631,7 +15631,7 @@
       "subCategory": "वित्तीय नियामक",
       "questionType": "mcq",
       "uuid": "a0a62019-52c1-4243-903a-986fd71e4a62",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15650,7 +15650,7 @@
       "subCategory": "वित्तीय नियामक",
       "questionType": "mcq",
       "uuid": "b5336c3b-c84a-4ba5-8728-043dc24e6f51",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15726,7 +15726,7 @@
       "subCategory": "वित्तीय नियामक",
       "questionType": "mcq",
       "uuid": "2a66da58-2a7b-4e21-a760-685cafa2613f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15745,7 +15745,7 @@
       "subCategory": "वित्तीय नियामक",
       "questionType": "mcq",
       "uuid": "bd4c3f04-20e9-4701-a350-6fbc0311c1de",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15859,7 +15859,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "df811c72-f5f5-4f89-984b-c7980aa598d2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15897,7 +15897,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "57917ced-7eed-454f-a3ab-368362c5ac37",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -15992,7 +15992,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "630daaaa-1d7e-4d79-a5bd-65cc5f444230",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16125,7 +16125,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "4edd9f51-9696-4f66-9981-15501c7cc269",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16163,7 +16163,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "f1f0d1cc-c9c1-4398-b525-ee2d3525e120",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16258,7 +16258,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "4910d6d6-2594-42e0-be7e-92389c31732f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16391,7 +16391,7 @@
       "subCategory": "बीमा नियमन",
       "questionType": "mcq",
       "uuid": "ca2d6807-9e66-4924-9def-56b54f3bfa4f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16429,7 +16429,7 @@
       "subCategory": "बीमा नियमन",
       "questionType": "mcq",
       "uuid": "3d2bf370-e881-48b2-bec7-c96259c9f033",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16448,7 +16448,7 @@
       "subCategory": "बीमा नियमन",
       "questionType": "mcq",
       "uuid": "3f4e6734-76ba-469e-84f7-5617137c3d52",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16524,7 +16524,7 @@
       "subCategory": "बीमा नियमन",
       "questionType": "mcq",
       "uuid": "9064d0df-c77a-41e2-803b-97aa6dd87cb4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16543,7 +16543,7 @@
       "subCategory": "बीमा नियमन",
       "questionType": "mcq",
       "uuid": "f9acfa98-e367-45bf-bd98-18b786a5c7e4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16657,7 +16657,7 @@
       "subCategory": "पेंशन नियमन",
       "questionType": "mcq",
       "uuid": "993b0497-8df7-4443-b26d-7ad558abe9a3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16695,7 +16695,7 @@
       "subCategory": "पेंशन नियमन",
       "questionType": "mcq",
       "uuid": "af1ba2ab-feba-4d12-8839-503e3a1d14fc",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16714,7 +16714,7 @@
       "subCategory": "पेंशन नियमन",
       "questionType": "mcq",
       "uuid": "3ca24255-b8b2-4022-abd0-c0febfc588fc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16790,7 +16790,7 @@
       "subCategory": "पेंशन नियमन",
       "questionType": "mcq",
       "uuid": "6c4616e0-e05d-4a1b-a1bc-d261832f176a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16809,7 +16809,7 @@
       "subCategory": "पेंशन नियमन",
       "questionType": "mcq",
       "uuid": "06cb7789-2766-4881-8d31-e68740e9a34c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -16923,7 +16923,7 @@
       "subCategory": "IFSCA",
       "questionType": "mcq",
       "uuid": "94c3cb08-9ca1-4c54-a990-12a746db2a70",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17056,7 +17056,7 @@
       "subCategory": "IFSCA",
       "questionType": "mcq",
       "uuid": "98c9a8fd-a1dd-433c-9c90-61e11d012318",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17094,7 +17094,7 @@
       "subCategory": "IFSCA",
       "questionType": "mcq",
       "uuid": "76a5c601-a7cb-4c00-b0ad-aaa25b0c4c1e",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17113,7 +17113,7 @@
       "subCategory": "IFSCA",
       "questionType": "mcq",
       "uuid": "d7a357c6-dff7-462a-b115-e63f41a769be",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17189,7 +17189,7 @@
       "subCategory": "IFSCA",
       "questionType": "mcq",
       "uuid": "dcf8df3a-733c-404c-87fd-4eb07b5bb5ae",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17208,7 +17208,7 @@
       "subCategory": "IFSCA",
       "questionType": "mcq",
       "uuid": "0b14918f-61ee-4255-adec-02c363c353df",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17246,7 +17246,7 @@
       "subCategory": "डिजिटल भुगतान",
       "questionType": "mcq",
       "uuid": "f52c3687-1e7b-4ea7-b81b-2580c70391d4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17322,7 +17322,7 @@
       "subCategory": "डिजिटल भुगतान",
       "questionType": "mcq",
       "uuid": "b919d98f-78d8-4d46-a38c-83a5ec84aa03",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17341,7 +17341,7 @@
       "subCategory": "डिजिटल भुगतान",
       "questionType": "mcq",
       "uuid": "f020e28b-d45d-472d-8ae4-b6607f81f304",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17455,7 +17455,7 @@
       "subCategory": "डिजिटल भुगतान",
       "questionType": "mcq",
       "uuid": "a9f61c38-d719-47a4-be8a-23a4b0867f8c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17588,7 +17588,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "677e46ce-5d7f-4ef7-b695-1d85a5cddbdb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17626,7 +17626,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "e7940708-5742-498e-bb79-17b05ef878cb",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17645,7 +17645,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "1b3d2fb2-4d79-4f0d-af32-c74cf4e45ac0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17721,7 +17721,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "538ca1e4-dc99-4f44-a210-acf124c5154d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"
@@ -17740,7 +17740,7 @@
       "subCategory": "विकास वित्त संस्था",
       "questionType": "mcq",
       "uuid": "65d6822f-2b8f-4f36-8921-daf0b91e3a45",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Economics"

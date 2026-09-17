@@ -39,7 +39,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'भू-तापीय ऊर्जा नीति 2025' लागू की गई है।\nकथन 2: इस नीति का उद्देश्य केवल बिजली उत्पादन है।",
+      "question": "कथन 1: उत्तराखंड में 'भू-तापीय ऊर्जा नीति 2025' लागू की गई है।\nकथन 2: इस नीति का उद्देश्य केवल बिजली उत्पादन है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -51,14 +51,14 @@
       "questionType": "mcq",
       "subCategory": "Energy Policy",
       "uuid": "70cf9b44-8b0c-5bf0-9ba0-c7672bd958a5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में शिक्षा क्षेत्र के लिए ₹12,466 करोड़ आवंटित किए गए हैं।\nकारण (R): शिक्षा क्षेत्र में आवंटन में 4% की वृद्धि की गई है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में शिक्षा क्षेत्र के लिए ₹12,466 करोड़ आवंटित किए गए हैं।\nकारण (R): शिक्षा क्षेत्र में आवंटन में 4% की वृद्धि की गई है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -70,7 +70,7 @@
       "questionType": "mcq",
       "subCategory": "Education",
       "uuid": "e17eee52-0301-5e1b-a08a-1c29b3a38aa4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'विकसित कृषि संकल्प अभियान' किसानों की आय दोगुनी करने के उद्देश्य से शुरू किया गया है।\nकथन 2: इस अभियान के तहत पॉलीहाउस निर्माण के लिए ₹200 करोड़ आवंटित किए गए हैं।",
+      "question": "कथन 1: उत्तराखंड में 'विकसित कृषि संकल्प अभियान' किसानों की आय दोगुनी करने के उद्देश्य से शुरू किया गया है।\nकथन 2: इस अभियान के तहत पॉलीहाउस निर्माण के लिए ₹200 करोड़ आवंटित किए गए हैं।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -127,14 +127,14 @@
       "questionType": "mcq",
       "subCategory": "Agriculture",
       "uuid": "fca3fe87-0110-5559-a71d-e2c16550492c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में जल जीवन मिशन के लिए ₹1,843.44 करोड़ आवंटित किए गए हैं।\nकारण (R): इस राशि का उपयोग ग्रामीण क्षेत्रों में नल कनेक्शन सुनिश्चित करने के लिए किया जाएगा।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में जल जीवन मिशन के लिए ₹1,843.44 करोड़ आवंटित किए गए हैं।\nकारण (R): इस राशि का उपयोग ग्रामीण क्षेत्रों में नल कनेक्शन सुनिश्चित करने के लिए किया जाएगा।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -146,7 +146,7 @@
       "questionType": "mcq",
       "subCategory": "Water Supply",
       "uuid": "0fc86fb5-bae4-5731-a1f4-6c114a93ab4a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'हाउस ऑफ हिमालय' ब्रांड स्थानीय हस्तशिल्प और उत्पादों को बढ़ावा देता है।\nकथन 2: यह ब्रांड केवल राज्य के भीतर ही सीमित है।",
+      "question": "कथन 1: उत्तराखंड में 'हाउस ऑफ हिमालय' ब्रांड स्थानीय हस्तशिल्प और उत्पादों को बढ़ावा देता है।\nकथन 2: यह ब्रांड केवल राज्य के भीतर ही सीमित है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -203,14 +203,14 @@
       "questionType": "mcq",
       "subCategory": "Culture & Handicrafts",
       "uuid": "2d192ba1-943c-5169-b279-4fb1d9360bcb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'मुख्यमंत्री स्वरोजगार योजना' के लिए ₹60 करोड़ आवंटित किए गए हैं।\nकारण (R): इस योजना का उद्देश्य युवाओं को स्वरोजगार से जोड़ना है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'मुख्यमंत्री स्वरोजगार योजना' के लिए ₹60 करोड़ आवंटित किए गए हैं।\nकारण (R): इस योजना का उद्देश्य युवाओं को स्वरोजगार से जोड़ना है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -222,7 +222,7 @@
       "questionType": "mcq",
       "subCategory": "Youth Employment",
       "uuid": "59e3d288-e498-5102-bf90-b654e20c1bdb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड ने अक्टूबर 2025 में पर्यावरण आर्थिक नीति लागू की है।\nकथन 2: इस नीति में नौ बिंदुओं का समावेश है जो आर्थिक विकास और पर्यावरण संरक्षण के बीच संतुलन बनाते हैं।",
+      "question": "कथन 1: उत्तराखंड ने अक्टूबर 2025 में पर्यावरण आर्थिक नीति लागू की है।\nकथन 2: इस नीति में नौ बिंदुओं का समावेश है जो आर्थिक विकास और पर्यावरण संरक्षण के बीच संतुलन बनाते हैं।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -279,14 +279,14 @@
       "questionType": "mcq",
       "subCategory": "Environment Policy",
       "uuid": "83d67b70-bf53-5261-a2ba-dc24b58f8649",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड में 'धर्म गार्जियन' सैन्य अभ्यास भारत और जापान के बीच आयोजित होता है।\nकारण (R): इस अभ्यास का 7वां संस्करण फरवरी 2026 में चौबट्टिया (रानीखेत), उत्तराखंड में आयोजित हुआ।",
+      "question": "अभिकथन (A): उत्तराखंड में 'धर्म गार्जियन' सैन्य अभ्यास भारत और जापान के बीच आयोजित होता है।\nकारण (R): इस अभ्यास का 7वां संस्करण फरवरी 2026 में चौबट्टिया (रानीखेत), उत्तराखंड में आयोजित हुआ।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -298,7 +298,7 @@
       "questionType": "mcq",
       "subCategory": "Defense & Security",
       "uuid": "19fee226-3fdb-5f33-b1b5-d1d459adab36",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'राजस्व लोक अदालत' की शुरुआत लंबित राजस्व विवादों के त्वरित निपटारे के लिए की गई है।\nकथन 2: यह अदालत केवल शहरी क्षेत्रों तक सीमित है।",
+      "question": "कथन 1: उत्तराखंड में 'राजस्व लोक अदालत' की शुरुआत लंबित राजस्व विवादों के त्वरित निपटारे के लिए की गई है।\nकथन 2: यह अदालत केवल शहरी क्षेत्रों तक सीमित है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -355,14 +355,14 @@
       "questionType": "mcq",
       "subCategory": "Judiciary & Administration",
       "uuid": "f3546011-a3e7-55bc-8d6a-1b413d9cd1cb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'पूंजीगत व्यय' ₹14,763 करोड़ प्रस्तावित है।\nकारण (R): यह पिछले वर्ष की संशोधित अनुमान से 25% अधिक है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'पूंजीगत व्यय' ₹14,763 करोड़ प्रस्तावित है।\nकारण (R): यह पिछले वर्ष की संशोधित अनुमान से 25% अधिक है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -374,7 +374,7 @@
       "questionType": "mcq",
       "subCategory": "Budget Analysis",
       "uuid": "5a5ba060-1ce5-50e5-a59a-d52fb7f4bf99",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'मैगा इंडस्ट्रियल एंड इन्वेस्टमेंट पॉलिसी 2025' का उद्देश्य राज्य को राष्ट्रीय और अंतर्राष्ट्रीय स्तर पर पूंजी निवेश के लिए प्रतिस्पर्धी गंतव्य बनाना है।\nकथन 2: इस नीति के तहत केवल बड़े उद्योगों को ही प्रोत्साहन दिया जाएगा।",
+      "question": "कथन 1: उत्तराखंड में 'मैगा इंडस्ट्रियल एंड इन्वेस्टमेंट पॉलिसी 2025' का उद्देश्य राज्य को राष्ट्रीय और अंतर्राष्ट्रीय स्तर पर पूंजी निवेश के लिए प्रतिस्पर्धी गंतव्य बनाना है।\nकथन 2: इस नीति के तहत केवल बड़े उद्योगों को ही प्रोत्साहन दिया जाएगा।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -431,14 +431,14 @@
       "questionType": "mcq",
       "subCategory": "Industrial Policy",
       "uuid": "217ecc05-bc07-5b2b-a7a9-69ddf834fa95",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड में 'राष्ट्रीय स्वास्थ्य कार्यक्रम' और 'राष्ट्रीय शहरी स्वास्थ्य मिशन' के लिए बजट 2025-26 में ₹989.74 करोड़ आवंटित किए गए हैं।\nकारण (R): इस राशि का उपयोग स्वास्थ्य सेवाओं को मजबूत करने और ग्रामीण-शहरी क्षेत्रों में स्वास्थ्य सुविधाओं के विस्तार के लिए किया जाएगा।",
+      "question": "अभिकथन (A): उत्तराखंड में 'राष्ट्रीय स्वास्थ्य कार्यक्रम' और 'राष्ट्रीय शहरी स्वास्थ्य मिशन' के लिए बजट 2025-26 में ₹989.74 करोड़ आवंटित किए गए हैं।\nकारण (R): इस राशि का उपयोग स्वास्थ्य सेवाओं को मजबूत करने और ग्रामीण-शहरी क्षेत्रों में स्वास्थ्य सुविधाओं के विस्तार के लिए किया जाएगा।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -450,7 +450,7 @@
       "questionType": "mcq",
       "subCategory": "Health Programs",
       "uuid": "56d850ba-8efe-5487-94ed-79b4833dc497",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'ट्रांसफॉर्मेशन डायलॉग्स 2026' का मुख्य विषय इको-टूरिज्म, वन्यजीव संरक्षण और वेलनेस अर्थव्यवस्था है।\nकथन 2: यह कार्यक्रम केवल देहरादून में आयोजित किया जाएगा।",
+      "question": "कथन 1: उत्तराखंड में 'ट्रांसफॉर्मेशन डायलॉग्स 2026' का मुख्य विषय इको-टूरिज्म, वन्यजीव संरक्षण और वेलनेस अर्थव्यवस्था है।\nकथन 2: यह कार्यक्रम केवल देहरादून में आयोजित किया जाएगा।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -507,14 +507,14 @@
       "questionType": "mcq",
       "subCategory": "Eco-Tourism & Conservation",
       "uuid": "61e52c3b-cca7-580a-87b9-78d0ba852f9a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड में 'भारत-नेपाल सीमा' पर दिसंबर 2025 में एक महिला को 10.23 करोड़ रुपये मूल्य के 5.688 किलोग्राम MDMA के साथ गिरफ्तार किया गया।\nकारण (R): यह कार्रवाई नशीले पदार्थों की तस्करी रोकने के लिए उत्तराखंड पुलिस की विशेष अभियान का हिस्सा थी।",
+      "question": "अभिकथन (A): उत्तराखंड में 'भारत-नेपाल सीमा' पर दिसंबर 2025 में एक महिला को 10.23 करोड़ रुपये मूल्य के 5.688 किलोग्राम MDMA के साथ गिरफ्तार किया गया।\nकारण (R): यह कार्रवाई नशीले पदार्थों की तस्करी रोकने के लिए उत्तराखंड पुलिस की विशेष अभियान का हिस्सा थी।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -526,7 +526,7 @@
       "questionType": "mcq",
       "subCategory": "Law & Order",
       "uuid": "94a7be94-9981-5051-8612-52fd3d5f270d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड बजट 2025-26 में 'ग्रामीण उद्यम त्वरण परियोजना' (REAP) के लिए ₹150 करोड़ आवंटित किए गए हैं।\nकथन 2: इस परियोजना का उद्देश्य केवल शहरी क्षेत्रों में उद्यमिता को बढ़ावा देना है।",
+      "question": "कथन 1: उत्तराखंड बजट 2025-26 में 'ग्रामीण उद्यम त्वरण परियोजना' (REAP) के लिए ₹150 करोड़ आवंटित किए गए हैं।\nकथन 2: इस परियोजना का उद्देश्य केवल शहरी क्षेत्रों में उद्यमिता को बढ़ावा देना है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -583,14 +583,14 @@
       "questionType": "mcq",
       "subCategory": "Rural Entrepreneurship",
       "uuid": "513d6c62-9c96-5d68-8223-fd53072b176a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड में 'ऋषिकेश-कर्णप्रयाग रेल परियोजना' में भूकंप सुरक्षा के लिए उन्नत 'डबल-आर्क सिस्मिक आइसोलेशन' तकनीक का उपयोग किया जा रहा है।\nकारण (R): यह तकनीक भारत में पहली बार लागू की जा रही है।",
+      "question": "अभिकथन (A): उत्तराखंड में 'ऋषिकेश-कर्णप्रयाग रेल परियोजना' में भूकंप सुरक्षा के लिए उन्नत 'डबल-आर्क सिस्मिक आइसोलेशन' तकनीक का उपयोग किया जा रहा है।\nकारण (R): यह तकनीक भारत में पहली बार लागू की जा रही है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -602,7 +602,7 @@
       "questionType": "mcq",
       "subCategory": "Railway Infrastructure",
       "uuid": "1e930765-62c7-58a3-bebd-0217cd18e80b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड बजट 2025-26 में 'विब्रेंट विलेज स्कीम' के लिए ₹20 करोड़ आवंटित किए गए हैं।\nकथन 2: इस योजना का उद्देश्य सीमावर्ती गांवों का समग्र विकास करना है।",
+      "question": "कथन 1: उत्तराखंड बजट 2025-26 में 'विब्रेंट विलेज स्कीम' के लिए ₹20 करोड़ आवंटित किए गए हैं।\nकथन 2: इस योजना का उद्देश्य सीमावर्ती गांवों का समग्र विकास करना है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -659,14 +659,14 @@
       "questionType": "mcq",
       "subCategory": "Border Area Development",
       "uuid": "3124a1a6-42c6-5526-b0b7-c584a01ac8ba",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड में 'कैलाश मानसरोवर यात्रा 2025' के लिए लिपुलेख दर्रा मार्ग पिथौरागढ़ जिले से होकर जाता है।\nकारण (R): यह मार्ग कैलाश मानसरोवर यात्रा का सबसे छोटा और सबसे आसान मार्ग है।",
+      "question": "अभिकथन (A): उत्तराखंड में 'कैलाश मानसरोवर यात्रा 2025' के लिए लिपुलेख दर्रा मार्ग पिथौरागढ़ जिले से होकर जाता है।\nकारण (R): यह मार्ग कैलाश मानसरोवर यात्रा का सबसे छोटा और सबसे आसान मार्ग है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -678,7 +678,7 @@
       "questionType": "mcq",
       "subCategory": "Pilgrimage & Tourism",
       "uuid": "f9fff900-a530-5685-b23b-34280ae52738",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'राष्ट्रीय खेल दिवस 2025' पर मुख्यमंत्री ने 23 नई खेल अकादमियों की घोषणा की।\nकथन 2: ये अकादमियां केवल देहरादून जिले में स्थापित की जाएंगी।",
+      "question": "कथन 1: उत्तराखंड में 'राष्ट्रीय खेल दिवस 2025' पर मुख्यमंत्री ने 23 नई खेल अकादमियों की घोषणा की।\nकथन 2: ये अकादमियां केवल देहरादून जिले में स्थापित की जाएंगी।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -735,14 +735,14 @@
       "questionType": "mcq",
       "subCategory": "Sports Infrastructure",
       "uuid": "fc1d6729-6c90-5818-9232-8d278f5bc578",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'स्वच्छ भारत मिशन-ग्रामीण' के लिए ₹200 करोड़ आवंटित किए गए हैं।\nकारण (R): इस राशि का उपयोग ग्रामीण क्षेत्रों में स्वच्छता और स्वच्छता अभियानों को बढ़ावा देने के लिए किया जाएगा।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'स्वच्छ भारत मिशन-ग्रामीण' के लिए ₹200 करोड़ आवंटित किए गए हैं।\nकारण (R): इस राशि का उपयोग ग्रामीण क्षेत्रों में स्वच्छता और स्वच्छता अभियानों को बढ़ावा देने के लिए किया जाएगा।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -754,7 +754,7 @@
       "questionType": "mcq",
       "subCategory": "Sanitation Programs",
       "uuid": "540d8dcf-86d5-5186-b87e-fe6459f37ea0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'ईजा-बोई शगुन योजना' नवजात शिशु वाली माताओं को आर्थिक सहायता प्रदान करती है।\nकथन 2: इस योजना का उद्देश्य मातृ और शिशु स्वास्थ्य में सुधार करना है।",
+      "question": "कथन 1: उत्तराखंड में 'ईजा-बोई शगुन योजना' नवजात शिशु वाली माताओं को आर्थिक सहायता प्रदान करती है।\nकथन 2: इस योजना का उद्देश्य मातृ और शिशु स्वास्थ्य में सुधार करना है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -811,14 +811,14 @@
       "questionType": "mcq",
       "subCategory": "Maternal & Child Health",
       "uuid": "2866f3a9-475b-5be9-a54f-d720d301925d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड में 'अंत्योदय मुफ्त गैस रिफिल योजना' के तहत गरीब परिवारों को मुफ्त एलपीजी सिलेंडर प्रदान किए जाते हैं।\nकारण (R): इस योजना के लिए बजट 2025-26 में ₹75 करोड़ आवंटित किए गए हैं।",
+      "question": "अभिकथन (A): उत्तराखंड में 'अंत्योदय मुफ्त गैस रिफिल योजना' के तहत गरीब परिवारों को मुफ्त एलपीजी सिलेंडर प्रदान किए जाते हैं।\nकारण (R): इस योजना के लिए बजट 2025-26 में ₹75 करोड़ आवंटित किए गए हैं।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -830,7 +830,7 @@
       "questionType": "mcq",
       "subCategory": "Subsidy Programs",
       "uuid": "8bab0330-4cfa-5f14-9c01-ee01f18498a3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -868,14 +868,14 @@
       "questionType": "mcq",
       "subCategory": "Sanitation Development",
       "uuid": "c317e50f-eb43-55ef-b9a4-bd15516d0637",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'राजस्व लोक अदालत' की शुरुआत लंबित राजस्व विवादों के शीघ्र और निष्पक्ष निपटारे के लिए की गई है।\nकथन 2: यह अदालत केवल राजस्व विभाग के अधिकारियों के लिए ही काम करती है।",
+      "question": "कथन 1: उत्तराखंड में 'राजस्व लोक अदालत' की शुरुआत लंबित राजस्व विवादों के शीघ्र और निष्पक्ष निपटारे के लिए की गई है।\nकथन 2: यह अदालत केवल राजस्व विभाग के अधिकारियों के लिए ही काम करती है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -887,14 +887,14 @@
       "questionType": "mcq",
       "subCategory": "Judicial Reforms",
       "uuid": "a4e33aa9-e9cf-554b-9caa-31cf5ae5483e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'कृषि और संबद्ध क्षेत्र' के लिए आवंटन में 4% की वृद्धि की गई है।\nकारण (R): इस वृद्धि का मुख्य उद्देश्य किसानों की आय बढ़ाना और कृषि आधुनिकीकरण को प्रोत्साहित करना है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'कृषि और संबद्ध क्षेत्र' के लिए आवंटन में 4% की वृद्धि की गई है।\nकारण (R): इस वृद्धि का मुख्य उद्देश्य किसानों की आय बढ़ाना और कृषि आधुनिकीकरण को प्रोत्साहित करना है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -906,7 +906,7 @@
       "questionType": "mcq",
       "subCategory": "Agricultural Development",
       "uuid": "6e8d0403-a13d-50f2-9ad3-eeff33ee4af3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -951,7 +951,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'धर्म गार्जियन' सैन्य अभ्यास भारत और जापान के बीच आयोजित होता है।\nकथन 2: इस अभ्यास का 7वां संस्करण फरवरी 2026 में चौबट्टिया (रानीखेत), उत्तराखंड में आयोजित हुआ।",
+      "question": "कथन 1: उत्तराखंड में 'धर्म गार्जियन' सैन्य अभ्यास भारत और जापान के बीच आयोजित होता है।\nकथन 2: इस अभ्यास का 7वां संस्करण फरवरी 2026 में चौबट्टिया (रानीखेत), उत्तराखंड में आयोजित हुआ।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -963,14 +963,14 @@
       "questionType": "mcq",
       "subCategory": "Defense Cooperation",
       "uuid": "1d47d9f9-bea4-5bf9-9bc3-60066fe69e33",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'राजस्व आधिक्य' ₹2,585.89 करोड़ अनुमानित है।\nकारण (R): यह राजकोषीय अनुशासन और आय-व्यय प्रबंधन की कुशलता को दर्शाता है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'राजस्व आधिक्य' ₹2,585.89 करोड़ अनुमानित है।\nकारण (R): यह राजकोषीय अनुशासन और आय-व्यय प्रबंधन की कुशलता को दर्शाता है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -982,7 +982,7 @@
       "questionType": "mcq",
       "subCategory": "Fiscal Discipline",
       "uuid": "6bb09ec4-1402-5ac2-ba36-eefab71e8481",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -1027,7 +1027,7 @@
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'ऋषिकेश-कर्णप्रयाग रेल परियोजना' में भूकंप सुरक्षा के लिए उन्नत तकनीक का उपयोग किया जा रहा है।\nकथन 2: यह परियोजना भारत में पहली बार 'डबल-आर्क सिस्मिक आइसोलेशन' तकनीक का उपयोग कर रही है।",
+      "question": "कथन 1: उत्तराखंड में 'ऋषिकेश-कर्णप्रयाग रेल परियोजना' में भूकंप सुरक्षा के लिए उन्नत तकनीक का उपयोग किया जा रहा है।\nकथन 2: यह परियोजना भारत में पहली बार 'डबल-आर्क सिस्मिक आइसोलेशन' तकनीक का उपयोग कर रही है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -1039,14 +1039,14 @@
       "questionType": "mcq",
       "subCategory": "Earthquake Resistant Infrastructure",
       "uuid": "2fb45dd7-98ae-50b8-883c-59ded4f2e9c4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'विब्रेंट विलेज स्कीम' के लिए ₹20 करोड़ आवंटित किए गए हैं।\nकारण (R): इस योजना का उद्देश्य सीमावर्ती गांवों में बुनियादी ढांचा, रोजगार और सामाजिक सेवाओं का समग्र विकास करना है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'विब्रेंट विलेज स्कीम' के लिए ₹20 करोड़ आवंटित किए गए हैं।\nकारण (R): इस योजना का उद्देश्य सीमावर्ती गांवों में बुनियादी ढांचा, रोजगार और सामाजिक सेवाओं का समग्र विकास करना है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -1058,7 +1058,7 @@
       "questionType": "mcq",
       "subCategory": "Border Village Development",
       "uuid": "2c180c30-98a0-5e40-b2a0-682c57ee7600",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -1077,7 +1077,7 @@
       "questionType": "mcq",
       "subCategory": "Yoga & Cultural Events",
       "uuid": "6d1cfbca-415c-55d0-bb5f-7680f35ded97",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -1096,14 +1096,14 @@
       "questionType": "mcq",
       "subCategory": "Capital Expenditure",
       "uuid": "1a121db7-2af2-5877-9406-3823378e0b77",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "कथन 1: उत्तराखंड में 'राष्ट्रीय खेल 2025' में राज्य ने 69 पदक जीते, जिनमें 15 स्वर्ण पदक शामिल हैं।\nकथन 2: यह उपलब्धि राज्य की खेल नीति और बुनियादी ढांचे के विकास की सफलता को दर्शाती है।",
+      "question": "कथन 1: उत्तराखंड में 'राष्ट्रीय खेल 2025' में राज्य ने 69 पदक जीते, जिनमें 15 स्वर्ण पदक शामिल हैं।\nकथन 2: यह उपलब्धि राज्य की खेल नीति और बुनियादी ढांचे के विकास की सफलता को दर्शाती है।\n\nउपर्युक्त कथनों में से कौन-सा/से कथन सही है/हैं?",
       "options": [
         "केवल 1 सही है",
         "केवल 2 सही है",
@@ -1115,14 +1115,14 @@
       "questionType": "mcq",
       "subCategory": "Sports Achievement Analysis",
       "uuid": "a114197b-4a1c-5248-9771-7f02c4ad4410",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
       ]
     },
     {
-      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'स्रोत और नदी कायाकल्प प्राधिकरण' के लिए ₹127 करोड़ आवंटित किए गए हैं।\nकारण (R): इस प्राधिकरण का उद्देश्य नदियों और झरनों के संरक्षण, पुनर्जीवन और जल सुरक्षा सुनिश्चित करना है।",
+      "question": "अभिकथन (A): उत्तराखंड बजट 2025-26 में 'स्रोत और नदी कायाकल्प प्राधिकरण' के लिए ₹127 करोड़ आवंटित किए गए हैं।\nकारण (R): इस प्राधिकरण का उद्देश्य नदियों और झरनों के संरक्षण, पुनर्जीवन और जल सुरक्षा सुनिश्चित करना है।\n\nउपर्युक्त के संदर्भ में सही विकल्प का चयन कीजिए:",
       "options": [
         "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है",
         "अभिकथन और कारण दोनों सही हैं लेकिन कारण अभिकथन की सही व्याख्या नहीं है",
@@ -1134,7 +1134,7 @@
       "questionType": "mcq",
       "subCategory": "River Conservation Authority",
       "uuid": "13a8c98e-e682-5f77-84bb-5d2d957b307d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -1190,7 +1190,7 @@
       "explanation": "इस नीति का उद्देश्य उत्तराखंड को राष्ट्रीय और अंतर्राष्ट्रीय स्तर पर पूंजी निवेश के लिए एक प्रतिस्पर्धी गंतव्य के रूप में स्थापित करना है। [[49]]",
       "questionType": "mcq",
       "uuid": "4f7097a3-e428-544b-95e9-21d7271fc208",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "subCategory": "Current Affairs",
       "tags": [
         "UK-EXAM-PRO",
@@ -1304,7 +1304,7 @@
       "explanation": "'हाउस ऑफ हिमालय' एक छतरी ब्रांड है जो उत्तराखंड के स्थानीय उत्पादों, हस्तशिल्प और सांस्कृतिक विरासत को वैश्विक बाजार में प्रदर्शित करने के लिए बनाया गया है। [[46]]",
       "questionType": "mcq",
       "uuid": "88a22d7f-34c3-554d-b997-69cb5dbc3933",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "subCategory": "Current Affairs",
       "tags": [
         "UK-EXAM-PRO",
@@ -1761,7 +1761,7 @@
       "subCategory": "खेल और युवा कल्याण",
       "questionType": "mcq",
       "uuid": "ca2426-uk-sports-001",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Sports"
@@ -1799,7 +1799,7 @@
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "questionType": "mcq",
       "uuid": "ca2426-uk-gov-003",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "UCC"
@@ -1818,7 +1818,7 @@
       "subCategory": "खेल और युवा कल्याण",
       "questionType": "mcq",
       "uuid": "ca2426-uk-sports-004",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Sports"
@@ -1856,7 +1856,7 @@
       "subCategory": "जिलावार विशेष",
       "questionType": "mcq",
       "uuid": "ca2426-uk-dist-006",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Judiciary"
@@ -1875,7 +1875,7 @@
       "subCategory": "विविध और समसामयिकी",
       "questionType": "mcq",
       "uuid": "ca2426-uk-misc-007",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Appointments"
@@ -1894,7 +1894,7 @@
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "questionType": "mcq",
       "uuid": "ca2426-uk-rank-008",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Rankings"
@@ -1913,7 +1913,7 @@
       "subCategory": "जिलावार विशेष",
       "questionType": "mcq",
       "uuid": "ca2426-uk-dist-009",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Disaster-Management"
@@ -1951,7 +1951,7 @@
       "subCategory": "जिलावार विशेष",
       "questionType": "mcq",
       "uuid": "ca2426-uk-dist-011",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Vibrant-Village"
@@ -1970,7 +1970,7 @@
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "questionType": "mcq",
       "uuid": "ca2426-uk-gov-012",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Schemes"
@@ -1989,7 +1989,7 @@
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "questionType": "mcq",
       "uuid": "ca2426-uk-budget-013",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Migration"
@@ -2046,7 +2046,7 @@
       "subCategory": "संस्कृति, मेले और त्योहार",
       "questionType": "mcq",
       "uuid": "ca2426-uk-cult-016",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "GI-Tag"
@@ -2103,7 +2103,7 @@
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "questionType": "mcq",
       "uuid": "ca2426-uk-gov-019",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Women-Empowerment"
@@ -2122,7 +2122,7 @@
       "subCategory": "विविध और समसामयिकी",
       "questionType": "mcq",
       "uuid": "ca2426-uk-misc-020",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Appointments"
@@ -2179,7 +2179,7 @@
       "subCategory": "संस्कृति, मेले और त्योहार",
       "questionType": "mcq",
       "uuid": "ca2426-uk-cult-023",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Festivals"
@@ -2198,7 +2198,7 @@
       "subCategory": "जिलावार विशेष",
       "questionType": "mcq",
       "uuid": "ca2426-uk-dist-024",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Health"
@@ -2217,7 +2217,7 @@
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "questionType": "mcq",
       "uuid": "ca2426-uk-census-025",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Census"
@@ -2236,7 +2236,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-gov-026",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Solar-Scheme"
@@ -2274,7 +2274,7 @@
       "questionType": "mcq",
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "uuid": "ca2426-uk-migration-028",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Migration-Report"
@@ -2312,7 +2312,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-cult-030",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Fairs"
@@ -2331,7 +2331,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-env-031",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Environment"
@@ -2350,7 +2350,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-gov-032",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Skill-Development"
@@ -2426,7 +2426,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-cult-036",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Festivals"
@@ -2464,7 +2464,7 @@
       "questionType": "mcq",
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "uuid": "ca2426-uk-census-038",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Demographics"
@@ -2483,7 +2483,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और कृषि",
       "uuid": "ca2426-uk-env-039",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Horticulture"
@@ -2540,7 +2540,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-042",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "UCC-Law"
@@ -2616,7 +2616,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-046",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Environment-Icons"
@@ -2635,7 +2635,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-047",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Culture-Temples"
@@ -2654,7 +2654,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-048",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture-Economics"
@@ -2692,7 +2692,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-050",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-CURRENT-AFFAIRS",
         "Horticulture"
@@ -2711,7 +2711,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-051",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Startup-Policy"
@@ -2730,7 +2730,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति और जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-052",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Vibrant-Village"
@@ -2787,7 +2787,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-055",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Budget-Analysis"
@@ -2825,7 +2825,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-057",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Historical-Fairs"
@@ -2844,7 +2844,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-058",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Migration-Subsidies"
@@ -2863,7 +2863,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-059",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Disaster-Management"
@@ -2882,7 +2882,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-076",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Health-Policy"
@@ -2901,7 +2901,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-077",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Defense-Tech"
@@ -2920,7 +2920,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-078",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Forest-Ecology"
@@ -2958,7 +2958,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-080",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "GI-Flora"
@@ -3034,7 +3034,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और कृषि",
       "uuid": "ca2426-uk-hidden-084",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Fisheries-Data"
@@ -3053,7 +3053,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-085",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Festivals-Culture"
@@ -3072,7 +3072,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-086",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Green-Transport"
@@ -3091,7 +3091,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-087",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Industrial-Economy"
@@ -3110,7 +3110,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-088",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Space-Tech"
@@ -3129,7 +3129,7 @@
       "questionType": "mcq",
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "uuid": "ca2426-uk-hidden-089",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Health-Rankings"
@@ -3167,7 +3167,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-091",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Tribal-Culture"
@@ -3186,7 +3186,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-092",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Excise-Policy"
@@ -3205,7 +3205,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-093",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Geology-Minerals"
@@ -3224,7 +3224,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-094",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Energy-Tariff"
@@ -3262,7 +3262,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-096",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Wildlife-Conservation"
@@ -3300,7 +3300,7 @@
       "questionType": "mcq",
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "uuid": "ca2426-uk-hidden-098",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Urbanization-Data"
@@ -3338,7 +3338,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-100",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Geospatial-Data"
@@ -3357,7 +3357,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-101",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Horticulture-Cluster"
@@ -3433,7 +3433,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-105",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Heritage-Crafts"
@@ -3471,7 +3471,7 @@
       "questionType": "mcq",
       "subCategory": "विविध और समसामयिकी",
       "uuid": "ca2426-uk-hidden-107",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Judicial-Orders"
@@ -3547,7 +3547,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-111",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Tourism-Policy"
@@ -3566,7 +3566,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-112",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Taxation-Data"
@@ -3585,7 +3585,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-113",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Border-Infrastructure"
@@ -3642,7 +3642,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-116",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Cultural-Theatres"
@@ -3661,7 +3661,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-117",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Digital-Health"
@@ -3680,7 +3680,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-118",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Border-Digitalization"
@@ -3737,7 +3737,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-121",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Geo-Surveillance"
@@ -3775,7 +3775,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-123",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Rural-Credit"
@@ -3813,7 +3813,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-125",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Green-Energy"
@@ -3832,7 +3832,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-126",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Fiscal-Data"
@@ -3908,7 +3908,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-130",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Festivals-Culture"
@@ -3946,7 +3946,7 @@
       "questionType": "mcq",
       "subCategory": "विविध और समसामयिकी",
       "uuid": "ca2426-uk-hidden-132",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Recruitment-Boards"
@@ -3965,7 +3965,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-133",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Disaster-Mitigation"
@@ -4022,7 +4022,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-136",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "IT-Policy"
@@ -4060,7 +4060,7 @@
       "questionType": "mcq",
       "subCategory": "जिलावार विशेष",
       "uuid": "ca2426-uk-hidden-138",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Border-Rehabilitation"
@@ -4117,7 +4117,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-141",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Geography-Temples"
@@ -4136,7 +4136,7 @@
       "questionType": "mcq",
       "subCategory": "सरकारी योजनाएँ और नीतियां",
       "uuid": "ca2426-uk-hidden-142",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Labour-Welfare"
@@ -4174,7 +4174,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-144",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Animal-Husbandry"
@@ -4193,7 +4193,7 @@
       "questionType": "mcq",
       "subCategory": "पलायन, जनगणना और रैंकिंग",
       "uuid": "ca2426-uk-hidden-145",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Health-Innovation"
@@ -4212,7 +4212,7 @@
       "questionType": "mcq",
       "subCategory": "पर्यावरण और जलवायु परिवर्तन",
       "uuid": "ca2426-uk-hidden-146",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Waste-Management"
@@ -4231,7 +4231,7 @@
       "questionType": "mcq",
       "subCategory": "संस्कृति, मेले और त्योहार",
       "uuid": "ca2426-uk-hidden-147",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Tribal-Migration"
@@ -4288,7 +4288,7 @@
       "questionType": "mcq",
       "subCategory": "बजट, आय-व्यय और आर्थिक आंकड़े",
       "uuid": "ca2426-uk-hidden-150",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Bio-Energy"
@@ -4307,7 +4307,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4345,7 +4345,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4364,7 +4364,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4421,7 +4421,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "a7b8c9d0-1e2f-4a3b-4c5d-6e7f8a9b0c1d",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4440,7 +4440,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "b8c9d0e1-2f3a-4b4c-5d6e-7f8a9b0c1d2e",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4497,7 +4497,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e1f2a3b4-5c6d-4e7f-8a9b-0c1d2e3f4a5b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4516,7 +4516,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "f2a3b4c5-6d7e-4f8a-9b0c-1d2e3f4a5b6c",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4535,7 +4535,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "a3b4c5d6-7e8f-4a9b-0c1d-2e3f4a5b6c7d",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4554,7 +4554,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "b4c5d6e7-8f9a-4b0c-1d2e-3f4a5b6c7d8e",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4592,7 +4592,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "d6e7f8a9-0b1c-4d2e-3f4a-5b6c7d8e9f0a",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4630,7 +4630,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "f8a9b0c1-2d3e-4f4a-5b6c-7d8e9f0a1b2c",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4743,7 +4743,7 @@
       "explanation": "मुख्यमंत्री पुष्कर सिंह धामी ने मकर संक्रांति (उत्तरायणी) के पावन अवसर पर उत्तरायणी कौथिक मेले का भव्य शुभारंभ किया।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4762,7 +4762,7 @@
       "explanation": "मुख्यमंत्री धामी ने सीमांत जनपद चम्पावत में पारंपरिक राग-रागिनियों से सुसज्जित ऐतिहासिक 'काली कुमाऊं होली' महोत्सव में भाग लिया।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4781,7 +4781,7 @@
       "explanation": "मुख्यमंत्री पुष्कर सिंह धामी ने चम्पावत सारस कॉर्बेट फेस्टिवल-2026 का उद्घाटन किया, जिसका उद्देश्य शीतकालीन एवं साहसिक पर्यटन को बढ़ावा देना है।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4876,7 +4876,7 @@
       "explanation": "मुख्यमंत्री ने उधम सिंह नगर जनपद के खटीमा में उत्तरायणी मेले के निर्बाध आयोजन हेतु एक आधुनिक स्थायी मंच निर्माण की घोषणा की।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4895,7 +4895,7 @@
       "explanation": "उत्तराखंडी सिनेमा में पलायन व संस्कृति पर आधारित बहुचर्चित फिल्म 'रैबार' को वर्ष 2025 की सर्वश्रेष्ठ फिल्म के प्रतिष्ठित पुरस्कार से नवाजा गया।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4914,7 +4914,7 @@
       "explanation": "मुख्यमंत्री पुष्कर सिंह धामी ने स्पष्ट किया कि परंपराओं का सम्मान करते हुए आधुनिक तकनीकी युग में छात्रों को AI, कोडिंग और नवाचार से जोड़ना सर्वांगीण विकास हेतु अनिवार्य है।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4971,7 +4971,7 @@
       "explanation": "मान्यता प्राप्त कुल 26 अल्पसंख्यक संस्थानों में से सर्वाधिक 19 संस्थान हरिद्वार जनपद से संबंधित हैं।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -4990,7 +4990,7 @@
       "explanation": "कुल 26 अल्पसंख्यक शिक्षण संस्थानों में से 19 हरिद्वार, 6 देहरादून और 1 उधम सिंह नगर जनपद से हैं।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5009,7 +5009,7 @@
       "explanation": "26 अल्पसंख्यक शिक्षण संस्थानों के वर्गीकरण में उधम सिंह नगर जनपद से 1 संस्थान शामिल है।",
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5067,7 +5067,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "048d8999-7b2b-422b-9158-d0b081e23158",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5086,7 +5086,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "c2e89c4c-3f1b-4ade-87da-0fa4206bb5a0",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5143,7 +5143,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "7064711c-ffae-45c8-b760-795f955fd4a4",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5162,7 +5162,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "25ee5846-0145-4d2b-aa74-20219e7efec5",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5219,7 +5219,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e8dacd6d-f0b1-4d83-9b24-fadd00c4cf17",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5238,7 +5238,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "98f98011-122a-4b00-95c5-d255f144fa7b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5257,7 +5257,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "82b5984e-c3f9-4a95-90d0-fbc3ab5842fe",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5295,7 +5295,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "07aac63f-23a2-41cc-9ba0-2b1823fa16a3",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5333,7 +5333,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "7ac9ae4a-3658-4375-b46d-1870d180cee5",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5390,7 +5390,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "38905e0d-2777-4097-9a8d-3601243e04a9",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5409,7 +5409,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "1d28873f-4634-41d9-ae54-b43eae12ee4b",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5428,7 +5428,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "06426826-40d9-47c0-b9b2-4ab791eaa9b9",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5504,7 +5504,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "5d9255c1-1664-445e-b06c-5e3a7e3f9cb8",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5523,7 +5523,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "fe9052eb-cc6c-4f03-8c42-fb3198f1f460",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5542,7 +5542,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "ce1e8871-cdc6-4a51-8a59-a9fd6823f6ac",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5561,7 +5561,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "65737279-6806-4d0b-a7bd-fa2bf3f3d340",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5580,7 +5580,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e280c793-3d00-4dd3-86a6-2bf40b096258",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5637,7 +5637,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "d2cee986-5bc6-4146-8f0e-706956bfc3d6",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5656,7 +5656,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "27413f4e-db56-4129-90a7-e82fdbb36569",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5694,7 +5694,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "9974b44a-627d-4eae-885e-3fd42702da27",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5713,7 +5713,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "71e8bb53-8ed9-4a06-b004-d865ad6aec30",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5732,7 +5732,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "37587a9a-6add-4571-a864-f48b2279868c",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5751,7 +5751,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "680509b9-72fb-4dc6-a4c3-1438c54f8682",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5770,7 +5770,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "93c9c98c-7495-45a8-8d18-4113d947d9ad",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5808,7 +5808,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "5f2fcc7b-eeb7-4c48-a1aa-3deb58f78ee1",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5846,7 +5846,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e486c4e9-823d-4bd3-9429-70ab6ade48a7",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5865,7 +5865,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "560293c9-8cd2-4eda-aadc-112c26780d56",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5884,7 +5884,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "6c1b1567-68c9-4485-912c-7f7e022e92ca",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5903,7 +5903,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "ad1005d0-2263-47f3-b624-9c27ccdc2741",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5922,7 +5922,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "48b4de0e-10b3-44bd-920f-b500fda3ee3a",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5941,7 +5941,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "8ca07de0-725c-43ab-be3e-0ffb020416b3",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5979,7 +5979,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "1d3d303b-442e-43cc-ac49-383cea9515e0",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -5998,7 +5998,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "ebb89e9c-f311-44f8-b520-9f1ac82d2795",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6074,7 +6074,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "813d282c-6571-4988-88b0-62c9236fabf1",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6093,7 +6093,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "515658d4-2b82-401b-a7e6-e4d017fe257e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6131,7 +6131,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "30ab153c-b2d5-4d5c-94cd-ce629063f192",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6150,7 +6150,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "92abc69d-c52c-4c9c-b8ba-f3d874910b1f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6169,7 +6169,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "8c72d6db-54b9-4d77-8817-6d2b90f86e73",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6226,7 +6226,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "03523220-2b8d-4efa-8305-86265920c99d",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6245,7 +6245,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "c97a172f-c98c-46d2-ab46-80d4a9bb291d",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6283,7 +6283,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "2b1ec5b7-fbec-4abc-bae8-ecfce6f0d680",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6321,7 +6321,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "69cc1071-742e-4b45-8dad-13ae186675ea",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6340,7 +6340,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "6fd5917c-fa87-42ee-bf7d-beee6664e9af",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6359,7 +6359,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "5e914a3d-a28c-406c-84ee-dceb2c196fa8",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6378,7 +6378,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "207c16d8-4031-4edb-bb17-bf39b62617b9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6397,7 +6397,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "4facc35c-ae63-4f96-85cd-8a4c96f6730d",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6416,7 +6416,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "026b16b0-1c6e-438a-ac5c-579e6453ef79",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6454,7 +6454,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "168848d1-1b31-43da-8c32-47e42e30c7e9",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6530,7 +6530,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "96807c96-2059-48a9-8e1a-ed6c9788b28c",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6568,7 +6568,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "7dc13181-24dd-4b26-8751-be7e8c9df658",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6606,7 +6606,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "bfc5bca5-09f8-4188-83d2-8b6c642a0861",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6663,7 +6663,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "a634966f-c8db-43a5-a44f-3104e4d9df9a",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6720,7 +6720,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "bc50da6e-79bf-4ecb-a4d5-50baf6e11143",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6739,7 +6739,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "4e4e019e-f649-4692-8790-dcf78a3c1e52",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6777,7 +6777,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "423976fa-d16b-42f5-af49-52eaa30bdadc",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6796,7 +6796,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "97f299f0-64ee-4735-a65b-0956784a6206",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6815,7 +6815,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "0d135535-fc33-4b33-a494-d15d46156562",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6834,7 +6834,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "2d022c83-9764-4a32-b7be-32e4736d51dc",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6853,7 +6853,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "40d8626a-86e2-40bb-b072-e3da9e8fe43e",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6872,7 +6872,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "9402e7ec-c4b6-45e4-a36f-1402c6d7cd99",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6891,7 +6891,7 @@
       "subCategory": "प्रमुख खेल घटनाक्रम: ओलंपिक, क्रिकेट, एशियाई खेल एवं ग्रैंड स्लैम",
       "questionType": "mcq",
       "uuid": "f26fb95b-09cc-4736-a6f1-df89700b7a26",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6948,7 +6948,7 @@
       "subCategory": "प्रमुख खेल घटनाक्रम: ओलंपिक, क्रिकेट, एशियाई खेल एवं ग्रैंड स्लैम",
       "questionType": "mcq",
       "uuid": "0febe03a-39a1-48c3-adb7-737b153daf71",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -6986,7 +6986,7 @@
       "subCategory": "प्रमुख खेल घटनाक्रम: ओलंपिक, क्रिकेट, एशियाई खेल एवं ग्रैंड स्लैम",
       "questionType": "mcq",
       "uuid": "505b67bc-f02e-459d-b7cd-8699654951e2",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7043,7 +7043,7 @@
       "subCategory": "विज्ञान एवं प्रौद्योगिकी: इसरो मिशन, उपग्रह प्रक्षेपण एवं रक्षा अभ्यास",
       "questionType": "mcq",
       "uuid": "010da40c-a50b-4d9f-ac15-55cf32008471",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7062,7 +7062,7 @@
       "subCategory": "विज्ञान एवं प्रौद्योगिकी: इसरो मिशन, उपग्रह प्रक्षेपण एवं रक्षा अभ्यास",
       "questionType": "mcq",
       "uuid": "7845c1fd-55f6-41a9-a775-1797356201bf",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7081,7 +7081,7 @@
       "subCategory": "विज्ञान एवं प्रौद्योगिकी: इसरो मिशन, उपग्रह प्रक्षेपण एवं रक्षा अभ्यास",
       "questionType": "mcq",
       "uuid": "beee956b-8991-402a-98b9-247ae3581fdf",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7100,7 +7100,7 @@
       "subCategory": "विज्ञान एवं प्रौद्योगिकी: इसरो मिशन, उपग्रह प्रक्षेपण एवं रक्षा अभ्यास",
       "questionType": "mcq",
       "uuid": "69b4d147-5c67-40a0-aaed-544ecd7225e7",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7176,7 +7176,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "3e335ff4-378e-411a-aabb-f65eb5215fbc",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7214,7 +7214,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "51385e9c-10fa-4b23-9193-b4cc216ffecc",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7233,7 +7233,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "080024b8-a473-433c-b2f7-6a3e0db14f74",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7309,7 +7309,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e1fa0871-193f-4d86-93c2-48728eb44305",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7328,7 +7328,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "2ce31109-5b8e-471f-815d-eaa49418ef7f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7347,7 +7347,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "15d09814-0da4-41c0-841a-bf03f23e4979",
-      "difficulty": "hard",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7366,7 +7366,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "ae47f8d9-59bf-4c0d-8f1b-fea1bf7f293b",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7385,7 +7385,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "15f9fc47-42a9-465e-b911-3e75868b5e66",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7404,7 +7404,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "b0238bbb-7358-450b-89c4-8f54327f051c",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7423,7 +7423,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "244fbe71-420d-4e0e-98a9-c77d45863d67",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7442,7 +7442,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "309ed786-91e3-4d17-a196-517edbf0b2ff",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7556,7 +7556,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "b8fcf467-c5f3-4f91-bafa-0256dc663db8",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7613,7 +7613,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "051f528c-769e-4edc-b46e-9c9aa3cb8b2f",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7632,7 +7632,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e7a10c59-a55f-49e1-a7d0-588c1b5022a3",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7746,7 +7746,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "b4044c90-7bd5-449b-a596-1ac3125285f3",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7765,7 +7765,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "5f9632c1-4f75-450d-9d05-ee32d040a2f9",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7822,7 +7822,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "e4e68311-7962-4e4e-9045-42716edd392f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7936,7 +7936,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "b4c773a1-0063-4187-ab65-0bfc21772236",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7955,7 +7955,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "35844eb9-7598-46f9-a395-b9b29057cfba",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7974,7 +7974,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "971ee6f9-52db-472f-9b25-a8741b8de93f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -7993,7 +7993,7 @@
       "subCategory": "उत्तराखंड समसामयिकी: राज्य योजनाएं, पुरस्कार एवं नियुक्तियाँ",
       "questionType": "mcq",
       "uuid": "8938a7e2-e9e1-40c8-82b9-cc9a4109749f",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8012,7 +8012,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "34848078-7bf3-4cdf-994d-a775f40dc29d",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8069,7 +8069,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "a3ca275a-58d6-4efa-93b6-ffccf9d6e0c0",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8088,7 +8088,7 @@
       "subCategory": "राष्ट्रीय एवं अंतर्राष्ट्रीय प्रमुख नियुक्तियाँ एवं शिखर सम्मेलन",
       "questionType": "mcq",
       "uuid": "c0503fec-8ee2-4d35-80cc-2aecd6178f87",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8259,7 +8259,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "ecb59073-3899-460c-8ffe-362c20194253",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8392,7 +8392,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "249fe072-ab1e-405d-b7e3-c71f975cd06c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8525,7 +8525,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "b9a8bc37-57dd-4a65-862d-e4583f638c69",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8658,7 +8658,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "6c23b051-f06b-4dee-a35c-1ceedaa4db5a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8715,7 +8715,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "aa47214a-c695-4750-bc4c-faf025498d64",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8791,7 +8791,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "68c0f4fd-e81c-47ca-9348-8ad9340a2ead",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8810,7 +8810,7 @@
       "subCategory": "ग्रामीण रोजगार",
       "questionType": "mcq",
       "uuid": "5fac29aa-317b-4c86-9423-0cf2815ebb7a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -8924,7 +8924,7 @@
       "subCategory": "रोजगार प्रोत्साहन",
       "questionType": "mcq",
       "uuid": "a1e98f1c-fffb-4e35-b5d4-998b0c66a7fe",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9057,7 +9057,7 @@
       "subCategory": "रोजगार प्रोत्साहन",
       "questionType": "mcq",
       "uuid": "3bea35a2-008f-454f-9269-d3fa30f3b35a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9190,7 +9190,7 @@
       "subCategory": "रोजगार प्रोत्साहन",
       "questionType": "mcq",
       "uuid": "5f9c5694-fde2-4330-9375-d3fd4c71021c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9323,7 +9323,7 @@
       "subCategory": "रोजगार प्रोत्साहन",
       "questionType": "mcq",
       "uuid": "a762cb5b-1dcc-4969-be2f-cd3c2877f5e6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9456,7 +9456,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "f2769266-3891-4d1c-9ab9-52a3449d2dca",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9589,7 +9589,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "7bbcec37-6ddd-4b20-ae69-dbe9509692cf",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9722,7 +9722,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "4af7aed2-9b94-45fb-b181-abcc232d57fb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9855,7 +9855,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "c543a5dd-433f-49ee-ba93-0ffba3630691",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -9988,7 +9988,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "ce7ccb0d-f017-444c-b338-85f0ab8aebce",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10121,7 +10121,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "15c671e3-bc76-4c38-b1c3-65a33cd1eee6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10254,7 +10254,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "b2e94e5f-e5ac-49eb-a96d-e08d57101103",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10387,7 +10387,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "b70c7bc2-0bb4-4007-ab96-03f8301e17b2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10520,7 +10520,7 @@
       "subCategory": "किसान आय सहायता",
       "questionType": "mcq",
       "uuid": "88bbb265-45d6-4e39-b570-aa2e3a62d95f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10653,7 +10653,7 @@
       "subCategory": "कृषि ऋण",
       "questionType": "mcq",
       "uuid": "188d0579-b475-47a2-981c-731b391c1245",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10786,7 +10786,7 @@
       "subCategory": "फसल बीमा",
       "questionType": "mcq",
       "uuid": "e12d6534-f9c3-4f58-adcb-3cacbc110904",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -10919,7 +10919,7 @@
       "subCategory": "सौर कृषि",
       "questionType": "mcq",
       "uuid": "00916149-2a8a-4b6f-83bc-9e45d3d5012b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11052,7 +11052,7 @@
       "subCategory": "सौर ऊर्जा",
       "questionType": "mcq",
       "uuid": "afa256b7-6014-494b-9586-0c8c0f20e6e4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11185,7 +11185,7 @@
       "subCategory": "सौर ऊर्जा",
       "questionType": "mcq",
       "uuid": "d09d2b61-4d92-4bff-9943-9dc1cc6a7827",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11318,7 +11318,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "e491ca87-2abc-4e9c-b9db-b26f7e89bbc5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11451,7 +11451,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "518c3312-227f-469c-8ce8-d3e04a7bcc48",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11508,7 +11508,7 @@
       "subCategory": "कृषि मूल्य समर्थन",
       "questionType": "mcq",
       "uuid": "d285e708-991b-4c8d-872d-35e752aebb20",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11584,7 +11584,7 @@
       "subCategory": "कृषि मूल्य समर्थन",
       "questionType": "mcq",
       "uuid": "4d2e0957-0223-44ac-9447-3f30306683f3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11603,7 +11603,7 @@
       "subCategory": "कृषि मूल्य समर्थन",
       "questionType": "mcq",
       "uuid": "3a964480-3574-45ee-a9c8-d13111362382",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11717,7 +11717,7 @@
       "subCategory": "मत्स्य योजना",
       "questionType": "mcq",
       "uuid": "fd00b1b8-f7b9-499c-b96b-fb754f08a91a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11774,7 +11774,7 @@
       "subCategory": "खाद्य प्रसंस्करण",
       "questionType": "mcq",
       "uuid": "7ee77528-6219-45ac-801e-1b689738a6fe",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11850,7 +11850,7 @@
       "subCategory": "खाद्य प्रसंस्करण",
       "questionType": "mcq",
       "uuid": "4d66935b-b849-455e-ba11-3c766e15607d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11869,7 +11869,7 @@
       "subCategory": "खाद्य प्रसंस्करण",
       "questionType": "mcq",
       "uuid": "95947cd5-4346-49ed-b182-3ed98178ebad",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -11983,7 +11983,7 @@
       "subCategory": "कृषि अवसंरचना",
       "questionType": "mcq",
       "uuid": "b7463074-0411-430f-8acb-7863336aa8fb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12116,7 +12116,7 @@
       "subCategory": "कृषि विपणन",
       "questionType": "mcq",
       "uuid": "9e967e98-38d9-4b36-93bf-a376b249dd80",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12249,7 +12249,7 @@
       "subCategory": "कृषि",
       "questionType": "mcq",
       "uuid": "b805ac67-d819-4888-aa52-9f465988b91e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12382,7 +12382,7 @@
       "subCategory": "ग्रामीण आवास",
       "questionType": "mcq",
       "uuid": "aa0ae1da-2d6a-4def-b0a7-3d048bfb8fa9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12515,7 +12515,7 @@
       "subCategory": "शहरी आवास",
       "questionType": "mcq",
       "uuid": "5a82e494-a5eb-456f-8f62-d1354a94ca8e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12648,7 +12648,7 @@
       "subCategory": "पेयजल",
       "questionType": "mcq",
       "uuid": "efdf3011-24f4-46c1-bdb7-a0fccef2257d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12781,7 +12781,7 @@
       "subCategory": "स्वच्छता",
       "questionType": "mcq",
       "uuid": "937329f3-f2fb-45d2-ba72-81e8b6aff2f9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -12914,7 +12914,7 @@
       "subCategory": "शहरी विकास",
       "questionType": "mcq",
       "uuid": "30f9034b-4d54-4aae-9430-8a9b7318140b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13047,7 +13047,7 @@
       "subCategory": "ग्रामीण आजीविका",
       "questionType": "mcq",
       "uuid": "faca4871-a0f1-4007-8d05-58d596869d83",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13180,7 +13180,7 @@
       "subCategory": "ग्रामीण सड़क",
       "questionType": "mcq",
       "uuid": "c0d27dca-fc11-400e-974c-6c93228e3d13",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13237,7 +13237,7 @@
       "subCategory": "शहरी आजीविका",
       "questionType": "mcq",
       "uuid": "4eede407-0edd-47d5-bd74-69304f730c13",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13313,7 +13313,7 @@
       "subCategory": "शहरी आजीविका",
       "questionType": "mcq",
       "uuid": "de0d89e6-c84a-46eb-a889-07b6760197bd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13332,7 +13332,7 @@
       "subCategory": "शहरी आजीविका",
       "questionType": "mcq",
       "uuid": "d6d4d387-691a-42bb-a771-6758ce4cf769",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13446,7 +13446,7 @@
       "subCategory": "शहरी आजीविका",
       "questionType": "mcq",
       "uuid": "720e8e6d-76a1-409c-b1ee-b1e50af71eda",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13579,7 +13579,7 @@
       "subCategory": "शहरी आजीविका",
       "questionType": "mcq",
       "uuid": "e5ad8e84-4ef9-4cc9-b584-b7704f35a4ef",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13636,7 +13636,7 @@
       "subCategory": "कारीगर कल्याण",
       "questionType": "mcq",
       "uuid": "b56e37f8-aaec-445f-be56-b9fec917fbc4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13712,7 +13712,7 @@
       "subCategory": "कारीगर कल्याण",
       "questionType": "mcq",
       "uuid": "9de34a51-4af1-4a28-8c15-0b629bb51dbe",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13731,7 +13731,7 @@
       "subCategory": "कारीगर कल्याण",
       "questionType": "mcq",
       "uuid": "df238854-902c-4de0-bf5d-461850fd0d65",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13845,7 +13845,7 @@
       "subCategory": "सूक्ष्म ऋण",
       "questionType": "mcq",
       "uuid": "0c335f75-f9ab-4b9a-95f0-5bb8177af6f6",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -13978,7 +13978,7 @@
       "subCategory": "उद्यमिता",
       "questionType": "mcq",
       "uuid": "fa816033-6e88-41df-9e58-e0c5c5dd9d5e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14111,7 +14111,7 @@
       "subCategory": "स्टार्टअप",
       "questionType": "mcq",
       "uuid": "7fcf480d-7c3e-430f-b94c-b5ef8452ae43",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14168,7 +14168,7 @@
       "subCategory": "उद्यमिता",
       "questionType": "mcq",
       "uuid": "735e56f3-7f43-4d3e-865e-afa7e0be496b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14244,7 +14244,7 @@
       "subCategory": "उद्यमिता",
       "questionType": "mcq",
       "uuid": "8b34071a-bfbf-4f3e-835b-d4fbf69a47bb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14263,7 +14263,7 @@
       "subCategory": "उद्यमिता",
       "questionType": "mcq",
       "uuid": "9e909bae-62af-43fa-beea-b72e27f6b94a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14301,7 +14301,7 @@
       "subCategory": "सूक्ष्म उद्यम",
       "questionType": "mcq",
       "uuid": "ee46b8df-6cb0-4738-9186-355e4b138afd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14377,7 +14377,7 @@
       "subCategory": "सूक्ष्म उद्यम",
       "questionType": "mcq",
       "uuid": "7afea803-7f71-427b-8141-78626a882a6b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14396,7 +14396,7 @@
       "subCategory": "सूक्ष्म उद्यम",
       "questionType": "mcq",
       "uuid": "c68ecc5c-7910-4363-8227-2fa1f12c7703",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14510,7 +14510,7 @@
       "subCategory": "MSME",
       "questionType": "mcq",
       "uuid": "c60d4941-bc0e-47dd-88ab-2ab50f80be67",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14643,7 +14643,7 @@
       "subCategory": "विद्युत गतिशीलता",
       "questionType": "mcq",
       "uuid": "86d75df0-7df4-4e57-90b9-f9e647950ed1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14700,7 +14700,7 @@
       "subCategory": "विद्युत गतिशीलता",
       "questionType": "mcq",
       "uuid": "1d4c5ba2-2f47-40db-86a8-8d5e3cbebb8d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14776,7 +14776,7 @@
       "subCategory": "विद्युत गतिशीलता",
       "questionType": "mcq",
       "uuid": "141e8340-80f7-4daa-96e9-1e6304d3d388",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14795,7 +14795,7 @@
       "subCategory": "विद्युत गतिशीलता",
       "questionType": "mcq",
       "uuid": "f82418ce-f1e2-49ce-93e3-b1f11e8632b1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14909,7 +14909,7 @@
       "subCategory": "विद्युत गतिशीलता",
       "questionType": "mcq",
       "uuid": "6897c3a3-2c1e-448b-8ccb-232a550c0c35",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -14966,7 +14966,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "bc04d7ce-fe09-4f62-a210-d94ee2738025",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15042,7 +15042,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "69b59872-11d6-464b-8dea-a744eb1b246e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15061,7 +15061,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "95ac02cb-ee24-430e-b3fe-3fac93cd3efc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15175,7 +15175,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "a56adbc8-48aa-490e-ae5a-6a41bdf3ac46",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15308,7 +15308,7 @@
       "subCategory": "युवा रोजगार",
       "questionType": "mcq",
       "uuid": "698fc2c2-5a1d-412f-bda3-2120b54f9699",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15365,7 +15365,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "3a90823d-9a1a-45c2-b0dc-386463735d45",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15441,7 +15441,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "099bdac3-8c75-433a-91e6-3416a2b0959b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15460,7 +15460,7 @@
       "subCategory": "कौशल विकास",
       "questionType": "mcq",
       "uuid": "8afad37c-d4b7-4a1b-96ed-85afed296250",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15498,7 +15498,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "26bb3f48-8eab-4d6e-adf4-4d37695c35d8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15574,7 +15574,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "c68c8e43-b70a-4d4d-a4c3-5a4ae04c3146",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15593,7 +15593,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "1f98f409-5774-4d5a-a29c-3f12fccc60c9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15707,7 +15707,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "d2c999d6-8b44-4349-a27a-2f2a975cb226",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15764,7 +15764,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "3ee84d8e-03d3-4820-b7f2-019f613a31f7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15840,7 +15840,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "1d07c237-5451-4e2e-a32e-e1b8aed580f3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15859,7 +15859,7 @@
       "subCategory": "विद्यालय शिक्षा",
       "questionType": "mcq",
       "uuid": "d0132cb3-9720-49b7-8fbe-4eb26bacaf7b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15897,7 +15897,7 @@
       "subCategory": "उच्च शिक्षा",
       "questionType": "mcq",
       "uuid": "72e3171e-04a5-47ec-ac03-c833e6471a17",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15973,7 +15973,7 @@
       "subCategory": "उच्च शिक्षा",
       "questionType": "mcq",
       "uuid": "e1428d55-42ba-4429-9b66-4067ecadea2e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -15992,7 +15992,7 @@
       "subCategory": "उच्च शिक्षा",
       "questionType": "mcq",
       "uuid": "b1e32eb4-7ff6-4e7a-b81c-bcc3773eb0ad",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16030,7 +16030,7 @@
       "subCategory": "उच्च शिक्षा",
       "questionType": "mcq",
       "uuid": "d46b0716-20ea-4a5d-b9eb-f906db011ac1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16106,7 +16106,7 @@
       "subCategory": "उच्च शिक्षा",
       "questionType": "mcq",
       "uuid": "70923907-950e-4eb0-bbc4-2d6a1a032b1e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16125,7 +16125,7 @@
       "subCategory": "उच्च शिक्षा",
       "questionType": "mcq",
       "uuid": "053c8050-a66c-4bf9-9855-550086bb4cd1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16163,7 +16163,7 @@
       "subCategory": "उच्च शिक्षा/शोध",
       "questionType": "mcq",
       "uuid": "fff2bc0f-6762-4a1c-b72d-5bcdd252b129",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16239,7 +16239,7 @@
       "subCategory": "उच्च शिक्षा/शोध",
       "questionType": "mcq",
       "uuid": "6422e15a-7894-461b-959a-1cb52cdb508a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16258,7 +16258,7 @@
       "subCategory": "उच्च शिक्षा/शोध",
       "questionType": "mcq",
       "uuid": "9a9c7d03-9a12-48e2-b008-0c067d89e760",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16296,7 +16296,7 @@
       "subCategory": "विद्यालय नवाचार",
       "questionType": "mcq",
       "uuid": "3a228ae4-bc68-4532-bc57-78006afd047a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16372,7 +16372,7 @@
       "subCategory": "विद्यालय नवाचार",
       "questionType": "mcq",
       "uuid": "95dc7e8f-adbc-40c2-af87-94dff320a5fe",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16391,7 +16391,7 @@
       "subCategory": "विद्यालय नवाचार",
       "questionType": "mcq",
       "uuid": "a0809524-f788-4411-b745-fcb169a04476",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16505,7 +16505,7 @@
       "subCategory": "स्वास्थ्य/विनिर्माण",
       "questionType": "mcq",
       "uuid": "3c809cbf-95f7-45df-b265-0e558f000c66",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16638,7 +16638,7 @@
       "subCategory": "स्वास्थ्य/विनिर्माण",
       "questionType": "mcq",
       "uuid": "478384e9-7bbb-40b8-86ff-5aea31aef191",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16771,7 +16771,7 @@
       "subCategory": "स्वास्थ्य/विनिर्माण",
       "questionType": "mcq",
       "uuid": "f4fd2c8d-2101-46cb-87e9-3f29bb880cfc",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -16904,7 +16904,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "07fbab73-047f-43cd-a358-738d3f22ae9d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17037,7 +17037,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "59402b9f-1ccc-43e4-a1da-6749fa712e23",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17170,7 +17170,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "c81b4d81-17f7-45e9-8758-b0630576da54",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17227,7 +17227,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "e602b46d-aaad-49ad-9ddd-86f32be7684b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17303,7 +17303,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "3870402e-fb9f-4e49-a7c2-ec8bfc3f40e4",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17322,7 +17322,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "b963d006-07cb-4d71-a50e-94354f5b1993",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17360,7 +17360,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "10559650-71b7-4ec3-8f36-0236e4eabb56",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17436,7 +17436,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "881671b7-0c95-487f-82f7-1cc57cd8068b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17455,7 +17455,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "c80f77bd-73c0-44f9-b78b-c5c43d724081",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17493,7 +17493,7 @@
       "subCategory": "वस्त्र उद्योग",
       "questionType": "mcq",
       "uuid": "57cbd328-04f7-451b-9d3d-1e9308c14f79",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17569,7 +17569,7 @@
       "subCategory": "वस्त्र उद्योग",
       "questionType": "mcq",
       "uuid": "9fad62fb-a3a3-40ce-a307-dc01aa3b87e3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17588,7 +17588,7 @@
       "subCategory": "वस्त्र उद्योग",
       "questionType": "mcq",
       "uuid": "ee06515a-3d9f-46aa-a9c1-fbbc0ec5c9df",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17626,7 +17626,7 @@
       "subCategory": "वस्त्र उद्योग",
       "questionType": "mcq",
       "uuid": "fedebda6-6324-4102-bef4-aa51a4ad97bf",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17702,7 +17702,7 @@
       "subCategory": "वस्त्र उद्योग",
       "questionType": "mcq",
       "uuid": "ca254f74-5a97-4e48-9ba6-d42367681255",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17721,7 +17721,7 @@
       "subCategory": "वस्त्र उद्योग",
       "questionType": "mcq",
       "uuid": "0f155dfd-c978-455e-a0bf-6610e0d51305",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17759,7 +17759,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "16d741be-086c-49f8-9c6a-5c4d08d9c32c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17835,7 +17835,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "a4ae8831-1438-42a2-9e3d-0639bee50125",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17854,7 +17854,7 @@
       "subCategory": "विनिर्माण",
       "questionType": "mcq",
       "uuid": "fd33899b-87f4-4e7c-bb88-b20a757eaadf",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17892,7 +17892,7 @@
       "subCategory": "जलवायु/ऊर्जा",
       "questionType": "mcq",
       "uuid": "81e524fb-f815-4a64-b30d-f2271bfc4d6e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17968,7 +17968,7 @@
       "subCategory": "जलवायु/ऊर्जा",
       "questionType": "mcq",
       "uuid": "2e69d318-0438-4d4a-ae6f-774001dcdcd5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -17987,7 +17987,7 @@
       "subCategory": "जलवायु/ऊर्जा",
       "questionType": "mcq",
       "uuid": "4c20f279-7481-4be1-a2c6-1eb8160aa3a2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18101,7 +18101,7 @@
       "subCategory": "दिव्यांगजन कल्याण",
       "questionType": "mcq",
       "uuid": "ba7423e6-e79a-4733-8f47-1ff64197256d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18158,7 +18158,7 @@
       "subCategory": "दिव्यांगजन कल्याण",
       "questionType": "mcq",
       "uuid": "5ea1c918-168c-4449-9880-8263b295d42c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18234,7 +18234,7 @@
       "subCategory": "दिव्यांगजन कल्याण",
       "questionType": "mcq",
       "uuid": "65a98564-bfcb-4892-81fe-51ba12b6e6be",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18253,7 +18253,7 @@
       "subCategory": "दिव्यांगजन कल्याण",
       "questionType": "mcq",
       "uuid": "030cb0e8-4205-4737-9378-874048a6002b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18291,7 +18291,7 @@
       "subCategory": "स्वास्थ्य मानव संसाधन",
       "questionType": "mcq",
       "uuid": "f1961fe4-12ed-430c-a902-8d418dab4b88",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18367,7 +18367,7 @@
       "subCategory": "स्वास्थ्य मानव संसाधन",
       "questionType": "mcq",
       "uuid": "c959209e-3c21-4c0c-8e01-bcd5f88efa7b",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18386,7 +18386,7 @@
       "subCategory": "स्वास्थ्य मानव संसाधन",
       "questionType": "mcq",
       "uuid": "9b4167bf-4cdb-4164-ba92-d5bfd47cc61c",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18424,7 +18424,7 @@
       "subCategory": "स्वास्थ्य सुरक्षा",
       "questionType": "mcq",
       "uuid": "3e7a9f9e-c781-4ea8-afb0-afecc014c6d1",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18500,7 +18500,7 @@
       "subCategory": "स्वास्थ्य सुरक्षा",
       "questionType": "mcq",
       "uuid": "1da72186-51a5-4d62-9466-473ed1d9c074",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18519,7 +18519,7 @@
       "subCategory": "स्वास्थ्य सुरक्षा",
       "questionType": "mcq",
       "uuid": "a0b925f1-4b3c-4107-8eb2-f29c14ff0b47",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18633,7 +18633,7 @@
       "subCategory": "स्वास्थ्य सुरक्षा",
       "questionType": "mcq",
       "uuid": "e4a3623d-04b9-4214-9266-d4291f5613a7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18766,7 +18766,7 @@
       "subCategory": "स्वास्थ्य सुरक्षा",
       "questionType": "mcq",
       "uuid": "039dacde-86cf-4ac1-8933-59780ba7fb59",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -18899,7 +18899,7 @@
       "subCategory": "पोषण",
       "questionType": "mcq",
       "uuid": "35584591-fe60-49f4-9964-8f49a50339b5",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19032,7 +19032,7 @@
       "subCategory": "मातृ कल्याण",
       "questionType": "mcq",
       "uuid": "d113aa2b-9e8f-45e7-bd14-a94f1bd99ef0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19165,7 +19165,7 @@
       "subCategory": "महिला कल्याण",
       "questionType": "mcq",
       "uuid": "3e4f0115-c7ef-4bf5-b383-cf55e2140edb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19298,7 +19298,7 @@
       "subCategory": "बाल कल्याण",
       "questionType": "mcq",
       "uuid": "46331008-d2d1-42fb-8a13-d259fcdade93",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19431,7 +19431,7 @@
       "subCategory": "ऊर्जा/महिला कल्याण",
       "questionType": "mcq",
       "uuid": "ee036097-afab-4c0a-a19f-bdcc18ccd89d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19564,7 +19564,7 @@
       "subCategory": "वित्तीय समावेशन",
       "questionType": "mcq",
       "uuid": "388349cc-ffbc-40c9-b6e3-debfac8dc9d9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19697,7 +19697,7 @@
       "subCategory": "बीमा",
       "questionType": "mcq",
       "uuid": "210e0f8d-03fc-4c81-b9c4-66b2daadc62e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19830,7 +19830,7 @@
       "subCategory": "बीमा",
       "questionType": "mcq",
       "uuid": "453502e6-d1b9-4111-acdd-26e8de6dfa09",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19887,7 +19887,7 @@
       "subCategory": "पेंशन",
       "questionType": "mcq",
       "uuid": "9e4eb5ce-a149-48c6-99df-084d7066160f",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19963,7 +19963,7 @@
       "subCategory": "पेंशन",
       "questionType": "mcq",
       "uuid": "ddaedb85-a7fc-46e1-b5fd-669e2ac752d9",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -19982,7 +19982,7 @@
       "subCategory": "पेंशन",
       "questionType": "mcq",
       "uuid": "ff69e6ff-b72e-4823-b31c-1a57442a51a8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20096,7 +20096,7 @@
       "subCategory": "पेंशन",
       "questionType": "mcq",
       "uuid": "3cce8d01-901e-4cde-9bb9-3e063f1afa6e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20229,7 +20229,7 @@
       "subCategory": "कृषि तकनीक/महिला",
       "questionType": "mcq",
       "uuid": "986dca01-b89e-457b-86d7-80c8c31b1aee",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20362,7 +20362,7 @@
       "subCategory": "महिला/SHG",
       "questionType": "mcq",
       "uuid": "94540d22-af41-41f1-9392-753b47ebad09",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20495,7 +20495,7 @@
       "subCategory": "पशुपालन",
       "questionType": "mcq",
       "uuid": "61adf469-545a-4f67-8064-f89446390546",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20628,7 +20628,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "e382fc9c-278d-45c7-9820-c6bf047ea36e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20761,7 +20761,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "c76aa858-7190-4fc3-99cf-8d1a9a648a62",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -20894,7 +20894,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "52d377d1-48c0-483f-b20a-13cbc1197ee8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21027,7 +21027,7 @@
       "subCategory": "कृषि/उद्यान",
       "questionType": "mcq",
       "uuid": "df7b8b58-a796-4166-9a15-ea985b656930",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21160,7 +21160,7 @@
       "subCategory": "स्कूल पोषण",
       "questionType": "mcq",
       "uuid": "65763d74-f279-46d8-ae0e-6677a6590cf0",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21293,7 +21293,7 @@
       "subCategory": "कारीगर कल्याण",
       "questionType": "mcq",
       "uuid": "4cf9e6e4-12a5-4126-be10-b2fe8fa70fa8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21426,7 +21426,7 @@
       "subCategory": "कारीगर कल्याण",
       "questionType": "mcq",
       "uuid": "c63a8310-2262-4778-a963-4a503d12ade2",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21559,7 +21559,7 @@
       "subCategory": "कृषक पेंशन",
       "questionType": "mcq",
       "uuid": "b3844e02-180e-4649-970d-a5ebcf4176bd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21692,7 +21692,7 @@
       "subCategory": "कृषि योजना",
       "questionType": "mcq",
       "uuid": "b54ae0f4-b31b-4e5b-b957-c78743258e41",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21825,7 +21825,7 @@
       "subCategory": "सिंचाई",
       "questionType": "mcq",
       "uuid": "4a96e967-9a43-4137-8f1a-b83e197c009a",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -21958,7 +21958,7 @@
       "subCategory": "कृषि/उद्यमिता",
       "questionType": "mcq",
       "uuid": "b84e5196-617f-4a30-847f-1dfc00b65e42",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22015,7 +22015,7 @@
       "subCategory": "मत्स्य योजना",
       "questionType": "mcq",
       "uuid": "77923469-0705-40ef-b471-1bd143d4fe5d",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22091,7 +22091,7 @@
       "subCategory": "मत्स्य योजना",
       "questionType": "mcq",
       "uuid": "b36b697f-fc42-4e23-9ccd-dc62cb0c9667",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22110,7 +22110,7 @@
       "subCategory": "मत्स्य योजना",
       "questionType": "mcq",
       "uuid": "cc5d0da2-8862-4e98-9a13-209117c23dbd",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22148,7 +22148,7 @@
       "subCategory": "सौर कृषि",
       "questionType": "mcq",
       "uuid": "c56a9111-9c40-4613-bcb8-17415d71688e",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22224,7 +22224,7 @@
       "subCategory": "सौर कृषि",
       "questionType": "mcq",
       "uuid": "a3f68ab4-9e96-45dc-8074-0ac0e2211fd8",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22243,7 +22243,7 @@
       "subCategory": "सौर कृषि",
       "questionType": "mcq",
       "uuid": "b3852e8d-da8a-4750-bfef-80dd8a62c7c3",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22281,7 +22281,7 @@
       "subCategory": "शिक्षा नीति",
       "questionType": "mcq",
       "uuid": "80c8fe12-6e4e-4a2e-ac5f-82862273bcc7",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22357,7 +22357,7 @@
       "subCategory": "शिक्षा नीति",
       "questionType": "mcq",
       "uuid": "77ca1037-f916-4568-b521-a2c2de1003bb",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
@@ -22376,7 +22376,7 @@
       "subCategory": "शिक्षा नीति",
       "questionType": "mcq",
       "uuid": "1da3a204-59f9-4378-8f83-e850589933db",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "tags": [
         "UK-EXAM-PRO",
         "Current Affairs"
