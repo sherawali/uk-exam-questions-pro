@@ -1823,6 +1823,126 @@
         "UK-EXAM-PRO",
         "Economics"
       ]
+    },
+    {
+      "question": "कोविड-19 महामारी के दौरान भारत का कौन-सा क्षेत्र सबसे कम प्रभावित हुआ और जिसने सकारात्मक वृद्धि भी दर्ज की?",
+      "options": [
+        "कृषि",
+        "सेवा",
+        "औद्योगिक",
+        "तृतीयक"
+      ],
+      "correctIndex": 0,
+      "explanation": "वित्त वर्ष 2020–21 में, जब लॉकडाउन के कारण भारतीय अर्थव्यवस्था लगभग 6.6–7.3% सिकुड़ी, कृषि एवं संबद्ध क्षेत्र ही एकमात्र ऐसा क्षेत्र रहा जिसने सकारात्मक वृद्धि (लगभग 3.4%) दर्ज की। इसके कारण थे — अच्छा खरीफ मौसम, ग्रामीण क्षेत्र में लॉकडाउन का तुलनात्मक रूप से कम प्रभाव, और सरकार द्वारा MSP एवं खरीद में दी गई छूट। इसके विपरीत सेवा क्षेत्र (जिसमें पर्यटन, परिवहन, होटल और व्यापार शामिल हैं) सबसे अधिक प्रभावित हुआ, क्योंकि ये संपर्क-आधारित गतिविधियाँ बंद रहीं। कृषि में जी.डी.पी. हिस्सेदारी लगभग 18–20% है, पर रोजगार इसमें करीब 45% जनशक्ति को मिलता है।",
+      "subCategory": "भारतीय अर्थव्यवस्था — कोविड-19",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "During the COVID-19 pandemic, which sector of the Indian economy was least affected and also recorded positive growth?",
+        "options_en": [
+          "Agriculture",
+          "Services",
+          "Industry",
+          "Tertiary"
+        ],
+        "explanation_en": "In 2020-21, when lockdowns contracted the Indian economy by roughly 6.6–7.3 per cent, agriculture and allied activities was the only sector to post positive growth of about 3.4 per cent. The reasons were a good kharif season, the comparatively lighter impact of lockdown in rural areas, and the flexibility the government allowed in MSP procurement. The services sector — tourism, transport, hotels, trade — suffered the most because these contact-intensive activities were shut down. Agriculture contributes roughly 18–20 per cent of GDP yet employs close to 45 per cent of the workforce."
+      },
+      "uuid": "d51ce831-4459-5d8d-aaae-665ea5b2f6cf"
+    },
+    {
+      "question": "भारत में खाद्य प्रसंस्करण उद्योग में कितने प्रतिशत प्रत्यक्ष विदेशी निवेश की अनुमति ऑटोमैटिक रूट के अन्तर्गत है?",
+      "options": [
+        "90%",
+        "100%",
+        "75%",
+        "80%"
+      ],
+      "correctIndex": 1,
+      "explanation": "भारत की FDI नीति के अन्तर्गत खाद्य प्रसंस्करण उद्योग (food processing) में 100% प्रत्यक्ष विदेशी निवेश की अनुमति ऑटोमैटिक मार्ग से है — अर्थात निवेशक को पूर्व अनुमोदन की आवश्यकता नहीं। इसके अतिरिक्त, भारत में निर्मित खाद्य उत्पादों के व्यापार (trading, including e-commerce) में भी 100% FDI ऑटोमैटिक रूट से अनुमत है। तुलना हेतु: रक्षा उत्पादन में स्वदेशी प्रौद्योगिकी के साथ 100% तक (74% तक ऑटोमैटिक), बीमा में 74% (2021 के संशोधन से), दूरसंचार में 100% (49% तक ऑटोमैटिक), और मल्टी-ब्रांड रिटेल ट्रेडिंग में 51% केवल सरकारी मार्ग से। अक्टूबर 2020 के बाद से चीन तथा भूमि-सीमा साझा करने वाले देशों से आने वाले निवेश पर प्रेस नोट 3 के अन्तर्गत सरकारी अनुमोदन अनिवार्य है।",
+      "subCategory": "भारतीय अर्थव्यवस्था — विदेशी निवेश",
+      "questionType": "mcq",
+      "difficulty": "hard",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "What percentage of Foreign Direct Investment is permitted under the automatic route in India's food processing industry?",
+        "options_en": [
+          "90%",
+          "100%",
+          "75%",
+          "80%"
+        ],
+        "explanation_en": "Under India's FDI policy, 100 per cent FDI in food processing is permitted under the automatic route, meaning no prior approval is needed. In addition, 100 per cent FDI is allowed under the automatic route in trading — including through e-commerce — of food products manufactured in India. For comparison: defence production allows up to 100 per cent (automatic up to 74 per cent), insurance 74 per cent (after the 2021 amendment), telecom 100 per cent (automatic up to 49 per cent), and multi-brand retail trading 51 per cent only through the government route. Since October 2020, under Press Note 3, investment from China and other land-border countries requires prior government approval."
+      },
+      "uuid": "deb99fa5-a85a-58be-bd95-8184ed62a2a9"
+    },
+    {
+      "question": "भारत में कपास के बाद आने वाला कृषि आधारित दूसरा सबसे बड़ा उद्योग कौन-सा है?",
+      "options": [
+        "पटसन",
+        "चीनी",
+        "वनस्पति तेल",
+        "रेशम"
+      ],
+      "correctIndex": 1,
+      "explanation": "कपास वस्त्र उद्योग भारत का सबसे बड़ा कृषि-आधारित उद्योग है; इसके बाद चीनी उद्योग दूसरे स्थान पर आता है। चीनी उद्योग प्रत्यक्ष रूप से लगभग 5 लाख लोगों को और परोक्ष रूप से करीब 5 करोड़ गन्ना किसानों तथा परिवहन-श्रमिकों को रोजगार देता है। भारत विश्व का दूसरा सबसे बड़ा चीनी उत्पादक तथा प्रथम सबसे बड़ा उपभोक्ता है (ब्राजील पहले स्थान पर)। यह उद्योग मौसमी होने के कारण अक्टूबर–अप्रैल (पिड़ाई सत्र) में चलता है और 'मौसमी बेरोजगारी' का उदाहरण है। महाराष्ट्र, उत्तर प्रदेश और कर्नाटक प्रमुख उत्पादक राज्य हैं; उद्योग का नियमन गन्ना (नियंत्रण) आदेश, 1966 तथा Fair and Remunerative Price (FRP) व्यवस्था से होता है।",
+      "subCategory": "भारतीय अर्थव्यवस्था — कृषि आधारित उद्योग",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which is the second largest agro-based industry in India after cotton?",
+        "options_en": [
+          "Jute",
+          "Sugar",
+          "Vegetable oil",
+          "Silk"
+        ],
+        "explanation_en": "The cotton textile industry is India's largest agro-based industry, and sugar stands second. The sugar industry directly employs about half a million people and indirectly supports some five crore sugarcane farmers along with transport labour. India is the world's second largest producer of sugar and its largest consumer, Brazil being first in production. Because the industry is seasonal, it operates from October to April — the crushing season — and is a classic instance of seasonal unemployment. Maharashtra, Uttar Pradesh and Karnataka lead production; the sector is regulated by the Sugarcane (Control) Order, 1966 and the Fair and Remunerative Price (FRP) mechanism."
+      },
+      "uuid": "4f3cde34-0750-5d3e-af4a-7c0c4f0f5328"
+    },
+    {
+      "question": "भारत वनस्पति तेल का विश्व का ____ सबसे बड़ा उपभोक्ता और ____ नम्बर का आयातक है।",
+      "options": [
+        "5, 6",
+        "3, 2",
+        "2, 1",
+        "4, 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "भारत वनस्पति तेल (edible oil) का विश्व का दूसरा सबसे बड़ा उपभोक्ता (चीन के बाद) और सबसे बड़ा आयातक है। देश की घरेलू माँग का लगभग 60 प्रतिशत से अधिक आयात से पूरा होता है। प्रमुख आयात-स्रोत — इंडोनेशिया एवं मलेशिया (पाम तेल), अर्जेन्टीना एवं ब्राज़ील (सोयाबीन तेल) तथा यूक्रेन व रूस (सूरजमुखी तेल)। देश के प्रमुख तिलहन — मूँगफली, राई/सरसों, सोयाबीन, सूरजमुखी, तिल, अलसी तथा कुसुम; गुजरात मूँगफली तथा मध्य प्रदेश सोयाबीन का अग्रणी राज्य है। सरकार ने आयात-निर्भरता घटाने हेतु राष्ट्रीय खाद्य सुरक्षा मिशन के अन्तर्गत 'तिलहन एवं तेलपाम' मिशन तथा NMEO-OP (National Mission on Edible Oil – Oil Palm, 2021) आरम्भ किया।",
+      "subCategory": "भारतीय अर्थव्यवस्था — कृषि आधारित उद्योग",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "India is the world's ____ largest consumer and the ____ largest importer of vegetable (edible) oil.",
+        "options_en": [
+          "5, 6",
+          "3, 2",
+          "2, 1",
+          "4, 2"
+        ],
+        "explanation_en": "India is the world's second largest consumer of edible oil (after China) and the largest importer. More than about 60 per cent of domestic demand is met through imports. The principal sources are Indonesia and Malaysia for palm oil, Argentina and Brazil for soybean oil, and Ukraine and Russia for sunflower oil. India's main oilseeds are groundnut, rapeseed and mustard, soybean, sunflower, sesame, linseed and safflower; Gujarat leads in groundnut and Madhya Pradesh in soybean. To reduce import dependence the Government launched the oilseeds and oil palm programme under the National Food Security Mission and, in 2021, the National Mission on Edible Oil – Oil Palm (NMEO-OP)."
+      },
+      "uuid": "59904f97-b7ad-51ab-adf6-bc78c7c00989"
     }
   ]
 }

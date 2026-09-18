@@ -25544,7 +25544,186 @@
         ],
         "explanation_en": "Correct Answer: (C) Agriculture Department\n• Department: The 'Sitadhyaksha' was the head of\nthe State Agriculture Department.\n• Meaning of 'Sita': In the Mauryan period, the\nincome derived from state-owned land was called\n'Sita', and the responsibility for managing this\nagricultural land rested with the Sitadhyaksha.\nHe not only supervised agricultural operations\nbut also managed sowing, harvesting, and grain\nstorage.\nAnalysis of Other Departments:\n• (A) Mining Department: The head of the mining\ndepartment was known as 'Akaradhyaksha'.\n• (B) Commerce Department: The head of\ncommercial activities was known as\n'Panyadhyaksha'.\n• (D) Mint/Currency Department: The head of the\ndepartment of coins and currency was known as\n'Lakshanadhyaksha'.\nQuick Revision Table for Students:\nOfficial (Adhyaksha) Department\nSitadhyaksha Agriculture\nAkaradhyaksha Mining\nPanyadhyaksha Commerce\nLakshanadhyaksha Mint/Currency"
       }
+    },
+    {
+      "question": "भारतीय उपमहाद्वीप में प्रयुक्त प्राचीनतम सिक्के कहलाते थे:",
+      "options": [
+        "आहत सिक्के",
+        "ताम्र सिक्के",
+        "मिश्रधातु सिक्के",
+        "स्वर्ण सिक्के"
+      ],
+      "correctIndex": 0,
+      "explanation": "भारत में सर्वाधिक प्राचीन सिक्के 'आहत' या 'पंचमार्क' (Punch-marked) सिक्के थे। ये प्रायः चाँदी और ताँबे के अनियमित आकार के टुकड़े होते थे जिन पर एक या अनेक चिह्न ठपकर (आहत करके) अंकित किए जाते थे — प्रायः पाँच चिह्न, इसीलिए 'पंचमार्क'। ये लगभग छठी शताब्दी ई.पू. से प्रचलित हुए और मौर्य काल तक चलते रहे। इन पर कोई राजा का नाम या चित्र नहीं होता था, जो बाद के सिक्कों की विशेषता है — पहला शासक-चित्रित भारतीय सिक्क़ा सामान्यतः इंडो-ग्रीक शासकों से जुड़ा माना जाता है, और पहले स्वर्ण सिक्के कुषाणों (विम कड़फिसेस) ने बड़े पैमाने पर जारी किए।",
+      "subCategory": "प्राचीन भारतीय इतिहास — मुद्रा",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "The earliest coins used in the Indian subcontinent were known as:",
+        "options_en": [
+          "Aahata (punch-marked) coins",
+          "Copper coins",
+          "Alloy coins",
+          "Gold coins"
+        ],
+        "explanation_en": "The earliest coins of India were the 'aahata' or punch-marked coins. These were irregular pieces, mostly of silver and copper, stamped with one or more symbols — commonly five, hence 'punch-marked'. They circulated from roughly the sixth century BCE through the Mauryan period. They bear no royal name or portrait, which is the hallmark of later issues: the first Indian coins to carry a ruler's portrait are generally associated with the Indo-Greeks, and gold coins were first issued on a large scale by the Kushanas under Vima Kadphises."
+      },
+      "uuid": "0ee4fdd8-a6df-5bcb-b5e7-06cfa535f154"
+    },
+    {
+      "question": "कलिंग नरेश खारवेल का 'हाथीगुम्फा अभिलेख' किस भाषा में है?",
+      "options": [
+        "पालि",
+        "संस्कृत",
+        "प्राकृत",
+        "तमिल"
+      ],
+      "correctIndex": 2,
+      "explanation": "हाथीगुम्फा अभिलेख ओडिशा के भुवनेश्वर के पास उदयगिरि पहाड़ी की हाथीगुम्फा में अंकित है और यह कलिंग के चेदि वंशीय नरेश खारवेल की प्रमुख उपलब्धियों का विवरण देता है। यह अभिलेख प्राकृत भाषा में है और ब्राह्मी लिपि में लिखा गया है। खारवेल जैन धर्मानुयायी थे, और अभिलेख की शुरुआत 'नमो अरहंतानं' से होती है — यही इसकी जैन परंपरा से जुड़ी पहचान है। तुलना के लिए: अशोक के अभिलेख भी प्राकृत (और कुछ पश्चिमोत्तर में खरोष्ठी/अरामाई) में हैं, जबकि रुद्रदामन् का जूनागढ़ अभिलेख (150 ई.) संस्कृत गद्य का प्रथम बड़ा प्रमाण माना जाता है।",
+      "subCategory": "प्राचीन भारतीय इतिहास — अभिलेख",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "In which language is the Hathigumpha inscription of the Kalinga ruler Kharavela composed?",
+        "options_en": [
+          "Pali",
+          "Sanskrit",
+          "Prakrit",
+          "Tamil"
+        ],
+        "explanation_en": "The Hathigumpha inscription is engraved in the Hathigumpha cave at Udayagiri, near Bhubaneswar in Odisha, and records the principal achievements of Kharavela of the Chedi dynasty of Kalinga. It is composed in Prakrit and written in the Brahmi script. Kharavela was a follower of Jainism, and the inscription opens with 'Namo arahantanam', marking its Jain affiliation. For comparison, Ashoka's edicts are also in Prakrit (with Kharoshthi and Aramaic in the north-west), while Rudradaman's Junagadh inscription (c. 150 CE) is regarded as the first substantial example of Sanskrit prose."
+      },
+      "uuid": "0c3c0d52-8b08-538b-acc6-b830fb2d1c9f"
+    },
+    {
+      "question": "अकबर के शासनकाल में 'आमिल' नामक कर्मचारी प्रशासन के किस स्तर पर नियुक्त होता था?",
+      "options": [
+        "सूबा",
+        "सरकार",
+        "परगना",
+        "ग्राम"
+      ],
+      "correctIndex": 2,
+      "explanation": "अकबर की प्रशासनिक व्यवस्था में साम्राज्य को सूबा (प्रांत) → सरकार (मंडल) → परगना → ग्राम के क्रम में विभाजित किया गया था। परगना स्तर पर प्रमुख अधिकारी होते थे — 'आमिल' (जिसे फौजदार या अमीन भी कहा जाता), जो राजस्व संग्रह का उत्तरदायी था; 'कानूनगो' जो भूमि-अभिलेख रखता; 'मुकद्दम' जो ग्राम स्तर पर संग्रह कराता; 'पटवारी' जो किसान-वार खाता रखता; और 'करोरी'। सूबा स्तर का प्रमुख 'सूबेदार' और वित्तीय प्रमुख 'दीवान' होता, जबकि सरकार स्तर पर 'फौजदार' कानून-व्यवस्था संभालता। परीक्षा में यह प्रश्न अक्सर पूछा जाता है कि पटवारी किस स्तर पर कार्य करता था — उत्तर परगना/ग्राम।",
+      "subCategory": "मध्यकालीन भारतीय इतिहास — मुगल प्रशासन",
+      "questionType": "mcq",
+      "difficulty": "hard",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "At which level of administration was the officer called 'Amil' appointed during Akbar's reign?",
+        "options_en": [
+          "Suba (province)",
+          "Sarkar (division)",
+          "Pargana",
+          "Village"
+        ],
+        "explanation_en": "Akbar's administrative hierarchy ran Suba (province) → Sarkar (division) → Pargana → Village. At the pargana level the chief officers were the 'Amil' (also styled faujdar or amin), responsible for revenue collection; the 'kanungo', who kept land records; the 'muqaddam', who organised collection at village level; the 'patwari', who maintained the cultivator-wise account; and the 'karori'. At suba level stood the subedar and the diwan, while a faujdar maintained law and order in a sarkar. Exams often ask the parallel question of at what level the patwari worked — the answer being pargana/village."
+      },
+      "uuid": "fd95e5b0-d9f0-506b-8c9b-307fa80889b3"
+    },
+    {
+      "question": "'यूनाइटेड पेट्रियोटिक एसोसिएशन' के संस्थापक कौन थे?",
+      "options": [
+        "गोपाल कृष्ण गोखले",
+        "बाल गंगाधर तिलक",
+        "लाला लाजपत राय",
+        "सर सैयद अहमद खान"
+      ],
+      "correctIndex": 3,
+      "explanation": "सर सैयद अहमद खान ने 1888 में इलाहाबाद के राजा शिवप्रसाद गुप्त के सहयोग से 'यूनाइटेड पेट्रियोटिक एसोसिएशन' (United Patriotic Association) की स्थापना की। इसका उद्देश्य सरकार के सामने मुसलमानों और अन्य समुदायों की शिकायतें रखना और भारतीय राष्ट्रीय कांग्रेस के प्रतिनिधित्व के दावे का प्रतिवाद करना था। इससे पूर्व 1875 में उन्होंने अलीगढ़ में 'साइंटिफिक सोसाइटी' तथा 1886 में 'मुहम्मडन एंग्लो-ओरिएंटल कांफ्रेंस' की स्थापना की थी, और 1866 में 'ब्रिटिश इंडियन एसोसिएशन' से जुड़े थे। अलीगढ़ मुस्लिम विश्वविद्यालय का आधार उनकी एम.ए.ओ. कॉलेज (1877) थी। कांग्रेस के प्रति उनका विरोध 1887 में उनके 'दो राष्ट्र' संबंधी भाषण से और स्पष्ट हुआ।",
+      "subCategory": "आधुनिक भारतीय इतिहास — संगठन",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Who founded the 'United Patriotic Association'?",
+        "options_en": [
+          "Gopal Krishna Gokhale",
+          "Bal Gangadhar Tilak",
+          "Lala Lajpat Rai",
+          "Sir Syed Ahmed Khan"
+        ],
+        "explanation_en": "Sir Syed Ahmed Khan founded the United Patriotic Association in 1888, in collaboration with Raja Shivprasad Gupta of Allahabad. Its purpose was to place Muslim and other community grievances before the government and to counter the Indian National Congress's claim to represent all Indians. Earlier he had set up the Scientific Society at Aligarh (1875) and the Muhammadan Anglo-Oriental Conference (1886), and had been associated with the British Indian Association (1866). His M.A.O. College (1877) later became Aligarh Muslim University. His opposition to the Congress sharpened with his 1887 remarks on 'two nations'."
+      },
+      "uuid": "ee2072ac-0af3-5dc0-b212-bb7bf51b534f"
+    },
+    {
+      "question": "पंजाब के 'कूका आंदोलन' का नेतृत्व किसने किया?",
+      "options": [
+        "बलबंत सिंह",
+        "करतार सिंह",
+        "राम सिंह",
+        "एल. एम. लोंगोबाल"
+      ],
+      "correctIndex": 2,
+      "explanation": "कूका आंदोलन (नामधारी आंदोलन) की स्थापना 1840 के दशक में भाई राम सिंह के गुरु भाई बालक सिंह ने की थी, पर इसे संगठित जन-आंदोलन का रूप देने वाले भाई राम सिंह (जन्म 1816, भैणी साहिब) थे। आंदोलन के अनुयायी 'कूका' कहलाते क्योंकि वे उत्तेजना में ऊँचे स्वर में चिल्लाते थे। इसने अंग्रेजी वस्तुओं, अदालतों और शिक्षा का बहिष्कार किया — यही बाद में गांधीजी के असहयोग का पूर्वरूप माना जाता है। 1872 में मलेरकोटला में गाय काटने की घटनाओं के बाद उप-आयुक्त कावेन ने बिना विचारण के कई कूकाओं को तोप के मुँह से उड़ा दिया। भाई राम सिंह को बर्मा निर्वासित कर दिया गया, जहाँ 1885 में उनका निधन हुआ।",
+      "subCategory": "आधुनिक भारतीय इतिहास — जन आंदोलन",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Who led the 'Kuka Movement' of Punjab?",
+        "options_en": [
+          "Balwant Singh",
+          "Kartar Singh",
+          "Ram Singh",
+          "L. M. Longobal"
+        ],
+        "explanation_en": "The Kuka (Namdhari) movement was initiated in the 1840s by Bhai Balak Singh, but it was Bhai Ram Singh (b. 1816, Bhaini Sahib) who turned it into an organised mass movement. Followers were called 'Kukas' because they shouted aloud in religious fervour. The movement boycotted British goods, courts and education — often seen as a forerunner of Gandhi's non-cooperation. After incidents of cow-killing at Malerkotla in 1872, Deputy Commissioner Cowan blew several Kukas from the mouths of cannons without trial. Ram Singh was deported to Burma, where he died in 1885."
+      },
+      "uuid": "2dc355a2-d771-5dcb-a08c-807efee91de1"
+    },
+    {
+      "question": "'अल-हिलाल' नामक समाचार-पत्र किसने प्रारम्भ किया?",
+      "options": [
+        "शौकत अली",
+        "मुजफ्फर अली",
+        "सर सैयद अहमद खान",
+        "मौलाना अबुल कलाम आजाद"
+      ],
+      "correctIndex": 3,
+      "explanation": "मौलाना अबुल कलाम आजाद ने 1912 में कलकत्ता से उर्दू साप्ताहिक 'अल-हिलाल' का प्रकाशन प्रारम्भ किया। इसने अत्यंत प्रभावशाली भाषा में ब्रिटिश शासन की आलोचना की और भारतीय मुसलमानों को स्वतंत्रता संग्राम में भाग लेने के लिए प्रेरित किया। 1914 में प्रेस अधिनियम के अन्तर्गत सरकार ने इसे जब्त कर लिया, तब आजाद ने 'अल-बलाग' निकाला, जो 1916 में प्रतिबंधित हो गया; इसके बाद उन्हें 1916 से 1920 तक रांची में नजरबंद रखा गया। तुलना के लिए: 'तहजीब-उल-अखलाक' सर सैयद अहमद खान का, 'सोमप्रकाश' द्वारकानाथ विद्याभूषण का, और 'केसरी'/'मराठा' बाल गंगाधर तिलक का प्रकाशन था।",
+      "subCategory": "आधुनिक भारतीय इतिहास — प्रेस",
+      "questionType": "mcq",
+      "difficulty": "easy",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Who started the newspaper 'Al-Hilal'?",
+        "options_en": [
+          "Shaukat Ali",
+          "Muzaffar Ali",
+          "Sir Syed Ahmed Khan",
+          "Maulana Abul Kalam Azad"
+        ],
+        "explanation_en": "Maulana Abul Kalam Azad launched the Urdu weekly Al-Hilal from Calcutta in 1912. Written in powerful prose, it criticised British rule and urged Indian Muslims to join the freedom struggle. The government confiscated it in 1914 under the Press Act; Azad then started Al-Balagh, which was banned in 1916, after which he was interned at Ranchi from 1916 to 1920. For comparison: Tahzib-ul-Akhlaq was Sir Syed Ahmed Khan's, Somprakash was Dwarakanath Vidyabhushan's, and Kesari and Mahratta were Bal Gangadhar Tilak's."
+      },
+      "uuid": "d6670925-299d-5d19-aa0a-87a4f80b64ed"
     }
-  ],
-  "updated_at": "2026-09-17T23:29:58.147652+00:00"
+  ]
 }

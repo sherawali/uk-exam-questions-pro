@@ -1,5 +1,5 @@
 {
-  "version": "4.5.0",
+  "version": "4.6.0",
   "last_sync": "2026-09-17T23:29:58Z",
   "flash_news": {
     "enabled": false,
@@ -32,5 +32,6 @@
       "science_questions.json": 417,
       "uttarakhand_questions.json": 5600
     }
-  }
+  },
+  "total_questions": 12120
 }

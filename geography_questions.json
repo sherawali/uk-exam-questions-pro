@@ -1766,6 +1766,216 @@
         "UK-EXAM-PRO",
         "Geography"
       ]
+    },
+    {
+      "question": "वायुमण्डल की सबसे ऊपरी परत कौन-सी है?",
+      "options": [
+        "क्षोभमण्डल",
+        "ओजोनमण्डल",
+        "आयनमण्डल",
+        "बहिर्मण्डल"
+      ],
+      "correctIndex": 3,
+      "explanation": "पृथ्वी के वायुमण्डल की पाँच प्रमुख परतें नीचे से ऊपर इस क्रम में हैं — क्षोभमण्डल (Troposphere, 0–लगभग 12 किमी; सभी मौसमी घटनाएँ यहीं होती हैं), समतापमण्डल (Stratosphere; ओजोन परत यहीं 15–35 किमी के बीच), मध्यमण्डल (Mesosphere; सबसे ठंडी परत, उल्काएँ यहीं जलती हैं), तापमण्डल/आयनमण्डल (Thermosphere; रेडियो तरंगों का परावर्तन), और सबसे ऊपर बहिर्मण्डल (Exosphere, लगभग 500 किमी से 10,000 किमी तक)। बहिर्मण्डल में वायु अत्यंत विरल होती है और यह धीरे-धीरे अंतरिक्षीय निर्वात में विलीन हो जाता है। ध्यान दें कि ओजोनमण्डल कोई स्वतंत्र परत नहीं, समतापमण्डल का ही भाग है।",
+      "subCategory": "भूगोल — वायुमण्डल",
+      "questionType": "mcq",
+      "difficulty": "easy",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which is the uppermost layer of the atmosphere?",
+        "options_en": [
+          "Troposphere",
+          "Ozonosphere",
+          "Ionosphere",
+          "Exosphere"
+        ],
+        "explanation_en": "The five principal layers of the atmosphere, from the surface upwards, are the Troposphere (0 to about 12 km, where all weather occurs), the Stratosphere (containing the ozone layer between roughly 15 and 35 km), the Mesosphere (the coldest layer, where meteors burn up), the Thermosphere or Ionosphere (which reflects radio waves), and outermost the Exosphere, extending from about 500 km to 10,000 km. The air there is extremely thin and merges gradually into the vacuum of space. Note that the ozonosphere is not a separate layer but a part of the stratosphere."
+      },
+      "uuid": "3a73611a-cf74-5a01-89f4-535678aa7404"
+    },
+    {
+      "question": "निम्नलिखित में से कौन मानसून की उत्पत्ति को प्रभावित नहीं करता है?",
+      "options": [
+        "जेट स्ट्रीम",
+        "एल-नीनो",
+        "तापमान विभिन्नता",
+        "पश्चिमी विक्षोभ"
+      ],
+      "correctIndex": 3,
+      "explanation": "भारतीय मानसून की उत्पत्ति के प्रमुख कारक हैं — स्थल एवं जल पर तापमान की विभिन्नता, वायुमण्डलीय दाब-पेटियों का मौसमी स्थानांतरण (ITCZ), हिमालय की भौतिक बाधा, तिब्बत के पठार की ऊर्ध्ववायु धाराएँ, दक्षिणी गोलार्ध से व्यापार पवनों का भूमध्यरेखा पार करना, तथा जेट स्ट्रीम (उप-उष्णकटिबंधीय पश्चिमी जेट स्ट्रीम) की स्थिति। एल-नीनो भी मानसून की तीव्रता को सीधे प्रभावित करता है — एल-नीनो वर्षों में प्रायः दुर्बल या विलम्बित मानसून मिलता है। पश्चिमी विक्षोभ (Western Disturbances) भूमध्यसागर से आने वाले शीतोष्ण चक्रवात हैं जो उत्तर-पश्चिम भारत में शीतकालीन वर्षा (रबी फसलों के लिए अमृत) कराते हैं; उनका मानसून की उत्पत्ति से कोई सम्बन्ध नहीं है।",
+      "subCategory": "भूगोल — मानसून",
+      "questionType": "mcq",
+      "difficulty": "hard",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following does not influence the origin of the monsoon?",
+        "options_en": [
+          "Jet stream",
+          "El Nino",
+          "Temperature differential",
+          "Western disturbances"
+        ],
+        "explanation_en": "The main causes of the Indian monsoon are the differential heating of land and water, the seasonal shift of pressure belts and the ITCZ, the barrier of the Himalayas, the ascending air currents over the Tibetan plateau, the cross-equatorial flow of the southern-hemisphere trades, and the position of the jet stream (the subtropical westerly jet). El Nino also bears directly on monsoon strength, usually producing weak or delayed rainfall. Western disturbances, by contrast, are temperate cyclones from the Mediterranean that bring winter rain to north-west India — valuable for rabi crops — but have nothing to do with the origin of the monsoon."
+      },
+      "uuid": "03547f76-f180-5939-a080-73a73a5227dd"
+    },
+    {
+      "question": "निम्नलिखित स्थानीय पवनों में से कौन-सी आल्प्स की घाटी में पायी जाती है?",
+      "options": [
+        "सिरोको",
+        "फन",
+        "हारमैटन",
+        "खामसिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "'फन' (Foehn) एक गर्म और शुष्क पवन है जो आल्प्स की उत्तरी ढाल पर नीचे उतरता है। जब आर्द्र वायु पर्वत के windward पक्ष पर चढ़ती है तो वर्षा होती है, और पर्वत के उस पार उतरते समय वायु संपीडित होकर गर्म हो जाती है — इसे ही फन कहते हैं। इसके कारण आल्प्स की घाटियों में बर्फ जल्दी पिघलती है और चराई की सुविधा मिलती है। अन्य विकल्प: सिरोको सहारा से भूमध्यसागर पार होकर इटली की ओर चलने वाली गर्म-धूल भरी हवा है; हारमैटन पश्चिम अफ्रीका (गिनी तट) की शुष्क हवा है; और खामसिन मिस्र में वसंत में चलने वाली गर्म, धूल भरी हवा है। भारत के समकक्ष 'लू' (गंगा मैदान) है।",
+      "subCategory": "भूगोल — स्थानीय पवन",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which of these local winds is found in the valleys of the Alps?",
+        "options_en": [
+          "Sirocco",
+          "Foehn",
+          "Harmattan",
+          "Khamsin"
+        ],
+        "explanation_en": "The Foehn is a warm, dry wind that descends the northern slopes of the Alps. As moist air climbs the windward side it rains; descending the leeward side it compresses and warms — this is the Foehn, which melts snow quickly in Alpine valleys and opens up grazing. Of the distractors: the Sirocco is a hot, dust-laden wind crossing the Mediterranean from the Sahara towards Italy; the Harmattan is the dry wind of West Africa's Guinea coast; and the Khamsin is a hot, dusty spring wind of Egypt. The Indian counterpart is the 'Loo' of the Gangetic plain."
+      },
+      "uuid": "41640f03-0e21-579a-b151-dbecc83230fc"
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार, निम्नलिखित में से किस राज्य में न्यूनतम लिंगानुपात अंकित किया गया था?",
+      "options": [
+        "हरियाणा",
+        "बिहार",
+        "गुजरात",
+        "सिक्किम"
+      ],
+      "correctIndex": 0,
+      "explanation": "जनगणना 2011 के अनुसार भारत का राष्ट्रीय लिंगानुपात 943 (प्रति 1000 पुरुषों पर स्त्रियाँ) था। राज्यों में सर्वाधिक लिंगानुपात केरल का 1084 और न्यूनतम हरियाणा का 879 रहा। दिए गए विकल्पों में — हरियाणा 879, गुजरात 919, बिहार 918, सिक्किम 890। अतः न्यूनतम हरियाणा का है। अन्य स्मरणीय आँकड़े: राष्ट्रीय जनसंख्या घनत्व 382 प्रति वर्ग किमी, साक्षरता 74.04%, बाल लिंगानुपात (0–6 वर्ष) 918, और सर्वाधिक जनसंख्या घनत्व बिहार (1106) का। 2011 की जनगणना भारत की 15वीं और स्वतंत्रता के बाद की सातवीं जनगणना थी; इसकी थीम थी 'हमारी जनगणना, हमारा भविष्य'।",
+      "subCategory": "भूगोल — जनगणना 2011",
+      "questionType": "mcq",
+      "difficulty": "easy",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "According to the 2011 Census, which of the following states recorded the lowest sex ratio?",
+        "options_en": [
+          "Haryana",
+          "Bihar",
+          "Gujarat",
+          "Sikkim"
+        ],
+        "explanation_en": "The 2011 Census put India's national sex ratio at 943 females per 1,000 males. Among States, Kerala was highest at 1,084 and Haryana lowest at 879. Of the options given — Haryana 879, Sikkim 890, Bihar 918, Gujarat 919 — Haryana is the lowest. Other figures worth memorising: national density 382 per sq km, literacy 74.04%, child sex ratio (0–6 years) 918, and the highest State density Bihar at 1,106. The 2011 Census was India's fifteenth and the seventh after Independence, carried under the theme 'Our Census, Our Future'."
+      },
+      "uuid": "7806a965-5c52-56e8-ab33-04c10442dd3e"
+    },
+    {
+      "question": "निम्नलिखित बाक्साइट निक्षेप क्षेत्रों में से कौन-सा ओडिशा में स्थित नहीं है?",
+      "options": [
+        "बोलंगिर",
+        "कोरापुट",
+        "डुमका",
+        "सम्बलपुर"
+      ],
+      "correctIndex": 2,
+      "explanation": "ओडिशा भारत का सबसे बड़ा बाक्साइट उत्पादक राज्य है; यहाँ मुख्य निक्षेप पूर्वी घाट की पहाड़ियों में — कोरापुट, बोलंगिर, कालाहांडी, सम्बलपुर, अनुगुल और रायगड़ा जिलों में — पाए जाते हैं, जिनमें पंचपटमाली (कोरापुट) सर्वाधिक प्रसिद्ध है। 'डुमका' झारखंड का जिला है और संथाल परगना क्षेत्र का प्रशासनिक केन्द्र है — अतः यही सही उत्तर है। भारत में बाक्साइट के अन्य प्रमुख क्षेत्र: झारखंड (लोहरदगा, लातेहार), छत्तीसगढ़ (अमरकंटक पठार, बस्तर), गुजरात (कच्छ, जामनगर) और महाराष्ट्र (कोल्हापुर, ठाणे)। बाक्साइट से ही एल्युमिनियम प्राप्त होता है, और ओडिशा के हीराकुंड तथा राष्ट्रीय एल्युमिनियम (NALCO) के दमनजोड़ी संयंत्र इसी श्रृंखला से जुड़े हैं।",
+      "subCategory": "भूगोल — खनिज संसाधन",
+      "questionType": "mcq",
+      "difficulty": "hard",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following bauxite deposit areas is not located in Odisha?",
+        "options_en": [
+          "Bolangir",
+          "Koraput",
+          "Dumka",
+          "Sambalpur"
+        ],
+        "explanation_en": "Odisha is India's largest bauxite producer; its principal deposits lie in the Eastern Ghats hills across Koraput, Bolangir, Kalahandi, Sambalpur, Angul and Rayagada districts, Panchpatmali in Koraput being the most celebrated. 'Dumka', however, is a district of Jharkhand and the administrative centre of the Santhal Pargana region — hence the correct answer. India's other major bauxite tracts are Jharkhand (Lohardaga, Latehar), Chhattisgarh (Amarkantak plateau, Bastar), Gujarat (Kutch, Jamnagar) and Maharashtra (Kolhapur, Thane). Bauxite is the ore of aluminium, and Odisha's Hirakud and NALCO's Damanjodi units belong to this same chain."
+      },
+      "uuid": "1ec0f1e2-81ee-503a-841a-18caf5b9ef42"
+    },
+    {
+      "question": "निम्नलिखित देशों में से कौन विश्व में कॉफी उत्पादक देश नहीं है?",
+      "options": [
+        "इक्वेडोर",
+        "कोलम्बिया",
+        "ब्राजील",
+        "चिली"
+      ],
+      "correctIndex": 3,
+      "explanation": "कॉफी उष्णकटिबंधीय एवं उप-उष्णकटिबंधीय जलवायु (20°–30°C तापमान, 150–250 सेमी वर्षा) की फसल है, इसलिए इसकी खेती 'कॉफी बेल्ट' कहे जाने वाले क्षेत्र में होती है। विश्व के प्रमुख उत्पादक हैं — ब्राजील (सर्वाधिक, 'साओ पाउलो' क्षेत्र), वियतनाम, कोलम्बिया (उच्च गुणवत्ता वाली अरबिका), इंडोनेशिया, इथियोपिया (कॉफी की जन्मभूमि) तथा इक्वेडोर। चिली का अधिकांश भाग शीतोष्ण जलवायु में पड़ता है और वहाँ भूमध्यसागरीय प्रकार की कृषि — अंगूर, सेब, चेरी — होती है; अतः चिली कॉफी उत्पादक नहीं है। भारत में कॉफी मुख्यतः कर्नाटक (बाबा बुडन गिरि), केरल और तमिलनाडु में उगाई जाती है।",
+      "subCategory": "भूगोल — विश्व कृषि",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is not a coffee-producing country of the world?",
+        "options_en": [
+          "Ecuador",
+          "Colombia",
+          "Brazil",
+          "Chile"
+        ],
+        "explanation_en": "Coffee is a crop of tropical and subtropical climates (20–30°C, 150–250 cm rainfall) and is grown in what is called the 'coffee belt'. The leading producers are Brazil (largest, in the Sao Paulo region), Vietnam, Colombia (renowned for high-quality Arabica), Indonesia, Ethiopia (the birthplace of coffee) and Ecuador. Most of Chile lies in a temperate zone with Mediterranean agriculture — grapes, apples, cherries — so it is not a coffee producer. In India coffee is grown chiefly in Karnataka (Baba Budan Giri), Kerala and Tamil Nadu."
+      },
+      "uuid": "5ad1e627-efcf-50d0-b814-362d3d4cb6dc"
+    },
+    {
+      "question": "भारत की सबसे लम्बी नदी है:",
+      "options": [
+        "गोदावरी",
+        "गंगा",
+        "यमुना",
+        "ब्रह्मपुत्र"
+      ],
+      "correctIndex": 1,
+      "explanation": "भारत की सबसे लम्बी नदी गंगा है, जिसकी भारत के भीतर लम्बाई लगभग 2,525 किमी है। इसका उद्गम उत्तराखण्ड के उत्तरकाशी जिले में गंगोत्री हिमनद से 'भागीरथी' के रूप में होता है और देवप्रयाग में अलकनंदा से मिलकर इसे गंगा कहा जाता है; अंततः यह बांग्लादेश में पद्मा के नाम से बहती है और सुंदरबन डेल्टा बनाकर बंगाल की खाड़ी में गिरती है। ध्यान देने योग्य तथ्य — कुल लम्बाई की दृष्टि से ब्रह्मपुत्र (लगभग 2,900 किमी) एवं सिन्धु गंगा से बड़े हैं, किन्तु भारत के भीतर बहने वाले भाग की दृष्टि से गंगा सबसे लम्बी है (ब्रह्मपुत्र भारत में केवल लगभग 916 किमी बहती है)। लम्बाई के क्रम में भारत की प्रमुख नदियाँ — गंगा (2,525 किमी), गोदावरी (1,465 किमी), यमुना (1,376 किमी), नर्मदा (1,312 किमी) तथा कृष्णा (1,300 किमी)। गोदावरी को 'दक्षिण गंगा' तथा 'वृद्ध गंगा' भी कहा जाता है।",
+      "subCategory": "भूगोल — भारत का अपवाह तंत्र",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "The longest river in India is:",
+        "options_en": [
+          "Godavari",
+          "Ganga",
+          "Yamuna",
+          "Brahmaputra"
+        ],
+        "explanation_en": "The Ganga is the longest river in India, flowing for about 2,525 km within the country. It originates as the Bhagirathi from the Gangotri glacier in Uttarkashi district of Uttarakhand and becomes the Ganga on meeting the Alaknanda at Devprayag; in Bangladesh it flows as the Padma and finally forms the Sundarbans delta before emptying into the Bay of Bengal. A point worth noting: in total length the Brahmaputra (about 2,900 km) and the Indus exceed the Ganga, but within Indian territory the Ganga is the longest, since the Brahmaputra runs only about 916 km in India. Rivers of India in descending order of length are the Ganga (2,525 km), Godavari (1,465 km), Yamuna (1,376 km), Narmada (1,312 km) and Krishna (1,300 km). The Godavari is also called the 'Dakshin Ganga' or 'Vridh Ganga'."
+      },
+      "uuid": "56bb51ef-8d1b-5f4c-abf3-01ebb79abda3"
     }
   ]
 }

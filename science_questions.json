@@ -7922,6 +7922,126 @@
         "UK-EXAM-PRO",
         "Science"
       ]
+    },
+    {
+      "question": "(?) के स्थान पर वह विकल्प चुनिए जिसका सम्बन्ध तीसरी संख्या से वैसे ही है जैसे दूसरी संख्या का सम्बन्ध पहली संख्या से है —\n12 : 60 : : 16 : ?",
+      "options": [
+        "112",
+        "122",
+        "210",
+        "212"
+      ],
+      "correctIndex": 0,
+      "explanation": "यहाँ सम्बन्ध गुणन का है, जिसमें गुणक भी बदलता है। 12 → 60 के लिए गुणक 5 है (12 × 5 = 60) और 16 के लिए 7 (16 × 7 = 112)। दोनों गुणक एक ही नियम से बनते हैं — पहली संख्या का आधा minus एक (12 ÷ 2 − 1 = 5 और 16 ÷ 2 − 1 = 7)। ये 5 और 7 क्रमशः दो क्रमागत विषम संख्याएँ भी हैं। इसलिए 16 का उत्तर 112 है। ध्यान दीजिए कि सीधा 16 × 5 = 80 विकल्पों में नहीं है — यही संकेत है कि गुणक स्थिर नहीं, बल्कि बदलता है।",
+      "subCategory": "सामान्य अध्ययन — संख्यात्मक सादृश्य",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Choose the option for (?) that bears the same relation to the third number as the second bears to the first —\n12 : 60 : : 16 : ?",
+        "options_en": [
+          "112",
+          "122",
+          "210",
+          "212"
+        ],
+        "explanation_en": "The relation here is multiplicative with a shifting multiplier. For 12 the multiplier is 5, since 12 × 5 = 60; for 16 the multiplier is 7, since 16 × 7 = 112. Both multipliers follow the same rule — half the first term minus one (12 ÷ 2 − 1 = 5 and 16 ÷ 2 − 1 = 7) — and are also a pair of consecutive odd numbers. Applying that rule to 16 gives 112, so 112 is the correct answer. Note that the straightforward 16 × 5 = 80 is not among the options, which is the clue that the multiplier itself shifts."
+      },
+      "uuid": "6bef1da5-621f-571e-9d52-e85d607ed85c"
+    },
+    {
+      "question": "छः मित्र A, B, C, D, E तथा F एक वृत्त पर, केन्द्र की ओर मुख करके बैठे हैं। E, D के बायीं ओर है; C, A व B के मध्य है। F, E व A के मध्य है। B के बायीं ओर कौन है?",
+      "options": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctIndex": 2,
+      "explanation": "वृत्ताकार बैठक-व्यवस्था में जब सभी का मुख केन्द्र की ओर हो, तो किसी व्यक्ति की 'बायीं ओर' घड़ी की दिशा (clockwise) तथा 'दाहिनी ओर' घड़ी की विपरीत दिशा (anticlockwise) होती है। दी गई शर्तों से क्रम निश्चित होता है — E, D के बायीं ओर है (अर्थात D के बाद घड़ी की दिशा में E); C, A और B के मध्य है; तथा F, E और A के मध्य है। इन तीनों को मिलाने पर वृत्त पर क्रम D → E → F → A → C → B → (वापस D) बनता है। अतः B के बायीं ओर (घड़ी की दिशा में) D है। परीक्षा-टिप — 'केन्द्र की ओर मुख' तथा 'केन्द्र की विपरीत मुख' में बायें-दायें की दिशा उलट जाती है, इसलिए प्रश्न पढ़ते ही मुख की दिशा चिह्नित कर लें।",
+      "subCategory": "सामान्य अध्ययन — बैठक व्यवस्था",
+      "questionType": "mcq",
+      "difficulty": "hard",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Six friends A, B, C, D, E and F sit around a circle facing the centre. E is to the left of D; C is between A and B; F is between E and A. Who is to the left of B?",
+        "options_en": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "explanation_en": "In a circular seating arrangement where everyone faces the centre, 'to the left of' a person means clockwise and 'to the right' means anticlockwise. From the given conditions the order is fixed: E is to the left of D (that is, E comes clockwise after D); C is between A and B; and F is between E and A. Combining these, the circle reads D, E, F, A, C, B and back to D. Hence the person to the left of B, moving clockwise, is D. Tip: if the persons face away from the centre, left and right are reversed, so note the direction of facing before you begin."
+      },
+      "uuid": "d2dc4223-87a0-50f0-b67e-e61672d59944"
+    },
+    {
+      "question": "गणितीय चिह्नों का सही संयोजन चुनिए, जिससे '*' चिह्नों के प्रतिस्थापित करने पर निम्नलिखित समीकरण सही हो —\n36 * 120 * 4 * 46 * 20",
+      "options": [
+        "=, ×, ÷, −",
+        "+, ÷, −, =",
+        "×, ÷, +, =",
+        "+, ÷, =, ×"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही संयोजन (+, ÷, −, =) है, क्योंकि 36 + 120 ÷ 4 − 46 = 20 बनता है। गणना — BODMAS नियम के अनुसार पहले भाग : 120 ÷ 4 = 30; फिर जोड़ : 36 + 30 = 66; अन्त में घटाव : 66 − 46 = 20। अन्य विकल्पों की जाँच — '×, ÷, +, =' लगाने पर 36 × 120 ÷ 4 + 46 = 1126 ≠ 20; '+, ÷, =, ×' लगाया तो समीकरण मध्य में ही टूट जाता है; तथा '=, ×, ÷, −' से 36 = 120 × 4 ÷ 46 − 20 प्राप्त होता है जो असत्य है। BODMAS का पूर्ण क्रम — Bracket, Of, Division, Multiplication, Addition, Subtraction।",
+      "subCategory": "सामान्य अध्ययन — गणितीय तर्क",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Choose the correct combination of mathematical signs so that on replacing the '*' signs the following equation becomes correct —\n36 * 120 * 4 * 46 * 20",
+        "options_en": [
+          "=, ×, ÷, −",
+          "+, ÷, −, =",
+          "×, ÷, +, =",
+          "+, ÷, =, ×"
+        ],
+        "explanation_en": "The correct combination is (+, ÷, −, =), because 36 + 120 ÷ 4 − 46 = 20 holds. Working it out under the BODMAS rule: first the division, 120 ÷ 4 = 30; then the addition, 36 + 30 = 66; finally the subtraction, 66 − 46 = 20. Testing the alternatives: '×, ÷, +, =' gives 36 × 120 ÷ 4 + 46 = 1126, not 20; '+, ÷, =, ×' breaks the equation midway; and '=, ×, ÷, −' would assert 36 = 120 × 4 ÷ 46 − 20, which is false. The full BODMAS order is Bracket, Of, Division, Multiplication, Addition, Subtraction."
+      },
+      "uuid": "4b5816e8-9fe1-5a8f-a372-0d5a7695e9fa"
+    },
+    {
+      "question": "दिए गये कथनों से कौन-सा (से) निष्कर्ष तार्किक रूप से अनुसरण करता है (करते हैं)?\nकथन — कुछ खिलाड़ी गायक हैं। सभी गायक लम्बे हैं।\nनिष्कर्ष I : कुछ खिलाड़ी लम्बे हैं। निष्कर्ष II : सभी खिलाड़ी लम्बे हैं।",
+      "options": [
+        "दोनों I व II",
+        "केवल I",
+        "केवल II",
+        "न तो I, न ही II"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह एक क्लासिक वैन-आरेख (Venn diagram) का प्रश्न है। पहला कथन 'कुछ खिलाड़ी गायक हैं' यह दर्शाता है कि खिलाड़ियों और गायकों के समुच्चयों में आंशिक प्रतिच्छेदन है। दूसरा कथन 'सभी गायक लम्बे हैं' गायकों के समुच्चय को पूर्णतः 'लम्बे' के समुच्चय के भीतर रखता है। चूँकि खिलाड़ियों का वह भाग जो गायक है, अनिवार्यतः 'लम्बे' के भीतर आएगा, अतः निष्कर्ष I (कुछ खिलाड़ी लम्बे हैं) वैध है। किन्तु खिलाड़ियों का वह भाग जो गायक नहीं है, उसके बारे में कोई सूचना नहीं है; अतः निष्कर्ष II (सभी खिलाड़ी लम्बे हैं) अनिश्चित है और अनुसरण नहीं करता। उत्तर — केवल निष्कर्ष I।",
+      "subCategory": "सामान्य अध्ययन — कथन एवं निष्कर्ष",
+      "questionType": "mcq",
+      "difficulty": "hard",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which conclusion(s) logically follow(s) from the given statements?\nStatements: Some players are singers. All singers are tall.\nConclusion I: Some players are tall. Conclusion II: All players are tall.",
+        "options_en": [
+          "Both I and II",
+          "Only I",
+          "Only II",
+          "Neither I nor II"
+        ],
+        "explanation_en": "This is a classic Venn-diagram problem. The first statement, 'some players are singers', shows a partial intersection between the sets of players and singers. The second, 'all singers are tall', places the set of singers entirely inside the set of tall people. The players who are singers must therefore fall inside 'tall', so conclusion I (some players are tall) is valid. But nothing is said about those players who are not singers, so conclusion II (all players are tall) is indeterminate and does not follow. Answer: only conclusion I."
+      },
+      "uuid": "8a2b19ed-be82-57d8-a496-7d1549072cd1"
     }
   ]
 }

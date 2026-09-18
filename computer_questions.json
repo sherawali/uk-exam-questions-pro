@@ -5268,6 +5268,96 @@
         "UK-EXAM-PRO",
         "Computer"
       ]
+    },
+    {
+      "question": "एल्गोरिथ्म की एक प्रमुख विशेषता है:",
+      "options": [
+        "अनगिनत",
+        "चित्रमय",
+        "गिनित",
+        "सिम्बोलिक"
+      ],
+      "correctIndex": 2,
+      "explanation": "एल्गोरिथ्म किसी समस्या के समाधान की सीमित (गिनित अर्थात finite) चरणों वाली विधि है, इसलिए 'गिनित' उसकी प्रमुख विशेषता है — एक एल्गोरिथ्म कभी अनन्त नहीं चल सकता। एल्गोरिथ्म की पाँच स्वीकृत विशेषताएँ हैं — (1) गिनितता (Finiteness), (2) निश्चितता (Definiteness — प्रत्येक चरण अस्पष्टता-रहित), (3) निवेश (Input), (4) उत्पाद (Output) तथा (5) प्रभावशीलता (Effectiveness — प्रत्येक चरण सीमित समय में सम्पन्न)। 'अनगिनत' इसके ठीक विपरीत है, 'चित्रमय' फ्लोचार्ट की विशेषता है तथा 'सिम्बोलिक' कोई मान्य गुण नहीं। एल्गोरिथ्म शब्द नवम शताब्दी के फ़ारसी गणितज्ञ अल-ख्वारिज़्मी (Al-Khwarizmi) के नाम से व्युत्पन्न है, जिन्हें बीजगणित का जनक कहा जाता है।",
+      "subCategory": "कम्प्यूटर — एल्गोरिथ्म",
+      "questionType": "mcq",
+      "difficulty": "medium",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "A principal characteristic of an algorithm is:",
+        "options_en": [
+          "Infinite",
+          "Pictorial",
+          "Finiteness (countable)",
+          "Symbolic"
+        ],
+        "explanation_en": "An algorithm is a method of solving a problem in a finite, countable number of steps, so 'finiteness' is its principal characteristic — an algorithm can never run forever. The five accepted characteristics of an algorithm are (1) finiteness, (2) definiteness, meaning every step is unambiguous, (3) input, (4) output, and (5) effectiveness, meaning each step terminates in a bounded time. 'Infinite' is the exact opposite, 'pictorial' describes a flowchart rather than an algorithm, and 'symbolic' is not a recognised property. The word 'algorithm' derives from the name of the ninth-century Persian mathematician Al-Khwarizmi, regarded as the father of algebra."
+      },
+      "uuid": "8667f0be-2e7e-5660-97a5-f448133287a9"
+    },
+    {
+      "question": "हाई लेवल भाषा में जो प्रोग्राम लिखा जाता है उसे ____ कहते हैं।",
+      "options": [
+        ".exe प्रोग्राम",
+        "ऑब्जेक्ट प्रोग्राम",
+        "सोर्स प्रोग्राम",
+        "एग्ज़ीक्यूटेबल इमेज"
+      ],
+      "correctIndex": 2,
+      "explanation": "हाई लेवल भाषा (जैसे C, C++, जावा, पायथन) में लिखे गये प्रोग्राम को सोर्स प्रोग्राम अथवा सोर्स कोड कहा जाता है। इसका अनुवाद कम्पाइलर अथवा इंटरप्रिटर द्वारा मशीनी भाषा में किया जाता है, जिससे ऑब्जेक्ट प्रोग्राम बनता है; लिंकर इसे लाइब्रेरी-रूटीन्स से जोड़कर एग्ज़ीक्यूटेबल इमेज (.exe) तैयार करता है। हाई लेवल भाषाएँ मनुष्य-सुगम (English जैसी) होती हैं तथा मशीन-स्वतंत्र, जबकि लो लेवल भाषाएँ असेम्बली (मशीन के निकट) तथा मशीन भाषा (0 व 1) होती हैं। उदाहरण — फॉरट्रान (1957) प्रथम हाई लेवल भाषा, COBOL (1959) व्यावसायिक गणना के लिए, तथा पास्कल (1970) शिक्षण हेतु।",
+      "subCategory": "कम्प्यूटर — प्रोग्रामिंग अवधारणा",
+      "questionType": "mcq",
+      "difficulty": "easy",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "A program written in a high-level language is called a ____.",
+        "options_en": [
+          ".exe program",
+          "Object program",
+          "Source program",
+          "Executable image"
+        ],
+        "explanation_en": "A program written in a high-level language such as C, C++, Java or Python is called a source program or source code. A compiler or interpreter translates it into machine language, producing an object program; the linker then combines this with library routines to produce an executable image (.exe). High-level languages are human-readable and machine-independent, whereas low-level languages are assembly (close to the machine) and machine language (0s and 1s). For reference, Fortran (1957) was the first high-level language, COBOL (1959) was designed for business computing, and Pascal (1970) for teaching."
+      },
+      "uuid": "fd220ae9-62cb-5f9e-8082-3b4e2a4c4f40"
+    },
+    {
+      "question": "ऑब्जेक्ट ओरिएन्टेड प्रोग्रामिंग (OOP) भाषा का उदाहरण है:",
+      "options": [
+        "फॉरट्रान-IV",
+        "जावा",
+        "प्रोलोग",
+        "पास्कल"
+      ],
+      "correctIndex": 1,
+      "explanation": "जावा एक पूर्णतः ऑब्जेक्ट ओरिएन्टेड भाषा है जिसे 1995 में सन माइक्रोसिस्टम्स (जेम्स गोसलिंग की टीम) ने जारी किया। OOP की चार स्तम्भ अवधारणाएँ हैं — आवरण (Encapsulation), बहु-रूपता (Polymorphism), वंशागति (Inheritance) और अपवर्ग (Abstraction)। अन्य OOP भाषाओं में C++, Python, C#, Smalltalk तथा Ruby प्रमुख हैं। दिए गए अन्य विकल्प OOP नहीं हैं: फॉरट्रान-IV (1957 का FORTRAN) और पास्कल (निकलस विर्थ, 1970) प्रक्रियात्मक (procedural) भाषाएँ हैं, जबकि प्रोलोग एक तर्क-आधारित (logic programming) भाषा है जिसका उपयोग कृत्रिम बुद्धिमत्ता में होता है।",
+      "subCategory": "कम्प्यूटर — प्रोग्रामिंग",
+      "questionType": "mcq",
+      "difficulty": "easy",
+      "tags": [
+        "PYQ",
+        "State-PSC",
+        "UKPSC"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an example of an Object-Oriented Programming language?",
+        "options_en": [
+          "FORTRAN-IV",
+          "Java",
+          "Prolog",
+          "Pascal"
+        ],
+        "explanation_en": "Java is a fully object-oriented language, released in 1995 by Sun Microsystems (James Gosling's team). The four pillars of OOP are encapsulation, polymorphism, inheritance and abstraction; other OOP languages include C++, Python, C#, Smalltalk and Ruby. The other options are not OOP: FORTRAN-IV (FORTRAN dates to 1957) and Pascal (Niklaus Wirth, 1970) are procedural languages, while Prolog is a logic-programming language used in artificial intelligence."
+      },
+      "uuid": "3adc76df-9d1a-59f7-a682-0eb6c39741b1"
     }
   ]
 }
