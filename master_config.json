@@ -1,12 +1,12 @@
 {
   "version": "4.6.0",
-  "last_sync": "2026-09-18T08:25:00Z",
+  "last_sync": "2026-09-24T05:50:15.367415+00:00",
   "flash_news": {
     "enabled": true,
-    "id": "bank_update_12120_v1",
-    "title": "📢 2,000+ नए आयोग-स्तरीय प्रश्न जोड़े गए!",
-    "title_en": "📢 2,000+ New Exam Questions Added!",
-    "message": "अभ्यर्थियों की बेहतर तैयारी हेतु प्रश्न बैंक में 2,000+ नए प्रामाणिक प्रश्न (करंट अफेयर्स, सामान्य हिंदी, राजव्यवस्था व उत्तराखंड) जोड़े गए हैं। 'सिंक' में जाकर नए प्रश्न निःशुल्क अपडेट करें।",
+    "id": "bank_update_13425_v1",
+    "title": "📢 1,305+ नए आयोग-स्तरीय प्रश्न जोड़े गए!",
+    "title_en": "📢 1,305+ New Exam Questions Added!",
+    "message": "अभ्यर्थियों की परीक्षा तैयारी हेतु करंट अफेयर्स व उत्तराखंड सामान्य ज्ञान के 1,305 नए प्रश्न जोड़े गए हैं। अब बैंक में कुल 13,425 प्रामाणिक प्रश्न उपलब्ध हैं। 'सिंक' में जाकर तुरंत अपडेट करें।",
     "message_en": "Over 2,000 authentic exam questions (Current Affairs, Hindi, Polity, UK GK) have been added. Please sync from Settings to update your offline bank free.",
     "type": "urgent",
     "action_label": "अभी सिंक करें ➔",
@@ -16,11 +16,11 @@
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 12120,
+    "total_questions": 13425,
     "files": {
       "agriculture_questions.json": 172,
       "computer_questions.json": 254,
-      "current_affairs_questions.json": 1082,
+      "current_affairs_questions.json": 2387,
       "economics_questions.json": 100,
       "environment_questions.json": 83,
       "geography_questions.json": 100,
@@ -33,5 +33,5 @@
       "uttarakhand_questions.json": 5794
     }
   },
-  "total_questions": 12120
+  "total_questions": 13425
 }
