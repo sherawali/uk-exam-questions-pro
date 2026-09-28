@@ -45,15 +45,15 @@
       ]
     },
     {
-      "question": "यदि 'CAT' को 'FCW' लिखा जाता है, तो 'DOG' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'CAT' को 'FDW' लिखा जाता है, तो 'DOG' को उसी भाषा में क्या लिखा जाएगा?",
       "options": [
-        "IRL",
-        "JSM",
-        "KRN",
-        "LSO"
+        "GRJ",
+        "GQI",
+        "HQJ",
+        "HRI"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को वर्णमाला में 3 स्थान आगे बढ़ाया जाता है: C+3=F, A+3=D, T+3=W। उसी तरह, D+3=I, O+3=R, G+3=L।",
+      "explanation": "प्रत्येक अक्षर को वर्णमाला में 3 स्थान आगे बढ़ाया गया है (+3): C+3=F, A+3=D, T+3=W। इसी प्रकार: D+3=G, O+3=R, G+3=J। अतः उत्तर 'GRJ' है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -64,7 +64,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a certain code language, 'CAT' is written as 'FDW'. How will 'DOG' be written in that code?",
+        "options_en": [
+          "GRJ",
+          "GQI",
+          "HQJ",
+          "HRI"
+        ],
+        "explanation_en": "Each letter is shifted forward by 3 places (+3): C+3=F, A+3=D, T+3=W. Similarly, D+3=G, O+3=R, G+3=J. Thus, the correct code is 'GRJ'."
+      }
     },
     {
       "question": "एक व्यक्ति उत्तर की ओर 5 किमी चलता है, फिर दाएँ मुड़कर 3 किमी चलता है। वह अब प्रारंभिक बिंदु से किस दिशा में है?",
@@ -375,15 +385,15 @@
       ]
     },
     {
-      "question": "यदि 'SUN' को 'VXQ' लिखा जाता है, तो 'MOON' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'SUN' को 'VXP' लिखा जाता है, तो 'MOON' को क्या लिखा जाएगा?",
       "options": [
-        "QRUT",
-        "PQRS",
-        "STUV",
-        "UVWX"
+        "PRRQ",
+        "OQQP",
+        "QSSR",
+        "NPPQ"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया जाता है: S+2=V, U+2=X, N+2=Q। उसी तरह, M+2=Q, O+2=R, O+2=U, N+2=T।",
+      "explanation": "प्रत्येक अक्षर में +3 की वृद्धि की गई है: S+3=V, U+3=X, N+3=P। इसी प्रकार: M+3=P, O+3=R, O+3=R, N+3=Q। अतः 'PRRQ' सही उत्तर है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -394,7 +404,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a certain code language, 'SUN' is written as 'VXP'. How will 'MOON' be written in that code?",
+        "options_en": [
+          "PRRQ",
+          "OQQP",
+          "QSSR",
+          "NPPQ"
+        ],
+        "explanation_en": "Each letter is shifted by +3: S+3=V, U+3=X, N+3=P. Similarly, M+3=P, O+3=R, O+3=R, N+3=Q. Hence, 'PRRQ' is correct."
+      }
     },
     {
       "question": "एक व्यक्ति पश्चिम की ओर 6 किमी चलता है, फिर दाएँ मुड़कर 8 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -529,15 +549,15 @@
       ]
     },
     {
-      "question": "यदि 'RIVER' को 'TKAFW' लिखा जाता है, तो 'OCEAN' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी निश्चित कूटभाषा में 'RIVER' को 'TKXGT' लिखा जाता है, तो 'OCEAN' को क्या लिखा जाएगा?",
       "options": [
-        "QJHFS",
-        "RKGPU",
-        "SLIQV",
-        "TMJRW"
+        "QEGCP",
+        "QFHDP",
+        "PDFBO",
+        "REGDQ"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया जाता है: R+2=T, I+2=K, V+2=A, E+2=G, R+2=T। उसी तरह, O+2=Q, C+2=F, E+2=G, A+2=C, N+2=P।",
+      "explanation": "प्रत्येक अक्षर को 2 स्थान आगे बढ़ाया गया है (+2): R+2=T, I+2=K, V+2=X, E+2=G, R+2=T। उसी प्रकार: O+2=Q, C+2=E, E+2=G, A+2=C, N+2=P। अतः 'QEGCP' सही उत्तर है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -548,7 +568,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a certain code language, 'RIVER' is written as 'TKXGT'. How will 'OCEAN' be written in that code?",
+        "options_en": [
+          "QEGCP",
+          "QFHDP",
+          "PDFBO",
+          "REGDQ"
+        ],
+        "explanation_en": "Each letter is shifted forward by 2 places (+2): R+2=T, I+2=K, V+2=X, E+2=G, R+2=T. Similarly, O+2=Q, C+2=E, E+2=G, A+2=C, N+2=P. Hence, 'QEGCP' is correct."
+      }
     },
     {
       "question": "एक व्यक्ति पूर्व की ओर 10 किमी चलता है, फिर बाएँ मुड़कर 6 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -837,15 +867,15 @@
       ]
     },
     {
-      "question": "यदि 'GOLD' को 'KSFU' लिखा जाता है, तो 'SILVER' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'GOLD' को 'KSPH' लिखा जाता है, तो 'WIND' को क्या लिखा जाएगा?",
       "options": [
-        "AFKHLU",
-        "BGJIMV",
-        "CHKLNW",
-        "DIJMOX"
+        "AMRH",
+        "BLSI",
+        "ZLRG",
+        "BMSI"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 4 स्थान आगे बढ़ाया जाता है: G+4=K, O+4=S, L+4=P, D+4=I। उसी तरह, S+4=W, I+4=M, L+4=P, V+4=Z, E+4=I, R+4=V।",
+      "explanation": "प्रत्येक अक्षर में +4 जोड़ा गया है: G+4=K, O+4=S, L+4=P, D+4=H। इसी प्रकार: W+4=A (चक्रानुसार), I+4=M, N+4=R, D+4=H। अतः सही उत्तर 'AMRH' है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -856,7 +886,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a code language, 'GOLD' is written as 'KSPH'. How will 'WIND' be written in that code?",
+        "options_en": [
+          "AMRH",
+          "BLSI",
+          "ZLRG",
+          "BMSI"
+        ],
+        "explanation_en": "Each letter is shifted by +4: G+4=K, O+4=S, L+4=P, D+4=H. Similarly, W+4=A (cyclic), I+4=M, N+4=R, D+4=H. Hence, 'AMRH' is correct."
+      }
     },
     {
       "question": "एक व्यक्ति दक्षिण की ओर 5 किमी चलता है, फिर दाएँ मुड़कर 12 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -947,15 +987,15 @@
       ]
     },
     {
-      "question": "यदि 'HAPPY' को 'LFUAF' लिखा जाता है, तो 'SADLY' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'TRIP' को 'VTKR' लिखा जाता है, तो 'TOUR' को क्या लिखा जाएगा?",
       "options": [
-        "AFKHLU",
-        "BGJIMV",
-        "CHKLNW",
-        "DIJMOX"
+        "VQWT",
+        "UOWS",
+        "WPXU",
+        "VRXT"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 7 स्थान आगे बढ़ाया जाता है: H+7=O, A+7=I, P+7=W, P+7=W, Y+7=F। उसी तरह, S+7=A, A+7=I, D+7=K, L+7=S, Y+7=F।",
+      "explanation": "प्रत्येक अक्षर में 2 स्थान की वृद्धि है (+2): T+2=V, R+2=T, I+2=K, P+2=R। इसी प्रकार: T+2=V, O+2=Q, U+2=W, R+2=T। अतः उत्तर 'VQWT' है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -966,7 +1006,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a code language, 'TRIP' is written as 'VTKR'. How will 'TOUR' be written in that code?",
+        "options_en": [
+          "VQWT",
+          "UOWS",
+          "WPXU",
+          "VRXT"
+        ],
+        "explanation_en": "Each letter is shifted by +2: T+2=V, R+2=T, I+2=K, P+2=R. Similarly, T+2=V, O+2=Q, U+2=W, R+2=T. Thus, 'VQWT' is correct."
+      }
     },
     {
       "question": "श्रृंखला पूरी करें: 12, 24, 48, 96, ?",
@@ -1013,15 +1063,15 @@
       ]
     },
     {
-      "question": "यदि 'BIRD' को 'HLTK' लिखा जाता है, तो 'FISH' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'FISH' को 'EHRG' लिखा जाता है, तो 'JUMP' को क्या लिखा जाएगा?",
       "options": [
-        "OLAF",
-        "PMBG",
-        "QNCH",
-        "RODI"
+        "ITLO",
+        "KTNQ",
+        "ISKO",
+        "JTMP"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 6 स्थान आगे बढ़ाया जाता है: B+6=I, I+6=O, R+6=Y, D+6=K। उसी तरह, F+6=L, I+6=O, S+6=Y, H+6=N।",
+      "explanation": "प्रत्येक अक्षर को वर्णमाला में 1 स्थान पीछे किया गया है (-1): F-1=E, I-1=H, S-1=R, H-1=G। उसी तरह: J-1=I, U-1=T, M-1=L, P-1=O। अतः सही उत्तर 'ITLO' है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -1032,7 +1082,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a certain code, 'FISH' is written as 'EHRG'. How will 'JUMP' be written in that code?",
+        "options_en": [
+          "ITLO",
+          "KTNQ",
+          "ISKO",
+          "JTMP"
+        ],
+        "explanation_en": "Each letter is shifted backwards by 1 place (-1): F-1=E, I-1=H, S-1=R, H-1=G. Similarly: J-1=I, U-1=T, M-1=L, P-1=O. Hence, 'ITLO' is correct."
+      }
     },
     {
       "question": "एक व्यक्ति पूर्व की ओर 8 किमी चलता है, फिर दाएँ मुड़कर 6 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -1123,15 +1183,15 @@
       ]
     },
     {
-      "question": "यदि 'MOUSE' को 'RTZXJ' लिखा जाता है, तो 'KEYBOARD' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'LIGHT' को 'MJHIU' लिखा जाता है, तो 'FLAME' को क्या लिखा जाएगा?",
       "options": [
-        "TKAFHLU",
-        "UJBGLMV",
-        "VICHKNW",
-        "WJDIJOX"
+        "GMBNF",
+        "ELZLD",
+        "HNCOE",
+        "GMANF"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 5 स्थान आगे बढ़ाया जाता है: M+5=S, O+5=T, U+5=Z, S+5=Y, E+5=J। उसी तरह, K+5=P, E+5=J, Y+5=D, B+5=I, O+5=T, A+5=F, R+5=W।",
+      "explanation": "प्रत्येक अक्षर को 1 स्थान आगे बढ़ाया गया है (+1): L+1=M, I+1=J, G+1=H, H+1=I, T+1=U। इसी तरह: F+1=G, L+1=M, A+1=B, M+1=N, E+1=F। अतः उत्तर 'GMBNF' है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -1142,7 +1202,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 'LIGHT' is coded as 'MJHIU', how will 'FLAME' be coded?",
+        "options_en": [
+          "GMBNF",
+          "ELZLD",
+          "HNCOE",
+          "GMANF"
+        ],
+        "explanation_en": "Each letter is shifted forward by 1 (+1): L+1=M, I+1=J, G+1=H, H+1=I, T+1=U. Similarly: F+1=G, L+1=M, A+1=B, M+1=N, E+1=F. Hence, 'GMBNF' is correct."
+      }
     },
     {
       "question": "श्रृंखला पूरी करें: 14, 28, 56, 112, ?",
@@ -1189,15 +1259,15 @@
       ]
     },
     {
-      "question": "यदि 'CANDLE' को 'KHWQX' लिखा जाता है, तो 'LIGHT' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'EARTH' को 'GCTVJ' लिखा जाता है, तो 'MOON' को क्या लिखा जाएगा?",
       "options": [
-        "AFKHLU",
-        "BGJIMV",
-        "CHKLNW",
-        "DIJMOX"
+        "OQQP",
+        "NPPO",
+        "PRRQ",
+        "OPPN"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 7 स्थान आगे बढ़ाया जाता है: C+7=K, A+7=I, N+7=U, D+7=K, L+7=S, E+7=L। उसी तरह, L+7=S, I+7=P, G+7=N, H+7=O, T+7=A।",
+      "explanation": "प्रत्येक अक्षर में +2 की वृद्धि की गई है: E+2=G, A+2=C, R+2=T, T+2=V, H+2=J। इसी प्रकार: M+2=O, O+2=Q, O+2=Q, N+2=P। अतः 'OQQP' सही उत्तर है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -1208,7 +1278,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 'EARTH' is coded as 'GCTVJ', then how will 'MOON' be coded?",
+        "options_en": [
+          "OQQP",
+          "NPPO",
+          "PRRQ",
+          "OPPN"
+        ],
+        "explanation_en": "Each letter is shifted forward by 2 (+2): E+2=G, A+2=C, R+2=T, T+2=V, H+2=J. Similarly, M+2=O, O+2=Q, O+2=Q, N+2=P. Thus, 'OQQP' is correct."
+      }
     },
     {
       "question": "एक व्यक्ति पश्चिम की ओर 9 किमी चलता है, फिर बाएँ मुड़कर 5 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -1277,15 +1357,15 @@
       ]
     },
     {
-      "question": "यदि 'RING' को 'XOTZ' लिखा जाता है, तो 'SING' को कैसे लिखा जाएगा?",
+      "question": "यदि किसी कूटभाषा में 'RING' को 'XOTM' लिखा जाता है, तो 'SING' को क्या लिखा जाएगा?",
       "options": [
-        "YPUA",
-        "ZQVB",
-        "ARWC",
-        "BSXD"
+        "YOTM",
+        "ZOTM",
+        "XOTM",
+        "YNSM"
       ],
       "correctIndex": 0,
-      "explanation": "प्रत्येक अक्षर को 6 स्थान आगे बढ़ाया जाता है: R+6=X, I+6=O, N+6=T, G+6=M। उसी तरह, S+6=Y, I+6=O, N+6=T, G+6=A।",
+      "explanation": "प्रत्येक अक्षर को 6 स्थान आगे बढ़ाया गया है (+6): R+6=X, I+6=O, N+6=T, G+6=M। इसी तरह: S+6=Y, I+6=O, N+6=T, G+6=M। अतः सही उत्तर 'YOTM' है।",
       "subCategory": "रीजनिंग",
       "difficulty": "medium",
       "examTarget": [
@@ -1296,7 +1376,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 'RING' is coded as 'XOTM', how will 'SING' be coded?",
+        "options_en": [
+          "YOTM",
+          "ZOTM",
+          "XOTM",
+          "YNSM"
+        ],
+        "explanation_en": "Each letter is shifted forward by 6 (+6): R+6=X, I+6=O, N+6=T, G+6=M. Similarly, S+6=Y, I+6=O, N+6=T, G+6=M. Hence, 'YOTM' is correct."
+      }
     },
     {
       "question": "यदि A = 1, B = 2, C = 3 है, तो CAB = ?",
@@ -1409,15 +1499,15 @@
       ]
     },
     {
-      "question": "यदि A = 1, B = 2, C = 3, ... Z = 26 हो, तो 'LOGIC' का योगफल कितना होगा?",
+      "question": "यदि अंग्रेजी वर्णमाला में A = 1, B = 2, C = 3, ... Z = 26 हो, तो शब्द 'LOGIC' के अक्षरों के मानों का योग कितना होगा?",
       "options": [
-        "47",
-        "50",
-        "52",
-        "55"
+        "44",
+        "46",
+        "48",
+        "50"
       ],
-      "correctIndex": 0,
-      "explanation": "L=12, O=15, G=7, I=9, C=3 = 12+15+7+9+3 = 46। Error in option, correct answer is 46 but closest is 47।",
+      "correctIndex": 1,
+      "explanation": "वर्णमाला के स्थानीय मान: L=12, O=15, G=7, I=9, C=3। कुल योग = 12 + 15 + 7 + 9 + 3 = 46। अतः सही उत्तर 46 है।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
       "difficulty": "medium",
@@ -1429,7 +1519,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If in English alphabet A = 1, B = 2, C = 3, ... Z = 26, then what will be the sum of numerical values of the letters in the word 'LOGIC'?",
+        "options_en": [
+          "44",
+          "46",
+          "48",
+          "50"
+        ],
+        "explanation_en": "Alphabet positional values: L=12, O=15, G=7, I=9, C=3. Total sum = 12 + 15 + 7 + 9 + 3 = 46. Hence, the correct answer is 46."
+      }
     },
     {
       "question": "यदि 5 + 3 = 64 और 7 + 2 = 81 हो, तो 9 + 4 = ?",
@@ -1524,15 +1624,15 @@
       ]
     },
     {
-      "question": "यदि 8×5 = 28, 7×3 = 18, तो 9×4 = ?",
+      "question": "यदि 8 × 5 = 35 और 7 × 3 = 18 हो, तो 9 × 4 = ? का मान क्या होगा?",
       "options": [
-        "28",
         "32",
+        "34",
         "36",
-        "40"
+        "30"
       ],
-      "correctIndex": 2,
-      "explanation": "8-5=3, 3×8=24+4=28। 7-3=4, 4×7=28-10=18? No। Pattern: (a×b) - (a+b)। 8×5-(8+5)=40-13=27≈28? 9×4-(9+4)=36-13=23। Not matching.",
+      "correctIndex": 0,
+      "explanation": "पैटर्न: (पहला अंक × दूसरा अंक) - दूसरा अंक। यहाँ (8 × 5) - 5 = 40 - 5 = 35, और (7 × 3) - 3 = 21 - 3 = 18। इसी प्रकार: (9 × 4) - 4 = 36 - 4 = 32। अतः सही उत्तर 32 है।",
       "category": "Reasoning",
       "subCategory": "Logical Reasoning",
       "difficulty": "easy",
@@ -1544,7 +1644,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 8 × 5 = 35 and 7 × 3 = 18, then what is the value of 9 × 4 = ?",
+        "options_en": [
+          "32",
+          "34",
+          "36",
+          "30"
+        ],
+        "explanation_en": "Pattern: (First number × Second number) - Second number. Here, (8 × 5) - 5 = 35, and (7 × 3) - 3 = 18. Similarly: (9 × 4) - 4 = 36 - 4 = 32. Thus, 32 is the correct answer."
+      }
     },
     {
       "question": "श्रृंखला पूरी करें: A, C, F, J, ?",
@@ -1869,15 +1979,15 @@
       ]
     },
     {
-      "question": "यदि 8+6 = 42 और 5+3 = 20 हो, तो 7+4 = ?",
+      "question": "यदि 4 * 3 = 25 और 5 * 2 = 29 हो, तो 6 * 4 का मान क्या होगा?",
       "options": [
-        "30",
-        "32",
-        "28",
-        "26"
+        "50",
+        "52",
+        "48",
+        "54"
       ],
-      "correctIndex": 0,
-      "explanation": "8×6 - 6 = 42, 5×3 + 5 = 20? Pattern: a×b ± (a-b)। 7×4 - ? =28? 7×4=28, take 28। 7+4=11, 11×? =33? No। 7×4=28।",
+      "correctIndex": 1,
+      "explanation": "पैटर्न: दोनों संख्याओं के वर्गों का योग (a² + b²)। 4² + 3² = 16 + 9 = 25। 5² + 2² = 25 + 4 = 29। इसी प्रकार: 6² + 4² = 36 + 16 = 52। अतः सही उत्तर 52 है।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
       "difficulty": "easy",
@@ -1889,7 +1999,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 4 * 3 = 25 and 5 * 2 = 29, then what is the value of 6 * 4?",
+        "options_en": [
+          "50",
+          "52",
+          "48",
+          "54"
+        ],
+        "explanation_en": "Pattern: Sum of squares of both numbers (a² + b²). 4² + 3² = 16 + 9 = 25. 5² + 2² = 25 + 4 = 29. Similarly: 6² + 4² = 36 + 16 = 52. Thus, 52 is correct."
+      }
     },
     {
       "question": "श्रृंखला: 2, 6, 12, 20, 30, ? अगली संख्या क्या होगी?",
@@ -2145,15 +2265,15 @@
       ]
     },
     {
-      "question": "यदि 6×4 = 32 और 7×5 = 48 हो तो 8×6 = ?",
+      "question": "यदि 3 @ 4 = 25 और 5 @ 12 = 169 हो, तो 8 @ 15 = ? का मान क्या होगा?",
       "options": [
-        "64",
-        "68",
-        "72",
-        "76"
+        "289",
+        "225",
+        "256",
+        "324"
       ],
       "correctIndex": 0,
-      "explanation": "6² + 2×4 = 36 + 8 = 44 (no)। (6+4)×? = 10×4=40? 6×4+8=32, 7×5+13=48, 8×6+16=64। Pattern: a×b + (a+b)×2? No, a×b + 8, 10, 12 diff। 6×4=24+8=32, 7×5=35+13=48। Not consistent।",
+      "explanation": "पैटर्न: दोनों संख्याओं के वर्गों का योग (पाइथागोरस वर्ग)। 3² + 4² = 9 + 16 = 25। 5² + 12² = 25 + 144 = 169। इसी प्रकार: 8² + 15² = 64 + 225 = 289। अतः सही उत्तर 289 है।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
       "difficulty": "easy",
@@ -2165,7 +2285,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 3 @ 4 = 25 and 5 @ 12 = 169, then what will be 8 @ 15 = ?",
+        "options_en": [
+          "289",
+          "225",
+          "256",
+          "324"
+        ],
+        "explanation_en": "Pattern: Sum of squares (Pythagorean squares). 3² + 4² = 25, 5² + 12² = 169. Similarly: 8² + 15² = 64 + 225 = 289. Hence, 289 is the correct answer."
+      }
     },
     {
       "question": "दिशा ज्ञात करें: यदि उत्तर-पूर्व दिशा में जाएं और फिर दाएं मुड़ें तो किस दिशा में होंगे?",
@@ -2352,15 +2482,15 @@
       ]
     },
     {
-      "question": "यदि 3+5 = 28 और 7+9 = 76 हो तो 4+6 = ?",
+      "question": "यदि 3 # 2 = 13 और 4 # 3 = 25 हो, तो 5 # 4 का मान क्या होगा?",
       "options": [
-        "38",
-        "40",
-        "42",
-        "44"
+        "39",
+        "41",
+        "43",
+        "45"
       ],
       "correctIndex": 1,
-      "explanation": "3²+5²=9+25=34? No। 3×5+13=28? 7×9+13=76? Not। 3!+5=6+22=28? 7!+9=5042+? No। 4!+6=24+? = ?। Pattern unclear.",
+      "explanation": "पैटर्न: दोनों संख्याओं के वर्गों का योग (a² + b²)। 3² + 2² = 9 + 4 = 13। 4² + 3² = 16 + 9 = 25। इसी तरह: 5² + 4² = 25 + 16 = 41। अतः सही उत्तर 41 है।",
       "category": "Reasoning",
       "subCategory": "Mathematical Operations",
       "difficulty": "easy",
@@ -2372,7 +2502,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 3 # 2 = 13 and 4 # 3 = 25, then what is the value of 5 # 4?",
+        "options_en": [
+          "39",
+          "41",
+          "43",
+          "45"
+        ],
+        "explanation_en": "Pattern: Sum of squares of numbers (a² + b²). 3² + 2² = 13. 4² + 3² = 25. Similarly: 5² + 4² = 25 + 16 = 41. Thus, 41 is the correct answer."
+      }
     },
     {
       "question": "एक कुर्सी ₹448 में बेची गई। 20% छूट दी गई। असली कीमत कितनी थी?",
@@ -5135,15 +5275,15 @@
       ]
     },
     {
-      "question": "विजय, मोहन का पिता है। मोहन, अनिल की माता है। विजय, अनिल का क्या लगता है?",
+      "question": "एक तस्वीर की ओर इशारा करते हुए एक महिला ने कहा, \"उसके भाई का पिता, मेरे दादाजी का इकलौता पुत्र है।\" महिला का तस्वीर वाले व्यक्ति से क्या संबंध है?",
       "options": [
-        "नाना/नानी",
-        "भाई",
-        "दादा",
-        "चाचा"
+        "बहन",
+        "माता",
+        "चाची",
+        "पुत्री"
       ],
       "correctIndex": 0,
-      "explanation": "विजय, मोहन का पिता है। मोहन, अनिल की माता है। इसलिए विजय, अनिल का/की नाना/नानी है।",
+      "explanation": "महिला के दादाजी का इकलौता पुत्र महिला का पिता होगा। तस्वीर वाले व्यक्ति के भाई का पिता भी महिला का पिता ही है। अतः तस्वीर वाला व्यक्ति और महिला आपस में भाई-बहन हैं। महिला उसकी बहन है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5151,18 +5291,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Pointing to a photograph, a woman said, \"His brother's father is the only son of my grandfather.\" How is the woman related to the person in the photograph?",
+        "options_en": [
+          "Sister",
+          "Mother",
+          "Aunt",
+          "Daughter"
+        ],
+        "explanation_en": "The only son of the woman's grandfather is her father. The father of the person's brother is also her father. Therefore, the woman is his sister."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "नीता, राम का भाई है। राम, विजय का पिता है। नीता, विजय का क्या लगता है?",
+      "question": "P, Q का भाई है। R, Q की माँ है। S, R का पिता है। T, S की माँ है। P का S से क्या संबंध है?",
       "options": [
-        "चाचा",
-        "भाई",
+        "नाती / पौत्र (Grandson)",
         "दादा",
-        "मामा"
+        "पुत्र",
+        "चाचा"
       ],
       "correctIndex": 0,
-      "explanation": "नीता, राम का भाई है। राम, विजय का पिता है। इसलिए नीता, विजय का/की चाचा है।",
+      "explanation": "R, P और Q की माँ है। S, R का पिता है (अर्थात P का नाना)। अतः P, S का नाती (पौत्र/Grandson) है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5170,18 +5321,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "P is brother of Q. R is mother of Q. S is father of R. T is mother of S. How is P related to S?",
+        "options_en": [
+          "Grandson",
+          "Grandfather",
+          "Son",
+          "Uncle"
+        ],
+        "explanation_en": "R is the mother of P and Q. S is R's father (maternal grandfather of P). Hence, P is the grandson of S."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रीता, प्रिया की बहन है। प्रिया, विजय का पुत्र है। रीता, विजय की क्या लगती है?",
+      "question": "यदि A + B का अर्थ 'A, B का पिता है', A - B का अर्थ 'A, B की माता है' और A * B का अर्थ 'A, B का भाई है', तो P * Q + R में P का R से क्या संबंध है?",
       "options": [
-        "भाभी",
-        "पुत्री",
-        "बहन",
-        "माता"
+        "चाचा / ताऊ",
+        "पिता",
+        "भाई",
+        "दादा"
       ],
-      "correctIndex": 1,
-      "explanation": "रीता, प्रिया की बहन है। प्रिया, विजय का पुत्र है। इसलिए रीता, विजय का/की पुत्री है।",
+      "correctIndex": 0,
+      "explanation": "P * Q का अर्थ है P, Q का भाई है। Q + R का अर्थ है Q, R का पिता है। पिता का भाई चाचा/ताऊ होता है। अतः P, R का चाचा है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5189,18 +5351,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If A + B means 'A is father of B', A - B means 'A is mother of B', and A * B means 'A is brother of B', then how is P related to R in P * Q + R?",
+        "options_en": [
+          "Uncle",
+          "Father",
+          "Brother",
+          "Grandfather"
+        ],
+        "explanation_en": "P is brother of Q, and Q is father of R. Father's brother is uncle. Thus, P is the uncle of R."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रवि, सोहन का पुत्र है। सोहन, गीता का भाई है। रवि, गीता का क्या लगता है?",
+      "question": "रोहन बिंदु A से उत्तर की ओर 10 किमी चलता है, फिर दाएँ मुड़कर 5 किमी चलता है। पुनः दाएँ मुड़कर 10 किमी चलता है। अब वह अपने प्रारंभिक बिंदु से कितनी दूरी और किस दिशा में है?",
       "options": [
-        "पुत्र",
-        "भतीजा",
-        "भाई",
-        "दादा"
+        "5 किमी, पूर्व",
+        "10 किमी, उत्तर",
+        "5 किमी, पश्चिम",
+        "10 किमी, दक्षिण"
       ],
-      "correctIndex": 1,
-      "explanation": "रवि, सोहन का पुत्र है। सोहन, गीता का भाई है। इसलिए रवि, गीता का/की भतीजा है।",
+      "correctIndex": 0,
+      "explanation": "उत्तर में 10 किमी जाने के बाद दो बार दाएँ मुड़ने पर वह 5 किमी पूर्व में और पुनः दक्षिण में 10 किमी आ जाता है। प्रारंभिक बिंदु A से उसकी सीधी दूरी 5 किमी पूर्व की ओर है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5208,18 +5381,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Rohan walks 10 km north from point A, turns right and walks 5 km. He then turns right again and walks 10 km. How far and in which direction is he now from his starting point?",
+        "options_en": [
+          "5 km, East",
+          "10 km, North",
+          "5 km, West",
+          "10 km, South"
+        ],
+        "explanation_en": "After walking 10 km north, turning right for 5 km, and 10 km south, he forms a rectangle. He is 5 km due east of point A."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रवि, मोहन की माता है। मोहन, सुनील की पत्नी है। रवि, सुनील की क्या लगती है?",
+      "question": "एक व्यक्ति पश्चिम की ओर 6 किमी चलता है, फिर दाएँ मुड़कर 8 किमी चलता है। वह अपने प्रारंभिक बिंदु से न्यूनतम कितनी दूरी पर है?",
       "options": [
-        "बहन",
-        "चाची",
-        "सास",
-        "माता"
+        "10 किमी",
+        "14 किमी",
+        "12 किमी",
+        "8 किमी"
       ],
-      "correctIndex": 2,
-      "explanation": "रवि, मोहन की माता है। मोहन, सुनील की पत्नी है। इसलिए रवि, सुनील का/की सास है।",
+      "correctIndex": 0,
+      "explanation": "न्यूनतम दूरी = √(6² + 8²) = √(36 + 64) = √100 = 10 किमी।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5227,18 +5411,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "A man walks 6 km towards West, then turns right and walks 8 km. What is the shortest distance between him and his starting point?",
+        "options_en": [
+          "10 km",
+          "14 km",
+          "12 km",
+          "8 km"
+        ],
+        "explanation_en": "Shortest distance = √(6² + 8²) = √(36 + 64) = √100 = 10 km."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "सोहन, श्याम का पुत्र है। श्याम, गीता की पुत्री है। सोहन, गीता का क्या लगता है?",
+      "question": "घड़ी में 4:40 बजे दोनों सुइयों (घंटे और मिनट) के बीच कितने डिग्री का कोण बनेगा?",
       "options": [
-        "भतीजा",
-        "नाती",
-        "भाई",
-        "पुत्र"
+        "100°",
+        "110°",
+        "90°",
+        "120°"
       ],
-      "correctIndex": 1,
-      "explanation": "सोहन, श्याम का पुत्र है। श्याम, गीता की पुत्री है। इसलिए सोहन, गीता का/की नाती है।",
+      "correctIndex": 0,
+      "explanation": "कोण = |30H - (11/2)M| = |30(4) - (11/2)(40)| = |120 - 220| = 100°।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5246,18 +5441,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "At 4:40, what is the angle between the hour hand and the minute hand of a clock?",
+        "options_en": [
+          "100°",
+          "110°",
+          "90°",
+          "120°"
+        ],
+        "explanation_en": "Angle = |30H - (11/2)M| = |30(4) - (11/2)(40)| = |120 - 220| = 100°."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "काजल, प्रिया का पिता है। प्रिया, नीता का भाई है। काजल, नीता का क्या लगता है?",
+      "question": "यदि किसी वास्तविक घड़ी में 8:20 बज रहे हैं, तो दर्पण प्रतिबिंब (Mirror Image) में क्या समय दिखाई देगा?",
       "options": [
-        "चाचा",
-        "दादा",
-        "पिता",
-        "भाई"
+        "3:40",
+        "4:20",
+        "3:20",
+        "4:40"
       ],
-      "correctIndex": 2,
-      "explanation": "काजल, प्रिया का पिता है। प्रिया, नीता का भाई है। इसलिए काजल, नीता का/की पिता है।",
+      "correctIndex": 0,
+      "explanation": "दर्पण समय निकालने के लिए 11:60 में से वास्तविक समय घटाते हैं: 11:60 - 8:20 = 3:40।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5265,18 +5471,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If a real clock shows 8:20, what time will appear in its mirror reflection?",
+        "options_en": [
+          "3:40",
+          "4:20",
+          "3:20",
+          "4:40"
+        ],
+        "explanation_en": "Mirror time = 11:60 - 8:20 = 3:40."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रीता, पूजा की पत्नी है। पूजा, प्रिया का पिता है। रीता, प्रिया की क्या लगती है?",
+      "question": "यदि 1 जनवरी 2024 को सोमवार था, तो 1 जनवरी 2025 को कौन-सा दिन होगा?",
       "options": [
-        "दादी",
-        "चाची",
-        "बहन",
-        "माता"
+        "बुधवार",
+        "मंगलवार",
+        "गुरुवार",
+        "शुक्रवार"
       ],
-      "correctIndex": 3,
-      "explanation": "रीता, पूजा की पत्नी है। पूजा, प्रिया का पिता है। इसलिए रीता, प्रिया का/की माता है।",
+      "correctIndex": 0,
+      "explanation": "वर्ष 2024 एक लीप वर्ष है (366 दिन)। एक लीप वर्ष में 2 विषम दिन (Odd days) होते हैं। अतः सोमवार + 2 = बुधवार।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5284,18 +5501,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If 1st January 2024 was a Monday, what day of the week was 1st January 2025?",
+        "options_en": [
+          "Wednesday",
+          "Tuesday",
+          "Thursday",
+          "Friday"
+        ],
+        "explanation_en": "Year 2024 is a leap year having 366 days (2 odd days). Monday + 2 days = Wednesday."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "विजय, गीता का पिता है। गीता, सोहन की माता है। विजय, सोहन का क्या लगता है?",
+      "question": "निम्नलिखित में से कौन-सा वर्ष एक अधिवर्ष (Leep Year) है?",
       "options": [
-        "भाई",
-        "नाना/नानी",
-        "दादा",
-        "चाचा"
+        "2000",
+        "1900",
+        "1800",
+        "2100"
       ],
-      "correctIndex": 1,
-      "explanation": "विजय, गीता का पिता है। गीता, सोहन की माता है। इसलिए विजय, सोहन का/की नाना/नानी है।",
+      "correctIndex": 0,
+      "explanation": "शताब्दी वर्ष को लीप वर्ष होने के लिए 400 से पूर्णतः विभाजित होना अनिवार्य है। 2000 ÷ 400 = 5 (पूर्ण विभाज्य), जबकि 1900, 1800 और 2100 लीप वर्ष नहीं हैं।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5303,18 +5531,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following years is a leap year?",
+        "options_en": [
+          "2000",
+          "1900",
+          "1800",
+          "2100"
+        ],
+        "explanation_en": "A century year must be divisible by 400 to be a leap year. 2000 is divisible by 400, while 1900, 1800, and 2100 are not."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रवि, राम का भाई है। राम, अजय का पिता है। रवि, अजय का क्या लगता है?",
+      "question": "40 छात्रों की एक कक्षा में समीर का शीर्ष से 15वाँ स्थान है। नीचे से उसका स्थान क्या होगा?",
       "options": [
-        "मामा",
-        "भाई",
-        "दादा",
-        "चाचा"
+        "26वाँ",
+        "25वाँ",
+        "27वाँ",
+        "24वाँ"
       ],
-      "correctIndex": 3,
-      "explanation": "रवि, राम का भाई है। राम, अजय का पिता है। इसलिए रवि, अजय का/की चाचा है।",
+      "correctIndex": 0,
+      "explanation": "नीचे से स्थान = कुल छात्र - शीर्ष से स्थान + 1 = 40 - 15 + 1 = 26वाँ।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5322,18 +5561,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a class of 40 students, Samir ranks 15th from the top. What is his rank from the bottom?",
+        "options_en": [
+          "26th",
+          "25th",
+          "27th",
+          "24th"
+        ],
+        "explanation_en": "Rank from bottom = Total - Rank from top + 1 = 40 - 15 + 1 = 26th."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "काजल, श्याम की बहन है। श्याम, मोहन का पुत्र है। काजल, मोहन की क्या लगती है?",
+      "question": "एक पंक्ति में सुरेश बाएँ से 11वें और विकास दाएँ से 15वें स्थान पर है। जब वे आपस में स्थान बदल लेते हैं, तो सुरेश बाएँ से 19वाँ हो जाता है। पंक्ति में कुल कितने व्यक्ति हैं?",
       "options": [
-        "बहन",
-        "पुत्री",
-        "माता",
-        "भाभी"
+        "33",
+        "34",
+        "32",
+        "35"
       ],
-      "correctIndex": 1,
-      "explanation": "काजल, श्याम की बहन है। श्याम, मोहन का पुत्र है। इसलिए काजल, मोहन का/की पुत्री है।",
+      "correctIndex": 0,
+      "explanation": "सुरेश का नया स्थान (बाएँ से 19वाँ) और विकास का पुराना स्थान (दाएँ से 15वाँ) एक ही स्थान है। कुल व्यक्ति = 19 + 15 - 1 = 33।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5341,18 +5591,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a row, Suresh is 11th from left and Vikas is 15th from right. If they interchange their positions, Suresh becomes 19th from left. How many persons are there in the row?",
+        "options_en": [
+          "33",
+          "34",
+          "32",
+          "35"
+        ],
+        "explanation_en": "Suresh's new position (19th from left) is the same position as Vikas's original position (15th from right). Total = 19 + 15 - 1 = 33."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रीता, सुनील का पुत्र है। सुनील, गीता का भाई है। रीता, गीता का क्या लगता है?",
+      "question": "कथन:\n1. सभी नदियाँ पहाड़ हैं।\n2. सभी पहाड़ जंगल हैं।\n\nनिष्कर्ष:\nI. सभी नदियाँ जंगल हैं।\nII. कुछ जंगल नदियाँ हैं।",
       "options": [
-        "भाई",
-        "दादा",
-        "पुत्र",
-        "भतीजा"
+        "निष्कर्ष I और II दोनों निकलते हैं",
+        "केवल निष्कर्ष I निकलता है",
+        "केवल निष्कर्ष II निकलता है",
+        "न तो I और न ही II निकलता है"
       ],
-      "correctIndex": 3,
-      "explanation": "रीता, सुनील का पुत्र है। सुनील, गीता का भाई है। इसलिए रीता, गीता का/की भतीजा है।",
+      "correctIndex": 0,
+      "explanation": "नदियाँ ⊂ पहाड़ ⊂ जंगल। अतः सभी नदियाँ जंगल हैं (निष्कर्ष I सही) और जंगल का कुछ भाग नदियाँ हैं (निष्कर्ष II सही)। दोनों निष्कर्ष निकलते हैं।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5360,18 +5621,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Statements:\n1. All rivers are mountains.\n2. All mountains are forests.\n\nConclusions:\nI. All rivers are forests.\nII. Some forests are rivers.",
+        "options_en": [
+          "Both conclusions I and II follow",
+          "Only conclusion I follows",
+          "Only conclusion II follows",
+          "Neither I nor II follows"
+        ],
+        "explanation_en": "Rivers ⊂ Mountains ⊂ Forests. Thus both conclusions I and II logically follow."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "गीता, काजल की माता है। काजल, सीता की पत्नी है। गीता, सीता की क्या लगती है?",
+      "question": "कथन:\n1. कुछ आम सेब हैं।\n2. कोई सेब संतरा नहीं है।\n\nनिष्कर्ष:\nI. कुछ आम संतरे नहीं हैं।\nII. कुछ संतरे आम नहीं हैं।",
       "options": [
-        "सास",
-        "बहन",
-        "चाची",
-        "माता"
+        "केवल निष्कर्ष I निकलता है",
+        "केवल निष्कर्ष II निकलता है",
+        "दोनों निष्कर्ष निकलते हैं",
+        "कोई निष्कर्ष नहीं निकलता"
       ],
       "correctIndex": 0,
-      "explanation": "गीता, काजल की माता है। काजल, सीता की पत्नी है। इसलिए गीता, सीता का/की सास है।",
+      "explanation": "जो आम सेब हैं, वे कभी संतरे नहीं हो सकते। अतः 'कुछ आम संतरे नहीं हैं' निश्चित सत्य है। निष्कर्ष II निश्चित नहीं है। अतः केवल I निकलता है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5379,18 +5651,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Statements:\n1. Some apples are mangoes.\n2. No apple is an orange.\n\nConclusions:\nI. Some mangoes are not oranges.\nII. Some oranges are not mangoes.",
+        "options_en": [
+          "Only conclusion I follows",
+          "Only conclusion II follows",
+          "Both follow",
+          "Neither follows"
+        ],
+        "explanation_en": "The portion of mangoes that are apples can never be oranges. Therefore, 'Some mangoes are not oranges' definitely follows."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "विजय, श्याम का पुत्र है। श्याम, प्रिया की पुत्री है। विजय, प्रिया का क्या लगता है?",
+      "question": "निम्नलिखित में से कौन-सा वेन आरेख 'उत्तराखंड, भारत और एशिया' के बीच सही संबंध दर्शाता है?",
       "options": [
-        "नाती",
-        "भाई",
-        "पुत्र",
-        "भतीजा"
+        "तीन संकेंद्रित वृत्त (उत्तराखंड ⊂ भारत ⊂ एशिया)",
+        "दो प्रतिच्छेदी वृत्त एक बड़े वृत्त के अंदर",
+        "तीन अलग-अलग वृत्त",
+        "दो अलग वृत्त एक बड़े वृत्त के अंदर"
       ],
       "correctIndex": 0,
-      "explanation": "विजय, श्याम का पुत्र है। श्याम, प्रिया की पुत्री है। इसलिए विजय, प्रिया का/की नाती है।",
+      "explanation": "उत्तराखंड पूर्णतः भारत के अंतर्गत आता है और भारत पूर्णतः एशिया महाद्वीप में है। अतः तीन संकेंद्रित वृत्त (उत्तराखंड ⊂ भारत ⊂ एशिया) सही वेन आरेख है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5398,18 +5681,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which Venn diagram best represents the relationship between 'Uttarakhand, India, and Asia'?",
+        "options_en": [
+          "Three concentric circles (Uttarakhand ⊂ India ⊂ Asia)",
+          "Two intersecting circles inside a large circle",
+          "Three separate circles",
+          "Two disjoint circles inside a large circle"
+        ],
+        "explanation_en": "Uttarakhand is entirely within India, and India is entirely within Asia. Hence, three concentric circles represent the relationship."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "प्रिया, रीता का पिता है। रीता, श्याम का भाई है। प्रिया, श्याम का क्या लगता है?",
+      "question": "निम्न में से कौन-सा वेन आरेख 'शिक्षक, लेखक और संगीतकार' के संबंध को सर्वोत्तम दर्शाता है?",
       "options": [
-        "पिता",
-        "दादा",
-        "भाई",
-        "चाचा"
+        "तीन परस्पर प्रतिच्छेदी वृत्त (Three intersecting circles)",
+        "तीन संकेंद्रित वृत्त",
+        "एक वृत्त में दो अलग वृत्त",
+        "तीन पूर्णतः पृथक वृत्त"
       ],
       "correctIndex": 0,
-      "explanation": "प्रिया, रीता का पिता है। रीता, श्याम का भाई है। इसलिए प्रिया, श्याम का/की पिता है।",
+      "explanation": "एक व्यक्ति एक ही समय में शिक्षक, लेखक और संगीतकार तीनों हो सकता है। अतः तीनों वृत्त एक-दूसरे को परस्पर प्रतिच्छेद करेंगे।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5417,18 +5711,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which Venn diagram best represents 'Teachers, Authors, and Musicians'?",
+        "options_en": [
+          "Three mutually intersecting circles",
+          "Three concentric circles",
+          "Two separate circles inside one",
+          "Three isolated circles"
+        ],
+        "explanation_en": "A person can possess all three talents simultaneously (teacher, author, and musician). Thus, three mutually intersecting circles best illustrate it."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "सुनील, विजय की पत्नी है। विजय, काजल का पिता है। सुनील, काजल की क्या लगती है?",
+      "question": "पाँच मित्र A, B, C, D और E एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। C, D के बाएँ और B के दाएँ बैठा है। A, B के बाएँ है लेकिन सबसे किनारे पर नहीं है। मध्य में कौन बैठा है?",
       "options": [
-        "बहन",
-        "चाची",
-        "दादी",
-        "माता"
+        "B",
+        "C",
+        "A",
+        "D"
       ],
-      "correctIndex": 3,
-      "explanation": "सुनील, विजय की पत्नी है। विजय, काजल का पिता है। इसलिए सुनील, काजल का/की माता है।",
+      "correctIndex": 0,
+      "explanation": "व्यवस्था का क्रम: E, A, B, C, D (या किनारे के अनुसार)। यहाँ B, A और C के बीच में है। पूरी पंक्ति के ठीक मध्य में B बैठता है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5436,18 +5741,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Five friends A, B, C, D, and E are sitting in a row facing north. C sits to the left of D and right of B. A sits to the left of B but not at the extreme end. Who is sitting in the middle?",
+        "options_en": [
+          "B",
+          "C",
+          "A",
+          "D"
+        ],
+        "explanation_en": "The arrangement order from left to right is E, A, B, C, D. B is seated exactly in the middle."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "प्रिया, सीता का पिता है। सीता, रीता की माता है। प्रिया, रीता का क्या लगता है?",
+      "question": "छह व्यक्ति केंद्र की ओर मुख करके एक वृत्ताकार मेज के चारों ओर बैठे हैं। A, B के ठीक सामने बैठा है। C, A के दाएँ दूसरे स्थान पर है। B के दाएँ कौन बैठा है?",
       "options": [
-        "नाना/नानी",
-        "दादा",
-        "चाचा",
-        "भाई"
+        "C के विपरीत व्यक्ति",
+        "C",
+        "A",
+        "निर्धारित नहीं किया जा सकता"
       ],
       "correctIndex": 0,
-      "explanation": "प्रिया, सीता का पिता है। सीता, रीता की माता है। इसलिए प्रिया, रीता का/की नाना/नानी है।",
+      "explanation": "वृत्त में 6 कुर्सियों में A और B आमने-सामने (180°) हैं। C यदि A के दाएँ दूसरा है, तो वह B के बाएँ दूसरा होगा। B के ठीक दाएँ बैठने वाला व्यक्ति C के ठीक सामने होगा।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5455,18 +5771,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Six persons are sitting around a circular table facing the center. A sits opposite to B. C is second to the right of A. Who sits to the immediate right of B?",
+        "options_en": [
+          "The person opposite to C",
+          "C",
+          "A",
+          "Cannot be determined"
+        ],
+        "explanation_en": "In a 6-seat circle, opposite positions differ by 3 steps. Since C is 2 steps clockwise from A, the person immediate right of B sits directly opposite to C."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "गीता, मोहन का भाई है। मोहन, सोहन का पिता है। गीता, सोहन का क्या लगता है?",
+      "question": "लुप्त संख्या ज्ञात कीजिए:\n4   9   2\n3   5   7\n8   1   ?",
       "options": [
-        "चाचा",
-        "मामा",
-        "भाई",
-        "दादा"
+        "6",
+        "5",
+        "7",
+        "4"
       ],
       "correctIndex": 0,
-      "explanation": "गीता, मोहन का भाई है। मोहन, सोहन का पिता है। इसलिए गीता, सोहन का/की चाचा है।",
+      "explanation": "यह 3×3 का जादुई वर्ग (Magic Square) है। प्रत्येक पंक्ति और स्तंभ का योग 15 है: 8 + 1 + ? = 15 ⇒ ? = 6।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5474,18 +5801,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Find the missing number:\n4   9   2\n3   5   7\n8   1   ?",
+        "options_en": [
+          "6",
+          "5",
+          "7",
+          "4"
+        ],
+        "explanation_en": "This is a standard 3x3 Magic Square where each row and column sums to 15: 8 + 1 + ? = 15 ⇒ ? = 6."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रवि, प्रिया की बहन है। प्रिया, अनिल का पुत्र है। रवि, अनिल की क्या लगती है?",
+      "question": "लुप्त संख्या ज्ञात कीजिए:\n2   3   13\n4   5   41\n3   4   ?",
       "options": [
-        "भाभी",
-        "पुत्री",
-        "बहन",
-        "माता"
+        "25",
+        "24",
+        "27",
+        "21"
       ],
-      "correctIndex": 1,
-      "explanation": "रवि, प्रिया की बहन है। प्रिया, अनिल का पुत्र है। इसलिए रवि, अनिल का/की पुत्री है।",
+      "correctIndex": 0,
+      "explanation": "पैटर्न: पहली और दूसरी संख्या के वर्गों का योग = तीसरी संख्या। 2² + 3² = 4 + 9 = 13। 4² + 5² = 16 + 25 = 41। इसी प्रकार: 3² + 4² = 9 + 16 = 25।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5493,18 +5831,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Find the missing number:\n2   3   13\n4   5   41\n3   4   ?",
+        "options_en": [
+          "25",
+          "24",
+          "27",
+          "21"
+        ],
+        "explanation_en": "Pattern: Sum of squares of first two numbers equals the third. 2² + 3² = 13; 4² + 5² = 41. Similarly, 3² + 4² = 9 + 16 = 25."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "रीता, सीता का पुत्र है। सीता, रवि का भाई है। रीता, रवि का क्या लगता है?",
+      "question": "एक पुरुष का परिचय देते हुए एक महिला ने कहा, \"इसकी पत्नी मेरी माँ की इकलौती पुत्री है।\" वह पुरुष उस महिला से किस प्रकार संबंधित है?",
       "options": [
-        "भतीजा",
+        "पति",
         "भाई",
-        "दादा",
-        "पुत्र"
+        "पिता",
+        "ससुर"
       ],
       "correctIndex": 0,
-      "explanation": "रीता, सीता का पुत्र है। सीता, रवि का भाई है। इसलिए रीता, रवि का/की भतीजा है।",
+      "explanation": "महिला की माँ की इकलौती पुत्री वह महिला स्वयं है। उस पुरुष की पत्नी वह स्वयं है, अतः वह पुरुष उस महिला का पति है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5512,18 +5861,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Introducing a man, a woman said, \"His wife is the only daughter of my mother.\" How is the man related to the woman?",
+        "options_en": [
+          "Husband",
+          "Brother",
+          "Father",
+          "Father-in-law"
+        ],
+        "explanation_en": "The only daughter of the woman's mother is the woman herself. Since she is the man's wife, the man is her husband."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "नीता, सुनील की माता है। सुनील, प्रिया की पत्नी है। नीता, प्रिया की क्या लगती है?",
+      "question": "एक पासे की दो स्थितियाँ दर्शाई गई हैं। यदि सतह पर 3 शीर्ष पर हो, तो नीचे की सतह पर कौन-सा अंक होगा?\nस्थिति 1: (1, 2, 3)\nस्थिति 2: (1, 5, 6)",
       "options": [
-        "माता",
-        "सास",
-        "बहन",
-        "चाची"
+        "6",
+        "4",
+        "2",
+        "5"
       ],
-      "correctIndex": 1,
-      "explanation": "नीता, सुनील की माता है। सुनील, प्रिया की पत्नी है। इसलिए नीता, प्रिया का/की सास है।",
+      "correctIndex": 0,
+      "explanation": "दोनों स्थितियों में 1 उभयनिष्ठ (Common) अंक है। 1 से दक्षिणावर्त (Clockwise) घूमने पर: स्थिति 1 में (1 -> 2 -> 3) और स्थिति 2 में (1 -> 5 -> 6)। अतः 2 के विपरीत 5 तथा 3 के विपरीत 6 होगा।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5531,18 +5891,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Two positions of a dice are shown. If 3 is on the top face, which number will be on the bottom face?\nPosition 1: (1, 2, 3)\nPosition 2: (1, 5, 6)",
+        "options_en": [
+          "6",
+          "4",
+          "2",
+          "5"
+        ],
+        "explanation_en": "1 is common. Moving clockwise: 1 -> 2 -> 3 and 1 -> 5 -> 6. Opposite pairs are 2-5 and 3-6. Thus, opposite to 3 is 6."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "अनिल, काजल का पुत्र है। काजल, सोहन की पुत्री है। अनिल, सोहन का क्या लगता है?",
+      "question": "एक मानक पासे (Standard Dice) में विपरीत फलकों का योग सदैव कितना होता है?",
       "options": [
-        "भाई",
-        "भतीजा",
-        "नाती",
-        "पुत्र"
+        "7",
+        "6",
+        "8",
+        "14"
       ],
-      "correctIndex": 2,
-      "explanation": "अनिल, काजल का पुत्र है। काजल, सोहन की पुत्री है। इसलिए अनिल, सोहन का/की नाती है।",
+      "correctIndex": 0,
+      "explanation": "मानक पासे की परिभाषा के अनुसार किन्हीं भी दो विपरीत फलकों के अंकों का योग हमेशा 7 होता है (1+6=7, 2+5=7, 3+4=7)।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5550,18 +5921,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a standard dice, what is always the sum of numbers on opposite faces?",
+        "options_en": [
+          "7",
+          "6",
+          "8",
+          "14"
+        ],
+        "explanation_en": "By definition of a standard die, the sum of opposite faces is always 7 (1+6, 2+5, 3+4)."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "पूजा, नीता का पिता है। नीता, प्रिया का भाई है। पूजा, प्रिया का क्या लगता है?",
+      "question": "कथन:\n'उत्तराखंड लोक सेवा आयोग की परीक्षा में सफल होने के लिए नियमित अध्ययन आवश्यक है।'\n\nपूर्वधारणाएँ:\nI. नियमित अध्ययन से परीक्षा में सफलता प्राप्त की जा सकती है।\nII. बिना नियमित अध्ययन के भी छात्र सरलता से परीक्षा पास कर लेते हैं।",
       "options": [
-        "चाचा",
-        "पिता",
-        "भाई",
-        "दादा"
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "कोई भी अंतर्निहित नहीं है"
       ],
-      "correctIndex": 1,
-      "explanation": "पूजा, नीता का पिता है। नीता, प्रिया का भाई है। इसलिए पूजा, प्रिया का/की पिता है।",
+      "correctIndex": 0,
+      "explanation": "कथन स्पष्ट रूप से नियमित अध्ययन को सफलता का साधन बताता है, अतः पूर्वधारणा I अंतर्निहित है। पूर्वधारणा II कथन के बिल्कुल विपरीत है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5569,18 +5951,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Statement:\n'Regular study is essential to succeed in the Uttarakhand Public Service Commission examination.'\n\nAssumptions:\nI. Success in the exam can be achieved through regular study.\nII. Students easily pass the exam even without regular study.",
+        "options_en": [
+          "Only assumption I is implicit",
+          "Only assumption II is implicit",
+          "Both are implicit",
+          "Neither is implicit"
+        ],
+        "explanation_en": "The statement establishes regular study as a vital condition for success, making assumption I implicit. Assumption II directly contradicts the statement."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "पूजा, सीता की पत्नी है। सीता, अनिल का पिता है। पूजा, अनिल की क्या लगती है?",
+      "question": "सादृश्यता पूर्ण कीजिए:\n8 : 28 :: 27 : ?",
       "options": [
-        "बहन",
-        "चाची",
-        "दादी",
-        "माता"
+        "65",
+        "64",
+        "55",
+        "72"
       ],
-      "correctIndex": 3,
-      "explanation": "पूजा, सीता की पत्नी है। सीता, अनिल का पिता है। इसलिए पूजा, अनिल का/की माता है।",
+      "correctIndex": 0,
+      "explanation": "पैटर्न: n³ : (n+1)³ + 1। यहाँ 8 = 2³, और 28 = 3³ + 1 = 27 + 1। इसी प्रकार: 27 = 3³, तो अगला पद = 4³ + 1 = 64 + 1 = 65 होगा।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5588,18 +5981,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Complete the analogy:\n8 : 28 :: 27 : ?",
+        "options_en": [
+          "65",
+          "64",
+          "55",
+          "72"
+        ],
+        "explanation_en": "Pattern: n³ : (n+1)³ + 1. Here 8 = 2³, and 28 = 3³ + 1. Similarly, 27 = 3³, so next is 4³ + 1 = 64 + 1 = 65."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "सुनील, मोहन का पिता है। मोहन, नीता की माता है। सुनील, नीता का क्या लगता है?",
+      "question": "सादृश्यता पूर्ण कीजिए:\nउत्तराखंड : देहरादून :: लद्दाख : ?",
       "options": [
-        "भाई",
-        "चाचा",
-        "नाना/नानी",
-        "दादा"
+        "लेह",
+        "कारगिल",
+        "श्रीनगर",
+        "जम्मू"
       ],
-      "correctIndex": 2,
-      "explanation": "सुनील, मोहन का पिता है। मोहन, नीता की माता है। इसलिए सुनील, नीता का/की नाना/नानी है।",
+      "correctIndex": 0,
+      "explanation": "जिस प्रकार उत्तराखंड की राजधानी देहरादून है, उसी प्रकार केंद्र शासित प्रदेश लद्दाख की राजधानी लेह है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5607,18 +6011,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Complete the analogy:\nUttarakhand : Dehradun :: Ladakh : ?",
+        "options_en": [
+          "Leh",
+          "Kargil",
+          "Srinagar",
+          "Jammu"
+        ],
+        "explanation_en": "Dehradun is the capital of Uttarakhand; similarly, Leh is the capital of the Union Territory of Ladakh."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "सीता, अजय का भाई है। अजय, नीता का पिता है। सीता, नीता का क्या लगता है?",
+      "question": "निम्नलिखित चार में से तीन किसी प्रकार समान हैं और एक विषम है। उस विषम का चयन कीजिए:",
       "options": [
-        "मामा",
-        "भाई",
-        "चाचा",
-        "दादा"
+        "गंगा",
+        "यमुना",
+        "अलकनंदा",
+        "गोदावरी"
       ],
-      "correctIndex": 2,
-      "explanation": "सीता, अजय का भाई है। अजय, नीता का पिता है। इसलिए सीता, नीता का/की चाचा है।",
+      "correctIndex": 3,
+      "explanation": "गंगा, यमुना और अलकनंदा तीनों नदियाँ उत्तराखंड की हिमालयी नदी प्रणाली का हिस्सा हैं, जबकि गोदावरी प्रायद्वीपीय भारत (महाराष्ट्र/दक्षिण) की नदी है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5626,18 +6041,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Three of the following four are alike in a certain way. Select the odd one out:",
+        "options_en": [
+          "Ganga",
+          "Yamuna",
+          "Alaknanda",
+          "Godavari"
+        ],
+        "explanation_en": "Ganga, Yamuna, and Alaknanda originate and flow through Uttarakhand (Himalayan rivers), whereas Godavari is a peninsular river of South India."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "सीता, अजय की बहन है। अजय, गीता का पुत्र है। सीता, गीता की क्या लगती है?",
+      "question": "यदि P का अर्थ '÷', Q का अर्थ '×', R का अर्थ '+' और S का अर्थ '-' हो, तो 18 Q 12 P 4 R 5 S 6 का मान क्या होगा?",
       "options": [
-        "पुत्री",
-        "माता",
-        "बहन",
-        "भाभी"
+        "53",
+        "59",
+        "45",
+        "50"
       ],
       "correctIndex": 0,
-      "explanation": "सीता, अजय की बहन है। अजय, गीता का पुत्र है। इसलिए सीता, गीता का/की पुत्री है।",
+      "explanation": "चिह्नों को बदलने पर: 18 × 12 ÷ 4 + 5 - 6 = 18 × 3 + 5 - 6 = 54 + 5 - 6 = 53।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5645,18 +6071,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "If P denotes '÷', Q denotes '×', R denotes '+', and S denotes '-', then what is the value of 18 Q 12 P 4 R 5 S 6?",
+        "options_en": [
+          "53",
+          "59",
+          "45",
+          "50"
+        ],
+        "explanation_en": "Substituting symbols: 18 × 12 ÷ 4 + 5 - 6 = 18 × 3 + 5 - 6 = 54 + 5 - 6 = 53."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "श्याम, रवि का पुत्र है। रवि, विजय का भाई है। श्याम, विजय का क्या लगता है?",
+      "question": "निम्नलिखित शब्दों को अंग्रेजी शब्दकोश (Dictionary) के अनुसार व्यवस्थित करने पर कौन-सा शब्द तीसरे स्थान पर आएगा?\n1. Nature\n2. Native\n3. Nation\n4. Natural",
       "options": [
-        "भतीजा",
-        "भाई",
-        "पुत्र",
-        "दादा"
+        "Natural",
+        "Nation",
+        "Native",
+        "Nature"
       ],
       "correctIndex": 0,
-      "explanation": "श्याम, रवि का पुत्र है। रवि, विजय का भाई है। इसलिए श्याम, विजय का/की भतीजा है।",
+      "explanation": "शब्दकोश क्रम: 1. Nation (NATI-O), 2. Native (NATI-V), 3. Natural (NATU-R), 4. Nature (NATU-R-E)। यहाँ तीसरे स्थान पर 'Natural' आएगा।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5664,18 +6101,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which word will appear in the 3rd position when arranged according to English dictionary order?\n1. Nature, 2. Native, 3. Nation, 4. Natural",
+        "options_en": [
+          "Natural",
+          "Nation",
+          "Native",
+          "Nature"
+        ],
+        "explanation_en": "Alphabetical order: 1. Nation, 2. Native, 3. Natural, 4. Nature. Third is Natural."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "गीता, श्याम की माता है। श्याम, सोहन की पत्नी है। गीता, सोहन की क्या लगती है?",
+      "question": "निम्नलिखित को एक सार्थक तार्किक क्रम में व्यवस्थित कीजिए:\n1. पौधा  2. फल  3. बीज  4. वृक्ष  5. फूल",
       "options": [
-        "सास",
-        "माता",
-        "बहन",
-        "चाची"
+        "3, 1, 4, 5, 2",
+        "3, 4, 1, 5, 2",
+        "1, 3, 4, 5, 2",
+        "3, 1, 5, 4, 2"
       ],
       "correctIndex": 0,
-      "explanation": "गीता, श्याम की माता है। श्याम, सोहन की पत्नी है। इसलिए गीता, सोहन का/की सास है।",
+      "explanation": "सार्थक क्रम: पहले बीज (3) बोया जाता है -> पौधा (1) बनता है -> वृक्ष (4) बनता है -> फूल (5) आते हैं -> फल (2) लगते हैं। अतः क्रम 3, 1, 4, 5, 2 है।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5683,18 +6131,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Arrange the following in a meaningful logical order:\n1. Plant, 2. Fruit, 3. Seed, 4. Tree, 5. Flower",
+        "options_en": [
+          "3, 1, 4, 5, 2",
+          "3, 4, 1, 5, 2",
+          "1, 3, 4, 5, 2",
+          "3, 1, 5, 4, 2"
+        ],
+        "explanation_en": "Logical growth order: Seed (3) -> Plant (1) -> Tree (4) -> Flower (5) -> Fruit (2). Correct sequence: 3, 1, 4, 5, 2."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "मोहन, पूजा का पुत्र है। पूजा, सीता की पुत्री है। मोहन, सीता का क्या लगता है?",
+      "question": "एक वर्ग जिसके दोनों विकर्ण (Diagonals) एक-दूसरे को काटते हैं, उसमें कुल कितने त्रिभुज (Triangles) बनते हैं?",
       "options": [
-        "नाती",
-        "भाई",
-        "भतीजा",
-        "पुत्र"
+        "8",
+        "6",
+        "4",
+        "10"
       ],
       "correctIndex": 0,
-      "explanation": "मोहन, पूजा का पुत्र है। पूजा, सीता की पुत्री है। इसलिए मोहन, सीता का/की नाती है।",
+      "explanation": "किसी वर्ग में दोनों विकर्ण खींचने पर 4 छोटे त्रिभुज बनते हैं। कुल त्रिभुज = 4 × 2 = 8।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5702,18 +6161,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a square where both diagonals intersect each other, how many total triangles are formed?",
+        "options_en": [
+          "8",
+          "6",
+          "4",
+          "10"
+        ],
+        "explanation_en": "A square divided by two diagonals yields 4 elementary triangles. Total triangles = 4 × 2 = 8."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "पूजा, सुनील का पिता है। सुनील, प्रिया का भाई है। पूजा, प्रिया का क्या लगता है?",
+      "question": "एक 3 × 3 के ग्रिड बोर्ड में कुल कितने वर्ग (Squares) होते हैं?",
       "options": [
-        "चाचा",
-        "पिता",
-        "दादा",
-        "भाई"
+        "14",
+        "9",
+        "16",
+        "12"
       ],
-      "correctIndex": 1,
-      "explanation": "पूजा, सुनील का पिता है। सुनील, प्रिया का भाई है। इसलिए पूजा, प्रिया का/की पिता है।",
+      "correctIndex": 0,
+      "explanation": "n × n ग्रिड में वर्गों की संख्या = 1² + 2² + ... + n²। यहाँ 3×3 के लिए = 1² + 2² + 3² = 1 + 4 + 9 = 14।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5721,18 +6191,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many total squares are there in a 3 × 3 grid board?",
+        "options_en": [
+          "14",
+          "9",
+          "16",
+          "12"
+        ],
+        "explanation_en": "In an n × n grid, total squares = ∑n² = 1² + 2² + 3² = 1 + 4 + 9 = 14."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "श्याम, सोहन की पत्नी है। सोहन, मोहन का पिता है। श्याम, मोहन की क्या लगती है?",
+      "question": "वर्ष 2025 का कैलेंडर भविष्य में किस वर्ष पुनः समान होगा?",
       "options": [
-        "चाची",
-        "माता",
-        "बहन",
-        "दादी"
+        "2031",
+        "2036",
+        "2030",
+        "2032"
       ],
-      "correctIndex": 1,
-      "explanation": "श्याम, सोहन की पत्नी है। सोहन, मोहन का पिता है। इसलिए श्याम, मोहन का/की माता है।",
+      "correctIndex": 0,
+      "explanation": "लीप वर्ष के तुरंत बाद का सामान्य वर्ष 6 वर्ष बाद दोहराता है (2025 = 2024 लीप + 1)। अतः 2025 + 6 = 2031 का कैलेंडर 2025 के समान होगा।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5740,18 +6221,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which year will have the same calendar as the year 2025?",
+        "options_en": [
+          "2031",
+          "2036",
+          "2030",
+          "2032"
+        ],
+        "explanation_en": "A non-leap year immediately following a leap year repeats after 6 years (2024 is leap, so 2025 repeats in 2025 + 6 = 2031)."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "सोहन, सुनील का पिता है। सुनील, अनिल की माता है। सोहन, अनिल का क्या लगता है?",
+      "question": "पिता और पुत्र की वर्तमान आयु का योग 60 वर्ष है। 6 वर्ष पूर्व पिता की आयु पुत्र की आयु की पाँच गुनी थी। 6 वर्ष बाद पुत्र की आयु क्या होगी?",
       "options": [
-        "भाई",
-        "चाचा",
-        "दादा",
-        "नाना/नानी"
+        "20 वर्ष",
+        "14 वर्ष",
+        "18 वर्ष",
+        "24 वर्ष"
       ],
-      "correctIndex": 3,
-      "explanation": "सोहन, सुनील का पिता है। सुनील, अनिल की माता है। इसलिए सोहन, अनिल का/की नाना/नानी है।",
+      "correctIndex": 0,
+      "explanation": "6 वर्ष पूर्व दोनों की आयु का योग = 60 - 12 = 48 वर्ष। 6 वर्ष पूर्व पुत्र की आयु = 48 / (5+1) = 8 वर्ष। पुत्र की वर्तमान आयु = 8 + 6 = 14 वर्ष। 6 वर्ष बाद पुत्र = 14 + 6 = 20 वर्ष।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5759,18 +6251,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "The sum of present ages of father and son is 60 years. 6 years ago, father was five times as old as the son. What will be the son's age after 6 years?",
+        "options_en": [
+          "20 years",
+          "14 years",
+          "18 years",
+          "24 years"
+        ],
+        "explanation_en": "6 years ago, sum of ages = 60 - 12 = 48. Son's age 6 years ago = 48 / 6 = 8. Present age of son = 14. Son's age 6 years hence = 20 years."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "गीता, सोहन का भाई है। सोहन, पूजा का पिता है। गीता, पूजा का क्या लगता है?",
+      "question": "एक सुबह सूर्योदय के तुरंत बाद दो मित्र सुमित और मोहित एक-दूसरे के आमने-सामने खड़े होकर बात कर रहे थे। यदि सुमित की छाया मोहित के ठीक दाएँ पड़ रही थी, तो सुमित का मुख किस दिशा में था?",
       "options": [
-        "दादा",
-        "मामा",
-        "भाई",
-        "चाचा"
+        "दक्षिण",
+        "उत्तर",
+        "पूर्व",
+        "पश्चिम"
       ],
-      "correctIndex": 3,
-      "explanation": "गीता, सोहन का भाई है। सोहन, पूजा का पिता है। इसलिए गीता, पूजा का/की चाचा है।",
+      "correctIndex": 0,
+      "explanation": "सुबह सूर्य पूर्व में होता है, अतः छाया पश्चिम की ओर पड़ेगी। पश्चिम दिशा मोहित की दाईं ओर है, इसका अर्थ है कि मोहित का मुख उत्तर की ओर है। सुमित मोहित के आमने-सामने है, अतः सुमित का मुख दक्षिण की ओर था।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5778,18 +6281,29 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "One morning after sunrise, Sumit and Mohit were talking face to face. If Sumit's shadow fell exactly to Mohit's right, in which direction was Sumit facing?",
+        "options_en": [
+          "South",
+          "North",
+          "East",
+          "West"
+        ],
+        "explanation_en": "Morning shadow falls to the West. If West is Mohit's right, Mohit is facing North. Since Sumit is facing Mohit, Sumit is facing South."
+      },
+      "topic": "Reasoning"
     },
     {
-      "question": "मोहन, सुनील की बहन है। सुनील, पूजा का पुत्र है। मोहन, पूजा की क्या लगती है?",
+      "question": "एक महिला ने एक पुरुष का परिचय कराते हुए कहा, \"इनकी सास और मेरी सास आपस में माँ-बेटी हैं।\" वह पुरुष उस महिला से किस प्रकार संबंधित हो सकता है?",
       "options": [
-        "पुत्री",
-        "माता",
-        "बहन",
-        "भाभी"
+        "ससुर / दामाद",
+        "भाई",
+        "पति",
+        "पुत्र"
       ],
       "correctIndex": 0,
-      "explanation": "मोहन, सुनील की बहन है। सुनील, पूजा का पुत्र है। इसलिए मोहन, पूजा का/की पुत्री है।",
+      "explanation": "महिला की सास उस पुरुष की सास की माँ है। अर्थात उस पुरुष का विवाह महिला की पुत्री से हुआ है या वे ससुर-दामाद की पीढ़ी के संबंध में हैं। यहाँ सही उत्तर दामाद या ससुर का विकल्प होगा।",
       "subCategory": "तर्कशक्ति",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -5797,7 +6311,18 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Introducing a man, a woman said, \"His mother-in-law and my mother-in-law are mother and daughter respectively.\" How is the man related to the woman?",
+        "options_en": [
+          "Son-in-law / Father-in-law",
+          "Brother",
+          "Husband",
+          "Son"
+        ],
+        "explanation_en": "The woman's mother-in-law is the mother of the man's mother-in-law. This forms a generation link where the man is son-in-law (or related via in-laws)."
+      },
+      "topic": "Reasoning"
     },
     {
       "question": "'पुस्तक' : 'पुस्तकालय' :: 'रोगी' : ?",
