@@ -14,7 +14,17 @@
       "subCategory": "मृदा विज्ञान",
       "difficulty": "easy",
       "uuid": "9f0110a5-9a17-537f-b958-eb21c0a7ea15",
-      "updated_at": "2026-05-31T16:22:45.872119"
+      "updated_at": "2026-05-31T16:22:45.872119",
+      "extra_data": {
+        "question_en": "Which is the best soil for paddy cultivation?",
+        "options_en": [
+          "loamy soil",
+          "black soil",
+          "Clay",
+          "Sandy soil"
+        ],
+        "explanation_en": "Heavy clay soil with water holding capacity is considered best for paddy."
+      }
     },
     {
       "question": "खैरा रोग (Khaira disease) किस तत्व की कमी से होता है?",
@@ -30,7 +40,17 @@
       "subCategory": "पादप रोग",
       "difficulty": "easy",
       "uuid": "c9ee4e21-17a0-50cd-865c-73037d043964",
-      "updated_at": "2026-05-31T16:22:45.872130"
+      "updated_at": "2026-05-31T16:22:45.872130",
+      "extra_data": {
+        "question_en": "Khaira disease is caused by deficiency of which element?",
+        "options_en": [
+          "magnesium",
+          "Zinc",
+          "potassium",
+          "Nitrogen"
+        ],
+        "explanation_en": "Khaira disease in paddy is caused by zinc deficiency."
+      }
     },
     {
       "question": "फसलों का राजा किसे कहा जाता है?",
@@ -46,7 +66,17 @@
       "subCategory": "फसलों का वर्गीकरण",
       "difficulty": "easy",
       "uuid": "37ba627b-2456-58af-9af8-628bc42018ab",
-      "updated_at": "2026-05-31T16:22:45.872138"
+      "updated_at": "2026-05-31T16:22:45.872138",
+      "extra_data": {
+        "question_en": "Who is called the king of crops?",
+        "options_en": [
+          "Wheat",
+          "Rice ",
+          "Mango",
+          "Maize"
+        ],
+        "explanation_en": "Among food grains, wheat is called the king of crops."
+      }
     },
     {
       "question": "श्वेत क्रांति (White Revolution) का संबंध किससे है?",
@@ -62,7 +92,17 @@
       "subCategory": "कृषि क्रांतियां",
       "difficulty": "easy",
       "uuid": "8f373179-5e3c-59c3-821f-75142680db9d",
-      "updated_at": "2026-05-31T16:22:45.872145"
+      "updated_at": "2026-05-31T16:22:45.872145",
+      "extra_data": {
+        "question_en": "What is White Revolution related to?",
+        "options_en": [
+          "milk production",
+          "egg production",
+          "wheat production",
+          "fish farming"
+        ],
+        "explanation_en": "White Revolution is related to increasing milk production, the father of which was Verghese Kurien."
+      }
     },
     {
       "question": "उत्तराखंड में सेब की सबसे प्रसिद्ध किस्म कौन सी है?",
@@ -78,7 +118,17 @@
       "subCategory": "बागवानी",
       "difficulty": "easy",
       "uuid": "a5d43499-3504-5889-b131-fcc96fd57e7d",
-      "updated_at": "2026-05-31T16:22:45.872152"
+      "updated_at": "2026-05-31T16:22:45.872152",
+      "extra_data": {
+        "question_en": "Which is the most famous variety of apple in Uttarakhand?",
+        "options_en": [
+          "Red Delicious",
+          "Golden Delicious",
+          "macintosh",
+          "Royal Delight"
+        ],
+        "explanation_en": "Red Delicious variety of apple is most popular in Uttarakhand."
+      }
     },
     {
       "question": "कृषि वर्ष (Agricultural Year) की अवधि क्या होती है?",
@@ -94,7 +144,17 @@
       "subCategory": "कृषि चक्र",
       "difficulty": "easy",
       "uuid": "4d163b59-108e-5020-bf56-fdc76f386620",
-      "updated_at": "2026-05-31T16:22:45.872160"
+      "updated_at": "2026-05-31T16:22:45.872160",
+      "extra_data": {
+        "question_en": "What is the duration of the agricultural year?",
+        "options_en": [
+          "1 April to 31 March",
+          "1st July to 30th June",
+          "1 January to 31 December",
+          "June 1 to May 31"
+        ],
+        "explanation_en": "The agricultural year in India starts from 1 July and continues till 30 June."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में धान (सीधी बुवाई) की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -110,7 +170,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "924de2ca-dbee-57f5-93e8-4cfabc46a79b",
-      "updated_at": "2026-05-31T16:30:54.502775"
+      "updated_at": "2026-05-31T16:30:54.502775",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing of paddy (direct sowing) under normal circumstances?",
+        "options_en": [
+          "80-100 kg/hectare",
+          "40-50 kg/hectare",
+          "15-20 kg/hectare",
+          "120-150 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of paddy (direct sowing) and to obtain the desired plant population is 80-100 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में धान (रोपाई विधि) की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -126,7 +196,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "5963d7d2-12db-55c4-81f9-1fab556afd28",
-      "updated_at": "2026-05-31T16:30:54.502799"
+      "updated_at": "2026-05-31T16:30:54.502799",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing of paddy (transplant method) under normal circumstances?",
+        "options_en": [
+          "40-50 kg/hectare",
+          "80-100 kg/hectare",
+          "10-12 kg/hectare",
+          "120-150 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of paddy (planting method) and obtaining the desired plant population is 40-50 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में गेहूं की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -142,7 +222,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "6bd28e5d-4183-5199-a68c-f8d008efb53b",
-      "updated_at": "2026-05-31T16:30:54.502811"
+      "updated_at": "2026-05-31T16:30:54.502811",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing wheat under normal circumstances?",
+        "options_en": [
+          "100-125 kg/hectare",
+          "50-60 kg/hectare",
+          "150-180 kg/hectare",
+          "15-20 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful wheat cultivation and achieving desired plant population is 100-125 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में चना की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -158,7 +248,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "13445fff-7f25-55d8-b50f-c04d01ff506f",
-      "updated_at": "2026-05-31T16:30:54.502819"
+      "updated_at": "2026-05-31T16:30:54.502819",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing gram under normal circumstances?",
+        "options_en": [
+          "75-80 kg/hectare",
+          "40-50 kg/hectare",
+          "100-120 kg/hectare",
+          "10-15 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of gram and obtaining the desired plant population is 75-80 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में सरसों की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -174,7 +274,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "3a102032-743f-5c1f-958e-50de19e10fa9",
-      "updated_at": "2026-05-31T16:30:54.502836"
+      "updated_at": "2026-05-31T16:30:54.502836",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing mustard under normal circumstances?",
+        "options_en": [
+          "4-5 kg/hectare",
+          "10-12 kg/hectare",
+          "15-20 kg/hectare",
+          "1-2 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful mustard cultivation and obtaining the desired plant population is 4-5 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में मक्का की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -190,7 +300,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "62868116-80a2-590c-b91e-b1a546ccec2d",
-      "updated_at": "2026-05-31T16:30:54.502848"
+      "updated_at": "2026-05-31T16:30:54.502848",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing maize under normal circumstances?",
+        "options_en": [
+          "18-20 kg/hectare",
+          "8-10 kg/hectare",
+          "30-40 kg/hectare",
+          "50-60 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful maize cultivation and achieving desired plant population is 18-20 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में सोयाबीन की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -206,7 +326,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "984f8a5f-3ded-51d7-a4c3-b90fabd31726",
-      "updated_at": "2026-05-31T16:30:54.502858"
+      "updated_at": "2026-05-31T16:30:54.502858",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing soybean under normal circumstances?",
+        "options_en": [
+          "75-80 kg/hectare",
+          "30-40 kg/hectare",
+          "120-150 kg/hectare",
+          "10-15 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful soybean cultivation and achieving desired plant population is 75-80 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में मूंग की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -222,7 +352,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "319a0837-b09f-5caa-973a-6a2e1de497d2",
-      "updated_at": "2026-05-31T16:30:54.502867"
+      "updated_at": "2026-05-31T16:30:54.502867",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing of moong under normal circumstances?",
+        "options_en": [
+          "15-20 kg/hectare",
+          "40-50 kg/hectare",
+          "5-8 kg/hectare",
+          "80-100 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of moong and obtaining the desired plant population is 15-20 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में उड़द की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -238,7 +378,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "cc7c991b-47cc-5c1f-8fc2-4dc8614d471c",
-      "updated_at": "2026-05-31T16:30:54.502876"
+      "updated_at": "2026-05-31T16:30:54.502876",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing urad under normal circumstances?",
+        "options_en": [
+          "15-20 kg/hectare",
+          "40-50 kg/hectare",
+          "5-8 kg/hectare",
+          "80-100 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of urad and obtaining the desired plant population is 15-20 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में बाजरा की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -254,7 +404,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "178fc3a6-69d0-59c6-8ca0-d7cf56b7edfb",
-      "updated_at": "2026-05-31T16:30:54.502885"
+      "updated_at": "2026-05-31T16:30:54.502885",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing of millet under normal circumstances?",
+        "options_en": [
+          "4-5 kg/hectare",
+          "12-15 kg/hectare",
+          "20-25 kg/hectare",
+          "1-2 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of millet and obtaining the desired plant population is 4-5 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में आलू की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -270,7 +430,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "70e66705-e887-5996-9254-d4579300d083",
-      "updated_at": "2026-05-31T16:30:54.502894"
+      "updated_at": "2026-05-31T16:30:54.502894",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing potatoes under normal circumstances?",
+        "options_en": [
+          "25-30 quintal/hectare",
+          "10-12 quintal/hectare",
+          "45-50 quintal/hectare",
+          "5-8 quintal/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of potato and obtaining the desired plant population is 25-30 quintals/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में मटर की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -286,7 +456,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "24af1ffc-e5b2-5b53-80fa-f2fa5b5dbf11",
-      "updated_at": "2026-05-31T16:30:54.502905"
+      "updated_at": "2026-05-31T16:30:54.502905",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing peas under normal circumstances?",
+        "options_en": [
+          "80-100 kg/hectare",
+          "30-40 kg/hectare",
+          "120-150 kg/hectare",
+          "10-15 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful pea cultivation and achieving desired plant population is 80-100 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में जौ की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -302,7 +482,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "ec4cd883-2881-5f05-96c7-1f847e3c1326",
-      "updated_at": "2026-05-31T16:30:54.502914"
+      "updated_at": "2026-05-31T16:30:54.502914",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing barley under normal circumstances?",
+        "options_en": [
+          "100 kg/hectare",
+          "50 kg/hectare",
+          "150 kg/hectare",
+          "20 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of barley and achieving the desired plant population is 100 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में मसूर की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -318,7 +508,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "c85c269e-2d14-508a-bb21-7c1784f38ad7",
-      "updated_at": "2026-05-31T16:30:54.502923"
+      "updated_at": "2026-05-31T16:30:54.502923",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing lentils under normal circumstances?",
+        "options_en": [
+          "30-35 kg/hectare",
+          "70-80 kg/hectare",
+          "10-12 kg/hectare",
+          "100 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful cultivation of lentil and obtaining the desired plant population is 30-35 kg/hectare."
+      }
     },
     {
       "question": "सामान्य परिस्थितियों में सूरजमुखी की बुवाई के लिए प्रति हेक्टेयर औसत बीज दर (Seed Rate) कितनी होनी चाहिए?",
@@ -334,7 +534,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "c0b6d996-0000-57f6-9fac-0d110044021a",
-      "updated_at": "2026-05-31T16:30:54.502932"
+      "updated_at": "2026-05-31T16:30:54.502932",
+      "extra_data": {
+        "question_en": "What should be the average seed rate per hectare for sowing sunflower under normal circumstances?",
+        "options_en": [
+          "8-10 kg/hectare",
+          "20-25 kg/hectare",
+          "2-3 kg/hectare",
+          "40-50 kg/hectare"
+        ],
+        "explanation_en": "The recommended seed rate per hectare for successful sunflower cultivation and obtaining the desired plant population is 8-10 kg/hectare."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 40 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -350,7 +560,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "b5c30ae6-477d-581d-9253-c200a27a9a3a",
-      "updated_at": "2026-05-31T16:30:54.502942"
+      "updated_at": "2026-05-31T16:30:54.502942",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 40 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "87 kg",
+          "117 kg",
+          "67 kg",
+          "80 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (40 / 46) * 100 = 87 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 45 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -366,7 +586,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "b0c2c9ce-0170-574d-b179-cf7713a1ceb2",
-      "updated_at": "2026-05-31T16:30:54.502951"
+      "updated_at": "2026-05-31T16:30:54.502951",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 45 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "98 kg",
+          "128 kg",
+          "78 kg",
+          "90 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (45 / 46) * 100 = 98 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 50 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -382,7 +612,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "e4959f52-4051-5470-b9d6-cae06cef1f17",
-      "updated_at": "2026-05-31T16:30:54.502961"
+      "updated_at": "2026-05-31T16:30:54.502961",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 50 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "109 kg",
+          "139 kg",
+          "89 kg",
+          "100 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (50 / 46) * 100 = 109 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 55 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -398,7 +638,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "b262d317-1635-5e82-ad22-051a8a82d725",
-      "updated_at": "2026-05-31T16:30:54.502970"
+      "updated_at": "2026-05-31T16:30:54.502970",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 55 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "120 kg",
+          "150 kg",
+          "100 kg",
+          "110 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (55 / 46) * 100 = 120 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 60 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -414,7 +664,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "d4141da3-a457-5507-beae-b66a1e5951e0",
-      "updated_at": "2026-05-31T16:30:54.502979"
+      "updated_at": "2026-05-31T16:30:54.502979",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 60 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "130 kg",
+          "160 kg",
+          "110 kg",
+          "120 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (60 / 46) * 100 = 130 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 65 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -430,7 +690,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "50658a4e-549b-5338-8d5d-52476d574117",
-      "updated_at": "2026-05-31T16:30:54.502989"
+      "updated_at": "2026-05-31T16:30:54.502989",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 65 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "141 kg",
+          "171 kg",
+          "121 kg",
+          "130 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (65 / 46) * 100 = 141 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 70 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -446,7 +716,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "d591bf18-3b6d-5d7d-b77c-dfa81f4a50cc",
-      "updated_at": "2026-05-31T16:30:54.502998"
+      "updated_at": "2026-05-31T16:30:54.502998",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 70 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "152 kg",
+          "182 kg",
+          "132 kg",
+          "140 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (70 / 46) * 100 = 152 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 75 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -462,7 +742,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "040ee8bb-4bd8-5387-8d9b-a7e0a1a51946",
-      "updated_at": "2026-05-31T16:30:54.503007"
+      "updated_at": "2026-05-31T16:30:54.503007",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 75 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "163 kg",
+          "193 kg",
+          "143 kg",
+          "150 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (75 / 46) * 100 = 163 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 80 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -478,7 +768,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "6027a9ee-bc03-5526-b686-1255cfe269d5",
-      "updated_at": "2026-05-31T16:30:54.503016"
+      "updated_at": "2026-05-31T16:30:54.503016",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 80 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "174 kg",
+          "204 kg",
+          "154 kg",
+          "160 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (80 / 46) * 100 = 174 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 85 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -494,7 +794,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "7bea7f92-1ecb-57b4-997e-3a24aa6b0342",
-      "updated_at": "2026-05-31T16:30:54.503026"
+      "updated_at": "2026-05-31T16:30:54.503026",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 85 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "185 kg",
+          "215 kg",
+          "165 kg",
+          "170 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (85 / 46) * 100 = 185 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 90 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -510,7 +820,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "1269e0a4-35d6-5f57-afdc-8e3a1a503b9b",
-      "updated_at": "2026-05-31T16:30:54.503035"
+      "updated_at": "2026-05-31T16:30:54.503035",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 90 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "196 kg",
+          "226 kg",
+          "176 kg",
+          "180 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (90 / 46) * 100 = 196 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 95 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -526,7 +846,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "f376543e-f7a7-5e12-a51d-6898cdc05762",
-      "updated_at": "2026-05-31T16:30:54.503045"
+      "updated_at": "2026-05-31T16:30:54.503045",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 95 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "207 kg",
+          "237 kg",
+          "187 kg",
+          "190 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (95 / 46) * 100 = 207 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 100 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -542,7 +872,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "778e6067-180c-580d-af92-fd431363287d",
-      "updated_at": "2026-05-31T16:30:54.503054"
+      "updated_at": "2026-05-31T16:30:54.503054",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 100 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "217 kg",
+          "247 kg",
+          "197 kg",
+          "200 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (100 / 46) * 100 = 217 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 105 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -558,7 +898,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "47ec34c0-9ed3-5fc3-af83-ad8c84d6871b",
-      "updated_at": "2026-05-31T16:30:54.503064"
+      "updated_at": "2026-05-31T16:30:54.503064",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 105 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "228 kg",
+          "258 kg",
+          "208 kg",
+          "210 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (105 / 46) * 100 = 228 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 110 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -574,7 +924,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "864dc01f-dcc1-5535-9f32-11ac3f7d4c5a",
-      "updated_at": "2026-05-31T16:30:54.503073"
+      "updated_at": "2026-05-31T16:30:54.503073",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 110 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "239 kg",
+          "269 ​​kg",
+          "219 kg",
+          "220 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (110 / 46) * 100 = 239 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 120 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -590,7 +950,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "1c828aaa-416c-5f81-b0fc-5dce1e651913",
-      "updated_at": "2026-05-31T16:30:54.503101"
+      "updated_at": "2026-05-31T16:30:54.503101",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 120 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "261 kg",
+          "291 kg",
+          "241 kg",
+          "240 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (120 / 46) * 100 = 261 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 125 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -606,7 +976,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "ee79e7ab-0ed1-56c2-9a78-914d2a37e2e3",
-      "updated_at": "2026-05-31T16:30:54.503110"
+      "updated_at": "2026-05-31T16:30:54.503110",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 125 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "272 kg",
+          "302 kg",
+          "252 kg",
+          "250 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (125 / 46) * 100 = 272 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 130 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -622,7 +1002,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "d1257f5f-2823-50f5-9d96-a166ce04bfc1",
-      "updated_at": "2026-05-31T16:30:54.503119"
+      "updated_at": "2026-05-31T16:30:54.503119",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 130 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "283 kg",
+          "313 kg",
+          "263 kg",
+          "260 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (130 / 46) * 100 = 283 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 135 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -638,7 +1028,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "80fb6c38-c2f7-568e-aa50-a0e51b32bca2",
-      "updated_at": "2026-05-31T16:30:54.503129"
+      "updated_at": "2026-05-31T16:30:54.503129",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 135 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "293 kg",
+          "323 kg",
+          "273 kg",
+          "270 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (135 / 46) * 100 = 293 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 140 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -654,7 +1054,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "fc9291c4-9e8e-5ffe-acd7-33ea3e64f915",
-      "updated_at": "2026-05-31T16:30:54.503138"
+      "updated_at": "2026-05-31T16:30:54.503138",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 140 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "304 kg",
+          "334 kg",
+          "284 kg",
+          "280 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (140 / 46) * 100 = 304 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 145 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -670,7 +1080,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "0e5948c3-6095-53c6-8929-665869273a0e",
-      "updated_at": "2026-05-31T16:30:54.503147"
+      "updated_at": "2026-05-31T16:30:54.503147",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 145 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "315 kg",
+          "345 kg",
+          "295 kg",
+          "290 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (145 / 46) * 100 = 315 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 150 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -686,7 +1106,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "f298f6bd-4bb2-5adc-828c-7d4a60851076",
-      "updated_at": "2026-05-31T16:30:54.503156"
+      "updated_at": "2026-05-31T16:30:54.503156",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 150 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "326 kg",
+          "356 kg",
+          "306 kg",
+          "300 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (150 / 46) * 100 = 326 kg approx."
+      }
     },
     {
       "question": "यदि एक किसान को अपने 1 हेक्टेयर खेत में 155 किलोग्राम नाइट्रोजन (N) देना है, तो उसे बाजार से कितने किलोग्राम 'यूरिया' (Urea, 46% N) लाकर डालना होगा?",
@@ -702,7 +1132,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "c5329cde-dceb-578e-8624-4c5632bcb748",
-      "updated_at": "2026-05-31T16:30:54.503165"
+      "updated_at": "2026-05-31T16:30:54.503165",
+      "extra_data": {
+        "question_en": "If a farmer has to apply 155 kg of Nitrogen (N) in his 1 hectare field, then how many kg of 'Urea' (46% N) will he have to bring from the market?",
+        "options_en": [
+          "337 kg",
+          "367 kg",
+          "317 kg",
+          "310 kg"
+        ],
+        "explanation_en": "Urea contains 46% nitrogen. Formula: Urea quantity = (Desired nitrogen quantity / 46) * 100 = (155 / 46) * 100 = 337 kg approx."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 20 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -718,7 +1158,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "ec5d7b8e-1a8d-5070-8338-19b867107b79",
-      "updated_at": "2026-05-31T16:30:54.503175"
+      "updated_at": "2026-05-31T16:30:54.503175",
+      "extra_data": {
+        "question_en": "If a crop requires 20 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "125 kg",
+          "175 kg",
+          "85 kg",
+          "60 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (20 / 16) * 100 = 125 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 25 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -734,7 +1184,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "08360407-898f-56ac-8a08-e71876532ee4",
-      "updated_at": "2026-05-31T16:30:54.503184"
+      "updated_at": "2026-05-31T16:30:54.503184",
+      "extra_data": {
+        "question_en": "If a crop requires 25 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "156 kg",
+          "206 kg",
+          "116 kg",
+          "75 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (25 / 16) * 100 = 156 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 30 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -750,7 +1210,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "92c5096c-2416-57fc-a3ae-8a8d438fe5bd",
-      "updated_at": "2026-05-31T16:30:54.503193"
+      "updated_at": "2026-05-31T16:30:54.503193",
+      "extra_data": {
+        "question_en": "If a crop requires 30 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "188 kg",
+          "238 kg",
+          "148 kg",
+          "90 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (30 / 16) * 100 = 188 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 35 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -766,7 +1236,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "0242551b-996c-5b33-b04d-fc751837ec24",
-      "updated_at": "2026-05-31T16:30:54.503202"
+      "updated_at": "2026-05-31T16:30:54.503202",
+      "extra_data": {
+        "question_en": "If a crop requires 35 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "219 kg",
+          "269 ​​kg",
+          "179 kg",
+          "105 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (35 / 16) * 100 = 219 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 40 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -782,7 +1262,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "40edf2d9-2fcd-59be-93f1-86e036686dc4",
-      "updated_at": "2026-05-31T16:30:54.503211"
+      "updated_at": "2026-05-31T16:30:54.503211",
+      "extra_data": {
+        "question_en": "If a crop requires 40 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "250 kg",
+          "300 kg",
+          "210 kg",
+          "120 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (40 / 16) * 100 = 250 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 45 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -798,7 +1288,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "66bcbdda-0077-57dd-90e9-965ecec9e044",
-      "updated_at": "2026-05-31T16:30:54.503220"
+      "updated_at": "2026-05-31T16:30:54.503220",
+      "extra_data": {
+        "question_en": "If a crop requires 45 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "281 kg",
+          "331 kg",
+          "241 kg",
+          "135 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (45 / 16) * 100 = 281 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 50 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -814,7 +1314,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "a145c512-e3d9-5f68-b9bb-fcb3d3198e5f",
-      "updated_at": "2026-05-31T16:30:54.503230"
+      "updated_at": "2026-05-31T16:30:54.503230",
+      "extra_data": {
+        "question_en": "If a crop requires 50 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "312 kg",
+          "362 kg",
+          "272 kg",
+          "150 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (50 / 16) * 100 = 312 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 55 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -830,7 +1340,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "91a64ecd-564d-527c-90cb-dd90929781ac",
-      "updated_at": "2026-05-31T16:30:54.503239"
+      "updated_at": "2026-05-31T16:30:54.503239",
+      "extra_data": {
+        "question_en": "If a crop requires 55 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "344 kg",
+          "394 kg",
+          "304 kg",
+          "165 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (55 / 16) * 100 = 344 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 60 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -846,7 +1366,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "af5250cd-b3e2-5286-bd25-7d5c790fdf9b",
-      "updated_at": "2026-05-31T16:30:54.503248"
+      "updated_at": "2026-05-31T16:30:54.503248",
+      "extra_data": {
+        "question_en": "If a crop requires 60 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "375 kg",
+          "425 kg",
+          "335 kg",
+          "180 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (60 / 16) * 100 = 375 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 65 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -862,7 +1392,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "553c32aa-968e-57cf-9e55-b8478ce2f114",
-      "updated_at": "2026-05-31T16:30:54.503257"
+      "updated_at": "2026-05-31T16:30:54.503257",
+      "extra_data": {
+        "question_en": "If a crop requires 65 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "406 kg",
+          "456 kg",
+          "366 kg",
+          "195 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (65 / 16) * 100 = 406 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 70 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -878,7 +1418,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "d03a58df-3859-57d0-8353-bb49f3dc95e1",
-      "updated_at": "2026-05-31T16:30:54.503266"
+      "updated_at": "2026-05-31T16:30:54.503266",
+      "extra_data": {
+        "question_en": "If a crop requires 70 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "438 kg",
+          "488 kg",
+          "398 kg",
+          "210 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (70 / 16) * 100 = 438 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 75 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -894,7 +1444,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "1ad2dd3c-07e1-5aa8-88a8-a7d6d4194abb",
-      "updated_at": "2026-05-31T16:30:54.503275"
+      "updated_at": "2026-05-31T16:30:54.503275",
+      "extra_data": {
+        "question_en": "If a crop requires 75 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "469 kg",
+          "519 kg",
+          "429 kg",
+          "225 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (75 / 16) * 100 = 469 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 80 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -910,7 +1470,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "3548cc73-c60f-5789-bf26-f7602b1d0b09",
-      "updated_at": "2026-05-31T16:30:54.503284"
+      "updated_at": "2026-05-31T16:30:54.503284",
+      "extra_data": {
+        "question_en": "If a crop requires 80 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "500 kg",
+          "550 kg",
+          "460 kg",
+          "240 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (80 / 16) * 100 = 500 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 85 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -926,7 +1496,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "5b5d8196-108b-5f58-b2de-b29a9926143a",
-      "updated_at": "2026-05-31T16:30:54.503293"
+      "updated_at": "2026-05-31T16:30:54.503293",
+      "extra_data": {
+        "question_en": "If a crop requires 85 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "531 kg",
+          "581 kg",
+          "491 kg",
+          "255 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (85 / 16) * 100 = 531 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 90 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -942,7 +1522,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "5a632a93-5ae2-5cd3-8e8f-03cdacd59e88",
-      "updated_at": "2026-05-31T16:30:54.503302"
+      "updated_at": "2026-05-31T16:30:54.503302",
+      "extra_data": {
+        "question_en": "If a crop requires 90 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "562 kg",
+          "612 kg",
+          "522 kg",
+          "270 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (90 / 16) * 100 = 562 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 95 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -958,7 +1548,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "146fb514-96fd-553c-b32d-576b7a98166a",
-      "updated_at": "2026-05-31T16:30:54.503312"
+      "updated_at": "2026-05-31T16:30:54.503312",
+      "extra_data": {
+        "question_en": "If a crop requires 95 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "594 kg",
+          "644 kg",
+          "554 kg",
+          "285 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (95 / 16) * 100 = 594 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 100 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -974,7 +1574,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "c6d105e8-b124-5962-897e-964d05778887",
-      "updated_at": "2026-05-31T16:30:54.503321"
+      "updated_at": "2026-05-31T16:30:54.503321",
+      "extra_data": {
+        "question_en": "If a crop requires 100 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "625 kg",
+          "675 kg",
+          "585 kg",
+          "300 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (100 / 16) * 100 = 625 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 105 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -990,7 +1600,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "73f98723-1844-587e-8769-308a4ca5a3ce",
-      "updated_at": "2026-05-31T16:30:54.503337"
+      "updated_at": "2026-05-31T16:30:54.503337",
+      "extra_data": {
+        "question_en": "If a crop requires 105 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "656 kg",
+          "706 kg",
+          "616 kg",
+          "315 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (105 / 16) * 100 = 656 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 110 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -1006,7 +1626,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "f2d228e1-86b3-5de3-8881-740cbf271bde",
-      "updated_at": "2026-05-31T16:30:54.503350"
+      "updated_at": "2026-05-31T16:30:54.503350",
+      "extra_data": {
+        "question_en": "If a crop requires 110 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "688 kg",
+          "738 kg",
+          "648 kg",
+          "330 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (110 / 16) * 100 = 688 kg."
+      }
     },
     {
       "question": "यदि किसी फसल के लिए प्रति हेक्टेयर 115 किलोग्राम फास्फोरस की आवश्यकता है, तो आवश्यक 'सिंगल सुपर फास्फेट' (SSP, 16% P2O5) की मात्रा क्या होगी?",
@@ -1022,7 +1652,17 @@
       "subCategory": "उर्वरक गणना",
       "difficulty": "medium",
       "uuid": "45e41d01-9a34-56e4-8f4b-4f50fdc775a9",
-      "updated_at": "2026-05-31T16:30:54.503359"
+      "updated_at": "2026-05-31T16:30:54.503359",
+      "extra_data": {
+        "question_en": "If a crop requires 115 kg phosphorus per hectare, what will be the quantity of 'single super phosphate' (SSP, 16% P2O5) required?",
+        "options_en": [
+          "719 kg",
+          "769 kg",
+          "679 kg",
+          "345 kg"
+        ],
+        "explanation_en": "SSP contains 16% phosphorus. Formula: Required SSP = (Desired Phosphorus / 16) * 100 = (115 / 16) * 100 = 719 kg."
+      }
     },
     {
       "question": "अम्लीय मृदा (Acidic Soil) के रासायनिक सुधार के लिए निम्नलिखित में से किस भूमि सुधारक (Soil Conditioner) का मुख्य रूप से उपयोग किया जाता है?",
@@ -1038,7 +1678,17 @@
       "subCategory": "मृदा विज्ञान (Soil Science)",
       "difficulty": "medium",
       "uuid": "6c9dd46c-7823-5608-978e-9a0cddf0c653",
-      "updated_at": "2026-05-31T16:30:54.503369"
+      "updated_at": "2026-05-31T16:30:54.503369",
+      "extra_data": {
+        "question_en": "Which of the following soil conditioners is mainly used for chemical improvement of acidic soil?",
+        "options_en": [
+          "Lime",
+          "gypsum",
+          "pyrite",
+          "urea"
+        ],
+        "explanation_en": "Lime is used to improve acidic soil, which is helpful in balancing soil pH and improving its physical structure."
+      }
     },
     {
       "question": "क्षारीय मृदा (Alkaline Soil) के रासायनिक सुधार के लिए निम्नलिखित में से किस भूमि सुधारक (Soil Conditioner) का मुख्य रूप से उपयोग किया जाता है?",
@@ -1054,23 +1704,43 @@
       "subCategory": "मृदा विज्ञान (Soil Science)",
       "difficulty": "medium",
       "uuid": "8dc2f59e-155f-5280-b1e5-c6eb990f938f",
-      "updated_at": "2026-05-31T16:30:54.503379"
+      "updated_at": "2026-05-31T16:30:54.503379",
+      "extra_data": {
+        "question_en": "Which of the following soil conditioners is mainly used for chemical improvement of alkaline soil?",
+        "options_en": [
+          "Gypsum",
+          "Lime",
+          "ammonium sulphate",
+          "leaching"
+        ],
+        "explanation_en": "Gypsum is used to improve alkaline soil, which is helpful in balancing soil pH and improving its physical structure."
+      }
     },
     {
       "question": "लवणीय मृदा (Saline Soil) के रासायनिक सुधार के लिए निम्नलिखित में से किस भूमि सुधारक (Soil Conditioner) का मुख्य रूप से उपयोग किया जाता है?",
       "options": [
-        "निक्षालन (Leaching / जल भराव करके पानी बाहर निकालना)",
+        "निक्षालन",
         "जिप्सम",
         "चूना",
         "उर्वरक डालना"
       ],
       "correctIndex": 0,
-      "explanation": "लवणीय मृदा (Saline Soil) के सुधार के लिए निक्षालन (Leaching / जल भराव करके पानी बाहर निकालना) का उपयोग किया जाता है जो मृदा पीएच (pH) को संतुलित करने और उसकी भौतिक संरचना को सुधारने में सहायक है।",
+      "explanation": "लवणीय मृदा (Saline Soil) के सुधार के लिए निक्षालन (Leaching / जल भराव करके पानी बाहर निकालना) का उपयोग किया जाता है जो मृदा पीएच (pH) को संतुलित करने और उसकी भौतिक संरचना को सुधारने में सहायक है। (Leaching / जल भराव करके पानी बाहर निकालना)",
       "questionType": "mcq",
       "subCategory": "मृदा विज्ञान (Soil Science)",
       "difficulty": "medium",
       "uuid": "61217b69-a869-5e34-b545-c1fc699dada1",
-      "updated_at": "2026-05-31T16:30:54.503388"
+      "updated_at": "2026-05-31T16:30:54.503388",
+      "extra_data": {
+        "question_en": "Which of the following soil conditioners is mainly used for chemical improvement of saline soil?",
+        "options_en": [
+          "Leaching (taking out water by flooding)",
+          "gypsum",
+          "Lime",
+          "applying fertilizer"
+        ],
+        "explanation_en": "Leaching is used to improve saline soil, which is helpful in balancing the soil pH and improving its physical structure."
+      }
     },
     {
       "question": "सोडिक मृदा (Sodic Soil) के रासायनिक सुधार के लिए निम्नलिखित में से किस भूमि सुधारक (Soil Conditioner) का मुख्य रूप से उपयोग किया जाता है?",
@@ -1086,7 +1756,17 @@
       "subCategory": "मृदा विज्ञान (Soil Science)",
       "difficulty": "medium",
       "uuid": "c9588bf6-ddc5-5b09-9433-ace4705f4d8e",
-      "updated_at": "2026-05-31T16:30:54.503397"
+      "updated_at": "2026-05-31T16:30:54.503397",
+      "extra_data": {
+        "question_en": "Which of the following soil conditioners is mainly used for chemical improvement of sodic soil?",
+        "options_en": [
+          "Pyrite or Gypsum",
+          "Lime",
+          "potash",
+          "cow dung Manure"
+        ],
+        "explanation_en": "To improve Sodic Soil, Pyrite or Gypsum is used which is helpful in balancing the soil pH and improving its physical structure."
+      }
     },
     {
       "question": "धान (Rice) की फसल में लगने वाला प्रसिद्ध 'खैरा रोग (Khaira)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1102,7 +1782,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "55c501f6-2a70-5413-9eac-805ca36bec6b",
-      "updated_at": "2026-05-31T16:30:54.503407"
+      "updated_at": "2026-05-31T16:30:54.503407",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Khaira disease' in rice crop?",
+        "options_en": [
+          "Zinc deficiency",
+          "nitrogen deficiency",
+          "fungal infection",
+          "bacterial infection"
+        ],
+        "explanation_en": "'Khaira disease' in paddy is mainly caused by the deficiency of zinc. To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "गेहूं (Wheat) की फसल में लगने वाला प्रसिद्ध 'करनाल बंट (Karnal Bunt)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1118,7 +1808,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "5d7f457c-e3fa-5018-bf2b-4f91bc82c958",
-      "updated_at": "2026-05-31T16:30:54.503416"
+      "updated_at": "2026-05-31T16:30:54.503416",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Karnal Bunt' disease in wheat crop?",
+        "options_en": [
+          "Fungus (Tilletia indica)",
+          "bacteria",
+          "virus",
+          "zinc deficiency"
+        ],
+        "explanation_en": "'Karnal Bunt' disease in wheat is mainly caused by fungus (Tilletia indica). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "गेहूं (Wheat) की फसल में लगने वाला प्रसिद्ध 'गेरूई/रस्ट (Rust)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1134,7 +1834,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "63cc4efa-eb32-59e2-a1f6-29eb114cd898",
-      "updated_at": "2026-05-31T16:30:54.503426"
+      "updated_at": "2026-05-31T16:30:54.503426",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Rust' disease in wheat crop?",
+        "options_en": [
+          "Fungus (Puccinia recondita)",
+          "bacteria",
+          "Nematode",
+          "copper deficiency"
+        ],
+        "explanation_en": "'Rust' disease in wheat is mainly caused by fungus (Puccinia recondita). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "गन्ना (Sugarcane) की फसल में लगने वाला प्रसिद्ध 'लाल सड़न रोग (Red Rot)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1150,7 +1860,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "78cc5fc9-d1e5-5db5-8568-0bff957116a9",
-      "updated_at": "2026-05-31T16:30:54.503435"
+      "updated_at": "2026-05-31T16:30:54.503435",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Red Rot' disease in sugarcane crop?",
+        "options_en": [
+          "Fungus (Colletotrichum falcatum)",
+          "bacteria",
+          "virus",
+          "boron deficiency"
+        ],
+        "explanation_en": "'Red Rot' disease in sugarcane is mainly caused by fungus (Colletotrichum falcatum). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "आलू (Potato) की फसल में लगने वाला प्रसिद्ध 'अगेती झुलसा (Early Blight)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1166,7 +1886,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "af154b4b-b314-56fe-8aab-b93a8243caf3",
-      "updated_at": "2026-05-31T16:30:54.503444"
+      "updated_at": "2026-05-31T16:30:54.503444",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Early Blight' disease in potato crop?",
+        "options_en": [
+          "Fungus (Alternaria solani)",
+          "bacteria",
+          "mycoplasma",
+          "potash deficiency"
+        ],
+        "explanation_en": "'Early Blight' disease in potato is mainly caused by fungus (Alternaria solani). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "आलू (Potato) की फसल में लगने वाला प्रसिद्ध 'पछेती झुलसा (Late Blight)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1182,7 +1912,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "a252e8de-ee66-51c1-81c6-6298dcee8391",
-      "updated_at": "2026-05-31T16:30:54.503453"
+      "updated_at": "2026-05-31T16:30:54.503453",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Late Blight' disease of potato crop?",
+        "options_en": [
+          "Fungus (Phytophthora infestans)",
+          "bacteria",
+          "virus",
+          "lack of irrigation"
+        ],
+        "explanation_en": "'Late Blight' disease in potato is mainly caused by fungus (Phytophthora infestans). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "चना (Chickpea) की फसल में लगने वाला प्रसिद्ध 'उकठा रोग (Wilt)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1198,7 +1938,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "f49a9dd8-63d7-5941-b215-932fc4961e63",
-      "updated_at": "2026-05-31T16:30:54.503462"
+      "updated_at": "2026-05-31T16:30:54.503462",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Wilt' disease of chickpea crop?",
+        "options_en": [
+          "Fungus (Fusarium oxysporum)",
+          "bacteria",
+          "iron deficiency",
+          "excess of water"
+        ],
+        "explanation_en": "'Wilt' disease in chickpea is mainly caused by fungus (Fusarium oxysporum). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "सरसों (Mustard) की फसल में लगने वाला प्रसिद्ध 'सफेद गेरूई (White Rust)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1214,7 +1964,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "33d05cec-a4d1-531b-8f88-58633bbc2117",
-      "updated_at": "2026-05-31T16:30:54.503471"
+      "updated_at": "2026-05-31T16:30:54.503471",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'White Rust' disease in mustard crop?",
+        "options_en": [
+          "Fungus (Albugo candida)",
+          "bacteria",
+          "virus",
+          "nitrogen deficiency"
+        ],
+        "explanation_en": "'White Rust' disease in mustard is mainly caused by fungus (Albugo candida). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "बाजरा (Bajra) की फसल में लगने वाला प्रसिद्ध 'अरगट रोग (Ergot)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1230,7 +1990,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "52f30b0b-7568-5c00-86e9-e6c9d80e95ec",
-      "updated_at": "2026-05-31T16:30:54.503481"
+      "updated_at": "2026-05-31T16:30:54.503481",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Ergot disease' of millet crop?",
+        "options_en": [
+          "Fungus (Claviceps fusiformis)",
+          "bacteria",
+          "virus",
+          "phosphorus deficiency"
+        ],
+        "explanation_en": "Ergot disease in millet is mainly caused by fungus (Claviceps fusiformis). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "कपास (Cotton) की फसल में लगने वाला प्रसिद्ध 'ब्लैक आर्म (Black Arm)' रोग का मुख्य कारण या रोगजनक (Pathogen) क्या है?",
@@ -1246,7 +2016,17 @@
       "subCategory": "पादप रोग विज्ञान (Plant Pathology)",
       "difficulty": "hard",
       "uuid": "3e797531-5ecd-54de-b498-13301a5f7400",
-      "updated_at": "2026-05-31T16:30:54.503490"
+      "updated_at": "2026-05-31T16:30:54.503490",
+      "extra_data": {
+        "question_en": "What is the main cause or pathogen of the famous 'Black Arm' disease in cotton crop?",
+        "options_en": [
+          "Bacteria (Xanthomonas)",
+          "fungus",
+          "virus",
+          "Nematode"
+        ],
+        "explanation_en": "'Black Arm' disease in cotton is mainly caused by bacteria (Xanthomonas). To control it, fungicide or zinc sulphate is sprayed."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'अल्फांसो, दशहरी, चौंसा, आम्रपाली' किस फसल से संबंधित हैं?",
@@ -1262,7 +2042,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "5abab797-d494-51f1-8495-3e1aa8ec088a",
-      "updated_at": "2026-05-31T16:30:54.503499"
+      "updated_at": "2026-05-31T16:30:54.503499",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Alphonso, Dussehri, Chaunsa, Amrapali' are related to which crop?",
+        "options_en": [
+          "Mango",
+          "Apple",
+          "Papaya",
+          "litchi"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Mango', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'कुफरी चंद्रमुखी, कुफरी ज्योति, कुफरी सिंदूरी' किस फसल से संबंधित हैं?",
@@ -1278,7 +2068,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "1bf46545-5627-5609-a1ad-7f06506e6d84",
-      "updated_at": "2026-05-31T16:30:54.503508"
+      "updated_at": "2026-05-31T16:30:54.503508",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Kufri Chandramukhi, Kufri Jyoti, Kufri Sindoori' are related to which crop?",
+        "options_en": [
+          "Potato",
+          "Tomato",
+          "Eggplant",
+          "sweet potatoes"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Potato', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'पूसा रूबी, अर्का विकास, पूसा गौरव' किस फसल से संबंधित हैं?",
@@ -1294,7 +2094,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "c91de206-160d-53e2-97d8-e11ffe1b945b",
-      "updated_at": "2026-05-31T16:30:54.503517"
+      "updated_at": "2026-05-31T16:30:54.503517",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Pusa Ruby, Arka Vikas, Pusa Gaurav' are related to which crop?",
+        "options_en": [
+          "Tomato",
+          "chili",
+          "Cauliflower",
+          "ladyfinger"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Tomato', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'रेड डिलीशियस, रॉयल डिलीशियस, गोल्डन डिलीशियस' किस फसल से संबंधित हैं?",
@@ -1310,7 +2120,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "531cdc9e-655a-5cad-93d7-4aa6740247d3",
-      "updated_at": "2026-05-31T16:30:54.503526"
+      "updated_at": "2026-05-31T16:30:54.503526",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Red Delicious, Royal Delicious, Golden Delicious' are related to which crop?",
+        "options_en": [
+          "Apple",
+          "Pear",
+          "peach",
+          "Apricot"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Apple', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'शाही, देहरादून, रोज सेंटेड' किस फसल से संबंधित हैं?",
@@ -1326,7 +2146,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "53fefc24-85aa-5713-a3c0-e80bf8f5f121",
-      "updated_at": "2026-05-31T16:30:54.503535"
+      "updated_at": "2026-05-31T16:30:54.503535",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Shahi, Dehradun, Rose Scented' are related to which crop?",
+        "options_en": [
+          "Litchi",
+          "Mango",
+          "Papaya",
+          "Guava"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Litchi', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'पूसा नन्हा, पूसा ड्वार्फ, हनी ड्यू' किस फसल से संबंधित हैं?",
@@ -1342,7 +2172,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "296d8d0b-1ccc-547f-a8ea-e4a63b7590ba",
-      "updated_at": "2026-05-31T16:30:54.503544"
+      "updated_at": "2026-05-31T16:30:54.503544",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Pusa Nanha, Pusa Dwarf, Honey Dew' are related to which crop?",
+        "options_en": [
+          "Papaya",
+          "banana",
+          "Grape",
+          "litchi"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Papaya', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'इलाहाबाद सफेदा, लखनऊ-49 (सरदार), ललित' किस फसल से संबंधित हैं?",
@@ -1358,7 +2198,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "e7941b58-7355-5a95-9395-28c9c97a5501",
-      "updated_at": "2026-05-31T16:30:54.503554"
+      "updated_at": "2026-05-31T16:30:54.503554",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Allahabad Safeda, Lucknow-49 (Sardar), Lalit' are related to which crop?",
+        "options_en": [
+          "Guava",
+          "Mango",
+          "Lemon",
+          "Orange"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Guava', which are grown in different regions of the country."
+      }
     },
     {
       "question": "उद्यानिकी के अंतर्गत प्रसिद्ध किस्में 'अर्का अनामिका, पूसा सावनी' किस फसल से संबंधित हैं?",
@@ -1374,7 +2224,17 @@
       "subCategory": "उद्यान विज्ञान (Horticulture)",
       "difficulty": "medium",
       "uuid": "04b93082-b7d2-55b3-aff5-60104ab816cd",
-      "updated_at": "2026-05-31T16:30:54.503563"
+      "updated_at": "2026-05-31T16:30:54.503563",
+      "extra_data": {
+        "question_en": "Under horticulture, the famous varieties 'Arka Anamika, Pusa Sawani' are related to which crop?",
+        "options_en": [
+          "Okra",
+          "Eggplant",
+          "chili",
+          "Pumpkin"
+        ],
+        "explanation_en": "All these varieties are commercial and improved varieties of 'Okra', which are grown in different regions of the country."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'मुर्राह (Murrah)' किस पशु की उन्नत नस्ल है?",
@@ -1390,7 +2250,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "c2e92681-46e1-50eb-8db5-7693bd2c7029",
-      "updated_at": "2026-05-31T16:30:54.503579"
+      "updated_at": "2026-05-31T16:30:54.503579",
+      "extra_data": {
+        "question_en": "'Murrah', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "Buffalo",
+          "Cow",
+          "goat",
+          "lamb"
+        ],
+        "explanation_en": "This is a world famous breed of buffalo which is also called 'Black Gold' for the high fat and black color of milk."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'साहीवाल (Sahiwal)' किस पशु की उन्नत नस्ल है?",
@@ -1406,7 +2276,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "452402f8-a2f5-5abe-97e1-bc18ccad1c53",
-      "updated_at": "2026-05-31T16:30:54.503590"
+      "updated_at": "2026-05-31T16:30:54.503590",
+      "extra_data": {
+        "question_en": "'Sahiwal', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "Cow",
+          "Buffalo",
+          "goat",
+          "camel"
+        ],
+        "explanation_en": "This is the best indigenous milch cow breed of India, whose milk has maximum sweetness."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'जमुनापारी (Jamunapari)' किस पशु की उन्नत नस्ल है?",
@@ -1422,7 +2302,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "dc6bb6be-0621-54eb-bdbc-42830fca47e1",
-      "updated_at": "2026-05-31T16:30:54.503599"
+      "updated_at": "2026-05-31T16:30:54.503599",
+      "extra_data": {
+        "question_en": "'Jamunapari', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "goat",
+          "lamb",
+          "Buffalo",
+          "Cow"
+        ],
+        "explanation_en": "It is an improved dual-purpose (milk and meat) breed of goat with long and hanging ears."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'लोही (Lohi)' किस पशु की उन्नत नस्ल है?",
@@ -1438,7 +2328,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "97043bc4-cc3a-57dc-8414-46c1a3f3e702",
-      "updated_at": "2026-05-31T16:30:54.503609"
+      "updated_at": "2026-05-31T16:30:54.503609",
+      "extra_data": {
+        "question_en": "'Lohi', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "lamb",
+          "goat",
+          "Cow",
+          "Buffalo"
+        ],
+        "explanation_en": "It is an excellent breed of sheep known for meat and good quality wool production."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'गीर (Gir)' किस पशु की उन्नत नस्ल है?",
@@ -1454,7 +2354,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "68463cdc-e6b0-574b-9bb2-6cd2db8900af",
-      "updated_at": "2026-05-31T16:30:54.503618"
+      "updated_at": "2026-05-31T16:30:54.503618",
+      "extra_data": {
+        "question_en": "'Gir', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "Cow",
+          "Buffalo",
+          "goat",
+          "lamb"
+        ],
+        "explanation_en": "It is a major milch breed of cow belonging to the Gir forests of Gujarat."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'थारपारकर (Tharparkar)' किस पशु की उन्नत नस्ल है?",
@@ -1470,7 +2380,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "81e664a1-099c-54a8-948e-0cac96164696",
-      "updated_at": "2026-05-31T16:30:54.503627"
+      "updated_at": "2026-05-31T16:30:54.503627",
+      "extra_data": {
+        "question_en": "'Tharparkar', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "Cow",
+          "Buffalo",
+          "goat",
+          "lamb"
+        ],
+        "explanation_en": "It is a famous dual-purpose breed of cow belonging to the Thar Desert of Rajasthan which is capable of withstanding extreme heat."
+      }
     },
     {
       "question": "पशुपालन और डेयरी विज्ञान के अंतर्गत प्रसिद्ध 'बीटल (Beetal)' किस पशु की उन्नत नस्ल है?",
@@ -1486,7 +2406,17 @@
       "subCategory": "पशुपालन (Animal Husbandry)",
       "difficulty": "medium",
       "uuid": "7a7311dd-6e6a-56ee-a999-438f339d4126",
-      "updated_at": "2026-05-31T16:30:54.503636"
+      "updated_at": "2026-05-31T16:30:54.503636",
+      "extra_data": {
+        "question_en": "'Beetal', famous under animal husbandry and dairy science, is an advanced breed of which animal?",
+        "options_en": [
+          "goat",
+          "lamb",
+          "Cow",
+          "Buffalo"
+        ],
+        "explanation_en": "This is a famous breed of goat belonging to the Punjab region."
+      }
     },
     {
       "question": "फसल चक्र 'धान - गेहूं' की फसल चक्र तीव्रता (Crop Rotation Intensity) कितने प्रतिशत होगी?",
@@ -1502,7 +2432,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "77d76c61-6ad1-5462-942d-ef143bb11392",
-      "updated_at": "2026-05-31T16:30:54.503645"
+      "updated_at": "2026-05-31T16:30:54.503645",
+      "extra_data": {
+        "question_en": "What percent will be the crop rotation intensity of the crop cycle 'Paddy-Wheat'?",
+        "options_en": [
+          "200%",
+          "100%",
+          "300%",
+          "150%"
+        ],
+        "explanation_en": "Crop cycle intensity due to 2 crops being grown in 1 year = (2/1) * 100 = 200%."
+      }
     },
     {
       "question": "फसल चक्र 'मक्का - आलू - प्याज' की फसल चक्र तीव्रता (Crop Rotation Intensity) कितने प्रतिशत होगी?",
@@ -1518,7 +2458,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "c4ccc5f2-2e68-5a6a-86f9-419fe0c21bba",
-      "updated_at": "2026-05-31T16:30:54.503654"
+      "updated_at": "2026-05-31T16:30:54.503654",
+      "extra_data": {
+        "question_en": "What percent will be the crop rotation intensity of the crop cycle 'Maize-Potato-Onion'?",
+        "options_en": [
+          "300%",
+          "150%",
+          "200%",
+          "400%"
+        ],
+        "explanation_en": "3 crops are grown in 1 year, hence crop cycle intensity = (3/1) * 100 = 300%."
+      }
     },
     {
       "question": "फसल चक्र 'धान - सरसों - मूंग' की फसल चक्र तीव्रता (Crop Rotation Intensity) कितने प्रतिशत होगी?",
@@ -1534,7 +2484,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "64b81fb1-e4a5-5bca-93cd-a9561a0591ab",
-      "updated_at": "2026-05-31T16:30:54.503663"
+      "updated_at": "2026-05-31T16:30:54.503663",
+      "extra_data": {
+        "question_en": "What percent will be the Crop Rotation Intensity of the crop cycle 'Paddy-Mustard-Moong'?",
+        "options_en": [
+          "300%",
+          "100%",
+          "200%",
+          "400%"
+        ],
+        "explanation_en": "3 crops are grown in 1 year, hence intensity = (3/1) * 100 = 300%."
+      }
     },
     {
       "question": "फसल चक्र 'मक्का - गन्ना (दो वर्षीय) - पेड़ी' की फसल चक्र तीव्रता (Crop Rotation Intensity) कितने प्रतिशत होगी?",
@@ -1550,7 +2510,17 @@
       "subCategory": "सस्य विज्ञान (Agronomy)",
       "difficulty": "medium",
       "uuid": "68c1bf01-053e-516c-a59a-0145c4b23dc5",
-      "updated_at": "2026-05-31T16:30:54.503672"
+      "updated_at": "2026-05-31T16:30:54.503672",
+      "extra_data": {
+        "question_en": "What percent will be the crop rotation intensity of the crop cycle 'Maize - Sugarcane (two-year old) - Paddy'?",
+        "options_en": [
+          "150%",
+          "300%",
+          "200%",
+          "100%"
+        ],
+        "explanation_en": "3 crops are grown in 2 years (maize, sugarcane, paddy), hence intensity = (3/2) * 100 = 150%."
+      }
     },
     {
       "question": "कृषि विज्ञान के अंतर्गत निम्नलिखित में से कौन सा प्राथमिक भूपरिष्करण (Primary Tillage) यंत्र का उदाहरण है?",
@@ -1566,7 +2536,17 @@
       "subCategory": "कृषि अभियांत्रिकी (Ag Engineering)",
       "difficulty": "medium",
       "uuid": "b937aedf-801b-55c9-b9bd-3e68d6558b43",
-      "updated_at": "2026-05-31T16:30:54.503682"
+      "updated_at": "2026-05-31T16:30:54.503682",
+      "extra_data": {
+        "question_en": "Under agricultural science, which of the following is an example of primary tillage device?",
+        "options_en": [
+          "M.B. Plough",
+          "cultivator",
+          "disc harrow",
+          "rotavator"
+        ],
+        "explanation_en": "The soil turning plow is the primary tillage implement used for the first plowing of the field and turning the soil. Rest of the cultivators and disc harrows are instruments of secondary tillage."
+      }
     },
     {
       "question": "औली किस गतिविधि के लिए विशेष रूप से प्रसिद्ध है?",
@@ -1585,7 +2565,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "For which activity is Auli especially famous?",
+        "options_en": [
+          "skiing",
+          "sea ​​sailing",
+          "desert rally",
+          "coal mining"
+        ],
+        "explanation_en": "Auli of Chamoli is famous for skiing and winter tourism due to the Himalayan slopes and snow."
+      }
     },
     {
       "question": "मुनस्यारी किस जिले में स्थित प्रसिद्ध पर्वतीय स्थल है?",
@@ -1604,7 +2594,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Munsiyari is a famous hill station located in which district?",
+        "options_en": [
+          "Pithoragarh",
+          "Chamoli",
+          "Almora",
+          "Uttarkashi"
+        ],
+        "explanation_en": "Munsiyari is located near Milam and Panchachuli area in Pithoragarh district."
+      }
     },
     {
       "question": "उत्तराखंड की पर्वतीय कृषि की प्रमुख विशेषता क्या है?",
@@ -1623,7 +2623,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main feature of hill agriculture of Uttarakhand?",
+        "options_en": [
+          "terraced fields",
+          "large flat irrigated fields",
+          "desert grassland",
+          "sea ​​tide farming"
+        ],
+        "explanation_en": "Terraced fields are created on the slopes to retain soil and water."
+      }
     },
     {
       "question": "मंडुवा किस प्रकार की फसल है?",
@@ -1642,7 +2652,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of crop is Manduwa?",
+        "options_en": [
+          "coarse grain",
+          "oilseeds",
+          "fiber crop",
+          "cash tree"
+        ],
+        "explanation_en": "Manduva or Ragi is a traditional coarse grain crop of Uttarakhand."
+      }
     },
     {
       "question": "उत्तराखंड के मैदानी भागों में निम्न में से कौन-सी फसल प्रमुख है?",
@@ -1661,7 +2681,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following crops is prominent in the plains of Uttarakhand?",
+        "options_en": [
+          "wheat",
+          "Saffron",
+          "coffee",
+          "Rubber"
+        ],
+        "explanation_en": "In the Terai and plains, crops like wheat, paddy and sugarcane are prominent."
+      }
     },
     {
       "question": "उत्तराखंड के ऊँचे पर्वतीय भागों में कौन-सा फल प्रमुख बागवानी उत्पाद है?",
@@ -1680,7 +2710,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which fruit is the main horticultural product in the high mountainous regions of Uttarakhand?",
+        "options_en": [
+          "Apple",
+          "Coconut",
+          "banana",
+          "Pineapple"
+        ],
+        "explanation_en": "Apple gardening is done in high and temperate mountain areas."
+      }
     },
     {
       "question": "देहरादून क्षेत्र किस फल की बागवानी के लिए भी प्रसिद्ध है?",
@@ -1699,7 +2739,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Dehradun region is also famous for the gardening of which fruit?",
+        "options_en": [
+          "litchi",
+          "Coconut",
+          "Cashew",
+          "Dates"
+        ],
+        "explanation_en": "The climate of Dehradun is favorable for litchi production."
+      }
     },
     {
       "question": "कौसानी किस कृषि-आधारित उत्पाद के लिए प्रसिद्ध है?",
@@ -1718,7 +2768,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Kausani is famous for which agro-based product?",
+        "options_en": [
+          "Tea",
+          "coffee",
+          "Rubber",
+          "Coconut"
+        ],
+        "explanation_en": "A tradition of tea plantation and processing has developed in the Kausani region."
+      }
     },
     {
       "question": "टिहरी बाँध किस नदी पर बनाया गया है?",
@@ -1737,7 +2797,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Tehri Dam is built on which river?",
+        "options_en": [
+          "Bhagirathi",
+          "Alaknanda",
+          "Yamuna",
+          "Black"
+        ],
+        "explanation_en": "Tehri Dam is situated on the Bhagirathi River above the confluence area of ​​Bhagirathi and Bhilangana."
+      }
     },
     {
       "question": "रामगंगा बाँध किस नदी परियोजना से संबंधित है?",
@@ -1756,7 +2826,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Ramganga Dam is related to which river project?",
+        "options_en": [
+          "Ramganga",
+          "galaxy",
+          "pindar",
+          "tons"
+        ],
+        "explanation_en": "Ramganga Dam at Kalagarh is part of the Ramganga Multipurpose Project."
+      }
     },
     {
       "question": "मनेरी-भाली जलविद्युत परियोजना किस नदी पर है?",
@@ -1775,7 +2855,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Maneri-Bhali Hydroelectric Project is on which river?",
+        "options_en": [
+          "Bhagirathi",
+          "Alaknanda",
+          "Black",
+          "Kosi"
+        ],
+        "explanation_en": "The Maneri-Bhali project harnesses the hydroelectric potential of the Bhagirathi river in the Uttarkashi region."
+      }
     },
     {
       "question": "कोटेश्वर बाँध किस नदी पर स्थित है?",
@@ -1794,7 +2884,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Koteshwar Dam is situated on which river?",
+        "options_en": [
+          "Bhagirathi",
+          "Yamuna",
+          "Ramganga",
+          "Sarayu"
+        ],
+        "explanation_en": "Koteshwar Dam is located on the Bhagirathi River in the Tehri Hydroelectric Project system."
+      }
     },
     {
       "question": "उत्तराखंड के पर्वतीय क्षेत्रों में मिश्रित खेती का लाभ क्या है?",
@@ -1813,7 +2913,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the advantage of mixed farming in the hilly areas of Uttarakhand?",
+        "options_en": [
+          "Sharing risks and providing diverse food and fodder",
+          "Dependence on only one crop",
+          "soil removal",
+          "drying up water source"
+        ],
+        "explanation_en": "Mixed farming combines different crops and animal husbandry to share the risk of food, fodder and income."
+      }
     },
     {
       "question": "पारंपरिक झंगोरा किस प्रकार का अनाज है?",
@@ -1832,7 +2942,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of grain is traditional Jhangora?",
+        "options_en": [
+          "coarse grains of millet group",
+          "pulses",
+          "oilseeds",
+          "Spices"
+        ],
+        "explanation_en": "Jhangora is a traditional millet grown in Uttarakhand, translated as barnyard millet in English."
+      }
     },
     {
       "question": "पर्वतीय कृषि में वर्षाजल संरक्षण के लिए कौन-सा उपाय उपयोगी है?",
@@ -1851,7 +2971,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which solution is useful for rainwater conservation in hill agriculture?",
+        "options_en": [
+          "Small water structures and field embankments",
+          "open drain on slope",
+          "deforestation",
+          "bridging all sources"
+        ],
+        "explanation_en": "Embankments, check dams and small water structures conserve soil and moisture by trapping water."
+      }
     },
     {
       "question": "उत्तराखंड में जैविक और पारंपरिक खेती को बढ़ावा देने का एक लाभ क्या है?",
@@ -1870,7 +3000,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is one advantage of promoting organic and traditional farming in Uttarakhand?",
+        "options_en": [
+          "Protecting soil, biodiversity and local markets",
+          "increasing chemical dependence",
+          "pollution of water sources",
+          "increasing single crop risk"
+        ],
+        "explanation_en": "Farming using local seeds and less chemicals can support soils, biodiversity and local nutrition."
+      }
     },
     {
       "question": "पर्वतीय क्षेत्रों में कृषि-वनीकरण का अर्थ क्या है?",
@@ -1889,7 +3029,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the meaning of agro-afforestation in hilly areas?",
+        "options_en": [
+          "Integrated production of crops and trees",
+          "just cutting trees",
+          "urban gardening only",
+          "river farming"
+        ],
+        "explanation_en": "Agro-forestry improves income and ecology by integrating farms, crops and sometimes animal husbandry."
+      }
     },
     {
       "question": "पर्वतीय बागवानी में शीत-श्रृंखला का उद्देश्य क्या है?",
@@ -1908,7 +3058,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the purpose of cold-chain in mountain gardening?",
+        "options_en": [
+          "Delivering quality fruits and vegetables to the market",
+          "crop drying",
+          "blocking water source",
+          "deforestation"
+        ],
+        "explanation_en": "Cold chain reduces spoilage of perishable products by controlling temperature."
+      }
     },
     {
       "question": "उत्तराखंड के चारधाम का सही समूह कौन-सा है?",
@@ -1927,7 +3087,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is the correct group of Chardham of Uttarakhand?",
+        "options_en": [
+          "Yamunotri, Gangotri, Kedarnath and Badrinath",
+          "Haridwar, Rishikesh, Nainital and Mussoorie",
+          "Jageshwar, Katarmal, Baijnath and Dwarahat",
+          "Hemkund, Ranikhet, Auli and Kausani"
+        ],
+        "explanation_en": "Uttarakhand Chardham Yatra includes Yamunotri, Gangotri, Kedarnath and Badrinath."
+      }
     },
     {
       "question": "हेमकुंड साहिब किस जिले में स्थित है?",
@@ -1946,7 +3116,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In which district is Hemkund Sahib located?",
+        "options_en": [
+          "Chamoli",
+          "Uttarkashi",
+          "Pithoragarh",
+          "Tehri"
+        ],
+        "explanation_en": "Hemkund Sahib is a Sikh pilgrimage situated at a high altitude in Chamoli district."
+      }
     },
     {
       "question": "ऋषिकेश किस साहसिक गतिविधि के लिए भी प्रसिद्ध है?",
@@ -1965,7 +3145,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Rishikesh is also famous for which adventure activity?",
+        "options_en": [
+          "River rafting",
+          "desert safari",
+          "sea ​​diving",
+          "glacial mining"
+        ],
+        "explanation_en": "The stream and valleys of Ganga make Rishikesh a major center for river rafting."
+      }
     },
     {
       "question": "उत्तराखंड की पर्वतीय अर्थव्यवस्था में कृषि की प्रमुख विशेषता क्या है?",
@@ -1984,7 +3174,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main feature of agriculture in the hill economy of Uttarakhand?",
+        "options_en": [
+          "Small landholdings and rain-fed terraced farming",
+          "mega mariculture",
+          "cash crop only",
+          "desert grazing"
+        ],
+        "explanation_en": "Due to the mountainous slopes and limited flat land, small landholdings, terraced fields and rain-dependence are common."
+      }
     },
     {
       "question": "उत्तराखंड में जलविद्युत किस प्राकृतिक संसाधन पर आधारित है?",
@@ -2003,7 +3203,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "On which natural resource is hydropower based in Uttarakhand?",
+        "options_en": [
+          "Flow and altitude difference of mountain rivers",
+          "Ocean tides",
+          "coal field",
+          "desert wind"
+        ],
+        "explanation_en": "The Himalayan gradient and perennial rivers are the natural basis for hydropower generation."
+      }
     },
     {
       "question": "सिडकुल का संबंध किस क्षेत्र से है?",
@@ -2022,7 +3232,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "SIDCUL is related to which sector?",
+        "options_en": [
+          "Industrial development and industrial infrastructure",
+          "wildlife Reserve",
+          "high court",
+          "folk dance"
+        ],
+        "explanation_en": "SIDCUL is an organization to develop industrial areas and investment in Uttarakhand."
+      }
     },
     {
       "question": "हरिद्वार में स्थित बीएचईएल का प्रमुख क्षेत्र कौन-सा है?",
@@ -2041,7 +3261,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is the main area of ​​BHEL located in Haridwar?",
+        "options_en": [
+          "heavy electrical equipment",
+          "tea processing",
+          "knitting wool",
+          "shipbuilding"
+        ],
+        "explanation_en": "BHEL Haridwar is an industrial unit involved in the production of heavy electrical equipment and engineering."
+      }
     },
     {
       "question": "उत्तराखंड में निम्न में से कौन-सा खनिज पाया जाता है?",
@@ -2060,15 +3290,25 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following minerals is found in Uttarakhand?",
+        "options_en": [
+          "limestone",
+          "huge reserves of crude petroleum",
+          "sea ​​salt only",
+          "Main commercial area of ​​uranium"
+        ],
+        "explanation_en": "Limestone, magnesite, dolomite and other minerals are found in Uttarakhand."
+      }
     },
     {
       "question": "उत्तराखंड में पर्यटन का सबसे व्यापक आर्थिक योगदान किससे जुड़ा है?",
       "options": [
-        "रोजगार, परिवहन, आवास और स्थानीय सेवाएँ",
-        "केवल खनन",
-        "केवल समुद्री व्यापार",
-        "केवल सरकारी कर"
+        "मृदा उर्वरता एवं फसल उत्पादकता में सुधार",
+        "कीट एवं खरपतवार नियंत्रण में सहायता",
+        "अत्यधिक रासायनिक उर्वरकों के प्रयोग को प्रोत्साहन",
+        "पारंपरिक फसलों का पूर्ण उन्मूलन"
       ],
       "correctIndex": 0,
       "explanation": "तीर्थ, प्रकृति और साहसिक पर्यटन होटल, परिवहन, गाइड, हस्तशिल्प और स्थानीय सेवाओं में रोजगार बनाते हैं।",
@@ -2079,7 +3319,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the biggest economic contribution of tourism in Uttarakhand?",
+        "options_en": [
+          "Employment, transport, housing and local services",
+          "mining only",
+          "sea ​​trade only",
+          "government taxes only"
+        ],
+        "explanation_en": "Pilgrimage, nature and adventure tourism create employment in hotels, transport, guides, handicrafts and local services."
+      }
     },
     {
       "question": "वन-आधारित अर्थव्यवस्था में गैर-काष्ठ वन उत्पाद का उदाहरण कौन-सा है?",
@@ -2098,7 +3348,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is an example of non-timber forest product in a forest-based economy?",
+        "options_en": [
+          "Herbs and Honey",
+          "cement",
+          "iron Steel",
+          "petroleum"
+        ],
+        "explanation_en": "Medicinal plants, honey, fiber and leaves are non-timber forest products that can become sources of local income."
+      }
     },
     {
       "question": "मनरेगा का मूल उद्देश्य क्या है?",
@@ -2117,7 +3377,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the basic objective of MNREGA?",
+        "options_en": [
+          "Guarantee of wage based employment to rural families",
+          "building urban metro",
+          "fixing higher education fees",
+          "wildlife census"
+        ],
+        "explanation_en": "MNREGA provides rural households with the opportunity for on-demand wage employment and creation of durable assets."
+      }
     },
     {
       "question": "प्रधानमंत्री ग्राम सड़क योजना का प्रमुख उद्देश्य क्या है?",
@@ -2136,7 +3406,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main objective of Pradhan Mantri Gram Sadak Yojana?",
+        "options_en": [
+          "All-season road connectivity to rural settlements",
+          "port construction",
+          "urban mall construction",
+          "river pollution control"
+        ],
+        "explanation_en": "PMGSY aims to provide sustainable road connectivity to eligible rural habitations."
+      }
     },
     {
       "question": "स्वयं सहायता समूहों का प्रमुख आर्थिक लाभ क्या है?",
@@ -2155,7 +3435,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main economic benefit of self-help groups?",
+        "options_en": [
+          "Savings, Credit and Collective Livelihood",
+          "only government jobs",
+          "deforestation",
+          "dam on the river"
+        ],
+        "explanation_en": "Self-help groups promote small savings-credit, entrepreneurship and economic participation of women."
+      }
     },
     {
       "question": "उत्तराखंड में औषधीय और सुगंधित पौधों का विकास किस क्षेत्र को बढ़ावा दे सकता है?",
@@ -2174,7 +3464,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which sector can give a boost to the development of medicinal and aromatic plants in Uttarakhand?",
+        "options_en": [
+          "Agricultural diversification and rural income",
+          "sea ​​fishing",
+          "desert mining",
+          "coastal port"
+        ],
+        "explanation_en": "Medicinal plants can become high-value products, processing and the basis of additional income for hill farmers."
+      }
     },
     {
       "question": "होमस्टे नीति का स्थानीय पर्यटन में प्रमुख लाभ क्या है?",
@@ -2193,7 +3493,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main advantage of homestay policy in local tourism?",
+        "options_en": [
+          "Transferring tourism income to local families",
+          "eradicating local culture",
+          "building only big hotels",
+          "increasing water use"
+        ],
+        "explanation_en": "Homestays connect local homes with tourism and keep income, food and cultural experiences in the community."
+      }
     },
     {
       "question": "सतत विकास का मूल अर्थ क्या है?",
@@ -2212,7 +3522,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the basic meaning of sustainable development?",
+        "options_en": [
+          "Maintaining future capacity while meeting current needs",
+          "unlimited exploitation of natural resources",
+          "economic growth only",
+          "ignore the environment"
+        ],
+        "explanation_en": "Sustainable development establishes a long-term balance between economic, social and environmental needs."
+      }
     },
     {
       "question": "पर्यावरण-अनुकूल पर्यटन का एक उदाहरण कौन-सा है?",
@@ -2231,7 +3551,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is an example of eco-friendly tourism?",
+        "options_en": [
+          "Local homestays, waste management and limited carrying capacity",
+          "big construction without planning",
+          "garbage in rivers",
+          "feeding wildlife"
+        ],
+        "explanation_en": "Local participation, low waste and adherence to carrying capacity make tourism eco-friendly."
+      }
     },
     {
       "question": "पर्वतीय क्षेत्रों में मूल्य संवर्धन का उदाहरण कौन-सा है?",
@@ -2250,7 +3580,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is an example of value addition in hilly areas?",
+        "options_en": [
+          "processing fruit into jam or juice",
+          "Selling raw produce without packaging",
+          "crop destruction",
+          "turn off source"
+        ],
+        "explanation_en": "Processing, packaging and branding can increase the value of local produce and farmers' income."
+      }
     },
     {
       "question": "उत्तराखंड में पलायन कम करने की दीर्घकालीन रणनीति में क्या शामिल होना चाहिए?",
@@ -2269,7 +3609,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What should be included in a long-term strategy to reduce migration in Uttarakhand?",
+        "options_en": [
+          "Local employment, education, health and better connectivity",
+          "increase only hill tax",
+          "stop construction in source area",
+          "closure of local market"
+        ],
+        "explanation_en": "Developing local opportunities and services can encourage young people to stay and return to their area."
+      }
     },
     {
       "question": "आपदा-रोधी अवसंरचना में निवेश का आर्थिक लाभ क्या है?",
@@ -2288,15 +3638,25 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the economic benefit of investing in disaster-resilient infrastructure?",
+        "options_en": [
+          "Reducing future damage and reconstruction costs",
+          "increase risk",
+          "road closure",
+          "local income withholding"
+        ],
+        "explanation_en": "Strong buildings, safe roads and early warning reduce loss of life and costs after a disaster."
+      }
     },
     {
       "question": "उत्तराखंड में स्थानीय हस्तशिल्प का संरक्षण किससे जुड़ा है?",
       "options": [
-        "सांस्कृतिक पहचान और ग्रामीण आय",
-        "केवल खनन",
-        "समुद्री व्यापार",
-        "वन्यजीव शिकार"
+        "मृदा उर्वरता एवं फसल उत्पादकता में सुधार",
+        "कीट एवं खरपतवार नियंत्रण में सहायता",
+        "अत्यधिक रासायनिक उर्वरकों के प्रयोग को प्रोत्साहन",
+        "पारंपरिक फसलों का पूर्ण उन्मूलन"
       ],
       "correctIndex": 0,
       "explanation": "ऊन, बाँस, ऐपन और धातु शिल्प स्थानीय पहचान को बनाए रखते हुए आय और रोजगार देते हैं।",
@@ -2307,7 +3667,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the preservation of local handicrafts in Uttarakhand connected with?",
+        "options_en": [
+          "Cultural identity and rural income",
+          "mining only",
+          "maritime trade",
+          "wildlife hunting"
+        ],
+        "explanation_en": "Wool, bamboo, apan and metal crafts provide income and employment while maintaining local identity."
+      }
     },
     {
       "question": "सहकारी संस्थाएँ पर्वतीय अर्थव्यवस्था में किस प्रकार मदद करती हैं?",
@@ -2326,7 +3696,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How do cooperative institutions help in the hill economy?",
+        "options_en": [
+          "Collective Marketing, Credit and Processing",
+          "tax collection only",
+          "deforestation",
+          "road block"
+        ],
+        "explanation_en": "Cooperatives give small producers market, finance, storage and collective bargaining power."
+      }
     },
     {
       "question": "पर्वतीय अर्थव्यवस्था में स्थानीय बाजारों को मजबूत करने का एक प्रभावी उपाय क्या है?",
@@ -2345,7 +3725,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is an effective way to strengthen local markets in the mountain economy?",
+        "options_en": [
+          "Branding and mass marketing of local products",
+          "destroying products without value",
+          "cutting off villages from the market",
+          "buying only external goods"
+        ],
+        "explanation_en": "Quality, branding, processing and mass marketing of local products can help farmers and artisans get better prices."
+      }
     },
     {
       "question": "पर्वतीय ढालों पर सीढ़ीदार खेतों का मुख्य लाभ क्या है?",
@@ -2364,7 +3754,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main advantage of terraced fields on mountain slopes?",
+        "options_en": [
+          "to accelerate water flow",
+          "soil removal",
+          "Soil and Water Conservation",
+          "abolish agriculture"
+        ],
+        "explanation_en": "Terraced fields conserve soil and moisture by reducing the speed of runoff on slopes."
+      }
     },
     {
       "question": "मंडुवा किस वर्ग की फसल है?",
@@ -2383,7 +3783,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which category of crop is Manduwa?",
+        "options_en": [
+          "coarse grain",
+          "Spices",
+          "oilseeds",
+          "fiber crop"
+        ],
+        "explanation_en": "Manduwa or Ragi is a traditional coarse grain crop of the hilly regions."
+      }
     },
     {
       "question": "बीएचईएल की प्रमुख औद्योगिक इकाई उत्तराखंड के किस नगर में है?",
@@ -2402,7 +3812,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In which city of Uttarakhand is the major industrial unit of BHEL?",
+        "options_en": [
+          "Pantnagar",
+          "Haridwar",
+          "Rudrapur",
+          "Kashipur"
+        ],
+        "explanation_en": "BHEL Haridwar deals with the manufacturing of heavy electrical equipment."
+      }
     },
     {
       "question": "सिडकुल का मुख्य उद्देश्य क्या है?",
@@ -2421,7 +3841,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main objective of SIDCUL?",
+        "options_en": [
+          "wildlife Reserve",
+          "pilgrimage management",
+          "Industrial infrastructure and investment development",
+          "judicial administration"
+        ],
+        "explanation_en": "SIDCUL works for the development of industrial areas and investment in the state."
+      }
     },
     {
       "question": "सेलाकुई औद्योगिक क्षेत्र किस जिले में है?",
@@ -2440,7 +3870,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In which district is Selaqui Industrial Area?",
+        "options_en": [
+          "Haridwar",
+          "nainital",
+          "Pithoragarh",
+          "Dehradun"
+        ],
+        "explanation_en": "Selaqui is a major industrial area of ​​Dehradun district."
+      }
     },
     {
       "question": "पंतनगर औद्योगिक क्षेत्र किस जिले में है?",
@@ -2459,7 +3899,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In which district is Pantnagar Industrial Area?",
+        "options_en": [
+          "Udham Singh Nagar",
+          "Haridwar",
+          "Dehradun",
+          "nainital"
+        ],
+        "explanation_en": "Pantnagar is a center of industrial and agriculture-based development in the Udham Singh Nagar district of Terai."
+      }
     },
     {
       "question": "चारधाम यात्रा में कौन-सा धाम शामिल है?",
@@ -2478,7 +3928,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which Dham is included in Chardham Yatra?",
+        "options_en": [
+          "Haridwar",
+          "Kedarnath",
+          "nainital",
+          "Mussoorie"
+        ],
+        "explanation_en": "Uttarakhand Chardham includes Yamunotri, Gangotri, Kedarnath and Badrinath."
+      }
     },
     {
       "question": "ऋषिकेश का वैश्विक परिचय किससे जुड़ा है?",
@@ -2497,7 +3957,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "The global introduction of Rishikesh is associated with what?",
+        "options_en": [
+          "maritime trade",
+          "desert safari",
+          "Yoga and Spiritual Tourism",
+          "tea auction"
+        ],
+        "explanation_en": "Rishikesh is a major center of yoga, meditation, spiritual practice and Ganga tourism."
+      }
     },
     {
       "question": "औली किस साहसिक गतिविधि के लिए प्रसिद्ध है?",
@@ -2516,7 +3986,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Auli is famous for which adventure activity?",
+        "options_en": [
+          "sea ​​sailing",
+          "desert rally",
+          "deep sea diving",
+          "skiing"
+        ],
+        "explanation_en": "Auli is famous for skiing on the Himalayan slopes in Chamoli."
+      }
     },
     {
       "question": "ऋषिकेश में लोकप्रिय साहसिक गतिविधि कौन-सी है?",
@@ -2535,7 +4015,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the popular adventure activity in Rishikesh?",
+        "options_en": [
+          "River rafting",
+          "camel safari",
+          "coral diving",
+          "sea ​​sailing"
+        ],
+        "explanation_en": "The strong current of Ganga makes Rishikesh a major center for river rafting."
+      }
     },
     {
       "question": "मसूरी को किस उपनाम से जाना जाता है?",
@@ -2554,7 +4044,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "By what nickname is Mussoorie known?",
+        "options_en": [
+          "city ​​of lakes",
+          "queen of the mountains",
+          "city ​​of temples",
+          "desert of india"
+        ],
+        "explanation_en": "Mussoorie is called the Queen of Hills because of its mountain tourism and colonial heritage."
+      }
     },
     {
       "question": "नैनीताल को किस उपनाम से जाना जाता है?",
@@ -2573,7 +4073,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "By what nickname is Nainital known?",
+        "options_en": [
+          "queen of the mountains",
+          "cedar city",
+          "city ​​of lakes",
+          "city ​​of flowers"
+        ],
+        "explanation_en": "Due to the lakes of Nainital, it is called the city of lakes."
+      }
     },
     {
       "question": "कौसानी किस प्राकृतिक दृश्य के लिए प्रसिद्ध है?",
@@ -2592,7 +4102,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Kausani is famous for which natural scene?",
+        "options_en": [
+          "beach",
+          "desert dunes",
+          "mangrove forest",
+          "Panoramic view of Himalayan mountains"
+        ],
+        "explanation_en": "Kausani offers sweeping views of the Himalayan peaks and is also the birthplace of Pant."
+      }
     },
     {
       "question": "रानीखेत किस जिले में स्थित है?",
@@ -2611,7 +4131,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In which district is Ranikhet located?",
+        "options_en": [
+          "Almora",
+          "nainital",
+          "Bageshwar",
+          "Champawat"
+        ],
+        "explanation_en": "Ranikhet is a famous mountain camp and tourist destination of Almora district."
+      }
     },
     {
       "question": "जिम कॉर्बेट परिदृश्य किस वन्यजीव के लिए प्रसिद्ध है?",
@@ -2630,7 +4160,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Jim Corbett landscape is famous for which wildlife?",
+        "options_en": [
+          "Rhinoceros",
+          "Tiger",
+          "camel",
+          "musk deer only"
+        ],
+        "explanation_en": "Corbett National Park is famous for tiger conservation and rich wildlife."
+      }
     },
     {
       "question": "फूलों की घाटी किस प्रकार के पर्यटन के लिए प्रसिद्ध है?",
@@ -2649,7 +4189,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of tourism is Valley of Flowers famous for?",
+        "options_en": [
+          "sea ​​tourism",
+          "desert tourism",
+          "Nature and flower tourism",
+          "industrial tourism"
+        ],
+        "explanation_en": "The Valley of Flowers is famous for the high Himalayan floral diversity and natural beauty."
+      }
     },
     {
       "question": "बिनसर किस प्रकार के पर्यटन के लिए प्रसिद्ध है?",
@@ -2668,7 +4218,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of tourism is Binsar famous for?",
+        "options_en": [
+          "sea ​​fishing",
+          "desert safari",
+          "port tourism",
+          "Forest and Himalayan Scenery"
+        ],
+        "explanation_en": "Binsar is a quiet tourist destination in Almora with forests, birds and Himalayan views."
+      }
     },
     {
       "question": "मुनस्यारी किस जिले का पर्वतीय पर्यटन स्थल है?",
@@ -2687,7 +4247,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Munsiyari is a mountain tourist destination of which district?",
+        "options_en": [
+          "Pithoragarh",
+          "Chamoli",
+          "Almora",
+          "Tehri"
+        ],
+        "explanation_en": "Munsiyari is in Pithoragarh district, near Panchachuli and the high Himalayan routes."
+      }
     },
     {
       "question": "चोपता किस जिले के निकट प्रसिद्ध है?",
@@ -2706,7 +4276,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Chopta is famous near which district?",
+        "options_en": [
+          "Haridwar",
+          "Rudraprayag",
+          "nainital",
+          "Udham Singh Nagar"
+        ],
+        "explanation_en": "Chopta is a high mountain tourism and trekking destination of Rudraprayag region."
+      }
     },
     {
       "question": "पिंडारी हिमनद यात्रा का प्रमुख आधार क्षेत्र कौन-सा है?",
@@ -2725,7 +4305,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is the main base area of ​​Pindari Glacier Yatra?",
+        "options_en": [
+          "Dehradun",
+          "Haridwar",
+          "Bageshwar",
+          "Tehri"
+        ],
+        "explanation_en": "Pindari Trek goes into the Kumaon Himalayas of Bageshwar district."
+      }
     },
     {
       "question": "रूपकुंड यात्रा किस जिले से संबंधित है?",
@@ -2744,7 +4334,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Roopkund Yatra is related to which district?",
+        "options_en": [
+          "nainital",
+          "Bageshwar",
+          "Uttarkashi",
+          "Chamoli"
+        ],
+        "explanation_en": "Roopkund is a high altitude trekking and glacial lake area of ​​Chamoli district."
+      }
     },
     {
       "question": "उत्तराखंड की अर्थव्यवस्था में प्राथमिक क्षेत्र का प्रमुख घटक क्या है?",
@@ -2763,7 +4363,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the major component of primary sector in the economy of Uttarakhand?",
+        "options_en": [
+          "banking",
+          "software service",
+          "Insurance",
+          "agriculture and animal husbandry"
+        ],
+        "explanation_en": "Agriculture, animal husbandry and forestry are the base activities of the primary sector in the hilly and plain areas."
+      }
     },
     {
       "question": "उत्तराखंड की जलविद्युत क्षमता का मुख्य आधार क्या है?",
@@ -2782,7 +4392,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main basis of hydropower potential of Uttarakhand?",
+        "options_en": [
+          "steep mountain rivers",
+          "Ocean tides",
+          "coal mines",
+          "desert wind"
+        ],
+        "explanation_en": "Altitude differences and perennial rivers are suitable for hydropower generation."
+      }
     },
     {
       "question": "उत्तराखंड के उच्च पर्वतीय क्षेत्रों का प्रमुख फल कौन-सा है?",
@@ -2801,7 +4421,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is the main fruit of high hilly areas of Uttarakhand?",
+        "options_en": [
+          "Coconut",
+          "Apple",
+          "Cashew",
+          "Pineapple"
+        ],
+        "explanation_en": "Apple gardening is prominent in high and temperate mountain areas."
+      }
     },
     {
       "question": "देहरादून क्षेत्र किस फल के लिए प्रसिद्ध है?",
@@ -2820,7 +4450,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "For which fruit is Dehradun region famous?",
+        "options_en": [
+          "Coconut",
+          "Dates",
+          "litchi",
+          "Cashew"
+        ],
+        "explanation_en": "The climate of Dehradun is favorable for litchi production."
+      }
     },
     {
       "question": "कौसानी क्षेत्र किस बागान उत्पाद से भी जुड़ा है?",
@@ -2839,7 +4479,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Kausani region is also associated with which plantation product?",
+        "options_en": [
+          "coffee",
+          "Rubber",
+          "Coconut",
+          "Tea"
+        ],
+        "explanation_en": "Tea gardens have developed in Kausani and the surrounding area."
+      }
     },
     {
       "question": "उत्तराखंड में प्रमुख खनिज संसाधन कौन-सा है?",
@@ -2858,7 +4508,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is the main mineral resource in Uttarakhand?",
+        "options_en": [
+          "limestone",
+          "sea ​​salt",
+          "vast fields of crude petroleum",
+          "major coal field"
+        ],
+        "explanation_en": "Minerals like limestone, magnesite and dolomite are found in the state."
+      }
     },
     {
       "question": "औषधीय पौधों का विकास किसे बढ़ावा दे सकता है?",
@@ -2877,7 +4537,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What can promote the development of medicinal plants?",
+        "options_en": [
+          "sea ​​fishing",
+          "Rural Income and Agricultural Diversification",
+          "desert mining",
+          "coastal port"
+        ],
+        "explanation_en": "Medicinal and aromatic plants can become a source of high-value income for hill farmers."
+      }
     },
     {
       "question": "मनरेगा का प्रमुख उद्देश्य क्या है?",
@@ -2896,7 +4566,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main objective of MNREGA?",
+        "options_en": [
+          "urban metro",
+          "sea ​​port",
+          "rural wage employment",
+          "wildlife census"
+        ],
+        "explanation_en": "MNREGA provides opportunities for on-demand wage employment and asset creation to rural households."
+      }
     },
     {
       "question": "प्रधानमंत्री ग्राम सड़क योजना का उद्देश्य क्या है?",
@@ -2915,7 +4595,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the objective of Pradhan Mantri Gram Sadak Yojana?",
+        "options_en": [
+          "urban mall",
+          "sea ​​jetty",
+          "irrigation only",
+          "Rural all-season road connectivity"
+        ],
+        "explanation_en": "PMGSY is a scheme to provide sustainable road connectivity to rural settlements."
+      }
     },
     {
       "question": "राष्ट्रीय ग्रामीण आजीविका मिशन किससे संबंधित है?",
@@ -2934,7 +4624,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is National Rural Livelihood Mission related to?",
+        "options_en": [
+          "Self Help Groups and Rural Livelihood",
+          "high court",
+          "wildlife census",
+          "railway safety"
+        ],
+        "explanation_en": "NRLM strengthens the livelihoods of self-help groups and the rural poor."
+      }
     },
     {
       "question": "स्वयं सहायता समूहों का प्रमुख लाभ क्या है?",
@@ -2953,7 +4653,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main advantage of self-help groups?",
+        "options_en": [
+          "only government jobs",
+          "Savings, Credit and Collective Enterprises",
+          "deforestation",
+          "dam on the river"
+        ],
+        "explanation_en": "SHGs promote small credit, savings, women participation and local enterprise."
+      }
     },
     {
       "question": "होमस्टे नीति से किसे लाभ मिल सकता है?",
@@ -2972,7 +4682,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Agriculture"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who can benefit from the homestay policy?",
+        "options_en": [
+          "Only outside major companies",
+          "mining industry only",
+          "Tourism income to local families",
+          "sea ​​trade only"
+        ],
+        "explanation_en": "Homestays keep income and cultural experiences in the community by connecting local households to tourism."
+      }
     }
   ]
 }

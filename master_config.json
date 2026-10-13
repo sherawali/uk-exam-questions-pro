@@ -1,13 +1,13 @@
 {
-  "version": "4.6.0",
-  "last_sync": "2026-09-24T05:50:15.367415+00:00",
+  "version": "4.8.0",
+  "last_sync": "2026-10-14T05:00:00.000000+00:00",
   "flash_news": {
     "enabled": true,
-    "id": "ca_jan2024_to_sep2026_v1",
-    "title": "📢 जनवरी 2024 से सितंबर 2026 तक का नया करंट अफेयर्स अपडेट!",
-    "title_en": "📢 New Current Affairs Update (Jan 2024 – Sep 2026)!",
-    "message": "जनवरी 2024 से सितंबर 2026 (अद्यतन) तक के 1,305+ नए उत्तराखंड समसामयिकी प्रश्न जोड़े गए हैं — जिसमें 38वें राष्ट्रीय खेल, बजट (2025-27), नई नीतियां, UCC, व 2024–2026 आयोग PYQs शामिल हैं। 'अभी सिंक करें' दबाकर तुरंत ऑफलाइन अपडेट करें!",
-    "message_en": "Over 1,305 new questions covering January 2024 to September 2026 (Uttarakhand Current Affairs, Budgets, 38th National Games & recent UKPSC/UKSSSC PYQs) are live. Tap 'Sync Now' to update!",
+    "id": "ca_jan2024_to_sep2026_v2",
+    "title": "📢 2026 अद्यतन प्रश्न बैंक व संपूर्ण सिलेबस सिंक!",
+    "title_en": "📢 2026 Updated Question Bank & Complete Syllabus Synced!",
+    "message": "सभी 13 विषयों के 15,569 प्रामाणिक प्रश्न और 40 आयोग पेपर्स पूर्णतः सत्यापित हैं। 'अभी सिंक करें' दबाकर 1-टैप में ऑफलाइन अपडेट करें!",
+    "message_en": "All 15,569 verified questions across 13 subjects and 40 official commission papers are fully synced. Tap 'Sync Now' for instant offline access!",
     "type": "urgent",
     "action_label": "अभी सिंक करें ➔",
     "action_label_en": "Sync Now ➔",
@@ -16,22 +16,22 @@
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 13425,
+    "total_questions": 15569,
     "files": {
       "agriculture_questions.json": 172,
       "computer_questions.json": 254,
-      "current_affairs_questions.json": 2387,
-      "economics_questions.json": 100,
-      "environment_questions.json": 83,
-      "geography_questions.json": 100,
+      "current_affairs_questions.json": 2208,
+      "economics_questions.json": 200,
+      "environment_questions.json": 182,
+      "geography_questions.json": 307,
       "hindi_questions.json": 908,
-      "history_questions.json": 1239,
+      "history_questions.json": 1745,
       "math_questions.json": 499,
-      "polity_questions.json": 968,
+      "polity_questions.json": 1191,
       "reasoning_questions.json": 500,
-      "science_questions.json": 421,
-      "uttarakhand_questions.json": 5794
+      "science_questions.json": 707,
+      "uttarakhand_questions.json": 6696
     }
   },
-  "total_questions": 13425
+  "total_questions": 15569
 }

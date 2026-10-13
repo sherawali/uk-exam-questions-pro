@@ -1467,7 +1467,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is not a storage device?",
+        "options_en": [
+          "Hard Disk",
+          "pen drive",
+          "monitor",
+          "SSD"
+        ],
+        "explanation_en": "Monitor is an output device, not a storage device."
+      }
     },
     {
       "question": "SQL का पूर्ण रूप क्या है?",
@@ -1486,7 +1496,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of SQL?",
+        "options_en": [
+          "Structured Query Language",
+          "Simple Query Language",
+          "Standard Query Language",
+          "Sequential Query Language"
+        ],
+        "explanation_en": "The full form of SQL is Structured Query Language, which is used for database management."
+      }
     },
     {
       "question": "कंप्यूटर में डेटा को प्रोसेस करने के लिए किसका उपयोग होता है?",
@@ -1505,7 +1525,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is used to process data in computers?",
+        "options_en": [
+          "alu",
+          "CU",
+          "RAM",
+          "ROM"
+        ],
+        "explanation_en": "ALU (Arithmetic Logic Unit) performs calculations and logical operations to process data."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा नेटवर्क टोपोलॉजी है?",
@@ -1524,7 +1554,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a network topology?",
+        "options_en": [
+          "bus",
+          "Ring",
+          "star",
+          "All of the above"
+        ],
+        "explanation_en": "Bus, Ring, and Star are all network topologies, which are ways of connecting network devices."
+      }
     },
     {
       "question": "MS Excel में SUM फंक्शन का उपयोग किसके लिए होता है?",
@@ -1543,7 +1583,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is SUM function used for in MS Excel?",
+        "options_en": [
+          "find the average",
+          "to add numbers",
+          "find maximum value",
+          "find minimum value"
+        ],
+        "explanation_en": "SUM function is used to add numbers in MS Excel."
+      }
     },
     {
       "question": "कंप्यूटर में फायरवॉल का क्या कार्य है?",
@@ -1562,7 +1612,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of firewall in computer?",
+        "options_en": [
+          "storing data",
+          "Providing network security",
+          "run a program",
+          "initialize hardware"
+        ],
+        "explanation_en": "Firewall provides network security, preventing unauthorized access."
+      }
     },
     {
       "question": "WAN का पूर्ण रूप क्या है?",
@@ -1581,7 +1641,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of WAN?",
+        "options_en": [
+          "Wide Area Network",
+          "Wireless Area Network",
+          "World Area Network",
+          "Web Area Network"
+        ],
+        "explanation_en": "The full form of WAN is Wide Area Network, which connects networks over a large geographical area."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा मोबाइल ऑपरेटिंग सिस्टम है?",
@@ -1600,7 +1670,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a mobile operating system?",
+        "options_en": [
+          "Android",
+          "MS Word",
+          "photoshop",
+          "Notepad"
+        ],
+        "explanation_en": "Android is a mobile operating system used on smartphones and tablets."
+      }
     },
     {
       "question": "कंप्यूटर में Cache Memory का उपयोग क्यों होता है?",
@@ -1619,7 +1699,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Why is Cache Memory used in computers?",
+        "options_en": [
+          "to store data permanently",
+          "increase processing speed",
+          "improve internet connection",
+          "virus removal"
+        ],
+        "explanation_en": "Cache memory is used to increase processing speed, as it is a fast memory close to the CPU."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा वायरलेस तकनीक है?",
@@ -1638,7 +1728,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is wireless technology?",
+        "options_en": [
+          "Bluetooth",
+          "Ethernet",
+          "Coaxial Cable",
+          "Fiber Optic"
+        ],
+        "explanation_en": "Bluetooth is a wireless technology used for short-range data transfer between devices."
+      }
     },
     {
       "question": "MS Word में टेक्स्ट को अंडरलाइन करने की शॉर्टकट कुंजी क्या है?",
@@ -1657,7 +1757,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to underline text in MS Word?",
+        "options_en": [
+          "Ctrl + B",
+          "Ctrl + I",
+          "Ctrl+U",
+          "Ctrl+T"
+        ],
+        "explanation_en": "Ctrl + U is used to underline text in MS Word."
+      }
     },
     {
       "question": "कंप्यूटर में GUI का क्या अर्थ है?",
@@ -1676,7 +1786,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does GUI mean in computer?",
+        "options_en": [
+          "Graphical User Interface",
+          "General User Interface",
+          "Global User Interface",
+          "Guided User Interface"
+        ],
+        "explanation_en": "GUI stands for Graphical User Interface, which allows the user to interact graphically."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा सर्च इंजन है?",
@@ -1695,7 +1815,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a search engine?",
+        "options_en": [
+          "Google",
+          "Facebook",
+          "Twitter",
+          "Instagram"
+        ],
+        "explanation_en": "Google is a search engine used to find information on the Internet."
+      }
     },
     {
       "question": "कंप्यूटर में Motherboard का क्या कार्य है?",
@@ -1714,7 +1844,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of motherboard in computer?",
+        "options_en": [
+          "storing data",
+          "connecting all the hardware",
+          "run a program",
+          "connecting to the internet"
+        ],
+        "explanation_en": "The motherboard connects all the hardware components and enables communication between them."
+      }
     },
     {
       "question": "DNS का पूर्ण रूप क्या है?",
@@ -1733,7 +1873,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of DNS?",
+        "options_en": [
+          "Domain Name System",
+          "Digital Name System",
+          "Dynamic Name System",
+          "Direct Name System"
+        ],
+        "explanation_en": "The full form of DNS is Domain Name System, which converts domain name into IP address."
+      }
     },
     {
       "question": "MS Excel में VLOOKUP फंक्शन का उपयोग किसके लिए होता है?",
@@ -1752,7 +1902,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is VLOOKUP function used for in MS Excel?",
+        "options_en": [
+          "add data",
+          "find data",
+          "to sort data",
+          "delete data"
+        ],
+        "explanation_en": "VLOOKUP function is used to search data in a table in MS Excel."
+      }
     },
     {
       "question": "कंप्यूटर में UPS का क्या कार्य है?",
@@ -1771,7 +1931,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of UPS in computer?",
+        "options_en": [
+          "Providing power backup",
+          "storing data",
+          "run a program",
+          "virus removal"
+        ],
+        "explanation_en": "UPS (Uninterruptible Power Supply) provides power backup, so that the computer can remain running in case of power failure."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा ऑप्टिकल स्टोरेज डिवाइस है?",
@@ -1790,7 +1960,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an optical storage device?",
+        "options_en": [
+          "Hard Disk",
+          "pen drive",
+          "CD-ROM",
+          "SSD"
+        ],
+        "explanation_en": "CD-ROM is an optical storage device that uses laser technology."
+      }
     },
     {
       "question": "TCP/IP का पूर्ण रूप क्या है?",
@@ -1809,7 +1989,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of TCP/IP?",
+        "options_en": [
+          "Transmission Control Protocol/Internet Protocol",
+          "Transfer Control Protocol/Internet Protocol",
+          "Transmission Communication Protocol/Internet Protocol",
+          "Transfer Communication Protocol/Internet Protocol"
+        ],
+        "explanation_en": "The full form of TCP/IP is Transmission Control Protocol/Internet Protocol, which is used for network communication."
+      }
     },
     {
       "question": "MS PowerPoint में स्लाइड शो शुरू करने की शॉर्टकट कुंजी क्या है?",
@@ -1828,7 +2018,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to start slide show in MS PowerPoint?",
+        "options_en": [
+          "F5",
+          "F6",
+          "F7",
+          "F8"
+        ],
+        "explanation_en": "F5 is used to start a slide show in MS PowerPoint."
+      }
     },
     {
       "question": "कंप्यूटर में Boot Process क्या है?",
@@ -1847,7 +2047,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Boot Process in computer?",
+        "options_en": [
+          "storing data",
+          "loading operating system",
+          "connecting to the internet",
+          "virus scanning"
+        ],
+        "explanation_en": "Boot Process is the process of loading the operating system into memory."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा डेटा कम्प्रेशन तकनीक है?",
@@ -1866,7 +2076,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a data compression technique?",
+        "options_en": [
+          "ZIP",
+          "JPEG",
+          "MP3",
+          "All of the above"
+        ],
+        "explanation_en": "ZIP, JPEG, and MP3 are all data compression techniques that reduce file size."
+      }
     },
     {
       "question": "SMTP का पूर्ण रूप क्या है?",
@@ -1885,7 +2105,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of SMTP?",
+        "options_en": [
+          "Simple Mail Transfer Protocol",
+          "Secure Mail Transfer Protocol",
+          "Standard Mail Transfer Protocol",
+          "System Mail Transfer Protocol"
+        ],
+        "explanation_en": "The full form of SMTP is Simple Mail Transfer Protocol, which is used to send email."
+      }
     },
     {
       "question": "MS Excel में AVERAGE फंक्शन का उपयोग किसके लिए होता है?",
@@ -1904,7 +2134,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the AVERAGE function used for in MS Excel?",
+        "options_en": [
+          "to do yoga",
+          "find the average",
+          "find maximum value",
+          "find minimum value"
+        ],
+        "explanation_en": "AVERAGE function is used in MS Excel to find the average of numbers."
+      }
     },
     {
       "question": "कंप्यूटर में GPU का क्या कार्य है?",
@@ -1923,7 +2163,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of GPU in computer?",
+        "options_en": [
+          "storing data",
+          "graphics processing",
+          "Internet connection",
+          "virus scanning"
+        ],
+        "explanation_en": "GPU (Graphics Processing Unit) processes graphics and visual data."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा मालवेयर है?",
@@ -1942,7 +2192,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is malware?",
+        "options_en": [
+          "Trojan",
+          "MS Word",
+          "Google Chrome",
+          "Notepad"
+        ],
+        "explanation_en": "Trojan is a type of malware, which harms the computer."
+      }
     },
     {
       "question": "HTML का पूर्ण रूप क्या है?",
@@ -1961,7 +2221,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of HTML?",
+        "options_en": [
+          "Hyper Text Markup Language",
+          "High Text Markup Language",
+          "Home Text Markup Language",
+          "Hybrid Text Markup Language"
+        ],
+        "explanation_en": "The full form of HTML is Hyper Text Markup Language, which is used to create web pages."
+      }
     },
     {
       "question": "MS Word में दस्तावेज़ को प्रिंट करने की शॉर्टकट कुंजी क्या है?",
@@ -1980,7 +2250,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to print a document in MS Word?",
+        "options_en": [
+          "Ctrl+P",
+          "Ctrl+S",
+          "Ctrl + N",
+          "Ctrl+O"
+        ],
+        "explanation_en": "Ctrl + P is used to print the document in MS Word."
+      }
     },
     {
       "question": "कंप्यूटर में Virtual Memory क्या है?",
@@ -1999,7 +2279,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Virtual Memory in computer?",
+        "options_en": [
+          "part of ram",
+          "Part of Hard Disk",
+          "cache memory",
+          "part of rom"
+        ],
+        "explanation_en": "Virtual Memory is the part of Hard Disk, which is used when there is shortage of RAM."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा वेब डेवलपमेंट टूल है?",
@@ -2018,7 +2308,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a web development tool?",
+        "options_en": [
+          "JavaScript",
+          "MS Excel",
+          "Notepad",
+          "VLC Player"
+        ],
+        "explanation_en": "JavaScript is a web development tool that makes web pages interactive."
+      }
     },
     {
       "question": "MAC एड्रेस में कितने बिट्स होते हैं?",
@@ -2037,7 +2337,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many bits are there in a MAC address?",
+        "options_en": [
+          "32",
+          "48",
+          "64",
+          "128"
+        ],
+        "explanation_en": "MAC address is 48 bits, which identifies the network device."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा ईमेल क्लाइंट है?",
@@ -2056,7 +2366,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an email client?",
+        "options_en": [
+          "Microsoft Outlook",
+          "Google Chrome",
+          "adobe photoshop",
+          "Notepad"
+        ],
+        "explanation_en": "Microsoft Outlook is an email client used for email management."
+      }
     },
     {
       "question": "कंप्यूटर में SSD का पूर्ण रूप क्या है?",
@@ -2075,7 +2395,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of SSD in computer?",
+        "options_en": [
+          "Solid State Drive",
+          "Super Speed ​​Drive",
+          "Simple Storage Drive",
+          "System State Drive"
+        ],
+        "explanation_en": "The full form of SSD is Solid State Drive, which is a fast storage device."
+      }
     },
     {
       "question": "MS Excel में MAX फंक्शन का उपयोग किसके लिए होता है?",
@@ -2094,7 +2424,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is MAX function used for in MS Excel?",
+        "options_en": [
+          "find the average",
+          "to do yoga",
+          "find maximum value",
+          "find minimum value"
+        ],
+        "explanation_en": "MAX function is used to find the maximum value in MS Excel."
+      }
     },
     {
       "question": "कंप्यूटर में Router का क्या कार्य है?",
@@ -2113,7 +2453,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of Router in computer?",
+        "options_en": [
+          "storing data",
+          "directing network traffic",
+          "run a program",
+          "virus removal"
+        ],
+        "explanation_en": "Router directs network traffic between different networks."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा ग्राफिक्स फाइल फॉर्मेट है?",
@@ -2132,7 +2482,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a graphics file format?",
+        "options_en": [
+          "JPEG",
+          "MP3",
+          "DOCX",
+          "EXE"
+        ],
+        "explanation_en": "JPEG is a graphics file format that stores images."
+      }
     },
     {
       "question": "POP3 का पूर्ण रूप क्या है?",
@@ -2151,7 +2511,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of POP3?",
+        "options_en": [
+          "Post Office Protocol 3",
+          "Public Office Protocol 3",
+          "Private Office Protocol 3",
+          "Primary Office Protocol 3"
+        ],
+        "explanation_en": "POP3 stands for Post Office Protocol 3, which is used to receive email."
+      }
     },
     {
       "question": "MS Word में टेक्स्ट को इटैलिक करने की शॉर्टकट कुंजी क्या है?",
@@ -2170,7 +2540,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to italicize text in MS Word?",
+        "options_en": [
+          "Ctrl + B",
+          "Ctrl + I",
+          "Ctrl+U",
+          "Ctrl+T"
+        ],
+        "explanation_en": "Ctrl + I is used to italicize text in MS Word."
+      }
     },
     {
       "question": "कंप्यूटर में Malware क्या है?",
@@ -2189,7 +2569,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Malware in Computer?",
+        "options_en": [
+          "a hardware",
+          "a malicious software",
+          "an operating system",
+          "a database"
+        ],
+        "explanation_en": "Malware is malicious software that causes harm to the computer."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा ऑडियो फाइल फॉर्मेट है?",
@@ -2208,7 +2598,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an audio file format?",
+        "options_en": [
+          "MP3",
+          "PNG",
+          "pdf",
+          "TXT"
+        ],
+        "explanation_en": "MP3 is an audio file format that stores sound data."
+      }
     },
     {
       "question": "कंप्यूटर में Switch का क्या कार्य है?",
@@ -2227,7 +2627,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of Switch in computer?",
+        "options_en": [
+          "storing data",
+          "Adding a Network Device",
+          "run a program",
+          "virus removal"
+        ],
+        "explanation_en": "Switch connects network devices and sends data packets to the correct destination."
+      }
     },
     {
       "question": "CSS का पूर्ण रूप क्या है?",
@@ -2246,7 +2656,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of CSS?",
+        "options_en": [
+          "Cascading Style Sheets",
+          "Central Style Sheets",
+          "Common Style Sheets",
+          "Custom Style Sheets"
+        ],
+        "explanation_en": "The full form of CSS is Cascading Style Sheets, which is used for styling the web page."
+      }
     },
     {
       "question": "MS Excel में MIN फंक्शन का उपयोग किसके लिए होता है?",
@@ -2265,7 +2685,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is MIN function used for in MS Excel?",
+        "options_en": [
+          "find the average",
+          "to do yoga",
+          "find maximum value",
+          "find minimum value"
+        ],
+        "explanation_en": "MIN function is used to find the minimum value in MS Excel."
+      }
     },
     {
       "question": "कंप्यूटर में VPN का पूर्ण रूप क्या है?",
@@ -2284,7 +2714,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of VPN in computer?",
+        "options_en": [
+          "Virtual Private Network",
+          "Virtual Public Network",
+          "Visible Private Network",
+          "Virtual Protected Network"
+        ],
+        "explanation_en": "The full form of VPN is Virtual Private Network, which provides secure internet connection."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा वीडियो फाइल फॉर्मेट है?",
@@ -2303,7 +2743,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a video file format?",
+        "options_en": [
+          "AVI",
+          "DOCX",
+          "pdf",
+          "TXT"
+        ],
+        "explanation_en": "AVI is a video file format that stores video data."
+      }
     },
     {
       "question": "IMAP का पूर्ण रूप क्या है?",
@@ -2322,7 +2772,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of IMAP?",
+        "options_en": [
+          "Internet Message Access Protocol",
+          "Internal Message Access Protocol",
+          "International Message Access Protocol",
+          "Integrated Message Access Protocol"
+        ],
+        "explanation_en": "The full form of IMAP is Internet Message Access Protocol, which is used for email management on email servers."
+      }
     },
     {
       "question": "MS PowerPoint में स्लाइड को डिलीट करने की शॉर्टकट कुंजी क्या है?",
@@ -2341,7 +2801,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to delete a slide in MS PowerPoint?",
+        "options_en": [
+          "delete",
+          "Ctrl+D",
+          "Ctrl +",
+          "Ctrl+Z"
+        ],
+        "explanation_en": "Delete key is used to delete a slide in MS PowerPoint."
+      }
     },
     {
       "question": "कंप्यूटर में Phishing का क्या मतलब है?",
@@ -2360,7 +2830,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does phishing mean in computer?",
+        "options_en": [
+          "storing data",
+          "to provide security",
+          "stealing confidential information",
+          "run a program"
+        ],
+        "explanation_en": "Phishing is a cyber attack in which confidential information such as passwords is stolen."
+      }
     },
     {
       "question": "कंप्यूटर मे BIOS कहाँ स्थित होता है?",
@@ -2379,7 +2859,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Where is BIOS located in a computer?",
+        "options_en": [
+          "RAM",
+          "ROM",
+          "Hard Disk",
+          "cache"
+        ],
+        "explanation_en": "BIOS (ROM), which is permanent memory."
+      }
     },
     {
       "question": "MS Excel में COUNTIF फंक्शन का उपयोग किसके लिए होता है?",
@@ -2398,7 +2888,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is COUNTIF function used for in MS Excel?",
+        "options_en": [
+          "sum of numbers",
+          "Calculation based on conditions",
+          "find the average",
+          "find maximum value"
+        ],
+        "explanation_en": "COUNTIF function is used in MS Excel to count cells based on conditions."
+      }
     },
     {
       "question": "कंप्यूटर में Modem का क्या कार्य है?",
@@ -2417,7 +2917,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the function of Modem in computer?",
+        "options_en": [
+          "storing data",
+          "converting digital signals to analog",
+          "running programs",
+          "virus removal"
+        ],
+        "explanation_en": "Modem converts digital signals to analog and vice versa, so that an Internet connection can be established."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा डेटा बेस्ड टाइप है?",
@@ -2436,7 +2946,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is data based type?",
+        "options_en": [
+          "VARCHAR",
+          "MP3",
+          "JPEG",
+          "EXE"
+        ],
+        "explanation_en": "VARCHAR is a data type used to store text in a database."
+      }
     },
     {
       "question": "कंप्यूटर में Firewall किस परत पर काम करता है?",
@@ -2455,7 +2975,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "On which layer does Firewall work in computer?",
+        "options_en": [
+          "Application Layer",
+          "Network Layer",
+          "Data Link Layer",
+          "Physical Layer"
+        ],
+        "explanation_en": "Firewalls mainly work at the network layer to control network traffic."
+      }
     },
     {
       "question": "MS Word में दस्तावेज़ को सेव करने की शॉटकट कुंजी क्या है?",
@@ -2474,7 +3004,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to save a document in MS Word?",
+        "options_en": [
+          "Ctrl+S",
+          "Ctrl+P",
+          "Ctrl + N",
+          "Ctrl+O"
+        ],
+        "explanation_en": "Ctrl + S is used to save the document in MS Word."
+      }
     },
     {
       "question": "कंप्यूटर में Worm क्या है?",
@@ -2493,7 +3033,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Worm in Computer?",
+        "options_en": [
+          "a hardware",
+          "a malware",
+          "an operating system",
+          "a database"
+        ],
+        "explanation_en": "Worm is a type of malware, which spreads through the network."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा डेटा ट्रांसमिशन मोड है?",
@@ -2512,7 +3062,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a data transmission mode?",
+        "options_en": [
+          "simplex",
+          "Half-Duplex",
+          "Full-Duplex",
+          "All of the above"
+        ],
+        "explanation_en": "Simplex, Half-Duplex, and Full-Duplex are all data transmission modes."
+      }
     },
     {
       "question": "XML का पूर्ण रूप क्या है?",
@@ -2531,7 +3091,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of XML?",
+        "options_en": [
+          "Extensible Markup Language",
+          "Extra Markup Language",
+          "Extended Markup Language",
+          "External Markup Language"
+        ],
+        "explanation_en": "The full form of XML is Extensible Markup Language, which stores data in a structured form."
+      }
     },
     {
       "question": "MS Excel में टेक्स्ट को मर्ज करने का विकल्प क्या है?",
@@ -2550,7 +3120,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the option to merge text in MS Excel?",
+        "options_en": [
+          "Merge & Center",
+          "wrap text",
+          "TextAlign",
+          "Font Size"
+        ],
+        "explanation_en": "Merge & Center is used to merge cells and center text in MS Excel."
+      }
     },
     {
       "question": "कंप्यूटर में में Encryption का क्या अर्थ है?",
@@ -2569,7 +3149,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does Encryption mean in computer?",
+        "options_en": [
+          "make data readable",
+          "converting data into code",
+          "deleting data",
+          "copying data"
+        ],
+        "explanation_en": "Encryption is the process of converting data into code so that it cannot be read by unauthorized persons."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा नेटवर्क डिवाइस है?",
@@ -2588,7 +3178,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a network device?",
+        "options_en": [
+          "hub",
+          "printer",
+          "Scanner",
+          "monitor"
+        ],
+        "explanation_en": "Hub is a network device, which connects devices in the network."
+      }
     },
     {
       "question": "RDBMS का पूर्ण रूप क्या है?",
@@ -2607,7 +3207,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of RDBMS?",
+        "options_en": [
+          "Relational Database Management System",
+          "Rapid Database Management System",
+          "Regular Database Management System",
+          "Remote Database Management System"
+        ],
+        "explanation_en": "The full form of RDBMS is Relational Database Management System, which manages relational data."
+      }
     },
     {
       "question": "MS PowerPoint में Animation जोड़ने का विकल्प कहाँ होता है?",
@@ -2626,7 +3236,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Where is the option to add animation in MS PowerPoint?",
+        "options_en": [
+          "Home Tab",
+          "Insert Tab",
+          "Animations Tab",
+          "Design Tab"
+        ],
+        "explanation_en": "Options to add animation in MS PowerPoint are available in Animations Tab."
+      }
     },
     {
       "question": "कंप्यूटर में में IP का क्या अर्थ है?",
@@ -2645,7 +3265,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does IP mean in computer?",
+        "options_en": [
+          "Internet Protocol",
+          "Internal Protocol",
+          "International Protocol",
+          "Integrated Protocol"
+        ],
+        "explanation_en": "IP stands for Internet Protocol, which is used for network data transfer."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा डेटा बेस मॉडल है?",
@@ -2664,7 +3294,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is a data base model?",
+        "options_en": [
+          "hierarchical",
+          "MP3",
+          "JPEG",
+          "TXT"
+        ],
+        "explanation_en": "Hierarchical is a data base model, which organizes data in a tree-like structure."
+      }
     },
     {
       "question": "MS Word में Page Break जोड़ने की शॉर्टकट कुंजी क्या है?",
@@ -2683,7 +3323,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to add page break in MS Word?",
+        "options_en": [
+          "Ctrl + Enter",
+          "Ctrl+P",
+          "Ctrl+S",
+          "Ctrl + N"
+        ],
+        "explanation_en": "Ctrl + Enter is used to add page break in MS Word."
+      }
     },
     {
       "question": "कंप्यूटर में में Spyware क्या है?",
@@ -2702,7 +3352,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Spyware in Computer?",
+        "options_en": [
+          "a hardware",
+          "a malware",
+          "an operating system",
+          "a database"
+        ],
+        "explanation_en": "Spyware is a malware, which steals user information."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा प्रोटोकॉल ईमेल भेजने के लिए उपयोग होता है?",
@@ -2721,7 +3381,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following protocols is used to send email?",
+        "options_en": [
+          "smtp",
+          "ftp",
+          "http",
+          "DNS"
+        ],
+        "explanation_en": "SMTP (Simple Mail Transfer Protocol) is used to send emails."
+      }
     },
     {
       "question": "MS Excel में IF फंक्शन का उपयोग किसके लिए होता है?",
@@ -2740,7 +3410,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is IF function used for in MS Excel?",
+        "options_en": [
+          "calculation based on condition",
+          "to do yoga",
+          "find the average",
+          "find maximum value"
+        ],
+        "explanation_en": "IF function is used in MS Excel to perform calculations based on condition."
+      }
     },
     {
       "question": "CPU का पूरा नाम क्या है?",
@@ -2759,7 +3439,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of CPU?",
+        "options_en": [
+          "Central Processing Unit",
+          "Computer Processing Unit",
+          "Central Program Unit",
+          "Computer Program Unit"
+        ],
+        "explanation_en": "The full name of CPU is Central Processing Unit. It is the brain of the computer that does all the calculations."
+      }
     },
     {
       "question": "RAM का उपयोग किस लिए किया जाता है?",
@@ -2778,7 +3468,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is RAM used for?",
+        "options_en": [
+          "permanent data storage",
+          "temporary data storage",
+          "data processing",
+          "output display"
+        ],
+        "explanation_en": "RAM (Random Access Memory) is used for temporary data storage, which helps in running programs."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा एक ऑपरेटिंग सिस्टम है?",
@@ -2797,7 +3497,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an operating system?",
+        "options_en": [
+          "ms word",
+          "windows 10",
+          "Photoshop",
+          "chrome"
+        ],
+        "explanation_en": "Windows 10 is an operating system that manages the hardware and software of a computer."
+      }
     },
     {
       "question": "इंटरनेट ब्राउज़ करने के लिए किसका उपयोग होता है?",
@@ -2816,7 +3526,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is used to browse the Internet?",
+        "options_en": [
+          "Web browser",
+          "word processors",
+          "spreadsheet",
+          "database"
+        ],
+        "explanation_en": "Web browsers, such as Google Chrome or Firefox, are used to view websites on the Internet."
+      }
     },
     {
       "question": "1 बाइट में कितने बिट्स होते हैं?",
@@ -2835,7 +3555,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many bits are there in 1 byte?",
+        "options_en": [
+          "4",
+          "8",
+          "16",
+          "32"
+        ],
+        "explanation_en": "1 byte contains 8 bits, which is a basic unit of data."
+      }
     },
     {
       "question": "हार्ड डिस्क का मुख्य कार्य क्या है?",
@@ -2854,7 +3584,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main function of hard disk?",
+        "options_en": [
+          "data processing",
+          "temporary storage",
+          "permanent data storage",
+          "output display"
+        ],
+        "explanation_en": "Hard disk is used to store data permanently."
+      }
     },
     {
       "question": "WWW का पूरा नाम क्या है?",
@@ -2873,7 +3613,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of WWW?",
+        "options_en": [
+          "world wide web",
+          "web world wide",
+          "world web work",
+          "wide web world"
+        ],
+        "explanation_en": "The full form of WWW is World Wide Web, which is a network of websites on the Internet."
+      }
     },
     {
       "question": "USB का पूरा नाम क्या है?",
@@ -2892,7 +3642,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of USB?",
+        "options_en": [
+          "Universal Serial Bus",
+          "United Serial Bus",
+          "Universal System Bus",
+          "United System Bus"
+        ],
+        "explanation_en": "The full name of USB is Universal Serial Bus, which is used for data transfer and device connection."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा एक एप्लिकेशन सॉफ्टवेयर है?",
@@ -2911,7 +3671,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is an application software?",
+        "options_en": [
+          "linux",
+          "ms excel",
+          "Firewall",
+          "Driver"
+        ],
+        "explanation_en": "MS Excel is an application software used for spreadsheet management."
+      }
     },
     {
       "question": "कंप्यूटर में डेटा को अस्थायी रूप से स्टोर करने के लिए किस मेमोरी का उपयोग होता है?",
@@ -2930,7 +3700,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which memory is used to temporarily store data in a computer?",
+        "options_en": [
+          "ROM",
+          "RAM",
+          "hard disk",
+          "SSD"
+        ],
+        "explanation_en": "RAM (Random Access Memory) is used to store data temporarily."
+      }
     },
     {
       "question": "इंटरनेट कनेक्शन के लिए निम्नलिखित में से कौन सा उपकरण आवश्यक है?",
@@ -2949,7 +3729,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following devices is required for Internet connection?",
+        "options_en": [
+          "modem",
+          "printer",
+          "monitor",
+          "keyboard"
+        ],
+        "explanation_en": "The modem is essential for establishing an Internet connection because it converts network signals into digital data."
+      }
     },
     {
       "question": "फाइल को व्यवस्थित करने के लिए कंप्यूटर में क्या उपयोग होता है?",
@@ -2968,7 +3758,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is used in computer to organize files?",
+        "options_en": [
+          "folder",
+          "program",
+          "Driver",
+          "cash"
+        ],
+        "explanation_en": "Folders are used to organize and store files."
+      }
     },
     {
       "question": "HTTP का उपयोग किस लिए किया जाता है?",
@@ -2987,7 +3787,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is HTTP used for?",
+        "options_en": [
+          "data storage",
+          "web page transfer",
+          "hardware connection",
+          "program installation"
+        ],
+        "explanation_en": "HTTP (Hypertext Transfer Protocol) is used to transfer web pages over the Internet."
+      }
     },
     {
       "question": "RAM का पूरा नाम क्या है?",
@@ -3006,7 +3816,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of RAM?",
+        "options_en": [
+          "Random Access Memory",
+          "Read Access Memory",
+          "Rapid Access Memory",
+          "Real Access Memory"
+        ],
+        "explanation_en": "The full name of RAM is Random Access Memory."
+      }
     },
     {
       "question": "इंटरनेट का आविष्कार कब हुआ?",
@@ -3025,7 +3845,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "When was the Internet invented?",
+        "options_en": [
+          "1969",
+          "1970",
+          "1971",
+          "1972"
+        ],
+        "explanation_en": "The Internet was invented in 1969."
+      }
     },
     {
       "question": "HTML का पूरा नाम क्या है?",
@@ -3044,7 +3874,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of HTML?",
+        "options_en": [
+          "HyperText Markup Language",
+          "High Text Markup Language",
+          "HyperText Machine Language",
+          "High Text Machine Language"
+        ],
+        "explanation_en": "The full name of HTML is HyperText Markup Language."
+      }
     },
     {
       "question": "ROM का पूरा नाम क्या है?",
@@ -3063,7 +3903,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of ROM?",
+        "options_en": [
+          "Read Open Memory",
+          "Rapid Only Memory",
+          "Read Only Memory",
+          "Random Only Memory"
+        ],
+        "explanation_en": "Correct Answer: Read Only Memory."
+      }
     },
     {
       "question": "ALU का पूरा नाम क्या है?",
@@ -3082,7 +3932,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of ALU?",
+        "options_en": [
+          "Arithmetic Logic Unit",
+          "Advanced Logic Unit",
+          "All Logic Unit",
+          "Arithmetic Logical Use"
+        ],
+        "explanation_en": "Correct Answer: Arithmetic Logic Unit."
+      }
     },
     {
       "question": "कंप्यूटर का मस्तिष्क किसे कहते हैं?",
@@ -3093,7 +3953,7 @@
         "CPU"
       ],
       "correctIndex": 3,
-      "explanation": "सही उत्तर: CPU।",
+      "explanation": "सही उत्तर [D]PU।",
       "subCategory": "कंप्यूटर",
       "difficulty": "easy",
       "questionType": "mcq",
@@ -3101,7 +3961,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is called brain of computer?",
+        "options_en": [
+          "monitor",
+          "RAM",
+          "Hard Disk",
+          "CPU"
+        ],
+        "explanation_en": "Correct Answer: CPU."
+      }
     },
     {
       "question": "RAM किस प्रकार की मेमोरी है?",
@@ -3120,7 +3990,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of memory is RAM?",
+        "options_en": [
+          "Volatile",
+          "cash",
+          "Non-Volatile",
+          "secondary"
+        ],
+        "explanation_en": "Correct Answer: Volatile."
+      }
     },
     {
       "question": "ROM किस प्रकार की मेमोरी है?",
@@ -3139,7 +4019,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of memory is ROM?",
+        "options_en": [
+          "cash",
+          "Non-Volatile",
+          "Volatile",
+          "primary"
+        ],
+        "explanation_en": "Correct Answer: Non-Volatile."
+      }
     },
     {
       "question": "1 KB (Kilobyte) में कितने Bytes होते हैं?",
@@ -3158,7 +4048,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many bytes are there in 1 KB (Kilobyte)?",
+        "options_en": [
+          "512 bytes",
+          "1000 bytes",
+          "1024 bytes",
+          "2048 bytes"
+        ],
+        "explanation_en": "Correct Answer: 1024 Bytes."
+      }
     },
     {
       "question": "1 MB (Megabyte) में कितने KB होते हैं?",
@@ -3177,7 +4077,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many KB are there in 1 MB (Megabyte)?",
+        "options_en": [
+          "1000 KB",
+          "1024 KB",
+          "512 KB",
+          "2048 KB"
+        ],
+        "explanation_en": "Correct Answer: 1024 KB."
+      }
     },
     {
       "question": "1 GB (Gigabyte) में कितने MB होते हैं?",
@@ -3196,7 +4106,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many MB are there in 1 GB (Gigabyte)?",
+        "options_en": [
+          "2048 MB",
+          "1024 MB",
+          "1000MB",
+          "512MB"
+        ],
+        "explanation_en": "Correct Answer: 1024 MB."
+      }
     },
     {
       "question": "1 TB (Terabyte) में कितने GB होते हैं?",
@@ -3215,7 +4135,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many GB are there in 1 TB (Terabyte)?",
+        "options_en": [
+          "512 GB",
+          "1024 GB",
+          "2048 GB",
+          "1000GB"
+        ],
+        "explanation_en": "Correct Answer: 1024 GB."
+      }
     },
     {
       "question": "बाइनरी संख्या प्रणाली का आधार (Base) क्या है?",
@@ -3234,7 +4164,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the base of binary number system?",
+        "options_en": [
+          "8",
+          "2",
+          "10",
+          "16"
+        ],
+        "explanation_en": "Correct answer: 2."
+      }
     },
     {
       "question": "ऑक्टल संख्या प्रणाली का आधार (Base) क्या है?",
@@ -3253,7 +4193,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the base of octal number system?",
+        "options_en": [
+          "2",
+          "16",
+          "10",
+          "8"
+        ],
+        "explanation_en": "Correct answer: 8."
+      }
     },
     {
       "question": "हेक्साडेसिमल संख्या प्रणाली का आधार (Base) क्या है?",
@@ -3272,7 +4222,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the base of hexadecimal number system?",
+        "options_en": [
+          "16",
+          "2",
+          "10",
+          "8"
+        ],
+        "explanation_en": "Correct answer: 16."
+      }
     },
     {
       "question": "डेसिमल संख्या प्रणाली का आधार (Base) क्या है?",
@@ -3291,7 +4251,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the base of decimal number system?",
+        "options_en": [
+          "2",
+          "8",
+          "10",
+          "16"
+        ],
+        "explanation_en": "Correct answer: 10."
+      }
     },
     {
       "question": "निम्नलिखित में से कौन सा इनपुट और आउटपुट दोनों है?",
@@ -3310,7 +4280,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is both input and output?",
+        "options_en": [
+          "Speaker",
+          "printer",
+          "touchscreen",
+          "keyboard"
+        ],
+        "explanation_en": "Correct Answer: Touchscreen."
+      }
     },
     {
       "question": "स्कैनर क्या है?",
@@ -3329,7 +4309,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a scanner?",
+        "options_en": [
+          "processing device",
+          "input device",
+          "output device",
+          "storage device"
+        ],
+        "explanation_en": "Correct Answer: Input device."
+      }
     },
     {
       "question": "मॉनिटर क्या है?",
@@ -3348,7 +4338,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a monitor?",
+        "options_en": [
+          "input device",
+          "output device",
+          "processing device",
+          "storage device"
+        ],
+        "explanation_en": "Correct Answer: Output device."
+      }
     },
     {
       "question": "माउस क्या है?",
@@ -3367,7 +4367,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a mouse?",
+        "options_en": [
+          "output device",
+          "processing device",
+          "storage device",
+          "pointing input device"
+        ],
+        "explanation_en": "Correct Answer: Pointing input device."
+      }
     },
     {
       "question": "बारकोड रीडर क्या है?",
@@ -3386,7 +4396,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a barcode reader?",
+        "options_en": [
+          "output device",
+          "storage device",
+          "networking device",
+          "input device"
+        ],
+        "explanation_en": "Correct Answer: Input device."
+      }
     },
     {
       "question": "प्रोजेक्टर क्या है?",
@@ -3405,7 +4425,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is a projector?",
+        "options_en": [
+          "processing device",
+          "storage device",
+          "output device",
+          "input device"
+        ],
+        "explanation_en": "Correct Answer: Output device."
+      }
     },
     {
       "question": "ऑपरेटिंग सिस्टम का उदाहरण कौन सा है?",
@@ -3424,7 +4454,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is an example of an operating system?",
+        "options_en": [
+          "Chrome, Firefox",
+          "Windows, Linux, macOS",
+          "MS Word, Excel",
+          "Photoshop, CorelDRAW"
+        ],
+        "explanation_en": "Correct Answer: Windows, Linux, macOS."
+      }
     },
     {
       "question": "MS Word क्या है?",
@@ -3443,7 +4483,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is MS Word?",
+        "options_en": [
+          "word processing software",
+          "presentation software",
+          "database software",
+          "spreadsheet software"
+        ],
+        "explanation_en": "Correct Answer: Word processing software."
+      }
     },
     {
       "question": "MS Excel क्या है?",
@@ -3462,7 +4512,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is MS Excel?",
+        "options_en": [
+          "presentation software",
+          "database software",
+          "word processing software",
+          "spreadsheet software"
+        ],
+        "explanation_en": "Correct Answer: Spreadsheet software."
+      }
     },
     {
       "question": "MS PowerPoint क्या है?",
@@ -3481,7 +4541,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is MS PowerPoint?",
+        "options_en": [
+          "presentation software",
+          "spreadsheet",
+          "word processing",
+          "database"
+        ],
+        "explanation_en": "Correct Answer: Presentation Software."
+      }
     },
     {
       "question": "MS Access क्या है?",
@@ -3500,7 +4570,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is MS Access?",
+        "options_en": [
+          "word processing",
+          "database management software",
+          "spreadsheet",
+          "presentation"
+        ],
+        "explanation_en": "Correct Answer: Database Management Software."
+      }
     },
     {
       "question": "Linux क्या है?",
@@ -3519,7 +4599,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Linux?",
+        "options_en": [
+          "antivirus",
+          "word processors",
+          "open source operating system",
+          "browser"
+        ],
+        "explanation_en": "Correct Answer: Open source operating system."
+      }
     },
     {
       "question": "एंटीवायरस सॉफ्टवेयर क्या करता है?",
@@ -3538,7 +4628,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does antivirus software do?",
+        "options_en": [
+          "runs the internet",
+          "stores data",
+          "Protects computer from viruses",
+          "prints"
+        ],
+        "explanation_en": "Correct Answer: Protects the computer from viruses."
+      }
     },
     {
       "question": "HTTP का पूरा नाम क्या है?",
@@ -3557,7 +4657,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of HTTP?",
+        "options_en": [
+          "High Transfer Protocol",
+          "HyperText Transmission Protocol",
+          "HyperText Transfer Protocol",
+          "HyperText Transport Protocol"
+        ],
+        "explanation_en": "Correct Answer: HyperText Transfer Protocol."
+      }
     },
     {
       "question": "URL का पूरा नाम क्या है?",
@@ -3576,7 +4686,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of URL?",
+        "options_en": [
+          "Uniform Remote Locator",
+          "United Resource Locator",
+          "Uniform Resource Locator",
+          "Universal Resource Locator"
+        ],
+        "explanation_en": "Correct Answer: Uniform Resource Locator."
+      }
     },
     {
       "question": "IP Address का पूरा नाम क्या है?",
@@ -3595,7 +4715,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of IP Address?",
+        "options_en": [
+          "Internet Personal Address",
+          "Internet Protocol Address",
+          "Internal Protocol Address",
+          "Internet Program Address"
+        ],
+        "explanation_en": "Correct Answer: Internet Protocol Address."
+      }
     },
     {
       "question": "DNS का पूरा नाम क्या है?",
@@ -3606,7 +4736,7 @@
         "Digital Name System"
       ],
       "correctIndex": 1,
-      "explanation": "सही उत्तर: Domain Name System।",
+      "explanation": "सही उत्तर [B]omain Name System।",
       "subCategory": "कंप्यूटर",
       "difficulty": "easy",
       "questionType": "mcq",
@@ -3614,7 +4744,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of DNS?",
+        "options_en": [
+          "Data Name System",
+          "Domain Name System",
+          "Domain Network System",
+          "Digital Name System"
+        ],
+        "explanation_en": "Correct Answer: Domain Name System."
+      }
     },
     {
       "question": "ISP का पूरा नाम क्या है?",
@@ -3633,7 +4773,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of ISP?",
+        "options_en": [
+          "Internet Software Provider",
+          "Internal Service Provider",
+          "Internet Service Provider",
+          "Internet System Provider"
+        ],
+        "explanation_en": "Correct Answer: Internet Service Provider."
+      }
     },
     {
       "question": "Wi-Fi का पूरा नाम क्या है?",
@@ -3652,7 +4802,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of Wi-Fi?",
+        "options_en": [
+          "Wireless Fidelity",
+          "Wireless Finder",
+          "Wireless File",
+          "Wide Fidelity"
+        ],
+        "explanation_en": "Correct Answer: Wireless Fidelity."
+      }
     },
     {
       "question": "LAN का पूरा नाम क्या है?",
@@ -3671,7 +4831,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of LAN?",
+        "options_en": [
+          "Long Area Network",
+          "Large Area Network",
+          "Local Access Network",
+          "Local Area Network"
+        ],
+        "explanation_en": "Correct Answer: Local Area Network."
+      }
     },
     {
       "question": "WAN का पूरा नाम क्या है?",
@@ -3690,7 +4860,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of WAN?",
+        "options_en": [
+          "Web Area Network",
+          "Wide Area Network",
+          "World Area Network",
+          "Wireless Area Network"
+        ],
+        "explanation_en": "Correct Answer: Wide Area Network."
+      }
     },
     {
       "question": "MAN का पूरा नाम क्या है?",
@@ -3709,7 +4889,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of MAN?",
+        "options_en": [
+          "Metropolitan Area Network",
+          "Modern Area Network",
+          "Main Area Network",
+          "Mega Area Network"
+        ],
+        "explanation_en": "Correct Answer: Metropolitan Area Network."
+      }
     },
     {
       "question": "ई-मेल (E-mail) का पूरा नाम क्या है?",
@@ -3728,7 +4918,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of e-mail?",
+        "options_en": [
+          "Extended Mail",
+          "Electronic Mail",
+          "Express Mail",
+          "Emergency Mail"
+        ],
+        "explanation_en": "Correct Answer: Electronic Mail."
+      }
     },
     {
       "question": "MS Excel में SUM फंक्शन क्या करता है?",
@@ -3747,7 +4947,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does SUM function do in MS Excel?",
+        "options_en": [
+          "counts",
+          "adds numbers",
+          "extracts maximum",
+          "averages out"
+        ],
+        "explanation_en": "Correct Answer: Adds numbers."
+      }
     },
     {
       "question": "MS Excel में AVERAGE फंक्शन क्या करता है?",
@@ -3766,7 +4976,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does the AVERAGE function do in MS Excel?",
+        "options_en": [
+          "counts",
+          "averages numbers",
+          "takes out the minimum",
+          "does yoga"
+        ],
+        "explanation_en": "Correct Answer: Finds the average of numbers."
+      }
     },
     {
       "question": "MS Excel में COUNT फंक्शन क्या करता है?",
@@ -3785,7 +5005,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does COUNT function do in MS Excel?",
+        "options_en": [
+          "extracts maximum",
+          "counts numeric values",
+          "does yoga",
+          "averages out"
+        ],
+        "explanation_en": "Correct Answer: Counts numerical values."
+      }
     },
     {
       "question": "MS Excel में MAX फंक्शन क्या करता है?",
@@ -3804,7 +5034,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does MAX function do in MS Excel?",
+        "options_en": [
+          "extracts the maximum value",
+          "minimum value",
+          "average",
+          "sum"
+        ],
+        "explanation_en": "Correct Answer: Finds the maximum value."
+      }
     },
     {
       "question": "MS Excel में MIN फंक्शन क्या करता है?",
@@ -3823,7 +5063,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does MIN function do in MS Excel?",
+        "options_en": [
+          "sum",
+          "maximum value",
+          "Finds the minimum value",
+          "average"
+        ],
+        "explanation_en": "Correct Answer: Finds the minimum value."
+      }
     },
     {
       "question": "MS Excel में IF फंक्शन क्या करता है?",
@@ -3842,7 +5092,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does IF function do in MS Excel?",
+        "options_en": [
+          "does yoga",
+          "counts",
+          "averages out",
+          "Returns value based on condition"
+        ],
+        "explanation_en": "Correct Answer: Returns a value based on a condition."
+      }
     },
     {
       "question": "Ctrl+C शॉर्टकट किसके लिए है?",
@@ -3853,7 +5113,7 @@
         "Copy"
       ],
       "correctIndex": 3,
-      "explanation": "सही उत्तर: Copy।",
+      "explanation": "सही उत्तर [D]opy।",
       "subCategory": "कंप्यूटर",
       "difficulty": "easy",
       "questionType": "mcq",
@@ -3861,7 +5121,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+C shortcut for?",
+        "options_en": [
+          "Cut",
+          "Paste",
+          "Close",
+          "copy"
+        ],
+        "explanation_en": "Correct Answer: Copy."
+      }
     },
     {
       "question": "Ctrl+V शॉर्टकट किसके लिए है?",
@@ -3880,7 +5150,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+V shortcut for?",
+        "options_en": [
+          "copy",
+          "view",
+          "Cut",
+          "Paste"
+        ],
+        "explanation_en": "Correct Answer: Paste."
+      }
     },
     {
       "question": "Ctrl+X शॉर्टकट किसके लिए है?",
@@ -3891,7 +5171,7 @@
         "Cut"
       ],
       "correctIndex": 3,
-      "explanation": "सही उत्तर: Cut।",
+      "explanation": "सही उत्तर [D]ut।",
       "subCategory": "कंप्यूटर",
       "difficulty": "easy",
       "questionType": "mcq",
@@ -3899,7 +5179,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+X shortcut for?",
+        "options_en": [
+          "copy",
+          "Paste",
+          "Close",
+          "Cut"
+        ],
+        "explanation_en": "Correct Answer: Cut."
+      }
     },
     {
       "question": "Ctrl+Z शॉर्टकट किसके लिए है?",
@@ -3918,7 +5208,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+Z shortcut for?",
+        "options_en": [
+          "redo",
+          "Zoom",
+          "Close",
+          "Undo"
+        ],
+        "explanation_en": "Correct Answer: Undo."
+      }
     },
     {
       "question": "Ctrl+Y शॉर्टकट किसके लिए है?",
@@ -3937,7 +5237,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+Y shortcut for?",
+        "options_en": [
+          "Undo",
+          "copy",
+          "Paste",
+          "redo"
+        ],
+        "explanation_en": "Correct Answer: Redo."
+      }
     },
     {
       "question": "Ctrl+S शॉर्टकट किसके लिए है?",
@@ -3956,7 +5266,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+S shortcut for?",
+        "options_en": [
+          "share",
+          "save",
+          "Select All",
+          "Search"
+        ],
+        "explanation_en": "Correct Answer: Save."
+      }
     },
     {
       "question": "Ctrl+A शॉर्टकट किसके लिए है?",
@@ -3975,7 +5295,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+A shortcut for?",
+        "options_en": [
+          "add",
+          "save",
+          "align",
+          "Select All"
+        ],
+        "explanation_en": "Correct Answer: Select All."
+      }
     },
     {
       "question": "Ctrl+P शॉर्टकट किसके लिए है?",
@@ -3994,7 +5324,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+P shortcut for?",
+        "options_en": [
+          "Paste",
+          "print",
+          "Properties",
+          "Preview"
+        ],
+        "explanation_en": "Correct Answer: Print."
+      }
     },
     {
       "question": "Ctrl+F शॉर्टकट किसके लिए है?",
@@ -4013,7 +5353,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Ctrl+F shortcut for?",
+        "options_en": [
+          "file",
+          "Format",
+          "Font",
+          "find"
+        ],
+        "explanation_en": "Correct Answer: Find."
+      }
     },
     {
       "question": "Alt+F4 शॉर्टकट किसके लिए है?",
@@ -4032,7 +5382,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the Alt+F4 shortcut for?",
+        "options_en": [
+          "to print",
+          "open new file",
+          "Close the program",
+          "to save"
+        ],
+        "explanation_en": "Correct Answer: Close the program."
+      }
     },
     {
       "question": "F5 Key MS PowerPoint में क्या करती है?",
@@ -4051,7 +5411,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does F5 key do in MS PowerPoint?",
+        "options_en": [
+          "create a new slide",
+          "start slide show",
+          "to print",
+          "save file"
+        ],
+        "explanation_en": "Correct Answer: Starting a slide show."
+      }
     },
     {
       "question": "कंप्यूटर के जनक (Father of Computer) कौन हैं?",
@@ -4070,7 +5440,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who is the Father of Computer?",
+        "options_en": [
+          "Steve Jobs",
+          "Bill Gates",
+          "alan turing",
+          "Charles Babbage"
+        ],
+        "explanation_en": "Correct Answer: Charles Babbage."
+      }
     },
     {
       "question": "प्रथम इलेक्ट्रॉनिक कंप्यूटर कौन सा था?",
@@ -4089,7 +5469,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which was the first electronic computer?",
+        "options_en": [
+          "ENIAC",
+          "MARK-I",
+          "UNIVAC",
+          "EDVAC"
+        ],
+        "explanation_en": "Correct Answer: ENIAC."
+      }
     },
     {
       "question": "भारत का पहला सुपरकंप्यूटर कौन सा है?",
@@ -4108,7 +5498,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which is India's first supercomputer?",
+        "options_en": [
+          "PARAM 10000",
+          "PARAM 8000",
+          "PRATYUSH",
+          "AADITYA"
+        ],
+        "explanation_en": "Correct Answer: PARAM 8000."
+      }
     },
     {
       "question": "इंटरनेट का आविष्कार किसने किया?",
@@ -4127,7 +5527,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who invented the internet?",
+        "options_en": [
+          "Tim Berners-Lee",
+          "Bill Gates",
+          "mark zuckerberg",
+          "Vint Cerf and Bob Kahn"
+        ],
+        "explanation_en": "Correct Answer: Vint Cerf and Bob Kahn."
+      }
     },
     {
       "question": "WWW (वर्ल्ड वाइड वेब) किसने बनाया?",
@@ -4146,7 +5556,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who created WWW (World Wide Web)?",
+        "options_en": [
+          "larry page",
+          "Tim Berners-Lee",
+          "vint surf",
+          "Bill Gates"
+        ],
+        "explanation_en": "Correct Answer: Tim Berners-Lee."
+      }
     },
     {
       "question": "Google की स्थापना किसने की?",
@@ -4165,7 +5585,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who founded Google?",
+        "options_en": [
+          "mark zuckerberg",
+          "Larry Page and Sergey Brin",
+          "Steve Jobs",
+          "Bill Gates"
+        ],
+        "explanation_en": "Correct Answer: Larry Page and Sergey Brin."
+      }
     },
     {
       "question": "Facebook (Meta) की स्थापना किसने की?",
@@ -4184,7 +5614,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who founded Facebook (Meta)?",
+        "options_en": [
+          "larry page",
+          "jack dorsey",
+          "Bill Gates",
+          "mark zuckerberg"
+        ],
+        "explanation_en": "Correct Answer: Mark Zuckerberg."
+      }
     },
     {
       "question": "Microsoft की स्थापना किसने की?",
@@ -4203,7 +5643,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who founded Microsoft?",
+        "options_en": [
+          "Steve Jobs",
+          "Bill Gates and Paul Allen",
+          "mark zuckerberg",
+          "larry page"
+        ],
+        "explanation_en": "Correct Answer: Bill Gates and Paul Allen."
+      }
     },
     {
       "question": "Apple कंपनी की स्थापना किसने की?",
@@ -4222,7 +5672,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who founded Apple company?",
+        "options_en": [
+          "jeff bezos",
+          "Steve Jobs, Steve Wozniak",
+          "Bill Gates",
+          "mark zuckerberg"
+        ],
+        "explanation_en": "Correct Answer: Steve Jobs, Steve Wozniak."
+      }
     },
     {
       "question": "प्रथम पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
@@ -4241,7 +5701,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What was used in the first generation computer?",
+        "options_en": [
+          "vacuum tube",
+          "microprocessor",
+          "transistor",
+          "I C"
+        ],
+        "explanation_en": "Correct Answer: Vacuum Tube."
+      }
     },
     {
       "question": "द्वितीय पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
@@ -4260,7 +5730,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What was used in second generation computers?",
+        "options_en": [
+          "I C",
+          "transistor",
+          "microprocessor",
+          "vacuum tube"
+        ],
+        "explanation_en": "Correct Answer: Transistor."
+      }
     },
     {
       "question": "तृतीय पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
@@ -4279,7 +5759,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What was used in third generation computers?",
+        "options_en": [
+          "vacuum tube",
+          "transistor",
+          "microprocessor",
+          "IC (Integrated Circuit)"
+        ],
+        "explanation_en": "Correct Answer: IC (Integrated Circuit)."
+      }
     },
     {
       "question": "चतुर्थ पीढ़ी के कंप्यूटर में क्या प्रयोग होता था?",
@@ -4298,7 +5788,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What was used in fourth generation computers?",
+        "options_en": [
+          "Microprocessor (VLSI)",
+          "transistor",
+          "I C",
+          "vacuum tube"
+        ],
+        "explanation_en": "Correct Answer: Microprocessor (VLSI)."
+      }
     },
     {
       "question": "पंचम पीढ़ी के कंप्यूटर की विशेषता क्या है?",
@@ -4317,7 +5817,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What are the characteristics of fifth generation computers?",
+        "options_en": [
+          "Artificial Intelligence (AI)",
+          "microprocessor",
+          "I C",
+          "transistor"
+        ],
+        "explanation_en": "Correct Answer: Artificial Intelligence (AI)."
+      }
     },
     {
       "question": "फायरवॉल (Firewall) क्या है?",
@@ -4336,7 +5846,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Firewall?",
+        "options_en": [
+          "database",
+          "antivirus",
+          "operating system",
+          "network security system"
+        ],
+        "explanation_en": "Correct Answer: Network Security System."
+      }
     },
     {
       "question": "हैकिंग (Hacking) क्या है?",
@@ -4355,7 +5875,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Hacking?",
+        "options_en": [
+          "programming",
+          "networking",
+          "Unauthorized entry into computer/network",
+          "data entry"
+        ],
+        "explanation_en": "Correct Answer: Unauthorized entry into a computer/network."
+      }
     },
     {
       "question": "फिशिंग (Phishing) क्या है?",
@@ -4374,7 +5904,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Phishing?",
+        "options_en": [
+          "hacking",
+          "Stealing personal information through fake website/email",
+          "programming",
+          "virus"
+        ],
+        "explanation_en": "Correct Answer: Stealing personal information through fake website/email."
+      }
     },
     {
       "question": "रैनसमवेयर (Ransomware) क्या है?",
@@ -4393,7 +5933,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Ransomware?",
+        "options_en": [
+          "antivirus",
+          "browser",
+          "Malware that encrypts data and demands ransom",
+          "Firewall"
+        ],
+        "explanation_en": "Correct Answer: Malware that encrypts data and demands ransom."
+      }
     },
     {
       "question": "'.pdf' फाइल एक्सटेंशन किसकी है?",
@@ -4412,7 +5962,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is '.pdf' file extension?",
+        "options_en": [
+          "Portable Document Format",
+          "Program Data File",
+          "Public Document File",
+          "Personal Data File"
+        ],
+        "explanation_en": "Correct Answer: Portable Document Format."
+      }
     },
     {
       "question": "'.xlsx' फाइल एक्सटेंशन किस सॉफ्टवेयर की है?",
@@ -4431,7 +5991,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which software has '.xlsx' file extension?",
+        "options_en": [
+          "MS Access",
+          "MS Excel",
+          "MS Word",
+          "MS PowerPoint"
+        ],
+        "explanation_en": "Correct Answer: MS Excel."
+      }
     },
     {
       "question": "'.docx' फाइल एक्सटेंशन किस सॉफ्टवेयर की है?",
@@ -4450,7 +6020,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which software has '.docx' file extension?",
+        "options_en": [
+          "MS Word",
+          "MS PowerPoint",
+          "MS Excel",
+          "Notepad"
+        ],
+        "explanation_en": "Correct Answer: MS Word."
+      }
     },
     {
       "question": "'.pptx' फाइल एक्सटेंशन किस सॉफ्टवेयर की है?",
@@ -4469,7 +6049,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Which software has '.pptx' file extension?",
+        "options_en": [
+          "MS Access",
+          "MS Word",
+          "MS Excel",
+          "MS PowerPoint"
+        ],
+        "explanation_en": "Correct Answer: MS PowerPoint."
+      }
     },
     {
       "question": "'.jpg' फाइल एक्सटेंशन किसके लिए है?",
@@ -4488,7 +6078,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does '.jpg' file extension stand for?",
+        "options_en": [
+          "Document File",
+          "audio file",
+          "Image/Photo File",
+          "Video file"
+        ],
+        "explanation_en": "Correct Answer: Image/Photo file."
+      }
     },
     {
       "question": "'.mp3' फाइल एक्सटेंशन किसके लिए है?",
@@ -4499,7 +6099,7 @@
         "Image फाइल"
       ],
       "correctIndex": 1,
-      "explanation": "सही उत्तर: Audio फाइल।",
+      "explanation": "सही उत्तर [B]udio फाइल।",
       "subCategory": "कंप्यूटर",
       "difficulty": "easy",
       "questionType": "mcq",
@@ -4507,7 +6107,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does '.mp3' file extension stand for?",
+        "options_en": [
+          "Document File",
+          "audio file",
+          "Video file",
+          "Image file"
+        ],
+        "explanation_en": "Correct Answer: Audio file."
+      }
     },
     {
       "question": "'.mp4' फाइल एक्सटेंशन किसके लिए है?",
@@ -4526,7 +6136,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does '.mp4' file extension stand for?",
+        "options_en": [
+          "Video file",
+          "Image file",
+          "Document File",
+          "audio file"
+        ],
+        "explanation_en": "Correct Answer: Video file."
+      }
     },
     {
       "question": "UMANG App क्या है?",
@@ -4545,7 +6165,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is UMANG App?",
+        "options_en": [
+          "Universal Mobile App",
+          "Unified Management App",
+          "United Mobile App",
+          "Unified Mobile Application for New-age Governance"
+        ],
+        "explanation_en": "Correct Answer: Unified Mobile Application for New-age Governance."
+      }
     },
     {
       "question": "DigiLocker क्या है?",
@@ -4564,7 +6194,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is DigiLocker?",
+        "options_en": [
+          "e-commerce",
+          "online banking",
+          "digital document storage platform",
+          "social media"
+        ],
+        "explanation_en": "Correct Answer: Digital Document Storage Platform."
+      }
     },
     {
       "question": "UPI का पूरा नाम क्या है?",
@@ -4583,7 +6223,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of UPI?",
+        "options_en": [
+          "Universal Payments Interface",
+          "Unified Payments Interface",
+          "Unified Personal Interface",
+          "United Payments Interface"
+        ],
+        "explanation_en": "Correct Answer: Unified Payments Interface."
+      }
     },
     {
       "question": "BHIM App किसके लिए है?",
@@ -4602,7 +6252,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who is BHIM App for?",
+        "options_en": [
+          "shopping online",
+          "social media",
+          "Digital Payment (UPI Payment)",
+          "e-mail"
+        ],
+        "explanation_en": "Correct Answer: Digital Payment (UPI Payment)."
+      }
     },
     {
       "question": "Aadhaar Card में कितने अंकों का नंबर होता है?",
@@ -4621,7 +6281,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many digits are there in Aadhaar Card?",
+        "options_en": [
+          "10 points",
+          "16 points",
+          "12 points",
+          "8 points"
+        ],
+        "explanation_en": "Correct answer: 12 points."
+      }
     },
     {
       "question": "'C' प्रोग्रामिंग भाषा किसने विकसित की?",
@@ -4640,7 +6310,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who developed 'C' programming language?",
+        "options_en": [
+          "james gosling",
+          "Guido van Rossum",
+          "dennis richie",
+          "berne stroustrup"
+        ],
+        "explanation_en": "Correct Answer: Dennis Ritchie."
+      }
     },
     {
       "question": "'Java' प्रोग्रामिंग भाषा किसने बनाई?",
@@ -4659,7 +6339,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who created the 'Java' programming language?",
+        "options_en": [
+          "berne stroustrup",
+          "dennis richie",
+          "james gosling",
+          "Guido van Rossum"
+        ],
+        "explanation_en": "Correct Answer: James Gosling."
+      }
     },
     {
       "question": "'Python' प्रोग्रामिंग भाषा किसने बनाई?",
@@ -4678,7 +6368,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who created the 'Python' programming language?",
+        "options_en": [
+          "Guido van Rossum",
+          "berne stroustrup",
+          "james gosling",
+          "dennis richie"
+        ],
+        "explanation_en": "Correct Answer: Guido van Rossum."
+      }
     },
     {
       "question": "'C++' प्रोग्रामिंग भाषा किसने बनाई?",
@@ -4697,7 +6397,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who created 'C++' programming language?",
+        "options_en": [
+          "james gosling",
+          "Guido van Rossum",
+          "dennis richie",
+          "berne stroustrup"
+        ],
+        "explanation_en": "Correct Answer: Bjarne Stroustrup."
+      }
     },
     {
       "question": "Cloud Computing क्या है?",
@@ -4716,7 +6426,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Cloud Computing?",
+        "options_en": [
+          "Data storage and computing services on the Internet",
+          "software update",
+          "local storage",
+          "hardware"
+        ],
+        "explanation_en": "Correct Answer: Data storage and computing services on the Internet."
+      }
     },
     {
       "question": "AI (Artificial Intelligence) का हिंदी में अर्थ क्या है?",
@@ -4735,7 +6455,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the meaning of AI (Artificial Intelligence) in Hindi?",
+        "options_en": [
+          "artificial intelligence",
+          "natural intelligence",
+          "virtual intelligence",
+          "automated intelligence"
+        ],
+        "explanation_en": "Correct Answer: Artificial Intelligence."
+      }
     },
     {
       "question": "IoT (Internet of Things) क्या है?",
@@ -4754,18 +6484,28 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is IoT (Internet of Things)?",
+        "options_en": [
+          "browser",
+          "technology to connect devices to the internet",
+          "operating system",
+          "Internet service"
+        ],
+        "explanation_en": "Correct Answer: Technology of connecting devices to the Internet."
+      }
     },
     {
       "question": "Bluetooth क्या है?",
       "options": [
-        "वायरलेस डेटा ट्रांसफर तकनीक (शॉर्ट रेंज)",
+        "वायरलेस डेटा ट्रांसफर तकनीक",
         "GPS",
         "इंटरनेट",
         "Wi-Fi"
       ],
       "correctIndex": 0,
-      "explanation": "सही उत्तर: वायरलेस डेटा ट्रांसफर तकनीक (शॉर्ट रेंज)।",
+      "explanation": "सही उत्तर: वायरलेस डेटा ट्रांसफर तकनीक (शॉर्ट रेंज)। (शॉर्ट रेंज)",
       "subCategory": "कंप्यूटर",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -4773,7 +6513,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Bluetooth?",
+        "options_en": [
+          "Wireless Data Transfer Technology (Short Range)",
+          "GPS",
+          "Internet",
+          "Wi-Fi"
+        ],
+        "explanation_en": "Correct Answer: Wireless Data Transfer Technology (Short Range)."
+      }
     },
     {
       "question": "GPS का पूरा नाम क्या है?",
@@ -4792,7 +6542,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of GPS?",
+        "options_en": [
+          "General Positioning System",
+          "Global Program System",
+          "Global Personal System",
+          "Global Positioning System"
+        ],
+        "explanation_en": "Correct Answer: Global Positioning System."
+      }
     },
     {
       "question": "PDF का पूरा नाम क्या है?",
@@ -4811,7 +6571,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of PDF?",
+        "options_en": [
+          "Portable Document Format",
+          "Personal Document Format",
+          "Print Document Format",
+          "Public Document Format"
+        ],
+        "explanation_en": "Correct Answer: Portable Document Format."
+      }
     },
     {
       "question": "ASCII का पूरा नाम क्या है?",
@@ -4822,7 +6592,7 @@
         "Automated Standard Code for Information"
       ],
       "correctIndex": 2,
-      "explanation": "सही उत्तर: American Standard Code for Information Interchange।",
+      "explanation": "सही उत्तर [C]merican Standard Code for Information Interchange।",
       "subCategory": "कंप्यूटर",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -4830,7 +6600,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of ASCII?",
+        "options_en": [
+          "Advanced Standard Code for Information",
+          "American System Code for Internet",
+          "American Standard Code for Information Interchange",
+          "Automated Standard Code for Information"
+        ],
+        "explanation_en": "Correct Answer: American Standard Code for Information Interchange."
+      }
     },
     {
       "question": "BIOS का पूरा नाम क्या है?",
@@ -4849,7 +6629,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of BIOS?",
+        "options_en": [
+          "Basic Integrated Operating System",
+          "Basic Input Output System",
+          "Internal Basic Operating System",
+          "Binary Input Output System"
+        ],
+        "explanation_en": "Correct Answer: Basic Input Output System."
+      }
     },
     {
       "question": "SMTP का पूरा नाम क्या है?",
@@ -4868,7 +6658,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of SMTP?",
+        "options_en": [
+          "Simple Mail Transfer Protocol",
+          "Simple Message Transfer Protocol",
+          "Standard Mail Transfer Protocol",
+          "Secure Mail Transfer Protocol"
+        ],
+        "explanation_en": "Correct Answer: Simple Mail Transfer Protocol."
+      }
     },
     {
       "question": "FTP का पूरा नाम क्या है?",
@@ -4887,7 +6687,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full name of FTP?",
+        "options_en": [
+          "File Transmission Protocol",
+          "File Transfer Protocol",
+          "File Transport Protocol",
+          "Fast Transfer Protocol"
+        ],
+        "explanation_en": "Correct Answer: File Transfer Protocol."
+      }
     },
     {
       "question": "MS Word में Header और Footer कहाँ दिखते हैं?",
@@ -4906,7 +6716,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Where are Header and Footer seen in MS Word?",
+        "options_en": [
+          "only above",
+          "between",
+          "top and bottom of page",
+          "left and right"
+        ],
+        "explanation_en": "Correct Answer: Top and bottom of the page."
+      }
     },
     {
       "question": "MS Word में Mail Merge क्या है?",
@@ -4925,7 +6745,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Mail Merge in MS Word?",
+        "options_en": [
+          "send email to",
+          "merge files",
+          "data backup",
+          "Facility to send the same letter to multiple people"
+        ],
+        "explanation_en": "Correct Answer: Facility to send the same letter to many people."
+      }
     },
     {
       "question": "MS Word में Spell Check किसके लिए है?",
@@ -4944,18 +6774,28 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Spell Check in MS Word for?",
+        "options_en": [
+          "printing",
+          "saving",
+          "To check spelling",
+          "formatting"
+        ],
+        "explanation_en": "Correct Answer: To check spelling."
+      }
     },
     {
       "question": "MS Excel में Cell Address क्या होता है?",
       "options": [
         "केवल नंबर",
-        "Column Letter + Row Number (जैसे A1, B2)",
+        "Column Letter + Row Number",
         "केवल Letter",
         "Row + Sheet"
       ],
       "correctIndex": 1,
-      "explanation": "सही उत्तर: Column Letter + Row Number (जैसे A1, B2)।",
+      "explanation": "सही उत्तर [B]olumn Letter + Row Number (जैसे A1, B2)। (जैसे A1, B2)",
       "subCategory": "कंप्यूटर",
       "difficulty": "medium",
       "questionType": "mcq",
@@ -4963,7 +6803,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is Cell Address in MS Excel?",
+        "options_en": [
+          "number only",
+          "Column Letter + Row Number (eg A1, B2)",
+          "Letter only",
+          "Row + Sheet"
+        ],
+        "explanation_en": "Correct Answer: Column Letter + Row Number (e.g. A1, B2)."
+      }
     },
     {
       "question": "MS Excel में Worksheet में कितनी Rows होती हैं?",
@@ -4982,7 +6832,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many rows are there in a worksheet in MS Excel?",
+        "options_en": [
+          "1,000,000",
+          "65,536",
+          "256",
+          "1,048,576"
+        ],
+        "explanation_en": "Correct answer: 1,048,576."
+      }
     },
     {
       "question": "MS Excel में Worksheet में कितने Columns होते हैं?",
@@ -5001,7 +6861,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many columns are there in a worksheet in MS Excel?",
+        "options_en": [
+          "1024",
+          "65,536",
+          "256",
+          "16,384 (XFD)"
+        ],
+        "explanation_en": "Correct Answer: 16,384 (XFD)."
+      }
     },
     {
       "question": "इंटरनेट पर सुरक्षित डेटा संचरण के लिए प्रयुक्त HTTPS प्रोटोकॉल में 'S' का क्या अर्थ है?",
@@ -5020,7 +6890,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What does 'S' stand for in the HTTPS protocol used for secure data transmission over the Internet?",
+        "options_en": [
+          "standard",
+          "secure",
+          "System",
+          "server"
+        ],
+        "explanation_en": "The full form of HTTPS is Hypertext Transfer Protocol Secure. It secures the data between the web browser and the website by using SSL/TLS encryption."
+      }
     },
     {
       "question": "कंप्यूटर में RAM (रैंडम एक्सेस मेमोरी) को किस प्रकार की मेमोरी माना जाता है?",
@@ -5039,7 +6919,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of memory is RAM (Random Access Memory) considered in a computer?",
+        "options_en": [
+          "Non-volatile",
+          "Volatile",
+          "optical",
+          "secondary"
+        ],
+        "explanation_en": "RAM is a volatile memory, which means that all the data stored in it is lost when the computer is turned off or there is a power cut."
+      }
     },
     {
       "question": "कंप्यूटर सुरक्षा में 'Phishing' (फ़िशिंग) का मुख्य उद्देश्य क्या होता है?",
@@ -5058,7 +6948,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main purpose of 'Phishing' in computer security?",
+        "options_en": [
+          "Formatting a Hard Disk",
+          "Stealing sensitive information like passwords and credit cards",
+          "speed up computer",
+          "Updating Antivirus Software"
+        ],
+        "explanation_en": "Phishing is a cyber attack that involves stealing confidential information such as passwords, OTPs or banking details from users through deceptive emails or fake websites."
+      }
     },
     {
       "question": "लिनक्स (Linux) ऑपरेटिंग सिस्टम का मूल कोर (Core) घटक क्या कहलाता है?",
@@ -5077,7 +6977,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the basic core component of Linux operating system called?",
+        "options_en": [
+          "Shell",
+          "Kernel",
+          "BIOS",
+          "Compiler"
+        ],
+        "explanation_en": "The kernel is the central core of the Linux operating system, providing control and coordination between hardware and software processes."
+      }
     },
     {
       "question": "IPv4 पते (Address) का आकार कितने बिट्स (Bits) का होता है?",
@@ -5096,7 +7006,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many bits is the size of an IPv4 address?",
+        "options_en": [
+          "16 bits",
+          "32 bits",
+          "64 bits",
+          "128 bits"
+        ],
+        "explanation_en": "An IPv4 address is 32 bits divided into four octets (e.g. 192.168.1.1). Whereas IPv6 address is of 128 bits."
+      }
     },
     {
       "question": "कंप्यूटर में कैश मेमोरी (Cache Memory) किन दो घटकों के बीच कार्य करती है?",
@@ -5115,7 +7035,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Between which two components does Cache Memory work in a computer?",
+        "options_en": [
+          "CPU and RAM",
+          "RAM and hard disk",
+          "keyboard and monitor",
+          "CPU and hard disk"
+        ],
+        "explanation_en": "Cache memory is extremely fast semiconductor memory that increases processing speed by acting as a buffer between the CPU (processor) and main memory (RAM)."
+      }
     },
     {
       "question": "पायथन (Python) किस प्रकार की प्रोग्रामिंग भाषा है?",
@@ -5134,7 +7064,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What type of programming language is Python?",
+        "options_en": [
+          "low-level machine language",
+          "High-level interpreted language",
+          "assembly language",
+          "markup language only"
+        ],
+        "explanation_en": "Python is a high-level, general-purpose, and interpreted programming language, invented by Guido van Rossum."
+      }
     },
     {
       "question": "क्लाउड कंप्यूटिंग में 'SaaS' का पूर्ण रूप क्या है?",
@@ -5153,7 +7093,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of 'SaaS' in cloud computing?",
+        "options_en": [
+          "Software as a Service",
+          "System as a Service",
+          "Storage as a Service",
+          "Security as a Solution"
+        ],
+        "explanation_en": "The full form of SaaS is 'Software as a Service'. In this, software applications are made available directly to users through the Internet (e.g. Google Docs, Gmail)."
+      }
     },
     {
       "question": "कंप्यूटर शब्दावली में 'Ransomware' (रैनसमवेयर) क्या है?",
@@ -5172,7 +7122,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is 'Ransomware' in computer terminology?",
+        "options_en": [
+          "an antivirus program",
+          "Malware that locks user data and demands ransom",
+          "free open source software",
+          "internet speed boost tool"
+        ],
+        "explanation_en": "Ransomware is a type of malicious software (malware) that encrypts the user's files and demands money (ransom) in exchange for unlocking them."
+      }
     },
     {
       "question": "MS PowerPoint में स्लाइड शो को शुरू से प्रारंभ करने की शॉर्टकट कुंजी क्या है?",
@@ -5191,7 +7151,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the shortcut key to start the slide show from the beginning in MS PowerPoint?",
+        "options_en": [
+          "F5",
+          "Shift + F5",
+          "Ctrl + F5",
+          "F7"
+        ],
+        "explanation_en": "In MS PowerPoint, the F5 key is used to start the slide show from the first slide, while Shift + F5 is pressed to start from the current slide."
+      }
     },
     {
       "question": "कंप्यूटर प्रणाली में 'DNS' का प्राथमिक कार्य क्या है?",
@@ -5210,7 +7180,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the primary function of 'DNS' in computer system?",
+        "options_en": [
+          "send email to",
+          "Converting domain name to IP address",
+          "compressing files",
+          "booting the computer"
+        ],
+        "explanation_en": "The DNS (Domain Name System) functions like the Internet's phonebook, translating human-readable domain names (such as www.google.com) into machine-readable IP addresses."
+      }
     },
     {
       "question": "आर्टिफिशियल इंटेलिजेंस (AI) में 'NLP' का पूर्ण रूप क्या है?",
@@ -5229,7 +7209,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of 'NLP' in Artificial Intelligence (AI)?",
+        "options_en": [
+          "Natural Language Processing",
+          "Neural Logic Protocol",
+          "Network Layer Program",
+          "Native Learning Process"
+        ],
+        "explanation_en": "The full form of NLP is Natural Language Processing. It is the branch of AI that enables computers to understand, analyze, and generate human language."
+      }
     },
     {
       "question": "1 Terabyte (1 TB) में कितने Gigabytes (GB) होते हैं?",
@@ -5248,7 +7238,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "How many Gigabytes (GB) are there in 1 Terabyte (1 TB)?",
+        "options_en": [
+          "1000GB",
+          "1024 GB",
+          "1048 GB",
+          "512 GB"
+        ],
+        "explanation_en": "Based on the binary system, there are 1024 Gigabytes (GB) in 1 Terabyte (TB). There are 1024 MB in 1 GB."
+      }
     },
     {
       "question": "कंप्यूटर मदरबोर्ड पर स्थित 'BIOS' चिप का क्या मुख्य उद्देश्य है?",
@@ -5267,7 +7267,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Computer"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "What is the main purpose of the 'BIOS' chip located on a computer motherboard?",
+        "options_en": [
+          "Hardware check (POST) and initialization when booting the computer",
+          "play video games",
+          "Establishing an Internet Connection",
+          "typing a document"
+        ],
+        "explanation_en": "BIOS (Basic Input/Output System) is a firmware stored in ROM that loads the operating system by performing a power-on self test (POST) as soon as the system is turned on."
+      }
     },
     {
       "question": "एल्गोरिथ्म की एक प्रमुख विशेषता है:",
