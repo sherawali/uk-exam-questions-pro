@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-10-14T08:09:54.688354+00:00",
-  "total_mocks": 3,
+  "last_updated": "2026-10-14T08:32:36.095462+00:00",
+  "total_mocks": 9,
   "mocks": [
     {
       "id": "ukpsc_prelims_2025_gs",
@@ -11,7 +11,7 @@
       "total_questions": 150,
       "time_minutes": 120,
       "file_name": "pro-mocks/ukpsc_prelims_2025_gs.enc",
-      "checksum_sha256": "38af4de64b142efb1ad0e1e6e7ad90e0732bfd722f3ec6e9de5d7b32f2caf1c4",
+      "checksum_sha256": "9537e74ba65125105d66cb7cdafede70d7486a3b568fe31a1b7344e7486d09bc",
       "is_pro_only": true,
       "created_at": "2026-10-14"
     },
@@ -23,7 +23,7 @@
       "total_questions": 150,
       "time_minutes": 120,
       "file_name": "pro-mocks/ukpsc_upper_mock_2026.enc",
-      "checksum_sha256": "64abea7c4fba4bfee2a98498bbc80395610deaeaaef9d9d0738aab01bd15e504",
+      "checksum_sha256": "1816adbcef5811c07f7f02b7842b25636c4bd31c1aa68f0db8e4ffb300902f7e",
       "is_pro_only": true,
       "created_at": "2026-10-14"
     },
@@ -35,7 +35,79 @@
       "total_questions": 100,
       "time_minutes": 120,
       "file_name": "pro-mocks/ukpsc_prelims_2025_gat.enc",
-      "checksum_sha256": "e965d134ecad728c7f07df645bb5a94fa4b31b0c435cb4cc8c23443dca95a4dc",
+      "checksum_sha256": "adf13619ad64b329b490c6a7988fea017dfbc18a8bc731fe0e75929be3b86687",
+      "is_pro_only": true,
+      "created_at": "2026-10-14"
+    },
+    {
+      "id": "ukpsc_fro_2024",
+      "title_hi": "UKPSC वन क्षेत्राधिकारी (FRO) 2024 — स्क्रीनिंग पेपर",
+      "title_en": "UKPSC Forest Range Officer (FRO) 2024 — Screening Paper",
+      "exam_tier": "fro",
+      "total_questions": 150,
+      "time_minutes": 120,
+      "file_name": "pro-mocks/ukpsc_fro_2024.enc",
+      "checksum_sha256": "a2c19b8ed91729d4b02aa0a8f3a9c85a46fc66a58822a183f3291f29b8c91e95",
+      "is_pro_only": true,
+      "created_at": "2026-10-14"
+    },
+    {
+      "id": "ukpsc_fro_2020",
+      "title_hi": "UKPSC वन क्षेत्राधिकारी (FRO) 2020 — स्क्रीनिंग पेपर",
+      "title_en": "UKPSC Forest Range Officer (FRO) 2020 — Screening Paper",
+      "exam_tier": "fro",
+      "total_questions": 150,
+      "time_minutes": 120,
+      "file_name": "pro-mocks/ukpsc_fro_2020.enc",
+      "checksum_sha256": "fbc04c8f97461b07d21410b712a7bd43e133292fb04cf9f4ece52a7f1d0cc4e5",
+      "is_pro_only": true,
+      "created_at": "2026-10-14"
+    },
+    {
+      "id": "ukpsc_fro_2019",
+      "title_hi": "UKPSC वन क्षेत्राधिकारी (FRO) 2019 — स्क्रीनिंग पेपर",
+      "title_en": "UKPSC Forest Range Officer (FRO) 2019 — Screening Paper",
+      "exam_tier": "fro",
+      "total_questions": 150,
+      "time_minutes": 120,
+      "file_name": "pro-mocks/ukpsc_fro_2019.enc",
+      "checksum_sha256": "ca080388e883abfb23c4dab687a9999c80711719c21e5c101b544cfe934c4b74",
+      "is_pro_only": true,
+      "created_at": "2026-10-14"
+    },
+    {
+      "id": "ukpsc_fro_2018",
+      "title_hi": "UKPSC वन क्षेत्राधिकारी (FRO) 2018 — स्क्रीनिंग पेपर",
+      "title_en": "UKPSC Forest Range Officer (FRO) 2018 — Screening Paper",
+      "exam_tier": "fro",
+      "total_questions": 150,
+      "time_minutes": 120,
+      "file_name": "pro-mocks/ukpsc_fro_2018.enc",
+      "checksum_sha256": "fe2fa461ef7f4df2662a2b4055050c05e6a23530837f4a0dfdc846c28c23d581",
+      "is_pro_only": true,
+      "created_at": "2026-10-14"
+    },
+    {
+      "id": "ukpsc_fro_2017",
+      "title_hi": "UKPSC वन क्षेत्राधिकारी (FRO) 2017 — स्क्रीनिंग पेपर",
+      "title_en": "UKPSC Forest Range Officer (FRO) 2017 — Screening Paper",
+      "exam_tier": "fro",
+      "total_questions": 150,
+      "time_minutes": 120,
+      "file_name": "pro-mocks/ukpsc_fro_2017.enc",
+      "checksum_sha256": "97f11bd1c9232dafe87260cca1c42aa2d0001ca33e00c195e987a78c179bd141",
+      "is_pro_only": true,
+      "created_at": "2026-10-14"
+    },
+    {
+      "id": "ukpsc_fro_2016",
+      "title_hi": "UKPSC वन क्षेत्राधिकारी (FRO) 2016 — स्क्रीनिंग पेपर",
+      "title_en": "UKPSC Forest Range Officer (FRO) 2016 — Screening Paper",
+      "exam_tier": "fro",
+      "total_questions": 150,
+      "time_minutes": 120,
+      "file_name": "pro-mocks/ukpsc_fro_2016.enc",
+      "checksum_sha256": "ef0f36c28761d2f6c728334f379866f3cb1fc9af914bf6ce177b6bd1c8a545da",
       "is_pro_only": true,
       "created_at": "2026-10-14"
     }
