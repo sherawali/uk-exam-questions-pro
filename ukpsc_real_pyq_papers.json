@@ -15435,16 +15435,16 @@
           "uuid": "ukpsc_pyq_0051",
           "subject_en": "History",
           "topic_en": "Ancient History - Buddhism Jainism Bhagwat and Shaivism",
-          "question": "तीसरी बौद्ध परिषद किसकी अध्यक्षता में हुई थी? (क) नागार्जुन (ख) वसुबन्धु (ग) मोगलिपट्ट टीसा (घ) अशोक यूकेपीएससी राजस्व निरीक्षक 2023 एएनएस। (ग) तीसरी बौद्ध परिषद राजा अशोक के अधीन पटलीपुत्र में आयोजित की गई थी। यह मोगलिपत्ता टीसा की अध्यक्षता में आयोजित की गई थी। तीसरी परिषद भी विनय पिटक के विवादों को सुलझाने के लिए थी। तीसरी परिषद के दौरान, बुद्ध की शिक्षा को वहां टोकरी के तहत वर्गीकृत किया गया था। यह लगभग 250 ईसा पूर्व में बुलाया गया था। 52। जैन धर्म का पहला तिरथानकर थाः",
+          "question": "जैन धर्म के प्रथम तीर्थंकर कौन थे?",
           "options": [
-            "मावावीर",
-            "पारश्वनाथ",
+            "महावीर स्वामी",
+            "पार्श्वनाथ",
             "ऋषभदेव",
-            "नीमनाथ"
+            "नेमिनाथ"
           ],
           "correctIndex": 2,
           "correctAnswer": "ऋषभदेव",
-          "explanation": "व्याख्या: जैन धर्म के संस्थापक ऋषभदेव थे. जैन परंपरा के अनुसार, इस धर्म में 24 तिरथानकर थे, जिसमें ऋषभदेव प्रथम तिरथानकर थे। ऋषभदेव को अदीनाथ के रूप में भी जाना जाता है और बाद की परंपरा में उन्हें स्वयं अवतार भगवान शंकर कहा जाता था। ऋग्वेद में केवल दो तिरथानकर ऋषभदेव और अरिष्टनेमी का उल्लेख है।",
+          "explanation": "व्याख्या: जैन धर्म के संस्थापक और प्रथम तीर्थंकर ऋषभदेव (आदिनाथ) थे। जैन परंपरा में कुल 24 तीर्थंकर हुए हैं, जिनमें 23वें पार्श्वनाथ तथा 24वें महावीर स्वामी थे। ऋग्वेद में ऋषभदेव और अरिष्टनेमि का उल्लेख मिलता है।",
           "subCategory": "प्राचीन इतिहास — बौद्ध धर्म जैन धर्म भागवत और शैव धर्म",
           "difficulty": "medium",
           "questionType": "mcq",
@@ -15452,14 +15452,14 @@
             "exam": "UK PSC AE 2013",
             "subject_en": "History",
             "topic_en": "Ancient History - Buddhism Jainism Bhagwat and Shaivism",
-            "question_en": "The third Buddhist council was held under whose Presidentship ? (a) Nagarjuna (b) Vasubandhu (c) Moggaliputt Tissa (d) Ashoka UKPSC Revenue Inspector 2023 ANs. (c) : Third Buddhist council was held in Patliputra under King Ashoka. It was held under the presidency of Moggaliputta Tissa. The third council also toied to settle the disputes of Vinaya Pitaka. During third council, teaching of Buddha were classified under there baskets. It was convened in about 250 BCE. 52. The first Tirthankar of Jain religion was:-",
+            "question_en": "Who was the first Tirthankara of Jainism?",
             "options_en": [
-              "Mavavir",
-              "Parshwanath",
-              "Rishabhdev",
-              "Neminath"
+              "Mahavira Swami",
+              "Parshvanatha",
+              "Rishabhadeva",
+              "Neminatha"
             ],
-            "explanation_en": "The founder of Jainism was Rishabhdev. According to Jain tradition, here were 24 tirthankars in this religion, in which Rishabhdev was the first Tirthankara. Rishabhdev is also known as Adinath and in the later tradition he himself was called the incarnation Lord Shankar. There is mention of only two Tirthankaras Rishabhdev and Arishtanemi in Rigveda."
+            "explanation_en": "Rishabhadeva (also known as Adinatha) was the founder and first Tirthankara of Jainism. There are 24 Tirthankaras in Jain tradition, with Mahavira being the 24th."
           },
           "subject_id": "history"
         },
@@ -46090,16 +46090,16 @@
           "uuid": "ukpsc_pyq_0164",
           "subject_en": "History",
           "topic_en": "Medieval History - Delhi Sultanate",
-          "question": "साजिदा और पायोस की परंपरा की शुरुआत किसने की? (क) इलतुमश (ख) फिरोज शाह तुगलक (ग) रज़िया सुल्तान (घ) बलबान यूकेपीएससी राजस्व निरीक्षक 2023 एएनएस. (घ): घियासुद्दीन बलबान (1266-1287) सिजदा की प्रथा को शुरू करने वाले दिल्ली के पहले सुल्तान थे। उन्होंने राजा के सलाम के सामान्य रूप में सिजदा (पहजा) और पायोस की शुरुआत की। तो सही उत्तर विकल्प (घ) बलबान है। 8. किस शासक ने कुतुब मीनार की संरचना पूरी की?",
+          "question": "दिल्ली सल्तनत के किस शासक ने कुतुब मीनार का निर्माण कार्य पूर्ण कराया था?",
           "options": [
-            "कुतबुद्दीन अयबक",
-            "बाल्बान",
+            "कुतुबुद्दीन ऐबक",
+            "बलबन",
             "रज़िया सुल्ताना",
-            "इल्तुमिश"
+            "इल्तुतमिश"
           ],
           "correctIndex": 3,
           "correctAnswer": "इल्तुमिश",
-          "explanation": "व्याख्या: कुतुब मीनार की नींव कुतुबद्दीन अयबक ने रखी थी। लेकिन कुतुब मीनार की संरचना इलतुमिश ने पूरी की, जिन्होंने इसे चार मंजिला 225 फीट ऊंचा बनाया। फिरोज शाह तुगलक के शासनकाल में, बिजली के कारण चौथी मंजिल नष्ट हो गई, जिसके कारण फिरोज शाह तुगलक ने दो छोटी मंजिलें बनाईं। जिसके कारण इसमें 5 मंजिला था।",
+          "explanation": "व्याख्या: कुतुब मीनार की नींव कुतुबुद्दीन ऐबक ने 1199 ई. में रखी थी, लेकिन इसका निर्माण कार्य शम्मुद्दीन इल्तुतमिश ने पूरा कराया था। बाद में फिरोज़ शाह तुगलक ने क्षतिग्रस्त होने पर इसकी मरम्मत कराई थी।",
           "subCategory": "मध्यकालीन इतिहास — दिल्ली सुल्तानता",
           "difficulty": "medium",
           "questionType": "mcq",
@@ -46107,14 +46107,14 @@
             "exam": "UK PSC AE 2013",
             "subject_en": "History",
             "topic_en": "Medieval History - Delhi Sultanate",
-            "question_en": "Who started the tradition of Sajda and Paibos? (a) Iltutmish (b) Firoz Shah Tughlaq (c) Razia Sultan (d) Balban UKPSC Revenue Inspector 2023 ANs. (d) : Ghiyasuddin Balban (1266-1287) was the first Sultan of Delhi to introduce the practice of Sijda. He started Sijda (prostration) and paibos as the normal form of salutation of the king. So, the correct answer is option (d) Balban. 8. Which ruler completed the structure of Qutub Minar?",
+            "question_en": "Which ruler of Delhi Sultanate completed the construction of Qutub Minar?",
             "options_en": [
-              "Qutbuddin Aibak",
+              "Qutb-ud-din Aibak",
               "Balban",
               "Razia Sultana",
               "Iltutmish"
             ],
-            "explanation_en": "The Foundation of Qutub Minar was laid by Qutubuddin Aibak. But the structure of Qutub Minar was completed by Iltutmish, who built it four storeys 225 feet high. During the reign of Firoz Shah Tughlaq, the fourth storey was destroyed due to lightning, due to which Firoz Shah Tughlaq built two smaller storeys. Due to which it had 5 floors."
+            "explanation_en": "The foundation of Qutub Minar was laid by Qutb-ud-din Aibak in 1199 AD, but its construction was completed by Shams-ud-din Iltutmish."
           },
           "subject_id": "history"
         },
@@ -55392,16 +55392,16 @@
           "uuid": "ukpsc_pyq_0194",
           "subject_en": "History",
           "topic_en": "Medieval History - Art Culture Architecture and Literature",
-          "question": "इब्नबतुता ने किस भाषा में यात्रा निबंध Rihla लिखा है? (a) फारसी (b) अरबी (c) तुर्की (d) उज्बेकिस्तान यूकेपीएससी राजस्व निरीक्षक 2023 ANs. (b) अरबी यात्रा निबंध 'Rihla' इब्न बतुता द्वारा लिखा गया था। इसमें चौदहवीं शताब्दी में भारतीय उपमहाद्वीप के सामाजिक और सांस्कृतिक जीवन के बारे में बहुत सारी जानकारी है। रिहला या यात्राएं इब्न बतुता की एक पुस्तक है जो हमें 30 से अधिक वर्षों के लिए अपनी यात्राओं के बारे में बताती है। यह पुराने समय में अपने रोमांचों के लिए एक विशेष डायरी की तरह है। 39. कटुब मिनार के प्रवेश द्वार का नाम हैः",
+          "question": "कुतुब मीनार परिसर के प्रसिद्ध मुख्य प्रवेश द्वार का क्या नाम है?",
           "options": [
             "कुतुब दरवाज़ा",
-            "बुलंद दरवाजा",
-            "अलई दरवाज़ा",
+            "बुलंद दरवाज़ा",
+            "अलाई दरवाज़ा",
             "सिरी दरवाज़ा"
           ],
           "correctIndex": 2,
           "correctAnswer": "अलई दरवाज़ा",
-          "explanation": "व्याख्या: सही उत्तर (ग) अलाई दरवाजा है। कुतुब मीनार का अलाई दरवाजा (प्रवेश द्वार) एक गेटवे है जो अला-उद्दीन-खिलजी (दिल्ली सुल्तानता) द्वारा बनाया गया है। यह अला-उद्दीन-खिलजी द्वारा कुतुब परिसर में जोड़े गए चार में से एकमात्र प्रवेश द्वार है। नोट - कुतुब मीनार भारत के दिल्ली के महराउली जिले में स्थित है, और यह यूनेस्को विश्व धरोहर स्थल है।",
+          "explanation": "व्याख्या: कुतुब मीनार परिसर के दक्षिणी प्रवेश द्वार का नाम 'अलाई दरवाज़ा' है, जिसका निर्माण 1311 ई. में सुल्तान अलाउद्दीन खिलजी ने करवाया था। यह लाल बलुआ पत्थर और सफेद संगमरमर से निर्मित भारत की पहली विशुद्ध इस्लामी वास्तुकला की कृति मानी जाती है।",
           "subCategory": "मध्यकालीन इतिहास — कला संस्कृति वास्तुकला और साहित्य",
           "difficulty": "medium",
           "questionType": "mcq",
@@ -55409,14 +55409,14 @@
             "exam": "UKPSC Constable Exam-2021",
             "subject_en": "History",
             "topic_en": "Medieval History - Art Culture Architecture and Literature",
-            "question_en": "In which language Ibnbatuta has written travelogue ‘Rihla’? (a) Persian (b) Arabic (c) Turkish (d) Uzbek UKPSC Revenue Inspector 2023 ANs. (b) : The Arabic travelogue 'Rihla' was written by Ibn Battuta. It contains a wealth of information about the social and cultural life of the Indian subcontinent in the fourtheenth century. The Rihla or travels is a book by Ibn Battuta is an amazing traveloque that tells us about his journeys for over 30 years. It's like a special diary for his adventures in the olden times. 39. The name of entrance gate of Qutub Minar is:",
+            "question_en": "What is the name of the famous main entrance gate of the Qutub Minar complex?",
             "options_en": [
               "Qutub Darwaza",
               "Buland Darwaza",
               "Alai Darwaza",
               "Siri Darwaza"
             ],
-            "explanation_en": "The correct answer is (c) Alai Darwaza. The Alai Darwaza (entrance door) of Qutub Minar, is a gateway built by Ala-uddin-khilji (Delhi Sultanate). It is the only entrance remaining of four added to the Qutub complex by Ala-uddin-khilji. Note - Qutub Minar is located in the Mehrauli district of Delhi, India, and it is a UNESCO world heritage site."
+            "explanation_en": "The southern gateway of the Qutub Minar complex is named 'Alai Darwaza', built by Sultan Alauddin Khalji in 1311 AD using red sandstone and white marble."
           },
           "subject_id": "history"
         },
@@ -63342,16 +63342,16 @@
           "uuid": "ukpsc_pyq_0219",
           "subject_en": "History",
           "topic_en": "Medieval History - Mughal Empire",
-          "question": "(क) शेख मोइनुद्दीन चिश्ती (ख) शेख फरीदुद्दीन (ग) शेख निजामुद्दीन औलिया (घ) शेख नासीरुद्दीन यूकेपीएससी राजस्व निरीक्षक 2023 एएनएस. (घ) सही उत्तर है (घ) शेख नासीरुद्दीन। शेख नासीरुद्दीन का दरगाह सीरिया के दमिश्क में स्थित है। अन्य तीन दरगाहें भारत में स्थित हैं। शेख मोइनुद्दीन चिश्ती एक सूफी संत थे जिन्हें सूफी धर्म के धर्म का संस्थापक माना जाता था। शेख फरीदुद्दीन एक सूफी थे जिन्हें सूफी धर्म के धर्म के सबसे महत्वपूर्ण संतों में से एक माना जाता था। शेख फरीदुद्दीन का दरगाह पंजाब के पकपटान में स्थित है और शेख निजामुद्दीन औलिया का दरगाह दिल्ली में स्थित है। 65. कबीर दास के गुरु का नाम था:-",
+          "question": "भक्तिकाल के प्रसिद्ध संत कबीर दास जी के गुरु का क्या नाम था?",
           "options": [
             "तुलसीदास",
-            "रामानंद",
+            "स्वामी रामानंद",
             "रामानुजाचार्य",
-            "वल्लभचारा"
+            "वल्लभाचार्य"
           ],
           "correctIndex": 1,
           "correctAnswer": "रामानंद",
-          "explanation": "व्याख्या: कबीर दास के गुरु का नाम रामानंद था. कबीरदास का जन्म 1398 में लाहतरात्र ताल बनारस में हुआ था, उनके पिता का नाम नीरू और मां का नाम नीमा था, और उनकी पत्नी का नाम लोई था। उनकी मृत्यु 1518 में उत्तर प्रदेश के मगर में हुई। कबीर दास के प्रमुख कार्य हैंः कबीर ग्रांथावली, कबीर पन्थ, बीजाक, कबीर के कपलेट आदि।",
+          "explanation": "व्याख्या: संत कबीर दास जी के गुरु स्वामी रामानंद थे। कबीर दास जी 15वीं शताब्दी के निर्गुण भक्ति शाखा के प्रमुख संत व समाज सुधारक थे। उनकी मुख्य रचनाएं 'साखी', 'सबद' और 'रमैनी' के रूप में 'बीजक' में संकलित हैं।",
           "subCategory": "मध्यकालीन इतिहास — मुगल साम्राज्य",
           "difficulty": "medium",
           "questionType": "mcq",
@@ -63359,14 +63359,14 @@
             "exam": "UK PSC AE 2013",
             "subject_en": "History",
             "topic_en": "Medieval History - Mughal Empire",
-            "question_en": "Dargah of which following Sufi Saint is not located in India? (a) Shaikh Moinuddin Chishti (b) Shaikh Fariduddin (c) Shaikh Nizamuddin Auliya (d) Shaikh Nasiruddin UKPSC Revenue Inspector 2023 ANs. (d) : The correct answer is (d) Shaikh Nasiruddin. The dargah of Shaikh Nasiruddin is located in Damascus, Syria. The other three dargahs are located in India. Shaikh Moinuddin Chisti was a Sufi Saint who considered to be the founder of the Chisti order of Sufism. Shaikh Fariduddin was a Sufi Saint who considered to be one of the most important saints in the Chisti order of Sufism. Shaikh Moniuddin Chisti's dargah is located in Ajmer, Rajasthan. Shaikh Fariduddin's dargah is located in Pakpattan, Punjab and Shaikh Nizamuddin Auliya's dargah is located in Delhi. 65. The name of the guru of Kabir Das was:-",
+            "question_en": "What was the name of the guru of the famous Bhakti saint Kabir Das?",
             "options_en": [
               "Tulsidas",
-              "Ramananda",
+              "Swami Ramananda",
               "Ramanujacharya",
               "Vallabhacharya"
             ],
-            "explanation_en": "The name of Kabir Das's guru was Ramanand. Kabirdas was born in 1398 in Lahartara Tal Banaras, his father's name was Neeru and Mother's name was Neema, and his wife's name was Loi. He died in 1518 in Maghar, Uttar Pradesh. Major works of Kabir Das : Kabir Granthawali, Kabir Panth, Bijak, Kabir's couplets etc."
+            "explanation_en": "The guru of saint Kabir Das was Swami Ramananda. Kabir was a prominent 15th-century Bhakti movement poet and saint whose compositions are preserved in the Bijak."
           },
           "subject_id": "history"
         },
@@ -79594,16 +79594,16 @@
           "uuid": "ukpsc_pyq_0271",
           "subject_en": "History",
           "topic_en": "Medieval History - Miscellaneous Mughal Period",
-          "question": "मुगल काल में मुसारियन शब्द का उपयोग (क) किसानों (ख) दासों (ग) जासूसों (घ) व्यापारियों यूकेपीएससी राजस्व निरीक्षक 2023 एएनएस के लिए किया गया था। (क) मुगल काल में \"मुसारियन\" शब्द का उपयोग किसानों के लिए किया गया था। सत्रहवीं शताब्दी के स्रोत में दो प्रकार के किसानों - खुड-कश्ते और पाही-कश्ते का उल्लेख किया गया था। खुड-कश्ते उस गाँव के निवासी थे जिसमें वे अपनी भूमि रखते थे जबकि पाही-कश्ते गैर-निवासी किसान थे जो किसी अन्य गांव से संबंधित थे, लेकिन अनुबंध के आधार पर कहीं और भूमि की खेती करते थे। 118. अकबर के शासनकाल में एक अधिकारी नाम अमिल को किस स्तर पर प्रशासन नियुक्त किया गया था?",
+          "question": "अकबर के शासनकाल में एक अधिकारी 'अमिल' को प्रशासन के किस स्तर पर नियुक्त किया गया था?",
           "options": [
             "सूबा",
-            "सरकर",
-            "पर्गाना",
-            "गांव"
+            "सरकार",
+            "परगना",
+            "ग्राम"
           ],
           "correctIndex": 2,
           "correctAnswer": "पर्गाना",
-          "explanation": "व्याख्या: अकबरों के शासनकाल में एक अधिकारी 'अमिल' नाम से प्रशासन के पारगाना स्तर पर नियुक्त किया गया था। अमिल राजस्व कलेक्टर थे। उन्होंने राजस्व प्रशासन और धोखाधड़ी के लुटेरों और कुकर्मियों से किसानों की रक्षा की देखरेख की।",
+          "explanation": "व्याख्या: अकबर के शासनकाल में 'अमिल' (या अमल-गुज़ार) नामक अधिकारी को 'परगना' स्तर पर राजस्व संग्रह के लिए नियुक्त किया गया था। अमिल का मुख्य कार्य भू-राजस्व का निर्धारण व वसूली करना तथा कृषकों की सुरक्षा सुनिश्चित करना था।",
           "subCategory": "मध्यकालीन इतिहास — विभिन्न मुगल काल",
           "difficulty": "medium",
           "questionType": "mcq",
@@ -79611,14 +79611,14 @@
             "exam": "UKPSC Patwari Lekhpal Exam-2022",
             "subject_en": "History",
             "topic_en": "Medieval History - Miscellaneous Mughal Period",
-            "question_en": "During Mughal period the term ‘Muzarean’ was used for (a) Farmers (b) Slaves (c) Spies (d) Traders UKPSC Revenue Inspector 2023 ANs. (a) : During Mughal period the term \"Muzarean\" was used for Farmers. Source of the seventeenth century refer to two kinds of farmers - khud-kashta and Pahi-kshta. The khud-kashta were residents of the village in which they held their lands while Pahi-kahta were non-resident cultivators who belonged to some other village, but cultivated lands elsewhere on a contractual basis. 118. An official named ‘Amil’ during the reign of Akbar was appointed at which level of Administration?",
+            "question_en": "During the reign of Akbar, an official named 'Amil' was appointed at which level of administration?",
             "options_en": [
-              "Suba",
+              "Subah",
               "Sarkar",
               "Pargana",
               "Village"
             ],
-            "explanation_en": "An official named 'Amil' during the reign of The Akbars was appointed at pargana level of administration. The Amils were the revenue collectors. They supervised the revenue administration and Protecting the peasantry from fraudulent robbers and miscreants."
+            "explanation_en": "During Akbar's reign, the official named 'Amil' (or Amal-guzar) was appointed at the Pargana level as the revenue collector responsible for assessment and collection of land revenue."
           },
           "subject_id": "history"
         },
