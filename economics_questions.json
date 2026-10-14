@@ -4790,16 +4790,16 @@
       }
     },
     {
-      "question": "भारतीय अर्थव्यवस्था गहन तथ्य प्रश्न 1: मौद्रिक नीति, राजकोषीय प्रबंधन एवं बजट निर्माण के संदर्भ में कौन सा तथ्य सत्य है?",
+      "question": "वाणिज्यिक बैंकों के लिए भारतीय रिजर्व बैंक द्वारा निर्धारित 'वैधानिक तरलता अनुपात' (SLR) की गणना किस आधार पर की जाती है?",
       "options": [
-        "कोई नहीं",
-        "मुद्रास्फीति को नियंत्रित नहीं किया जा सकता",
-        "भारत में कोई प्रत्यक्ष कर नहीं है",
-        "RBI के रेपो रेट व CRR मौद्रिक तरलता को और FRBM कानून राजकोषीय अनुशासन को नियंत्रित करते हैं"
+        "बैंक की चुकता पूँजी (Paid-up Capital) पर",
+        "बैंक के कुल आरक्षित कोष (Total Reserves) पर",
+        "बैंक के कुल अग्रिम व ऋण (Total Advances) पर",
+        "शुद्ध मांग और सावधि देयताएं (NDTL - Net Demand and Time Liabilities) पर"
       ],
       "correctIndex": 3,
-      "explanation": "भारतीय अर्थव्यवस्था में नीति आयोग, जीएसटी परिषद और आरबीआई का मौद्रिक ढांचा संवृद्धि और मूल्य स्थिरता का संतुलन बनाए रखता है।",
-      "subCategory": "भारतीय अर्थव्यवस्था",
+      "explanation": "बैंकिंग विनियमन अधिनियम, 1949 की धारा 24 के अनुसार, सभी वाणिज्यिक बैंकों को अपनी शुद्ध मांग और सावधि देयताओं (NDTL - Net Demand and Time Liabilities) का एक निश्चित प्रतिशत स्वर्ण, नकदी या अनुमोदित सरकारी प्रतिभूतियों के रूप में रखना अनिवार्य होता है, जिसे वैधानिक तरलता अनुपात (SLR) कहते हैं।",
+      "subCategory": "बैंकिंग एवं मौद्रिक प्रणाली",
       "questionType": "mcq",
       "uuid": "7aa903b2-b8db-4329-ae16-e349cabf3119",
       "difficulty": "medium",
@@ -4808,14 +4808,14 @@
         "Economics"
       ],
       "extra_data": {
-        "question_en": "Indian Economy Deep Facts Question 1: Which fact is true in the context of monetary policy, fiscal management and budget making?",
+        "question_en": "On what basis is the Statutory Liquidity Ratio (SLR) prescribed by the Reserve Bank of India for commercial banks calculated?",
         "options_en": [
-          "nobody",
-          "Inflation cannot be controlled",
-          "There are no direct taxes in India",
-          "RBI's repo rate and CRR regulate monetary liquidity and FRBM laws regulate fiscal discipline."
+          "On the bank's Paid-up Capital",
+          "On the bank's Total Reserves",
+          "On the bank's Total Advances and Loans",
+          "On Net Demand and Time Liabilities (NDTL)"
         ],
-        "explanation_en": "The monetary framework of NITI Aayog, GST Council and RBI maintains the balance of growth and price stability in the Indian economy."
+        "explanation_en": "Under Section 24 of the Banking Regulation Act, 1949, commercial banks must maintain a specified percentage of their Net Demand and Time Liabilities (NDTL) in the form of liquid assets (SLR)."
       }
     },
     {

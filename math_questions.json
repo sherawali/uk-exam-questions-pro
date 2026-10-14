@@ -1,23 +1,33 @@
 {
   "questions": [
     {
-      "question": "एक दुकानदार एक वस्तु को 25% लाभ पर बेचता है। यदि क्रय मूल्य 400 रुपये है, तो विक्रय मूल्य क्या होगा?",
+      "question": "एक स्तंभ-आरेख (Bar Chart) में पाँच नगरों A, B, C, D और E के लिए निर्धारित लक्ष्य तथा वास्तविक उपलब्धि दर्शाई गई है। यदि नगर C का लक्ष्य 225 इकाई तथा वास्तविक उपलब्धि 180 इकाई है, तो नगर C की उपलब्धि का उसके लक्ष्य से क्या अनुपात है?",
       "options": [
-        "480 रुपये",
-        "500 रुपये",
-        "450 रुपये",
-        "525 रुपये"
+        "0.65",
+        "0.75",
+        "0.80",
+        "0.85"
       ],
-      "correctIndex": 1,
-      "explanation": "क्रय मूल्य (CP) = 400 रुपये, लाभ = 25%. लाभ = (25/100) × 400 = 100 रुपये। विक्रय मूल्य (SP) = CP + लाभ = 400 + 100 = 500 रुपये।",
-      "subCategory": "गणित",
+      "correctIndex": 2,
+      "explanation": "नगर C की उपलब्धि का अनुपात = वास्तविक उपलब्धि / निर्धारित लक्ष्य = 180 / 225 = 4 / 5 = 0.80 (या 80%)। इस प्रकार अनुपात 0.80 प्राप्त होता है।",
+      "subCategory": "आंकड़ों की व्याख्या (Data Interpretation)",
       "difficulty": "medium",
       "questionType": "mcq",
       "uuid": "28c3f16e-42bf-5859-8a01-6560ac4bda32",
       "tags": [
         "UK-EXAM-PRO",
         "Math"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In a bar chart, the target and actual achievement are shown for five cities A, B, C, D, and E. If for City C the target is 225 units and actual achievement is 180 units, what is the ratio of achievement to target for City C?",
+        "options_en": [
+          "0.65",
+          "0.75",
+          "0.80",
+          "0.85"
+        ],
+        "explanation_en": "Ratio for City C = Actual Achievement / Target = 180 / 225 = 4 / 5 = 0.80."
+      }
     },
     {
       "question": "एक ट्रेन 54 किमी/घंटा की गति से चलती है। वह 162 किमी की दूरी तय करने में कितना समय लेगी?",

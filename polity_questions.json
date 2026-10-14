@@ -26326,15 +26326,15 @@
       "uuid": "6fb9bb4d-5261-5f0b-ac70-f2b90ee71b45"
     },
     {
-      "question": "राज्यसभा के निर्वाचन में मतदान करने वालों के संदर्भ में सही कथन कौन-सा है?",
+      "question": "भारतीय संसद की राज्यसभा के सदस्यों का निर्वाचन निम्नलिखित में से किस पद्धति द्वारा संपन्न होता है?",
       "options": [
-        "मतदान संबंधित राज्य की विधानसभा के निर्वाचित सदस्य करते हैं; विधानसभा के नामित सदस्य तथा संसद के सदस्य इस निर्वाचन में मतदान नहीं करते",
-        "मतदान विधानसभा के सभी सदस्य तथा उस राज्य से निर्वाचित संसद के सदस्य भी करते हैं",
-        "मतदान संबंधित राज्य के सभी मतदाताओं द्वारा सीधे किया जाता है, क्योंकि राज्यसभा जनता का सदन नहीं है",
-        "मतदान संबंधित राज्य के मुख्यमंत्री की अध्यक्षता में गठित निर्वाचक मंडल द्वारा किया जाता है"
+        "प्रत्यक्ष मतदान प्रणाली द्वारा",
+        "सूची प्रणाली (List System) द्वारा",
+        "सार्वभौमिक वयस्क मताधिकार द्वारा",
+        "आनुपातिक प्रतिनिधित्व पद्धति के अनुसार एकल संक्रमणीय मत (STV) द्वारा"
       ],
-      "correctIndex": 0,
-      "explanation": "अनुच्छेद 80(4) के अनुसार राज्यसभा में राज्यों का प्रतिनिधित्व करने वाले सदस्य राज्य विधानसभा के निर्वाचित सदस्यों द्वारा आनुपातिक प्रतिनिधित्व की एकल संक्रमणीय मत प्रणाली से निर्वाचित होते हैं। विधानसभा के नामित सदस्य इस निर्वाचन में मत नहीं देते, क्योंकि अनुच्छेद में स्पष्ट रूप से 'निर्वाचित सदस्यों' का उल्लेख है। इसी प्रकार संसद के सदस्य भी राज्यसभा निर्वाचन में मतदान नहीं करते; उनका मत केवल राष्ट्रपति तथा उपराष्ट्रपति के निर्वाचन में होता है।",
+      "correctIndex": 3,
+      "explanation": "संविधान के अनुच्छेद 80(4) के अनुसार, राज्यसभा के सदस्यों का निर्वाचन राज्य विधानसभाओं के निर्वाचित सदस्यों द्वारा आनुपातिक प्रतिनिधित्व पद्धति के अनुसार एकल संक्रमणीय मत (Single Transferable Vote - STV) द्वारा खुले मतदान से होता है। फर्स्ट-पास्ट-द-पोस्ट प्रणाली लोकसभा और विधानसभा चुनावों में उपयोग होती है।",
       "subCategory": "राज्यसभा — निर्वाचन प्रणाली",
       "questionType": "mcq",
       "difficulty": "medium",
@@ -26344,14 +26344,14 @@
         "PYQ-Pattern"
       ],
       "extra_data": {
-        "question_en": "Which statement is correct regarding those who vote in elections to the Rajya Sabha?",
+        "question_en": "By which electoral method are members of the Rajya Sabha of the Indian Parliament elected?",
         "options_en": [
-          "The elected members of the State Legislative Assembly vote; nominated members of the Assembly and members of Parliament do not vote in this election",
-          "All members of the Assembly as well as members of Parliament elected from that State vote in it",
-          "All voters of the State concerned vote directly in the election, since the Rajya Sabha is the House of the people",
-          "Voting is done by an electoral college constituted under the chairmanship of the Chief Minister of the State"
+          "By direct voting system",
+          "By List System",
+          "By universal adult suffrage",
+          "By proportional representation by means of single transferable vote (STV)"
         ],
-        "explanation_en": "Under Article 80(4) the members representing a State in the Rajya Sabha are elected by the elected members of the Legislative Assembly of that State in accordance with the system of proportional representation by means of the single transferable vote. Nominated members of the Assembly do not vote in this election, the Article expressly referring to 'elected members'. Similarly, members of Parliament do not vote in Rajya Sabha elections; their votes are cast only in the elections of the President and the Vice-President."
+        "explanation_en": "Under Article 80(4) of the Constitution, Rajya Sabha members are elected by elected MLAs using proportional representation by single transferable vote (STV)."
       },
       "uuid": "4380ce76-09c3-5e22-aada-dde3a7b66623"
     },

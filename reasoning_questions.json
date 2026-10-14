@@ -1,16 +1,16 @@
 {
   "questions": [
     {
-      "question": "बड़ा : छोटा :: लंबा : ?",
+      "question": "पाँच मित्र A, B, C, D और E की लंबाइयाँ भिन्न हैं। C, A से लंबा है लेकिन D से छोटा है। E सबसे लंबा नहीं है तथा D, B से लंबा है। यदि B सबसे छोटा है, तो इनमें सबसे छोटा व्यक्ति कौन है?",
       "options": [
-        "पतला",
-        "छोटा",
-        "मोटा",
-        "नन्हा"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "correctIndex": 1,
-      "explanation": "बड़ा और छोटा विपरीत शब्द हैं। उसी तरह, लंबा का विपरीत शब्द छोटा है।",
-      "subCategory": "रीजनिंग",
+      "explanation": "दी गई शर्तों के अनुसार: D > C > A तथा D > B। प्रश्न की स्पष्ट शर्त अनुसार B की लंबाई सबसे कम है। अतः दिए गए समूह में सबसे छोटा व्यक्ति B है (विकल्प B सही है)।",
+      "subCategory": "तार्किक क्रम एवं व्यवस्था परीक्षण",
       "difficulty": "easy",
       "examTarget": [
         "both"
@@ -20,7 +20,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Five friends A, B, C, D, and E have different heights. C is taller than A but shorter than D. E is not the tallest and D is taller than B. If B is the shortest, who among them is the shortest person?",
+        "options_en": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "explanation_en": "Based on the given conditions, B is determined to be the shortest person. Hence Option B is correct."
+      }
     },
     {
       "question": "श्रृंखला पूरी करें: 2, 5, 8, 11, ?",

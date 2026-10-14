@@ -1926,15 +1926,15 @@
       "extra_data": null
     },
     {
-      "question": "जलवायु परिवर्तन पर ऐतिहासिक 'पेरिस समझौता' (Paris Agreement - COP 21) किस वर्ष अपनाया गया था?",
+      "question": "जलवायु परिवर्तन पर ऐतिहासिक पेरिस समझौते (COP 21, 2015) का मुख्य दीर्घकालिक तापमान लक्ष्य क्या निर्धारित किया गया है?",
       "options": [
-        "दिसंबर 2015 में (प्रभावी 4 नवंबर 2016)",
-        "2012 में",
-        "2018 में",
-        "2020 में"
+        "वैश्विक औसत तापमान वृद्धि को पूर्व-औद्योगिक स्तर से 2°C से काफी नीचे रखना तथा 1.5°C तक सीमित करने का प्रयास करना",
+        "तापमान वृद्धि को पूर्व-औद्योगिक स्तर से 3°C तक सीमित रखना",
+        "वैश्विक तापमान को 1990 के स्तर पर स्थिर रखना",
+        "ग्रीनहाउस गैस उत्सर्जन को 2020 तक पूरी तरह समाप्त करना"
       ],
       "correctIndex": 0,
-      "explanation": "दिसंबर 2015 में COP-21 में पेरिस समझौता स्वीकृत हुआ। इसका मुख्य लक्ष्य वैश्विक औसत तापमान वृद्धि को पूर्व-औद्योगिक स्तर से 2°C से काफी नीचे तथा यथासंभव 1.5°C तक सीमित रखना है।",
+      "explanation": "दिसंबर 2015 में COP-21 में स्वीकृत पेरिस समझौते का मुख्य लक्ष्य वैश्विक औसत तापमान वृद्धि को पूर्व-औद्योगिक स्तर से 2°C से काफी नीचे (Well below 2°C) रखना तथा इस वृद्धि को 1.5°C तक सीमित रखने के लिए गंभीर प्रयास करना है।",
       "category": "General Studies",
       "subCategory": "अंतर्राष्ट्रीय पर्यावरण सम्मेलन",
       "difficulty": "easy",
@@ -1948,7 +1948,16 @@
         "uksssc",
         "pyq"
       ],
-      "extra_data": null
+      "extra_data": {
+        "question_en": "What is the primary long-term temperature goal established under the historic Paris Agreement (COP 21, 2015)?",
+        "options_en": [
+          "Holding the increase in global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit it to 1.5°C",
+          "Limiting temperature increase to 3°C above pre-industrial levels",
+          "Stabilizing global temperature at 1990 levels",
+          "Completely eliminating greenhouse gas emissions by 2020"
+        ],
+        "explanation_en": "The landmark Paris Agreement adopted at COP-21 in December 2015 aims to hold global warming well below 2°C above pre-industrial levels and pursue efforts to limit temperature increase to 1.5°C."
+      }
     },
     {
       "question": "पारंपरिक ज्ञान एवं आनुवंशिक संसाधनों के उपयोग से प्राप्त लाभों के निष्पक्ष एवं न्यायसंगत बंटवारे हेतु 'नागोया प्रोटोकॉल' (Nagoya Protocol) कब स्वीकृत हुआ?",

@@ -15933,15 +15933,15 @@
       ]
     },
     {
-      "question": "भारत छोड़ो आंदोलन के समय भारत के वायसराय कौन थे?",
+      "question": "भारत छोड़ो आंदोलन (अगस्त 1942) के समय भारत के ब्रिटिश वायसराय कौन थे?",
       "options": [
-        "लॉर्ड लिनलिथगो",
         "लॉर्ड वेवेल",
         "लॉर्ड माउंटबेटन",
+        "लॉर्ड लिनलिथगो",
         "लॉर्ड इरविन"
       ],
-      "correctIndex": 0,
-      "explanation": "1936 से 1944 तक लिनलिथगो वायसराय रहे; उन्होंने इस आंदोलन को गम्भीर विद्रोह कहा।",
+      "correctIndex": 2,
+      "explanation": "8 अगस्त 1942 को जब भारत छोड़ो आंदोलन शुरू हुआ, उस समय भारत के वायसराय लॉर्ड लिनलिथगो (1936–1943) थे। लॉर्ड वेवेल अक्टूबर 1943 में वायसराय बने थे।",
       "subCategory": "भारत छोड़ो आंदोलन",
       "questionType": "mcq",
       "uuid": "e421e90d-8b03-5b77-905b-f7b08d31f938",
@@ -15950,7 +15950,17 @@
         "UK-EXAM-PRO",
         "History",
         "Modern History"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Who was the British Viceroy of India during the Quit India Movement (August 1942)?",
+        "options_en": [
+          "Lord Wavell",
+          "Lord Mountbatten",
+          "Lord Linlithgow",
+          "Lord Irwin"
+        ],
+        "explanation_en": "Lord Linlithgow (1936–1943) was the Viceroy of India when the Quit India Movement was launched in August 1942. Lord Wavell took charge later in October 1943."
+      }
     },
     {
       "question": "कांग्रेस कार्यसमिति ने भारत छोड़ो के प्रस्ताव को कहाँ स्वीकार किया?",
@@ -30913,15 +30923,15 @@
       ]
     },
     {
-      "question": "जलियांवाला बाग हत्याकांड (13 अप्रैल 1919) के विरोध में किसने ब्रिटिश सरकार द्वारा दी गई 'नाइटहुड' (सर) की उपाधि लौटा दी थी?",
+      "question": "जलियाँवाला बाग हत्याकांड (13 अप्रैल 1919) के विरोध में गुरुदेव रवीन्द्रनाथ टैगोर ने ब्रिटिश सरकार द्वारा प्रदत्त कौन-सी उपाधि त्याग दी थी?",
       "options": [
-        "महात्मा गांधी (कैसर-ए-हिंद लौटाई)",
-        "बाल गंगाधर तिलक",
-        "रबीन्द्रनाथ टैगोर",
-        "सी.आर. दास"
+        "कैसर-ए-हिंद",
+        "राय बहादुर",
+        "डी.लिट्.",
+        "सर (नाइटहुड)"
       ],
-      "correctIndex": 2,
-      "explanation": "अमृतसर में रोलेट एक्ट के विरोध में एकत्र निहत्थी भीड़ पर जनरल डायर द्वारा गोलियां चलाने की बर्बर घटना के विरोध में रबीन्द्रनाथ टैगोर ने 'नाइटहुड' तथा गांधीजी ने 'कैसर-ए-हिंद' की उपाधि त्याग दी थी।",
+      "correctIndex": 3,
+      "explanation": "13 अप्रैल 1919 के जलियाँवाला बाग हत्याकांड के विरोध में रवीन्द्रनाथ टैगोर ने ब्रिटिश सरकार द्वारा दी गई 'सर' (नाइटहुड / Knighthood) की उपाधि वापस लौटा दी थी। (महात्मा गांधी ने कैसर-ए-हिंद पदक लौटाया था)।",
       "subCategory": "आधुनिक भारतीय इतिहास",
       "questionType": "mcq",
       "uuid": "e70649a4-76ab-44dd-9a52-f81c917324e2",
@@ -30929,7 +30939,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "History"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "In protest against the Jallianwala Bagh massacre (13 April 1919), which title conferred by the British government was renounced by Gurudev Rabindranath Tagore?",
+        "options_en": [
+          "Kaiser-i-Hind",
+          "Rai Bahadur",
+          "D.Litt.",
+          "Sir (Knighthood)"
+        ],
+        "explanation_en": "In protest against the brutal Jallianwala Bagh massacre on 13 April 1919, Rabindranath Tagore renounced the title of 'Sir' (Knighthood) conferred upon him by the British crown."
+      }
     },
     {
       "question": "महात्मा गांधी ने 12 मार्च 1930 को साबरमती आश्रम से दांडी तक 240 मील की ऐतिहासिक पदयात्रा किस आंदोलन के तहत शुरू की थी?",
