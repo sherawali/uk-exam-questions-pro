@@ -1,18 +1,18 @@
 {
   "version": "1.1.0",
-  "last_updated": "2026-10-14T11:05:55.676686+00:00",
+  "last_updated": "2026-10-14T11:24:11.858752+00:00",
   "total_mocks": 10,
   "mocks": [
     {
       "id": "ukpsc_lower_solved_papers_book",
-      "title_hi": "UKPSC अवर अधीनस्थ (लोअर PCS) सम्पूर्ण सॉल्व्ड बुक (प्रीलिम्स + मुख्य परीक्षा)",
-      "title_en": "UKPSC Lower PCS Solved Papers Book (Prelims & Mains)",
+      "title_hi": "UKPSC अवर अधीनस्थ (लोअर PCS) सम्पूर्ण संदर्भ ग्रंथमाला (2010–2025)",
+      "title_en": "UKPSC Lower PCS Comprehensive Solved Archive (2010–2025)",
       "exam_tier": "lowerPcs",
       "paper_type": "official_pyq",
-      "total_questions": 675,
+      "total_questions": 873,
       "time_minutes": 180,
       "file_name": "pro-mocks/ukpsc_lower_solved_papers_book.enc",
-      "checksum_sha256": "284e686bff7f08576a1ee79e3ccb4443f0c9b89e651e1b535624a7585f5e1c71",
+      "checksum_sha256": "9b6a36bf831381a28180e604806b8d119f80a225c37cb5389280ab4320890413",
       "is_pro_only": true,
       "created_at": "2026-10-14"
     },
