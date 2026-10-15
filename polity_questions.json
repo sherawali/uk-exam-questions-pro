@@ -34921,7 +34921,675 @@
         ],
         "explanation_en": "The CVC was formed in 1964 on the recommendation of the Santhanam Committee (1962–64) to combat corruption and was given statutory status by an Act of Parliament in 2003."
       }
+    },
+    {
+      "question": "भारतीय संविधान का अंगीकार (adoption) किस तिथि को हुआ?",
+      "options": [
+        "26 नवम्बर, 1949",
+        "15 अगस्त, 1947",
+        "26 जनवरी, 1950",
+        "9 दिसंबर, 1946"
+      ],
+      "correctIndex": 0,
+      "explanation": "संविधान 26 नवम्बर, 1949 को संविधान सभा द्वारा अंगीकृत हुआ; यह तिथि संविधान दिवस है। लागू 26 जनवरी, 1950 को हुआ।",
+      "questionType": "mcq",
+      "subCategory": "संविधान",
+      "uuid": "05cb0c3c-7f49-48c5-a2fc-dfb653aa958f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "On which date was the Constitution of India adopted?",
+        "options_en": [
+          "26 November 1949",
+          "15 August 1947",
+          "26 January 1950",
+          "9 December 1946"
+        ],
+        "explanation_en": "The Constitution was adopted by the Constituent Assembly on 26 November 1949; this date is Constitution Day. It came into force on 26 January 1950."
+      }
+    },
+    {
+      "question": "मूल संविधान में कितने अनुच्छेद, भाग एवं अनुसूचियाँ थीं?",
+      "options": [
+        "448 अनुच्छेद, 25 भाग, 12 अनुसूचियाँ",
+        "395 अनुच्छेद, 22 भाग, 8 अनुसूचियाँ",
+        "395 अनुच्छेद, 24 भाग, 10 अनुसूचियाँ",
+        "370 अनुच्छेद, 22 भाग, 8 अनुसूचियाँ"
+      ],
+      "correctIndex": 1,
+      "explanation": "26 जनवरी, 1950 को मूल संविधान में 395 अनुच्छेद, 22 भाग एवं 8 अनुसूचियाँ थीं। वर्तमान में संशोधनों के बाद भाग एवं अनुसूचियाँ बढ़ चुकी हैं।",
+      "questionType": "mcq",
+      "subCategory": "संविधान",
+      "uuid": "c497cba9-be90-434d-9c2b-8715b5abbe42",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many Articles, Parts and Schedules were there in the original Constitution?",
+        "options_en": [
+          "448 Articles, 25 Parts, 12 Schedules",
+          "395 Articles, 22 Parts, 8 Schedules",
+          "395 Articles, 24 Parts, 10 Schedules",
+          "370 Articles, 22 Parts, 8 Schedules"
+        ],
+        "explanation_en": "On 26 January 1950 the original Constitution had 395 Articles, 22 Parts and 8 Schedules. Parts and Schedules have increased after amendments."
+      }
+    },
+    {
+      "question": "मौलिक अधिकार संविधान के किन अनुच्छेदों में हैं?",
+      "options": [
+        "अनुच्छेद 36 से 51",
+        "अनुच्छेद 5 से 11",
+        "अनुच्छेद 12 से 35",
+        "अनुच्छेद 52 से 78"
+      ],
+      "correctIndex": 2,
+      "explanation": "मौलिक अधिकार भाग-III, अनुच्छेद 12–35 में हैं। नीति निदेशक तत्व भाग-IV, अनुच्छेद 36–51 में हैं।",
+      "questionType": "mcq",
+      "subCategory": "मौलिक अधिकार",
+      "uuid": "136baac5-d2e0-4595-89f0-78c36b8e11b8",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Fundamental Rights are contained in which Articles of the Constitution?",
+        "options_en": [
+          "Articles 36 to 51",
+          "Articles 5 to 11",
+          "Articles 12 to 35",
+          "Articles 52 to 78"
+        ],
+        "explanation_en": "Fundamental Rights are in Part III, Articles 12–35. Directive Principles are in Part IV, Articles 36–51."
+      }
+    },
+    {
+      "question": "नीति निदेशक तत्वों का उल्लेख किस भाग में है?",
+      "options": [
+        "भाग-II",
+        "भाग-III",
+        "भाग-IV-क",
+        "भाग-IV"
+      ],
+      "correctIndex": 3,
+      "explanation": "भाग-IV (अनुच्छेद 36–51) में नीति निदेशक तत्व हैं। भाग-IV-क (अनुच्छेद 51क) में मौलिक कर्तव्य हैं, जो 42वें संशोधन से जोड़े गए।",
+      "questionType": "mcq",
+      "subCategory": "नीति निदेशक तत्व",
+      "uuid": "8c7bbf19-fd31-4716-acfb-5802cb32b8f8",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "In which Part are the Directive Principles of State Policy mentioned?",
+        "options_en": [
+          "Part II",
+          "Part III",
+          "Part IV-A",
+          "Part IV"
+        ],
+        "explanation_en": "Part IV (Articles 36–51) contains the Directive Principles. Part IV-A (Article 51A) contains Fundamental Duties, added by the 42nd Amendment."
+      }
+    },
+    {
+      "question": "भारत के राष्ट्रपति पद का उल्लेख किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 52",
+        "अनुच्छेद 53",
+        "अनुच्छेद 74",
+        "अनुच्छेद 75"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुच्छेद 52 कहता है कि भारत का एक राष्ट्रपति होगा। अनुच्छेद 53 में संघ की कार्यपालिका शक्ति, अनुच्छेद 74 में मंत्रिपरिषद तथा 75 में प्रधानमंत्री की नियुक्ति है।",
+      "questionType": "mcq",
+      "subCategory": "संघ कार्यपालिका",
+      "uuid": "be386270-31fd-4fa4-afc8-48bbdf4109c2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which Article mentions the office of the President of India?",
+        "options_en": [
+          "Article 52",
+          "Article 53",
+          "Article 74",
+          "Article 75"
+        ],
+        "explanation_en": "Article 52 states that there shall be a President of India. Article 53 vests the executive power of the Union; Article 74 deals with the Council of Ministers and Article 75 with appointment of the Prime Minister."
+      }
+    },
+    {
+      "question": "प्रधानमंत्री की नियुक्ति कौन करता है?",
+      "options": [
+        "लोकसभा अध्यक्ष",
+        "राष्ट्रपति",
+        "मुख्य न्यायाधीश",
+        "लोकसभा"
+      ],
+      "correctIndex": 1,
+      "explanation": "अनुच्छेद 75 के अंतर्गत राष्ट्रपति प्रधानमंत्री की नियुक्ति करता है। परंपरातः लोकसभा में बहुमत वाले दल/गठबंधन का नेता प्रधानमंत्री बनता है।",
+      "questionType": "mcq",
+      "subCategory": "संघ कार्यपालिका",
+      "uuid": "ac966c5f-da75-4cb1-86b3-90b155289dcc",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Who appoints the Prime Minister?",
+        "options_en": [
+          "The Speaker of the Lok Sabha",
+          "The President",
+          "The Chief Justice",
+          "The Lok Sabha"
+        ],
+        "explanation_en": "Under Article 75 the President appoints the Prime Minister. By convention the leader of the majority party/coalition in the Lok Sabha becomes Prime Minister."
+      }
+    },
+    {
+      "question": "लोकसभा की अधिकतम निर्धारित सदस्य संख्या कितनी है (वर्तमान व्यवस्था के अनुसार निर्वाचित सीटें 543)?",
+      "options": [
+        "500",
+        "543",
+        "552",
+        "545"
+      ],
+      "correctIndex": 2,
+      "explanation": "अनुच्छेद 81 के अंतर्गत लोकसभा की अधिकतम संख्या 550 (530 राज्य + 20 केंद्र शासित) तथा एंग्लो-इंडियन नामांकन के समय 552 तक थी। वर्तमान में निर्वाचित सीटें 543 हैं; एंग्लो-इंडियन नामांकन 104वें संशोधन से समाप्त है।",
+      "questionType": "mcq",
+      "subCategory": "संसद",
+      "uuid": "7d48d3c8-079c-4fbc-9533-d77cb0f9780f",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the maximum prescribed strength of the Lok Sabha (elected seats at present are 543)?",
+        "options_en": [
+          "500",
+          "543",
+          "552",
+          "545"
+        ],
+        "explanation_en": "Under Article 81 the maximum strength of the Lok Sabha was 550 (530 States + 20 UTs) and 552 when an Anglo-Indian could be nominated. At present there are 543 elected seats; Anglo-Indian nomination ended with the 104th Amendment."
+      }
+    },
+    {
+      "question": "भारत की संचित निधि का उल्लेख संविधान के किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 148",
+        "अनुच्छेद 280",
+        "अनुच्छेद 324",
+        "अनुच्छेद 266"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 266 भारत की संचित निधि का प्रावधान करता है। वित्त आयोग अनुच्छेद 280 में है तथा CAG अनुच्छेद 148 में है।",
+      "questionType": "mcq",
+      "subCategory": "संघ-राज्य वित्तीय संबंध",
+      "uuid": "d33eaf5e-5430-4e1a-8800-2a1328248978",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which Article of the Constitution mentions the Consolidated Fund of India?",
+        "options_en": [
+          "Article 148",
+          "Article 280",
+          "Article 324",
+          "Article 266"
+        ],
+        "explanation_en": "Article 266 provides for the Consolidated Fund of India. The Finance Commission is in Article 280 and the CAG in Article 148."
+      }
+    },
+    {
+      "question": "भारत के नियंत्रक-महालेखापरीक्षक (CAG) का उल्लेख किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 148",
+        "अनुच्छेद 76",
+        "अनुच्छेद 280",
+        "अनुच्छेद 324"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुच्छेद 148 में CAG का प्रावधान है। वे सार्वजनिक खातों के संरक्षक कहे जाते हैं। महान्यायवादी अनुच्छेद 76 में हैं।",
+      "questionType": "mcq",
+      "subCategory": "संवैधानिक निकाय",
+      "uuid": "60aef40e-8128-4297-82c2-eaef6ef425a1",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which Article mentions the Comptroller and Auditor General (CAG) of India?",
+        "options_en": [
+          "Article 148",
+          "Article 76",
+          "Article 280",
+          "Article 324"
+        ],
+        "explanation_en": "Article 148 provides for the CAG, called the guardian of the public purse. The Attorney-General is under Article 76."
+      }
+    },
+    {
+      "question": "निर्वाचन आयोग का उल्लेख किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 315",
+        "अनुच्छेद 324",
+        "अनुच्छेद 320",
+        "अनुच्छेद 326"
+      ],
+      "correctIndex": 1,
+      "explanation": "अनुच्छेद 324 निर्वाचन आयोग को संसद, विधानमंडलों, राष्ट्रपति एवं उपराष्ट्रपति के निर्वाचन का अधीक्षण देता है। अनुच्छेद 326 वयस्क मताधिकार है।",
+      "questionType": "mcq",
+      "subCategory": "संवैधानिक निकाय",
+      "uuid": "1a00d0d7-21f1-4501-a3c3-70f56b921820",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which Article mentions the Election Commission?",
+        "options_en": [
+          "Article 315",
+          "Article 324",
+          "Article 320",
+          "Article 326"
+        ],
+        "explanation_en": "Article 324 vests in the Election Commission the superintendence of elections to Parliament, State legislatures, the President and the Vice-President. Article 326 provides for adult suffrage."
+      }
+    },
+    {
+      "question": "पंचायती राज से संबंधित संविधान संशोधन कौन-सा है?",
+      "options": [
+        "42वाँ",
+        "44वाँ",
+        "73वाँ",
+        "74वाँ"
+      ],
+      "correctIndex": 2,
+      "explanation": "73वें संशोधन (1992) ने भाग-IX एवं 11वीं अनुसूची जोड़कर पंचायती राज को संवैधानिक दर्जा दिया। 74वाँ संशोधन नगरपालिकाओं (भाग-IX-क, 12वीं अनुसूची) से संबंधित है।",
+      "questionType": "mcq",
+      "subCategory": "स्थानीय शासन",
+      "uuid": "b2d2f9c7-ae09-41cb-bc19-d0c36d37ed53",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which Constitutional Amendment relates to Panchayati Raj?",
+        "options_en": [
+          "42nd",
+          "44th",
+          "73rd",
+          "74th"
+        ],
+        "explanation_en": "The 73rd Amendment (1992) gave constitutional status to Panchayati Raj by adding Part IX and the Eleventh Schedule. The 74th Amendment relates to municipalities (Part IX-A, Twelfth Schedule)."
+      }
+    },
+    {
+      "question": "मौलिक कर्तव्य संविधान में किस संशोधन द्वारा जोड़े गए?",
+      "options": [
+        "24वाँ",
+        "42वाँ",
+        "44वाँ",
+        "86वाँ"
+      ],
+      "correctIndex": 1,
+      "explanation": "42वें संशोधन, 1976 (स्वरन सिंह समिति की सिफारिश) द्वारा भाग-IV-क में अनुच्छेद 51क के अंतर्गत मौलिक कर्तव्य जोड़े गए। मूलतः 10, 86वें संशोधन से शिक्षा संबंधी 11वाँ कर्तव्य जुड़ा।",
+      "questionType": "mcq",
+      "subCategory": "मौलिक कर्तव्य",
+      "uuid": "94663e59-510c-4bd2-aec5-b7e13e743ee7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Fundamental Duties were added to the Constitution by which Amendment?",
+        "options_en": [
+          "24th",
+          "42nd",
+          "44th",
+          "86th"
+        ],
+        "explanation_en": "The 42nd Amendment, 1976 (Swaran Singh Committee) added Fundamental Duties in Part IV-A, Article 51A. Originally 10, an 11th duty on education was added by the 86th Amendment."
+      }
+    },
+    {
+      "question": "GST किस संविधान संशोधन से संबंधित है?",
+      "options": [
+        "99वाँ",
+        "100वाँ",
+        "101वाँ",
+        "103वाँ"
+      ],
+      "correctIndex": 2,
+      "explanation": "101वें संविधान संशोधन, 2016 ने वस्तु एवं सेवा कर (GST) लागू किया; यह 1 जुलाई, 2017 से प्रभावी हुआ। अनुच्छेद 246क GST से संबंधित है।",
+      "questionType": "mcq",
+      "subCategory": "संशोधन",
+      "uuid": "7c92c460-08f1-4743-8066-d61b21f9f5e9",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "GST is related to which Constitutional Amendment?",
+        "options_en": [
+          "99th",
+          "100th",
+          "101st",
+          "103rd"
+        ],
+        "explanation_en": "The 101st Constitutional Amendment, 2016 introduced the Goods and Services Tax (GST); it came into force on 1 July 2017. Article 246A relates to GST."
+      }
+    },
+    {
+      "question": "धन विधेयक की परिभाषा किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 109",
+        "अनुच्छेद 112",
+        "अनुच्छेद 117",
+        "अनुच्छेद 110"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 110 धन विधेयक को परिभाषित करता है; लोकसभा अध्यक्ष का निर्णय अंतिम होता है। अनुच्छेद 109 धन विधेयक की विशेष प्रक्रिया है।",
+      "questionType": "mcq",
+      "subCategory": "संसद",
+      "uuid": "4ebabce5-1beb-49fd-b8b1-e2f80c3973a7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The definition of a Money Bill is contained in which Article?",
+        "options_en": [
+          "Article 109",
+          "Article 112",
+          "Article 117",
+          "Article 110"
+        ],
+        "explanation_en": "Article 110 defines a Money Bill; the decision of the Speaker of the Lok Sabha is final. Article 109 lays down the special procedure for Money Bills."
+      }
+    },
+    {
+      "question": "भारत के महान्यायवादी (Attorney-General) का प्रावधान किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 76",
+        "अनुच्छेद 78",
+        "अनुच्छेद 148",
+        "अनुच्छेद 165"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुच्छेद 76 में संघ के महान्यायवादी का प्रावधान है; वे सरकार के मुख्य कानूनी सलाहकार हैं। अनुच्छेद 165 में राज्य के महाधिवक्ता हैं।",
+      "questionType": "mcq",
+      "subCategory": "संघ कार्यपालिका",
+      "uuid": "c5fe1ce0-7239-4715-95cf-d2ee23a6fb7f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which Article provides for the Attorney-General of India?",
+        "options_en": [
+          "Article 76",
+          "Article 78",
+          "Article 148",
+          "Article 165"
+        ],
+        "explanation_en": "Article 76 provides for the Attorney-General of India, the Government's chief legal adviser. Article 165 provides for the Advocate-General of a State."
+      }
+    },
+    {
+      "question": "नीति आयोग (NITI Aayog) का गठन कब हुआ?",
+      "options": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correctIndex": 1,
+      "explanation": "नीति आयोग का गठन 1 जनवरी, 2015 को योजना आयोग के स्थान पर हुआ। यह वैधानिक/संवैधानिक निकाय नहीं, बल्कि कार्यपालिका का थिंक टैंक है; प्रधानमंत्री पदेन अध्यक्ष हैं।",
+      "questionType": "mcq",
+      "subCategory": "संस्थाएँ",
+      "uuid": "dcb64ae8-ace3-467d-aba9-e82e03d2108a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "When was NITI Aayog constituted?",
+        "options_en": [
+          "2014",
+          "2015",
+          "2016",
+          "2017"
+        ],
+        "explanation_en": "NITI Aayog was constituted on 1 January 2015 in place of the Planning Commission. It is neither a statutory nor a constitutional body but an executive think-tank; the Prime Minister is ex-officio Chairperson."
+      }
+    },
+    {
+      "question": "भारत में वयस्क मताधिकार की आयु कितनी है?",
+      "options": [
+        "21 वर्ष",
+        "25 वर्ष",
+        "18 वर्ष",
+        "16 वर्ष"
+      ],
+      "correctIndex": 2,
+      "explanation": "61वें संविधान संशोधन (1988) से मतदान की आयु 21 से घटाकर 18 वर्ष की गई। अनुच्छेद 326 वयस्क मताधिकार का प्रावधान करता है।",
+      "questionType": "mcq",
+      "subCategory": "निर्वाचन",
+      "uuid": "2042f0cc-e08a-44ca-94a6-79ec0615f5fb",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the age of adult suffrage in India?",
+        "options_en": [
+          "21 years",
+          "25 years",
+          "18 years",
+          "16 years"
+        ],
+        "explanation_en": "The 61st Constitutional Amendment (1988) reduced the voting age from 21 to 18 years. Article 326 provides for adult suffrage."
+      }
+    },
+    {
+      "question": "उच्चतम न्यायालय की स्थापना किस अनुच्छेद के अंतर्गत है?",
+      "options": [
+        "अनुच्छेद 32",
+        "अनुच्छेद 131",
+        "अनुच्छेद 226",
+        "अनुच्छेद 124"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 124 उच्चतम न्यायालय की स्थापना का प्रावधान करता है। अनुच्छेद 32 संवैधानिक उपचारों का अधिकार तथा 226 उच्च न्यायालय के रिट अधिकार क्षेत्र से संबंधित है।",
+      "questionType": "mcq",
+      "subCategory": "न्यायपालिका",
+      "uuid": "3d510424-0c75-4cc1-af35-ff709982416a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The Supreme Court is established under which Article?",
+        "options_en": [
+          "Article 32",
+          "Article 131",
+          "Article 226",
+          "Article 124"
+        ],
+        "explanation_en": "Article 124 provides for the establishment of the Supreme Court. Article 32 is the right to constitutional remedies and Article 226 the writ jurisdiction of High Courts."
+      }
+    },
+    {
+      "question": "राज्य के नीति निदेशक तत्वों में ग्राम पंचायतों का संगठन किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 40",
+        "अनुच्छेद 44",
+        "अनुच्छेद 45",
+        "अनुच्छेद 48"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुच्छेद 40 राज्य को ग्राम पंचायतों का संगठन करने का निदेश देता है। 73वें संशोधन ने भाग-IX जोड़ा। अनुच्छेद 44 समान नागरिक संहिता है।",
+      "questionType": "mcq",
+      "subCategory": "नीति निदेशक तत्व",
+      "uuid": "472046c3-f725-4b3c-8a0f-fcd6c087195f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Organisation of village panchayats appears in which Directive Principle Article?",
+        "options_en": [
+          "Article 40",
+          "Article 44",
+          "Article 45",
+          "Article 48"
+        ],
+        "explanation_en": "Article 40 directs the State to organise village panchayats. The 73rd Amendment added Part IX. Article 44 is the Uniform Civil Code."
+      }
+    },
+    {
+      "question": "राष्ट्रपति पर महाभियोग की प्रक्रिया किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 72",
+        "अनुच्छेद 61",
+        "अनुच्छेद 123",
+        "अनुच्छेद 352"
+      ],
+      "correctIndex": 1,
+      "explanation": "अनुच्छेद 61 राष्ट्रपति पर महाभियोग (संविधान का उल्लंघन) की प्रक्रिया देता है। यह संसद के दोनों सदनों में विशेष बहुमत से होता है।",
+      "questionType": "mcq",
+      "subCategory": "संघ कार्यपालिका",
+      "uuid": "98f43be1-b8df-49b5-8b48-3af4fa5db0f9",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The procedure for impeachment of the President is in which Article?",
+        "options_en": [
+          "Article 72",
+          "Article 61",
+          "Article 123",
+          "Article 352"
+        ],
+        "explanation_en": "Article 61 provides the procedure for impeachment of the President (violation of the Constitution). It requires a special majority in both Houses of Parliament."
+      }
+    },
+    {
+      "question": "नौवीं अनुसूची का मूल उद्देश्य क्या था?",
+      "options": [
+        "भाषाओं की सूची",
+        "केंद्र-राज्य कर विभाजन",
+        "भूमि सुधार कानूनों को न्यायिक समीक्षा से संरक्षण",
+        "जनजातीय क्षेत्र"
+      ],
+      "correctIndex": 2,
+      "explanation": "प्रथम संशोधन (1951) द्वारा जोड़ी गई नौवीं अनुसूची का उद्देश्य भूमि सुधार एवं संबंधित कानूनों को न्यायालयों की चुनौती से बचाना था। बाद में इरावती केस (2007) में न्यायिक समीक्षा संभव मानी गई।",
+      "questionType": "mcq",
+      "subCategory": "अनुसूचियाँ",
+      "uuid": "adae113c-a161-4d14-824f-9041ec604ca4",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What was the original purpose of the Ninth Schedule?",
+        "options_en": [
+          "A list of languages",
+          "Centre-State tax division",
+          "To protect land-reform laws from judicial review",
+          "Tribal areas"
+        ],
+        "explanation_en": "The Ninth Schedule, added by the First Amendment (1951), aimed to protect land-reform and related laws from court challenge. Later, in I.R. Coelho (2007), judicial review was held possible."
+      }
+    },
+    {
+      "question": "भारत का उपराष्ट्रपति पदेन क्या होता है?",
+      "options": [
+        "लोकसभा का अध्यक्ष",
+        "नीति आयोग का उपाध्यक्ष",
+        "वित्त आयोग का अध्यक्ष",
+        "राज्यसभा का सभापति"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 64 एवं 89 के अनुसार उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है। लोकसभा का अपना निर्वाचित अध्यक्ष होता है।",
+      "questionType": "mcq",
+      "subCategory": "संसद",
+      "uuid": "1da53a51-be06-4f92-8b15-e59b25f62a4e",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The Vice-President of India is ex-officio which of the following?",
+        "options_en": [
+          "Speaker of the Lok Sabha",
+          "Vice-Chairperson of NITI Aayog",
+          "Chairperson of the Finance Commission",
+          "Chairman of the Rajya Sabha"
+        ],
+        "explanation_en": "Under Articles 64 and 89 the Vice-President is the ex-officio Chairman of the Rajya Sabha. The Lok Sabha has its own elected Speaker."
+      }
+    },
+    {
+      "question": "मूल कर्तव्यों की संख्या वर्तमान में कितनी है?",
+      "options": [
+        "11",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुच्छेद 51क में वर्तमान में 11 मौलिक कर्तव्य हैं। 86वें संशोधन (2002) ने 6–14 वर्ष के बच्चों को शिक्षा के अवसर उपलब्ध कराने का कर्तव्य जोड़ा।",
+      "questionType": "mcq",
+      "subCategory": "मौलिक कर्तव्य",
+      "uuid": "4b8025b0-af6e-4b4e-add3-8ac7cdd5878d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारतीय राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many Fundamental Duties are there at present?",
+        "options_en": [
+          "11",
+          "8",
+          "10",
+          "12"
+        ],
+        "explanation_en": "Article 51A now contains 11 Fundamental Duties. The 86th Amendment (2002) added the duty to provide opportunities for education to children aged 6–14 years."
+      }
     }
   ],
-  "updated_at": "2026-10-01T19:02:09.187696"
+  "updated_at": "2026-10-01T19:02:09.187696",
+  "total_questions": 1214
 }

@@ -10418,6 +10418,732 @@
         "UK-EXAM-PRO",
         "Reasoning"
       ]
+    },
+    {
+      "question": "श्रेणी में अगली संख्या ज्ञात कीजिए:\n7, 12, 19, 28, 39, ?",
+      "options": [
+        "52",
+        "48",
+        "46",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्रमागत अंतर 5, 7, 9, 11 हैं, अतः अगला अंतर 13 होगा और अगली संख्या 39 + 13 = 52 होगी।",
+      "questionType": "mcq",
+      "subCategory": "संख्या श्रेणी",
+      "uuid": "49848fbb-066a-4610-bed7-dab8c1b56458",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Find the next number in the series:\n7, 12, 19, 28, 39, ?",
+        "options_en": [
+          "52",
+          "48",
+          "46",
+          "54"
+        ],
+        "explanation_en": "The successive differences are 5, 7, 9 and 11; hence the next difference is 13 and the next term is 39 + 13 = 52."
+      }
+    },
+    {
+      "question": "श्रेणी में अगला अक्षर ज्ञात कीजिए:\nA, C, F, J, O, ?",
+      "options": [
+        "R",
+        "U",
+        "S",
+        "T"
+      ],
+      "correctIndex": 1,
+      "explanation": "अक्षरों के स्थान में क्रमशः 2, 3, 4, 5 की वृद्धि होती है, अतः O (15वाँ) + 6 = 21वाँ अक्षर U होगा।",
+      "questionType": "mcq",
+      "subCategory": "अक्षर श्रेणी",
+      "uuid": "b9d45059-2555-4109-bb2a-0bec0f63a119",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Find the next letter in the series:\nA, C, F, J, O, ?",
+        "options_en": [
+          "R",
+          "U",
+          "S",
+          "T"
+        ],
+        "explanation_en": "The positions of the letters increase by 2, 3, 4 and 5; hence O (15th) + 6 gives the 21st letter, U."
+      }
+    },
+    {
+      "question": "यदि 8 : 512, तो 9 : ?",
+      "options": [
+        "243",
+        "512",
+        "729",
+        "810"
+      ],
+      "correctIndex": 2,
+      "explanation": "संबंध x : x³ है। चूँकि 8³ = 512, अतः 9³ = 729 होगा।",
+      "questionType": "mcq",
+      "subCategory": "सादृश्यता",
+      "uuid": "0e367636-458b-475d-ae3a-e2930184a837",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "If 8 : 512, then 9 : ?",
+        "options_en": [
+          "243",
+          "512",
+          "729",
+          "810"
+        ],
+        "explanation_en": "The relation is x : x³. Since 8³ = 512, the required term is 9³ = 729."
+      }
+    },
+    {
+      "question": "निम्नलिखित में से भिन्न संख्या चुनिए:",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "2, 3 एवं 5 अभाज्य संख्याएँ हैं, जबकि 9 = 3 × 3 एक भाज्य संख्या है, अतः 9 भिन्न है।",
+      "questionType": "mcq",
+      "subCategory": "बेमेल संख्या",
+      "uuid": "8605369c-3037-4553-aa82-7e8b975c3a83",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Choose the odd number from the following:",
+        "options_en": [
+          "2",
+          "3",
+          "5",
+          "9"
+        ],
+        "explanation_en": "2, 3 and 5 are prime numbers, whereas 9 = 3 × 3 is composite; hence 9 is the odd one out."
+      }
+    },
+    {
+      "question": "यदि किसी निश्चित कूट भाषा में TEACHER को VGCEJGT लिखा जाता है, तो उसी कूट भाषा में STUDENT को कैसे लिखा जाएगा?",
+      "options": [
+        "UVWFGPV",
+        "UVWFGPT",
+        "TUWFGPV",
+        "UVXFGPV"
+      ],
+      "correctIndex": 0,
+      "explanation": "प्रत्येक अक्षर में +2 का कूट है (T→V, E→G, A→C), अतः STUDENT → UVWFGPV होगा।",
+      "questionType": "mcq",
+      "subCategory": "कूट लेखन",
+      "uuid": "a1d1e734-39ce-4a1e-899f-9cce3923ce27",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "If in a certain code language TEACHER is written as VGCEJGT, how will STUDENT be written in that code?",
+        "options_en": [
+          "UVWFGPV",
+          "UVWFGPT",
+          "TUWFGPV",
+          "UVXFGPV"
+        ],
+        "explanation_en": "Each letter is moved two places forward (T→V, E→G, A→C); therefore STUDENT is coded as UVWFGPV."
+      }
+    },
+    {
+      "question": "राम की माता की माता का एकमात्र पुत्र राम का क्या लगेगा?",
+      "options": [
+        "चाचा",
+        "मामा",
+        "फूफा",
+        "नाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "राम की माता की माता राम की नानी हैं; उनका एकमात्र पुत्र राम की माता का भाई अर्थात् राम का मामा होगा।",
+      "questionType": "mcq",
+      "subCategory": "रक्त संबंध",
+      "uuid": "91434403-ad0a-4324-a549-b36fa321456d",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "What will the only son of Ram's mother's mother be to Ram?",
+        "options_en": [
+          "Paternal uncle",
+          "Maternal uncle",
+          "Uncle (aunt's husband)",
+          "Maternal grandfather"
+        ],
+        "explanation_en": "Ram's mother's mother is his maternal grandmother; her only son is Ram's mother's brother, i.e. Ram's maternal uncle (mama)."
+      }
+    },
+    {
+      "question": "राहुल उत्तर की ओर 5 किमी चलता है, फिर दायीं ओर मुड़कर 10 किमी चलता है और पुनः दायीं ओर मुड़कर 5 किमी चलता है। अब उसका मुख किस दिशा की ओर है?",
+      "options": [
+        "उत्तर",
+        "पूर्व",
+        "दक्षिण",
+        "पश्चिम"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तर से प्रथम दायाँ मोड़ पूर्व की ओर तथा द्वितीय दायाँ मोड़ दक्षिण की ओर ले जाता है, अतः अंतिम मुख दक्षिण की ओर है।",
+      "questionType": "mcq",
+      "subCategory": "दिशा एवं दूरी",
+      "uuid": "a587b01e-6a5c-449b-b04b-c6df805caf0c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Rahul walks 5 km towards the north, then turns right and walks 10 km, and again turns right and walks 5 km. In which direction is he facing now?",
+        "options_en": [
+          "North",
+          "East",
+          "South",
+          "West"
+        ],
+        "explanation_en": "From north the first right turn takes him east and the second right turn takes him south; hence he is finally facing south."
+      }
+    },
+    {
+      "question": "यदि प्रत्येक पंक्ति का गुणनफल समान है, तो लुप्त संख्या ज्ञात कीजिए:\n3  4  ?  2\n5  2  4  3\n6  2  5  2",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "प्रत्येक पंक्ति का गुणनफल 120 है (5×2×4×3 = 120 तथा 6×2×5×2 = 120), अतः 3×4×?×2 = 120 से ? = 5 होगा।",
+      "questionType": "mcq",
+      "subCategory": "लुप्त संख्या",
+      "uuid": "6008a503-be71-4c32-8d62-dc98362f5e3d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "If the product of the numbers in each row is the same, find the missing number:\n3  4  ?  2\n5  2  4  3\n6  2  5  2",
+        "options_en": [
+          "4",
+          "6",
+          "8",
+          "5"
+        ],
+        "explanation_en": "The product of each row is 120 (5×2×4×3 = 120 and 6×2×5×2 = 120); hence from 3×4×?×2 = 120, ? = 5."
+      }
+    },
+    {
+      "question": "श्रेणी में अगली संख्या ज्ञात कीजिए:\n3, 6, 12, 24, 48, ?",
+      "options": [
+        "96",
+        "84",
+        "90",
+        "102"
+      ],
+      "correctIndex": 0,
+      "explanation": "प्रत्येक पद पिछले पद का दोगुना है, अतः अगली संख्या 48 × 2 = 96 होगी।",
+      "questionType": "mcq",
+      "subCategory": "संख्या श्रेणी",
+      "uuid": "c70b4371-bf7d-4078-bbbc-65fca3618cff",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Find the next number in the series:\n3, 6, 12, 24, 48, ?",
+        "options_en": [
+          "96",
+          "84",
+          "90",
+          "102"
+        ],
+        "explanation_en": "Each term is double the preceding term; hence the next number is 48 × 2 = 96."
+      }
+    },
+    {
+      "question": "कथन: सभी फूल पत्तियाँ हैं। कुछ पत्तियाँ लाल हैं।\nनिष्कर्ष:\nI. कुछ फूल लाल हैं।\nII. कुछ लाल पत्तियाँ हैं।\nउपर्युक्त कथनों से कौन-सा निष्कर्ष निकलता है?",
+      "options": [
+        "केवल निष्कर्ष I",
+        "केवल निष्कर्ष II",
+        "निष्कर्ष I और II दोनों",
+        "न तो I और न ही II"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘कुछ पत्तियाँ लाल हैं’ से निष्कर्ष II सीधे निकलता है; फूलों और लाल रंग के बीच कोई निश्चित संबंध नहीं है, अतः निष्कर्ष I अमान्य है।",
+      "questionType": "mcq",
+      "subCategory": "निष्कर्ष",
+      "uuid": "cdd98276-d192-478e-a4d1-57c18b25b8fb",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Statements: All flowers are leaves. Some leaves are red.\nConclusions:\nI. Some flowers are red.\nII. Some red things are leaves.\nWhich conclusion follows?",
+        "options_en": [
+          "Only conclusion I",
+          "Only conclusion II",
+          "Both conclusions I and II",
+          "Neither I nor II"
+        ],
+        "explanation_en": "Conclusion II follows directly from 'some leaves are red'; no definite relation is established between flowers and the colour red, so conclusion I does not follow."
+      }
+    },
+    {
+      "question": "निम्नलिखित में से किस शब्द का दर्पण प्रतिबिंब उसी शब्द के समान होगा?",
+      "options": [
+        "WATER",
+        "PEACE",
+        "LEVEL",
+        "QUICK"
+      ],
+      "correctIndex": 2,
+      "explanation": "LEVEL एक सममित (palindrome) शब्द है जो दोनों ओर से एक जैसा पढ़ा जाता है, अतः इसका दर्पण प्रतिबिंब भी LEVEL ही होगा।",
+      "questionType": "mcq",
+      "subCategory": "दर्पण प्रतिबिंब",
+      "uuid": "1efd5514-65c4-468e-81c3-c02116302a5c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following words will have a mirror image identical to the word itself?",
+        "options_en": [
+          "WATER",
+          "PEACE",
+          "LEVEL",
+          "QUICK"
+        ],
+        "explanation_en": "LEVEL is a palindrome that reads the same from both sides, so its mirror image is also LEVEL."
+      }
+    },
+    {
+      "question": "यदि किसी घड़ी में समय 3:00 बजे है, तो उसके जल प्रतिबिंब में समय कितना दिखेगा?",
+      "options": [
+        "6:00",
+        "8:30",
+        "9:30",
+        "9:00"
+      ],
+      "correctIndex": 3,
+      "explanation": "जल प्रतिबिंब में समय = 12:00 − दिया गया समय। अतः 12 − 3 = 9:00 बजे दिखेगा।",
+      "questionType": "mcq",
+      "subCategory": "जल प्रतिबिंब",
+      "uuid": "bc4875c8-8026-4efe-b5ba-7c84f5d4cc70",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "If a clock shows 3:00, what time will appear in its water image?",
+        "options_en": [
+          "6:00",
+          "8:30",
+          "9:30",
+          "9:00"
+        ],
+        "explanation_en": "For a water image the time equals 12:00 minus the given time; hence 12 − 3 = 9:00."
+      }
+    },
+    {
+      "question": "छात्रों की एक पंक्ति में सुरेश बायें से 10वें तथा दायें से 15वें स्थान पर है। उस पंक्ति में कुल कितने छात्र हैं?",
+      "options": [
+        "24",
+        "23",
+        "25",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल छात्र = (बायें से स्थान + दायें से स्थान) − 1 = 10 + 15 − 1 = 24 ।",
+      "questionType": "mcq",
+      "subCategory": "क्रम एवं श्रेणी",
+      "uuid": "7add1e1e-be4c-4b9e-92bb-54e13139deb0",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "In a row of students, Suresh is 10th from the left and 15th from the right. How many students are there in the row?",
+        "options_en": [
+          "24",
+          "23",
+          "25",
+          "26"
+        ],
+        "explanation_en": "Total students = (position from left + position from right) − 1 = 10 + 15 − 1 = 24."
+      }
+    },
+    {
+      "question": "निम्नलिखित संख्या आव्यूह में प्रत्येक पंक्ति का योग 20 है। लुप्त संख्या ज्ञात कीजिए:\n5  7  8\n6  9  5\n4  8  ?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "प्रत्येक पंक्ति का योग 20 है, अतः 4 + 8 + ? = 20 से ? = 8 होगा।",
+      "questionType": "mcq",
+      "subCategory": "आव्यूह",
+      "uuid": "96c22fc5-2ddc-4593-ae30-95dc5745e672",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "In the following number matrix the sum of each row is 20. Find the missing number:\n5  7  8\n6  9  5\n4  8  ?",
+        "options_en": [
+          "6",
+          "8",
+          "7",
+          "9"
+        ],
+        "explanation_en": "The sum of every row is 20; hence from 4 + 8 + ? = 20, ? = 8."
+      }
+    },
+    {
+      "question": "किसी घड़ी में 3:00 बजे घंटे की सुई एवं मिनट की सुई के बीच का कोण कितना होगा?",
+      "options": [
+        "60°",
+        "75°",
+        "90°",
+        "120°"
+      ],
+      "correctIndex": 2,
+      "explanation": "सूत्र |30H − 5.5M| से |30×3 − 5.5×0| = 90° प्राप्त होता है। प्रत्येक घंटे का अंतर 30° होता है।",
+      "questionType": "mcq",
+      "subCategory": "घड़ी",
+      "uuid": "02206fd7-7f6a-4331-aefd-046b32d80e11",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "What is the angle between the hour hand and the minute hand of a clock at 3:00?",
+        "options_en": [
+          "60°",
+          "75°",
+          "90°",
+          "120°"
+        ],
+        "explanation_en": "Using |30H − 5.5M|, |30×3 − 5.5×0| = 90°. Each hour-mark on a clock is 30° apart."
+      }
+    },
+    {
+      "question": "यदि 1 जनवरी, 2026 को गुरुवार था, तो 1 जून, 2026 को कौन-सा दिन होगा?",
+      "options": [
+        "शनिवार",
+        "रविवार",
+        "मंगलवार",
+        "सोमवार"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 जनवरी से 1 जून तक 151 दिन हैं (31+28+31+30+31) । 151 = 21 सप्ताह + 4 दिन, अतः गुरुवार + 4 = सोमवार। (2026 अधिवर्ष नहीं है।)",
+      "questionType": "mcq",
+      "subCategory": "कैलेंडर",
+      "uuid": "daac4d0e-81b2-4f3d-8ab8-c9886b173c9f",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "If 1 January 2026 was a Thursday, which day of the week was 1 June 2026?",
+        "options_en": [
+          "Saturday",
+          "Sunday",
+          "Tuesday",
+          "Monday"
+        ],
+        "explanation_en": "There are 151 days from 1 January to 1 June (31+28+31+30+31). 151 = 21 weeks + 4 days, so Thursday + 4 = Monday. (2026 is not a leap year.)"
+      }
+    },
+    {
+      "question": "निम्नलिखित अक्षर-युग्म श्रेणी में लुप्त पद ज्ञात कीजिए:\nAZ, CX, EV, GT, ?",
+      "options": [
+        "IR",
+        "HR",
+        "JR",
+        "IS"
+      ],
+      "correctIndex": 0,
+      "explanation": "प्रथम अक्षरों में +2 (A, C, E, G, I) तथा द्वितीय अक्षरों में −2 (Z, X, V, T, R) की गति है, अतः लुप्त पद IR होगा।",
+      "questionType": "mcq",
+      "subCategory": "अक्षर श्रेणी",
+      "uuid": "916afe70-290a-4b45-8460-8fe471d0ee27",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Find the missing term in the letter-pair series:\nAZ, CX, EV, GT, ?",
+        "options_en": [
+          "IR",
+          "HR",
+          "JR",
+          "IS"
+        ],
+        "explanation_en": "The first letters increase by 2 (A, C, E, G, I) and the second letters decrease by 2 (Z, X, V, T, R); hence the missing term is IR."
+      }
+    },
+    {
+      "question": "संख्या समुच्चय (3, 9, 27) के समान संबंध रखने वाला समुच्चय कौन-सा है?",
+      "options": [
+        "(2, 4, 16)",
+        "(5, 25, 125)",
+        "(4, 12, 48)",
+        "(6, 18, 36)"
+      ],
+      "correctIndex": 1,
+      "explanation": "दिए गए समुच्चय में संबंध x, x², x³ है (3, 9, 27) । यही संबंध (5, 25, 125) में है, क्योंकि 5² = 25 एवं 5³ = 125 ।",
+      "questionType": "mcq",
+      "subCategory": "संख्या समुच्चय",
+      "uuid": "5b527f77-989a-41f1-bc67-f4f35b20461c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Which number set has the same relation as (3, 9, 27)?",
+        "options_en": [
+          "(2, 4, 16)",
+          "(5, 25, 125)",
+          "(4, 12, 48)",
+          "(6, 18, 36)"
+        ],
+        "explanation_en": "The given set follows x, x², x³ (3, 9, 27). The same relation holds in (5, 25, 125), since 5² = 25 and 5³ = 125."
+      }
+    },
+    {
+      "question": "निम्नलिखित में से बेमेल जोड़ी चुनिए, यदि शेष में संबंध y = x³ + x है:",
+      "options": [
+        "2 – 10",
+        "3 – 30",
+        "5 – 30",
+        "4 – 68"
+      ],
+      "correctIndex": 2,
+      "explanation": "2³+2 = 10, 3³+3 = 30, 4³+4 = 68, किंतु 5³+5 = 130 होता है, अतः 5 – 30 बेमेल जोड़ी है।",
+      "questionType": "mcq",
+      "subCategory": "बेमेल जोड़ी",
+      "uuid": "e1398fec-aa0c-42d9-9acc-3c7c75dff745",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Choose the odd pair, given that in the others the relation is y = x³ + x:",
+        "options_en": [
+          "2 – 10",
+          "3 – 30",
+          "5 – 30",
+          "4 – 68"
+        ],
+        "explanation_en": "2³+2 = 10, 3³+3 = 30 and 4³+4 = 68, whereas 5³+5 = 130; hence 5 – 30 is the odd pair."
+      }
+    },
+    {
+      "question": "पाँच व्यक्ति A, B, C, D एवं E एक पंक्ति में बैठे हैं। A, B के ठीक बायें है; B, C के ठीक बायें है; D, C के ठीक दायें है तथा E, D के ठीक दायें है। पंक्ति के मध्य में कौन बैठा है?",
+      "options": [
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "correctIndex": 3,
+      "explanation": "दी गई शर्तों से एकमात्र क्रम A, B, C, D, E बनता है, अतः मध्य स्थान पर C बैठा है।",
+      "questionType": "mcq",
+      "subCategory": "बैठक व्यवस्था",
+      "uuid": "5792d68d-4520-48ce-8dc5-505f1be9d197",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Five persons A, B, C, D and E sit in a row. A is immediately left of B; B is immediately left of C; D is immediately right of C; and E is immediately right of D. Who sits in the middle of the row?",
+        "options_en": [
+          "B",
+          "D",
+          "A",
+          "C"
+        ],
+        "explanation_en": "The given conditions yield the unique order A, B, C, D, E; hence C sits in the middle."
+      }
+    },
+    {
+      "question": "कथन: कोई भी डॉक्टर इंजीनियर नहीं है। कुछ इंजीनियर कलाकार हैं।\nनिष्कर्ष:\nI. कुछ कलाकार डॉक्टर हैं।\nII. कुछ इंजीनियर डॉक्टर नहीं हैं।\nसही विकल्प चुनिए:",
+      "options": [
+        "केवल II",
+        "केवल I",
+        "I और II दोनों",
+        "न तो I और न ही II"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘कोई डॉक्टर इंजीनियर नहीं’ का विलोम यह है कि कोई इंजीनियर डॉक्टर नहीं, अतः निष्कर्ष II सत्य है। कलाकारों और डॉक्टरों के बीच कोई निश्चित संबंध नहीं है, अतः निष्कर्ष I अमान्य है।",
+      "questionType": "mcq",
+      "subCategory": "न्याय वाक्य",
+      "uuid": "e9e1b2e7-c277-440a-bb31-7035cf697c17",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Statements: No doctor is an engineer. Some engineers are artists.\nConclusions:\nI. Some artists are doctors.\nII. Some engineers are not doctors.\nChoose the correct option:",
+        "options_en": [
+          "Only II",
+          "Only I",
+          "Both I and II",
+          "Neither I nor II"
+        ],
+        "explanation_en": "From 'no doctor is an engineer' it follows that no engineer is a doctor, so conclusion II is true. There is no definite relation between artists and doctors, so conclusion I is invalid."
+      }
+    },
+    {
+      "question": "एक 3 × 3 × 3 घन की सभी छह बाह्य सतहों को लाल रंग से रंगा जाता है, तत्पश्चात् उसे 27 समान छोटे घनों में काट दिया जाता है। कितने छोटे घनों की ठीक एक सतह रंगी होगी?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "n × n × n घन में ठीक एक सतह रंगे घनों की संख्या 6(n − 2)² होती है; यहाँ 6(3 − 2)² = 6, अर्थात् प्रत्येक फलक का मध्य घन।",
+      "questionType": "mcq",
+      "subCategory": "घन एवं रंग",
+      "uuid": "1fe0cef1-69e8-41a3-93a1-14073c4ae921",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "All six outer faces of a 3 × 3 × 3 cube are painted red and it is then cut into 27 identical smaller cubes. How many smaller cubes have exactly one face painted?",
+        "options_en": [
+          "4",
+          "6",
+          "8",
+          "12"
+        ],
+        "explanation_en": "In an n × n × n cube the number of cubes with exactly one painted face is 6(n − 2)²; here 6(3 − 2)² = 6, i.e. the centre cube of each face."
+      }
+    },
+    {
+      "question": "एक पासे में 1 के विपरीत 6, 2 के विपरीत 5 तथा 3 के विपरीत 4 अंक हैं। विपरीत सतहों के अंकों का योग कितना होगा?",
+      "options": [
+        "6",
+        "9",
+        "7",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "मानक पासे में विपरीत सतहों के अंकों का योग सदैव 7 होता है (1+6, 2+5, 3+4) ।",
+      "questionType": "mcq",
+      "subCategory": "पासा",
+      "uuid": "3be4ec7f-3a44-4e8a-b7ce-d708347732c9",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "On a die the faces opposite 1, 2 and 3 carry 6, 5 and 4 respectively. What is the sum of the numbers on opposite faces?",
+        "options_en": [
+          "6",
+          "9",
+          "7",
+          "12"
+        ],
+        "explanation_en": "On a standard die the numbers on opposite faces always add up to 7 (1+6, 2+5, 3+4)."
+      }
+    },
+    {
+      "question": "श्रेणी में अगली संख्या ज्ञात कीजिए:\n2, 5, 10, 17, 26, ?",
+      "options": [
+        "35",
+        "36",
+        "38",
+        "37"
+      ],
+      "correctIndex": 3,
+      "explanation": "अंतर क्रमशः 3, 5, 7, 9 हैं, अतः अगला अंतर 11 होगा और अगली संख्या 26 + 11 = 37 होगी। ये पद n² + 1 के रूप में भी हैं (1²+1, 2²+1, …, 6²+1 = 37) ।",
+      "questionType": "mcq",
+      "subCategory": "संख्या श्रेणी",
+      "uuid": "ba1809d4-9cdd-4160-8e12-b2ab4eed35fe",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "Find the next number in the series:\n2, 5, 10, 17, 26, ?",
+        "options_en": [
+          "35",
+          "36",
+          "38",
+          "37"
+        ],
+        "explanation_en": "The differences are 3, 5, 7 and 9; hence the next difference is 11 and the next term is 26 + 11 = 37. The terms are also of the form n² + 1 (6² + 1 = 37)."
+      }
+    },
+    {
+      "question": "एक पिता की आयु अपने पुत्र की आयु की तीन गुनी है तथा दोनों की आयु का योग 64 वर्ष है। चार वर्ष पश्चात् उनकी आयु का अनुपात कितना होगा?",
+      "options": [
+        "13 : 5",
+        "11 : 4",
+        "7 : 3",
+        "15 : 6"
+      ],
+      "correctIndex": 0,
+      "explanation": "पुत्र की आयु 16 वर्ष एवं पिता की 48 वर्ष है। चार वर्ष बाद आयु 20 एवं 52 वर्ष होंगी, अतः अनुपात 52 : 20 = 13 : 5 होगा।",
+      "questionType": "mcq",
+      "subCategory": "आयु संबंधी समस्या",
+      "uuid": "2c70fc28-4f39-4082-9de4-c85b1eb002af",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "तर्कशक्ति (Reasoning)"
+      ],
+      "extra_data": {
+        "question_en": "A father's age is three times his son's age and the sum of their ages is 64 years. What will be the ratio of their ages after four years?",
+        "options_en": [
+          "13 : 5",
+          "11 : 4",
+          "7 : 3",
+          "15 : 6"
+        ],
+        "explanation_en": "The son is 16 years old and the father 48. After four years the ages will be 20 and 52, so the ratio is 52 : 20 = 13 : 5."
+      }
     }
-  ]
+  ],
+  "total_questions": 525
 }

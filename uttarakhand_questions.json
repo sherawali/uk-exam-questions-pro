@@ -129690,7 +129690,3488 @@
         "UK-EXAM-PRO",
         "Uttarakhand GK"
       ]
+    },
+    {
+      "question": "उत्तराखण्ड राज्य का गठन कब हुआ?",
+      "options": [
+        "9 नवम्बर, 2000",
+        "15 अगस्त, 2000",
+        "26 जनवरी, 2001",
+        "1 जनवरी, 2000"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड का गठन 9 नवम्बर, 2000 को उत्तर प्रदेश पुनर्गठन अधिनियम, 2000 के अंतर्गत हुआ और यह भारतीय संघ का 27वाँ राज्य बना।",
+      "questionType": "mcq",
+      "subCategory": "राज्य का गठन",
+      "uuid": "def09d43-8f66-4cfc-8c8a-c8aa753c1031",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "When was the State of Uttarakhand formed?",
+        "options_en": [
+          "9 November 2000",
+          "15 August 2000",
+          "26 January 2001",
+          "1 January 2000"
+        ],
+        "explanation_en": "Uttarakhand was formed on 9 November 2000 under the Uttar Pradesh Reorganisation Act, 2000, and became the 27th State of the Indian Union."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड भारतीय संघ का कौन-सा राज्य है?",
+      "options": [
+        "25वाँ",
+        "27वाँ",
+        "26वाँ",
+        "28वाँ"
+      ],
+      "correctIndex": 1,
+      "explanation": "9 नवम्बर, 2000 को गठन के साथ उत्तराखण्ड भारतीय संघ का 27वाँ राज्य बना। झारखंड 28वाँ तथा छत्तीसगढ़ 26वाँ राज्य है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य का गठन",
+      "uuid": "5da0f312-613a-4a11-9cb0-9a274d69ede3",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Uttarakhand is which numbered State of the Indian Union?",
+        "options_en": [
+          "25th",
+          "27th",
+          "26th",
+          "28th"
+        ],
+        "explanation_en": "On its formation on 9 November 2000, Uttarakhand became the 27th State of the Indian Union. Jharkhand is the 28th and Chhattisgarh the 26th."
+      }
+    },
+    {
+      "question": "राज्य का नाम ‘उत्तरांचल’ से बदलकर ‘उत्तराखण्ड’ कब किया गया?",
+      "options": [
+        "9 नवम्बर, 2000",
+        "26 जनवरी, 2007",
+        "1 जनवरी, 2007",
+        "15 अगस्त, 2006"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 जनवरी, 2007 को राज्य का नाम उत्तरांचल से बदलकर उत्तराखण्ड किया गया। गठन के समय आधिकारिक नाम उत्तरांचल था।",
+      "questionType": "mcq",
+      "subCategory": "राज्य का गठन",
+      "uuid": "7e1b50f5-19b0-4c62-88c6-cb982f91f76c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "When was the name of the State changed from 'Uttaranchal' to 'Uttarakhand'?",
+        "options_en": [
+          "9 November 2000",
+          "26 January 2007",
+          "1 January 2007",
+          "15 August 2006"
+        ],
+        "explanation_en": "The name of the State was changed from Uttaranchal to Uttarakhand on 1 January 2007. At the time of formation the official name was Uttaranchal."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड की अंतरिम राजधानी कौन-सी है?",
+      "options": [
+        "गैरसैंण",
+        "नैनीताल",
+        "हरिद्वार",
+        "देहरादून"
+      ],
+      "correctIndex": 3,
+      "explanation": "देहरादून राज्य की अंतरिम राजधानी है। जून 2020 से गैरसैंण (चमोली) ग्रीष्मकालीन राजधानी घोषित है।",
+      "questionType": "mcq",
+      "subCategory": "राजधानी",
+      "uuid": "b2ac8151-7ceb-42b5-8989-da801558ea61",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which is the interim capital of Uttarakhand?",
+        "options_en": [
+          "Gairsain",
+          "Nainital",
+          "Haridwar",
+          "Dehradun"
+        ],
+        "explanation_en": "Dehradun is the interim capital of the State. Gairsain (Chamoli) has been the summer capital since June 2020."
+      }
+    },
+    {
+      "question": "गैरसैंण को राज्य शासन में किस विशेष दर्जे से अधिसूचित किया गया है?",
+      "options": [
+        "ग्रीष्मकालीन राजधानी",
+        "शीतकालीन राजधानी",
+        "न्यायिक राजधानी",
+        "वित्तीय राजधानी"
+      ],
+      "correctIndex": 0,
+      "explanation": "मार्च 2020 की घोषणा के पश्चात् जून 2020 में अधिसूचना जारी कर गैरसैंण (चमोली) को ग्रीष्मकालीन राजधानी बनाया गया। अंतरिम राजधानी देहरादून है।",
+      "questionType": "mcq",
+      "subCategory": "राजधानी",
+      "uuid": "6f164329-89af-429c-a2d8-3184ecb580d0",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Gairsain has been notified in State administration with which special status?",
+        "options_en": [
+          "Summer capital",
+          "Winter capital",
+          "Judicial capital",
+          "Financial capital"
+        ],
+        "explanation_en": "After the March 2020 announcement, a June 2020 notification made Gairsain (Chamoli) the summer capital. Dehradun remains the interim capital."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड विधानसभा में कुल कितने निर्वाचित सदस्य हैं?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "correctIndex": 1,
+      "explanation": "उत्तराखण्ड एकसदनीय विधानमंडल है; विधानसभा में 70 निर्वाचित सदस्य हैं। राज्यसभा में राज्य के 3 प्रतिनिधि हैं।",
+      "questionType": "mcq",
+      "subCategory": "विधानमंडल",
+      "uuid": "d78556d6-f40d-4925-b53e-654af6ab770b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many elected members are there in the Uttarakhand Legislative Assembly?",
+        "options_en": [
+          "60",
+          "70",
+          "80",
+          "90"
+        ],
+        "explanation_en": "Uttarakhand has a unicameral legislature; the Legislative Assembly has 70 elected members. The State has 3 representatives in the Rajya Sabha."
+      }
+    },
+    {
+      "question": "लोकसभा में उत्तराखण्ड से कितने निर्वाचन क्षेत्र हैं?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखण्ड से लोकसभा के 5 निर्वाचन क्षेत्र हैं – अल्मोड़ा, गढ़वाल, हरिद्वार, नैनीताल तथा टिहरी गढ़वाल। अल्मोड़ा लोकसभा सीट अनुसूचित जाति के लिए आरक्षित है।",
+      "questionType": "mcq",
+      "subCategory": "संसद",
+      "uuid": "7dd90f05-1832-4b33-9750-cbe0a45b9f8d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many Lok Sabha constituencies does Uttarakhand have?",
+        "options_en": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation_en": "Uttarakhand has 5 Lok Sabha constituencies – Almora, Garhwal, Haridwar, Nainital and Tehri Garhwal. The Almora seat is reserved for the Scheduled Castes."
+      }
+    },
+    {
+      "question": "राज्यसभा में उत्तराखण्ड के कितने प्रतिनिधि हैं?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "राज्यसभा में उत्तराखण्ड के 3 प्रतिनिधि होते हैं। चौथा अनुसूची के अनुसार राज्यों को राज्यसभा सीटें आवंटित हैं।",
+      "questionType": "mcq",
+      "subCategory": "संसद",
+      "uuid": "0dc4bd82-b0ab-4b56-85ae-c63d8b2c2ba5",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many representatives does Uttarakhand have in the Rajya Sabha?",
+        "options_en": [
+          "1",
+          "2",
+          "4",
+          "3"
+        ],
+        "explanation_en": "Uttarakhand has 3 representatives in the Rajya Sabha. Rajya Sabha seats are allocated to States as per the Fourth Schedule."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड उच्च न्यायालय की मुख्य पीठ किस झील-नगर से संबद्ध है?",
+      "options": [
+        "नैनीताल",
+        "देहरादून",
+        "हरिद्वार",
+        "हल्द्वानी"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड उच्च न्यायालय की मुख्य पीठ नैनीताल में है। स्थापना 9 नवम्बर, 2000 को हुई; इससे पूर्व क्षेत्र इलाहाबाद उच्च न्यायालय के अधीन था।",
+      "questionType": "mcq",
+      "subCategory": "न्यायपालिका",
+      "uuid": "21363a15-72ca-4a45-bc5c-961fe3a5bd52",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The principal seat of the Uttarakhand High Court is associated with which lake-town?",
+        "options_en": [
+          "Nainital",
+          "Dehradun",
+          "Haridwar",
+          "Haldwani"
+        ],
+        "explanation_en": "The principal seat of the Uttarakhand High Court is at Nainital. It was established on 9 November 2000; earlier the area fell under the Allahabad High Court."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड के प्रथम मुख्यमंत्री कौन थे?",
+      "options": [
+        "नारायण दत्त तिवारी",
+        "नित्यानन्द स्वामी",
+        "भगत सिंह कोश्यारी",
+        "रमेश पोखरियाल"
+      ],
+      "correctIndex": 1,
+      "explanation": "नित्यानन्द स्वामी उत्तराखण्ड के प्रथम मुख्यमंत्री थे (2000–2001) । उनके पश्चात् भगत सिंह कोश्यारी मुख्यमंत्री बने।",
+      "questionType": "mcq",
+      "subCategory": "कार्यपालिका",
+      "uuid": "c1c5a1c6-d01a-4b39-9dc8-bdf3b3faa8ec",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Who was the first Chief Minister of Uttarakhand?",
+        "options_en": [
+          "Narayan Dutt Tiwari",
+          "Nityanand Swami",
+          "Bhagat Singh Koshyari",
+          "Ramesh Pokhriyal"
+        ],
+        "explanation_en": "Nityanand Swami was the first Chief Minister of Uttarakhand (2000–2001). He was succeeded by Bhagat Singh Koshyari."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड के प्रथम राज्यपाल कौन थे?",
+      "options": [
+        "सुदर्शन अग्रवाल",
+        "मार्गरेट अल्वा",
+        "सुरजीत सिंह बरनाला",
+        "अजीज कुरैशी"
+      ],
+      "correctIndex": 2,
+      "explanation": "सुरजीत सिंह बरनाला उत्तराखण्ड के प्रथम राज्यपाल थे। राज्यपाल की नियुक्ति राष्ट्रपति द्वारा अनुच्छेद 155 के अंतर्गत की जाती है।",
+      "questionType": "mcq",
+      "subCategory": "कार्यपालिका",
+      "uuid": "cf8bb8c3-94c3-4358-98a3-dd9bb1bc7c92",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Who was the first Governor of Uttarakhand?",
+        "options_en": [
+          "Sudarshan Agarwal",
+          "Margaret Alva",
+          "Surjit Singh Barnala",
+          "Aziz Qureshi"
+        ],
+        "explanation_en": "Surjit Singh Barnala was the first Governor of Uttarakhand. The Governor is appointed by the President under Article 155."
+      }
+    },
+    {
+      "question": "अक्टूबर 2026 तक उत्तराखण्ड के मुख्यमंत्री कौन हैं?",
+      "options": [
+        "तीरथ सिंह रावत",
+        "हरिश रावत",
+        "त्रिवेन्द्र सिंह रावत",
+        "पुष्कर सिंह धामी"
+      ],
+      "correctIndex": 3,
+      "explanation": "अक्टूबर 2026 तक पुष्कर सिंह धामी उत्तराखण्ड के मुख्यमंत्री हैं। वे भाजपा विधायक हैं और इससे पूर्व कई मंत्रिमंडलों का नेतृत्व कर चुके हैं।",
+      "questionType": "mcq",
+      "subCategory": "कार्यपालिका",
+      "uuid": "d194a973-698f-4d89-a66f-3922c18decfe",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Who is the Chief Minister of Uttarakhand as of October 2026?",
+        "options_en": [
+          "Tirath Singh Rawat",
+          "Harish Rawat",
+          "Trivendra Singh Rawat",
+          "Pushkar Singh Dhami"
+        ],
+        "explanation_en": "As of October 2026, Pushkar Singh Dhami is the Chief Minister of Uttarakhand. He is a BJP legislator and has earlier headed several Cabinets."
+      }
+    },
+    {
+      "question": "अक्टूबर 2026 में नियुक्त उत्तराखण्ड के राज्यपाल कौन हैं?",
+      "options": [
+        "ढाल सिंह बिसेन",
+        "गुरमीत सिंह",
+        "बेबी रानी मौर्य",
+        "आरिफ मोहम्मद खान"
+      ],
+      "correctIndex": 0,
+      "explanation": "अक्टूबर 2026 में राष्ट्रपति द्रौपदी मुर्मु ने ढाल सिंह बिसेन को उत्तराखण्ड का राज्यपाल नियुक्त किया; वे लेफ्टिनेंट जनरल (सेवानिवृत्त) गुरमीत सिंह का स्थान लेते हैं।",
+      "questionType": "mcq",
+      "subCategory": "कार्यपालिका",
+      "uuid": "64478253-9beb-41bc-bca4-c78f8ee5ac5f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Who was appointed as the Governor of Uttarakhand in October 2026?",
+        "options_en": [
+          "Dhal Singh Bisen",
+          "Gurmit Singh",
+          "Baby Rani Maurya",
+          "Arif Mohammed Khan"
+        ],
+        "explanation_en": "In October 2026 President Droupadi Murmu appointed Dhal Singh Bisen as Governor of Uttarakhand; he succeeds Lieutenant General (Retd.) Gurmit Singh."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड में कितने जनपद एवं मंडल हैं?",
+      "options": [
+        "12 जनपद, 2 मंडल",
+        "13 जनपद, 2 मंडल",
+        "13 जनपद, 3 मंडल",
+        "15 जनपद, 2 मंडल"
+      ],
+      "correctIndex": 1,
+      "explanation": "राज्य में 13 जनपद तथा 2 मंडल – गढ़वाल (7 जनपद) एवं कुमाऊँ (6 जनपद) – हैं। गढ़वाल मंडल का मुख्यालय पौड़ी तथा कुमाऊँ का नैनीताल है।",
+      "questionType": "mcq",
+      "subCategory": "प्रशासनिक संरचना",
+      "uuid": "492a8790-dba6-47c3-b383-345548779ad2",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many districts and divisions does Uttarakhand have?",
+        "options_en": [
+          "12 districts, 2 divisions",
+          "13 districts, 2 divisions",
+          "13 districts, 3 divisions",
+          "15 districts, 2 divisions"
+        ],
+        "explanation_en": "The State has 13 districts and 2 divisions – Garhwal (7 districts) and Kumaon (6 districts). The headquarters of Garhwal division is Pauri and of Kumaon is Nainital."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड में समान नागरिक संहिता किस तिथि से लागू हुई?",
+      "options": [
+        "27 जनवरी, 2024",
+        "26 जनवरी, 2025",
+        "27 जनवरी, 2025",
+        "1 अप्रैल, 2025"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखण्ड में समान नागरिक संहिता 27 जनवरी, 2025 से लागू हुई; यह स्वतंत्र भारत में UCC लागू करने वाला प्रथम राज्य बना। यह संविधान के अनुच्छेद 44 से संबंधित है।",
+      "questionType": "mcq",
+      "subCategory": "समान नागरिक संहिता",
+      "uuid": "79a162e5-7c9d-4819-b2f4-02581bd78d44",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "From which date was the Uniform Civil Code enforced in Uttarakhand?",
+        "options_en": [
+          "27 January 2024",
+          "26 January 2025",
+          "27 January 2025",
+          "1 April 2025"
+        ],
+        "explanation_en": "The Uniform Civil Code came into force in Uttarakhand on 27 January 2025; it became the first State in independent India to implement a UCC. It relates to Article 44 of the Constitution."
+      }
+    },
+    {
+      "question": "समान नागरिक संहिता का निदेशक तत्व भारतीय संविधान के किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 39",
+        "अनुच्छेद 40",
+        "अनुच्छेद 48",
+        "अनुच्छेद 44"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 44 (भाग-IV, नीति निदेशक तत्व) राज्य को समान नागरिक संहिता सुनिश्चित करने का निदेश देता है। उत्तराखण्ड ने 27 जनवरी, 2025 को इसे लागू किया।",
+      "questionType": "mcq",
+      "subCategory": "समान नागरिक संहिता",
+      "uuid": "cbdb080c-6cfe-47bc-bbd6-93ed11484ac8",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Under which Article of the Constitution of India is the Directive Principle relating to a Uniform Civil Code contained?",
+        "options_en": [
+          "Article 39",
+          "Article 40",
+          "Article 48",
+          "Article 44"
+        ],
+        "explanation_en": "Article 44 (Part IV, Directive Principles) directs the State to secure a Uniform Civil Code. Uttarakhand implemented it on 27 January 2025."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड का राज्य पशु कौन-सा है?",
+      "options": [
+        "कस्तूरी मृग",
+        "बाघ",
+        "हाथी",
+        "कस्तूरी बिल्ली"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड का राज्य पशु कस्तूरी मृग (Moschus leucogaster / Himalayan musk deer) है। राज्य पक्षी हिमालयी मोनाल है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य प्रतीक",
+      "uuid": "3f5ea85b-51cc-421a-a92c-75b9c7f1345f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which is the State animal of Uttarakhand?",
+        "options_en": [
+          "Musk deer",
+          "Tiger",
+          "Elephant",
+          "Civets"
+        ],
+        "explanation_en": "The State animal of Uttarakhand is the musk deer (Himalayan musk deer). The State bird is the Himalayan monal."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड का राज्य पक्षी कौन-सा है?",
+      "options": [
+        "मोर",
+        "हिमालयी मोनाल",
+        "चीड़ तीतर",
+        "कालीज"
+      ],
+      "correctIndex": 1,
+      "explanation": "हिमालयी मोनाल (Lophophorus impejanus) उत्तराखण्ड का राज्य पक्षी है। यह फूलों की घाटी एवं नंदा देवी क्षेत्र में पाया जाता है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य प्रतीक",
+      "uuid": "f6431e94-7bae-4bed-8a1f-943dd40006fe",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which is the State bird of Uttarakhand?",
+        "options_en": [
+          "Peacock",
+          "Himalayan monal",
+          "Cheer pheasant",
+          "Kalij pheasant"
+        ],
+        "explanation_en": "The Himalayan monal (Lophophorus impejanus) is the State bird of Uttarakhand. It is found in the Valley of Flowers and Nanda Devi region."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड का राज्य वृक्ष कौन-सा है?",
+      "options": [
+        "देवदार",
+        "चीड़",
+        "बुरांश",
+        "बाँज"
+      ],
+      "correctIndex": 2,
+      "explanation": "बुरांश (Rhododendron arboreum) उत्तराखण्ड का राज्य वृक्ष है। वसंत में इसके लाल फूल पहाड़ियों की पहचान हैं; राज्य पुष्प ब्रह्मकमल है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य प्रतीक",
+      "uuid": "3554c036-080f-4e77-b656-2cd6ef3573fd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which is the State tree of Uttarakhand?",
+        "options_en": [
+          "Deodar",
+          "Chir pine",
+          "Buransh (Rhododendron)",
+          "Banj oak"
+        ],
+        "explanation_en": "Buransh (Rhododendron arboreum) is the State tree of Uttarakhand. Its red blossoms in spring are a hallmark of the hills; the State flower is the Brahma Kamal."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड का राज्य पुष्प कौन-सा है?",
+      "options": [
+        "बुरांश",
+        "फूलों की घाटी का प्रिम्यूला",
+        "कमल",
+        "ब्रह्मकमल"
+      ],
+      "correctIndex": 3,
+      "explanation": "ब्रह्मकमल (Saussurea obvallata) उत्तराखण्ड का राज्य पुष्प है। यह उच्च हिमालय में पाया जाता है और धार्मिक-औषधीय महत्व रखता है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य प्रतीक",
+      "uuid": "bdaacaa8-936d-4302-aa98-7d68947bd392",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which is the State flower of Uttarakhand?",
+        "options_en": [
+          "Buransh",
+          "Primula of the Valley of Flowers",
+          "Lotus",
+          "Brahma Kamal"
+        ],
+        "explanation_en": "The Brahma Kamal (Saussurea obvallata) is the State flower of Uttarakhand. It grows in the high Himalaya and has religious and medicinal importance."
+      }
+    },
+    {
+      "question": "गढ़वाल मंडल में जनपदों की संख्या कितनी है?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "गढ़वाल मंडल में 7 जनपद हैं। कुमाऊँ मंडल में 6 जनपद हैं। गढ़वाल का मुख्यालय पौड़ी तथा कुमाऊँ का नैनीताल है।",
+      "questionType": "mcq",
+      "subCategory": "प्रशासनिक संरचना",
+      "uuid": "3342a9ba-59a0-4d34-b6bc-7ce7b09bb136",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many districts are there in the Garhwal division?",
+        "options_en": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "explanation_en": "The Garhwal division has 7 districts. The Kumaon division has 6. Garhwal's headquarters is Pauri and Kumaon's is Nainital."
+      }
+    },
+    {
+      "question": "कुमाऊँ मंडल में कितने जनपद हैं?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "कुमाऊँ मंडल में 6 जनपद हैं – नैनीताल, अल्मोड़ा, पिथौरागढ़, बागेश्वर, चम्पावत एवं ऊधम सिंह नगर। गढ़वाल मंडल में 7 जनपद हैं।",
+      "questionType": "mcq",
+      "subCategory": "प्रशासनिक संरचना",
+      "uuid": "0f212849-8795-4038-8ac4-b5112f093676",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "How many districts are there in the Kumaon division?",
+        "options_en": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "explanation_en": "The Kumaon division has 6 districts – Nainital, Almora, Pithoragarh, Bageshwar, Champawat and Udham Singh Nagar. The Garhwal division has 7 districts."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड विधानमंडल किस प्रकार का है?",
+      "options": [
+        "द्विसदनीय",
+        "त्रिसदनीय",
+        "एकसदनीय",
+        "संघीय परिषद सहित"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखण्ड का विधानमंडल एकसदनीय है, जिसमें विधानसभा है; विधान परिषद नहीं है। कई बड़े राज्यों में द्विसदनीय व्यवस्था है।",
+      "questionType": "mcq",
+      "subCategory": "विधानमंडल",
+      "uuid": "632468b9-6f7e-408e-bd9c-63b65508f396",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What type of legislature does Uttarakhand have?",
+        "options_en": [
+          "Bicameral",
+          "Tricameral",
+          "Unicameral",
+          "With a federal council"
+        ],
+        "explanation_en": "Uttarakhand has a unicameral legislature consisting only of the Legislative Assembly; there is no Legislative Council. Several larger States have a bicameral system."
+      }
+    },
+    {
+      "question": "राज्य के राज्यपाल को अध्यादेश प्रख्यापित करने की शक्ति किस अनुच्छेद में है?",
+      "options": [
+        "अनुच्छेद 123",
+        "अनुच्छेद 163",
+        "अनुच्छेद 200",
+        "अनुच्छेद 213"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 213 राज्यपाल को विधानमंडल के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की शक्ति देता है; अनुच्छेद 123 में यही शक्ति राष्ट्रपति को है। उत्तराखण्ड ने 2026 का UCC संशोधन अध्यादेश इसी के अंतर्गत प्रख्यापित किया।",
+      "questionType": "mcq",
+      "subCategory": "राज्य कार्यपालिका",
+      "uuid": "401c43ef-b8da-4e87-9dc1-a1e78e0ae5a1",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Under which Article is the Governor of a State empowered to promulgate Ordinances?",
+        "options_en": [
+          "Article 123",
+          "Article 163",
+          "Article 200",
+          "Article 213"
+        ],
+        "explanation_en": "Article 213 empowers the Governor to promulgate Ordinances when the legislature is not in session; Article 123 confers the same power on the President. Uttarakhand promulgated the UCC (Amendment) Ordinance, 2026 under this Article."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड राज्य का गठन किस अधिनियम के अंतर्गत हुआ?",
+      "options": [
+        "उत्तर प्रदेश पुनर्गठन अधिनियम, 2000",
+        "राज्य पुनर्गठन अधिनियम, 1956",
+        "संविधान (69वाँ संशोधन) अधिनियम",
+        "आंतरिक सुरक्षा अधिनियम, 2000"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड का गठन उत्तर प्रदेश पुनर्गठन अधिनियम, 2000 के अंतर्गत हुआ, जिसे संसद ने पारित किया। इसी वर्ष छत्तीसगढ़ एवं झारखंड भी बने।",
+      "questionType": "mcq",
+      "subCategory": "राज्य का गठन",
+      "uuid": "d6c48057-036a-4f3b-8d3d-577dd2f14119",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड राजव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Under which Act was the State of Uttarakhand formed?",
+        "options_en": [
+          "Uttar Pradesh Reorganisation Act, 2000",
+          "States Reorganisation Act, 1956",
+          "Constitution (69th Amendment) Act",
+          "Internal Security Act, 2000"
+        ],
+        "explanation_en": "Uttarakhand was formed under the Uttar Pradesh Reorganisation Act, 2000, passed by Parliament. Chhattisgarh and Jharkhand were also created in the same year."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड का कुल भौगोलिक क्षेत्रफल लगभग कितना है?",
+      "options": [
+        "53,483 वर्ग किमी",
+        "48,566 वर्ग किमी",
+        "59,274 वर्ग किमी",
+        "77,088 वर्ग किमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड का क्षेत्रफल 53,483 वर्ग किमी है। क्षेत्रफल की दृष्टि से चमोली सबसे बड़ा जनपद है।",
+      "questionType": "mcq",
+      "subCategory": "स्थिति एवं विस्तार",
+      "uuid": "51599dbb-6384-45ec-9bc5-c2233712b5fe",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "What is the approximate total geographical area of Uttarakhand?",
+        "options_en": [
+          "53,483 sq km",
+          "48,566 sq km",
+          "59,274 sq km",
+          "77,088 sq km"
+        ],
+        "explanation_en": "The area of Uttarakhand is 53,483 sq km. Chamoli is the largest district by area."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड की सबसे ऊँची चोटी कौन-सी है?",
+      "options": [
+        "त्रिशूल",
+        "नंदा देवी",
+        "केदारनाथ",
+        "चौखम्बा"
+      ],
+      "correctIndex": 1,
+      "explanation": "नंदा देवी (7,816 मीटर) उत्तराखण्ड की सबसे ऊँची चोटी है और भारत की दूसरी सबसे ऊँची चोटी मानी जाती है (कंचनजंगा के पश्चात्) ।",
+      "questionType": "mcq",
+      "subCategory": "पर्वत एवं चोटियाँ",
+      "uuid": "2b58fccc-5b7b-4509-bb94-c5ed07245354",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the highest peak of Uttarakhand?",
+        "options_en": [
+          "Trisul",
+          "Nanda Devi",
+          "Kedarnath",
+          "Chaukhamba"
+        ],
+        "explanation_en": "Nanda Devi (7,816 m) is the highest peak of Uttarakhand and is regarded as the second-highest peak in India (after Kangchenjunga)."
+      }
+    },
+    {
+      "question": "भारत का प्रथम राष्ट्रीय उद्यान कौन-सा है, जो उत्तराखण्ड में स्थित है?",
+      "options": [
+        "राजाजी राष्ट्रीय उद्यान",
+        "नंदा देवी राष्ट्रीय उद्यान",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "गंगोत्री राष्ट्रीय उद्यान"
+      ],
+      "correctIndex": 2,
+      "explanation": "जिम कॉर्बेट राष्ट्रीय उद्यान की स्थापना 1936 में हैली नेशनल पार्क के रूप में हुई; यह भारत का प्रथम राष्ट्रीय उद्यान है और मुख्यतः नैनीताल जनपद (रामनगर) में है।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय उद्यान",
+      "uuid": "7c9c681b-d092-4f73-9950-b6d17f14068c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is India's first National Park, located in Uttarakhand?",
+        "options_en": [
+          "Rajaji National Park",
+          "Nanda Devi National Park",
+          "Jim Corbett National Park",
+          "Gangotri National Park"
+        ],
+        "explanation_en": "Jim Corbett National Park was established in 1936 as Hailey National Park; it is India's first National Park and lies mainly in Nainital district (Ramnagar)."
+      }
+    },
+    {
+      "question": "राजाजी राष्ट्रीय उद्यान को बाघ रिज़र्व किस वर्ष घोषित किया गया?",
+      "options": [
+        "2005",
+        "2010",
+        "2020",
+        "2015"
+      ],
+      "correctIndex": 3,
+      "explanation": "राजाजी को 2015 में बाघ रिज़र्व घोषित किया गया। यह देहरादून, हरिद्वार एवं पौड़ी गढ़वाल जनपदों में फैला है।",
+      "questionType": "mcq",
+      "subCategory": "वन्यजीव",
+      "uuid": "0bc80788-4c89-4216-89f4-d187d499f8fd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "In which year was Rajaji National Park declared a Tiger Reserve?",
+        "options_en": [
+          "2005",
+          "2010",
+          "2020",
+          "2015"
+        ],
+        "explanation_en": "Rajaji was declared a Tiger Reserve in 2015. It extends over Dehradun, Haridwar and Pauri Garhwal districts."
+      }
+    },
+    {
+      "question": "पंचप्रयाग का अंतिम मिलन-स्थल कौन-सा है, जहाँ से संयुक्त धारा गंगा कहलाती है?",
+      "options": [
+        "देवप्रयाग",
+        "विष्णुप्रयाग",
+        "रुद्रप्रयाग",
+        "कर्णप्रयाग"
+      ],
+      "correctIndex": 0,
+      "explanation": "देवप्रयाग में भागीरथी अलकनंदा से मिलती है; इसके पश्चात् संयुक्त धारा गंगा कहलाती है। यह पंचप्रयाग का अंतिम मिलन-स्थल है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "98a78346-7264-4f11-8577-6bed928f39d8",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the last of the Panch Prayag meeting-places, after which the combined stream is called the Ganga?",
+        "options_en": [
+          "Devprayag",
+          "Vishnuprayag",
+          "Rudraprayag",
+          "Karnaprayag"
+        ],
+        "explanation_en": "At Devprayag the Bhagirathi joins the Alaknanda; thereafter the combined stream is called the Ganga. This is the last of the Panch Prayag meeting-places."
+      }
+    },
+    {
+      "question": "भागीरथी नदी का उद्गम स्थल कौन-सा हिमनद है?",
+      "options": [
+        "यमुनोत्री",
+        "गंगोत्री",
+        "पिण्डारी",
+        "मिलम"
+      ],
+      "correctIndex": 1,
+      "explanation": "भागीरथी गंगोत्री हिमनद (गोमुख, उत्तरकाशी) से निकलती है। यमुनोत्री हिमनद से यमुना निकलती है।",
+      "questionType": "mcq",
+      "subCategory": "हिमनद",
+      "uuid": "a7c1c5b9-e577-48a6-9d51-168403623695",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which glacier is the source of the Bhagirathi river?",
+        "options_en": [
+          "Yamunotri",
+          "Gangotri",
+          "Pindari",
+          "Milam"
+        ],
+        "explanation_en": "The Bhagirathi originates from the Gangotri Glacier (Gaumukh, Uttarkashi). The Yamuna originates from the Yamunotri Glacier."
+      }
+    },
+    {
+      "question": "यमुना नदी का उद्गम स्थल कौन-सा है?",
+      "options": [
+        "गंगोत्री",
+        "सतोपंथ",
+        "यमुनोत्री (बंदरपूँछ)",
+        "कफनी"
+      ],
+      "correctIndex": 2,
+      "explanation": "यमुना का उद्गम उत्तरकाशी जनपद में बंदरपूँछ के निकट यमुनोत्री हिमनद से है। यमुनोत्री एक प्रमुख चारधाम स्थल भी है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "9730d9c2-123b-4b29-95b2-272e3b322d37",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Where is the source of the Yamuna river?",
+        "options_en": [
+          "Gangotri",
+          "Satopanth",
+          "Yamunotri (Bandarpunch)",
+          "Kafni"
+        ],
+        "explanation_en": "The Yamuna originates from the Yamunotri Glacier near Bandarpunch in Uttarkashi district. Yamunotri is also one of the principal Char Dham shrines."
+      }
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार उत्तराखण्ड की कुल जनसंख्या कितनी थी?",
+      "options": [
+        "84,89,349",
+        "1,12,50,000",
+        "1,25,00,000",
+        "1,00,86,292"
+      ],
+      "correctIndex": 3,
+      "explanation": "जनगणना 2011 के अनुसार राज्य की जनसंख्या 1,00,86,292 थी। दशकीय वृद्धि दर 18.81 प्रतिशत रही।",
+      "questionType": "mcq",
+      "subCategory": "जनसंख्या",
+      "uuid": "66a5091b-7bf5-4542-9d08-d1a122c7648c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to Census 2011, what was the total population of Uttarakhand?",
+        "options_en": [
+          "84,89,349",
+          "1,12,50,000",
+          "1,25,00,000",
+          "1,00,86,292"
+        ],
+        "explanation_en": "According to Census 2011 the population of the State was 1,00,86,292. The decadal growth rate was 18.81 per cent."
+      }
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार उत्तराखण्ड का जनसंख्या घनत्व (प्रति वर्ग किमी) कितना था?",
+      "options": [
+        "189",
+        "149",
+        "382",
+        "414"
+      ],
+      "correctIndex": 0,
+      "explanation": "जनगणना 2011 के अनुसार घनत्व 189 व्यक्ति प्रति वर्ग किमी था, जो राष्ट्रीय औसत (382) से कम है।",
+      "questionType": "mcq",
+      "subCategory": "जनसंख्या",
+      "uuid": "f7f75dda-4476-4140-9dcd-c71f0f874fc4",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to Census 2011, what was the population density of Uttarakhand (per sq km)?",
+        "options_en": [
+          "189",
+          "149",
+          "382",
+          "414"
+        ],
+        "explanation_en": "According to Census 2011 the density was 189 persons per sq km, lower than the national average of 382."
+      }
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार उत्तराखण्ड का लिंगानुपात (प्रति 1000 पुरुषों पर महिलाएँ) कितना था?",
+      "options": [
+        "912",
+        "963",
+        "940",
+        "1084"
+      ],
+      "correctIndex": 1,
+      "explanation": "जनगणना 2011 के अनुसार राज्य का लिंगानुपात 963 था। अल्मोड़ा में यह सर्वाधिक (1139) तथा हरिद्वार में न्यूनतम (880) रहा।",
+      "questionType": "mcq",
+      "subCategory": "जनसंख्या",
+      "uuid": "fe77b5ad-3feb-4753-a177-4a64c2a0bc7d",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to Census 2011, what was the sex ratio of Uttarakhand (females per 1000 males)?",
+        "options_en": [
+          "912",
+          "963",
+          "940",
+          "1084"
+        ],
+        "explanation_en": "According to Census 2011 the State's sex ratio was 963. It was highest in Almora (1139) and lowest in Haridwar (880)."
+      }
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार उत्तराखण्ड की साक्षरता दर कितनी थी?",
+      "options": [
+        "70.01%",
+        "74.04%",
+        "78.82%",
+        "84.25%"
+      ],
+      "correctIndex": 2,
+      "explanation": "जनगणना 2011 के अनुसार साक्षरता 78.82% थी (पुरुष 87.40%, महिला 70.01%) । देहरादून में सर्वाधिक (84.25%) तथा ऊधम सिंह नगर में न्यूनतम (73.10%) रही।",
+      "questionType": "mcq",
+      "subCategory": "जनसंख्या",
+      "uuid": "c51f4bd3-4010-4e8c-a2a2-4c85b1d98e3b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to Census 2011, what was the literacy rate of Uttarakhand?",
+        "options_en": [
+          "70.01%",
+          "74.04%",
+          "78.82%",
+          "84.25%"
+        ],
+        "explanation_en": "According to Census 2011 literacy was 78.82% (male 87.40%, female 70.01%). It was highest in Dehradun (84.25%) and lowest in Udham Singh Nagar (73.10%)."
+      }
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार उत्तराखण्ड का सर्वाधिक जनसंख्या वाला जनपद कौन-सा है?",
+      "options": [
+        "देहरादून",
+        "ऊधम सिंह नगर",
+        "नैनीताल",
+        "हरिद्वार"
+      ],
+      "correctIndex": 3,
+      "explanation": "जनगणना 2011 के अनुसार हरिद्वार सर्वाधिक जनसंख्या (लगभग 18.90 लाख) वाला जनपद है; देहरादून दूसरे स्थान पर है। सबसे कम जनसंख्या रुद्रप्रयाग की है।",
+      "questionType": "mcq",
+      "subCategory": "जनसंख्या",
+      "uuid": "bd28174b-cb86-413f-974a-b9c1e7f97ced",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to Census 2011, which is the most populous district of Uttarakhand?",
+        "options_en": [
+          "Dehradun",
+          "Udham Singh Nagar",
+          "Nainital",
+          "Haridwar"
+        ],
+        "explanation_en": "According to Census 2011 Haridwar is the most populous district (about 18.90 lakh); Dehradun is second. Rudraprayag has the smallest population."
+      }
+    },
+    {
+      "question": "जनगणना 2011 के अनुसार उत्तराखण्ड का न्यूनतम जनसंख्या वाला जनपद कौन-सा है?",
+      "options": [
+        "रुद्रप्रयाग",
+        "चम्पावत",
+        "बागेश्वर",
+        "उत्तरकाशी"
+      ],
+      "correctIndex": 0,
+      "explanation": "जनगणना 2011 के अनुसार रुद्रप्रयाग की जनसंख्या सबसे कम (2,42,285) थी। चम्पावत एवं बागेश्वर इसके निकट हैं।",
+      "questionType": "mcq",
+      "subCategory": "जनसंख्या",
+      "uuid": "d0973c95-c316-44fc-924e-804318553562",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to Census 2011, which district of Uttarakhand had the smallest population?",
+        "options_en": [
+          "Rudraprayag",
+          "Champawat",
+          "Bageshwar",
+          "Uttarkashi"
+        ],
+        "explanation_en": "According to Census 2011 Rudraprayag had the smallest population (2,42,285). Champawat and Bageshwar are next to it."
+      }
+    },
+    {
+      "question": "क्षेत्रफल की दृष्टि से उत्तराखण्ड का सबसे बड़ा जनपद कौन-सा है?",
+      "options": [
+        "उत्तरकाशी",
+        "चमोली",
+        "पिथौरागढ़",
+        "पौड़ी गढ़वाल"
+      ],
+      "correctIndex": 1,
+      "explanation": "चमोली क्षेत्रफल में राज्य का सबसे बड़ा जनपद है; इसके पश्चात् उत्तरकाशी आता है। नंदा देवी एवं फूलों की घाटी इसी जनपद में हैं।",
+      "questionType": "mcq",
+      "subCategory": "जनपद",
+      "uuid": "64fbc193-5370-4fc4-a98c-cdeeec73fe26",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the largest district of Uttarakhand by area?",
+        "options_en": [
+          "Uttarkashi",
+          "Chamoli",
+          "Pithoragarh",
+          "Pauri Garhwal"
+        ],
+        "explanation_en": "Chamoli is the largest district of the State by area, followed by Uttarkashi. Nanda Devi and the Valley of Flowers lie in this district."
+      }
+    },
+    {
+      "question": "फूलों की घाटी राष्ट्रीय उद्यान किस विश्व धरोहर युग्म का भाग है?",
+      "options": [
+        "कॉर्बेट के साथ",
+        "राजाजी के साथ",
+        "नंदा देवी के साथ",
+        "गंगोत्री के साथ"
+      ],
+      "correctIndex": 2,
+      "explanation": "फूलों की घाटी राष्ट्रीय उद्यान चमोली में है और नंदा देवी राष्ट्रीय उद्यान के साथ यूनेस्को विश्व धरोहर युग्म है। यहाँ ब्रह्मकमल सहित अनेक हिमालयी पुष्प पाए जाते हैं।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय उद्यान",
+      "uuid": "8df8cc6b-2bca-4c6b-8967-c680e8890181",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Valley of Flowers National Park forms part of which World Heritage pair?",
+        "options_en": [
+          "With Corbett",
+          "With Rajaji",
+          "With Nanda Devi",
+          "With Gangotri"
+        ],
+        "explanation_en": "The Valley of Flowers National Park is in Chamoli and, together with Nanda Devi National Park, is a UNESCO World Heritage pair. Many Himalayan flowers including the Brahma Kamal are found here."
+      }
+    },
+    {
+      "question": "लिपुलेख दर्रा मुख्यतः किस यात्रा-मार्ग से जुड़ा है?",
+      "options": [
+        "चारधाम केदार मार्ग",
+        "हेमकुंड साहिब मार्ग",
+        "गोमुख पदयात्रा",
+        "कैलाश-मानसरोवर यात्रा"
+      ],
+      "correctIndex": 3,
+      "explanation": "लिपुलेख दर्रा पिथौरागढ़ में भारत-तिब्बत सीमा पर है और कैलाश-मानसरोवर यात्रा का प्रमुख स्थल-मार्ग है।",
+      "questionType": "mcq",
+      "subCategory": "दर्रे",
+      "uuid": "b4c352e1-076a-4bcf-8865-28071ee7d626",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Lipulekh Pass is linked mainly with which pilgrimage route?",
+        "options_en": [
+          "The Kedarnath Char Dham route",
+          "The Hemkund Sahib route",
+          "The Gaumukh trek",
+          "The Kailash-Mansarovar Yatra"
+        ],
+        "explanation_en": "The Lipulekh Pass lies in Pithoragarh on the India-Tibet border and is a principal route of the Kailash-Mansarovar Yatra."
+      }
+    },
+    {
+      "question": "आसन संरक्षण रिज़र्व (रामसर स्थल) किस नदी के तट पर स्थित है?",
+      "options": [
+        "यमुना",
+        "गंगा",
+        "रामगंगा",
+        "कोसी"
+      ],
+      "correctIndex": 0,
+      "explanation": "आसन संरक्षण रिज़र्व देहरादून जनपद में यमुना तट पर है और अक्टूबर 2020 में उत्तराखण्ड का प्रथम रामसर स्थल घोषित हुआ।",
+      "questionType": "mcq",
+      "subCategory": "आर्द्रभूमि",
+      "uuid": "27d04862-5b08-492e-86e5-119995a4d584",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Asan Conservation Reserve (Ramsar Site) is located on the bank of which river?",
+        "options_en": [
+          "Yamuna",
+          "Ganga",
+          "Ramganga",
+          "Kosi"
+        ],
+        "explanation_en": "The Asan Conservation Reserve lies on the Yamuna in Dehradun district and was declared Uttarakhand's first Ramsar Site in October 2020."
+      }
+    },
+    {
+      "question": "मिलम हिमनद किस नदी का उद्गम है?",
+      "options": [
+        "भागीरथी",
+        "गोरी गंगा",
+        "अलकनंदा",
+        "पिण्डर"
+      ],
+      "correctIndex": 1,
+      "explanation": "मिलम हिमनद पिथौरागढ़ जनपद में नंदा देवी समूह की दक्षिणी ढाल पर है और गोरी गंगा का उद्गम है।",
+      "questionType": "mcq",
+      "subCategory": "हिमनद",
+      "uuid": "99d7d5fd-65d6-4f74-a0ae-c14e87f2572e",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Milam Glacier is the source of which river?",
+        "options_en": [
+          "Bhagirathi",
+          "Gori Ganga",
+          "Alaknanda",
+          "Pindar"
+        ],
+        "explanation_en": "The Milam Glacier lies on the southern slope of the Nanda Devi massif in Pithoragarh district and is the source of the Gori Ganga."
+      }
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सी जनजाति उत्तराखण्ड की पाँच अनुसूचित जनजातियों में शामिल नहीं है?",
+      "options": [
+        "थारू",
+        "भोटिया",
+        "गोंड",
+        "जौनसारी"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखण्ड की पाँच अनुसूचित जनजातियाँ हैं – थारू, बुक्सा, भोटिया, जौनसारी एवं राजी (बनराजी) । गोंड इस सूची में नहीं है।",
+      "questionType": "mcq",
+      "subCategory": "जनजातियाँ",
+      "uuid": "617f2c25-f653-41fe-b011-a5538a3cb2db",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is NOT among the five Scheduled Tribes of Uttarakhand?",
+        "options_en": [
+          "Tharu",
+          "Bhotia",
+          "Gond",
+          "Jaunsari"
+        ],
+        "explanation_en": "The five Scheduled Tribes of Uttarakhand are Tharu, Buksa, Bhotia, Jaunsari and Raji (Banraji). Gond is not in this list."
+      }
+    },
+    {
+      "question": "रूपकुंड किस पर्वत-श्रृंखला के निकट हिमनदीय झील है?",
+      "options": [
+        "नंदा कोट",
+        "कमेत",
+        "बंदरपूँछ",
+        "त्रिशूल"
+      ],
+      "correctIndex": 3,
+      "explanation": "रूपकुंड चमोली में त्रिशूल पर्वत के निकट हिमनदीय झील है, जो कंकाल झील के नाम से भी जानी जाती है।",
+      "questionType": "mcq",
+      "subCategory": "झीलें",
+      "uuid": "4f9ba374-7e4f-4288-be34-1a496c3c8854",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Roopkund is a glacial lake near which mountain massif?",
+        "options_en": [
+          "Nanda Kot",
+          "Kamet",
+          "Bandarpunch",
+          "Trisul"
+        ],
+        "explanation_en": "Roopkund is a glacial lake in Chamoli near Trisul peak; it is also known as the Skeleton Lake."
+      }
+    },
+    {
+      "question": "ISFR 2023 के अनुसार उत्तराखण्ड के भौगोलिक क्षेत्र का लगभग कितना प्रतिशत वन आवरण है?",
+      "options": [
+        "45.44%",
+        "35.44%",
+        "55.44%",
+        "61.10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "भारत वन स्थिति रिपोर्ट 2023 के अनुसार उत्तराखण्ड का वन आवरण लगभग 24,304 वर्ग किमी अर्थात् भौगोलिक क्षेत्र का 45.44% है।",
+      "questionType": "mcq",
+      "subCategory": "वन आवरण",
+      "uuid": "338546ae-4203-40bb-ab69-8ed5fd56946e",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to ISFR 2023, approximately what percentage of Uttarakhand's geographical area is under forest cover?",
+        "options_en": [
+          "45.44%",
+          "35.44%",
+          "55.44%",
+          "61.10%"
+        ],
+        "explanation_en": "According to the India State of Forest Report 2023, Uttarakhand's forest cover is about 24,304 sq km, i.e. 45.44% of its geographical area."
+      }
+    },
+    {
+      "question": "पंचप्रयाग में पिण्डर नदी अलकनंदा से जिस स्थल पर मिलती है, वह कौन-सा है?",
+      "options": [
+        "नन्दप्रयाग",
+        "कर्णप्रयाग",
+        "रुद्रप्रयाग",
+        "विष्णुप्रयाग"
+      ],
+      "correctIndex": 1,
+      "explanation": "कर्णप्रयाग में पिण्डर नदी अलकनंदा से मिलती है। नन्दप्रयाग में नन्दाकिनी तथा रुद्रप्रयाग में मन्दाकिनी का मिलन होता है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "fb7ece71-3116-4ce1-9033-b71b763500dd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "At which of the Panch Prayag sites does the Pindar meet the Alaknanda?",
+        "options_en": [
+          "Nandprayag",
+          "Karnaprayag",
+          "Rudraprayag",
+          "Vishnuprayag"
+        ],
+        "explanation_en": "The Pindar meets the Alaknanda at Karnaprayag. The Nandakini meets at Nandprayag and the Mandakini at Rudraprayag."
+      }
+    },
+    {
+      "question": "चारधाम यात्रा के चार तीर्थ कौन-से हैं?",
+      "options": [
+        "केदारनाथ, बद्रीनाथ, हरिद्वार, ऋषिकेश",
+        "केदारनाथ, तुंगनाथ, रुद्रनाथ, कल्पेश्वर",
+        "केदारनाथ, बद्रीनाथ, गंगोत्री, यमुनोत्री",
+        "बद्रीनाथ, द्वारका, पुरी, रामेश्वरम"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखण्ड की चारधाम यात्रा यमुनोत्री, गंगोत्री, केदारनाथ एवं बद्रीनाथ की है। अखिल भारतीय चारधाम बद्रीनाथ, द्वारका, पुरी एवं रामेश्वरम हैं।",
+      "questionType": "mcq",
+      "subCategory": "तीर्थ",
+      "uuid": "5df0e0e8-4a88-49e0-9966-038c7865438d",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which are the four shrines of the Char Dham Yatra of Uttarakhand?",
+        "options_en": [
+          "Kedarnath, Badrinath, Haridwar, Rishikesh",
+          "Kedarnath, Tungnath, Rudranath, Kalpeshwar",
+          "Kedarnath, Badrinath, Gangotri, Yamunotri",
+          "Badrinath, Dwarka, Puri, Rameswaram"
+        ],
+        "explanation_en": "The Char Dham Yatra of Uttarakhand comprises Yamunotri, Gangotri, Kedarnath and Badrinath. The pan-India Char Dham are Badrinath, Dwarka, Puri and Rameswaram."
+      }
+    },
+    {
+      "question": "दून घाटी किन पर्वत श्रेणियों के बीच स्थित है?",
+      "options": [
+        "लघु हिमालय एवं महान हिमालय",
+        "शिवालिक एवं तराई",
+        "जांस्कर एवं लद्दाख",
+        "शिवालिक एवं लघु हिमालय"
+      ],
+      "correctIndex": 3,
+      "explanation": "दून घाटी शिवालिक (बाह्य हिमालय) तथा लघु हिमालय के बीच एक अनुदैर्ध्य घाटी है; देहरादून इसी में बसा है।",
+      "questionType": "mcq",
+      "subCategory": "भौतिक विभाग",
+      "uuid": "3f308a87-06ef-48c7-8a55-c017b7aa7489",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Between which mountain ranges does the Doon Valley lie?",
+        "options_en": [
+          "The Lesser Himalaya and the Greater Himalaya",
+          "The Siwaliks and the Tarai",
+          "The Zanskar and the Ladakh ranges",
+          "The Siwaliks and the Lesser Himalaya"
+        ],
+        "explanation_en": "The Doon Valley is a longitudinal valley between the Siwaliks (Outer Himalaya) and the Lesser Himalaya; Dehradun is situated in it."
+      }
+    },
+    {
+      "question": "पिण्डारी हिमनद किस नदी का उद्गम स्थल है?",
+      "options": [
+        "पिण्डर",
+        "गोरी गंगा",
+        "धौलीगंगा",
+        "मन्दाकिनी"
+      ],
+      "correctIndex": 0,
+      "explanation": "पिण्डारी हिमनद बागेश्वर जनपद में नंदा देवी समूह में स्थित है और पिण्डर नदी का उद्गम है, जो कर्णप्रयाग में अलकनंदा से मिलती है।",
+      "questionType": "mcq",
+      "subCategory": "हिमनद",
+      "uuid": "10005fef-9fb3-4548-b38c-ef3b58c57611",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Pindari Glacier is the source of which river?",
+        "options_en": [
+          "Pindar",
+          "Gori Ganga",
+          "Dhauliganga",
+          "Mandakini"
+        ],
+        "explanation_en": "The Pindari Glacier lies in the Nanda Devi massif in Bageshwar district and is the source of the Pindar river, which joins the Alaknanda at Karnaprayag."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड आर्थिक सर्वेक्षण 2025-26 के अनुसार वर्ष 2024-25 में राज्य का GSDP (प्रचलित भाव) कितना रहा?",
+      "options": [
+        "₹3,81,889 करोड़",
+        "₹2,54,000 करोड़",
+        "₹4,13,000 करोड़",
+        "₹1,11,703 करोड़"
+      ],
+      "correctIndex": 0,
+      "explanation": "आर्थिक सर्वेक्षण 2025-26 के अनुसार 2024-25 में GSDP ₹3,81,889 करोड़ रहा। 2021-22 में यह लगभग ₹2.54 लाख करोड़ था।",
+      "questionType": "mcq",
+      "subCategory": "समष्टि अर्थव्यवस्था",
+      "uuid": "2b83d956-a5ea-4d0a-87a2-98adbbf77bab",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "According to the Uttarakhand Economic Survey 2025-26, what was the GSDP of the State (at current prices) in 2024-25?",
+        "options_en": [
+          "Rs 3,81,889 crore",
+          "Rs 2,54,000 crore",
+          "Rs 4,13,000 crore",
+          "Rs 1,11,703 crore"
+        ],
+        "explanation_en": "According to the Economic Survey 2025-26, GSDP in 2024-25 was Rs 3,81,889 crore. In 2021-22 it was about Rs 2.54 lakh crore."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड आर्थिक सर्वेक्षण 2025-26 के अनुसार 2024-25 में प्रति व्यक्ति आय कितनी रही?",
+      "options": [
+        "₹1,94,670",
+        "₹2,73,921",
+        "₹2,34,500",
+        "₹3,81,889"
+      ],
+      "correctIndex": 1,
+      "explanation": "सर्वेक्षण के अनुसार 2024-25 में प्रति व्यक्ति आय ₹2,73,921 रही, जो 2021-22 की ₹1,94,670 से अधिक है।",
+      "questionType": "mcq",
+      "subCategory": "समष्टि अर्थव्यवस्था",
+      "uuid": "b87072e2-b714-4018-bc3e-6bbec4998a46",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "According to the Uttarakhand Economic Survey 2025-26, what was the per capita income in 2024-25?",
+        "options_en": [
+          "Rs 1,94,670",
+          "Rs 2,73,921",
+          "Rs 2,34,500",
+          "Rs 3,81,889"
+        ],
+        "explanation_en": "According to the Survey, per capita income in 2024-25 was Rs 2,73,921, up from Rs 1,94,670 in 2021-22."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड बजट 2026-27 में शिक्षा एवं खेल का आवंटन लगभग कितना है?",
+      "options": [
+        "₹586 करोड़",
+        "₹19,692 करोड़",
+        "₹11,871 करोड़",
+        "₹2,502 करोड़"
+      ],
+      "correctIndex": 2,
+      "explanation": "बजट 2026-27 में शिक्षा एवं खेल के लिए लगभग ₹11,871 करोड़ आवंटित हैं। कौशल विकास के लिए ₹586 करोड़ तथा जेंडर बजट लगभग ₹19,692 करोड़ है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य बजट",
+      "uuid": "416f280b-52ea-4cff-a49d-5de01b5358d2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the approximate allocation for education and sports in the Uttarakhand Budget 2026-27?",
+        "options_en": [
+          "Rs 586 crore",
+          "Rs 19,692 crore",
+          "Rs 11,871 crore",
+          "Rs 2,502 crore"
+        ],
+        "explanation_en": "Budget 2026-27 allocates about Rs 11,871 crore for education and sports. Skill development is Rs 586 crore and the gender budget about Rs 19,692 crore."
+      }
+    },
+    {
+      "question": "SIDCUL का पूरा नाम क्या है?",
+      "options": [
+        "State Infrastructure and Development Council of Uttarakhand",
+        "Special Industrial Development Company of Uttarakhand Ltd",
+        "State Investment and Development Corporation of Uttarakhand",
+        "State Industrial Development Corporation of Uttarakhand Limited"
+      ],
+      "correctIndex": 3,
+      "explanation": "SIDCUL अर्थात् State Industrial Development Corporation of Uttarakhand Limited राज्य का औद्योगिक विकास निगम है, जो पंतनगर, सितारगंज, हरिद्वार आदि में औद्योगिक क्षेत्र संचालित करता है।",
+      "questionType": "mcq",
+      "subCategory": "उद्योग",
+      "uuid": "28c3c30e-e2dd-434a-b313-9df5b03a1d1b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the full form of SIDCUL?",
+        "options_en": [
+          "State Infrastructure and Development Council of Uttarakhand",
+          "Special Industrial Development Company of Uttarakhand Ltd",
+          "State Investment and Development Corporation of Uttarakhand",
+          "State Industrial Development Corporation of Uttarakhand Limited"
+        ],
+        "explanation_en": "SIDCUL stands for State Industrial Development Corporation of Uttarakhand Limited. It develops industrial estates at Pantnagar, Sitarganj, Haridwar and elsewhere."
+      }
+    },
+    {
+      "question": "टिहरी जलविद्युत परियोजना की स्थापित क्षमता लगभग कितनी है?",
+      "options": [
+        "2400 मेगावाट",
+        "1000 मेगावाट",
+        "1440 मेगावाट",
+        "3300 मेगावाट"
+      ],
+      "correctIndex": 0,
+      "explanation": "टिहरी परियोजना (भागीरथी, टिहरी गढ़वाल) की स्थापित क्षमता 2400 मेगावाट है। यह देश की प्रमुख मिट्टी एवं चट्टान भरवाँ बाँध परियोजनाओं में से एक है।",
+      "questionType": "mcq",
+      "subCategory": "ऊर्जा",
+      "uuid": "f224495d-a195-4fb4-b912-13be882a0cf1",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the approximate installed capacity of the Tehri hydroelectric project?",
+        "options_en": [
+          "2400 MW",
+          "1000 MW",
+          "1440 MW",
+          "3300 MW"
+        ],
+        "explanation_en": "The Tehri project (Bhagirathi, Tehri Garhwal) has an installed capacity of 2400 MW. It is among the country's major rock-and-earth-fill dam projects."
+      }
+    },
+    {
+      "question": "भारत के प्रथम कृषि विश्वविद्यालय की स्थापना किस वर्ष मानी जाती है?",
+      "options": [
+        "1947",
+        "1960",
+        "1971",
+        "2000"
+      ],
+      "correctIndex": 1,
+      "explanation": "जी.बी. पंत कृषि एवं प्रौद्योगिकी विश्वविद्यालय पंतनगर (ऊधम सिंह नगर) में 1960 में स्थापित हुआ। इसे भारत का प्रथम कृषि विश्वविद्यालय माना जाता है।",
+      "questionType": "mcq",
+      "subCategory": "कृषि शिक्षा",
+      "uuid": "1526bece-a028-4527-ad84-a5319bb53494",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "In which year is India's first agricultural university regarded as having been established?",
+        "options_en": [
+          "1947",
+          "1960",
+          "1971",
+          "2000"
+        ],
+        "explanation_en": "G.B. Pant University of Agriculture and Technology at Pantnagar (Udham Singh Nagar) was established in 1960. It is regarded as India's first agricultural university."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड FRBM (संशोधन) विधेयक, 2026 के अनुसार 2026-31 में ऋण सीमा GSDP का कितना प्रतिशत रखी गई है?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "correctIndex": 2,
+      "explanation": "FRBM (संशोधन) विधेयक, 2026 वार्षिक राजकोषीय घाटे की सीमा GSDP के 3 प्रतिशत पर तथा ऋण सीमा 30 प्रतिशत GSDP पर रखता है, जो 1 अप्रैल 2026 से 31 मार्च 2031 तक लागू है।",
+      "questionType": "mcq",
+      "subCategory": "सार्वजनिक वित्त",
+      "uuid": "9b730484-2e70-41e7-8d8c-9f03ab4b83c8",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "As per the Uttarakhand FRBM (Amendment) Bill, 2026, the debt ceiling for 2026-31 is what per cent of GSDP?",
+        "options_en": [
+          "20%",
+          "25%",
+          "30%",
+          "40%"
+        ],
+        "explanation_en": "The FRBM (Amendment) Bill, 2026 caps the annual fiscal deficit at 3% of GSDP and the debt ceiling at 30% of GSDP from 1 April 2026 to 31 March 2031."
+      }
+    },
+    {
+      "question": "तराई क्षेत्र में औद्योगिक विकास का प्रमुख कारण क्या रहा है?",
+      "options": [
+        "उच्च हिमालयी बुग्याल",
+        "गंगोत्री हिमनद पट्टी",
+        "नेलांग शीत-मरुस्थल",
+        "समतल भूमि, परिवहन एवं SIDCUL औद्योगिक क्षेत्र"
+      ],
+      "correctIndex": 3,
+      "explanation": "ऊधम सिंह नगर-हरिद्वार तराई में समतल भूमि, रेल-सड़क संपर्क तथा SIDCUL के औद्योगिक क्षेत्र (पंतनगर, सितारगंज, हरिद्वार) ने विनिर्माण को आकर्षित किया है।",
+      "questionType": "mcq",
+      "subCategory": "उद्योग",
+      "uuid": "69be9a80-530c-4cdd-883d-e9f89bc030ca",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What has been the principal reason for industrial development in the Tarai region?",
+        "options_en": [
+          "Tourism alone",
+          "Plantation tea alone",
+          "Mining alone",
+          "Level land, transport and SIDCUL industrial estates"
+        ],
+        "explanation_en": "Level land, rail-road connectivity and SIDCUL estates (Pantnagar, Sitarganj, Haridwar) in the Udham Singh Nagar-Haridwar Tarai have attracted manufacturing."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड की अर्थव्यवस्था में पर्यटन का महत्व मुख्यतः किस पर आधारित है?",
+      "options": [
+        "चारधाम, कॉर्बेट, पर्वतीय नगर एवं साहसिक पर्यटन",
+        "समुद्री तट",
+        "नगरीय आईटी पार्क",
+        "रेगिस्तानी मेले"
+      ],
+      "correctIndex": 0,
+      "explanation": "चारधाम यात्रा, जिम कॉर्बेट, नैनीताल-मसूरी जैसे पर्वतीय नगर तथा ट्रेकिंग-राफ्टिंग जैसे साहसिक पर्यटन राज्य की सेवा क्षेत्र आय के प्रमुख स्रोत हैं।",
+      "questionType": "mcq",
+      "subCategory": "पर्यटन",
+      "uuid": "7908d7a0-8cd3-4dfc-a7f1-b85156e73352",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The importance of tourism in Uttarakhand's economy is based mainly on which of the following?",
+        "options_en": [
+          "Char Dham, Corbett, hill towns and adventure tourism",
+          "Sea beaches alone",
+          "IT parks alone",
+          "Industrial fairs alone"
+        ],
+        "explanation_en": "The Char Dham Yatra, Jim Corbett, hill towns such as Nainital and Mussoorie, and adventure tourism such as trekking and rafting are major sources of services-sector income."
+      }
+    },
+    {
+      "question": "आर्थिक सर्वेक्षण 2025-26 के अनुसार राज्य में मान्यता प्राप्त स्टार्टअप की संख्या बढ़कर लगभग कितनी हुई?",
+      "options": [
+        "702",
+        "1,750",
+        "1,050",
+        "3,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "सर्वेक्षण के अनुसार स्टार्टअप 702 से बढ़कर 1,750 हो गए। होमस्टे 3,935 से 6,161 तथा होटल 8,225 से 10,509 हो गए।",
+      "questionType": "mcq",
+      "subCategory": "उद्यमिता",
+      "uuid": "c57ea9a1-a248-491d-923a-6588e554304c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "According to the Economic Survey 2025-26, the number of recognised startups in the State rose to about how many?",
+        "options_en": [
+          "702",
+          "1,750",
+          "1,050",
+          "3,000"
+        ],
+        "explanation_en": "According to the Survey, startups rose from 702 to 1,750. Homestays rose from 3,935 to 6,161 and hotels from 8,225 to 10,509."
+      }
+    },
+    {
+      "question": "बजट 2026-27 में कौशल विकास कार्यक्रमों का आवंटन लगभग कितना है?",
+      "options": [
+        "₹9,692 करोड़",
+        "₹11,871 करोड़",
+        "₹586 करोड़",
+        "₹19,692 करोड़"
+      ],
+      "correctIndex": 2,
+      "explanation": "बजट 2026-27 में कौशल विकास के लिए लगभग ₹586 करोड़ आवंटित हैं। शिक्षा-खेल ₹11,871 करोड़ तथा जेंडर बजट लगभग ₹19,692 करोड़ है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य बजट",
+      "uuid": "a322c164-e764-4d4c-bab3-7083f485c3cd",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the approximate allocation for skill-development programmes in Budget 2026-27?",
+        "options_en": [
+          "Rs 9,692 crore",
+          "Rs 11,871 crore",
+          "Rs 586 crore",
+          "Rs 19,692 crore"
+        ],
+        "explanation_en": "Budget 2026-27 allocates about Rs 586 crore for skill development. Education and sports are Rs 11,871 crore and the gender budget about Rs 19,692 crore."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड के पर्वतीय कृषि का प्रमुख स्वरूप क्या है?",
+      "options": [
+        "विशाल चाय बागान प्रधान",
+        "व्यापक कपास पट्टी",
+        "व्यापक गन्ना मैदान",
+        "सीढ़ीदार खेती, बागवानी एवं औषधीय पौधों पर आधारित"
+      ],
+      "correctIndex": 3,
+      "explanation": "पहाड़ों में सीढ़ीदार खेती, मंडुवा-झंगोरा जैसी मोटे अनाज, सेब-आड़ू जैसी बागवानी तथा औषधीय पौधे प्रमुख हैं; तराई में गन्ना, धान एवं गेहूँ अधिक हैं।",
+      "questionType": "mcq",
+      "subCategory": "कृषि",
+      "uuid": "7e41bb46-2f2a-49c7-a989-7e486b3528f5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the principal character of mountain agriculture in Uttarakhand?",
+        "options_en": [
+          "Dominated by large tea estates",
+          "Cotton alone",
+          "Sugarcane alone",
+          "Terrace farming, horticulture and medicinal plants"
+        ],
+        "explanation_en": "In the hills, terrace farming, millets such as mandua and jhangora, horticulture such as apple and peach, and medicinal plants predominate; the Tarai has more sugarcane, paddy and wheat."
+      }
+    },
+    {
+      "question": "‘मंडुवा’ (finger millet) उत्तराखण्ड में किससे संबंधित है?",
+      "options": [
+        "पारंपरिक मोटा अनाज / पौष्टिक फसल",
+        "औद्योगिक नकदी फसल",
+        "निर्यात मसाला",
+        "नकदी फसल कपास"
+      ],
+      "correctIndex": 0,
+      "explanation": "मंडुवा पहाड़ी क्षेत्रों का पारंपरिक मोटा अनाज है, जो पोषण सुरक्षा से जुड़ा है। झंगोरा (सांवा) भी इसी श्रेणी में आता है।",
+      "questionType": "mcq",
+      "subCategory": "कृषि",
+      "uuid": "247b17e7-5c4a-4004-85bc-fd60e2462e4f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is 'mandua' (finger millet) in Uttarakhand associated with?",
+        "options_en": [
+          "A traditional millet / nutritious crop",
+          "An industrial crop only",
+          "An export spice only",
+          "The cash crop cotton"
+        ],
+        "explanation_en": "Mandua is a traditional millet of the hills, linked to nutritional security. Jhangora (barnyard millet) belongs to the same category."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड में चाय बागान मुख्यतः किस क्षेत्र में हैं?",
+      "options": [
+        "नंदा देवी हिमनद",
+        "कौसानी, चम्पावत एवं देहरादून की पहाड़ियाँ",
+        "हरिद्वार का औद्योगिक क्षेत्र",
+        "पंचप्रयाग घाटी"
+      ],
+      "correctIndex": 1,
+      "explanation": "चाय बागान कौसानी (बागेश्वर), चम्पावत तथा देहरादून की पहाड़ियों में हैं। कुमाऊँ की चाय औपनिवेशिक काल से प्रसिद्ध है।",
+      "questionType": "mcq",
+      "subCategory": "कृषि",
+      "uuid": "406ac13d-0f3d-425f-99ad-7222f8cecb3a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Tea gardens in Uttarakhand are found mainly in which region?",
+        "options_en": [
+          "The Nanda Devi glacier",
+          "The hills of Kausani, Champawat and Dehradun",
+          "The industrial belt of Haridwar",
+          "The Panch Prayag valley"
+        ],
+        "explanation_en": "Tea gardens are found in Kausani (Bageshwar), Champawat and the Dehradun hills. Kumaon tea has been known since the colonial period."
+      }
+    },
+    {
+      "question": "वन आधारित आजीविका में निम्नलिखित में से क्या प्रमुख है?",
+      "options": [
+        "कोयला खनन",
+        "पेट्रोलियम निष्कर्षण",
+        "रिंगाल, काष्ठ, जड़ी-बूटी एवं इको-पर्यटन",
+        "समुद्री मत्स्य"
+      ],
+      "correctIndex": 2,
+      "explanation": "रिंगाल (हिमालयी बाँस) शिल्प, काष्ठ, जड़ी-बूटी संग्रह तथा इको-पर्यटन पहाड़ी आजीविका के वन-आधारित स्तंभ हैं। राज्य का वन आवरण ISFR 2023 के अनुसार लगभग 45.44% है।",
+      "questionType": "mcq",
+      "subCategory": "वन अर्थव्यवस्था",
+      "uuid": "bbda6678-cda1-49d6-be5b-e8060d9b8e76",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following is principal in forest-based livelihoods?",
+        "options_en": [
+          "Coal mining only",
+          "Petroleum only",
+          "Ringal, timber, medicinal herbs and eco-tourism",
+          "Marine fishery only"
+        ],
+        "explanation_en": "Ringal (Himalayan bamboo) crafts, timber, collection of medicinal herbs and eco-tourism are the forest-based pillars of hill livelihoods. Forest cover is about 45.44% as per ISFR 2023."
+      }
+    },
+    {
+      "question": "टनकपुर जलविद्युत परियोजना किस नदी पर स्थित है?",
+      "options": [
+        "भागीरथी",
+        "यमुना",
+        "अलकनंदा",
+        "शारदा (काली)"
+      ],
+      "correctIndex": 3,
+      "explanation": "टनकपुर परियोजना चम्पावत जनपद में शारदा (काली) नदी पर है। शारदा नदी नेपाल सीमा के साथ बहती है और तराई की सिंचाई से भी जुड़ी है।",
+      "questionType": "mcq",
+      "subCategory": "ऊर्जा",
+      "uuid": "dcd2b313-315b-4e66-af1c-b3b1542d1e0c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "On which river is the Tanakpur hydroelectric project located?",
+        "options_en": [
+          "Bhagirathi",
+          "Yamuna",
+          "Alaknanda",
+          "Sharda (Kali)"
+        ],
+        "explanation_en": "The Tanakpur project is on the Sharda (Kali) river in Champawat district. The Sharda flows along the Nepal border and is also linked to irrigation in the Tarai."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड की जलविद्युत क्षमता का भौगोलिक आधार क्या है?",
+      "options": [
+        "तीव्र ढाल वाली बारहमासी हिमालयी नदियाँ",
+        "समतल प्रायद्वीपीय पठार",
+        "मानसूनी नाले",
+        "ज्वारीय ऊर्जा"
+      ],
+      "correctIndex": 0,
+      "explanation": "गंगा-यमुना तंत्र की बारहमासी नदियाँ तीव्र ढाल पर बहती हैं, जिससे जलविद्युत क्षमता अधिक है; टिहरी, विष्णुप्रयाग, टनकपुर आदि परियोजनाएँ इसी पर आधारित हैं।",
+      "questionType": "mcq",
+      "subCategory": "ऊर्जा",
+      "uuid": "09c893d6-3a22-4df4-815a-4d570d27b6e1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the geographical basis of Uttarakhand's hydropower potential?",
+        "options_en": [
+          "Perennial Himalayan rivers with steep gradients",
+          "The level peninsular plateau",
+          "Monsoon torrents only",
+          "Tidal energy only"
+        ],
+        "explanation_en": "Perennial rivers of the Ganga-Yamuna system flow down steep gradients, giving large hydropower potential; Tehri, Vishnuprayag and Tanakpur are based on this."
+      }
+    },
+    {
+      "question": "आर्थिक सर्वेक्षण 2025-26 के अनुसार 2024-25 की आर्थिक वृद्धि दर लगभग कितनी रही?",
+      "options": [
+        "5.12%",
+        "7.23%",
+        "9.50%",
+        "11.00%"
+      ],
+      "correctIndex": 1,
+      "explanation": "सर्वेक्षण के अनुसार 2024-25 में आर्थिक वृद्धि दर 7.23% रही। 2026-27 के लिए GSDP वृद्धि का अनुमान 8.2% व्यक्त किया गया।",
+      "questionType": "mcq",
+      "subCategory": "समष्टि अर्थव्यवस्था",
+      "uuid": "400358fb-0212-4733-9cbd-4f4158cd5e8c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "According to the Economic Survey 2025-26, what was the approximate economic growth rate in 2024-25?",
+        "options_en": [
+          "5.12%",
+          "7.23%",
+          "9.50%",
+          "11.00%"
+        ],
+        "explanation_en": "According to the Survey the growth rate in 2024-25 was 7.23%. GSDP growth for 2026-27 is projected at 8.2%."
+      }
+    },
+    {
+      "question": "बजट 2026-27 में अनुमानित राजकोषीय घाटा कितना है?",
+      "options": [
+        "₹2,536 करोड़",
+        "₹19,692 करोड़",
+        "₹12,579.70 करोड़",
+        "₹46,713 करोड़"
+      ],
+      "correctIndex": 2,
+      "explanation": "बजट 2026-27 में राजकोषीय घाटा ₹12,579.70 करोड़ अनुमानित है (GSDP के 3% से कम) । राजस्व अधिशेष ₹2,536.33 करोड़ अनुमानित है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य बजट",
+      "uuid": "0c1a62cb-6965-425c-8bb0-3c6a9034a223",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the estimated fiscal deficit in Budget 2026-27?",
+        "options_en": [
+          "Rs 2,536 crore",
+          "Rs 19,692 crore",
+          "Rs 12,579.70 crore",
+          "Rs 46,713 crore"
+        ],
+        "explanation_en": "The fiscal deficit in Budget 2026-27 is estimated at Rs 12,579.70 crore (below 3% of GSDP). The revenue surplus is estimated at Rs 2,536.33 crore."
+      }
+    },
+    {
+      "question": "‘नंदा गौरा’ योजना किससे संबंधित है?",
+      "options": [
+        "सड़क निर्माण",
+        "बाघ संरक्षण",
+        "औद्योगिक पार्क",
+        "बालिकाओं के लिए राज्य की कल्याण/प्रोत्साहन योजना"
+      ],
+      "correctIndex": 3,
+      "explanation": "नंदा गौरा योजना बालिकाओं के जन्म, शिक्षा एवं विवाह से जुड़ी राज्य की कल्याण योजना है और जेंडर बजट का हिस्सा है।",
+      "questionType": "mcq",
+      "subCategory": "योजनाएँ",
+      "uuid": "812e1f62-ad0d-4127-9951-1968ca033c56",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The 'Nanda Gaura' scheme is related to which of the following?",
+        "options_en": [
+          "Road construction only",
+          "Tiger conservation only",
+          "An industrial park",
+          "A State welfare/incentive scheme for girls"
+        ],
+        "explanation_en": "The Nanda Gaura scheme is a State welfare scheme linked to the birth, education and marriage of girls, and forms part of the gender budget."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड के तराई जनपद ऊधम सिंह नगर की अर्थव्यवस्था में क्या प्रमुख है?",
+      "options": [
+        "कृषि (गन्ना, धान), उद्योग (SIDCUL) एवं नगरीकरण",
+        "हिमनद पर्यटन",
+        "चारधाम यात्रा",
+        "ऊन शिल्प"
+      ],
+      "correctIndex": 0,
+      "explanation": "ऊधम सिंह नगर तराई का उपजाऊ मैदान है; गन्ना-धान, पंतनगर-सितारगंज औद्योगिक क्षेत्र तथा रुद्रपुर-काशीपुर नगरीकरण यहाँ की अर्थव्यवस्था के स्तंभ हैं।",
+      "questionType": "mcq",
+      "subCategory": "क्षेत्रीय अर्थव्यवस्था",
+      "uuid": "8422c1df-7dec-417f-a6c0-549bbf4454ce",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is principal in the economy of the Tarai district of Udham Singh Nagar?",
+        "options_en": [
+          "Agriculture (sugarcane, paddy), industry (SIDCUL) and urbanisation",
+          "Glacier tourism only",
+          "Char Dham only",
+          "Wool crafts only"
+        ],
+        "explanation_en": "Udham Singh Nagar is a fertile Tarai plain; sugarcane-paddy, the Pantnagar-Sitarganj industrial belt and urbanisation at Rudrapur-Kashipur are the pillars of its economy."
+      }
+    },
+    {
+      "question": "हिमालयी राज्य होने के कारण उत्तराखण्ड की अर्थव्यवस्था की एक प्रमुख बाधा क्या है?",
+      "options": [
+        "समुद्री तूफान",
+        "दुर्गम भूगोल, आपदा जोखिम एवं पलायन",
+        "रेगिस्तानीकरण",
+        "ज्वालामुखी"
+      ],
+      "correctIndex": 1,
+      "explanation": "तीव्र ढाल, भूस्खलन-बाढ़ जैसी आपदाएँ, सीमित कृषि भूमि तथा युवा पलायन पर्वतीय अर्थव्यवस्था की प्रमुख बाधाएँ हैं; इसीलिए STI नीति-2026 में हिमनद, आपदा एवं प्रवास प्राथमिकता में हैं।",
+      "questionType": "mcq",
+      "subCategory": "विकास चुनौतियाँ",
+      "uuid": "0f0c71a4-0ec2-4104-ba10-a81e493c67a8",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Being a Himalayan State, which is a major constraint on Uttarakhand's economy?",
+        "options_en": [
+          "Sea storms",
+          "Difficult terrain, disaster risk and out-migration",
+          "Desertification",
+          "Volcanoes"
+        ],
+        "explanation_en": "Steep slopes, disasters such as landslides and floods, limited farm land and youth out-migration are major constraints; hence glacier science, disasters and migration are priorities in the STI Policy-2026."
+      }
+    },
+    {
+      "question": "‘होमस्टे’ नीति का आर्थिक उद्देश्य क्या है?",
+      "options": [
+        "नगरीय मलिन बस्तियाँ",
+        "खनन पट्टे",
+        "ग्रामीण पर्यटन से स्थानीय आय एवं रोजगार बढ़ाना",
+        "निर्यात शुल्क"
+      ],
+      "correctIndex": 2,
+      "explanation": "होमस्टे से ग्रामीण परिवार पर्यटकों को आवास देकर आय प्राप्त करते हैं। सर्वेक्षण 2025-26 के अनुसार होमस्टे 3,935 से बढ़कर 6,161 हो गए।",
+      "questionType": "mcq",
+      "subCategory": "पर्यटन",
+      "uuid": "e82daff6-1053-4773-8466-725eed4f3fe4",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "What is the economic objective of the homestay policy?",
+        "options_en": [
+          "Urban slums only",
+          "Mining leases only",
+          "Raising local income and employment through rural tourism",
+          "Export duty only"
+        ],
+        "explanation_en": "Homestays let rural families earn by lodging tourists. According to the Survey 2025-26, homestays rose from 3,935 to 6,161."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड में औषधीय पौधों का आर्थिक महत्व किससे जुड़ा है?",
+      "options": [
+        "समुद्री शैवाल",
+        "रबर बागान",
+        "जूट",
+        "हिमालयी जड़ी-बूटी, आयुष एवं वनोपज"
+      ],
+      "correctIndex": 3,
+      "explanation": "उच्च हिमालय में ब्रह्मकमल, अतीस, कुटकी जैसी जड़ी-बूटियाँ आयुष उद्योग एवं वनोपज आय से जुड़ी हैं; अतिदोहन रोकना नीतिगत चुनौती है।",
+      "questionType": "mcq",
+      "subCategory": "वन अर्थव्यवस्था",
+      "uuid": "05b429c4-5260-4684-9958-4ea7206e2ceb",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "The economic importance of medicinal plants in Uttarakhand is linked to which of the following?",
+        "options_en": [
+          "Seaweed only",
+          "Rubber plantations only",
+          "Jute only",
+          "Himalayan herbs, AYUSH and forest produce"
+        ],
+        "explanation_en": "High-Himalayan herbs such as Brahma Kamal, Atis and Kutki are linked to the AYUSH industry and forest-produce income; preventing over-harvest is a policy challenge."
+      }
+    },
+    {
+      "question": "पंतनगर विमानक्षेत्र मुख्यतः किस मैदानी पट्टी की अर्थव्यवस्था से जुड़ा है?",
+      "options": [
+        "तराई उद्योग एवं कृषि संपर्क",
+        "भाबर चाय पट्टी",
+        "उच्च हिमालयी बुग्याल",
+        "नेलांग शीत-मरुस्थल"
+      ],
+      "correctIndex": 0,
+      "explanation": "पंतनगर विमानक्षेत्र ऊधम सिंह नगर में है और तराई के औद्योगिक-कृषि क्षेत्र को हवाई संपर्क देता है। अक्टूबर 2026 में इसके विस्तार हेतु ₹66.29 करोड़ स्वीकृत हुए।",
+      "questionType": "mcq",
+      "subCategory": "अवसंरचना",
+      "uuid": "aa2677b0-50e8-4c14-81a9-bcb7d365abb2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड अर्थव्यवस्था"
+      ],
+      "extra_data": {
+        "question_en": "Pantnagar airport is linked mainly to the economy of which plains belt?",
+        "options_en": [
+          "Tarai industry and farm connectivity",
+          "The Bhabar tea belt",
+          "High Himalayan bugyals",
+          "The Nelang cold desert"
+        ],
+        "explanation_en": "Pantnagar airport is in Udham Singh Nagar and gives air connectivity to the industrial-agricultural Tarai. In October 2026 Rs 66.29 crore was approved for its expansion."
+      }
+    },
+    {
+      "question": "कुमाऊँ पर शासन करने वाला प्रमुख राजवंश कौन-सा था?",
+      "options": [
+        "चंद",
+        "पँवार",
+        "पाल",
+        "सोलंकी"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुमाऊँ में चंद राजवंश का शासन रहा; अल्मोड़ा उनकी राजधानी थी। गढ़वाल में पँवार (शाह) राजवंश शासन करता था।",
+      "questionType": "mcq",
+      "subCategory": "प्राचीन एवं मध्यकाल",
+      "uuid": "1a1902b0-7dac-4685-b51e-79cf3a83f9db",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which was the principal dynasty that ruled Kumaon?",
+        "options_en": [
+          "Chand",
+          "Panwar",
+          "Pala",
+          "Solanki"
+        ],
+        "explanation_en": "The Chand dynasty ruled Kumaon, with Almora as its capital. The Panwar (Shah) dynasty ruled Garhwal."
+      }
+    },
+    {
+      "question": "गढ़वाल राज्य पर शासन करने वाला राजवंश कौन-सा था?",
+      "options": [
+        "चंद",
+        "पँवार (शाह)",
+        "कत्यूरी",
+        "गुर्जर-प्रतिहार"
+      ],
+      "correctIndex": 1,
+      "explanation": "गढ़वाल पर पँवार (शाह) राजवंश का शासन था। कत्यूरी राजवंश ने प्राचीन काल में कुमाऊँ-गढ़वाल दोनों क्षेत्रों पर शासन किया।",
+      "questionType": "mcq",
+      "subCategory": "प्राचीन एवं मध्यकाल",
+      "uuid": "f2f00999-bb2b-4ad3-8af3-6494ace4c333",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which dynasty ruled the kingdom of Garhwal?",
+        "options_en": [
+          "Chand",
+          "Panwar (Shah)",
+          "Katyuri",
+          "Gurjara-Pratihara"
+        ],
+        "explanation_en": "The Panwar (Shah) dynasty ruled Garhwal. In ancient times the Katyuri dynasty ruled over both the Kumaon and Garhwal regions."
+      }
+    },
+    {
+      "question": "प्राचीन उत्तराखण्ड के कत्यूरी राजवंश की प्रारंभिक राजधानी कौन-सी मानी जाती है?",
+      "options": [
+        "अल्मोड़ा",
+        "श्रीनगर",
+        "जोशीमठ (कार्तिकेयपुर)",
+        "चम्पावत"
+      ],
+      "correctIndex": 2,
+      "explanation": "कत्यूरी राजवंश की प्रारंभिक राजधानी जोशीमठ (कार्तिकेयपुर) मानी जाती है; बाद में वे कुमाऊँ के बैजनाथ-कार्तिकेयपुर क्षेत्र में रहे।",
+      "questionType": "mcq",
+      "subCategory": "प्राचीन एवं मध्यकाल",
+      "uuid": "05e518e1-f067-427f-a0bf-7a94a9715fa6",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Where is the early capital of the ancient Katyuri dynasty of Uttarakhand believed to have been?",
+        "options_en": [
+          "Almora",
+          "Srinagar",
+          "Joshimath (Kartikeyapur)",
+          "Champawat"
+        ],
+        "explanation_en": "The early capital of the Katyuri dynasty is believed to have been Joshimath (Kartikeyapur); later they were based in the Baijnath-Kartikeyapur region of Kumaon."
+      }
+    },
+    {
+      "question": "खुर्बुरा का युद्ध (1804) किसके बीच हुआ?",
+      "options": [
+        "अंग्रेज एवं गोरखा",
+        "चंद राजा एवं रोहिल्ला",
+        "टिहरी नरेश एवं अंग्रेज",
+        "प्रद्युम्न शाह एवं गोरखा"
+      ],
+      "correctIndex": 3,
+      "explanation": "1804 में देहरादून के निकट खुर्बुरा के युद्ध में गढ़वाल नरेश प्रद्युम्न शाह गोरखों से पराजित होकर वीरगति को प्राप्त हुए; इसके बाद गोरखा शासन स्थापित हुआ।",
+      "questionType": "mcq",
+      "subCategory": "गोरखा काल",
+      "uuid": "96dd368b-82ba-4c93-baea-263450364f14",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The battle of Khurbura (1804) was fought between whom?",
+        "options_en": [
+          "The British and the Gorkhas",
+          "The Chand king and the Rohillas",
+          "The Tehri ruler and the British",
+          "Pradyumna Shah and the Gorkhas"
+        ],
+        "explanation_en": "In 1804, at Khurbura near Dehradun, Garhwal king Pradyumna Shah was defeated and killed by the Gorkhas, after which Gorkha rule was established."
+      }
+    },
+    {
+      "question": "सुगौली की संधि किस वर्ष हुई, जिसके बाद कुमाऊँ-गढ़वाल का बड़ा भाग अंग्रेजों के अधीन आया?",
+      "options": [
+        "1816",
+        "1814",
+        "1815",
+        "1857"
+      ],
+      "correctIndex": 0,
+      "explanation": "सुगौली की संधि 1816 में अंग्रेजों एवं नेपाल (गोरखा) के बीच हुई। 1815 के गोरखा युद्ध के बाद कुमाऊँ तथा पूर्वी गढ़वाल ब्रिटिश क्षेत्र बने; पश्चिमी गढ़वाल टिहरी रियासत रहा।",
+      "questionType": "mcq",
+      "subCategory": "ब्रिटिश काल",
+      "uuid": "d79bd05e-fea9-419a-9795-3ee7cd6aa1ff",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "In which year was the Treaty of Sugauli signed, after which a large part of Kumaon-Garhwal came under the British?",
+        "options_en": [
+          "1816",
+          "1814",
+          "1815",
+          "1857"
+        ],
+        "explanation_en": "The Treaty of Sugauli was signed in 1816 between the British and Nepal (Gorkhas). After the 1815 Gorkha War, Kumaon and eastern Garhwal became British territory; western Garhwal remained the Tehri princely State."
+      }
+    },
+    {
+      "question": "नालापानी (खड़ंगा) का युद्ध 1814 में किनके बीच हुआ?",
+      "options": [
+        "प्रद्युम्न शाह एवं गोरखा",
+        "अंग्रेज एवं गोरखा सेना (बलभद्र कुँवर)",
+        "चंद राजा एवं अंग्रेज",
+        "टिहरी एवं कुमाऊँ"
+      ],
+      "correctIndex": 1,
+      "explanation": "नालापानी (खड़ंगा, देहरादून) का युद्ध 1814 में अंग्रेज सेना एवं गोरखा सेनापति बलभद्र कुँवर के बीच हुआ। यह आंग्ल-नेपाल युद्ध का प्रसिद्ध युद्ध है।",
+      "questionType": "mcq",
+      "subCategory": "गोरखा काल",
+      "uuid": "6218c478-28fa-4f76-8edd-6d7409ea67cf",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The battle of Nalapani (Khalanga) in 1814 was fought between whom?",
+        "options_en": [
+          "Pradyumna Shah and the Gorkhas",
+          "The British and the Gorkha army (Balbhadra Kunwar)",
+          "The Chand king and the British",
+          "Tehri and Kumaon"
+        ],
+        "explanation_en": "The battle of Nalapani (Khalanga, Dehradun) in 1814 was fought between the British army and the Gorkha commander Balbhadra Kunwar. It is a famous battle of the Anglo-Nepal War."
+      }
+    },
+    {
+      "question": "रेणी गाँव का 1974 का आंदोलन मुख्यतः किससे जुड़ा है?",
+      "options": [
+        "कुली बेगार",
+        "रामपुर तिराहा",
+        "वृक्ष कटान का विरोध",
+        "टिहरी विलय-पत्र"
+      ],
+      "correctIndex": 2,
+      "explanation": "1974 में चमोली के रेणी गाँव में गौरा देवी के नेतृत्व में महिलाओं ने वृक्ष कटान का विरोध किया। चिपको का प्रारंभिक प्रदर्शन 1973 में मंडल गाँव से जुड़ा माना जाता है।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "b2058543-96cb-428d-bcab-f8f162b774c7",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The 1974 movement at Reni village is linked mainly to which of the following?",
+        "options_en": [
+          "Coolie Begar",
+          "Rampur Tiraha",
+          "Opposition to tree-felling",
+          "The Tehri Instrument of Accession"
+        ],
+        "explanation_en": "In 1974 women led by Gaura Devi at Reni in Chamoli opposed tree-felling. The earlier Chipko demonstration of 1973 is associated with Mandal village."
+      }
+    },
+    {
+      "question": "चिपको आंदोलन की प्रमुख नेत्री गौरा देवी किस गाँव से संबंधित थीं?",
+      "options": [
+        "गोपेश्वर",
+        "घांसोली",
+        "हेनवल",
+        "रेणी"
+      ],
+      "correctIndex": 3,
+      "explanation": "गौरा देवी चमोली के रेणी गाँव की महिला थीं, जिन्होंने 1974 में गाँव की महिलाओं के साथ चिपको आंदोलन का नेतृत्व किया।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "aed523a1-12bb-4c53-8630-5e7f0bba2d97",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Gaura Devi, the principal woman leader of the Chipko movement, belonged to which village?",
+        "options_en": [
+          "Gopeshwar",
+          "Ghansoli",
+          "Henwal",
+          "Reni"
+        ],
+        "explanation_en": "Gaura Devi was a woman of Reni village in Chamoli who, with the village women, led the Chipko movement in 1974."
+      }
+    },
+    {
+      "question": "कुली बेगार आंदोलन कब और कहाँ हुआ?",
+      "options": [
+        "14 जनवरी, 1921 – बागेश्वर",
+        "14 जनवरी, 1930 – अल्मोड़ा",
+        "23 जनवरी, 1939 – टिहरी",
+        "24 जुलाई, 1979 – मसूरी"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुली बेगार आंदोलन 14 जनवरी, 1921 को बागेश्वर के उत्तरायणी मेले में बद्री दत्त पाण्डेय के नेतृत्व में हुआ; इसके पश्चात् उन्हें ‘कुमाऊँ केसरी’ कहा गया।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "e86a32cb-386f-4052-bdc4-52a7cf59503e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "When and where did the Kuli Begar movement take place?",
+        "options_en": [
+          "14 January 1921 – Bageshwar",
+          "14 January 1930 – Almora",
+          "23 January 1939 – Tehri",
+          "24 July 1979 – Mussoorie"
+        ],
+        "explanation_en": "The Kuli Begar movement took place on 14 January 1921 at the Uttarayani fair in Bageshwar under Badri Datt Pandey; thereafter he came to be called 'Kumaon Kesari'."
+      }
+    },
+    {
+      "question": "‘कुमाऊँ केसरी’ किसे कहा जाता है?",
+      "options": [
+        "गोविन्द बल्लभ पंत",
+        "बद्री दत्त पाण्डेय",
+        "श्रीदेव सुमन",
+        "पूर्णानन्द टंडन"
+      ],
+      "correctIndex": 1,
+      "explanation": "बद्री दत्त पाण्डेय को कुली बेगार आंदोलन (1921) के नेतृत्व के कारण ‘कुमाऊँ केसरी’ कहा जाता है। वे पत्रकार एवं स्वतंत्रता सेनानी थे।",
+      "questionType": "mcq",
+      "subCategory": "व्यक्ति एवं उपाधि",
+      "uuid": "657b3be3-13cf-4c9d-ae85-f3a15584c76b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who is known as 'Kumaon Kesari'?",
+        "options_en": [
+          "Govind Ballabh Pant",
+          "Badri Datt Pandey",
+          "Sridev Suman",
+          "Purnanand Tandon"
+        ],
+        "explanation_en": "Badri Datt Pandey is called 'Kumaon Kesari' for leading the Kuli Begar movement (1921). He was a journalist and freedom fighter."
+      }
+    },
+    {
+      "question": "टिहरी राज्य प्रजा मंडल की स्थापना कब और किसने की?",
+      "options": [
+        "1921 – बद्री दत्त पाण्डेय",
+        "1930 – वीर चन्द्र सिंह गढ़वाली",
+        "1939 – श्रीदेव सुमन",
+        "1942 – नारायण दत्त तिवारी"
+      ],
+      "correctIndex": 2,
+      "explanation": "टिहरी राज्य प्रजा मंडल की स्थापना 23 जनवरी, 1939 को देहरादून में श्रीदेव सुमन ने की थी। वे टिहरी रियासत के प्रमुख स्वतंत्रता सेनानी थे।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "94907ac0-0bf6-443c-814f-ec2484224a4e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "When and by whom was the Tehri State Praja Mandal founded?",
+        "options_en": [
+          "1921 – Badri Datt Pandey",
+          "1930 – Veer Chandra Singh Garhwali",
+          "1939 – Sridev Suman",
+          "1942 – Narayan Datt Tiwari"
+        ],
+        "explanation_en": "The Tehri State Praja Mandal was founded by Sridev Suman at Dehradun on 23 January 1939. He was the principal freedom fighter of the Tehri princely State."
+      }
+    },
+    {
+      "question": "वीर चन्द्र सिंह गढ़वाली किस घटना से जुड़े हैं?",
+      "options": [
+        "चिपको आंदोलन",
+        "कुली बेगार",
+        "नैनीताल रैली 1994",
+        "पेशावर कांड, 1930"
+      ],
+      "correctIndex": 3,
+      "explanation": "वीर चन्द्र सिंह गढ़वाली ने 1930 में पेशावर में गढ़वाल राइफल्स की टुकड़ी के साथ निहत्थे पठानों पर गोली चलाने से इनकार किया। यह सविनय अवज्ञा आंदोलन की प्रसिद्ध घटना है।",
+      "questionType": "mcq",
+      "subCategory": "स्वतंत्रता संग्राम",
+      "uuid": "b30373b9-b826-41be-8e6b-6f8252037403",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "With which event is Veer Chandra Singh Garhwali associated?",
+        "options_en": [
+          "The Chipko movement",
+          "Kuli Begar",
+          "The Nainital rally of 1994",
+          "The Peshawar episode, 1930"
+        ],
+        "explanation_en": "In 1930 at Peshawar, Veer Chandra Singh Garhwali, with a detachment of the Garhwal Rifles, refused to fire on unarmed Pathans. It is a famous episode of the Civil Disobedience Movement."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड क्रांति दल (UKD) की स्थापना कब और कहाँ हुई?",
+      "options": [
+        "24 जुलाई, 1979 – मसूरी",
+        "9 नवम्बर, 2000 – देहरादून",
+        "15 जनवरी, 1979 – नैनीताल",
+        "1 जनवरी, 1994 – उधम सिंह नगर"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड क्रांति दल की स्थापना 24 जुलाई, 1979 को मसूरी में हुई। यह पृथक उत्तराखण्ड राज्य के आंदोलन का प्रमुख दल रहा।",
+      "questionType": "mcq",
+      "subCategory": "राज्य आंदोलन",
+      "uuid": "99b6f774-c29b-4458-949b-ec848c7f4a04",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "When and where was the Uttarakhand Kranti Dal (UKD) founded?",
+        "options_en": [
+          "24 July 1979 – Mussoorie",
+          "9 November 2000 – Dehradun",
+          "15 January 1979 – Nainital",
+          "1 January 1994 – Udham Singh Nagar"
+        ],
+        "explanation_en": "The Uttarakhand Kranti Dal was founded at Mussoorie on 24 July 1979. It was the principal party of the movement for a separate Uttarakhand State."
+      }
+    },
+    {
+      "question": "मैती आंदोलन के प्रणेता कौन हैं?",
+      "options": [
+        "सुंदरलाल बहुगुणा",
+        "कल्याण सिंह रावत",
+        "चंडी प्रसाद भट्ट",
+        "गौरा देवी"
+      ],
+      "correctIndex": 1,
+      "explanation": "मैती आंदोलन की शुरुआत कल्याण सिंह रावत ने की, जिसमें कन्या के विवाह पर मैके (मैती) में वृक्षारोपण कराया जाता है। सुंदरलाल बहुगुणा एवं चंडी प्रसाद भट्ट चिपको से जुड़े हैं।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "8aa7a7f2-baa5-4f81-86e8-caafebfc988f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who is the founder of the Maiti movement?",
+        "options_en": [
+          "Sundarlal Bahuguna",
+          "Kalyan Singh Rawat",
+          "Chandi Prasad Bhatt",
+          "Gaura Devi"
+        ],
+        "explanation_en": "The Maiti movement was started by Kalyan Singh Rawat, in which trees are planted in the bride's parental village (maiti) at the time of marriage. Sundarlal Bahuguna and Chandi Prasad Bhatt are associated with Chipko."
+      }
+    },
+    {
+      "question": "रम्माण (UNESCO ICH, 2009) किस क्षेत्र की परंपरा है?",
+      "options": [
+        "कुमाऊँ का जागर",
+        "जौनसार का बग्वाल",
+        "गढ़वाल का सलूर-डुंगरा (चमोली)",
+        "थारू जनजाति का नृत्य"
+      ],
+      "correctIndex": 2,
+      "explanation": "रम्माण चमोली जनपद के सलूर-डुंगरा क्षेत्र का अनुष्ठानिक नृत्य-नाट्य है, जिसे 2009 में यूनेस्को की अमूर्त सांस्कृतिक विरासत सूची में शामिल किया गया।",
+      "questionType": "mcq",
+      "subCategory": "संस्कृति",
+      "uuid": "d22d9e43-df0e-4f0e-95e8-74a5c199d73a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Ramman (UNESCO ICH, 2009) is a tradition of which region?",
+        "options_en": [
+          "The Jagar of Kumaon",
+          "The Bagwal of Jaunsar",
+          "Salur-Dungra of Garhwal (Chamoli)",
+          "A dance of the Tharu tribe"
+        ],
+        "explanation_en": "Ramman is a ritual theatre of the Salur-Dungra area of Chamoli district, inscribed in 2009 on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity."
+      }
+    },
+    {
+      "question": "गोविन्द बल्लभ पंत स्वतंत्र भारत में किस प्रमुख केंद्रीय पद पर रहे?",
+      "options": [
+        "रक्षा मंत्री",
+        "विदेश मंत्री",
+        "वित्त मंत्री",
+        "गृह मंत्री"
+      ],
+      "correctIndex": 3,
+      "explanation": "गोविन्द बल्लभ पंत का जन्म अल्मोड़ा के खूंट गाँव में हुआ। वे उत्तर प्रदेश के प्रथम मुख्यमंत्री तथा भारत के गृह मंत्री रहे।",
+      "questionType": "mcq",
+      "subCategory": "व्यक्ति",
+      "uuid": "7e5deb71-e49f-4843-bf48-46f58c4d46a4",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which major Union office did Govind Ballabh Pant hold in independent India?",
+        "options_en": [
+          "Defence Minister",
+          "External Affairs Minister",
+          "Finance Minister",
+          "Home Minister"
+        ],
+        "explanation_en": "Govind Ballabh Pant was born at Khunt village in Almora. He was the first Chief Minister of Uttar Pradesh and later Union Home Minister."
+      }
+    },
+    {
+      "question": "सुमित्रानंदन पंत ‘छायावाद’ के प्रमुख स्तंभ थे। उनका जन्म स्थान कहाँ है?",
+      "options": [
+        "कौसानी (बागेश्वर)",
+        "अल्मोड़ा",
+        "गौरीकुंड",
+        "रानीखेत"
+      ],
+      "correctIndex": 0,
+      "explanation": "सुमित्रानंदन पंत का जन्म कौसानी (वर्तमान बागेश्वर जनपद) में हुआ। वे छायावाद के चार स्तंभों में से एक माने जाते हैं।",
+      "questionType": "mcq",
+      "subCategory": "साहित्य",
+      "uuid": "1047cc9a-4a4c-4fd2-9445-69ac8b0d0193",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Sumitranandan Pant was a principal pillar of Chhayavad. Where was he born?",
+        "options_en": [
+          "Kausani (Bageshwar)",
+          "Almora",
+          "Gaurikund",
+          "Ranikhet"
+        ],
+        "explanation_en": "Sumitranandan Pant was born at Kausani (present-day Bageshwar district). He is regarded as one of the four pillars of Chhayavad poetry."
+      }
+    },
+    {
+      "question": "टिहरी-गढ़वाल रियासत के अंतिम शासक कौन थे, जिन्होंने भारत में विलय-पत्र पर हस्ताक्षर किए?",
+      "options": [
+        "प्रद्युम्न शाह",
+        "मानवेन्द्र शाह",
+        "नरेंद्र शाह",
+        "सुदर्शन शाह"
+      ],
+      "correctIndex": 1,
+      "explanation": "मानवेन्द्र शाह टिहरी-गढ़वाल के अंतिम महाराजा थे और उन्होंने 1949 में भारत में विलय-पत्र पर हस्ताक्षर किए। सुदर्शन शाह 1815 के बाद टिहरी रियासत के संस्थापक शासक थे; नरेंद्र शाह उनके पूर्ववर्ती शासक रहे।",
+      "questionType": "mcq",
+      "subCategory": "रियासत",
+      "uuid": "7aee6b23-8703-45a0-b641-be4611136155",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who was the last ruler of the Tehri-Garhwal princely State, who signed the Instrument of Accession to India?",
+        "options_en": [
+          "Pradyumna Shah",
+          "Manvendra Shah",
+          "Narendra Shah",
+          "Sudarshan Shah"
+        ],
+        "explanation_en": "Manvendra Shah was the last Maharaja of Tehri-Garhwal and signed the Instrument of Accession to India in 1949. Sudarshan Shah was the founding ruler of the Tehri State after 1815; Narendra Shah was a preceding ruler."
+      }
+    },
+    {
+      "question": "श्रीदेव सुमन की मृत्यु कहाँ कारावास के दौरान हुई?",
+      "options": [
+        "देहरादून जेल",
+        "अल्मोड़ा जेल",
+        "टिहरी जेल",
+        "नैनीताल जेल"
+      ],
+      "correctIndex": 2,
+      "explanation": "श्रीदेव सुमन की मृत्यु 25 जुलाई, 1944 को टिहरी जेल में लंबे अनशन के पश्चात् हुई। वे टिहरी रियासत में नागरिक अधिकारों के आंदोलन के नायक थे।",
+      "questionType": "mcq",
+      "subCategory": "स्वतंत्रता संग्राम",
+      "uuid": "8bc41d3e-a4c9-4a25-8ece-371d8489faa4",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Where did Sridev Suman die during imprisonment?",
+        "options_en": [
+          "Dehradun jail",
+          "Almora jail",
+          "Tehri jail",
+          "Nainital jail"
+        ],
+        "explanation_en": "Sridev Suman died in Tehri jail on 25 July 1944 after a long hunger strike. He was the hero of the civil-rights movement in the Tehri princely State."
+      }
+    },
+    {
+      "question": "वीरांगना तीलू रौतेली किस काल की योद्धा मानी जाती हैं?",
+      "options": [
+        "1857 के विद्रोह",
+        "गोरखा आक्रमण 1790",
+        "सविनय अवज्ञा 1930",
+        "चंद/मध्यकालीन कुमाऊँ"
+      ],
+      "correctIndex": 3,
+      "explanation": "तीलू रौतेली मध्यकालीन कुमाऊँ की योद्धा मानी जाती हैं, जिन्हें उत्तराखण्ड की ‘झांसी की रानी’ कहा जाता है। उनके नाम पर राज्य स्त्री शक्ति पुरस्कार दिया जाता है।",
+      "questionType": "mcq",
+      "subCategory": "व्यक्ति",
+      "uuid": "c16ecf9e-8719-4ad8-8dc8-d4a26d262928",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Tilu Rauteli is regarded as a warrior of which period?",
+        "options_en": [
+          "The Revolt of 1857",
+          "The Gorkha invasion of 1790",
+          "Civil Disobedience, 1930",
+          "Chand / medieval Kumaon"
+        ],
+        "explanation_en": "Tilu Rauteli is regarded as a warrior of medieval Kumaon and is called the 'Rani of Jhansi of Uttarakhand'. The State women-power award is named after her."
+      }
+    },
+    {
+      "question": "चंडी प्रसाद भट्ट को किस योगदान के लिए जाना जाता है?",
+      "options": [
+        "दशोली ग्राम स्वराज्य मंडल एवं चिपको",
+        "टिहरी बाँध विरोध",
+        "कुली बेगार",
+        "मैती आंदोलन"
+      ],
+      "correctIndex": 0,
+      "explanation": "चंडी प्रसाद भट्ट ने दशोली ग्राम स्वराज्य मंडल की स्थापना की और चिपको आंदोलन के प्रमुख नेता रहे। उन्हें रामोन मैगसेसे पुरस्कार भी मिला।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "3086f1f8-7d20-4e1b-861d-60f415675a91",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "For which contribution is Chandi Prasad Bhatt known?",
+        "options_en": [
+          "Dasholi Gram Swarajya Mandal and Chipko",
+          "Opposition to the Tehri dam",
+          "Kuli Begar",
+          "The Maiti movement"
+        ],
+        "explanation_en": "Chandi Prasad Bhatt founded the Dasholi Gram Swarajya Mandal and was a principal leader of the Chipko movement. He was also awarded the Ramon Magsaysay Award."
+      }
+    },
+    {
+      "question": "सुंदरलाल बहुगुणा किस आंदोलन/अभियान से विशेष रूप से जुड़े?",
+      "options": [
+        "नर्मदा बचाओ",
+        "टिहरी बाँध विरोध एवं चिपको",
+        "कुली बेगार 1921",
+        "जल सत्याग्रह 1942"
+      ],
+      "correctIndex": 1,
+      "explanation": "सुंदरलाल बहुगुणा चिपको आंदोलन तथा टिहरी बाँध विरोधी आंदोलन के प्रमुख नेता थे। उन्होंने ‘पारिस्थितिकी ही स्थायी अर्थव्यवस्था है’ का नारा दिया।",
+      "questionType": "mcq",
+      "subCategory": "आंदोलन",
+      "uuid": "aae51574-212b-47a7-9222-e6fa1e3b71a0",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "With which movement/campaign is Sundarlal Bahuguna particularly associated?",
+        "options_en": [
+          "Narmada Bachao",
+          "Opposition to the Tehri dam and Chipko",
+          "Chipko only at Reni",
+          "The water satyagraha of 1942"
+        ],
+        "explanation_en": "Sundarlal Bahuguna was a principal leader of the Chipko movement and of the agitation against the Tehri dam. He gave the slogan 'ecology is permanent economy'."
+      }
+    },
+    {
+      "question": "मोहन उप्रेती किस कला-रूप के लिए प्रसिद्ध हैं?",
+      "options": [
+        "चित्रकला",
+        "शास्त्रीय नृत्य",
+        "कुमाऊँनी लोक संगीत एवं ‘बिरसू’",
+        "मूर्तिकला"
+      ],
+      "correctIndex": 2,
+      "explanation": "मोहन उप्रेती कुमाऊँनी लोक संगीत के महान कलाकार थे; ‘बिरसू’ उनके प्रसिद्ध गीतों में है। वे पहाड़ी संस्कृति के पुनरुत्थान से जुड़े रहे।",
+      "questionType": "mcq",
+      "subCategory": "संस्कृति",
+      "uuid": "479d2fa7-21e5-41dc-85ac-158fd5320f0b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "For which art form is Mohan Upreti famous?",
+        "options_en": [
+          "Painting",
+          "Classical dance",
+          "Kumaoni folk music and 'Birsu'",
+          "Sculpture"
+        ],
+        "explanation_en": "Mohan Upreti was a great artist of Kumaoni folk music; 'Birsu' is among his famous songs. He was associated with the revival of hill culture."
+      }
+    },
+    {
+      "question": "गिरीश चन्द्र तिवारी ‘गिर्दा’ किस रूप में जाने जाते हैं?",
+      "options": [
+        "वैज्ञानिक",
+        "प्रथम मुख्यमंत्री",
+        "पर्वतारोही",
+        "लोक कवि-गायक एवं नाटककार"
+      ],
+      "correctIndex": 3,
+      "explanation": "गिर्दा (गिरीश चन्द्र तिवारी) उत्तराखण्ड के लोक कवि, गायक एवं नाटककार थे। उनके गीत राज्य आंदोलन एवं पहाड़ी अस्मिता से जुड़े रहे।",
+      "questionType": "mcq",
+      "subCategory": "संस्कृति",
+      "uuid": "3fd77acd-91ad-46b0-83d8-e3251d93015b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Girish Chandra Tiwari 'Girda' is known as which of the following?",
+        "options_en": [
+          "A scientist",
+          "The first Chief Minister",
+          "A mountaineer",
+          "A folk poet-singer and playwright"
+        ],
+        "explanation_en": "Girda (Girish Chandra Tiwari) was a folk poet, singer and playwright of Uttarakhand. His songs were linked to the State movement and hill identity."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड राज्य का गठन निम्नलिखित में से किस घटना-क्रम का परिणाम था?",
+      "options": [
+        "दीर्घकालिक राज्य आंदोलन, जिसमें 1994 की रैली एवं 2000 का अधिनियम शामिल हैं",
+        "1994 का मसूरी आंदोलन",
+        "UKD की स्थापना 1979",
+        "सुगौली संधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "पृथक राज्य का आंदोलन दशकों चला; 1979 में UKD, 1994 की रैलियाँ तथा अंततः उत्तर प्रदेश पुनर्गठन अधिनियम, 2000 से 9 नवम्बर, 2000 को राज्य बना।",
+      "questionType": "mcq",
+      "subCategory": "राज्य आंदोलन",
+      "uuid": "2ffc6927-08eb-4031-ac81-48d44e8a0fcb",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The formation of Uttarakhand was the result of which of the following?",
+        "options_en": [
+          "A long Statehood movement, including the 1994 rallies and the Act of 2000",
+          "Only the 1994 Mussoorie movement",
+          "Only the founding of UKD in 1979",
+          "Only the Treaty of Sugauli"
+        ],
+        "explanation_en": "The movement for a separate State lasted decades; UKD in 1979, the rallies of 1994 and finally the Uttar Pradesh Reorganisation Act, 2000 led to statehood on 9 November 2000."
+      }
+    },
+    {
+      "question": "अक्टूबर 2026 में उत्तराखण्ड मंत्रिमंडल द्वारा स्वीकृत ‘उत्तराखण्ड सिंचाई एवं जल निकासी विधेयक, 2026’ निम्नलिखित में से किस उपनिवेशकालीन विधि के स्थान पर लाया गया है?",
+      "options": [
+        "उत्तरी भारत नहर और जल निकासी अधिनियम, 1873",
+        "भारतीय वन अधिनियम, 1927",
+        "भारतीय परिसमापत्ति अधिनियम, 1882",
+        "भूमि अर्जन अधिनियम, 1894"
+      ],
+      "correctIndex": 0,
+      "explanation": "उत्तराखण्ड मंत्रिमंडल ने अक्टूबर 2026 में ‘उत्तराखण्ड सिंचाई एवं जल निकासी विधेयक, 2026’ को स्वीकृति दी, जो 1873 के उत्तरी भारत नहर और जल निकासी अधिनियम (Northern India Canal and Drainage Act, 1873) के स्थान पर लाया गया है। यह विधेयक उत्तराखण्ड की भौगोलिक एवं पर्यावरणीय परिस्थितियों के अनुरूप सिंचाई और जल निकासी का ढाँचा प्रस्तावित करता है।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – उत्तराखण्ड विधान",
+      "uuid": "b008532f-482e-4002-80bc-7383667b4172",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "The 'Uttarakhand Irrigation and Water Drainage Bill, 2026', approved by the Uttarakhand Cabinet in October 2026, is intended to replace which of the following colonial-era laws?",
+        "options_en": [
+          "The Northern India Canal and Drainage Act, 1873",
+          "The Indian Forest Act, 1927",
+          "The Indian Easements Act, 1882",
+          "The Land Acquisition Act, 1894"
+        ],
+        "explanation_en": "In October 2026 the Uttarakhand Cabinet approved the Uttarakhand Irrigation and Water Drainage Bill, 2026, which will replace the colonial-era Northern India Canal and Drainage Act, 1873. The new Bill seeks to provide an irrigation and drainage framework suited to the geographical and environmental conditions of the Himalayan State."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड वित्तीय उत्तरदायित्व एवं बजट प्रबंधन (संशोधन) विधेयक, 2026 के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसके अंतर्गत 1 अप्रैल, 2026 से 31 मार्च, 2031 तक वार्षिक राजकोषीय घाटे की सीमा सकल राज्य घरेलू उत्पाद (GSDP) का 3 प्रतिशत निर्धारित की गई है।\n2. वर्ष 2026-27 से 2030-31 की अवधि के लिए संचयी बकाया ऋण की सीमा GSDP का 30 प्रतिशत निर्धारित की गई है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "options": [
+        "केवल 1",
+        "केवल 2",
+        "1 और 2 दोनों",
+        "न तो 1 और न ही 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "दोनों कथन सही हैं। अक्टूबर 2026 में स्वीकृत उत्तराखण्ड FRBM (संशोधन) विधेयक, 2026 के अंतर्गत 1 अप्रैल, 2026 से 31 मार्च, 2031 तक वार्षिक राजकोषीय घाटा GSDP के 3 प्रतिशत तक सीमित रहेगा तथा 2026-27 से 2030-31 के लिए संचयी बकाया ऋण की सीमा GSDP का 30 प्रतिशत होगी। ध्यान रहे कि केंद्रीय बजट 2026-27 में केंद्र का राजकोषीय घाटा लक्ष्य GDP का 4.3 प्रतिशत है।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – उत्तराखण्ड अर्थव्यवस्था",
+      "uuid": "fac837c9-423e-4b25-a05f-602e1b652688",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "With reference to the Uttarakhand Fiscal Responsibility and Budget Management (Amendment) Bill, 2026, consider the following statements:\n1. Under it, the annual fiscal deficit is to be capped at 3 per cent of the Gross State Domestic Product (GSDP) from 1 April 2026 to 31 March 2031.\n2. The ceiling on cumulative outstanding debt has been fixed at 30 per cent of GSDP for the period 2026-27 to 2030-31.\nWhich of the statements given above is/are correct?",
+        "options_en": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "explanation_en": "Both statements are correct. The Uttarakhand FRBM (Amendment) Bill, 2026, approved by the State Cabinet in October 2026, caps the annual fiscal deficit at 3 per cent of GSDP from 1 April 2026 to 31 March 2031 and sets the cumulative outstanding debt ceiling at 30 per cent of GSDP for 2026-27 to 2030-31. For comparison, the Union Budget 2026-27 sets the Centre's fiscal deficit target at 4.3 per cent of GDP."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड आर्थिक सर्वेक्षण 2025-26 के अनुसार वर्ष 2024-25 में राज्य की प्रति व्यक्ति आय कितनी रही?",
+      "options": [
+        "₹1,94,670",
+        "₹2,34,500",
+        "₹2,73,921",
+        "₹2,95,751"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखण्ड आर्थिक सर्वेक्षण 2025-26 (नियोजन विभाग) के अनुसार वर्ष 2024-25 में राज्य की प्रति व्यक्ति आय ₹2,73,921 रही, जो 2021-22 की ₹1,94,670 से काफी अधिक है। सर्वेक्षण के अनुसार राज्य का सकल राज्य घरेलू उत्पाद ₹3,81,889 करोड़ रहा और 2024-25 में आर्थिक विकास दर 7.23 प्रतिशत दर्ज की गई।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखण्ड की अर्थव्यवस्था",
+      "uuid": "75750000-9655-40a3-93e7-85f81ebe81e6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "According to the Uttarakhand Economic Survey 2025-26, what was the per capita income of the State in 2024-25?",
+        "options_en": [
+          "Rs 1,94,670",
+          "Rs 2,34,500",
+          "Rs 2,73,921",
+          "Rs 2,95,751"
+        ],
+        "explanation_en": "The Uttarakhand Economic Survey 2025-26, prepared by the State Planning Department, puts the per capita income at Rs 2,73,921 in 2024-25, up from Rs 1,94,670 in 2021-22. The same survey records the GSDP at Rs 3,81,889 crore and an economic growth rate of 7.23 per cent for 2024-25."
+      }
+    },
+    {
+      "question": "अक्टूबर 2026 में मुख्यमंत्री पुष्कर सिंह धामी की अध्यक्षता में आयोजित उत्तराखण्ड मंत्रिमंडल की बैठक किस स्थान पर हुई?",
+      "options": [
+        "गैरसैंण (चमोली)",
+        "बनबासा (चम्पावत)",
+        "रामनगर (नैनीताल)",
+        "पुरोला (उत्तरकाशी)"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 अक्टूबर, 2026 को उत्तराखण्ड मंत्रिमंडल की बैठक चम्पावत जनपद के बनबासा में आयोजित हुई, जिसमें 24 प्रस्ताव स्वीकृत किए गए। इनमें मुख्यमंत्री उच्च शिक्षा कौशल संवर्धन योजना-2026 (लगभग ₹200 करोड़, पाँच वर्षों में) और पंतनगर ग्रीनफील्ड विमानक्षेत्र विस्तार के लिए ₹66.29 करोड़ की स्वीकृति शामिल थी।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – उत्तराखण्ड प्रशासन",
+      "uuid": "b4c0db4d-ce22-47df-bbea-fc3a46c2c52c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Where was the meeting of the Uttarakhand Cabinet held in October 2026 under the chairmanship of Chief Minister Pushkar Singh Dhami?",
+        "options_en": [
+          "Gairsain (Chamoli)",
+          "Banbasa (Champawat)",
+          "Ramnagar (Nainital)",
+          "Purola (Uttarkashi)"
+        ],
+        "explanation_en": "On 4 October 2026 the Uttarakhand Cabinet met at Banbasa in Champawat district and approved 24 proposals, including the Chief Minister Higher Education Skill Enhancement Scheme-2026 (about Rs 200 crore over five years) and Rs 66.29 crore for the expansion of the greenfield airport at Pantnagar."
+      }
+    },
+    {
+      "question": "वर्ष 2026 के पद्म पुरस्कारों में उत्तराखण्ड से सम्मानित श्री भगत सिंह कोश्यारी को किस क्षेत्र के लिए पद्म भूषण प्रदान किया गया?",
+      "options": [
+        "साहित्य एवं शिक्षा",
+        "लोक कार्य",
+        "कला",
+        "चिकित्सा"
+      ],
+      "correctIndex": 1,
+      "explanation": "26 जनवरी, 2026 को घोषित पद्म पुरस्कारों में उत्तराखण्ड के भगवत सिंह कोश्यारी को लोक कार्य (Public Affairs) के क्षेत्र में पद्म भूषण से सम्मानित किया गया। वे उत्तराखण्ड के मुख्यमंत्री तथा महाराष्ट्र के राज्यपाल रह चुके हैं। वर्ष 2026 में कुल 131 पद्म पुरस्कार (5 पद्म विभूषण, 13 पद्म भूषण एवं 113 पद्म श्री) घोषित किए गए।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – पुरस्कार एवं सम्मान",
+      "uuid": "94771cec-fe78-48fa-83cc-dff4ff2d8232",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "In the Padma Awards 2026, Shri Bhagat Singh Koshyari from Uttarakhand was conferred the Padma Bhushan in which field?",
+        "options_en": [
+          "Literature and Education",
+          "Public Affairs",
+          "Art",
+          "Medicine"
+        ],
+        "explanation_en": "Bhagat Singh Koshyari of Uttarakhand was awarded the Padma Bhushan 2026 in the field of Public Affairs; the awards were announced on 26 January 2026. He has served as Chief Minister of Uttarakhand and as Governor of Maharashtra. A total of 131 Padma Awards (5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri) were announced for 2026."
+      }
+    },
+    {
+      "question": "अक्टूबर 2026 में राष्ट्रपति द्रौपदी मुर्मु द्वारा नियुक्त उत्तराखण्ड के नए राज्यपाल कौन हैं?",
+      "options": [
+        "सुधा यादव",
+        "ब्रज मोहन राम",
+        "दुष्यंत गौतम",
+        "ढाल सिंह बिसेन"
+      ],
+      "correctIndex": 3,
+      "explanation": "अक्टूबर 2026 में राष्ट्रपति द्रौपदी मुर्मु ने छह राज्यों में नए राज्यपालों की नियुक्ति की, जिसमें ढाल सिंह बिसेन को उत्तराखण्ड का राज्यपाल नियुक्त किया गया। वे मध्य प्रदेश के बालाघाट से पूर्व लोकसभा सदस्य रहे हैं तथा लेफ्टिनेंट जनरल (सेवानिवृत्त) गुरमीत सिंह का स्थान लेंगे, जो सितंबर 2021 से इस पद पर थे।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – नियुक्ति",
+      "uuid": "1b32674a-6654-4a60-abe3-64c234982367",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Who was appointed as the new Governor of Uttarakhand by President Droupadi Murmu in October 2026?",
+        "options_en": [
+          "Sudha Yadav",
+          "Braja Mohan Ram",
+          "Dushyant Gautam",
+          "Dhal Singh Bisen"
+        ],
+        "explanation_en": "In October 2026 President Droupadi Murmu appointed new Governors for six States, and Dhal Singh Bisen was appointed Governor of Uttarakhand. A former Lok Sabha member from Balaghat, Madhya Pradesh, he succeeds Lieutenant General (Retd.) Gurmit Singh, who held the office since September 2021."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड विज्ञान, प्रौद्योगिकी एवं नवाचार नीति-2026 के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसमें हिमनद विज्ञान, आपदा प्रबंधन, जल संसाधन एवं प्रवास को प्राथमिकता वाले क्षेत्र बनाया गया है।\n2. इस नीति में कार्बन क्रेडिट को शामिल करने के निर्देश मुख्यमंत्री द्वारा दिए गए।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "options": [
+        "1 और 2 दोनों",
+        "केवल 1",
+        "केवल 2",
+        "न तो 1 और न ही 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "दोनों कथन सही हैं। सितंबर 2026 में मुख्यमंत्री पुष्कर सिंह धामी ने प्रधानमंत्री के प्रधान वैज्ञानिक सलाहकार प्रो. अजय सूद की उपस्थिति में उत्तराखण्ड विज्ञान, प्रौद्योगिकी एवं नवाचार नीति-2026 का विमोचन किया। इसमें हिमनद विज्ञान, आपदा प्रबंधन, जल संसाधन, कृषि, स्वास्थ्य, शिक्षा, प्रवास, कौशल विकास एवं नवाचार को प्राथमिकता वाले क्षेत्र बनाया गया तथा कार्बन क्रेडिट को शामिल करने के निर्देश दिए गए।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – उत्तराखण्ड नीतियाँ",
+      "uuid": "b78c5ecc-71a1-4da2-aed0-4a0030a2b052",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Consider the following statements regarding the Uttarakhand Science, Technology and Innovation Policy-2026:\n1. Glacier science, disaster management, water resources and migration have been identified as priority areas in it.\n2. The Chief Minister directed that carbon credits be included in the Policy.\nWhich of the statements given above is/are correct?",
+        "options_en": [
+          "Both 1 and 2",
+          "1 only",
+          "2 only",
+          "Neither 1 nor 2"
+        ],
+        "explanation_en": "Both statements are correct. In September 2026 Chief Minister Pushkar Singh Dhami released the Uttarakhand Science, Technology and Innovation Policy-2026 in the presence of the Principal Scientific Adviser to the Prime Minister, Prof. Ajay Sood. Glacier science, disaster management, water resources, agriculture, health, education, migration, skill development and innovation are priority areas, and the Chief Minister directed that carbon credits be included in the Policy."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड में 27 जनवरी, 2025 को लागू की गई समान नागरिक संहिता से संबंधित निदेशक तत्व भारतीय संविधान के किस अनुच्छेद में अंतर्निहित है?",
+      "options": [
+        "अनुच्छेद 39",
+        "अनुच्छेद 44",
+        "अनुच्छेद 48",
+        "अनुच्छेद 51"
+      ],
+      "correctIndex": 1,
+      "explanation": "समान नागरिक संहिता का निदेशक तत्व संविधान के अनुच्छेद 44 (भाग-IV, राज्य के नीति निदेशक तत्व) में है। उत्तराखण्ड ने 27 जनवरी, 2025 को समान नागरिक संहिता लागू की और वह स्वतंत्र भारत में ऐसा करने वाला प्रथम राज्य बना; गोवा में पुर्तगाली नागरिक संहिता, 1867 पर आधारित समान नागरिक व्यवस्था पहले से लागू थी।",
+      "questionType": "mcq",
+      "subCategory": "भारतीय संविधान – नीति निदेशक तत्व",
+      "uuid": "742ec4b7-0a7e-439b-a0ae-6912480917b7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Under which Article of the Constitution of India is the Directive Principle related to the Uniform Civil Code, implemented in Uttarakhand on 27 January 2025, contained?",
+        "options_en": [
+          "Article 39",
+          "Article 44",
+          "Article 48",
+          "Article 51"
+        ],
+        "explanation_en": "The Directive Principle on a Uniform Civil Code is contained in Article 44 of the Constitution (Part IV). Uttarakhand implemented the Uniform Civil Code on 27 January 2025, becoming the first State in independent India to do so; Goa already had a common civil system based on the Portuguese Civil Code, 1867."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड से संबंधित निम्नलिखित घटनाओं/संस्थाओं को कालानुक्रम (पूर्व से पश्चिम) में व्यवस्थित कीजिए:\n1. उत्तराखण्ड राज्य का गठन\n2. कुली बेगार आंदोलन\n3. उत्तराखण्ड क्रांति दल की स्थापना\n4. टिहरी प्रजा मंडल की स्थापना\nसही कालानुक्रम कौन-सा है? नीचे दिए गए कूट से उत्तर चुनिए:",
+      "options": [
+        "4, 2, 3, 1",
+        "2, 4, 3, 1",
+        "2, 4, 1, 3",
+        "4, 2, 1, 3"
+      ],
+      "correctIndex": 1,
+      "explanation": "सही कालानुक्रम है – कुली बेगार आंदोलन (14 जनवरी, 1921), टिहरी राज्य प्रजा मंडल की स्थापना (23 जनवरी, 1939), उत्तराखण्ड क्रांति दल की स्थापना (24 जुलाई, 1979) तथा उत्तराखण्ड राज्य का गठन (9 नवंबर, 2000)। कुली बेगार आंदोलन बागेश्वर के उत्तरायणी मेले में बद्री दत्त पाण्डेय के नेतृत्व में हुआ, जिसके पश्चात् उन्हें ‘कुमाऊँ केसरी’ की उपाधि मिली; टिहरी प्रजा मंडल की स्थापना देहरादून में श्रीदेव सुमन ने की थी तथा उत्तराखण्ड क्रांति दल मसूरी में स्थापित हुआ था।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखण्ड का इतिहास एवं राज्य आंदोलन",
+      "uuid": "d94bc174-0b33-45fa-8b43-d2c188ea6085",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Arrange the following events/organisations related to Uttarakhand in chronological order (earliest to latest):\n1. Formation of the State of Uttarakhand\n2. Kuli Begar Movement\n3. Establishment of Uttarakhand Kranti Dal\n4. Establishment of Tehri Praja Mandal\nWhich one of the following is the correct chronological order? Select the correct answer using the code given below:",
+        "options_en": [
+          "4, 2, 3, 1",
+          "2, 4, 3, 1",
+          "2, 4, 1, 3",
+          "4, 2, 1, 3"
+        ],
+        "explanation_en": "The correct chronology is the Kuli Begar Movement (14 January 1921), the establishment of the Tehri State Praja Mandal (23 January 1939), the establishment of Uttarakhand Kranti Dal (24 July 1979) and the formation of the State of Uttarakhand (9 November 2000). The Kuli Begar Movement was led by Badri Datt Pandey at the Uttarayani fair in Bageshwar, after which he came to be known as Kumaon Kesari; the Tehri Praja Mandal was founded by Sridev Suman at Dehradun, and Uttarakhand Kranti Dal was established at Mussoorie."
+      }
+    },
+    {
+      "question": "उत्तराखण्ड का प्रथम ‘रामसर स्थल’ किसे घोषित किया गया है?",
+      "options": [
+        "राजाजी राष्ट्रीय उद्यान",
+        "गोविन्द पशु विहार",
+        "आसन संरक्षण रिज़र्व",
+        "नंदा देवी बायोस्फीयर रिज़र्व"
+      ],
+      "correctIndex": 2,
+      "explanation": "आसन संरक्षण रिज़र्व (देहरादून जनपद, विकासनगर क्षेत्र) को अक्टूबर 2020 में उत्तराखण्ड का प्रथम रामसर स्थल घोषित किया गया; यह यमुना नदी तट पर स्थित है और इसे वर्ष 2005 में संरक्षण रिज़र्व घोषित किया गया था। अगस्त 2026 तक भारत में कुल 101 रामसर स्थल हैं, जिनमें सर्वाधिक तमिलनाडु (20) में हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखण्ड का पर्यावरण एवं वन्यजीव",
+      "uuid": "c4091474-5867-4800-a53a-7e137386f2d1",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following has been declared as the first 'Ramsar Site' of Uttarakhand?",
+        "options_en": [
+          "Rajaji National Park",
+          "Govind Pashu Vihar",
+          "Asan Conservation Reserve",
+          "Nanda Devi Biosphere Reserve"
+        ],
+        "explanation_en": "The Asan Conservation Reserve in the Vikasnagar area of Dehradun district, located on the bank of the Yamuna, was declared Uttarakhand's first Ramsar Site in October 2020; it had been notified as a conservation reserve in 2005. As of August 2026 India has 101 Ramsar Sites, the highest number (20) being in Tamil Nadu."
+      }
+    },
+    {
+      "question": "‘प्रयाग’ को उस नदी से सुमेलित कीजिए, जिसका संगम अलकनंदा से वहाँ होता है:\nसूची-I (प्रयाग)      सूची-II (नदी)\nA. विष्णुप्रयाग     1. नन्दाकिनी\nB. नन्दप्रयाग       2. भागीरथी\nC. रुद्रप्रयाग       3. धौलीगंगा\nD. देवप्रयाग         4. मन्दाकिनी\nसही सुमेलन कौन-सा है? नीचे दिए गए कूट से उत्तर चुनिए:",
+      "options": [
+        "A-3, B-4, C-1, D-2",
+        "A-1, B-3, C-4, D-2",
+        "A-4, B-1, C-3, D-2",
+        "A-3, B-1, C-4, D-2"
+      ],
+      "correctIndex": 3,
+      "explanation": "सही सुमेलन है – विष्णुप्रयाग में धौलीगंगा, नन्दप्रयाग में नन्दाकिनी, रुद्रप्रयाग में मन्दाकिनी एवं देवप्रयाग में भागीरथी का संगम अलकनंदा से होता है। पंचप्रयाग का क्रम (उत्तर से दक्षिण) है – विष्णुप्रयाग (धौलीगंगा), नन्दप्रयाग (नन्दाकिनी), कर्णप्रयाग (पिण्डर), रुद्रप्रयाग (मन्दाकिनी) और देवप्रयाग (भागीरथी), जिसके बाद गंगा कहलाती है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखण्ड का भूगोल – नदियाँ",
+      "uuid": "bdc91702-c98e-4cce-85bc-70bcfc5821a7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Match the 'Prayag' with the river that joins the Alaknanda there:\nList-I (Prayag)      List-II (River)\nA. Vishnuprayag     1. Nandakini\nB. Nandprayag       2. Bhagirathi\nC. Rudraprayag      3. Dhauliganga\nD. Devprayag       4. Mandakini\nWhich one of the following is the correct matching? Select the correct answer using the code given below:",
+        "options_en": [
+          "A-3, B-4, C-1, D-2",
+          "A-1, B-3, C-4, D-2",
+          "A-4, B-1, C-3, D-2",
+          "A-3, B-1, C-4, D-2"
+        ],
+        "explanation_en": "The correct matching is Vishnuprayag - Dhauliganga, Nandprayag - Nandakini, Rudraprayag - Mandakini and Devprayag - Bhagirathi. The order of the Panch Prayag from north to south is Vishnuprayag (Dhauliganga), Nandprayag (Nandakini), Karnaprayag (Pindar), Rudraprayag (Mandakini) and Devprayag (Bhagirathi), beyond which the river is called the Ganga."
+      }
+    },
+    {
+      "question": "कथन (A): उत्तराखण्ड में जलविद्युत ऊर्जा की अपार सम्भावनाएँ हैं।\nकारण (R): राज्य में बारहमासी हिमालयी नदियाँ तीव्र ढाल एवं गहरी घाटियों में प्रवाहित होती हैं।\nउपर्युक्त कथनों के संदर्भ में नीचे दिए गए कूट से सही उत्तर चुनिए:",
+      "options": [
+        "A और R दोनों सही हैं तथा R, A की सही व्याख्या है",
+        "A और R दोनों सही हैं, किंतु R, A की सही व्याख्या नहीं है",
+        "A सही है, किंतु R गलत है",
+        "A गलत है, किंतु R सही है"
+      ],
+      "correctIndex": 0,
+      "explanation": "दोनों सही हैं और कारण, कथन की सही व्याख्या करता है। गंगा एवं यमुना की बारहमासी धाराएँ गढ़वाल-कुमाऊँ में तीव्र ढाल पर बहती हैं, जिससे जलविद्युत उत्पादन की सम्भावनाएँ अधिक हैं; राज्य में टिहरी (2400 मेगावाट) देश की सबसे ऊँची मिट्टी एवं चट्टान भरवाँ बाँध परियोजनाओं में से एक है। साथ ही हिमनदों के पिघलने और आपदा जोखिम के कारण इन परियोजनाओं पर पर्यावरणीय चर्चा भी जारी रहती है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखण्ड की ऊर्जा एवं अर्थव्यवस्था",
+      "uuid": "8fbef402-954f-4431-9ff1-1cbc1f8a721b",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Assertion (A): Uttarakhand possesses immense potential for hydropower generation.\nReason (R): Perennial Himalayan rivers of the State flow through steep gradients and deep valleys.\nIn the context of the above statements, select the correct answer using the code given below:",
+        "options_en": [
+          "Both A and R are true and R is the correct explanation of A",
+          "Both A and R are true but R is NOT the correct explanation of A",
+          "A is true but R is false",
+          "A is false but R is true"
+        ],
+        "explanation_en": "Both statements are true and the Reason correctly explains the Assertion. The perennial streams of the Ganga and the Yamuna descend with steep gradients through the valleys of Garhwal and Kumaon, giving the State large hydropower potential; Tehri (2,400 MW) is among the highest rock and earth-fill dam projects of the country. At the same time, retreating glaciers and disaster risk keep these projects under environmental scrutiny."
+      }
+    },
+    {
+      "question": "दिसंबर 2025 में नई दिल्ली में आयोजित यूनेस्को की अमूर्त सांस्कृतिक विरासत संबंधी अंतर-सरकारी समिति के 20वें सत्र में भारत के किस उत्सव को प्रतिनिधि सूची में शामिल किया गया?",
+      "options": [
+        "छठ पूजा",
+        "दीपावली",
+        "दुर्गा पूजा",
+        "गरबा"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 दिसंबर, 2025 को लाल किला, नई दिल्ली में आयोजित यूनेस्को की अमूर्त सांस्कृतिक विरासत (ICH) समिति के 20वें सत्र में दीपावली को प्रतिनिधि सूची में शामिल किया गया। यह भारत का 16वाँ अमूर्त सांस्कृतिक विरासत तत्व है तथा भारत ने पहली बार इस सत्र की मेजबानी की; उत्तराखण्ड का ‘रम्माण’ (2009) पहले से इस सूची में शामिल है।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – संस्कृति एवं यूनेस्को",
+      "uuid": "012e037d-a754-4c64-a8bb-e770d4558469",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Which festival of India was inscribed on the Representative List of the Intangible Cultural Heritage of Humanity during the 20th session of the UNESCO Intergovernmental Committee held in New Delhi in December 2025?",
+        "options_en": [
+          "Chhath Puja",
+          "Deepavali",
+          "Durga Puja",
+          "Garba"
+        ],
+        "explanation_en": "Deepavali was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity on 10 December 2025 at the 20th session of the Intergovernmental Committee held at the Red Fort, New Delhi. It is India's 16th intangible cultural heritage element, and India hosted this session for the first time; Uttarakhand's Ramman (2009) is already on the List."
+      }
+    },
+    {
+      "question": "जून 2026 में ‘विश्व पर्यावरण दिवस’ के अवसर पर किसे भारत का 100वाँ ‘रामसर स्थल’ घोषित किया गया?",
+      "options": [
+        "शेखा झील पक्षी अभयारण्य (अलीगढ़)",
+        "काबर ताल (बेगूसराय)",
+        "ग्लॉ झील (कामलंग, अरुणाचल प्रदेश)",
+        "जयप्रकाश नारायण पक्षी अभयारण्य – सुरहा ताल (बलिया)"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 जून, 2026 (विश्व पर्यावरण दिवस) को उत्तर प्रदेश के बलिया जनपद में स्थित जयप्रकाश नारायण पक्षी अभयारण्य (सुरहा ताल) को भारत का 100वाँ रामसर स्थल घोषित किया गया। इसके पश्चात 3 अगस्त, 2026 को अरुणाचल प्रदेश की ग्लॉ झील भारत का 101वाँ रामसर स्थल बना; रामसर सम्मेलन पर भारत 1 फरवरी, 1982 को पक्षकार बना था।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – पर्यावरण",
+      "uuid": "aa20a57d-925b-494c-846b-8164331214f5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Which wetland was declared as the 100th 'Ramsar Site' of India on the occasion of World Environment Day in June 2026?",
+        "options_en": [
+          "Shekha Jheel Bird Sanctuary (Aligarh)",
+          "Kanwar Tal (Begusarai)",
+          "Glaw Lake (Kamlang, Arunachal Pradesh)",
+          "Jai Prakash Narayan Bird Sanctuary – Surha Tal (Ballia)"
+        ],
+        "explanation_en": "On 5 June 2026, World Environment Day, the Jai Prakash Narayan Bird Sanctuary (Surha Tal) in Ballia district of Uttar Pradesh was declared India's 100th Ramsar Site. Subsequently, on 3 August 2026, Glaw Lake of Arunachal Pradesh became the 101st Ramsar Site of India; India became a party to the Ramsar Convention on 1 February 1982."
+      }
+    },
+    {
+      "question": "सितंबर 2026 में आयोजित 18वें ब्रिक्स शिखर सम्मेलन के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. इसका आयोजन नई दिल्ली में किया गया।\n2. भारत की अध्यक्षता की थीम ‘बिल्डिंग फॉर रेज़िलिएंस, इनोवेशन, कोऑपरेशन एंड सस्टेनेबिलिटी’ थी।\n3. वर्ष 2027 में 19वें ब्रिक्स शिखर सम्मेलन की अध्यक्षता रूस करेगा।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "कथन 1 एवं 2 सही हैं; कथन 3 गलत है, क्योंकि 2027 में 19वें ब्रिक्स शिखर सम्मेलन की अध्यक्षता चीन करेगा। 18वाँ सम्मेलन 12-13 सितंबर, 2026 को भारत मंडपम, नई दिल्ली में आयोजित हुआ और इसमें 140-पैराग्राफ वाला ‘नई दिल्ली घोषणा-पत्र’ सर्वसम्मति से अपनाया गया; थीम के चार शब्द (Resilience, Innovation, Cooperation, Sustainability) मिलकर ‘BRICS’ बनते हैं।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – अंतरराष्ट्रीय संगठन",
+      "uuid": "0992c25e-6c2d-407b-9574-6065847fc4ad",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "With reference to the 18th BRICS Summit held in September 2026, consider the following statements:\n1. It was hosted in New Delhi.\n2. The theme of India's Chairship was 'Building for Resilience, Innovation, Cooperation and Sustainability'.\n3. Russia will hold the Chairship of the 19th BRICS Summit in 2027.\nWhich of the statements given above is/are correct?",
+        "options_en": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "explanation_en": "Statements 1 and 2 are correct while statement 3 is incorrect, since China will hold the Chairship of the 19th BRICS Summit in 2027. The 18th Summit was held at Bharat Mandapam, New Delhi on 12-13 September 2026 and unanimously adopted the 140-paragraph New Delhi Declaration; the four words of the theme together spell 'BRICS'."
+      }
+    },
+    {
+      "question": "नवंबर 2025 में ग्लासगो में आयोजित कॉमनवेल्थ स्पोर्ट्स महासभा में वर्ष 2030 के राष्ट्रमंडल खेलों की मेजबानी किस भारतीय नगर को सौंपी गई?",
+      "options": [
+        "नई दिल्ली",
+        "मुंबई",
+        "अहमदाबाद",
+        "जयपुर"
+      ],
+      "correctIndex": 2,
+      "explanation": "26 नवंबर, 2025 को ग्लासगो में आयोजित कॉमनवेल्थ स्पोर्ट्स महासभा में अहमदाबाद (आधिकारिक ब्रांड – ‘अमदावाद 2030’) को शताब्दी वर्ष के राष्ट्रमंडल खेलों की मेजबानी सौंपी गई; इसने अबूजा (नाइजीरिया) की दावेदारी को पीछे छोड़ा। यह भारत में दूसरी बार होगा, इससे पूर्व वर्ष 2010 में नई दिल्ली मेजबान बना था।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – खेलकूद",
+      "uuid": "ad32814b-73fc-4756-8c3d-0c8bd3d24db3",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Which Indian city was awarded the hosting rights of the 2030 Commonwealth Games at the Commonwealth Sport General Assembly held in Glasgow in November 2025?",
+        "options_en": [
+          "New Delhi",
+          "Mumbai",
+          "Ahmedabad",
+          "Jaipur"
+        ],
+        "explanation_en": "On 26 November 2025, at the Commonwealth Sport General Assembly in Glasgow, Ahmedabad (officially branded 'Amdavad 2030') was awarded the centenary Commonwealth Games, ahead of the rival bid from Abuja, Nigeria. It will be the second time India hosts the Games; New Delhi hosted them in 2010."
+      }
+    },
+    {
+      "question": "जुलाई 2026 में सम्पन्न फीफा विश्व कप में विजेता रही टीम कौन-सी थी?",
+      "options": [
+        "अर्जेंटीना",
+        "फ्रांस",
+        "इंग्लैंड",
+        "स्पेन"
+      ],
+      "correctIndex": 3,
+      "explanation": "19 जुलाई, 2026 को मेटलाइफ स्टेडियम (ईस्ट रदरफोर्ड, न्यू जर्सी) में खेले गए फाइनल में स्पेन ने अतिरिक्त समय में अर्जेंटीना को 1-0 से पराजित कर दूसरी बार विश्व कप जीता; निर्णायक गोल फेरान टोरेस ने किया। यह पहला अवसर था जब तीन देशों (संयुक्त राज्य अमेरिका, कनाडा एवं मेक्सिको) ने संयुक्त रूप से विश्व कप की मेजबानी की और पहली बार 48 टीमों ने प्रतिभाग किया।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – खेलकूद",
+      "uuid": "a3e86d4f-6be4-4375-ac42-3ad70dfea242",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Which team won the FIFA World Cup concluded in July 2026?",
+        "options_en": [
+          "Argentina",
+          "France",
+          "England",
+          "Spain"
+        ],
+        "explanation_en": "On 19 July 2026, Spain beat Argentina 1-0 after extra time in the final at the MetLife Stadium, East Rutherford (New Jersey), to win their second FIFA World Cup; Ferran Torres scored the decisive goal. It was the first World Cup jointly hosted by three countries (USA, Canada and Mexico) and the first with 48 participating teams."
+      }
+    },
+    {
+      "question": "सितंबर–अक्टूबर 2026 में जापान के ऐची-नागोया में आयोजित 20वें एशियाई खेलों के संबंध में निम्नलिखित कथनों पर विचार कीजिए:\n1. भारत ने कुल 85 पदक, जिनमें 21 स्वर्ण पदक शामिल थे, प्राप्त किए।\n2. पुरुष एवं महिला दोनों क्रिकेट टीमों ने स्वर्ण पदक जीते।\n3. पदक तालिका में भारत प्रथम स्थान पर रहा।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "options": [
+        "केवल 1 और 2",
+        "केवल 2 और 3",
+        "केवल 1 और 3",
+        "1, 2 और 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "कथन 1 एवं 2 सही हैं; कथन 3 गलत है, क्योंकि पदक तालिका में चीन (143 स्वर्ण सहित 256 पदक) प्रथम स्थान पर रहा। ऐची-नागोया 2026 (19 सितंबर – 4 अक्टूबर, 2026) में भारत ने 21 स्वर्ण, 27 रजत एवं 37 कांस्य सहित 85 पदक जीते; फाइनल में पुरुष क्रिकेट टीम ने पाकिस्तान को 19 रन से तथा पुरुष हॉकी टीम ने मलेशिया को 5-1 से हराया।",
+      "questionType": "mcq",
+      "subCategory": "करेंट अफेयर्स – खेलकूद",
+      "uuid": "4d7bc6dd-209d-43bc-a41d-7e562e5b09ee",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "With reference to the 20th Asian Games held at Aichi-Nagoya, Japan in September-October 2026, consider the following statements:\n1. India won a total of 85 medals, including 21 gold medals.\n2. Both the men's and women's cricket teams won gold medals.\n3. India topped the medal tally.\nWhich of the statements given above is/are correct?",
+        "options_en": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "explanation_en": "Statements 1 and 2 are correct while statement 3 is incorrect, as China topped the medal tally with 143 gold medals (256 in total). At Aichi-Nagoya 2026 (19 September to 4 October 2026) India won 85 medals - 21 gold, 27 silver and 37 bronze; in the finals the men's cricket team beat Pakistan by 19 runs and the men's hockey team beat Malaysia 5-1."
+      }
+    },
+    {
+      "question": "भारतीय संविधान के अनुसार राज्य के राज्यपाल को अध्यादेश प्रख्यापित करने की शक्ति किस अनुच्छेद द्वारा प्रदान की गई है?",
+      "options": [
+        "अनुच्छेद 123",
+        "अनुच्छेद 200",
+        "अनुच्छेद 239",
+        "अनुच्छेद 213"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनुच्छेद 213 राज्यपाल को अध्यादेश प्रख्यापित करने की शक्ति देता है; अनुच्छेद 123 में यह शक्ति राष्ट्रपति को प्राप्त है। उत्तराखण्ड ने इसी शक्ति के अंतर्गत समान नागरिक संहिता (संशोधन) अध्यादेश, 2026 प्रख्यापित किया था। अनुच्छेद 200 राज्यपाल द्वारा विधेयकों को स्वीकृति प्रदान करने से संबंधित है।",
+      "questionType": "mcq",
+      "subCategory": "भारतीय राजव्यवस्था – राज्य कार्यपालिका",
+      "uuid": "6debadae-45e3-4d9f-b471-3d793dc9ab35",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Under which Article of the Constitution of India is the Governor of a State empowered to promulgate Ordinances?",
+        "options_en": [
+          "Article 123",
+          "Article 200",
+          "Article 239",
+          "Article 213"
+        ],
+        "explanation_en": "Article 213 confers the ordinance-making power on the Governor of a State, while Article 123 confers the same power on the President. Uttarakhand promulgated the Uniform Civil Code (Amendment) Ordinance, 2026 under this very power. Article 200 relates to the Governor's assent to Bills."
+      }
+    },
+    {
+      "question": "निम्नलिखित में से कौन-सा हिमनद काराकोरम पर्वतमाला में स्थित है तथा विश्व का सर्वाधिक ऊँचाई वाला युद्धक्षेत्र कहलाता है?",
+      "options": [
+        "गंगोत्री",
+        "मिलम",
+        "सियाचिन",
+        "पंचाचूली"
+      ],
+      "correctIndex": 2,
+      "explanation": "सियाचिन हिमनद ट्रांस-हिमालय की काराकोरम श्रेणी में स्थित है और विश्व का सर्वाधिक ऊँचाई वाला युद्धक्षेत्र कहलाता है; यह उत्तराखण्ड से बाहर है। गंगोत्री हिमनद उत्तरकाशी जनपद में गढ़वाल हिमालय में स्थित है और भागीरथी नदी इसी से निकलती है, जबकि मिलम हिमनद पिथौरागढ़ जनपद में नंदा देवी समूह की दक्षिणी ढाल पर स्थित है तथा गोरी गंगा का उद्गम स्थल है।",
+      "questionType": "mcq",
+      "subCategory": "भारत एवं उत्तराखण्ड का भूगोल – हिमनद",
+      "uuid": "76ea51bd-436b-48bb-a498-f2447463f82a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "उत्तराखण्ड सामान्य ज्ञान एवं करेंट अफेयर्स"
+      ],
+      "extra_data": {
+        "question_en": "Which of the following glaciers is located in the Karakoram Range and is known as the highest battlefield in the world?",
+        "options_en": [
+          "Gangotri",
+          "Milam",
+          "Siachen",
+          "Panchachuli"
+        ],
+        "explanation_en": "The Siachen Glacier lies in the Karakoram Range of the Trans-Himalaya and is known as the highest battlefield in the world; it is outside Uttarakhand. The Gangotri Glacier is in Uttarkashi district in the Garhwal Himalaya and is the source of the Bhagirathi, while the Milam Glacier lies in the Pithoragarh district of Uttarakhand, on the southern slope of the Nanda Devi massif."
+      }
     }
   ],
-  "updated_at": "2026-10-01T19:02:09.670359"
+  "updated_at": "2026-10-01T19:02:09.670359",
+  "total_questions": 6816
 }

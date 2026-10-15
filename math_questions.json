@@ -9490,6 +9490,732 @@
         "UK-EXAM-PRO",
         "Math"
       ]
+    },
+    {
+      "question": "640 का 45 प्रतिशत कितना होगा?",
+      "options": [
+        "288",
+        "256",
+        "308",
+        "320"
+      ],
+      "correctIndex": 0,
+      "explanation": "640 × 45/100 = 288 । प्रतिशत निकालने के लिए संख्या को प्रतिशत से गुणा कर 100 से भाग दिया जाता है।",
+      "questionType": "mcq",
+      "subCategory": "प्रतिशत",
+      "uuid": "ff15f9a9-3ba5-44ac-a79b-274d44a82082",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is 45 per cent of 640?",
+        "options_en": [
+          "288",
+          "256",
+          "308",
+          "320"
+        ],
+        "explanation_en": "640 × 45/100 = 288. To find a percentage, multiply the number by the given per cent and divide by 100."
+      }
+    },
+    {
+      "question": "किसी वस्तु का क्रय मूल्य ₹250 है। 20 प्रतिशत लाभ पर विक्रय मूल्य कितना होगा?",
+      "options": [
+        "₹270",
+        "₹300",
+        "₹280",
+        "₹320"
+      ],
+      "correctIndex": 1,
+      "explanation": "विक्रय मूल्य = क्रय मूल्य × (100 + लाभ%)/100 = 250 × 120/100 = ₹300 ।",
+      "questionType": "mcq",
+      "subCategory": "लाभ-हानि",
+      "uuid": "adfc1ad9-6686-4dc9-8977-dcaa4071ba8c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "The cost price of an article is Rs 250. What is the selling price at a profit of 20 per cent?",
+        "options_en": [
+          "Rs 270",
+          "Rs 300",
+          "Rs 280",
+          "Rs 320"
+        ],
+        "explanation_en": "Selling price = cost price × (100 + profit%)/100 = 250 × 120/100 = Rs 300."
+      }
+    },
+    {
+      "question": "₹5,000 पर 8 प्रतिशत वार्षिक साधारण ब्याज की दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "₹1,000",
+        "₹1,240",
+        "₹1,200",
+        "₹1,500"
+      ],
+      "correctIndex": 2,
+      "explanation": "साधारण ब्याज = (मूलधन × दर × समय)/100 = (5000 × 8 × 3)/100 = ₹1,200 ।",
+      "questionType": "mcq",
+      "subCategory": "साधारण ब्याज",
+      "uuid": "ca3597e3-f63c-486f-b92f-af776537a25d",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the simple interest on Rs 5,000 at 8 per cent per annum for 3 years?",
+        "options_en": [
+          "Rs 1,000",
+          "Rs 1,240",
+          "Rs 1,200",
+          "Rs 1,500"
+        ],
+        "explanation_en": "Simple interest = (Principal × Rate × Time)/100 = (5000 × 8 × 3)/100 = Rs 1,200."
+      }
+    },
+    {
+      "question": "₹10,000 पर 10 प्रतिशत वार्षिक चक्रवृद्धि ब्याज की दर से 2 वर्ष का चक्रवृद्धि ब्याज कितना होगा?",
+      "options": [
+        "₹2,000",
+        "₹2,200",
+        "₹2,500",
+        "₹2,100"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 वर्ष का मिश्रधन = 10000 × (11/10)² = ₹12,100, अतः चक्रवृद्धि ब्याज = 12100 − 10000 = ₹2,100 ।",
+      "questionType": "mcq",
+      "subCategory": "चक्रवृद्धि ब्याज",
+      "uuid": "e69f97fb-887e-4809-a15f-8984cfc9437a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the compound interest on Rs 10,000 at 10 per cent per annum for 2 years?",
+        "options_en": [
+          "Rs 2,000",
+          "Rs 2,200",
+          "Rs 2,500",
+          "Rs 2,100"
+        ],
+        "explanation_en": "Amount after 2 years = 10000 × (11/10)² = Rs 12,100; hence compound interest = 12100 − 10000 = Rs 2,100."
+      }
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 3 : 5 है तथा उनका योग 72 है। बड़ी संख्या कितनी है?",
+      "options": [
+        "45",
+        "27",
+        "36",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "भागों का योग 3 + 5 = 8 है, अतः बड़ी संख्या = 72 × 5/8 = 45 ।",
+      "questionType": "mcq",
+      "subCategory": "अनुपात एवं समानुपात",
+      "uuid": "3a92cf06-4488-48a3-9ef5-ff3ed424d315",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "The ratio of two numbers is 3 : 5 and their sum is 72. What is the larger number?",
+        "options_en": [
+          "45",
+          "27",
+          "36",
+          "48"
+        ],
+        "explanation_en": "The sum of the parts is 3 + 5 = 8, so the larger number = 72 × 5/8 = 45."
+      }
+    },
+    {
+      "question": "12, 18, 24, 30 और 36 का औसत कितना है?",
+      "options": [
+        "22",
+        "24",
+        "26",
+        "28"
+      ],
+      "correctIndex": 1,
+      "explanation": "औसत = योग / पदों की संख्या = (12+18+24+30+36)/5 = 120/5 = 24 । ये संख्याएँ समान अंतर 6 वाली श्रेणी हैं, अतः मध्य पद 24 ही औसत है।",
+      "questionType": "mcq",
+      "subCategory": "औसत",
+      "uuid": "29b77cf3-e628-4e07-b243-407849717632",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the average of 12, 18, 24, 30 and 36?",
+        "options_en": [
+          "22",
+          "24",
+          "26",
+          "28"
+        ],
+        "explanation_en": "Average = sum / number of terms = (12+18+24+30+36)/5 = 120/5 = 24. These form an arithmetic progression with common difference 6, so the middle term 24 is the average."
+      }
+    },
+    {
+      "question": "A कोई कार्य 10 दिन में तथा B उसी कार्य को 15 दिन में पूरा करता है। दोनों साथ मिलकर वह कार्य कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "5 दिन",
+        "7 दिन",
+        "6 दिन",
+        "8 दिन"
+      ],
+      "correctIndex": 2,
+      "explanation": "एक दिन का कार्य = 1/10 + 1/15 = 1/6, अतः पूरा कार्य 6 दिन में होगा।",
+      "questionType": "mcq",
+      "subCategory": "समय एवं कार्य",
+      "uuid": "705215c3-23a9-4431-bfd1-3800f808feac",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "A can finish a work in 10 days and B can finish the same work in 15 days. In how many days will they finish it working together?",
+        "options_en": [
+          "5 days",
+          "7 days",
+          "6 days",
+          "8 days"
+        ],
+        "explanation_en": "One day's work = 1/10 + 1/15 = 1/6; hence the whole work is finished in 6 days."
+      }
+    },
+    {
+      "question": "कोई वाहन 60 किमी/घंटा की चाल से 2.5 घंटे में कितनी दूरी तय करेगा?",
+      "options": [
+        "120 किमी",
+        "140 किमी",
+        "180 किमी",
+        "150 किमी"
+      ],
+      "correctIndex": 3,
+      "explanation": "दूरी = चाल × समय = 60 × 2.5 = 150 किमी।",
+      "questionType": "mcq",
+      "subCategory": "समय, चाल एवं दूरी",
+      "uuid": "2a95cc3c-82c0-4993-be81-eacfbcccc597",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "How much distance will a vehicle cover in 2.5 hours at a speed of 60 km/h?",
+        "options_en": [
+          "120 km",
+          "140 km",
+          "180 km",
+          "150 km"
+        ],
+        "explanation_en": "Distance = speed × time = 60 × 2.5 = 150 km."
+      }
+    },
+    {
+      "question": "12, 18 और 24 का लघुत्तम समापवर्त्य (LCM) कितना है?",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "96"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 = 2²×3, 18 = 2×3², 24 = 2³×3; अतः LCM = 2³ × 3² = 8 × 9 = 72 ।",
+      "questionType": "mcq",
+      "subCategory": "ल.स. एवं म.स.",
+      "uuid": "2f58d796-11e0-4555-b27d-5328da7e8000",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the least common multiple (LCM) of 12, 18 and 24?",
+        "options_en": [
+          "72",
+          "36",
+          "48",
+          "96"
+        ],
+        "explanation_en": "12 = 2²×3, 18 = 2×3², 24 = 2³×3; hence LCM = 2³ × 3² = 8 × 9 = 72."
+      }
+    },
+    {
+      "question": "36, 48 और 60 का महत्तम समापवर्तक (HCF) कितना है?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "18"
+      ],
+      "correctIndex": 1,
+      "explanation": "36 = 2²×3², 48 = 2⁴×3, 60 = 2²×3×5; अतः HCF = 2² × 3 = 12 ।",
+      "questionType": "mcq",
+      "subCategory": "ल.स. एवं म.स.",
+      "uuid": "b9011466-af69-4e0f-a716-7c446ec3dc0a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the highest common factor (HCF) of 36, 48 and 60?",
+        "options_en": [
+          "6",
+          "12",
+          "8",
+          "18"
+        ],
+        "explanation_en": "36 = 2²×3², 48 = 2⁴×3, 60 = 2²×3×5; hence HCF = 2² × 3 = 12."
+      }
+    },
+    {
+      "question": "किसी संख्या का 15 प्रतिशत 75 है। वह संख्या कितनी है?",
+      "options": [
+        "400",
+        "450",
+        "500",
+        "550"
+      ],
+      "correctIndex": 2,
+      "explanation": "x × 15/100 = 75 ⇒ x = 75 × 100/15 = 500 ।",
+      "questionType": "mcq",
+      "subCategory": "प्रतिशत",
+      "uuid": "db67ebdd-6e97-40b2-8d03-1cc741622e00",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "15 per cent of a number is 75. What is the number?",
+        "options_en": [
+          "400",
+          "450",
+          "500",
+          "550"
+        ],
+        "explanation_en": "x × 15/100 = 75 ⇒ x = 75 × 100/15 = 500."
+      }
+    },
+    {
+      "question": "120 मीटर लंबी एक रेलगाड़ी एक खंभे को 10 सेकंड में पार करती है। रेलगाड़ी की चाल किमी/घंटा में कितनी है?",
+      "options": [
+        "36 किमी/घंटा",
+        "42 किमी/घंटा",
+        "48 किमी/घंटा",
+        "43.2 किमी/घंटा"
+      ],
+      "correctIndex": 3,
+      "explanation": "चाल = 120/10 = 12 मीटर/सेकंड = 12 × 18/5 = 43.2 किमी/घंटा। खंभे की चौड़ाई शून्य मानी जाती है।",
+      "questionType": "mcq",
+      "subCategory": "रेलगाड़ी",
+      "uuid": "b633fbff-7eec-4f03-af32-1f1b6be9d09c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "A train 120 metres long crosses a pole in 10 seconds. What is the speed of the train in km/h?",
+        "options_en": [
+          "36 km/h",
+          "42 km/h",
+          "48 km/h",
+          "43.2 km/h"
+        ],
+        "explanation_en": "Speed = 120/10 = 12 m/s = 12 × 18/5 = 43.2 km/h. The width of a pole is taken as zero."
+      }
+    },
+    {
+      "question": "एक टंकी को नल A 12 घंटे में तथा नल B 18 घंटे में भरता है। दोनों नल साथ खोलने पर टंकी कितने घंटे में भरेगी?",
+      "options": [
+        "7 घंटे 12 मिनट",
+        "6 घंटे",
+        "7 घंटे 30 मिनट",
+        "8 घंटे"
+      ],
+      "correctIndex": 0,
+      "explanation": "एक घंटे का कार्य = 1/12 + 1/18 = 5/36, अतः समय = 36/5 = 7.2 घंटे = 7 घंटे 12 मिनट।",
+      "questionType": "mcq",
+      "subCategory": "पाइप एवं टंकी",
+      "uuid": "aef59ede-bd61-4ebc-b6d8-6226f71a1fbf",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "Pipe A fills a tank in 12 hours and pipe B fills it in 18 hours. In how many hours will they fill the tank together?",
+        "options_en": [
+          "7 hours 12 minutes",
+          "6 hours",
+          "7 hours 30 minutes",
+          "8 hours"
+        ],
+        "explanation_en": "One hour's work = 1/12 + 1/18 = 5/36, so the time taken = 36/5 = 7.2 hours = 7 hours 12 minutes."
+      }
+    },
+    {
+      "question": "किसी वर्ग का विकर्ण 10√2 सेमी है। उस वर्ग का क्षेत्रफल कितना है?",
+      "options": [
+        "50 वर्ग सेमी",
+        "100 वर्ग सेमी",
+        "150 वर्ग सेमी",
+        "200 वर्ग सेमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "वर्ग की भुजा = विकर्ण / √2 = 10√2 / √2 = 10 सेमी, अतः क्षेत्रफल = 10² = 100 वर्ग सेमी।",
+      "questionType": "mcq",
+      "subCategory": "क्षेत्रमिति",
+      "uuid": "64652215-dc99-4fa8-b5c9-8f45bb60ec01",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "The diagonal of a square is 10√2 cm. What is the area of the square?",
+        "options_en": [
+          "50 sq cm",
+          "100 sq cm",
+          "150 sq cm",
+          "200 sq cm"
+        ],
+        "explanation_en": "Side of the square = diagonal / √2 = 10√2 / √2 = 10 cm; hence area = 10² = 100 sq cm."
+      }
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल कितना है? (π = 22/7 लीजिए)",
+      "options": [
+        "44 वर्ग सेमी",
+        "88 वर्ग सेमी",
+        "154 वर्ग सेमी",
+        "308 वर्ग सेमी"
+      ],
+      "correctIndex": 2,
+      "explanation": "क्षेत्रफल = πr² = (22/7) × 7 × 7 = 154 वर्ग सेमी।",
+      "questionType": "mcq",
+      "subCategory": "क्षेत्रमिति",
+      "uuid": "a7701d9b-5f89-4e25-8a62-971dce0b0d0f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the area of a circle of radius 7 cm? (Take π = 22/7)",
+        "options_en": [
+          "44 sq cm",
+          "88 sq cm",
+          "154 sq cm",
+          "308 sq cm"
+        ],
+        "explanation_en": "Area = πr² = (22/7) × 7 × 7 = 154 sq cm."
+      }
+    },
+    {
+      "question": "यदि 3x + 5 = 20, तो x का मान कितना है?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "3x = 20 − 5 = 15, अतः x = 15/3 = 5 ।",
+      "questionType": "mcq",
+      "subCategory": "सरल समीकरण",
+      "uuid": "4bcca777-6eb3-4d08-b920-c3b312d9f155",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "If 3x + 5 = 20, what is the value of x?",
+        "options_en": [
+          "3",
+          "4",
+          "6",
+          "5"
+        ],
+        "explanation_en": "3x = 20 − 5 = 15, so x = 15/3 = 5."
+      }
+    },
+    {
+      "question": "2⁵ × 4² ÷ 8 का मान कितना है?",
+      "options": [
+        "64",
+        "16",
+        "32",
+        "128"
+      ],
+      "correctIndex": 0,
+      "explanation": "2⁵ = 32, 4² = 16, 8 = 2³; अतः 32 × 16 / 8 = 512 / 8 = 64 । अथवा 2⁵ × (2²)² / 2³ = 2⁵ × 2⁴ / 2³ = 2⁶ = 64 ।",
+      "questionType": "mcq",
+      "subCategory": "घातांक एवं सरलीकरण",
+      "uuid": "f203207b-b4c7-49b0-a112-2d2eec738185",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the value of 2⁵ × 4² ÷ 8?",
+        "options_en": [
+          "64",
+          "16",
+          "32",
+          "128"
+        ],
+        "explanation_en": "2⁵ = 32, 4² = 16 and 8 = 2³; so 32 × 16 / 8 = 64. Alternatively, 2⁵ × (2²)² / 2³ = 2⁵⁺⁴⁻³ = 2⁶ = 64."
+      }
+    },
+    {
+      "question": "48 ÷ 12 × 5 + 6 का मान कितना है?",
+      "options": [
+        "16",
+        "26",
+        "20",
+        "46"
+      ],
+      "correctIndex": 1,
+      "explanation": "BODMAS नियम से पहले भाग, फिर गुणा, फिर योग: 48 ÷ 12 = 4, 4 × 5 = 20, 20 + 6 = 26 ।",
+      "questionType": "mcq",
+      "subCategory": "सरलीकरण",
+      "uuid": "32445569-3d1e-4370-9332-f8f252c38cf2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the value of 48 ÷ 12 × 5 + 6?",
+        "options_en": [
+          "16",
+          "26",
+          "20",
+          "46"
+        ],
+        "explanation_en": "By BODMAS, division first, then multiplication, then addition: 48 ÷ 12 = 4, 4 × 5 = 20, 20 + 6 = 26."
+      }
+    },
+    {
+      "question": "दूध और जल 4 : 1 के अनुपात में मिश्रित हैं। 25 लीटर मिश्रण में दूध कितने लीटर है?",
+      "options": [
+        "16 लीटर",
+        "18 लीटर",
+        "20 लीटर",
+        "22 लीटर"
+      ],
+      "correctIndex": 2,
+      "explanation": "कुल भाग 4 + 1 = 5, अतः दूध = 25 × 4/5 = 20 लीटर।",
+      "questionType": "mcq",
+      "subCategory": "मिश्रण",
+      "uuid": "4dbbc9ec-91f3-456c-89b0-952370edcdbc",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "Milk and water are mixed in the ratio 4 : 1. How many litres of milk are there in 25 litres of the mixture?",
+        "options_en": [
+          "16 litres",
+          "18 litres",
+          "20 litres",
+          "22 litres"
+        ],
+        "explanation_en": "The total of the parts is 4 + 1 = 5, so milk = 25 × 4/5 = 20 litres."
+      }
+    },
+    {
+      "question": "किसी नाव की धारा के अनुकूल चाल 15 किमी/घंटा तथा प्रतिकूल चाल 9 किमी/घंटा है। स्थिर जल में नाव की चाल कितनी है?",
+      "options": [
+        "6 किमी/घंटा",
+        "18 किमी/घंटा",
+        "24 किमी/घंटा",
+        "12 किमी/घंटा"
+      ],
+      "correctIndex": 3,
+      "explanation": "स्थिर जल में चाल = (अनुकूल चाल + प्रतिकूल चाल)/2 = (15 + 9)/2 = 12 किमी/घंटा। धारा की चाल = (15 − 9)/2 = 3 किमी/घंटा।",
+      "questionType": "mcq",
+      "subCategory": "नाव एवं धारा",
+      "uuid": "efc38c40-e38b-469c-baa9-5e0b8f8035a6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "The downstream speed of a boat is 15 km/h and the upstream speed is 9 km/h. What is the speed of the boat in still water?",
+        "options_en": [
+          "6 km/h",
+          "18 km/h",
+          "24 km/h",
+          "12 km/h"
+        ],
+        "explanation_en": "Speed in still water = (downstream + upstream)/2 = (15 + 9)/2 = 12 km/h. The speed of the stream is (15 − 9)/2 = 3 km/h."
+      }
+    },
+    {
+      "question": "5 पुरुष किसी कार्य को 12 दिनों में पूरा करते हैं। उसी कार्य को 6 पुरुष कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "10 दिन",
+        "8 दिन",
+        "12 दिन",
+        "14 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "पुरुष-दिन समान रहते हैं: 5 × 12 = 6 × d ⇒ d = 60/6 = 10 दिन।",
+      "questionType": "mcq",
+      "subCategory": "समय एवं कार्य",
+      "uuid": "8777785e-e0a1-49c1-8387-c38598cea4bc",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "5 men finish a work in 12 days. In how many days will 6 men finish the same work?",
+        "options_en": [
+          "10 days",
+          "8 days",
+          "12 days",
+          "14 days"
+        ],
+        "explanation_en": "Man-days remain constant: 5 × 12 = 6 × d ⇒ d = 60/6 = 10 days."
+      }
+    },
+    {
+      "question": "किसी वस्तु का अंकित मूल्य ₹800 है। 10 प्रतिशत छूट पर विक्रय मूल्य कितना होगा?",
+      "options": [
+        "₹700",
+        "₹720",
+        "₹740",
+        "₹760"
+      ],
+      "correctIndex": 1,
+      "explanation": "विक्रय मूल्य = 800 × (100 − 10)/100 = 800 × 0.9 = ₹720 ।",
+      "questionType": "mcq",
+      "subCategory": "छूट",
+      "uuid": "55fca86c-0cfe-4c34-ab9b-44a8b84f9dc6",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "The marked price of an article is Rs 800. What is the selling price after a discount of 10 per cent?",
+        "options_en": [
+          "Rs 700",
+          "Rs 720",
+          "Rs 740",
+          "Rs 760"
+        ],
+        "explanation_en": "Selling price = 800 × (100 − 10)/100 = 800 × 0.9 = Rs 720."
+      }
+    },
+    {
+      "question": "64 के 3/4 का 2/3 कितना है?",
+      "options": [
+        "24",
+        "36",
+        "32",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "64 × 3/4 = 48, तत्पश्चात् 48 × 2/3 = 32 । अथवा 64 × 3/4 × 2/3 = 32 ।",
+      "questionType": "mcq",
+      "subCategory": "भिन्न",
+      "uuid": "2d7d2610-4c5e-47aa-b89f-6a9058f163a9",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is 2/3 of 3/4 of 64?",
+        "options_en": [
+          "24",
+          "36",
+          "32",
+          "48"
+        ],
+        "explanation_en": "64 × 3/4 = 48, and 48 × 2/3 = 32. Alternatively, 64 × 3/4 × 2/3 = 32."
+      }
+    },
+    {
+      "question": "12 सेमी लंबाई एवं 8 सेमी चौड़ाई वाले आयत का परिमाप कितना है?",
+      "options": [
+        "32 सेमी",
+        "36 सेमी",
+        "48 सेमी",
+        "40 सेमी"
+      ],
+      "correctIndex": 3,
+      "explanation": "परिमाप = 2(लंबाई + चौड़ाई) = 2(12 + 8) = 40 सेमी। क्षेत्रफल 12 × 8 = 96 वर्ग सेमी होगा।",
+      "questionType": "mcq",
+      "subCategory": "क्षेत्रमिति",
+      "uuid": "473d3d4f-8759-450b-9c27-e2795729d97a",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "What is the perimeter of a rectangle of length 12 cm and breadth 8 cm?",
+        "options_en": [
+          "32 cm",
+          "36 cm",
+          "48 cm",
+          "40 cm"
+        ],
+        "explanation_en": "Perimeter = 2(length + breadth) = 2(12 + 8) = 40 cm. The area would be 12 × 8 = 96 sq cm."
+      }
+    },
+    {
+      "question": "0.25 को प्रतिशत में कितना लिखा जाएगा?",
+      "options": [
+        "25%",
+        "2.5%",
+        "0.25%",
+        "250%"
+      ],
+      "correctIndex": 0,
+      "explanation": "किसी दशमलव को प्रतिशत में बदलने के लिए 100 से गुणा करते हैं: 0.25 × 100 = 25% ।",
+      "questionType": "mcq",
+      "subCategory": "प्रतिशत",
+      "uuid": "2b4713ff-e81d-4270-ba87-17860a690250",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "सामान्य गणित (Arithmetic)"
+      ],
+      "extra_data": {
+        "question_en": "How is 0.25 expressed as a percentage?",
+        "options_en": [
+          "25%",
+          "2.5%",
+          "0.25%",
+          "250%"
+        ],
+        "explanation_en": "To convert a decimal into a percentage, multiply by 100: 0.25 × 100 = 25%."
+      }
     }
-  ]
+  ],
+  "total_questions": 524
 }

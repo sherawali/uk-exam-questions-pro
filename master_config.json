@@ -1,37 +1,41 @@
 {
   "version": "4.8.0",
-  "last_sync": "2026-10-15T01:30:00+00:00",
+  "last_sync": "2026-10-15T15:30:00.000000+00:00",
   "flash_news": {
-    "enabled": false,
-    "id": "ca_jan2024_to_sep2026_v2",
-    "title": "📢 2026 अद्यतन प्रश्न बैंक व संपूर्ण सिलेबस सिंक!",
-    "title_en": "📢 2026 Updated Question Bank & Complete Syllabus Synced!",
-    "message": "सभी 13 विषयों के 15,594 प्रामाणिक प्रश्न और 49 आयोग पेपर्स पूर्णतः सत्यापित हैं। 'अभी सिंक करें' दबाकर 1-टैप में ऑफलाइन अपडेट करें!",
-    "message_en": "All 15,594 verified questions across 13 subjects and 49 official commission papers are fully synced. Tap 'Sync Now' for instant offline access!",
-    "type": "urgent",
-    "action_label": "अभी सिंक करें ➔",
-    "action_label_en": "Sync Now ➔",
-    "action_route": "sync"
+    "enabled": true,
+    "id": "uksssc_25oct2026_hc_clerk_mock_v1",
+    "title": "🔥 UKSSSC कनिष्ठ सहायक / उच्च न्यायालय क्लर्क: 5 नए मॉडल पेपर्स लाइव!",
+    "title_en": "🔥 UKSSSC Junior Assistant / HC Clerk: 5 New Model Papers Live!",
+    "message": "25 अक्टूबर 2026 परीक्षा के 140-प्रश्न ब्लूप्रिंट पर आधारित 5 नए मॉक टेस्ट्स CBT एवं बुकलेट मोड में उपलब्ध हैं। अभी हल करें!",
+    "message_en": "5 New Model Mocks based on official 140-question commission blueprint are live now in CBT & Booklet modes. Practice now!",
+    "type": "special",
+    "tag": "140 प्रश्न नया मॉक",
+    "tag_en": "140 Qs New Mock",
+    "exam_date": "25 अक्टूबर 2026",
+    "post_id": "uk_high_court_clerk",
+    "action_label": "मॉक टेस्ट दें ➔",
+    "action_label_en": "Take Mock Test ➔",
+    "action_route": "mock:uk_high_court_clerk"
   },
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 15594,
+    "total_questions": 15954,
     "files": {
       "agriculture_questions.json": 172,
-      "computer_questions.json": 254,
-      "current_affairs_questions.json": 2233,
-      "economics_questions.json": 200,
+      "computer_questions.json": 273,
+      "current_affairs_questions.json": 2308,
+      "economics_questions.json": 225,
       "environment_questions.json": 182,
-      "geography_questions.json": 307,
+      "geography_questions.json": 332,
       "hindi_questions.json": 908,
-      "history_questions.json": 1745,
-      "math_questions.json": 499,
-      "polity_questions.json": 1191,
-      "reasoning_questions.json": 500,
+      "history_questions.json": 1768,
+      "math_questions.json": 524,
+      "polity_questions.json": 1214,
+      "reasoning_questions.json": 525,
       "science_questions.json": 707,
-      "uttarakhand_questions.json": 6696
+      "uttarakhand_questions.json": 6816
     }
   },
-  "total_questions": 15594
+  "total_questions": 15954
 }

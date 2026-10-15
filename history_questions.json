@@ -35758,7 +35758,675 @@
         ],
         "explanation_en": "Tarapur Atomic Power Station (TAPS) was the first commercial nuclear power station in India and Asia, which was commissioned on 28 October 1969."
       }
+    },
+    {
+      "question": "सिंधु घाटी सभ्यता का प्रमुख बंदरगाह नगर कौन-सा था?",
+      "options": [
+        "लोथल",
+        "हड़प्पा",
+        "कालिबंगन",
+        "रोपड़"
+      ],
+      "correctIndex": 0,
+      "explanation": "लोथल (गुजरात) सिंधु सभ्यता का प्रमुख बंदरगाह नगर था, जहाँ गोदी (dockyard) के अवशेष मिले हैं। हड़प्पा पाकिस्तान के पंजाब में है।",
+      "questionType": "mcq",
+      "subCategory": "प्राचीन भारत",
+      "uuid": "23d67080-0b1a-47ac-aef2-6285c3846d28",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which was the principal port town of the Indus Valley Civilisation?",
+        "options_en": [
+          "Lothal",
+          "Harappa",
+          "Kalibangan",
+          "Ropar"
+        ],
+        "explanation_en": "Lothal (Gujarat) was the principal port town of the Indus Civilisation; remains of a dockyard have been found there. Harappa is in Punjab of Pakistan."
+      }
+    },
+    {
+      "question": "गौतम बुद्ध का जन्म कहाँ हुआ था?",
+      "options": [
+        "बोधगया",
+        "लुम्बिनी",
+        "कुशीनगर",
+        "सारनाथ"
+      ],
+      "correctIndex": 1,
+      "explanation": "गौतम बुद्ध का जन्म लुम्बिनी (वर्तमान नेपाल) में हुआ। ज्ञान बोधगया में, प्रथम उपदेश सारनाथ में तथा महापरिनिर्वाण कुशीनगर में हुआ।",
+      "questionType": "mcq",
+      "subCategory": "बौद्ध धर्म",
+      "uuid": "09267e4e-0f3f-47c1-ae2a-f00fb7f16dd3",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Where was Gautama Buddha born?",
+        "options_en": [
+          "Bodh Gaya",
+          "Lumbini",
+          "Kushinagar",
+          "Sarnath"
+        ],
+        "explanation_en": "Gautama Buddha was born at Lumbini (present-day Nepal). He attained enlightenment at Bodh Gaya, gave the first sermon at Sarnath and attained Mahaparinirvana at Kushinagar."
+      }
+    },
+    {
+      "question": "अशोक ने कलिंग युद्ध के पश्चात् किस धर्म को अपनाया?",
+      "options": [
+        "जैन धर्म",
+        "शैव धर्म",
+        "बौद्ध धर्म",
+        "वैष्णव धर्म"
+      ],
+      "correctIndex": 2,
+      "explanation": "कलिंग युद्ध (261 ई.पू. के आसपास) के पश्चात् अशोक ने बौद्ध धर्म अपनाया और धम्म का प्रचार किया। कलिंग वर्तमान ओडिशा में था।",
+      "questionType": "mcq",
+      "subCategory": "मौर्य काल",
+      "uuid": "1de879e0-1d67-4325-80c7-df16e84fe99f",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which religion did Ashoka adopt after the Kalinga war?",
+        "options_en": [
+          "Jainism",
+          "Shaivism",
+          "Buddhism",
+          "Vaishnavism"
+        ],
+        "explanation_en": "After the Kalinga war (around 261 BCE) Ashoka adopted Buddhism and propagated Dhamma. Kalinga lay in present-day Odisha."
+      }
+    },
+    {
+      "question": "‘भारत का स्वर्ण युग’ सामान्यतः किस राजवंश से जोड़ा जाता है?",
+      "options": [
+        "मौर्य",
+        "कुषाण",
+        "पाल",
+        "गुप्त"
+      ],
+      "correctIndex": 3,
+      "explanation": "गुप्त काल (चौथी-छठी शताब्दी) कला, साहित्य, विज्ञान (आर्यभट्ट, कालिदास) की प्रगति के कारण स्वर्ण युग कहा जाता है।",
+      "questionType": "mcq",
+      "subCategory": "गुप्त काल",
+      "uuid": "69cd7f32-7a19-439a-bd0a-6a002e9f3f0a",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The 'Golden Age of India' is generally associated with which dynasty?",
+        "options_en": [
+          "Maurya",
+          "Kushan",
+          "Pala",
+          "Gupta"
+        ],
+        "explanation_en": "The Gupta period (4th–6th century) is called the Golden Age because of progress in art, literature and science (Aryabhata, Kalidasa)."
+      }
+    },
+    {
+      "question": "दिल्ली सल्तनत की स्थापना कब हुई?",
+      "options": [
+        "1206",
+        "1191",
+        "1290",
+        "1526"
+      ],
+      "correctIndex": 0,
+      "explanation": "1206 में कुतुबुद्दीन ऐबक ने दिल्ली सल्तनत (दास वंश) की स्थापना की। 1526 में बाबर ने पानीपत के प्रथम युद्ध में सल्तनत का अंत कर मुगल साम्राज्य स्थापित किया।",
+      "questionType": "mcq",
+      "subCategory": "मध्यकाल",
+      "uuid": "04264f59-3f20-4366-bbf3-a0b15162abe0",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "When was the Delhi Sultanate established?",
+        "options_en": [
+          "1206",
+          "1191",
+          "1290",
+          "1526"
+        ],
+        "explanation_en": "In 1206 Qutbuddin Aibak established the Delhi Sultanate (Slave dynasty). In 1526 Babur ended the Sultanate at the First Battle of Panipat and founded the Mughal Empire."
+      }
+    },
+    {
+      "question": "ताज महल का निर्माण किस मुगल शासक ने करवाया?",
+      "options": [
+        "अकबर",
+        "शाहजहाँ",
+        "जहाँगीर",
+        "औरंगजेब"
+      ],
+      "correctIndex": 1,
+      "explanation": "शाहजहाँ ने आगरा में यमुना तट पर मुमताज महल की स्मृति में ताज महल बनवाया। यह यूनेस्को विश्व धरोहर है।",
+      "questionType": "mcq",
+      "subCategory": "मुगल काल",
+      "uuid": "481bbb3d-1d25-468f-ac6b-7492b7606023",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which Mughal ruler had the Taj Mahal built?",
+        "options_en": [
+          "Akbar",
+          "Shah Jahan",
+          "Jahangir",
+          "Aurangzeb"
+        ],
+        "explanation_en": "Shah Jahan built the Taj Mahal at Agra on the bank of the Yamuna in memory of Mumtaz Mahal. It is a UNESCO World Heritage Site."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह का प्रारंभ कहाँ से हुआ?",
+      "options": [
+        "दिल्ली",
+        "कानपुर",
+        "मेरठ",
+        "लखनऊ"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 मई, 1857 को मेरठ छावनी से विद्रोह प्रारंभ हुआ, तत्पश्चात् दिल्ली में बहादुर शाह जफर को प्रतीकात्मक नेता बनाया गया।",
+      "questionType": "mcq",
+      "subCategory": "आधुनिक भारत",
+      "uuid": "3cb6270d-3420-4879-bad0-d2a546299945",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "From where did the Revolt of 1857 begin?",
+        "options_en": [
+          "Delhi",
+          "Kanpur",
+          "Meerut",
+          "Lucknow"
+        ],
+        "explanation_en": "The Revolt began on 10 May 1857 at the Meerut cantonment; thereafter Bahadur Shah Zafar was made the symbolic leader at Delhi."
+      }
+    },
+    {
+      "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब और कहाँ हुई?",
+      "options": [
+        "1883 – पूना",
+        "1905 – कलकत्ता",
+        "1906 – ढाका",
+        "1885 – बंबई"
+      ],
+      "correctIndex": 3,
+      "explanation": "कांग्रेस की स्थापना 28 दिसंबर, 1885 को बंबई में ए.ओ. ह्यूम के प्रयास से हुई; प्रथम अध्यक्ष व्योमेश चंद्र बनर्जी थे।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय आंदोलन",
+      "uuid": "48688b68-b1f3-42ac-a00e-598c572504ec",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "When and where was the Indian National Congress founded?",
+        "options_en": [
+          "1883 – Poona",
+          "1905 – Calcutta",
+          "1906 – Dacca",
+          "1885 – Bombay"
+        ],
+        "explanation_en": "The Congress was founded on 28 December 1885 at Bombay through the efforts of A.O. Hume; Womesh Chunder Bonnerjee was the first President."
+      }
+    },
+    {
+      "question": "बंगाल विभाजन किस वर्ष हुआ?",
+      "options": [
+        "1905",
+        "1903",
+        "1911",
+        "1919"
+      ],
+      "correctIndex": 0,
+      "explanation": "लॉर्ड कर्जन ने 1905 में बंगाल विभाजन किया, जिससे स्वदेशी आंदोलन जन्मा। 1911 में विभाजन रद्द कर राजधानी कलकत्ता से दिल्ली स्थानांतरित की गई।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय आंदोलन",
+      "uuid": "f218bf6c-cf15-4afc-b594-d93c1958f7da",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "In which year was Bengal partitioned?",
+        "options_en": [
+          "1905",
+          "1903",
+          "1911",
+          "1919"
+        ],
+        "explanation_en": "Lord Curzon partitioned Bengal in 1905, which gave rise to the Swadeshi movement. In 1911 the partition was annulled and the capital was shifted from Calcutta to Delhi."
+      }
+    },
+    {
+      "question": "दांडी यात्रा (नमक सत्याग्रह) किस वर्ष प्रारंभ हुई?",
+      "options": [
+        "1919",
+        "1920",
+        "1930",
+        "1932"
+      ],
+      "correctIndex": 2,
+      "explanation": "गाँधी जी ने 12 मार्च, 1930 को साबरमती से दांडी की यात्रा प्रारंभ की; 6 अप्रैल को समुद्री नमक बनाकर नमक कानून तोड़ा गया। यह सविनय अवज्ञा आंदोलन था।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय आंदोलन",
+      "uuid": "f1105d0f-df5e-4e6b-8f79-84c3b326e681",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "In which year did the Dandi March (Salt Satyagraha) begin?",
+        "options_en": [
+          "1919",
+          "1920",
+          "1930",
+          "1932"
+        ],
+        "explanation_en": "Gandhiji began the march from Sabarmati to Dandi on 12 March 1930; on 6 April he broke the salt law by making sea salt. It was part of Civil Disobedience."
+      }
+    },
+    {
+      "question": "‘करो या मरो’ का नारा किस आंदोलन से जुड़ा है?",
+      "options": [
+        "असहयोग",
+        "सविनय अवज्ञा",
+        "चंपारण",
+        "भारत छोड़ो, 1942"
+      ],
+      "correctIndex": 3,
+      "explanation": "8 अगस्त, 1942 को बंबई में गाँधी जी ने भारत छोड़ो आंदोलन में ‘करो या मरो’ (Do or Die) का नारा दिया।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय आंदोलन",
+      "uuid": "2599e81e-3b38-43c0-bb2c-ab1e46f725af",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The slogan 'Do or Die' is associated with which movement?",
+        "options_en": [
+          "Non-Cooperation",
+          "Civil Disobedience",
+          "Champaran",
+          "Quit India, 1942"
+        ],
+        "explanation_en": "On 8 August 1942 at Bombay, Gandhiji gave the slogan 'Do or Die' in the Quit India Movement."
+      }
+    },
+    {
+      "question": "चंपारण सत्याग्रह (1917) का संबंध किस फसल से था?",
+      "options": [
+        "नील (indigo)",
+        "कपास",
+        "चाय",
+        "अफीम"
+      ],
+      "correctIndex": 0,
+      "explanation": "चंपारण (बिहार) में गाँधी जी का प्रथम सत्याग्रह नील की खेती (तीनकठिया) के विरुद्ध था। यह उनके भारत में प्रथम बड़े सफल आंदोलन के रूप में जाना जाता है।",
+      "questionType": "mcq",
+      "subCategory": "गाँधी युग",
+      "uuid": "1eee9a8f-6c4a-42e7-8219-88c7b52b283e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "The Champaran Satyagraha (1917) was related to which crop?",
+        "options_en": [
+          "Indigo",
+          "Cotton",
+          "Tea",
+          "Opium"
+        ],
+        "explanation_en": "Gandhiji's first satyagraha in Champaran (Bihar) was against indigo cultivation (tinkathia). It is regarded as his first major successful movement in India."
+      }
+    },
+    {
+      "question": "आजाद हिंद फौज (INA) के प्रमुख नेता कौन थे?",
+      "options": [
+        "भगत सिंह",
+        "सुभाष चंद्र बोस",
+        "चंद्रशेखर आजाद",
+        "लाला लाजपत राय"
+      ],
+      "correctIndex": 1,
+      "explanation": "सुभाष चंद्र बोस ने 1943 में आजाद हिंद फौज का नेतृत्व संभाला और ‘दिल्ली चलो’ तथा ‘जय हिंद’ के नारे दिए।",
+      "questionType": "mcq",
+      "subCategory": "राष्ट्रीय आंदोलन",
+      "uuid": "7fb39542-c29c-4f95-877c-78d9cc810de5",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who was the principal leader of the Indian National Army (INA)?",
+        "options_en": [
+          "Bhagat Singh",
+          "Subhas Chandra Bose",
+          "Chandrashekhar Azad",
+          "Lala Lajpat Rai"
+        ],
+        "explanation_en": "Subhas Chandra Bose took over the leadership of the INA in 1943 and gave the slogans 'Chalo Delhi' and 'Jai Hind'."
+      }
+    },
+    {
+      "question": "अशोक स्तंभ का सिंह शीर्ष, जो राष्ट्रीय प्रतीक है, कहाँ से लिया गया है?",
+      "options": [
+        "साँची",
+        "बोधगया",
+        "राजगीर",
+        "सारनाथ"
+      ],
+      "correctIndex": 3,
+      "explanation": "राष्ट्रीय प्रतीक सारनाथ (वाराणसी) के अशोक स्तंभ के सिंह शीर्ष से लिया गया है। इसके नीचे ‘सत्यमेव जयते’ मुंडक उपनिषद से है।",
+      "questionType": "mcq",
+      "subCategory": "कला एवं संस्कृति",
+      "uuid": "090fcbc0-6c76-4209-bca7-addfbb509829",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "From where is the Lion Capital of Ashoka, the National Emblem, taken?",
+        "options_en": [
+          "Sanchi",
+          "Bodh Gaya",
+          "Rajgir",
+          "Sarnath"
+        ],
+        "explanation_en": "The National Emblem is taken from the Lion Capital of Ashoka's pillar at Sarnath (Varanasi). The words 'Satyameva Jayate' below it are from the Mundaka Upanishad."
+      }
+    },
+    {
+      "question": "कुतुब मीनार का निर्माण प्रारंभ किसने किया?",
+      "options": [
+        "कुतुबुद्दीन ऐबक",
+        "इल्तुतमिश",
+        "अलाउद्दीन खिलजी",
+        "फिरोजशाह तुगलक"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुतुब मीनार का निर्माण कुतुबुद्दीन ऐबक ने प्रारंभ किया तथा इल्तुतमिश ने पूरा करवाया। यह दिल्ली में है और यूनेस्को विश्व धरोहर है।",
+      "questionType": "mcq",
+      "subCategory": "मध्यकाल",
+      "uuid": "b718c11e-f9a1-463c-9ab0-e1ea6aa1cc70",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who began the construction of the Qutub Minar?",
+        "options_en": [
+          "Qutbuddin Aibak",
+          "Iltutmish",
+          "Alauddin Khalji",
+          "Firuz Shah Tughluq"
+        ],
+        "explanation_en": "Construction of the Qutub Minar was begun by Qutbuddin Aibak and completed by Iltutmish. It is in Delhi and is a UNESCO World Heritage Site."
+      }
+    },
+    {
+      "question": "छत्रपति शिवाजी का राज्याभिषेक कहाँ हुआ?",
+      "options": [
+        "सिंहगढ़",
+        "रायगढ़",
+        "पुरंदर",
+        "सतारा"
+      ],
+      "correctIndex": 1,
+      "explanation": "शिवाजी का राज्याभिषेक 1674 में रायगढ़ में हुआ, जहाँ उन्होंने हिंदवी स्वराज की घोषणा की।",
+      "questionType": "mcq",
+      "subCategory": "मराठा",
+      "uuid": "2dd7f7fc-1731-4666-b836-a2d3b0b1f8f0",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Where was Chhatrapati Shivaji crowned?",
+        "options_en": [
+          "Sinhagad",
+          "Raigad",
+          "Purandar",
+          "Satara"
+        ],
+        "explanation_en": "Shivaji was crowned at Raigad in 1674, where he proclaimed Hindavi Swaraj."
+      }
+    },
+    {
+      "question": "झाँसी की रानी लक्ष्मीबाई 1857 के विद्रोह में कहाँ वीरगति को प्राप्त हुईं?",
+      "options": [
+        "झाँसी",
+        "कानपुर",
+        "ग्वालियर (कोटा-की-सराय)",
+        "काल्पी"
+      ],
+      "correctIndex": 2,
+      "explanation": "रानी लक्ष्मीबाई जून 1858 में ग्वालियर के निकट कोटा-की-सराय के युद्ध में वीरगति को प्राप्त हुईं। झाँसी का किला पहले अंग्रेजों के हाथ लग चुका था।",
+      "questionType": "mcq",
+      "subCategory": "1857",
+      "uuid": "a930382b-091e-435f-90ed-c6621d7e1f32",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Where did Rani Lakshmibai of Jhansi attain martyrdom in the Revolt of 1857?",
+        "options_en": [
+          "Jhansi",
+          "Kanpur",
+          "Gwalior (Kotah-ki-Sarai)",
+          "Kalpi"
+        ],
+        "explanation_en": "Rani Lakshmibai attained martyrdom in June 1858 in the battle of Kotah-ki-Sarai near Gwalior. The fort of Jhansi had already fallen to the British."
+      }
+    },
+    {
+      "question": "हड़प्पा सभ्यता की लिपि के संबंध में सही कथन कौन-सा है?",
+      "options": [
+        "यह पूर्णतः पढ़ी जा चुकी है",
+        "यह संस्कृत में है",
+        "यह ब्राह्मी लिपि है",
+        "यह अभी तक पूर्ण रूप से नहीं पढ़ी जा सकी"
+      ],
+      "correctIndex": 3,
+      "explanation": "सिंधु लिपि चित्र-लिपि है और अभी तक पूर्ण रूप से नहीं पढ़ी जा सकी। यह दाएँ से बाएँ लिखी जाती थी, ऐसा अनुमान है।",
+      "questionType": "mcq",
+      "subCategory": "प्राचीन भारत",
+      "uuid": "2ccd8ad7-bff5-4673-b587-e0068c2db1f6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Which statement about the script of the Harappan civilisation is correct?",
+        "options_en": [
+          "It has been fully deciphered",
+          "It is in Sanskrit",
+          "It is the Brahmi script",
+          "It has not yet been fully deciphered"
+        ],
+        "explanation_en": "The Indus script is pictographic and has not yet been fully deciphered. It is thought to have been written from right to left."
+      }
+    },
+    {
+      "question": "अशोक के शिलालेख मुख्यतः किस लिपि में हैं?",
+      "options": [
+        "ब्राह्मी",
+        "देवनागरी",
+        "फारसी",
+        "तमिल-ब्राह्मी"
+      ],
+      "correctIndex": 0,
+      "explanation": "अशोक के अधिकांश शिलालेख ब्राह्मी लिपि एवं प्राकृत भाषा में हैं; उत्तर-पश्चिम में खरोष्ठी भी प्रयुक्त हुई। जेम्स प्रिंसेप ने 1837 में ब्राह्मी पढ़ी।",
+      "questionType": "mcq",
+      "subCategory": "मौर्य काल",
+      "uuid": "a0f46c8d-6cc9-4c0e-bf66-d4bdf7b6f4e6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Ashoka's inscriptions are mainly in which script?",
+        "options_en": [
+          "Brahmi",
+          "Devanagari",
+          "Persian",
+          "Tamil-Brahmi only"
+        ],
+        "explanation_en": "Most of Ashoka's inscriptions are in the Brahmi script and Prakrit language; Kharosthi was also used in the north-west. James Prinsep deciphered Brahmi in 1837."
+      }
+    },
+    {
+      "question": "महात्मा गाँधी को ‘महात्मा’ की उपाधि सर्वप्रथम किसने दी, ऐसा सामान्यतः माना जाता है?",
+      "options": [
+        "जवाहरलाल नेहरू",
+        "रवींद्रनाथ टैगोर",
+        "गोपाल कृष्ण गोखले",
+        "बाल गंगाधर तिलक"
+      ],
+      "correctIndex": 1,
+      "explanation": "सामान्यतः माना जाता है कि रवींद्रनाथ टैगोर ने गाँधी जी को ‘महात्मा’ कहा। गाँधी ने टैगोर को ‘गुरुदेव’ कहा।",
+      "questionType": "mcq",
+      "subCategory": "गाँधी युग",
+      "uuid": "cbb7cf5d-213a-457f-a895-9bbd935ceac5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who is generally believed to have first given Mahatma Gandhi the title 'Mahatma'?",
+        "options_en": [
+          "Jawaharlal Nehru",
+          "Rabindranath Tagore",
+          "Gopal Krishna Gokhale",
+          "Bal Gangadhar Tilak"
+        ],
+        "explanation_en": "It is generally held that Rabindranath Tagore addressed Gandhi as 'Mahatma'. Gandhi called Tagore 'Gurudev'."
+      }
+    },
+    {
+      "question": "कैबिनेट मिशन भारत कब आया?",
+      "options": [
+        "1942",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "कैबिनेट मिशन 1946 में भारत आया (पैथिक-लॉरेंस, क्रिप्स, ए.वी. अलेक्जेंडर) । इसने संविधान सभा एवं अंतरिम सरकार का मार्ग प्रशस्त किया।",
+      "questionType": "mcq",
+      "subCategory": "स्वतंत्रता",
+      "uuid": "8d210864-5da8-492c-a7ec-4206ed57c607",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "When did the Cabinet Mission come to India?",
+        "options_en": [
+          "1942",
+          "1945",
+          "1946",
+          "1947"
+        ],
+        "explanation_en": "The Cabinet Mission came to India in 1946 (Pethick-Lawrence, Cripps, A.V. Alexander). It paved the way for the Constituent Assembly and the Interim Government."
+      }
+    },
+    {
+      "question": "स्वतंत्र भारत के प्रथम प्रधानमंत्री कौन थे?",
+      "options": [
+        "सरदार पटेल",
+        "राजेंद्र प्रसाद",
+        "सी. राजगोपालाचारी",
+        "जवाहरलाल नेहरू"
+      ],
+      "correctIndex": 3,
+      "explanation": "जवाहरलाल नेहरू 15 अगस्त, 1947 से भारत के प्रथम प्रधानमंत्री रहे। राजेंद्र प्रसाद प्रथम राष्ट्रपति तथा सी. राजगोपालाचारी अंतिम गवर्नर-जनरल थे।",
+      "questionType": "mcq",
+      "subCategory": "स्वतंत्र भारत",
+      "uuid": "cac19f43-6b16-4610-a81b-5005df65d104",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Who was the first Prime Minister of independent India?",
+        "options_en": [
+          "Sardar Patel",
+          "Rajendra Prasad",
+          "C. Rajagopalachari",
+          "Jawaharlal Nehru"
+        ],
+        "explanation_en": "Jawaharlal Nehru was the first Prime Minister of India from 15 August 1947. Rajendra Prasad was the first President and C. Rajagopalachari the last Governor-General."
+      }
+    },
+    {
+      "question": "हड़प्पा सभ्यता में ‘महान स्नानागार’ कहाँ मिला है?",
+      "options": [
+        "मोहनजोदड़ो",
+        "हड़प्पा",
+        "धोलावीरा",
+        "राखीगढ़ी"
+      ],
+      "correctIndex": 0,
+      "explanation": "महान स्नानागार मोहनजोदड़ो (सिंध, पाकिस्तान) में मिला है। धोलावीरा (गुजरात) अपने जल प्रबंधन के लिए प्रसिद्ध है।",
+      "questionType": "mcq",
+      "subCategory": "प्राचीन भारत",
+      "uuid": "cc107369-d4d0-47c9-aa43-911e011fdda7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का इतिहास"
+      ],
+      "extra_data": {
+        "question_en": "Where has the 'Great Bath' of the Harappan civilisation been found?",
+        "options_en": [
+          "Mohenjo-daro",
+          "Harappa",
+          "Dholavira",
+          "Rakhigarhi"
+        ],
+        "explanation_en": "The Great Bath has been found at Mohenjo-daro (Sindh, Pakistan). Dholavira (Gujarat) is famous for its water management."
+      }
     }
   ],
-  "updated_at": "2026-10-01T19:02:09.054234"
+  "updated_at": "2026-10-01T19:02:09.054234",
+  "total_questions": 1768
 }

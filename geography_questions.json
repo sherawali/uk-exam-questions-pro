@@ -8909,7 +8909,733 @@
         ],
         "explanation_en": "Plankton grow in abundance at the confluence of hot and cold ocean currents which are best for the fishing industry."
       }
+    },
+    {
+      "question": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "कर्क रेखा 8 राज्यों से गुजरती है – गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा एवं मिजोरम।",
+      "questionType": "mcq",
+      "subCategory": "स्थिति",
+      "uuid": "e07250f3-1a2e-485e-9227-0afa61357b78",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Tropic of Cancer passes through how many States of India?",
+        "options_en": [
+          "8",
+          "6",
+          "7",
+          "9"
+        ],
+        "explanation_en": "The Tropic of Cancer passes through 8 States – Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram."
+      }
+    },
+    {
+      "question": "भारत की सबसे ऊँची चोटी कौन-सी है (भारत की सीमा के भीतर)?",
+      "options": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "कामेट",
+        "नंदा देवी ईस्ट"
+      ],
+      "correctIndex": 1,
+      "explanation": "कंचनजंगा (8,586 मीटर) भारत-नेपाल सीमा पर भारत की सबसे ऊँची चोटी है। नंदा देवी उत्तराखण्ड की सबसे ऊँची चोटी है।",
+      "questionType": "mcq",
+      "subCategory": "हिमालय",
+      "uuid": "3ec134be-34ce-425e-911d-ebc700ab345b",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the highest peak of India (within Indian territory)?",
+        "options_en": [
+          "Nanda Devi",
+          "Kangchenjunga",
+          "Kamet",
+          "Nanda Devi East"
+        ],
+        "explanation_en": "Kangchenjunga (8,586 m) on the India-Nepal border is India's highest peak. Nanda Devi is the highest peak of Uttarakhand."
+      }
+    },
+    {
+      "question": "भारत की सबसे लंबी नदी कौन-सी है?",
+      "options": [
+        "यमुना",
+        "गोदावरी",
+        "गंगा",
+        "ब्रह्मपुत्र"
+      ],
+      "correctIndex": 2,
+      "explanation": "गंगा भारत की सबसे लंबी नदी है (गंगोत्री से गंगासागर तक लगभग 2,525 किमी) । गोदावरी प्रायद्वीप की सबसे लंबी नदी है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "935ed2ee-47da-4edb-940e-de50b7cbbe33",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the longest river of India?",
+        "options_en": [
+          "Yamuna",
+          "Godavari",
+          "Ganga",
+          "Brahmaputra"
+        ],
+        "explanation_en": "The Ganga is India's longest river (about 2,525 km from Gangotri to Ganga Sagar). The Godavari is the longest river of the Peninsula."
+      }
+    },
+    {
+      "question": "भारत की मानक मध्याह्न रेखा कौन-सी है?",
+      "options": [
+        "80° पूर्वी",
+        "84° पूर्वी",
+        "88° पूर्वी",
+        "82°30′ पूर्वी"
+      ],
+      "correctIndex": 3,
+      "explanation": "82°30′ पूर्वी देशांतर भारत की मानक मध्याह्न रेखा है, जो इलाहाबाद (प्रयागराज) के निकट मिर्जापुर से गुजरती है। भारतीय मानक समय GMT+5:30 है।",
+      "questionType": "mcq",
+      "subCategory": "स्थिति",
+      "uuid": "e4291c1d-f389-4a66-929a-ed5db00c6d25",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the Standard Meridian of India?",
+        "options_en": [
+          "80° E",
+          "84° E",
+          "88° E",
+          "82°30′ E"
+        ],
+        "explanation_en": "82°30′ E is India's Standard Meridian; it passes near Mirzapur (Prayagraj). Indian Standard Time is GMT+5:30."
+      }
+    },
+    {
+      "question": "लक्षद्वीप द्वीपसमूह की प्रमुख भूगर्भिक रचना क्या है?",
+      "options": [
+        "प्रवाल द्वीप",
+        "ज्वालामुखी द्वीप",
+        "महाद्वीपीय द्वीप",
+        "नदीय डेल्टा"
+      ],
+      "correctIndex": 0,
+      "explanation": "लक्षद्वीप प्रवाल (कोरल) द्वीपों का समूह है। राजधानी कवरत्ती है। अंडमान-निकोबार मुख्यतः ज्वालामुखी-महाद्वीपीय द्वीप हैं।",
+      "questionType": "mcq",
+      "subCategory": "राज्य",
+      "uuid": "b8c09717-f4ef-4f2c-bab5-805155df67b9",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "What is the principal geological make-up of the Lakshadweep group?",
+        "options_en": [
+          "Coral islands",
+          "Volcanic islands",
+          "Continental islands",
+          "A river delta"
+        ],
+        "explanation_en": "Lakshadweep is a group of coral islands. The capital is Kavaratti. The Andaman and Nicobar Islands are mainly volcanic-continental."
+      }
+    },
+    {
+      "question": "जनसंख्या की दृष्टि से भारत का सबसे छोटा राज्य कौन-सा है?",
+      "options": [
+        "गोवा",
+        "सिक्किम",
+        "मिजोरम",
+        "अरुणाचल प्रदेश"
+      ],
+      "correctIndex": 1,
+      "explanation": "जनगणना 2011 के अनुसार सिक्किम जनसंख्या में सबसे छोटा राज्य है। क्षेत्रफल में सबसे छोटा राज्य गोवा है।",
+      "questionType": "mcq",
+      "subCategory": "राज्य",
+      "uuid": "a7470d7e-0311-4f51-a656-51eeca593346",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the smallest State of India by population?",
+        "options_en": [
+          "Goa",
+          "Sikkim",
+          "Mizoram",
+          "Arunachal Pradesh"
+        ],
+        "explanation_en": "According to Census 2011, Sikkim is the smallest State by population. Goa is the smallest State by area."
+      }
+    },
+    {
+      "question": "विश्व में सर्वाधिक वर्षा का स्थान सामान्यतः किसे माना जाता है?",
+      "options": [
+        "चेरापूँजी",
+        "आगूमबे",
+        "मासिनराम",
+        "कोजीकोड"
+      ],
+      "correctIndex": 2,
+      "explanation": "मेघालय का मासिनराम विश्व में सर्वाधिक औसत वार्षिक वर्षा वाले स्थानों में गिना जाता है; चेरापूँजी भी निकट है। दोनों खासी पहाड़ियों में हैं।",
+      "questionType": "mcq",
+      "subCategory": "जलवायु",
+      "uuid": "6fa904f7-9730-40eb-9b94-b8268542d840",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which place is generally regarded as receiving the highest rainfall in the world?",
+        "options_en": [
+          "Cherrapunji",
+          "Agumbe",
+          "Mawsynram",
+          "Kozhikode"
+        ],
+        "explanation_en": "Mawsynram in Meghalaya is counted among the places with the highest average annual rainfall in the world; Cherrapunji is nearby. Both lie in the Khasi Hills."
+      }
+    },
+    {
+      "question": "काली मिट्टी (रेगुर) किस फसल के लिए सर्वाधिक उपयुक्त है?",
+      "options": [
+        "चावल",
+        "चाय",
+        "जूट",
+        "कपास"
+      ],
+      "correctIndex": 3,
+      "explanation": "काली मिट्टी (रेगुर) दक्कन ट्रैप क्षेत्र में पाई जाती है और कपास के लिए प्रसिद्ध है। यह नमी रोकने की क्षमता रखती है।",
+      "questionType": "mcq",
+      "subCategory": "मृदा",
+      "uuid": "d82bdcb3-5a49-456a-be50-3251c5137dca",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Black soil (regur) is most suitable for which crop?",
+        "options_en": [
+          "Rice",
+          "Tea",
+          "Jute",
+          "Cotton"
+        ],
+        "explanation_en": "Black soil (regur) is found in the Deccan Trap region and is famous for cotton. It has high moisture-retentive capacity."
+      }
+    },
+    {
+      "question": "चिल्का झील भारत के प्रथम रामसर स्थलों में किस वर्ष शामिल हुई?",
+      "options": [
+        "1981",
+        "1971",
+        "1991",
+        "2002"
+      ],
+      "correctIndex": 0,
+      "explanation": "चिल्का ओडिशा में भारत की सबसे बड़ी तटीय लैगून झील है और रामसर स्थल है। यह भारत के प्रथम रामसर स्थलों में से एक रही (1981) ।",
+      "questionType": "mcq",
+      "subCategory": "झीलें",
+      "uuid": "d57ebd7e-5f40-43fa-8aee-f1d7e3ab2e67",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "In which year was Chilika Lake included among India's first Ramsar Sites?",
+        "options_en": [
+          "1981",
+          "1971",
+          "1991",
+          "2002"
+        ],
+        "explanation_en": "Chilika in Odisha is India's largest coastal lagoon and a Ramsar Site. It was among India's first Ramsar Sites (1981)."
+      }
+    },
+    {
+      "question": "सुंदरबन किस नदी के डेल्टा में स्थित है?",
+      "options": [
+        "महानदी",
+        "गंगा-ब्रह्मपुत्र",
+        "गोदावरी",
+        "कावेरी"
+      ],
+      "correctIndex": 1,
+      "explanation": "सुंदरबन गंगा-ब्रह्मपुत्र डेल्टा में भारत (पश्चिम बंगाल) एवं बांग्लादेश में फैला विश्व का सबसे बड़ा मैंग्रोव वन है; यहाँ रॉयल बंगाल टाइगर पाया जाता है।",
+      "questionType": "mcq",
+      "subCategory": "वन",
+      "uuid": "0e1cdddf-0228-4089-8f23-b06b9be2ffb2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Sundarbans lie in the delta of which river?",
+        "options_en": [
+          "Mahanadi",
+          "Ganga-Brahmaputra",
+          "Godavari",
+          "Kaveri"
+        ],
+        "explanation_en": "The Sundarbans in the Ganga-Brahmaputra delta, spread over India (West Bengal) and Bangladesh, are the world's largest mangrove forest; the Royal Bengal Tiger is found here."
+      }
+    },
+    {
+      "question": "काजीरंगा राष्ट्रीय उद्यान किसके लिए प्रसिद्ध है?",
+      "options": [
+        "एशियाई शेर",
+        "हिम तेंदुआ",
+        "एक सींग वाला गैंडा",
+        "घड़ियाल"
+      ],
+      "correctIndex": 2,
+      "explanation": "काजीरंगा (असम) एक सींग वाले गैंडे के लिए विश्व प्रसिद्ध है और यूनेस्को विश्व धरोहर है। एशियाई शेर गिर (गुजरात) में हैं।",
+      "questionType": "mcq",
+      "subCategory": "वन्यजीव",
+      "uuid": "e4d741ae-f091-41b2-ac8e-b5f5f7d7eec1",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Kaziranga National Park is famous for which of the following?",
+        "options_en": [
+          "Asiatic lion",
+          "Snow leopard",
+          "The one-horned rhinoceros",
+          "Gharial"
+        ],
+        "explanation_en": "Kaziranga (Assam) is world-famous for the one-horned rhinoceros and is a UNESCO World Heritage Site. Asiatic lions are in Gir (Gujarat)."
+      }
+    },
+    {
+      "question": "नर्मदा नदी किस प्रकार की घाटी में बहती है?",
+      "options": [
+        "V-आकार",
+        "U-आकार हिमनदीय",
+        "डेल्टाहीन नहीं",
+        "रिफ्ट (भ्रंश) घाटी"
+      ],
+      "correctIndex": 3,
+      "explanation": "नर्मदा एवं तापी रिफ्ट घाटियों में पश्चिम की ओर बहती हैं और ज्वारनदमुख (estuary) बनाती हैं, डेल्टा नहीं। नर्मदा अमरकंटक से निकलती है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "6cede940-0e49-4d0b-ae76-5d9059d2b406",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "In which type of valley does the Narmada river flow?",
+        "options_en": [
+          "V-shaped",
+          "U-shaped glacial",
+          "It always forms a delta",
+          "Rift valley"
+        ],
+        "explanation_en": "The Narmada and the Tapi flow westwards in rift valleys and form estuaries, not deltas. The Narmada rises at Amarkantak."
+      }
+    },
+    {
+      "question": "भारत का दक्षिणीतम बिंदु (मुख्य भूमि नहीं, संपूर्ण भारत) कौन-सा है?",
+      "options": [
+        "इंदिरा पॉइंट",
+        "कन्याकुमारी",
+        "रामेश्वरम",
+        "मिनिकॉय"
+      ],
+      "correctIndex": 0,
+      "explanation": "इंदिरा पॉइंट (ग्रेट निकोबार) भारत का दक्षिणीतम बिंदु है। मुख्य भूमि का दक्षिणीतम बिंदु कन्याकुमारी (केप कोमोरिन) है।",
+      "questionType": "mcq",
+      "subCategory": "स्थिति",
+      "uuid": "4a32a23f-5b0f-426f-a9ce-268684388374",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which is the southernmost point of India (the country as a whole, not the mainland)?",
+        "options_en": [
+          "Indira Point",
+          "Kanyakumari",
+          "Rameswaram",
+          "Minicoy"
+        ],
+        "explanation_en": "Indira Point (Great Nicobar) is the southernmost point of India. The southernmost point of the mainland is Kanyakumari (Cape Comorin)."
+      }
+    },
+    {
+      "question": "पश्चिमी घाट का अन्य प्रचलित नाम क्या है?",
+      "options": [
+        "नीलगिरि",
+        "सह्याद्रि",
+        "सतपुड़ा",
+        "अरावली"
+      ],
+      "correctIndex": 1,
+      "explanation": "पश्चिमी घाट को सह्याद्रि भी कहते हैं। यह यूनेस्को विश्व धरोहर है और मानसूनी वर्षा का प्रमुख कारण है।",
+      "questionType": "mcq",
+      "subCategory": "पर्वत",
+      "uuid": "b3e2a6fb-438b-4c51-a0ef-281b0173715d",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "What is the other common name of the Western Ghats?",
+        "options_en": [
+          "Nilgiri",
+          "Sahyadri",
+          "Satpura",
+          "Aravalli"
+        ],
+        "explanation_en": "The Western Ghats are also called the Sahyadri. They are a UNESCO World Heritage Site and a principal cause of monsoon rainfall."
+      }
+    },
+    {
+      "question": "थार मरुस्थल भारत में मुख्यतः किस जलवायु-प्रदेश से जुड़ा है?",
+      "options": [
+        "तटीय केरल",
+        "पूर्वोत्तर मेघालय",
+        "शुष्क पश्चिमी राजस्थान",
+        "सुंदरबन डेल्टा"
+      ],
+      "correctIndex": 2,
+      "explanation": "थार मरुस्थल मुख्यतः राजस्थान में है तथा पाकिस्तान के सिंध-पंजाब तक फैला है। अरावली इसकी पूर्वी सीमा के निकट है।",
+      "questionType": "mcq",
+      "subCategory": "मरुस्थल",
+      "uuid": "851b49e4-c359-435a-a944-e8196881fa97",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "In India the Thar Desert is linked mainly to which climatic region?",
+        "options_en": [
+          "Coastal Kerala",
+          "North-eastern Meghalaya",
+          "Arid western Rajasthan",
+          "The Sundarbans delta"
+        ],
+        "explanation_en": "The Thar Desert lies mainly in Rajasthan and extends into Sindh-Punjab of Pakistan. The Aravalli range is near its eastern margin."
+      }
+    },
+    {
+      "question": "डंकन पास किन दो द्वीप समूहों को अलग करता है?",
+      "options": [
+        "लक्षद्वीप एवं मालदीव",
+        "उत्तर एवं मध्य अंडमान",
+        "मिनीकॉय एवं कावारत्ती",
+        "अंडमान एवं निकोबार"
+      ],
+      "correctIndex": 3,
+      "explanation": "डंकन पास दक्षिण अंडमान एवं निकोबार के बीच है। 10° चैनल भी अंडमान-निकोबार को अलग करता है।",
+      "questionType": "mcq",
+      "subCategory": "द्वीप",
+      "uuid": "665389d3-5d43-40fd-98c9-1ea8133f9d1c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Duncan Passage separates which two island groups?",
+        "options_en": [
+          "Lakshadweep and Maldives",
+          "North and Middle Andaman",
+          "Minicoy and Kavaratti",
+          "Andaman and Nicobar"
+        ],
+        "explanation_en": "Duncan Passage lies between South Andaman and the Nicobar Islands. The Ten Degree Channel also separates the Andaman and Nicobar groups."
+      }
+    },
+    {
+      "question": "कावेरी नदी का उद्गम कहाँ है?",
+      "options": [
+        "ब्रह्मगिरि पहाड़ी (कोडगु)",
+        "अन्नामलाई",
+        "नीलगिरि",
+        "पालघाट"
+      ],
+      "correctIndex": 0,
+      "explanation": "कावेरी कर्नाटक के कोडगु (कुर्ग) जिले की ब्रह्मगिरि पहाड़ी से निकलती है और बंगाल की खाड़ी में गिरती है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "abf957f9-8fb2-4696-9dcd-23aaadea9f6a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Where does the Kaveri river originate?",
+        "options_en": [
+          "Brahmagiri hills (Kodagu)",
+          "Annamalai",
+          "Nilgiri",
+          "Palghat"
+        ],
+        "explanation_en": "The Kaveri rises in the Brahmagiri hills of Kodagu (Coorg) district in Karnataka and falls into the Bay of Bengal."
+      }
+    },
+    {
+      "question": "दक्कन ट्रैप का निर्माण किस भूवैज्ञानिक प्रक्रिया से हुआ?",
+      "options": [
+        "हिमनद निक्षेप",
+        "ज्वालामुखी लावा प्रवाह",
+        "नदीय डेल्टा",
+        "वायु निक्षेप"
+      ],
+      "correctIndex": 1,
+      "explanation": "दक्कन ट्रैप क्रिटेशियस-काल के बेसाल्ट लावा प्रवाह से बना है, जिससे काली मिट्टी बनी। यह महाराष्ट्र-मध्य प्रदेश-गुजरात में विस्तृत है।",
+      "questionType": "mcq",
+      "subCategory": "भूविज्ञान",
+      "uuid": "27cc6aba-1322-42d3-ba5c-8650eb29b04c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "The Deccan Traps were formed by which geological process?",
+        "options_en": [
+          "Glacial deposition",
+          "Volcanic lava flows",
+          "River deltas",
+          "Wind deposition"
+        ],
+        "explanation_en": "The Deccan Traps were formed by Cretaceous basaltic lava flows, which weathered into black soil. They cover Maharashtra-Madhya Pradesh-Gujarat."
+      }
+    },
+    {
+      "question": "लक्षद्वीप की राजधानी कौन-सी है?",
+      "options": [
+        "पोर्ट ब्लेयर",
+        "सिलवासा",
+        "कावारत्ती",
+        "दमन"
+      ],
+      "correctIndex": 2,
+      "explanation": "लक्षद्वीप की राजधानी कावारत्ती है। अंडमान एवं निकोबार की राजधानी श्री विजयपुरम (पूर्व नाम पोर्ट ब्लेयर) है; दादरा एवं नगर हवेली तथा दमन एवं दीव की राजधानी दमन है।",
+      "questionType": "mcq",
+      "subCategory": "केंद्र शासित प्रदेश",
+      "uuid": "453e3ee6-3cc4-41cb-8a64-80c617c8b5ef",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "What is the capital of Lakshadweep?",
+        "options_en": [
+          "Port Blair",
+          "Silvassa",
+          "Kavaratti",
+          "Daman"
+        ],
+        "explanation_en": "Kavaratti is the capital of Lakshadweep. The capital of Andaman and Nicobar is Sri Vijaya Puram (formerly Port Blair); Daman is the capital of Dadra and Nagar Haveli and Daman and Diu."
+      }
+    },
+    {
+      "question": "ज्वारनदमुख (estuary) बनाने वाली प्रायद्वीपीय नदी कौन-सी है?",
+      "options": [
+        "महानदी",
+        "कृष्णा",
+        "कावेरी",
+        "नर्मदा"
+      ],
+      "correctIndex": 3,
+      "explanation": "पश्चिम की ओर बहने वाली नर्मदा एवं तापी ज्वारनदमुख बनाती हैं। पूर्व की ओर बहने वाली महानदी, कृष्णा, कावेरी, गोदावरी डेल्टा बनाती हैं।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "e8668366-09ec-4dbe-9b7b-53591f29168f",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Which peninsular river forms an estuary?",
+        "options_en": [
+          "Mahanadi",
+          "Krishna",
+          "Kaveri",
+          "Narmada"
+        ],
+        "explanation_en": "The west-flowing Narmada and Tapi form estuaries. The east-flowing Mahanadi, Krishna, Kaveri and Godavari form deltas."
+      }
+    },
+    {
+      "question": "भारत में मैंग्रोव वन मुख्यतः कहाँ पाए जाते हैं?",
+      "options": [
+        "सुंदरबन एवं तटीय डेल्टा",
+        "लद्दाख",
+        "थार",
+        "शिवालिक"
+      ],
+      "correctIndex": 0,
+      "explanation": "मैंग्रोव सुंदरबन, भितरकनिका, गोदावरी-कृष्णा डेल्टा एवं अंडमान में पाए जाते हैं। ISFR 2023 के अनुसार भारत का मैंग्रोव आवरण लगभग 4,992 वर्ग किमी है।",
+      "questionType": "mcq",
+      "subCategory": "वन",
+      "uuid": "9d3627ec-dfca-4d6e-b6a8-22b9d96ef98b",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Where are mangrove forests mainly found in India?",
+        "options_en": [
+          "The Sundarbans and coastal deltas",
+          "Ladakh",
+          "The Thar",
+          "The Siwaliks"
+        ],
+        "explanation_en": "Mangroves are found in the Sundarbans, Bhitarkanika, the Godavari-Krishna delta and the Andamans. As per ISFR 2023, India's mangrove cover is about 4,992 sq km."
+      }
+    },
+    {
+      "question": "अरावली पर्वत की विशेषता क्या है?",
+      "options": [
+        "ये भारत के सबसे नए पर्वत हैं",
+        "ये विश्व की प्राचीनतम श्रेणियों में हैं",
+        "ये ज्वालामुखी श्रेणी हैं",
+        "ये हिमनद से बने हैं"
+      ],
+      "correctIndex": 1,
+      "explanation": "अरावली प्राचीन वलित पर्वत हैं (प्रीकैम्ब्रियन) । गुरु शिखर (माउंट आबू) इनकी उच्चतम चोटी है।",
+      "questionType": "mcq",
+      "subCategory": "पर्वत",
+      "uuid": "7f783e16-f628-4f1f-acbe-09a6cffde643",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "What is a characteristic of the Aravalli range?",
+        "options_en": [
+          "They are India's youngest mountains",
+          "They are among the oldest ranges in the world",
+          "They are a volcanic range",
+          "They are formed only by glaciers"
+        ],
+        "explanation_en": "The Aravallis are ancient fold mountains (Precambrian). Guru Shikhar (Mount Abu) is their highest peak."
+      }
+    },
+    {
+      "question": "गोदावरी को दक्षिण गंगा किस कारण कहा जाता है?",
+      "options": [
+        "यह गंगा की सहायक है",
+        "यह गंगासागर में गिरती है",
+        "प्रायद्वीप की सबसे लंबी नदी एवं सांस्कृतिक महत्व",
+        "यह कर्नाटक तक सीमित है"
+      ],
+      "correctIndex": 2,
+      "explanation": "गोदावरी प्रायद्वीपीय भारत की सबसे लंबी नदी है (नासिक, त्र्यंबकेश्वर से) और सांस्कृतिक महत्व के कारण दक्षिण गंगा कही जाती है।",
+      "questionType": "mcq",
+      "subCategory": "नदियाँ",
+      "uuid": "5f27e1dd-661b-48ec-845e-40082ebf72b4",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Why is the Godavari called the Ganga of the South?",
+        "options_en": [
+          "It is a tributary of the Ganga",
+          "It falls into Ganga Sagar",
+          "It is the longest river of the Peninsula and has cultural importance",
+          "It flows only in Karnataka"
+        ],
+        "explanation_en": "The Godavari is the longest river of Peninsular India (from Trimbakeshwar, Nashik) and is called Dakshin Ganga because of its cultural importance."
+      }
+    },
+    {
+      "question": "भारत का पूर्वी घाट पश्चिमी घाट से कहाँ मिलता है?",
+      "options": [
+        "पालघाट गैप",
+        "सतपुड़ा",
+        "राजमहल",
+        "नीलगिरि (दोडाबेट्टा क्षेत्र)"
+      ],
+      "correctIndex": 3,
+      "explanation": "पूर्वी एवं पश्चिमी घाट नीलगिरि पहाड़ियों में मिलते हैं। दोडाबेट्टा नीलगिरि की उच्चतम चोटी है। पालघाट गैप पश्चिमी घाट में एक दरार है।",
+      "questionType": "mcq",
+      "subCategory": "पर्वत",
+      "uuid": "9cb0eaf1-5064-4694-aac1-b73e74fec520",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "Where do the Eastern Ghats meet the Western Ghats?",
+        "options_en": [
+          "The Palghat Gap",
+          "The Satpura",
+          "The Rajmahal",
+          "The Nilgiri (Doddabetta region)"
+        ],
+        "explanation_en": "The Eastern and Western Ghats meet in the Nilgiri hills. Doddabetta is the highest peak of the Nilgiris. The Palghat Gap is a break in the Western Ghats."
+      }
+    },
+    {
+      "question": "ISFR 2023 के अनुसार भारत के भौगोलिक क्षेत्र का वन एवं वृक्ष आवरण कुल कितना प्रतिशत है?",
+      "options": [
+        "25.17%",
+        "21.76%",
+        "24.62%",
+        "33.00%"
+      ],
+      "correctIndex": 0,
+      "explanation": "ISFR 2023 (FRI, देहरादून में जारी) के अनुसार वन आवरण 21.76% तथा वृक्ष आवरण 3.41%, कुल वन एवं वृक्ष आवरण 25.17% है।",
+      "questionType": "mcq",
+      "subCategory": "वन आवरण",
+      "uuid": "48659cdb-992c-4637-a55f-ed9643ddaa26",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "भारत का भूगोल"
+      ],
+      "extra_data": {
+        "question_en": "According to ISFR 2023, what percentage of India's geographical area is under forest and tree cover together?",
+        "options_en": [
+          "25.17%",
+          "21.76%",
+          "24.62%",
+          "33.00%"
+        ],
+        "explanation_en": "As per ISFR 2023 (released at FRI, Dehradun), forest cover is 21.76% and tree cover 3.41%; total forest and tree cover is 25.17%."
+      }
     }
   ],
-  "updated_at": "2026-10-01T19:02:09.289241"
+  "updated_at": "2026-10-01T19:02:09.289241",
+  "total_questions": 332
 }
