@@ -3,6 +3,31 @@
   "last_sync": "2026-10-15T15:30:00.000000+00:00",
   "flash_news": [
     {
+      "id": "news_ukpsc_calendar_2026",
+      "enabled": true,
+      "title": "UKPSC वार्षिक परीक्षा कैलेंडर जारी • समस्त मुख्य परीक्षाओं की तिथियां देखें",
+      "title_en": "UKPSC Annual Exam Calendar Released • Check All Exam Dates",
+      "message": "उत्तराखंड लोक सेवा आयोग द्वारा आगामी भर्ती परीक्षाओं का संशोधित कैलेंडर जारी कर दिया गया है। अपनी तैयारी को गति दें।",
+      "message_en": "UKPSC has released the revised examination calendar for upcoming recruitment exams. Accelerate your preparation.",
+      "tag": "📢 आयोग अपडेट",
+      "tag_en": "📢 Commission Update",
+      "date": "16 Oct 2026",
+      "link": "https://psc.uk.gov.in"
+    },
+    {
+      "id": "news_uksssc_group_c_pattern",
+      "enabled": true,
+      "title": "UKSSSC समूह 'ग' 100-प्रश्न नए पाठ्यक्रम पर आधारित मॉक टेस्ट उपलब्ध",
+      "title_en": "UKSSSC Group C 100-Q New Pattern Blueprint Mocks Live",
+      "message": "समूह 'ग' परीक्षा हेतु 100 प्रश्नों के पूर्ण ब्लूप्रिंट मॉक टेस्ट व्याख्या सहित ऐप में लाइव हैं।",
+      "message_en": "Full 100-question blueprint mock tests with comprehensive explanations for Group C are now live in the app.",
+      "tag": "🔥 नया टेस्ट",
+      "tag_en": "🔥 New Test",
+      "date": "15 Oct 2026"
+    }
+  ],
+  "special_flash": [
+    {
       "id": "uksssc_25oct2026_hc_clerk_mock",
       "enabled": true,
       "starts_at": "2026-10-16T00:00:00.000Z",
@@ -21,26 +46,6 @@
       "total_questions": 100,
       "duration_minutes": 120,
       "is_vip": false
-    },
-    {
-      "id": "guru_vip_mock_pass_2026",
-      "enabled": true,
-      "starts_at": "2026-10-16T00:00:00.000Z",
-      "title": "गुरु प्लस VIP टेस्ट पास 👑",
-      "title_en": "Guru Plus VIP Test Pass 👑",
-      "message": "समस्त 13 विषयों के आधिकारिक PYQ बुकलेट्स और विशेष VIP मॉक टेस्ट तुरंत अनलॉक करें। 100% विज्ञापन-मुक्त CBT अनुभव।",
-      "message_en": "Instantly unlock all 13 subject official PYQ booklets and exclusive VIP mock tests. 100% ad-free CBT experience.",
-      "type": "special",
-      "tag": "👑 VIP पास",
-      "tag_en": "👑 VIP PASS",
-      "exam_date": "2026",
-      "post_id": "uk_high_court_clerk",
-      "action_label": "VIP अनलॉक करें ➔",
-      "action_label_en": "Unlock VIP ➔",
-      "action_route": "guru_plus",
-      "total_questions": 100,
-      "duration_minutes": 120,
-      "is_vip": true
     }
   ],
   "min_app_version": "1.0.0",
