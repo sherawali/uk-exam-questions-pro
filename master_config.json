@@ -3,27 +3,19 @@
   "last_sync": "2026-10-15T15:30:00.000000+00:00",
   "flash_news": [
     {
-      "id": "news_ukpsc_calendar_2026",
-      "enabled": false,
-      "title": "UKPSC वार्षिक परीक्षा कैलेंडर जारी • समस्त मुख्य परीक्षाओं की तिथियां देखें",
-      "title_en": "UKPSC Annual Exam Calendar Released • Check All Exam Dates",
-      "message": "उत्तराखंड लोक सेवा आयोग द्वारा आगामी भर्ती परीक्षाओं का संशोधित कैलेंडर जारी कर दिया गया है। अपनी तैयारी को गति दें।",
-      "message_en": "UKPSC has released the revised examination calendar for upcoming recruitment exams. Accelerate your preparation.",
-      "tag": "📢 आयोग अपडेट",
-      "tag_en": "📢 Commission Update",
-      "date": "16 Oct 2026",
-      "link": "https://psc.uk.gov.in"
-    },
-    {
-      "id": "news_uksssc_group_c_pattern",
-      "enabled": false,
-      "title": "UKSSSC समूह 'ग' 100-प्रश्न नए पाठ्यक्रम पर आधारित मॉक टेस्ट उपलब्ध",
-      "title_en": "UKSSSC Group C 100-Q New Pattern Blueprint Mocks Live",
-      "message": "समूह 'ग' परीक्षा हेतु 100 प्रश्नों के पूर्ण ब्लूप्रिंट मॉक टेस्ट व्याख्या सहित ऐप में लाइव हैं।",
-      "message_en": "Full 100-question blueprint mock tests with comprehensive explanations for Group C are now live in the app.",
-      "tag": "🔥 नया टेस्ट",
-      "tag_en": "🔥 New Test",
-      "date": "15 Oct 2026"
+      "id": "news_hc_clerk_5_free_mocks",
+      "enabled": true,
+      "title": "उच्च न्यायालय क्लर्क परीक्षा: 5 फ्री 360° मॉक टेस्ट लाइव! अभी अभ्यास करें",
+      "title_en": "High Court Clerk Exam: 5 Free 360° Mocks Live! Try Now",
+      "message": "उत्तराखंड उच्च न्यायालय क्लर्क व कनिष्ठ सहायक परीक्षा हेतु 5 संपूर्ण 100-प्रश्न मॉडल पेपर्स पूर्णतः निःशुल्क उपलब्ध हैं। विस्तृत व्याख्या व लाइव रैंक के साथ अभी टेस्ट दें!",
+      "message_en": "5 Full 100-Question Model Papers for Uttarakhand High Court Clerk Exam are available 100% Free. Practice now with detailed explanations and live rank!",
+      "tag": "⚡ 5 फ्री मॉक टेस्ट",
+      "tag_en": "⚡ 5 Free Mocks",
+      "post_id": "uk_high_court_clerk",
+      "action_label": "मॉक टेस्ट प्रारंभ करें ➔",
+      "action_label_en": "Start Mock Test ➔",
+      "action_route": "mock:uk_high_court_clerk",
+      "date": "16 Oct 2026"
     }
   ],
   "special_flash": [
