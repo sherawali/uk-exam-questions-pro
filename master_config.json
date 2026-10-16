@@ -4,7 +4,7 @@
   "flash_news": [
     {
       "id": "news_ukpsc_calendar_2026",
-      "enabled": true,
+      "enabled": false,
       "title": "UKPSC वार्षिक परीक्षा कैलेंडर जारी • समस्त मुख्य परीक्षाओं की तिथियां देखें",
       "title_en": "UKPSC Annual Exam Calendar Released • Check All Exam Dates",
       "message": "उत्तराखंड लोक सेवा आयोग द्वारा आगामी भर्ती परीक्षाओं का संशोधित कैलेंडर जारी कर दिया गया है। अपनी तैयारी को गति दें।",
@@ -16,7 +16,7 @@
     },
     {
       "id": "news_uksssc_group_c_pattern",
-      "enabled": true,
+      "enabled": false,
       "title": "UKSSSC समूह 'ग' 100-प्रश्न नए पाठ्यक्रम पर आधारित मॉक टेस्ट उपलब्ध",
       "title_en": "UKSSSC Group C 100-Q New Pattern Blueprint Mocks Live",
       "message": "समूह 'ग' परीक्षा हेतु 100 प्रश्नों के पूर्ण ब्लूप्रिंट मॉक टेस्ट व्याख्या सहित ऐप में लाइव हैं।",
@@ -29,7 +29,7 @@
   "special_flash": [
     {
       "id": "uksssc_25oct2026_hc_clerk_mock",
-      "enabled": true,
+      "enabled": false,
       "starts_at": "2026-10-16T00:00:00.000Z",
       "title": "उच्च न्यायालय क्लर्क & कनिष्ठ सहायक (25 Oct)",
       "title_en": "High Court Clerk & Jr. Assistant (25 Oct)",
@@ -48,6 +48,15 @@
       "is_vip": false
     }
   ],
+  "mock_access_policy": {
+    "default_free_mocks_per_exam": 5,
+    "exam_free_limits": {
+      "uk_high_court_clerk": 5,
+      "uksssc_inter_level": 5,
+      "uk_police_si": 5,
+      "ukpsc_combined_pre": 5
+    }
+  },
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
