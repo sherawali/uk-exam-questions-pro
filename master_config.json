@@ -3,6 +3,21 @@
   "last_sync": "2026-10-15T15:30:00.000000+00:00",
   "flash_news": [
     {
+      "id": "news_360_degree_facts_mastery",
+      "enabled": true,
+      "title": "🎯 1 प्रश्न = 5 पक्के तथ्य! 360° आयोग मॉक टेस्ट लाइव",
+      "title_en": "🎯 1 Question = 5 Core Facts! 360° Commission Mocks Live",
+      "message": "आयोग के नवीनतम पैटर्न पर तैयार प्रश्नों की 360° व्याख्या—प्रत्येक प्रश्न के साथ प्रामाणिक तिथियां, भौगोलिक आंकड़े और संदर्भ समाहित हैं, ताकि एक प्रश्न से आपके 5 कॉन्सेप्ट्स तुरंत क्लियर हो जाएं!",
+      "message_en": "Practice 360° Commission pattern mocks where every question's explanation covers verified dates, geographic facts, and key concepts in depth!",
+      "tag": "⚡ 360° संपूर्ण तैयारी",
+      "tag_en": "⚡ 360° Concept Mastery",
+      "post_id": "uk_high_court_clerk",
+      "action_label": "मॉक टेस्ट प्रारंभ करें ➔",
+      "action_label_en": "Start Mock Test ➔",
+      "action_route": "mock:uk_high_court_clerk",
+      "date": "16 Oct 2026"
+    },
+    {
       "id": "news_hc_clerk_5_free_mocks",
       "enabled": true,
       "title": "उच्च न्यायालय क्लर्क परीक्षा: 5 फ्री 360° मॉक टेस्ट लाइव! अभी अभ्यास करें",
