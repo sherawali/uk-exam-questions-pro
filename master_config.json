@@ -112,8 +112,72 @@
     "exam_free_limits": {
       "uk_high_court_clerk": 5,
       "uksssc_inter_level": 5,
-      "uk_police_si": 5,
-      "ukpsc_combined_pre": 5
+      "uk_sub_inspector": 3,
+      "uk_police_constable": 3,
+      "ukpsc_upper_pcs": 2,
+      "uksssc_graduate_level": 3
+    }
+  },
+  "exam_mock_catalog": {
+    "uk_high_court_clerk": {
+      "exam_id": "uk_high_court_clerk",
+      "title_hindi": "उच्च न्यायालय क्लर्क",
+      "title_english": "High Court Clerk",
+      "enabled": true,
+      "total_mocks": 20,
+      "free_mocks": 5,
+      "questions": 100,
+      "duration": 120
+    },
+    "uksssc_inter_level": {
+      "exam_id": "uksssc_inter_level",
+      "title_hindi": "कनिष्ठ सहायक / इंटर स्तरीय",
+      "title_english": "Junior Assistant",
+      "enabled": false,
+      "total_mocks": 20,
+      "free_mocks": 5,
+      "questions": 100,
+      "duration": 120
+    },
+    "uk_sub_inspector": {
+      "exam_id": "uk_sub_inspector",
+      "title_hindi": "उत्तराखंड पुलिस उपनिरीक्षक (SI)",
+      "title_english": "Police SI",
+      "enabled": false,
+      "total_mocks": 15,
+      "free_mocks": 3,
+      "questions": 150,
+      "duration": 150
+    },
+    "uk_police_constable": {
+      "exam_id": "uk_police_constable",
+      "title_hindi": "उत्तराखंड पुलिस आरक्षी",
+      "title_english": "Police Constable",
+      "enabled": false,
+      "total_mocks": 15,
+      "free_mocks": 3,
+      "questions": 100,
+      "duration": 120
+    },
+    "ukpsc_upper_pcs": {
+      "exam_id": "ukpsc_upper_pcs",
+      "title_hindi": "उत्तराखंड सम्मिलित सिविल सेवा (PCS)",
+      "title_english": "Upper PCS Prelims",
+      "enabled": false,
+      "total_mocks": 10,
+      "free_mocks": 2,
+      "questions": 150,
+      "duration": 120
+    },
+    "uksssc_graduate_level": {
+      "exam_id": "uksssc_graduate_level",
+      "title_hindi": "स्नातक स्तरीय (VDO/VPDO)",
+      "title_english": "Graduate Level (VDO)",
+      "enabled": false,
+      "total_mocks": 15,
+      "free_mocks": 3,
+      "questions": 100,
+      "duration": 120
     }
   },
   "min_app_version": "1.0.0",
