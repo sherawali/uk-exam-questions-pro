@@ -121,13 +121,13 @@
   "exam_mock_catalog": {
     "uk_high_court_clerk": {
       "exam_id": "uk_high_court_clerk",
-      "title_hindi": "उच्च न्यायालय क्लर्क",
-      "title_english": "High Court Clerk",
+      "title_hindi": "उच्च न्यायालय कनिष्ठ सहायक",
+      "title_english": "High Court Junior Assistant",
       "enabled": true,
       "total_mocks": 20,
       "free_mocks": 5,
-      "questions": 100,
-      "duration": 120
+      "questions": 140,
+      "duration": 150
     },
     "uksssc_inter_level": {
       "exam_id": "uksssc_inter_level",
@@ -201,5 +201,5 @@
     }
   },
   "total_questions": 16134,
-  "last_updated": "2026-10-17T08:24:08.426869+00:00"
+  "last_updated": "2026-10-17T15:22:00.000Z"
 }
