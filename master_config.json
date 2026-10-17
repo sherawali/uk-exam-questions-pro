@@ -1,21 +1,7 @@
 {
-  "version": "4.8.0",
-  "last_sync": "2026-10-15T15:30:00.000000+00:00",
+  "version": "4.9.0",
+  "last_sync": "2026-10-17T08:00:00.000000+00:00",
   "flash_news": [
-    {
-      "id": "news_uk_ca_apr_oct_2026_64_mcqs",
-      "enabled": true,
-      "title": "⚡ उत्तराखंड करंट अफेयर्स (अप्रैल – अक्टूबर 2026): 64 नए MCQs लाइव! बजट, सूचकांक व नीतियां",
-      "title_en": "⚡ Uttarakhand Current Affairs (Apr–Oct 2026): 64 New MCQs Live! Budget, Indices & Schemes",
-      "message": "UKPSC व UKSSSC परीक्षाओं हेतु पिछले 6 माह (अप्रैल – अक्टूबर 2026) के 64 नए द्विभाषी प्रश्न, राज्य बजट 2026-27, आर्थिक सूचकांक, नियुक्तियां व नई योजनाएं क्वेश्चन बैंक में लाइव जोड़ दी गई हैं। अभी अभ्यास करें!",
-      "message_en": "64 New bilingual MCQs for UKPSC & UKSSSC exams covering the last 6 months (April–October 2026), State Budget 2026-27, national rankings and appointments are now live! Practice now!",
-      "tag": "🔥 समसामयिकी 2026",
-      "tag_en": "🔥 Current Affairs",
-      "action_label": "समसामयिकी अभ्यास करें ➔",
-      "action_label_en": "Practice Now ➔",
-      "action_route": "current_affairs",
-      "date": "17 Oct 2026"
-    },
     {
       "id": "news_360_degree_facts_mastery",
       "enabled": true,
@@ -63,24 +49,6 @@
     }
   ],
   "special_flash": [
-    {
-      "id": "special_uk_ca_apr_oct_2026_slide",
-      "enabled": true,
-      "title": "नवीन समसामयिकी: अप्रैल – अक्टूबर 2026 (64 MCQs)",
-      "title_en": "Latest Current Affairs: Apr – Oct 2026 (64 MCQs)",
-      "message": "राज्य बजट 2026-27 (₹1.11 लाख करोड़), नीति आयोग रैंकिंग, खेल व नई योजनाओं पर आधारित 64 नए प्रश्न लाइव। 360° संपूर्ण व्याख्या के साथ तैयार करें!",
-      "message_en": "64 New verified MCQs covering Budget 2026-27 (₹1.11 Lakh Cr), NITI Aayog ranking, sports & appointments with 360° explanations now live!",
-      "type": "special",
-      "tag": "🔥 समसामयिकी 2026",
-      "tag_en": "🔥 Current Affairs",
-      "exam_date": "2026",
-      "action_label": "अभी पढ़ें ➔",
-      "action_label_en": "Read Now ➔",
-      "action_route": "current_affairs",
-      "total_questions": 64,
-      "duration_minutes": 60,
-      "is_vip": false
-    },
     {
       "id": "special_hc_clerk_mock_slide",
       "enabled": true,
@@ -151,11 +119,11 @@
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 16018,
+    "total_questions": 16500,
     "files": {
       "agriculture_questions.json": 172,
       "computer_questions.json": 273,
-      "current_affairs_questions.json": 2372,
+      "current_affairs_questions.json": 2400,
       "economics_questions.json": 225,
       "environment_questions.json": 182,
       "geography_questions.json": 332,
@@ -168,5 +136,5 @@
       "uttarakhand_questions.json": 6816
     }
   },
-  "total_questions": 16018
+  "total_questions": 16500
 }
