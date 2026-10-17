@@ -67374,6 +67374,1862 @@
         ],
         "explanation_en": "Mission LiFE is an India-proposed global movement for sustainable lifestyles, highlighted also at COP-30. It links implementation of the Paris Agreement to everyday behaviour."
       }
+    },
+    {
+      "question": "अप्रैल 2026 में उत्तराखंड में 19-सीटर जल विमान (Seaplane) का सफल ट्रायल सबसे पहले किस स्थान पर किया गया?",
+      "options": [
+        "टिहरी झील",
+        "गंगा बैराज, ऋषिकेश",
+        "नैनी झील, नैनीताल",
+        "आसन बैराज, देहरादून"
+      ],
+      "correctIndex": 1,
+      "explanation": "ऋषिकेश के गंगा बैराज के बाद टिहरी झील में भी सी-प्लेन की वाटर लैंडिंग और टेक-ऑफ का सफल परीक्षण किया गया।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड इंफ्रास्ट्रक्चर व विमानन समसामयिकी",
+      "uuid": "d1ea73a6-0d60-447c-89ce-bbee00be6ad9",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "In April 2026, where was the successful trial of the 19-seater Seaplane conducted first in Uttarakhand?",
+        "options_en": [
+          "Tehri Lake",
+          "Ganga Barrage, Rishikesh",
+          "Naini Lake, Nainital",
+          "Asan Barrage, Dehradun"
+        ],
+        "explanation_en": "After Ganga Barrage in Rishikesh, a successful water landing and take-off trial was also conducted at Tehri Lake."
+      }
+    },
+    {
+      "question": "देहरादून में आयोजित डिजिटल समिट (अप्रैल 2026) के दौरान चारधाम यात्रा एवं हाईवे सुरक्षा निगरानी के लिए कौन-सा अत्याधुनिक एआई सि स्टम लॉन्च किया गया?",
+      "options": [
+        "दृष्टि एआई",
+        "रक्षक एआई",
+        "नैना एआई",
+        "कवच एआई"
+      ],
+      "correctIndex": 2,
+      "explanation": "नैना एआई रियल-टाइम मॉनिटरिंग के जरिए संदिग्ध गतिविधियों की पहचान और हाईवे दुर्घटनाओं पर तुरंत अलर्ट भेजने में सक्षम है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विज्ञान, प्रौद्योगिकी व नवाचार",
+      "uuid": "1be8b878-c704-4ee7-bc52-6456fa694f31",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which advanced AI system was launched during the Digital Summit in Dehradun (April 2026) for Char Dham Yatra and highway security monitoring?",
+        "options_en": [
+          "Drishti AI",
+          "Rakshak AI",
+          "Naina AI",
+          "Kavach AI"
+        ],
+        "explanation_en": "Naina AI enables real-time monitoring to detect suspicious activities and send instant highway accident alerts."
+      }
+    },
+    {
+      "question": "अप्रैल 2026 के एक वैज्ञानिक अध्ययन के अनुसार उत्तराखंड के किस नदी बेसि न में 219 अत्यधिक अस्थिर लटकते हुए ग्लेशियरों (Hanging Glaciers) की पहचान की गई है?",
+      "options": [
+        "भागी रथी बेसि न",
+        "काली नदी बेसि न",
+        "अलकनंदा बेसि न",
+        "टोंस नदी बेसि न"
+      ],
+      "correctIndex": 2,
+      "explanation": "ग्लोबल वार्मिंग के कारण इन 219 हैंगिं ग ग्लेशियरों से हिमस्खलन और ग्लेशियर लेक आउटबर्स्ट फ्लड (GLOF) का खतरा बताया गया है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड आपदा प्रबंधन, विज्ञान व भूगोल",
+      "uuid": "9ad094fa-b864-4b0d-a1df-1fd21be9f28f",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "According to an April 2026 scientific study, in which river basin of Uttarakhand have 219 highly unstable hanging glaciers been identified?",
+        "options_en": [
+          "Bhagirathi Basin",
+          "Kali River Basin",
+          "Alaknanda Basin",
+          "Tons River Basin"
+        ],
+        "explanation_en": "Due to global warming, these 219 hanging glaciers pose risks of avalanches and Glacial Lake Outburst Floods."
+      }
+    },
+    {
+      "question": "14 अप्रैल 2026 को प्रधानमंत्री नरेंद्र मो दी द्वारा टिहरी पंप्ड स्टोरेज प्लांट की 250 मेगा वा ट की नई यूनिट के शुभारंभ के बाद टिहरी पंप्ड स्टोरेज परियोजना की कुल क्षमता कितनी हो गई है?",
+      "options": [
+        "750 मेगा वा ट",
+        "1000 मेगा वा ट",
+        "1400 मेगा वा ट",
+        "2000 मेगा वा ट"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसके सा थ ही पूरे टिहरी हाइड्रो पावर कॉम्प्लेक्स (टिहरी डैम 1000 MW + पंप्ड स्टोरेज 1000 MW + कोटेश्वर डैम 400 MW) की कुल क्षमता 2400 मेगा वा ट हो गई है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड अर्थव्यवस्था, बजट व निवेश नीतियां",
+      "uuid": "27e94f04-fd4a-4a0b-a6bd-e08fb727653c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "After the inauguration of a new 250 MW unit of the Tehri Pumped Storage Plant on 14 April 2026, what is the total capacity of the Tehri Pumped Storage Project?",
+        "options_en": [
+          "750 MW",
+          "1000 MW",
+          "1400 MW",
+          "2000 MW"
+        ],
+        "explanation_en": "Total capacity of the entire Tehri Hydro Power Complex has reached 2400 MW."
+      }
+    },
+    {
+      "question": "पारिस्थितिकी पर्यटन को बढ़ावा देने के लिए उत्तराखंड के नंधौ र वन्यजीव अभयारण्य के चोरगलिया और ककराली द्वारों पर किस नई सुविधा का विकास किया गया है?",
+      "options": [
+        "ग्लास स्काईवॉक",
+        "बटरफ्लाई सफारी पार्क",
+        "जैव विविधता गैलरी",
+        "नाइट सफारी जोन"
+      ],
+      "correctIndex": 2,
+      "explanation": "वर्ष 2012 में अधिसूचित नंधौ र वन्यजीव अभयारण्य में 37 बाघ हैं तथा इस गैलरी में ऐतिहासिक नंधौ र ट्राम प्रणाली का प्रदर्शन भी है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "72f26d78-1b7e-435c-847d-6f77d1337518",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which new facility has been developed at the Chorgaliya and Kakrali gates of Nandhaur Wildlife Sanctuary to promote eco-tourism?",
+        "options_en": [
+          "Glass Skywalk",
+          "Butterfly Safari Park",
+          "Biodiversity Gallery",
+          "Night Safari Zone"
+        ],
+        "explanation_en": "Notified in 2012, Nandhaur has 37 tigers and the gallery showcases the historic Nandhaur tram system."
+      }
+    },
+    {
+      "question": "25वीं ऑल इंडि या पुलि स वाटर स्पोर्ट्स क्लस्टर चैम्पियनशिप (अप्रैल 2026) की मेजबानी उत्तराखंड के किस स्थान पर की गई?",
+      "options": [
+        "कोटी कॉलोनी , टिहरी गढ़वाल",
+        "भीमताल, नैनीताल",
+        "गूलरभोज, ऊधम सिंह नगर",
+        "सातताल, नैनीताल"
+      ],
+      "correctIndex": 0,
+      "explanation": "मुख्यमंत्री पुष्कर सिंह धा मी ने टिहरी झील के वाटर स्पोर्ट्स एंड एडवेंचर इंस्टी ट्यूट में इसका वर्चुअल शुभारंभ किया ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "e5cdd0d6-9ba9-4c0d-a606-09eda965ef08",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where in Uttarakhand was the 25th All India Police Water Sports Cluster Championship (April 2026) hosted?",
+        "options_en": [
+          "Koti Colony, Tehri Garhwal",
+          "Bhimtal, Nainital",
+          "Gularbhoj, Udham Singh Nagar",
+          "Sattal, Nainital"
+        ],
+        "explanation_en": "CM Pushkar Singh Dhami virtually inaugurated it at the Water Sports & Adventure Institute, Tehri."
+      }
+    },
+    {
+      "question": "अप्रैल 2026 में उत्तराखंड पुलि स को उत्कृष्ट सेवा , का नून-व्यवस्था और आपदा प्रबंधन के लिए किस सर्वो च्च राष्ट्रीय सम्मान से सम्मानित किया गया?",
+      "options": [
+        "प्रधानमंत्री पुलि स पदक",
+        "राष्ट्रपति पुलि स कलर सम्मान",
+        "राष्ट्रीय वीरता पुरस्कार",
+        "गृह मंत्रालय उत्कृष्टता ट्रॉ फी"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह किसी भी पुलि स बल को दिया जा ने वा ला सर्वो च्च राष्ट्रीय सम्मान है; वर्तमान में उत्तराखंड के पुलि स महानिदेशक (DGP) दीपम सेठ हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, नियुक्तियां व संवैधानिक पद",
+      "uuid": "f0280bce-1574-48f3-937e-40e5e7b48c75",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which highest national honour was conferred upon the Uttarakhand Police in April 2026 for exemplary service, law & order, and disaster management?",
+        "options_en": [
+          "Prime Minister's Police Medal",
+          "President's Police Colour Award",
+          "National Gallantry Award",
+          "MHA Excellence Trophy"
+        ],
+        "explanation_en": "It is the highest national honour awarded to a police force; current Uttarakhand DGP is Deepam Seth."
+      }
+    },
+    {
+      "question": "उत्तराखंड की लेखिकारूपा ली वशि ष्ठ को उनकी किस प्रसि द्ध पुस्तक के लिए 'भारत वि भूषण राष्ट्रीय सम्मान 2026' से सम्मानित किया गया?",
+      "options": [
+        "देवभूमि की लोककथा एं",
+        "हिमा लय की पुकार",
+        "लाखामंडल",
+        "यमुना घाटी की विरासत"
+      ],
+      "correctIndex": 2,
+      "explanation": "उन्हें इस पुस्तक के लिए पूर्व में देवभूमि राष्ट्रीय रत्न सम्मान भी मि ल चुका है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "6339b3a2-d891-45a6-b39c-f7bd6de98b51",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "For which famous book was Uttarakhand author Rupali Vashishth honoured with the 'Bharat Vibhushan National Award 2026'?",
+        "options_en": [
+          "Folktales of Devbhoomi",
+          "Call of the Himalayas",
+          "Lakhamandal",
+          "Heritage of Yamuna Valley"
+        ],
+        "explanation_en": "She had earlier received the Devbhoomi Rashtriya Ratna Samman for this book."
+      }
+    },
+    {
+      "question": "भारत–नेपा ल सीमा पर उत्तराखंड के किस क्षेत्र में व्यापार और आवागमन को सुगम बनाने हेतु अत्याधुनिक लैंड पोर्ट (Land Port) का निर्माण किया जा रहा है?",
+      "options": [
+        "धारचूला",
+        "झूलाघाट",
+        "बनबसा , चंपावत",
+        "टनकपुर"
+      ],
+      "correctIndex": 2,
+      "explanation": "यह लैंड पोर्ट लैंड पोर्ट्स अथॉ रि टी ऑफ इंडि या और उत्तराखंड सरकार के संयुक्त सहयोग से बनबसा (खुदमी क्षेत्र) में बनाया जा रहा है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड अर्थव्यवस्था, बजट व निवेश नीतियां",
+      "uuid": "db070c65-8f10-41ee-9cb8-25c5b5d55671",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "In which area of Uttarakhand on the India–Nepal border is a state-of-the-art Land Port being constructed to facilitate trade and movement?",
+        "options_en": [
+          "Dharchula",
+          "Jhulaghat",
+          "Banbasa, Champawat",
+          "Tanakpur"
+        ],
+        "explanation_en": "Built jointly by the Land Ports Authority of India and the Uttarakhand Government at Banbasa."
+      }
+    },
+    {
+      "question": "उत्तराखंड में लंबित राजस्व मामलों के त्वरित निपटारे हेतु 'आपके द्वार न्या य' अवधारणा के तहत सभी 13 जिलों में किस पहल का उद्घाटन किया गया?",
+      "options": [
+        "मुख्यमंत्री राजस्व समाधान शिविर",
+        "राज्य स्तरी य रेवेन्यू लोक अदालत",
+        "डिजिटल भूमि पंचायत",
+        "ग्राम न्या य चौपाल"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह पहल सभी 13 जिलों के 210 स्थानों पर एक सा थ आयोजित की गई तथा इसमें आरसी सी एमएस (RCCMS) पोर्टल का उपयोग किया जा रहा है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विधि, विधेयक व प्रशासनिक सुधार",
+      "uuid": "67a87268-3ce0-4148-89a6-381c64f319bd",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which initiative was inaugurated across all 13 districts under the 'Justice at Your Doorstep' concept for speedy disposal of pending revenue cases in Uttarakhand?",
+        "options_en": [
+          "CM Revenue Samadhan Camp",
+          "State-Level Revenue Lok Adalat",
+          "Digital Land Panchayat",
+          "Gram Nyay Chaupal"
+        ],
+        "explanation_en": "Organized across 210 locations in all 13 districts utilizing the RCCMS portal."
+      }
+    },
+    {
+      "question": "24 मई 2026 को प्रथम 'रस्किन बॉन्ड महोत्सव' (First Ruskin Bond Festival) का आयोजन कहां किया गया?",
+      "options": [
+        "मसूरी लाइब्रेरी बाजार",
+        "लेखक गांव, थानो , देहरादून",
+        "नैनीताल क्लब",
+        "लैंसडाउन, पौड़ी"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह महोत्सव प्रसि द्ध लेखक रस्किन बॉन्ड के साहित्यिक योगदान के सम्मान में देहरादून के लेखक गांव में पहली बा र आयोजित हुआ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "ba3f3647-8c3c-42d5-824b-a589b4ae562c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where was the first 'Ruskin Bond Festival' organized on 24 May 2026?",
+        "options_en": [
+          "Mussoorie Library Bazaar",
+          "Lekhak Gaon, Thano, Dehradun",
+          "Nainital Club",
+          "Lansdowne, Pauri"
+        ],
+        "explanation_en": "Organized for the first time at Lekhak Gaon, Dehradun to honour author Ruskin Bond."
+      }
+    },
+    {
+      "question": "31 मई 2026 को चमोली की नीति घाटीमें आयोजित 'नीति एक्सट्रीम अल्ट्रा रन' (Niti Extreme Ultra Run) का आधि कारि क शुभंकर (Mascot) क्या था?",
+      "options": [
+        "मोनाल पक्षी",
+        "क्यालू हिम तेंदुआ",
+        "कस्तूरी मृग",
+        "हिमा लयन भालू"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसका उद्देश्य सीमावर्ती नीति घाटीमें साहसिक पर्यटन, होम-स्टे और स्थानी य रोजगार को बढ़ावा देना है। (Aimed at promoting adventure tourism, homestays, and local employment in border Niti Valley.) भाग 2: जून – जुला ई 2026 के प्रमुख समसा मयि क प्रश्न",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "5da4c637-0a31-41f2-8271-2fce5ea0df15",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What was the official mascot of the 'Niti Extreme Ultra Run' held on 31 May 2026 in Niti Valley, Chamoli?",
+        "options_en": [
+          "Monal Bird",
+          "Kyalu Snow Leopard",
+          "Musk Deer",
+          "Himalayan Bear"
+        ],
+        "explanation_en": "Part 2: June – July 2026 Current Affairs"
+      }
+    },
+    {
+      "question": "'उल्लास – नव भारत साक्षरता कार्यक्रम' (ULLAS) के अंतर्गत 98.7% साक्षरता दर के सा थ पूर्ण साक्षर घोषित होने वा ला उत्तराखंड देश का कौन-सा राज्य बना है?",
+      "options": [
+        "चौथा",
+        "पांचवां",
+        "छठा",
+        "सातवां"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखंड से पहले मिजोरम, गोवा , त्रिपुरा , हिमा चल प्रदेश और सिक्किम पूर्ण साक्षर राज्य घोषित हो चुके हैं (मानक: 95%+ साक्षरता )।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड युवा मामले, शिक्षा व राष्ट्रीय पहल",
+      "uuid": "1ae7e837-a030-4d31-9df7-be49f02403da",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "With a 98.7% literacy rate under the 'ULLAS – Nav Bharat Saksharta Karyakram', Uttarakhand became which number state in India to be declared fully literate?",
+        "options_en": [
+          "Fourth",
+          "Fifth",
+          "Sixth",
+          "Seventh"
+        ],
+        "explanation_en": "Preceded by Mizoram, Goa, Tripura, Himachal Pradesh, and Sikkim; benchmark is 95%+ literacy."
+      }
+    },
+    {
+      "question": "भारत ने पहली बा र उत्तराखंड (देहरादून) की ताजी लीची की खेप यूरोपीय बाजार के किस देश को निर्यात की है?",
+      "options": [
+        "फ्रांस",
+        "इटली",
+        "जर्मनी",
+        "स्पेन"
+      ],
+      "correctIndex": 1,
+      "explanation": "एपी डा (APEDA) के सहयोग से 1 मीट्रिक टन लीची (प्रमुख किस्में: रोज सेंटेड, कलकतिया , बेदाना ) देहरादून से इटली भेजी गई।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड अर्थव्यवस्था, बजट व निवेश नीतियां",
+      "uuid": "facf1e01-7c13-4591-bb78-e710a86b6139",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "To which European country did India export its first-ever consignment of fresh litchis from Uttarakhand (Dehradun)?",
+        "options_en": [
+          "France",
+          "Italy",
+          "Germany",
+          "Spain"
+        ],
+        "explanation_en": "Supported by APEDA, 1 metric ton of fresh litchis was exported from Dehradun to Italy."
+      }
+    },
+    {
+      "question": "उज्बेकिस्ता न के ताशकंद में आयोजित का शा रग्बी 2026 चैम्पियनशिप में 'वि मेंस प्लेयर ऑफ द टूर्नामेंट' का खिताब जीतने वा ली महक चौहान का संबंध किस जिले से है?",
+      "options": [
+        "चमोली",
+        "पिथौरागढ़",
+        "उत्तरकाशी",
+        "देहरादून"
+      ],
+      "correctIndex": 2,
+      "explanation": "मोरी ब्लॉक (भद्रासू गांव, उत्तरकाशी ) की महक चौहान भारतीय सीनियर महिला रग्बी टीम में खेलने वा ली उत्तराखंड की पहली खिलाड़ी बनीं ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "244b2d2e-3bec-4167-8379-7557efaabcca",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Mahak Chauhan, who won the 'Women's Player of the Tournament' title at the 2026 Rugby Championship in Tashkent, Uzbekistan, belongs to which district?",
+        "options_en": [
+          "Chamoli",
+          "Pithoragarh",
+          "Uttarkashi",
+          "Dehradun"
+        ],
+        "explanation_en": "From Mori block, Uttarkashi, she became the first player from Uttarakhand in the Indian senior women's rugby team."
+      }
+    },
+    {
+      "question": "केदारनाथ धा म में प्लास्टिक एवं सूखे कूड़े को श्रद्धालुओं द्वारा विशेष बैगों में गौरीकुंड तक वापस ला ने की नई नीति का क्या ना म है?",
+      "options": [
+        "ग्रीन केदा र नीति",
+        "ईको -वापसी यो जना",
+        "कैरी मी बैक पॉलिसी",
+        "स्वच्छ हिमा लय पहल"
+      ],
+      "correctIndex": 2,
+      "explanation": "यह पहल रुद्रप्रयाग जिला प्रशासन और नगर पंचायत केदारनाथ द्वारा हीलिंग हिमा लया ज व सुलभ इंटरनेशनल के सहयोग से शुरू की गई।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यावरण, पारिस्थितिकी व अर्थव्यवस्था",
+      "uuid": "efb44fc1-b80c-41cb-b3b0-98ed705a88a2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What is the name of the new policy at Kedarnath Dham encouraging pilgrims to bring plastic and dry waste back to Gaurikund in special bags?",
+        "options_en": [
+          "Green Kedar Policy",
+          "Eco-Return Scheme",
+          "Carry Me Back Policy",
+          "Swachh Himalaya Initiative"
+        ],
+        "explanation_en": "Implemented by Rudraprayag administration and Nagar Panchayat Kedarnath with Healing Himalayas and Sulabh International."
+      }
+    },
+    {
+      "question": "उत्तराखंड के जोशीमठ–मलारी क्षेत्र में 14,000 फी ट से अधि क ऊंचाई पर भारतीय सेना हेतु सफल परीक्षण किया गया 'वायु अस्त्र-1' (Vayu Astra-1) क्या है?",
+      "options": [
+        "एंटी-टैंक गा इडेड मि सा इल",
+        "आत्मघाती ड्रोन / लोइटरिंग म्यूनिशन",
+        "रडार चेतावनी प्रणाली",
+        "हाई-एल्टीट्यूड हेलीकॉप्टर"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसकी मारक क्षमता 100 किमी है और यह शून्य से नीचे के तापमान में 90 मिनट से अधि क उड़ान भर सकता है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "81068d6d-2933-4d48-8e41-cc28983e45de",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What is 'Vayu Astra-1', which was successfully tested for the Indian Army at an altitude above 14,000 feet in the Joshimath–Malari sector of Uttarakhand?",
+        "options_en": [
+          "Anti-Tank Guided Missile",
+          "Suicide Drone / Loitering Munition",
+          "Radar Warning System",
+          "High-Altitude Helicopter"
+        ],
+        "explanation_en": "It has a strike range of 100 km and can fly for over 90 minutes in sub-zero temperatures."
+      }
+    },
+    {
+      "question": "पर्यावरण संरक्षण के क्षेत्र में 'गौरा देवी सम्मान 2025-26' से सम्मानित पर्यावरण प्रेमी शंकर सिंह बिष्ट किस जनपद के निवासी हैं?",
+      "options": [
+        "चमोली",
+        "पौड़ी गढ़वाल",
+        "बागेश्वर",
+        "अल्मोड़ा"
+      ],
+      "correctIndex": 3,
+      "explanation": "चौखुटिया (अल्मोड़ा ) निवासी शंकर सिंह बिष्ट ने 50+ पारंपरिक नौलों /धारों का पुनर्जीवन और 2000+ चाल-खाल का निर्माण कराया है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यावरण, पारिस्थितिकी व अर्थव्यवस्था",
+      "uuid": "f288ebb2-360b-431e-89f1-7f663adc74a2",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Environmentalist Shankar Singh Bisht, honoured with the 'Gaura Devi Samman 2025-26' for environmental conservation, belongs to which district?",
+        "options_en": [
+          "Chamoli",
+          "Pauri Garhwal",
+          "Bageshwar",
+          "Almora"
+        ],
+        "explanation_en": "A resident of Chaukhutiya, Almora, he revived 50+ traditional springs and built over 2,000 water conservation trenches."
+      }
+    },
+    {
+      "question": "जुला ई 2026 में उत्तराखंड के किस क्षेत्र में 'सफेद सोना ' कहे जा ने वा ले उच्च गुणवत्ता के सिलिका सैंड (Silica Sand / White Gold) के विशाल भंडार मिले हैं?",
+      "options": [
+        "कांडा , बागेश्वर",
+        "पुरोला –मोरी क्षेत्र, उत्तरकाशी",
+        "बेरीनाग, पिथौरागढ़",
+        "चकराता , देहरादून"
+      ],
+      "correctIndex": 1,
+      "explanation": "लगभग 200 हेक्टेयर क्षेत्र में मिले इस सिलिकॉन डाइऑक्साइड खनिज का उपयोग सेमीकंडक्टर चिप, सोलर पैनल और ऑप्टिकल फाइबर में होता है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "2530871b-e755-4d0e-a855-3630ebaa09bd",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "In July 2026, massive reserves of high-grade Silica Sand (known as 'White Gold') were discovered in which region of Uttarakhand?",
+        "options_en": [
+          "Kanda, Bageshwar",
+          "Purola–Mori Region, Uttarkashi",
+          "Berinag, Pithoragarh",
+          "Chakrata, Dehradun"
+        ],
+        "explanation_en": "Spread over 200 hectares, this silicon dioxide mineral is vital for semiconductor chips, solar panels, and optical fibres."
+      }
+    },
+    {
+      "question": "जुला ई 2026 में उत्तराखंड लोक सेवा आयोग (UKPSC) के 12वें अध्यक्ष के रूप में किसे नि युक्त किया गया है?",
+      "options": [
+        "प्रो . दी वा न सिंह रावत",
+        "सेवानिवृत्त लेफ्टिनेंट जनरल गजेंद्र जोशी",
+        "डॉ . रवि दत्त गोदियाल",
+        "प्रो . अमरी श महाजन"
+      ],
+      "correctIndex": 1,
+      "explanation": "वे उत्तराखंड लोक सेवा आयोग (स्थापना : 2001, प्रथम अध्यक्ष: एन.पी . नवानी ) के 12वें अध्यक्ष बने हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, नियुक्तियां व संवैधानिक पद",
+      "uuid": "84180ffc-5f36-476b-a47d-eae5e46d13dc",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who was appointed as the 12th Chairman of the Uttarakhand Public Service Commission (UKPSC) in July 2026?",
+        "options_en": [
+          "Prof. Diwan Singh Rawat",
+          "Lt. Gen. Gajendra Joshi [Retd.]",
+          "Dr. Ravi Dutt Godiyal",
+          "Prof. Amrish Mahajan"
+        ],
+        "explanation_en": "He became the 12th Chairman of UKPSC, which was established in 2001 with N.P. Nawani as its first Chairman."
+      }
+    },
+    {
+      "question": "राष्ट्रीय सुरक्षा के क्षेत्र में उल्लेखनीय योगदान हेतु उत्तराखंड मूल के किस व्यक्तित्व को प्रतिष्ठित 'लोकमा न्य बाल गंगाधर तिलक राष्ट्रीय पुरस्कार 2026' से सम्मानित किया गया?",
+      "options": [
+        "जनरल अनिल चौहान",
+        "अजीत डोभाल",
+        "प्रसून जोशी",
+        "लेफ्टिनेंट जनरल गुरमीत सिंह"
+      ],
+      "correctIndex": 1,
+      "explanation": "राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल का जन्म पौड़ी गढ़वाल के घीड़ी गांव (बनेलस्यूं पट्टी ) में हुआ था।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, नियुक्तियां व संवैधानिक पद",
+      "uuid": "77294fb6-9629-40a7-840e-7123098c987c",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which personality from Uttarakhand was honoured with the prestigious 'Lokmanya Bal Gangadhar Tilak National Award 2026' for contributions to national security?",
+        "options_en": [
+          "Gen. Anil Chauhan",
+          "Ajit Doval",
+          "Prasoon Joshi",
+          "Lt. Gen. Gurmit Singh"
+        ],
+        "explanation_en": "National Security Advisor Ajit Doval was born in Ghiri village, Pauri Garhwal."
+      }
+    },
+    {
+      "question": "रोमानिया में आयोजित 'गोल्डन बेल्ट इंटरनेशनल बॉक्सिंग चैम्पियनशिप' (जुला ई 2026) में 54 किग्रा भार वर्ग में स्वर्ण पदक जीतने वा ली आरती धारियाल किस जिले की हैं?",
+      "options": [
+        "अल्मोड़ा",
+        "चंपावत",
+        "पिथौरागढ़",
+        "नैनीताल"
+      ],
+      "correctIndex": 2,
+      "explanation": "पिथौरागढ़ की आरती धारियाल ने फा इनल में रोमानिया की बॉ क्सर कार्लालोरा को हराकर स्वर्ण पदक जीता ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "3af9afdc-f358-4950-8cb0-c405267f3a06",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Aarti Dhariyal, who won the gold medal in the 54 kg category at the 'Golden Belt International Boxing Championship' in Romania (July 2026), belongs to which district?",
+        "options_en": [
+          "Almora",
+          "Champawat",
+          "Pithoragarh",
+          "Nainital"
+        ],
+        "explanation_en": "Aarti Dhariyal of Pithoragarh defeated Romania's Carla Lora in the final to clinch gold."
+      }
+    },
+    {
+      "question": "ओडिशा में आयोजित 65वीं नेशनल इंटर-स्टेट सीनियर एथलेटि क्स चैम्पियनशिप (जुला ई 2026) में 3000 मी टर स्टीपलचेज में स्वर्ण पदक जी तकर एशियन गेम्स हेतु किसने क्वालीफाई किया ?",
+      "options": [
+        "मानसी नेगी",
+        "अंकिता ध्यानी",
+        "सूरज पंवार",
+        "सोनिया भट्ट"
+      ],
+      "correctIndex": 1,
+      "explanation": "पौड़ी गढ़वाल (मरोड़ा गांव) की अंकिता ध्यानी ने 3000 मी टर स्टीपलचेज में स्वर्ण और 1500 मी टर दौड़ में रजत पदक जीता ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "d2953f0c-6efe-418f-802b-f94e3634eed5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who won the gold medal in the 3000m steeplechase at the 65th National Inter-State Senior Athletics Championship in Odisha (July 2026) and qualified for the Asian Games?",
+        "options_en": [
+          "Mansi Negi",
+          "Ankita Dhyani",
+          "Suraj Panwar",
+          "Sonia Bhatt"
+        ],
+        "explanation_en": "Ankita Dhyani of Pauri Garhwal won gold in 3000m steeplechase and silver in 1500m race."
+      }
+    },
+    {
+      "question": "6 जुला ई 2026 को सुदर्शन अग्रवाल कारिकॉर्ड तोड़कर उत्तराखंड में सर्वाधिक समय तक पद पर रहने वा ले राज्यपाल कौन बने हैं?",
+      "options": [
+        "बेबी रानी मौर्य",
+        "कृष्ण कांत पॉल",
+        "लेफ्टिनेंट जनरल गुरमीत सिंह",
+        "मार्गरेट अल्वा"
+      ],
+      "correctIndex": 2,
+      "explanation": "आठवें राज्यपाल लेफ्टिनेंट जनरल गुरमीत सिंह ने तीसरे राज्यपाल सुदर्शन अग्रवाल (1,755 दि न) का कार्यकाल रिकॉर्ड तोड़ा । (8th Governor Lt. Gen. Gurmit Singh broke the 1,755-day tenure record of 3rd Governor Sudarshan Agarwal.) भाग 3: अगस्त 2026 के प्रमुख समसा मयि क प्रश्न",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, नियुक्तियां व संवैधानिक पद",
+      "uuid": "63f5c1ce-d759-4da1-9baa-08ac5538212c",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who became the longest-serving Governor of Uttarakhand on 6 July 2026, surpassing the record of Sudarshan Agarwal?",
+        "options_en": [
+          "Baby Rani Maurya",
+          "Krishan Kant Paul",
+          "Lt. Gen. Gurmit Singh",
+          "Margaret Alva"
+        ],
+        "explanation_en": "Part 3: August 2026 Current Affairs"
+      }
+    },
+    {
+      "question": "अगस्त 2026 में उत्तराखंड पर्यटन विकास परिषद (UTDB) द्वारा किस ट्रैक को 'ट्रैक ऑफ द ईयर 2026' (Trek of the Year 2026) घोषित किया गया है?",
+      "options": [
+        "दयाली सेरा ट्रैक, चमोली",
+        "गुलाबी कांठा ट्रैक, उत्तरकाशी",
+        "पंडाली ट्रैक, रुद्रप्रयाग",
+        "खलिया टॉप ट्रैक, पिथौरागढ़"
+      ],
+      "correctIndex": 0,
+      "explanation": "चमोली स्थि त दयाली सेरा ट्रैक (3,600 मी टर ऊंचाई) को स्थानी य स्तर पर 'तिलिस्मी ट्रैक' भी कहा जा ता है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "51e4f217-a8ce-4a21-81d5-b27b42134b34",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which trek was declared 'Trek of the Year 2026' by the Uttarakhand Tourism Development Board (UTDB) in August 2026?",
+        "options_en": [
+          "Dayali Sera Trek, Chamoli",
+          "Gulabi Kantha Trek, Uttarkashi",
+          "Pandali Trek, Rudraprayag",
+          "Khaliya Top Trek, Pithoragarh"
+        ],
+        "explanation_en": "Located in Chamoli at 3,600m altitude, Dayali Sera Trek is locally known as 'Tilismi Trek'."
+      }
+    },
+    {
+      "question": "वर्ष 2026 के चतुर्थ 'इंद्रमणि बडोनी सम्मान' से किस सुप्रसि द्ध लोक रंगकर्मी और शिक्षाविद को सम्मानित किया गया है?",
+      "options": [
+        "नरेंद्र सिंह नेगी",
+        "विजय जरधारी",
+        "प्रोफेसर डी . आर. पुरोहित / दाताराम पुरोहित",
+        "शिवजनी"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखंड की लोक संस्कृति के संरक्षण हेतु 18 अगस्त 2026 को देहरादून में प्रो . दाताराम पुरोहित को यह सम्मान दिया गया।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "a4aaf1b4-c08a-4515-bfe4-fc711b716359",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which renowned folk theatre artist and educationist was honoured with the 4th 'Indramani Badoni Samman' in 2026?",
+        "options_en": [
+          "Narendra Singh Negi",
+          "Vijay Jardhari",
+          "Prof. D. R. Purohit",
+          "Shivjani"
+        ],
+        "explanation_en": "Awarded on 18 August 2026 in Dehradun for preserving the folk culture of Uttarakhand."
+      }
+    },
+    {
+      "question": "अगस्त 2026 में चमोली जिले के हिमा लयी जंगलों में खोजी गई 'हिमा लयन हैप्पी फेस स्पाइडर' (मकड़ी की नई प्रजाति ) का वैज्ञानिक ना म क्या है?",
+      "options": [
+        "अरानियस गढ़वाली",
+        "थेरिडियन हिमा लयनम",
+        "साल्टिकस केदारनाथी",
+        "लिकोसा अलकनंदा"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसके शरीर पर लाल, काले और सफेद रंग के मुस्कुराते चेहरे जैसे निशान तथा 32 अलग-अलग कलर मॉर्फ्स दर्ज किए गए हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "d4b54f09-2f4c-477e-b495-eaea871e0c3c",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What is the scientific name of the newly discovered 'Himalayan Happy Face Spider' species found in the forests of Chamoli in August 2026?",
+        "options_en": [
+          "Araneus garhwali",
+          "Theridion himalayanum",
+          "Salticus kedarnathi",
+          "Lycosa alaknanda"
+        ],
+        "explanation_en": "It features smiling-face-like patterns in red, black, and white with 32 recorded colour morphs."
+      }
+    },
+    {
+      "question": "अगस्त 2026 में भारतीय कृषि अनुसंधा न परिषद (ICAR-NBAGR) द्वारा राष्ट्रीय स्तर पर पंजीकृत होने वा ली उत्तराखंड की पहली स्वदेशी भेड़ नस्ल कौन-सी बनी है?",
+      "options": [
+        "बद्री",
+        "कोडवर",
+        "भोटिया",
+        "रंवाई"
+      ],
+      "correctIndex": 1,
+      "explanation": "14 अगस्त 2026 को पंजीकृत कोडवर भेड़ मुख्य रूप से पौड़ी गढ़वाल, अल्मोड़ा और चमोली जिलों में पा ई जा ती है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड अर्थव्यवस्था, बजट व निवेश नीतियां",
+      "uuid": "d551cbdb-8155-4743-96a0-dc0f749b8cc6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which breed became Uttarakhand's first indigenous sheep breed to be registered at the national level by ICAR-NBAGR in August 2026?",
+        "options_en": [
+          "Badri",
+          "Kodavar",
+          "Bhotiya",
+          "Rawai"
+        ],
+        "explanation_en": "Registered on 14 August 2026, the Kodavar sheep is mainly found in Pauri Garhwal, Almora, and Chamoli districts."
+      }
+    },
+    {
+      "question": "उत्तराखंड का पहला 'स्पिरिचुअल इकोनॉमिक जोन' (Spiritual Economic Zone) किस स्थान पर स्थापित किया जा रहा है?",
+      "options": [
+        "मुनि की रेती , टिहरी",
+        "बिलकेदार, श्रीनगर, पौड़ी गढ़वाल",
+        "जागेश्वर, अल्मोड़ा",
+        "हर की पौड़ी , हरिद्वार"
+      ],
+      "correctIndex": 1,
+      "explanation": "यूआईआईडी बी (UIIDB) द्वारा बिलकेदार (श्रीनगर) में स्पिरिचुअल इकोनॉमिक जोन और पटवाडांगर (नैनीताल) में इंटीग्रेटेड टूरिज्म सिटी विकसित की जा रही है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "9d6bb413-ff7c-4c61-ade2-682e8aaa9689",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where is Uttarakhand's first 'Spiritual Economic Zone' being established?",
+        "options_en": [
+          "Muni Ki Reti, Tehri",
+          "Bilkedar, Srinagar, Pauri Garhwal",
+          "Jageshwar, Almora",
+          "Har Ki Pauri, Haridwar"
+        ],
+        "explanation_en": "Developed by UIIDB near the Rishikesh–Karnaprayag railway line to boost yoga, Ayurveda, and spiritual tourism."
+      }
+    },
+    {
+      "question": "स्कॉटलैंड के ग्लासगो में आयोजित राष्ट्रमंडल खेल खेल 2026 में पदक जीतने वा ले उत्तराखंड के शुभम जुयाल (रजत) और उन्नति शर्मा (कांस्य) का संबंध क्रमशः किन खेलों से है?",
+      "options": [
+        "बॉक्सिंग और बैडमिंटन",
+        "शॉटपुट और जूडो",
+        "जैवलिन थ्रो और कुश्ती",
+        "तीरंदाजी और ताइक्वांडो"
+      ],
+      "correctIndex": 1,
+      "explanation": "रुड़की के शुभम जुयाल ने शॉटपुट में रजत पदक और देहरादून की उन्नति शर्मा ने जूडो में कांस्य पदक जीता ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "167f1cde-a403-42d9-99b5-9c755c58b3d8",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Uttarakhand's Shubham Juyal (Silver) and Unnati Sharma (Bronze), who won medals at the 2026 Commonwealth Games in Glasgow, are associated with which sports respectively?",
+        "options_en": [
+          "Boxing and Badminton",
+          "Shot Put and Judo",
+          "Javelin Throw and Wrestling",
+          "Archery and Taekwondo"
+        ],
+        "explanation_en": "Shubham Juyal of Roorkee won silver in Shot Put and Unnati Sharma of Dehradun won bronze in Judo."
+      }
+    },
+    {
+      "question": "अगस्त 2026 में उत्तराखंड सरकार द्वारा 'तीलू रौतेली पुरस्कार' की धनराशि ₹51,000 से बढ़ा कर कितनी कर दी गई है?",
+      "options": [
+        "₹61,000",
+        "₹75,000",
+        "₹1,00,000",
+        "₹1,25,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "8 अगस्त 2026 को 13 महिलाएं को तीलू रौतेली पुरस्कार (₹75,000) और 35 आंगनबाड़ी कार्यकर्त्रि यों को राज्य स्तरी य पुरस्कार (₹61,000) प्रदा न किए गए।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड सरकारी योजनाएं व बाल कल्याण",
+      "uuid": "ac1b548e-d578-47ed-a7c4-84a5b9ea0132",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "In August 2026, the Uttarakhand Government increased the prize money of the 'Tilu Rauteli Award' from ₹51,000 to what amount?",
+        "options_en": [
+          "₹61,000",
+          "₹75,000",
+          "₹1,00,000",
+          "₹1,25,000"
+        ],
+        "explanation_en": "Awarded to 13 women on 8 August 2026; Anganwadi worker award money was also raised from ₹51,000 to ₹61,000."
+      }
+    },
+    {
+      "question": "स्वतंत्रता दिवस 2026 पर राष्ट्रपति भवन के 'एट होम रिसेप्शन' हेतु देश भर से चुने गए 5 युवा आपदा मित्र कैडेटों में उत्तराखंड का प्रतिनिधित्व किसने किया ?",
+      "options": [
+        "अंकिता ध्यानी",
+        "महक चौहान",
+        "गर्विता भाकुनी",
+        "ऋद्धिमा नेगी"
+      ],
+      "correctIndex": 2,
+      "explanation": "अल्मोड़ा जिले की एनसी सी कैडेट गर्विता भाकुनी को आपदा प्रबंधन में उत्कृष्ट प्रदर्शन के लिए चुना गया।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड युवा मामले, शिक्षा व राष्ट्रीय पहल",
+      "uuid": "aeb5eaf1-4b17-44d2-b184-d10fe7d78569",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who represented Uttarakhand among the 5 young Aapda Mitra cadets selected nationwide for the President's 'At Home Reception' on Independence Day 2026?",
+        "options_en": [
+          "Ankita Dhyani",
+          "Mahak Chauhan",
+          "Garvita Bhakuni",
+          "Riddhima Negi"
+        ],
+        "explanation_en": "NCC Cadet Garvita Bhakuni of Almora district was selected for excellence in disaster management training."
+      }
+    },
+    {
+      "question": "अल्मोड़ा के काफलीखान निवासी रवि टम्टा द्वारा विकसित स्वदेशी इलेक्ट्रिक फ्लाइंग कार (उड़ान वा हन) के प्रोटोटाइप को क्या ना म दिया गया है?",
+      "options": [
+        "गरुड़ एक्स-1",
+        "ऐरावत स्काई",
+        "हैपिडा स्काइनेक्स",
+        "हिम-विमान"
+      ],
+      "correctIndex": 2,
+      "explanation": "रवि टम्टा द्वारा विकसित इस स्वदेशी इलेक्ट्रिक फ्लाइंग कार प्रोटोटाइप का ना म हैपिडा स्काइनेक्स रखा गया है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विज्ञान, प्रौद्योगिकी व नवाचार",
+      "uuid": "2b795ee6-c034-4b09-971e-d468c2be1249",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What name has been given to the indigenous electric flying car prototype developed by Ravi Tamta of Kaflikhan, Almora?",
+        "options_en": [
+          "Garuda X-1",
+          "Airavat Sky",
+          "Hapida Skynex",
+          "Him-Viman"
+        ],
+        "explanation_en": "Developed by Ravi Tamta of Almora, the indigenous electric flying car prototype is named Hapida Skynex."
+      }
+    },
+    {
+      "question": "लगभग 100 से 150 करो ड़ वर्ष पुराने 'स्ट्रोमेटोलाइट्स' (Stromatolites) के जीवाश्म संकेत मिलने के कारण चर्चा में रही तड़ागताल झील किस जनपद में स्थि त है?",
+      "options": [
+        "अल्मोड़ा",
+        "बागेश्वर",
+        "नैनीताल",
+        "चमोली"
+      ],
+      "correctIndex": 0,
+      "explanation": "चौखुटिया विकासखंड (अल्मोड़ा ) स्थि त तड़ागताल का भूगर्भीय सर्वेक्षण वाडिया हिमा लय भूविज्ञान संस्थान, देहरादून द्वारा किया गया।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "16f2497c-3aa9-4f25-bd9d-23279d610f5a",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Tadagtal Lake, recently in the news after geological surveys indicated 1 to 1.5 billion-year-old Stromatolite fossils, is located in which district?",
+        "options_en": [
+          "Almora",
+          "Bageshwar",
+          "Nainital",
+          "Chamoli"
+        ],
+        "explanation_en": "Surveyed by the Wadia Institute of Himalayan Geology, Tadagtal is in Chaukhutiya block, Almora."
+      }
+    },
+    {
+      "question": "उत्तराखंड की नई 'राज्य सहकारी नीति 2026' (State Cooperative Policy 2026) को किस वर्षतक ती न चरणों में ला गू किया जा एगा ?",
+      "options": [
+        "2030 तक",
+        "2032 तक",
+        "2036 तक",
+        "2047 तक"
+      ],
+      "correctIndex": 2,
+      "explanation": "'सहकार से समृद्धि ' की भावना पर आधा रि त यह नीति 2026 से 2036 (10 वर्ष) के दौरान पैक्स (PACS) को बहुउद्देशीय ग्रामी ण केंद्र बना एगी ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड शासन, नीतियां व कैबिनेट निर्णय",
+      "uuid": "402472b0-083f-42bc-aa5f-5e0e6f40255e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Up to which year will Uttarakhand's new 'State Cooperative Policy 2026' be implemented in three phases?",
+        "options_en": [
+          "Up to 2030",
+          "Up to 2032",
+          "Up to 2036",
+          "Up to 2047"
+        ],
+        "explanation_en": "Spanning 2026–2036, it transforms Primary Agricultural Credit Societies into multipurpose rural economic centres."
+      }
+    },
+    {
+      "question": "2027 के हरिद्वार कुंभ मेले के दौरान मानव-वन्यजीव संघर्ष को रोकने के लिए उत्तराखंड वन वि भाग द्वारा भारतीय वन्यजीव संस्थान (WII) के सहयोग से किसे रेडियो कॉलर किन्हें लगाए जाएंगे?",
+      "options": [
+        "गुलदारों को",
+        "झुंड का नेतृत्व करने वा ले हाथियों को",
+        "बाघों को",
+        "हिमा लयी भा लुओं को"
+      ],
+      "correctIndex": 1,
+      "explanation": "हाथियों के झुंड की रियल-टाइम लोकेशन ट्रैक कर कुंभ क्षेत्र में त्वरित प्रतिक्रिया दल को अलर्ट भेजा जा एगा । (Real-time tracking of herd leaders will send early alerts to rapid response teams around the Kumbh area.) भाग 4: सि तंबर – अक्टूबर 2026 के नवी नतम समसा मयि क प्रश्न",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व कुम्भ 2027",
+      "uuid": "7ddd3e41-d0ce-4a9b-936c-19fabef5695a",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who will be fitted with radio collars by the Uttarakhand Forest Department in collaboration with WII to prevent human–wildlife conflict during the 2027 Haridwar Kumbh Mela?",
+        "options_en": [
+          "Leopards",
+          "Herd-leading Elephants / Matriarchs",
+          "Tigers",
+          "Himalayan Bears"
+        ],
+        "explanation_en": "Part 4: September – October 2026 Latest Current Affairs"
+      }
+    },
+    {
+      "question": "15 सि तंबर 2026 को 6 राज्यों (उत्तराखंड, हिमा चल प्रदेश, उत्तर प्रदेश, हरियाणा , रा जस्थान, दिल्ली ) के बी च हस्ताक्षरित ऐतिहासिक 'किसा ऊ बहुउद्देशीय परियोजना ' किस नदी पर निर्मित की जा रही है?",
+      "options": [
+        "भागी रथी नदी",
+        "टोंस नदी",
+        "शा रदा नदी",
+        "रा मगंगा नदी"
+      ],
+      "correctIndex": 1,
+      "explanation": "उत्तराखंड–हिमा चल सीमा पर यमुना की सहा यक टोंस नदी पर 232.6 मी टर ऊंचा कंक्रीट ग्रेविटी बांध (660 MW क्षमता ) बनेगा , जि समें 90% केंद्र का वित्तीय भार है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड इंफ्रास्ट्रक्चर व विमानन समसामयिकी",
+      "uuid": "4b730a03-5fa2-47e2-9dd2-de9e65177f20",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "On which river is the historic 'Kishau Multipurpose Project'—signed among 6 states on 15 September 2026—being constructed?",
+        "options_en": [
+          "Bhagirathi River",
+          "Tons River",
+          "Sharda River",
+          "Ramganga River"
+        ],
+        "explanation_en": "A 232.6m concrete gravity dam on the Tons River with 90% central funding."
+      }
+    },
+    {
+      "question": "सि तंबर 2026 में भारत और अमेरिका के संयुक्त सैन्य अभ्यास 'युद्ध अभ्यास 2026' (22वां संस्करण) का आयोजन एक सा थ किन दो स्थानों पर किया गया?",
+      "options": [
+        "चौबटिया (उत्तराखंड) और पोखरण (रा जस्थान)",
+        "औली (उत्तराखंड) और महाजन फील्ड फायरिंग रेंज (रा जस्थान)",
+        "पिथौरागढ़ (उत्तराखंड) और बबीना (उत्तर प्रदेश)",
+        "रानीखेत (उत्तराखंड) और जैसलमेर (रा जस्थान)"
+      ],
+      "correctIndex": 1,
+      "explanation": "उच्च हिमा लयी युद्ध अभ्यास हेतु औली (चमोली ) और रेगिस्तानी युद्ध अभ्यास हेतु महाजन फील्ड फायरिंग रेंज (रा जस्थान) को चुना गया।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "e69f9b54-4fd9-4599-8d5a-49617a7ddf8e",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "At which two locations was the 22nd edition of the India–US joint military exercise 'Yudh Abhyas 2026' conducted simultaneously in September 2026?",
+        "options_en": [
+          "Chaubattia & Pokhran",
+          "Auli & Mahajan Field Firing Range",
+          "Pithoragarh & Babina",
+          "Ranikhet & Jaisalmer"
+        ],
+        "explanation_en": "Conducted simultaneously in Auli for high-altitude warfare and Mahajan Range for desert warfare."
+      }
+    },
+    {
+      "question": "21 सि तंबर से 3 अक्टूबर 2026 तक भारत और मंगोलिया के बी च संयुक्त सैन्य अभ्यास 'नोमेडिक एलिफेंट 2026' (18वां संस्करण) उत्तराखंड के किस जिले में आयोजित हुआ?",
+      "options": [
+        "अल्मोड़ा",
+        "चमोली",
+        "पिथौरागढ़",
+        "देहरादून"
+      ],
+      "correctIndex": 2,
+      "explanation": "इसका आयोजन फॉरेन ट्रेनिंग नोड, पिथौरागढ़ में पर्वतीय और अर्ध-शहरी क्षेत्रों में आतंकवाद रोधी अभियानों के लिए किया गया।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड साहसिक खेल, अभियान व रक्षा समसामयिकी",
+      "uuid": "e6dda15a-ce81-4620-b206-b0e648b400df",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "In which district of Uttarakhand was the 18th edition of the India–Mongolia joint military exercise 'Nomadic Elephant 2026' held from 21 September to 3 October 2026?",
+        "options_en": [
+          "Almora",
+          "Chamoli",
+          "Pithoragarh",
+          "Dehradun"
+        ],
+        "explanation_en": "Held at the Foreign Training Node, Pithoragarh, focusing on counter-insurgency in mountainous terrain."
+      }
+    },
+    {
+      "question": "22 सि तंबर 2026 को आयोजित 72वें राष्ट्रीय फिल्म पुरस्कार समारोह में किस फिल्म को 'सर्वश्रेष्ठ गढ़वाली फिल्म' काराष्ट्रीय पुरस्कार (रजत कमल) प्रदा न किया गया?",
+      "options": [
+        "मेरो गांव",
+        "ढोली",
+        "सुनपट",
+        "चक्रव्यूह"
+      ],
+      "correctIndex": 1,
+      "explanation": "राष्ट्रपति द्रौपदी मुर्मू ने एकता नगर (गुजरात) में फिल्म 'ढोली ' के निर्देशक दिनेश पुंडलिक भोंसले और निर्माता सुनील नायक को सम्मानित किया ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "8739641f-995e-4b5a-84ec-5f95e719d262",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which film was awarded the National Film Award (Rajat Kamal) for 'Best Garhwali Film' at the 72nd National Film Awards ceremony on 22 September 2026?",
+        "options_en": [
+          "Mero Gaon",
+          "Dholi",
+          "Sunpat",
+          "Chakravyuh"
+        ],
+        "explanation_en": "Directed by Dinesh Pundalik Bhosale, 'Dholi' highlights the struggles of traditional Dhol players of Uttarakhand."
+      }
+    },
+    {
+      "question": "15 सि तंबर 2026 को किस विश्वविद्यालय द्वारा विकसित गढ़वाली भाषा के एआई-आधा रि त डिजिटल संवाद प्लेटफॉर्म 'गढ़ संवाद' (Garh Samvad) ऐप का शुभारंभ किया गया?",
+      "options": [
+        "कुमाऊं विश्वविद्यालय, नैनीताल",
+        "दून विश्वविद्यालय, देहरादून",
+        "श्री देव सुमन उत्तराखंड विश्वविद्यालय",
+        "उत्तराखंड मुक्त विश्वविद्यालय"
+      ],
+      "correctIndex": 2,
+      "explanation": "यह एआई ऐप गढ़वाली भाषा का अनुवा द और चैट संवाद सुलभ बना कर लोक भाषा को युवा पीढ़ी से जो ड़ता है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विज्ञान, प्रौद्योगिकी व नवाचार",
+      "uuid": "2f361596-be4b-49ee-b3a7-4a6d21ceeea6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which university developed the AI-based Garhwali language digital communication platform 'Garh Samvad' app launched on 15 September 2026?",
+        "options_en": [
+          "Kumaun University, Nainital",
+          "Doon University, Dehradun",
+          "Sri Dev Suman Uttarakhand University",
+          "Uttarakhand Open University"
+        ],
+        "explanation_en": "This AI platform facilitates Garhwali translation and chat to preserve the local dialect among youth."
+      }
+    },
+    {
+      "question": "सि तंबर 2026 में पर्वतीय क्षेत्रों के सतत भवि ष्य हेतु आर्टि फि शि यल इंटेलि जेंस उत्कृष्टता केंद्र 'हिम-एआई' (HIM-AI) का उद्घाटन किस विश्वविद्यालय में किया गया?",
+      "options": [
+        "वी र मा धो सिंह भंडारी उत्तराखंड प्रौद्योगिकी विश्वविद्यालय, देहरादून",
+        "गो विं द बल्लभ पंत कृषि एवं प्रौद्योगिक विश्वविद्यालय, पंतनगर",
+        "हेमवती नंदन बहुगुणा गढ़वाल विश्वविद्यालय, श्रीनगर",
+        "उत्तरांचल विश्वविद्यालय, देहरादून"
+      ],
+      "correctIndex": 0,
+      "explanation": "हिम-एआई केंद्र हिमा लयी पर्यावरण संवेदनशीलता और प्राकृतिक आपदा ओं के समाधान हेतु एआई आधा रि त मॉ डल तैयार करेगा ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विज्ञान, प्रौद्योगिकी व नवाचार",
+      "uuid": "cde35267-1640-4f37-a4df-011310ae2413",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "At which university was the Centre of Excellence for Artificial Intelligence for Mountain Systems 'HIM-AI' inaugurated in September 2026?",
+        "options_en": [
+          "VMSB UTU, Dehradun",
+          "GBPUAT, Pantnagar",
+          "HNBGU, Srinagar",
+          "Uttaranchal University, Dehradun"
+        ],
+        "explanation_en": "HIM-AI will build AI models for Himalayan disaster management and environmental sustainability."
+      }
+    },
+    {
+      "question": "9 सि तंबर 2026 को हिमा लय दिवस के अवसर पर मुख्यमंत्री पुष्कर सिंह धा मी द्वारा हिमा लय संरक्षण एवं सतत विकास के क्षेत्र में कौन-सा नया वा र्षि क सम्मान शुरू करने की घोषणा की गई?",
+      "options": [
+        "हिमा लय विभूति सम्मान",
+        "हिमा लय गौरव रत्न",
+        "देवभूमि पर्यावरण सम्मान",
+        "शिखर प्रहरी सम्मान"
+      ],
+      "correctIndex": 0,
+      "explanation": "यह सम्मान प्रति वर्ष हिमा लय के संरक्षण और सतत विकास में उत्कृष्ट कार्य करने वा ले वैज्ञानिकों , शोधकर्ताओं और सामाजिक कार्यकर्ता ओं को दिया जा एगा ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यावरण, पारिस्थितिकी व अर्थव्यवस्था",
+      "uuid": "c557c79c-51e0-4339-b6c3-b4c4edac8ab5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which new annual award was announced by CM Pushkar Singh Dhami on Himalaya Day (9 September 2026) for Himalayan conservation and sustainable development?",
+        "options_en": [
+          "Himalaya Vibhuti Samman",
+          "Himalaya Gaurav Ratna",
+          "Devbhoomi Paryavaran Samman",
+          "Shikhar Prahari Samman"
+        ],
+        "explanation_en": "To be conferred annually upon scientists, researchers, and activists working for Himalayan conservation."
+      }
+    },
+    {
+      "question": "सि तंबर 2026 में किस विश्वविद्यालय के शोधकर्ताओं ने अध्ययन में पा या कि चोपता घाटीमें बढ़ते पर्यटन और ध्वनि प्रदूषण से राज्य पक्षी 'हिमा लयी मोनाल' के कॉलिंग पैटर्न में बदलाव आ रहा है?",
+      "options": [
+        "कुमाऊं विश्वविद्यालय",
+        "हेमवती नंदन बहुगुणा गढ़वाल विश्वविद्यालय",
+        "दून विश्वविद्यालय",
+        "भारतीय वन्यजीव संस्थान"
+      ],
+      "correctIndex": 1,
+      "explanation": "मदमहेश्वर और चोपता घाटीमें पैसिव अकौस्टिक मॉनिटरिंग से पता चला कि शो र के कारण मोनाल उच्च आवृत्ति (High Frequency) की आवा जें नि का ल रहा है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यावरण, पारिस्थितिकी व अर्थव्यवस्था",
+      "uuid": "aefaa9f1-9ae3-474b-b291-4a7b21832f13",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Researchers from which university found in September 2026 that rising tourism and noise pollution in Chopta Valley are altering the calling pattern of the state bird 'Himalayan Monal'?",
+        "options_en": [
+          "Kumaun University",
+          "HNB Garhwal University",
+          "Doon University",
+          "Wildlife Institute of India"
+        ],
+        "explanation_en": "Passive acoustic monitoring in Madmaheshwar and Chopta showed Monals shifting to high-frequency calls due to noise."
+      }
+    },
+    {
+      "question": "सि तंबर 2026 में भारतीय पुरातत्व सर्वेक्षण (ASI) द्वारा उत्तराखंड के किस ऐतिहासिक स्थल की खुदाई में गुप्त या कुषाण का ल की ईंटोंसे निर्मित गो ला कार संरचना खोजी गई है?",
+      "options": [
+        "गोविषाण टीला , काशीपुर",
+        "मोरध्वज, को टद्वार",
+        "लाखामंडल, देहरादून",
+        "पुरोला , उत्तरकाशी"
+      ],
+      "correctIndex": 0,
+      "explanation": "ऊधम सिंह नगर के काशीपुर स्थि त गोविषाण टीले (स्थानी य ना म: द्रोण किला ) में 10-11 फी ट गहरी गो ला कार संरचना मिली है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "b151c1c9-1067-4545-aeb7-a7559a04c676",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "At which historical site in Uttarakhand did the Archaeological Survey of India (ASI) unearth a circular brick structure dating back to the Gupta or Kushan period in September 2026?",
+        "options_en": [
+          "Govishana Mound, Kashipur",
+          "Mordhwaj, Kotdwar",
+          "Lakhamandal, Dehradun",
+          "Purola, Uttarkashi"
+        ],
+        "explanation_en": "Found at Govishana Mound, locally known as Drona Kila, in Kashipur, Udham Singh Nagar."
+      }
+    },
+    {
+      "question": "मुख्यमंत्री पुष्कर सिंह धा मी द्वारा शुरू किया गया किसा न-केंद्रि त एआई मोबाइल ऐप 'मनोरमा कृषि रक्षक' किस संस्था द्वारा विकसित किया गया है?",
+      "options": [
+        "उत्तराखंड कृषि विपणन बोर्ड",
+        "मनोरमा डबराल जन कल्याण समिति",
+        "पंतनगर कृषि विश्वविद्यालय",
+        "नाबार्ड उत्तराखंड"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह ऐप एआई द्वारा फसलों के रोगों की पहचान, मौसम चेतावनी और कृषि बाजार व लॉजिस्टिक्स सेवाएं प्रदा न करता है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विज्ञान, प्रौद्योगिकी व नवाचार",
+      "uuid": "9cfafdfe-1c78-4f70-8ff3-d9e43667ac95",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which organization developed the farmer-centric AI mobile app 'Manorama Krishi Rakshak' launched by CM Pushkar Singh Dhami?",
+        "options_en": [
+          "Uttarakhand Agricultural Marketing Board",
+          "Manorama Dabral Jan Kalyan Samiti",
+          "Pantnagar Agricultural University",
+          "NABARD Uttarakhand"
+        ],
+        "explanation_en": "Provides AI-based crop disease detection, real-time weather alerts, and market logistics support."
+      }
+    },
+    {
+      "question": "उत्तराखंड में 17 सि तंबर से 17 अक्टूबर 2026 तक संचालित एक माह के 'सेवा संकल्प अभियान' के अंतर्गत मातृ- शि शु स्वास्थ्य और पोषण के लिए कौन-सा कार्यक्रम शुरू किया गया?",
+      "options": [
+        "वात्सल्य पोषण मिशन",
+        "आंगन मिलन सेवा कार्यक्रम",
+        "मातृ शक्ति सुरक्षा अभियान",
+        "शि शु आरोग्य सेतु"
+      ],
+      "correctIndex": 1,
+      "explanation": "विकसित उत्तराखंड 2047 के लक्ष्य के तहत संचालित इस अभियान में आशा और आंगनबाड़ी कार्यकर्त्रि यों की प्रमुख भूमिका है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड स्वास्थ्य नीतियां व प्रशासनिक आदेश",
+      "uuid": "af4a2163-42c8-4fa3-9375-6477e69f4020",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which programme focused on maternal-child health and nutrition was launched under the month-long 'Seva Sankalp Campaign' (17 September – 17 October 2026) in Uttarakhand?",
+        "options_en": [
+          "Vatsalya Poshan Mission",
+          "Aangan Milan Seva Karyakram",
+          "Matri Shakti Suraksha Abhiyan",
+          "Shishu Arogya Setu"
+        ],
+        "explanation_en": "Part of the Viksit Uttarakhand 2047 vision, led on the ground by ASHA and Anganwadi workers."
+      }
+    },
+    {
+      "question": "सि तंबर 2026 में उत्तराखंड राज्य आपदा प्रबंधन प्राधिकरण (USDMA) की विशेषज्ञ टीम ग्लेशियर लेक आउटबर्स्ट फ्लड (GLOF) जोखिम के वैज्ञानिक सर्वेक्षण हेतु किन दो उच्च हिमा लयी झीलों के लिए रवाना हुई?",
+      "options": [
+        "रूपकुंड और डो डी ताल",
+        "सरस्वती ताल और केदा र ताल",
+        "सहस्त्रताल और महा सर ताल",
+        "हेमकुंड और सतोपंथ ताल"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसके अति रि क्त चमोली की वसुधारा हिमनद झील पर वाडिया संस्थान के सहयोग से राज्य की पहली प्रारंभिक चेतावनी प्रणाली (Early Warning System) स्थापित की जा रही है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड आपदा प्रबंधन, विज्ञान व भूगोल",
+      "uuid": "e52f3bd1-a29f-4f0f-b0ff-65f667c403d9",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which two high-altitude glacial lakes were surveyed by the USDMA expert team in September 2026 to assess Glacial Lake Outburst Flood (GLOF) risks?",
+        "options_en": [
+          "Roopkund and Dodital",
+          "Saraswati Tal and Kedar Tal",
+          "Sahastratal and Mahasar Tal",
+          "Hemkund and Satopanth Tal"
+        ],
+        "explanation_en": "Additionally, the first glacial lake Early Warning System is being installed at Vasudhara Lake, Chamoli."
+      }
+    },
+    {
+      "question": "23 सि तंबर 2026 को उत्तराखंड में प्रथम 'पतंजलि आयुर्वेद गुरुकुलम' का शुभारंभ कहां किया गया?",
+      "options": [
+        "ऋषिकेश",
+        "देवप्रया ग",
+        "औरंगाबाद, हरिद्वार",
+        "कनखल, हरिद्वार"
+      ],
+      "correctIndex": 2,
+      "explanation": "मुख्यमंत्री पुष्कर सिंह धा मी ने पतंजलि वेलनेस योग ग्राम, औरंगाबाद (हरिद्वार) में इसका शुभारंभ किया ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "b43a78ec-d809-4b51-bab6-3b72ed461d34",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where was the first 'Patanjali Ayurved Gurukulam' inaugurated in Uttarakhand on 23 September 2026?",
+        "options_en": [
+          "Rishikesh",
+          "Devprayag",
+          "Aurangabad, Haridwar",
+          "Kankhal, Haridwar"
+        ],
+        "explanation_en": "Inaugurated by CM Pushkar Singh Dhami at Patanjali Wellness Yog Gram, Aurangabad, Haridwar."
+      }
+    },
+    {
+      "question": "उत्तराखंड में प्रत्येक वर्ष 2 सि तंबर को कौन-सा पर्यावरण दिवस मना या जा ता है?",
+      "options": [
+        "हिमा लय दिवस",
+        "बुग्याल संरक्षण दिवस",
+        "गंगा स्वच्छता दिवस",
+        "वन्यजीव प्रहरी दिवस"
+      ],
+      "correctIndex": 1,
+      "explanation": "अल्पाइन घास के मैदानों (बुग्यालों ) के संरक्षण हेतु वर्ष 2024 से प्रति वर्ष 2 सि तंबर को बुग्याल संरक्षण दिवस मना या जा ता है, जबकि 9 सि तंबर को हिमा लय दिवस मना या जा ता है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यावरण, पारिस्थितिकी व अर्थव्यवस्था",
+      "uuid": "ac1bfa9c-9708-4bf6-aa44-37c56387cc88",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which environmental day is celebrated every year on 2 September in Uttarakhand?",
+        "options_en": [
+          "Himalaya Day",
+          "Bugyal Conservation Day",
+          "Ganga Cleanliness Day",
+          "Wildlife Guardian Day"
+        ],
+        "explanation_en": "Celebrated on 2 September since 2024 to protect alpine meadows; Himalaya Day is observed on 9 September."
+      }
+    },
+    {
+      "question": "5 सि तंबर 2026 (शिक्षक दिवस) को लोक भवन, देहरादून में कितने शिक्षकों को 'शैलेश मटियानी राज्य शैक्षिक पुरस्कार' से सम्मानित किया गया?",
+      "options": [
+        "15 शिक्षक",
+        "17 शिक्षक",
+        "19 शिक्षक",
+        "21 शिक्षक"
+      ],
+      "correctIndex": 2,
+      "explanation": "इसमें प्रारंभिक शिक्षा के 12, माध्यमिक शिक्षा के 6 और डा इट (DIET) के 1 शिक्षक शामिल थे; सा थ ही चंपावत की मंजू बाला को विशेष सम्मान मिला ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड युवा मामले, शिक्षा व राष्ट्रीय पहल",
+      "uuid": "99cfe084-d4d1-41cd-8b82-cf44c792c416",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "How many teachers were honoured with the 'Shailesh Matiyani State Educational Award' at Lok Bhawan, Dehradun on 5 September 2026?",
+        "options_en": [
+          "15 Teachers",
+          "17 Teachers",
+          "19 Teachers",
+          "21 Teachers"
+        ],
+        "explanation_en": "Included 12 primary, 6 secondary, and 1 DIET teacher, plus a special honour for national awardee Manju Bala of Champawat."
+      }
+    },
+    {
+      "question": "14 सि तंबर 2026 (हिंदी दिवस) को डॉ . गिरीश रंजन तिवारी को उनकी किस पुस्तक के लिए 'रा जभाषा गौरव पुरस्कार 2026' से सम्मानित किया गया?",
+      "options": [
+        "कुमाऊं का स्थापत्य इतिहास",
+        "अतीत से वर्तमान तक नैनीताल का सफर और गोथिक राजभवन के निर्माण की अद्भुत गाथा",
+        "मध्य हिमा लय की सांस्कृतिक धरोहर",
+        "उत्तराखंड के ऐतिहासिक दुर्ग"
+      ],
+      "correctIndex": 1,
+      "explanation": "यह पुस्तक नैनीताल के ऐतिहासिक विकास और गोथिक शैली के राजभवन के निर्माण का विस्तृत दस्तावेजीकरण करती है। (Documents the historical evolution of Nainital and the construction of the Gothic-style Raj Bhavan.) भाग 5: उत्तराखंड बजट 2026–27, प्रमुख विधेयक एवं राष्ट्रीय सूचकांक",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड कला, संस्कृति व ऐतिहासिक संस्थान",
+      "uuid": "121799e1-f67f-44b5-8c3a-d21147a869ad",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "For which book was Dr. Girish Ranjan Tiwari honoured with the 'Rajbhasha Gaurav Award 2026' on Hindi Diwas (14 September 2026)?",
+        "options_en": [
+          "Architectural History of Kumaon",
+          "Journey of Nainital & Gothic Raj Bhavan",
+          "Cultural Heritage of Central Himalayas",
+          "Historical Forts of Uttarakhand"
+        ],
+        "explanation_en": "Part 5: Budget 2026– 27, Bills & National Indices"
+      }
+    },
+    {
+      "question": "मुख्यमंत्री पुष्कर सिंह धा मी द्वारा 9 मा र्च 2026 को प्रस्तुत वित्तीय वर्ष 2026–27 के लिए उत्तराखंड का कुल बजट आकार कितना है?",
+      "options": [
+        "₹98,500 करो ड़",
+        "₹1,05,500 करो ड़",
+        "₹1,11,703 करो ड़",
+        "₹1,20,000 करो ड़"
+      ],
+      "correctIndex": 2,
+      "explanation": "2026–27 में राज्य का अनुमानित जी एसडी पी (GSDP) ₹4,27,716 करो ड़ (अनुमानित वृद्धि दर: 12%) और जेंडर बजट लगभग ₹19,692 करो ड़ रखा गया है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, बजट व योजनाएं",
+      "uuid": "43bcfc08-f03c-4bfa-8b21-31da6d172eb0",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What is the total budget outlay of Uttarakhand for Financial Year 2026–27, presented by CM Pushkar Singh Dhami on 9 March 2026?",
+        "options_en": [
+          "₹98,500 Crore",
+          "₹1,05,500 Crore",
+          "₹1,11,703 Crore",
+          "₹1,20,000 Crore"
+        ],
+        "explanation_en": "Projected GSDP is ₹4,27,716 crore with 12% growth, and Gender Budget is ~₹19,692 crore."
+      }
+    },
+    {
+      "question": "उत्तराखंड बजट 2026–27 में 'हरिद्वार कुंभ मेला 2027' की तैयारि यों और 'रिस्पना-बिंदल एलिवेटेड कॉरिडोर (देहरादून)' के लिए क्रमशः कितनी राशि आवंटित की गई है?",
+      "options": [
+        "₹800 करो ड़ और ₹250 करो ड़",
+        "₹1,027 करो ड़ और ₹350 करो ड़",
+        "₹1,200 करो ड़ और ₹500 करो ड़",
+        "₹1,500 करो ड़ और ₹400 करो ड़"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसके अति रि क्त शिक्षा एवं खेल हेतु ₹11,871 करो ड़, कृषि एवं बागवानी हेतु ₹1,013 करो ड़ तथा कौशल विकास हेतु ₹586 करो ड़ आवंटित किए गए हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, बजट व योजनाएं",
+      "uuid": "fd833bac-b934-4cb6-a7a1-025408403b39",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "How much amount has been allocated respectively for 'Haridwar Kumbh Mela 2027' and 'Rispana–Bindal Elevated Corridor (Dehradun)' in the Uttarakhand Budget 2026–27?",
+        "options_en": [
+          "₹800 Cr & ₹250 Cr",
+          "₹1,027 Cr & ₹350 Cr",
+          "₹1,200 Cr & ₹500 Cr",
+          "₹1,500 Cr & ₹400 Cr"
+        ],
+        "explanation_en": "Additionally, ₹11,871 Cr is allocated for Education & Sports, ₹1,013 Cr for Agriculture/Horticulture, and ₹586 Cr for Skill Development."
+      }
+    },
+    {
+      "question": "'उत्तराखंड देवभूमि परिवार विधेयक 2026' के तहत विशिष्ट अल्फा-न्यूमेरिक 'देवभूमि परिवार आईडी ' प्राप्त करने के लिए राज्य में न्यूनतम कितने वर्षों का निरंतर निवास अनिवार्य किया गया है?",
+      "options": [
+        "10 वर्ष",
+        "12 वर्ष",
+        "15 वर्ष",
+        "20 वर्ष"
+      ],
+      "correctIndex": 2,
+      "explanation": "हरियाणा परिवार पहचान पत्र की तर्ज पर ला गू इस यो जना में 18 वर्ष या अधि क आयु की महिला को ही परिवार का मुखिया माना जा एगा ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विधि, विधेयक व प्रशासनिक सुधार",
+      "uuid": "e61ccb00-ab68-4195-8b44-d9c1f1f364df",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Under the 'Uttarakhand Devbhoomi Parivar Bill 2026', what is the minimum continuous residency required in the state to obtain the unique alpha-numeric 'Devbhoomi Parivar ID'?",
+        "options_en": [
+          "10 Years",
+          "12 Years",
+          "15 Years",
+          "20 Years"
+        ],
+        "explanation_en": "Modeled on Haryana's Parivar Pehchan Patra, a woman aged 18+ will be recognized as the head of the family."
+      }
+    },
+    {
+      "question": "नीति आयोग द्वारा जा री 'प्रथम नि वेश अनुकूलता सूचकांक 2026' (First Investment Friendliness Index 2026) में पर्वतीय एवं पूर्वोत्तर राज्यों की श्रेणी में प्रथम स्थान किसने प्राप्त किया है?",
+      "options": [
+        "हिमा चल प्रदेश",
+        "असम",
+        "उत्तराखंड",
+        "सिक्किम"
+      ],
+      "correctIndex": 2,
+      "explanation": "उत्तराखंड ने 47.5 अंकों के सा थ प्रथम स्थान प्राप्त किया , जबकि असम दूसरे और हिमा चल प्रदेश तीसरे स्थान पर रहा (बड़े राज्यों में गुजरात प्रथम)।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड अर्थव्यवस्था, बजट व निवेश नीतियां",
+      "uuid": "becb8d60-4c2e-4165-946d-dc45061654e6",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which state secured the first position among Himalayan and North-Eastern states in NITI Aayog's 'First Investment Friendliness Index 2026'?",
+        "options_en": [
+          "Himachal Pradesh",
+          "Assam",
+          "Uttarakhand",
+          "Sikkim"
+        ],
+        "explanation_en": "Uttarakhand topped with 47.5 points, followed by Assam and Himachal Pradesh; Gujarat topped among large states."
+      }
+    },
+    {
+      "question": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) द्वारा जा री 'स्वच्छ वायु सर्वेक्षण 2026' में 3 से 10 ला ख आबादी वा ले शहरों (श्रेणी -2) में देहरादून ने देश भर में कौन-सा स्थान प्राप्त किया है?",
+      "options": [
+        "9वां स्थान",
+        "12वां स्थान",
+        "16वां स्थान",
+        "19वां स्थान"
+      ],
+      "correctIndex": 1,
+      "explanation": "देहरादून 2025 के 19वें स्थान से सुधरकर 12वें स्थान (स्कोर: 182) पर पहुंचा , जबकि श्रेणी -3 (<3 ला ख आबादी ) में ऋषिकेश को 16वां और काशीपुर को 21वां स्थान मिला ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यावरण, पारिस्थितिकी व अर्थव्यवस्था",
+      "uuid": "4503a634-c37b-430e-a9c1-5dc158296b20",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What rank did Dehradun achieve nationwide in Category-2 (cities with 3 to 10 lakh population) in the 'Swachh Vayu Survekshan 2026' released by CPCB?",
+        "options_en": [
+          "9th Rank",
+          "12th Rank",
+          "16th Rank",
+          "19th Rank"
+        ],
+        "explanation_en": "Dehradun rose from 19th in 2025 to 12th in 2026; in Category-3, Rishikesh ranked 16th and Kashipur 21st."
+      }
+    },
+    {
+      "question": "सि तंबर 2026 में जा री सी सी टी एनएस (CCTNS) प्रगति डैशबोर्ड और आईसी जेएस 2.0 (ICJS 2.0) की राष्ट्रीय रैंकिंग में उत्तराखंड का स्थान क्रमशः क्या रहा ?",
+      "options": [
+        "5वां और पहला",
+        "9वां और ती सरा",
+        "12वां और चौथा",
+        "13वां और दूसरा"
+      ],
+      "correctIndex": 1,
+      "explanation": "सी सी टी एनएस में उत्तराखंड 13वें से छलांग लगाकर 9वें स्थान पर पहुंचा , आईसी जेएस 2.0 में तीसरे और एनसी एलआई (NCLI) डैशबोर्ड में 18वें स्थान पर रहा ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विधि, विधेयक व प्रशासनिक सुधार",
+      "uuid": "539a4b72-d7e8-48ad-ba76-13996a42e483",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What were Uttarakhand's national ranks respectively in the CCTNS Progress Dashboard and ICJS 2.0 rankings released in September 2026?",
+        "options_en": [
+          "5th and 1st",
+          "9th and 3rd",
+          "12th and 4th",
+          "13th and 2nd"
+        ],
+        "explanation_en": "Uttarakhand jumped from 13th to 9th in CCTNS, ranked 3rd in ICJS 2.0, and 18th in NCLI dashboard."
+      }
+    },
+    {
+      "question": "'पी एम सूर्य घर मुफ्त बिजली यो जना ' के तहत राष्ट्रीय स्तर पर उत्तराखंड को किन चा र श्रेणियों में प्रथम स्थान प्राप्त हुआ है? (नि म्न में से कौन-सी श्रेणी शामिल नहीं है?)",
+      "options": [
+        "सर्वाधिक उपभोक्ता आवेदन",
+        "सर्वाधिक रूफटॉप सोलर संस्थापन",
+        "सर्वाधिक डिस्कॉम निरीक्षण एवं विक्रेता पंजीकरण",
+        "सर्वाधिक सौर पार्क निर्माण"
+      ],
+      "correctIndex": 3,
+      "explanation": "उपभोक्ता आवेदन, रूफटॉप सोलर इंस्टॉलेशन, डिस्कॉम निरीक्षण और वेंडर रजिस्ट्रेशन—इन चा रों श्रेणियों में उत्तराखंड को प्रथम पुरस्कार मिला ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड राज्य समसामयिकी, बजट व योजनाएं",
+      "uuid": "f5079fa7-750d-4c61-b137-3bede346b928",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Under the 'PM Surya Ghar Muft Bijli Yojana', Uttarakhand secured first place nationally in four categories. Which of the following is NOT one of those four?",
+        "options_en": [
+          "Maximum Consumer Applications",
+          "Maximum Rooftop Solar Installations",
+          "Maximum DISCOM Inspection & Vendor Registration",
+          "Maximum Solar Park Construction"
+        ],
+        "explanation_en": "Uttarakhand won 1st prize in Consumer Applications, Rooftop Installations, DISCOM Inspection, and Vendor Registration."
+      }
+    },
+    {
+      "question": "उत्तराखंड में मदरसा शिक्षा बोर्ड को समाप्त कर अल्पसंख्यक शैक्षणिक संस्थानों के नियमन हेतु किस नई संस्था का गठन किया गया है?",
+      "options": [
+        "उत्तराखंड अल्पसंख्यक विद्यालय परिषद",
+        "उत्तराखंड राज्य अल्पसंख्यक शिक्षा प्राधिकरण – USAME",
+        "देवभूमि आधुनिक शिक्षा बोर्ड",
+        "उत्तराखंड एकीकृत शिक्षा आयोग"
+      ],
+      "correctIndex": 1,
+      "explanation": "अल्पसंख्यक शिक्षा अधिनियम के तहत गठित इस प्राधिकरण में 1 अध्यक्ष और 11 सदस्य (कार्यकाल: 5 वर्ष) होंगे।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड विधि, विधेयक व प्रशासनिक सुधार",
+      "uuid": "2dd7e534-07e5-4281-be8e-60f4e6b429f7",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which new authority has been constituted in Uttarakhand to regulate minority educational institutions, replacing the Madrasa Education Board?",
+        "options_en": [
+          "Uttarakhand Minority School Council",
+          "Uttarakhand State Authority for Minority Education",
+          "Devbhoomi Modern Education Board",
+          "Uttarakhand Integrated Education Commission"
+        ],
+        "explanation_en": "Constituted with 1 Chairperson and 11 members for a 5-year term."
+      }
+    },
+    {
+      "question": "उत्तराखंड सरकार की नई पहल के तहत पहले चरण में किन ती न पर्वतीय नगर निकायों को 'स्मार्ट सिटी ' की तर्ज पर विकसित करने की मंजूरी दी गई है?",
+      "options": [
+        "अल्मोड़ा , नैनीताल और मसूरी",
+        "पिथौरागढ़, बाड़ाहाट (उत्तरकाशी ) और गैरसैंण",
+        "पौड़ी , टिहरी और चंपावत",
+        "गोपेश्वर, रुद्रप्रयाग और बागेश्वर"
+      ],
+      "correctIndex": 1,
+      "explanation": "इसमें नगर निगम पिथौरागढ़, नगर पालिका परिषद बाड़ाहाट (उत्तरकाशी ) और नगर पंचायत गैरसैंण शामिल हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड आपदा प्रबंधन व नगरीय विकास नीतियां",
+      "uuid": "99d66238-2f02-4d55-ac67-33ca2a6cfcd5",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which three hill municipal bodies have been approved in the first phase to be developed on the lines of 'Smart Cities' by the Uttarakhand Government?",
+        "options_en": [
+          "Almora, Nainital, and Mussoorie",
+          "Pithoragarh, Barahat [Uttarkashi], and Gairsain",
+          "Pauri, Tehri, and Champawat",
+          "Gopeshwar, Rudraprayag, and Bageshwar"
+        ],
+        "explanation_en": "Covers Municipal Corporation Pithoragarh, Municipal Council Barahat, and Nagar Panchayat Gairsain."
+      }
+    },
+    {
+      "question": "राष्ट्रीय वन्यजीव बोर्ड द्वारा स्वी कृत देश का पहला 'ग्रीन रोपवे प्रोजेक्ट' (जि समें वन्यजीव संरक्षण कॉरिडोर विकसित होंगे) किन दो स्थानों के बी च प्रस्तावित है?",
+      "options": [
+        "गौरीकुंड से केदारनाथ",
+        "गोविंदघाट से हेमकुंड सा हि ब",
+        "ऋषिकेश से नीलकंठ महा देव",
+        "जानकीचट्टी से यमुनोत्री"
+      ],
+      "correctIndex": 2,
+      "explanation": "दिल्ली –देहरादून एक्सप्रेसवे की तर्ज पर इस रोपवे प्रोजेक्ट में हाथी , तेंदुए और हिरणों के सुरक्षित आवागमन का विशेष ध्या न रखा जा एगा ।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड इंफ्रास्ट्रक्चर व विमानन समसामयिकी",
+      "uuid": "4d9e3e57-70c3-491a-9b94-778e8836ab04",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Between which two locations is India's first 'Green Ropeway Project' (approved by the National Board for Wildlife with wildlife corridors) proposed in Uttarakhand?",
+        "options_en": [
+          "Gaurikund to Kedarnath",
+          "Govindghat to Hemkund Sahib",
+          "Rishikesh to Neelkanth Mahadev",
+          "Jankichatti to Yamunotri"
+        ],
+        "explanation_en": "Designed on the lines of the Delhi–Dehradun Expressway to ensure safe wildlife movement underneath."
+      }
+    },
+    {
+      "question": "स्विट्जरलैंड में जा री 'वर्ल्ड यूनि वर्सिटी रि यल इंपैक्ट रैंकिंग 2026' (WURI 2026) में वि श्व के शीर्ष 100 विश्वविद्यालयों में 85वां स्थान पा ने वा ला उत्तराखंड का एकमात्र विश्वविद्यालय कौन-सा है?",
+      "options": [
+        "दून विश्वविद्यालय, देहरादून",
+        "उत्तरांचल विश्वविद्यालय, देहरादून",
+        "ग्राफिक एरा विश्वविद्यालय, देहरादून",
+        "कुमाऊं विश्वविद्यालय, नैनीताल"
+      ],
+      "correctIndex": 1,
+      "explanation": "उत्तरांचल विश्वविद्यालय ने वि श्व स्तर पर 85वां और भारत के शीर्ष 5 विश्वविद्यालयों में स्थान प्राप्त किया है।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड युवा मामले, शिक्षा व राष्ट्रीय पहल",
+      "uuid": "0ce99e72-be65-492c-baf8-a8beafcaabe9",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which is the only university from Uttarakhand to secure the 85th rank among the world's top 100 universities in the 'World University Real Impact Ranking 2026' (WURI 2026)?",
+        "options_en": [
+          "Doon University, Dehradun",
+          "Uttaranchal University, Dehradun",
+          "Graphic Era University, Dehradun",
+          "Kumaun University, Nainital"
+        ],
+        "explanation_en": "Ranked 85th globally and among the top 5 universities in India in WURI 2026."
+      }
+    },
+    {
+      "question": "उत्तराखंड के किस जिले को अपनी भूवैज्ञानिक धरोहर (स्ट्रोमेटोलाइट जीवाश्म, गुफाएं, हिमनद) के कारण भारत का पहला 'यूनेस्को वैश्विक जियोपार्क' (UNESCO Global Geopark) बनने की दौड़ में शामिल किया गया है?",
+      "options": [
+        "चमोली",
+        "पिथौरागढ़",
+        "उत्तरकाशी",
+        "टिहरी गढ़वाल"
+      ],
+      "correctIndex": 1,
+      "explanation": "पिथौरागढ़ के बेरीनाग, गंगोलीहाट और चौकोरी क्षेत्र में 3 से 4 अरब वर्ष पुराने स्ट्रोमेटोलाइट जीवाश्म और गुफाएं मौजूद हैं।",
+      "questionType": "mcq",
+      "subCategory": "उत्तराखंड पर्यटन, भू-विज्ञान व प्राकृतिक संसाधन",
+      "uuid": "cfbe8820-ce1d-4b6b-8335-9fc92eaaaa74",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which district of Uttarakhand is in the race to become India's first 'UNESCO Global Geopark' due to its rich geological heritage (stromatolite fossils, caves, glaciers)?",
+        "options_en": [
+          "Chamoli",
+          "Pithoragarh",
+          "Uttarkashi",
+          "Tehri Garhwal"
+        ],
+        "explanation_en": "Features 3 to 4 billion-year-old stromatolite fossils and limestone caves in Berinag, Gangolihat, and Chaukori."
+      }
     }
   ],
   "updated_at": "2026-10-15T01:30:00+00:00",
