@@ -35839,7 +35839,7 @@
           "uuid": "ukpsc_pyq_3535",
           "subject_en": "Science and Technology and Computers",
           "topic_en": "Science and Technology and Computers",
-          "question": "ईमेल है",
+          "question": "ईमेल (Email) का मुख्य उपयोग क्या है?",
           "options": [
             "डाकघर के माध्यम से पत्र भेजने के लिए",
             "कंप्यूटर के माध्यम से संदेश भेजने के लिए",
@@ -84706,7 +84706,7 @@
           "uuid": "ukpsc_pyq_3625",
           "subject_en": "Science and Technology and Computers",
           "topic_en": "Science and Technology and Computers",
-          "question": "\"माउस\"",
+          "question": "कंप्यूटर में 'माउस' किस प्रकार का उपकरण है?",
           "options": [
             "स्मृति",
             "सीपीयू",
@@ -96761,7 +96761,7 @@
           "uuid": "ukpsc_pyq_3286",
           "subject_en": "Science",
           "topic_en": "Biology - Fungi",
-          "question": "जीन है",
+          "question": "जीन (Gene) क्या है?",
           "options": [
             "डीएनए का एक खंड",
             "डीएनए और हिस्टोन का एक खंड",
@@ -107043,7 +107043,7 @@
           "uuid": "ukpsc_pyq_3314",
           "subject_en": "Science",
           "topic_en": "Biology - Animal Kingdom",
-          "question": "अदरक एक",
+          "question": "अदरक (Ginger) वानस्पतिक रूप से क्या है?",
           "options": [
             "बल्ब",
             "रिजोम",
