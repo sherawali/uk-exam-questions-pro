@@ -163,6 +163,30 @@
       "uksssc_graduate_level": 3
     }
   },
+  "subject_access_policy": {
+    "free_subjects": [
+      "uttarakhand_gk",
+      "general_hindi",
+      "current_affairs",
+      "history",
+      "polity",
+      "geography",
+      "economics",
+      "science",
+      "environment",
+      "math",
+      "computer",
+      "reasoning",
+      "agriculture"
+    ],
+    "paid_subjects": [],
+    "default_free_sets_per_subject": 3,
+    "subject_free_sets": {
+      "uttarakhand_gk": 5,
+      "general_hindi": 5,
+      "current_affairs": 5
+    }
+  },
   "exam_mock_catalog": {
     "uk_high_court_clerk": {
       "exam_id": "uk_high_court_clerk",
