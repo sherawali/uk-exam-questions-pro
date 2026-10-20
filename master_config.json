@@ -204,7 +204,7 @@
       "title_english": "UKSSSC Junior Assistant",
       "enabled": true,
       "total_mocks": 10,
-      "free_mocks": 0,
+      "free_mocks": 1,
       "questions": 100,
       "duration": 120
     },
