@@ -257657,7 +257657,7 @@
       "title": "UKSSSC कनिष्ठ सहायक / इंटर स्तरीय — मॉडल मॉक 01",
       "subtitle": "कुल 100 प्रश्न • सामान्य हिन्दी (20) + सामान्य अध्ययन (40) + उत्तराखण्ड GK (40)",
       "years_covered": "2026",
-      "is_pro_only": false,
+      "is_pro_only": true,
       "is_booklet_only": false,
       "totalQuestions": 100,
       "durationMinutes": 120,

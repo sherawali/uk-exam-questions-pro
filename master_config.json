@@ -5,31 +5,31 @@
     {
       "id": "news_uksssc_grad_live",
       "enabled": true,
-      "title": "🎓 UKSSSC स्नातक स्तरीय (VDO/VPDO): 14 नए मॉडल मॉक टेस्ट लाइव!",
+      "title": "🎓 UKSSSC स्नातक स्तरीय: 14 विशेष मॉडल टेस्ट (1 फ्री डेमो टेस्ट)!",
       "title_en": "🎓 UKSSSC Graduate Level (VDO): 14 New Mock Tests Live!",
-      "message": "आयोग के नवीनतम 100-प्रश्न पाठ्यक्रम पर आधारित 14 संपूर्ण मॉडल टेस्ट लाइव हो चुके हैं। मॉक #01 पूर्णतः निःशुल्क है, अभी अभ्यास प्रारंभ करें!",
+      "message": "14 संपूर्ण 100-प्रश्न मॉडल टेस्ट लाइव हैं। पहला डेमो टेस्ट पूर्णतः निःशुल्क उपलब्ध है, अभी अभ्यास करें!",
       "message_en": "14 full model papers based on UKSSSC 100-Q syllabus are now live. Mock #01 is 100% Free, practice now!",
       "tag": "🔥 14 नए मॉक लाइव",
       "tag_en": "🔥 14 Mocks Live",
       "post_id": "uksssc_graduate_level",
       "action_label": "स्नातक स्तरीय मॉक देखें ➔",
       "action_label_en": "View Graduate Mocks ➔",
-      "action_route": "mock:uksssc_graduate_level",
+      "action_route": "special_mocks:uksssc_graduate_level",
       "date": "20 Oct 2026"
     },
     {
       "id": "news_uksssc_inter_live",
       "enabled": true,
-      "title": "📜 UKSSSC कनिष्ठ सहायक / इंटर स्तरीय: 10 विशेष मॉडल टेस्ट उपलब्ध!",
+      "title": "📜 UKSSSC कनिष्ठ सहायक: 10 विशेष VIP मॉडल टेस्ट लाइव!",
       "title_en": "📜 UKSSSC Junior Assistant / Inter Level: 10 Model Tests Live!",
-      "message": "12वीं स्तरीय कनिष्ठ सहायक परीक्षा हेतु 10 प्रामाणिक द्विभाषी मॉडल पेपर्स लाइव हैं। मॉक #01 सभी के लिए फ्री उपलब्ध है!",
+      "message": "12वीं स्तरीय कनिष्ठ सहायक परीक्षा हेतु 10 संपूर्ण प्रामाणिक VIP मॉडल पेपर्स लाइव हैं (गुरु प्लस VIP पास)!",
       "message_en": "10 authentic bilingual model papers for 12th Inter Level Junior Assistant Exam are live. Mock #01 is Free for everyone!",
       "tag": "⚡ 10 इंटर मॉक लाइव",
       "tag_en": "⚡ 10 Mocks Live",
       "post_id": "uksssc_inter_level",
       "action_label": "इंटर स्तरीय मॉक देखें ➔",
       "action_label_en": "View Inter Mocks ➔",
-      "action_route": "mock:uksssc_inter_level",
+      "action_route": "special_mocks:uksssc_inter_level",
       "date": "20 Oct 2026"
     },
     {
@@ -91,7 +91,7 @@
       "tag_en": "🔥 14 VDO MOCK",
       "action_label": "मॉक टेस्ट दें ➔",
       "action_label_en": "Take Mock Test ➔",
-      "action_route": "mock:uksssc_graduate_level",
+      "action_route": "special_mocks:uksssc_graduate_level",
       "post_id": "uksssc_graduate_level"
     },
     {
@@ -180,7 +180,7 @@
       "title_english": "UKSSSC Junior Assistant",
       "enabled": true,
       "total_mocks": 10,
-      "free_mocks": 1,
+      "free_mocks": 0,
       "questions": 100,
       "duration": 120
     },
@@ -228,23 +228,23 @@
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 17574,
+    "total_questions": 16134,
     "files": {
       "agriculture_questions.json": 172,
-      "computer_questions.json": 369,
-      "current_affairs_questions.json": 2538,
-      "economics_questions.json": 325,
+      "computer_questions.json": 273,
+      "current_affairs_questions.json": 2488,
+      "economics_questions.json": 225,
       "environment_questions.json": 182,
-      "geography_questions.json": 392,
-      "hindi_questions.json": 1211,
-      "history_questions.json": 1888,
-      "math_questions.json": 623,
-      "polity_questions.json": 1333,
-      "reasoning_questions.json": 625,
+      "geography_questions.json": 332,
+      "hindi_questions.json": 908,
+      "history_questions.json": 1768,
+      "math_questions.json": 524,
+      "polity_questions.json": 1214,
+      "reasoning_questions.json": 525,
       "science_questions.json": 707,
-      "uttarakhand_questions.json": 7209
+      "uttarakhand_questions.json": 6816
     }
   },
-  "total_questions": 17574,
+  "total_questions": 16134,
   "last_updated": "2026-10-17T15:22:00.000Z"
 }
