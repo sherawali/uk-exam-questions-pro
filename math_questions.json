@@ -1,4 +1,7 @@
 {
+  "category": "सामान्य गणित",
+  "updated_at": "2026-10-20T00:00:00+00:00",
+  "total_questions": 623,
   "questions": [
     {
       "question": "एक स्तंभ-आरेख (Bar Chart) में पाँच नगरों A, B, C, D और E के लिए निर्धारित लक्ष्य तथा वास्तविक उपलब्धि दर्शाई गई है। यदि नगर C का लक्ष्य 225 इकाई तथा वास्तविक उपलब्धि 180 इकाई है, तो नगर C की उपलब्धि का उसके लक्ष्य से क्या अनुपात है?",
@@ -10215,7 +10218,2877 @@
         ],
         "explanation_en": "To convert a decimal into a percentage, multiply by 100: 0.25 × 100 = 25%."
       }
+    },
+    {
+      "question": "0.712 का भिन्नात्मक मान क्या है?",
+      "options": [
+        "47/66",
+        "47/69",
+        "47/56",
+        "47/61"
+      ],
+      "correctIndex": 0,
+      "explanation": "विकल्पों में दिए मानों की जाँच करने पर 47 ÷ 66 = 0.712121... आता है, जो दशमलव 0.712 के निकटतम और सही भिन्नात्मक मान है। शुद्ध दशमलव 0.712 का सरल भिन्न 89/125 होता है, परंतु वह विकल्प में नहीं है। शेष विकल्पों के मान 0.712 से भिन्न आते हैं।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0001",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the fractional value of 0.712?",
+        "options_en": [
+          "47/66",
+          "47/69",
+          "47/56",
+          "47/61"
+        ],
+        "explanation_en": "Checking the options, 47 ÷ 66 = 0.712121..., which matches 0.712. The exact fraction for the decimal 0.712 is 89/125, but it is not among the options."
+      }
+    },
+    {
+      "question": "0 और 50 के बीच की विषम संख्याओं का योग कितना है?",
+      "options": [
+        "625",
+        "1250",
+        "750",
+        "725"
+      ],
+      "correctIndex": 0,
+      "explanation": "0 से 50 के बीच 1, 3, 5, ..., 49 तक कुल 25 विषम संख्याएँ हैं। पहली n विषम संख्याओं का योग n² होता है, इसलिए यहाँ योग 25² = 625 है।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0002",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the sum of odd numbers between 0 and 50?",
+        "options_en": [
+          "625",
+          "1250",
+          "750",
+          "725"
+        ],
+        "explanation_en": "There are 25 odd numbers from 1 to 49, and the sum of the first n odd numbers is n squared, so the sum is 625."
+      }
+    },
+    {
+      "question": "1 से 200 तक कितनी प्राकृतिक संख्याएँ हैं जो 2 तथा 3 दोनों से विभाजित होती हैं?",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 और 3 दोनों से विभाज्य संख्याएँ 6 की गुणज होती हैं। 200 तक 6 के गुणजों की संख्या 200 ÷ 6 = 33 (पूर्णांक भाग) है। अतः 33 संख्याएँ ऐसी हैं।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0003",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "How many natural numbers from 1 to 200 are divisible by both 2 and 3?",
+        "options_en": [
+          "30",
+          "31",
+          "32",
+          "33"
+        ],
+        "explanation_en": "Numbers divisible by both 2 and 3 are multiples of 6, and there are 33 such numbers up to 200."
+      }
+    },
+    {
+      "question": "4 अंकों की सबसे छोटी संख्या कौन-सी है जिसे 5, 7 और 13 से भाग देने पर क्रमशः 3, 5 और 11 शेष बचता है?",
+      "options": [
+        "1173",
+        "1363",
+        "1073",
+        "1238"
+      ],
+      "correctIndex": 1,
+      "explanation": "प्रत्येक स्थिति में भाजक और शेष का अंतर समान है, इसलिए संख्या में 2 जोड़ने पर वह 5, 7 और 13 से पूर्णतः विभाज्य हो जाती है। 5, 7, 13 का ल.स. 455 है, तथा 455 का तीसरा गुणज 1365 है, जिसमें से 2 घटाने पर 1363 मिलता है। जाँच करने पर 1363 ÷ 5 में शेष 3, ÷ 7 में शेष 5 और ÷ 13 में शेष 11 आता है।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0004",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the smallest 4-digit number which leaves remainders 3, 5 and 11 when divided by 5, 7 and 13 respectively?",
+        "options_en": [
+          "1173",
+          "1363",
+          "1073",
+          "1238"
+        ],
+        "explanation_en": "The difference between divisor and remainder is 2 in each case, so the number plus 2 is divisible by 5, 7 and 13. The LCM is 455 and the third multiple is 1365, giving 1363."
+      }
+    },
+    {
+      "question": "संख्याओं 12, 18 और 30 के ल.स. तथा म.स. के अनुपात का योग कितना है?",
+      "options": [
+        "15",
+        "17",
+        "29",
+        "31"
+      ],
+      "correctIndex": 3,
+      "explanation": "12, 18 और 30 का ल.स. 180 तथा म.स. 6 है। इनका अनुपात 180 : 6 अर्थात 30 : 1 होता है, और अनुपात के पदों का योग 30 + 1 = 31 है।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0005",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the sum of the terms of the ratio of the LCM to the HCF of 12, 18 and 30?",
+        "options_en": [
+          "15",
+          "17",
+          "29",
+          "31"
+        ],
+        "explanation_en": "The LCM of 12, 18 and 30 is 180 and the HCF is 6, so the ratio is 30:1 and the sum of its terms is 31."
+      }
+    },
+    {
+      "question": "यदि 2x² + 3x + 1 को (3x + 2) से भाग दिया जाए, तो शेषफल क्या होगा?",
+      "options": [
+        "1/9",
+        "-1/9",
+        "2/9",
+        "-2/9"
+      ],
+      "correctIndex": 1,
+      "explanation": "शेषफल ज्ञात करने के लिए 3x + 2 = 0 अर्थात x = -2/3 रखने पर बहुपद का मान 2(4/9) + 3(-2/3) + 1 = 8/9 - 2 + 1 = -1/9 आता है। अतः शेषफल -1/9 है।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0006",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "If 2x² + 3x + 1 is divided by (3x + 2), what is the remainder?",
+        "options_en": [
+          "1/9",
+          "-1/9",
+          "2/9",
+          "-2/9"
+        ],
+        "explanation_en": "Putting x = -2/3 gives 2(4/9) + 3(-2/3) + 1 = -1/9, which is the remainder by the remainder theorem."
+      }
+    },
+    {
+      "question": "बहुपद x³ - 3x² + x + 2 को बहुपद g(x) से भाग देने पर भागफल और शेषफल क्रमशः x - 2 और -2x + 4 हैं। g(x) क्या है?",
+      "options": [
+        "x² - x + 1",
+        "x² + x + 1",
+        "x² + x - 1",
+        "x² - x - 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "भाज्य = भाजक × भागफल + शेषफल के अनुसार (x - 2)(x² - x + 1) + (-2x + 4) लेने पर x³ - 3x² + x + 2 प्राप्त होता है। अतः g(x) = x² - x + 1 है।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0007",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "On dividing the polynomial x³ - 3x² + x + 2 by g(x), the quotient and remainder are x - 2 and -2x + 4 respectively. What is g(x)?",
+        "options_en": [
+          "x² - x + 1",
+          "x² + x + 1",
+          "x² + x - 1",
+          "x² - x - 1"
+        ],
+        "explanation_en": "Using dividend = divisor × quotient + remainder, (x - 2)(x² - x + 1) - 2x + 4 gives x³ - 3x² + x + 2, so g(x) = x² - x + 1."
+      }
+    },
+    {
+      "question": "k के किस मान के लिए रैखिक समीकरण युग्म kx + 3y - (k - 3) = 0 तथा 12x + ky - k = 0 के अनंत हल होंगे?",
+      "options": [
+        "0",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "अनंत हलों की शर्त a1/a2 = b1/b2 = c1/c2 है। यहाँ k/12 = 3/k = (k - 3)/k बनता है, जिससे k/12 = 3/k से k² = 36 अर्थात k = 6 मिलता है। k = 6 रखने पर तीनों अनुपात 1/2 के बराबर हो जाते हैं।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0008",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "For what value of k does the pair of linear equations kx + 3y - (k - 3) = 0 and 12x + ky - k = 0 have infinitely many solutions?",
+        "options_en": [
+          "0",
+          "3",
+          "4",
+          "6"
+        ],
+        "explanation_en": "For infinitely many solutions k/12 = 3/k, giving k² = 36, so k = 6, at which all three ratios equal 1/2."
+      }
+    },
+    {
+      "question": "दो वर्गों के क्षेत्रफलों का योग 468 वर्ग मीटर है और उनके परिमापों का अंतर 24 मीटर है, तो दोनों वर्गों की सभी भुजाओं का योग कितना है?",
+      "options": [
+        "120 मीटर",
+        "100 मीटर",
+        "80 मीटर",
+        "140 मीटर"
+      ],
+      "correctIndex": 0,
+      "explanation": "मान लें भुजाएँ a और b हैं। परिमापों का अंतर 4(a - b) = 24, अतः a - b = 6। क्षेत्रफलों का योग a² + b² = 468 लेने पर a = 18 और b = 12 मिलता है। सभी भुजाओं का योग 4(18 + 12) = 120 मीटर होगा।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0009",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The sum of the areas of two squares is 468 square metres and the difference of their perimeters is 24 metres. What is the sum of all their sides?",
+        "options_en": [
+          "120 m",
+          "100 m",
+          "80 m",
+          "140 m"
+        ],
+        "explanation_en": "If the sides are a and b, then 4(a - b) = 24 gives a - b = 6, and a² + b² = 468 gives a = 18 and b = 12. The sum of all sides is 4(18 + 12) = 120 m."
+      }
+    },
+    {
+      "question": "उस वृत्त के त्रिज्यखंड का क्षेत्रफल ज्ञात कीजिए जिसकी त्रिज्या 6 से.मी. है तथा त्रिज्यखंड 60° का कोण बनाता है।",
+      "options": [
+        "10 π वर्ग से.मी.",
+        "8 π वर्ग से.मी.",
+        "6 π वर्ग से.मी.",
+        "4 π वर्ग से.मी."
+      ],
+      "correctIndex": 2,
+      "explanation": "त्रिज्यखंड का क्षेत्रफल = (θ/360) × πr² = (60/360) × π × 36 = 6π वर्ग से.मी. होता है। यह पूरे वृत्त के क्षेत्रफल का छठा भाग है।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0010",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Find the area of the sector of a circle of radius 6 cm which subtends an angle of 60 degrees.",
+        "options_en": [
+          "10 π sq cm",
+          "8 π sq cm",
+          "6 π sq cm",
+          "4 π sq cm"
+        ],
+        "explanation_en": "The area of a sector is (θ/360) × πr², so here (60/360) × π × 36 = 6π sq cm."
+      }
+    },
+    {
+      "question": "दो घन, जिनमें प्रत्येक का आयतन 125 घन से.मी. है, परस्पर संलग्न फलकों से जोड़े जाते हैं। इससे प्राप्त घनाभ का पृष्ठीय क्षेत्रफल कितना है?",
+      "options": [
+        "250 वर्ग से.मी.",
+        "225 वर्ग से.मी.",
+        "200 वर्ग से.मी.",
+        "इनमें से कोई नहीं"
+      ],
+      "correctIndex": 0,
+      "explanation": "प्रत्येक घन की भुजा 5 से.मी. है, अतः जुड़ने पर घनाभ की विमाएँ 10 × 5 × 5 से.मी. होती हैं। पृष्ठीय क्षेत्रफल = 2(lb + bh + hl) = 2(50 + 25 + 50) = 250 वर्ग से.मी. होगा।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0011",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Two cubes, each of volume 125 cubic cm, are joined face to face. What is the surface area of the resulting cuboid?",
+        "options_en": [
+          "250 sq cm",
+          "225 sq cm",
+          "200 sq cm",
+          "None of these"
+        ],
+        "explanation_en": "Each cube has side 5 cm, so the cuboid measures 10 × 5 × 5 cm and its surface area is 2(50 + 25 + 50) = 250 sq cm."
+      }
+    },
+    {
+      "question": "यदि ΔABC एक समद्विबाहु त्रिभुज है जिसमें कोण C समकोण है, तो AB²/AC² का मान क्या है?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "इनमें से कोई नहीं"
+      ],
+      "correctIndex": 2,
+      "explanation": "समकोण कोण C पर है, इसलिए AB कर्ण है और AC तथा BC बराबर भुजाएँ हैं। पाइथागोरस प्रमेय से AB² = AC² + BC² = 2AC², अतः AB²/AC² = 2 होगा।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0012",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "If triangle ABC is an isosceles triangle right angled at C, what is the value of AB²/AC²?",
+        "options_en": [
+          "4",
+          "3",
+          "2",
+          "None of these"
+        ],
+        "explanation_en": "AB is the hypotenuse and AC = BC, so AB² = AC² + BC² = 2AC², giving AB²/AC² = 2."
+      }
+    },
+    {
+      "question": "यदि किसी समकोण त्रिभुज का क्षेत्रफल 24 वर्ग से.मी. है तथा उसकी भुजाओं का अनुपात 3 : 4 : 5 है, तो उसका कर्ण कितना है?",
+      "options": [
+        "5 से.मी.",
+        "10 से.मी.",
+        "13 से.मी.",
+        "इनमें से कोई नहीं"
+      ],
+      "correctIndex": 1,
+      "explanation": "भुजाएँ 3x, 4x, 5x मानने पर क्षेत्रफल = 1/2 × 3x × 4x = 6x² = 24, अतः x = 2। इसलिए भुजाएँ 6, 8 और 10 से.मी. होंगी तथा कर्ण 10 से.मी. होगा।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0013",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "If the area of a right triangle is 24 sq cm and the ratio of its sides is 3:4:5, what is its hypotenuse?",
+        "options_en": [
+          "5 cm",
+          "10 cm",
+          "13 cm",
+          "None of these"
+        ],
+        "explanation_en": "Taking the sides as 3x, 4x and 5x, area = 6x² = 24 gives x = 2, so the sides are 6, 8 and 10 cm and the hypotenuse is 10 cm."
+      }
+    },
+    {
+      "question": "3 बजकर 40 मिनट पर घड़ी की दोनों सुइयों के बीच का कोण कितना है?",
+      "options": [
+        "140°",
+        "130°",
+        "120°",
+        "150°"
+      ],
+      "correctIndex": 1,
+      "explanation": "सूत्र |30H - 5.5M| से कोण = |30 × 3 - 5.5 × 40| = |90 - 220| = 130° प्राप्त होता है। चूँकि कोण 180° से कम है, यही न्यूनतम कोण है।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0014",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the angle between the two hands of a clock at 3:40?",
+        "options_en": [
+          "140°",
+          "130°",
+          "120°",
+          "150°"
+        ],
+        "explanation_en": "Using |30H - 5.5M| gives |90 - 220| = 130 degrees."
+      }
+    },
+    {
+      "question": "यदि किसी धन का 150 प्रतिशत 0.24 है, तो उसका 0.24 प्रतिशत क्या होगा?",
+      "options": [
+        "150",
+        "0.0384",
+        "0.000384",
+        "0.000864"
+      ],
+      "correctIndex": 2,
+      "explanation": "150 प्रतिशत = 0.24 से धन = 0.24 × 100/150 = 0.16 होता है। अब 0.16 का 0.24 प्रतिशत = 0.16 × 0.24/100 = 0.000384 होगा।",
+      "subCategory": "प्रतिशत व लाभ-हानि",
+      "questionType": "mcq",
+      "uuid": "math-uk-0015",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "If 150 percent of a sum is 0.24, what is 0.24 percent of that sum?",
+        "options_en": [
+          "150",
+          "0.0384",
+          "0.000384",
+          "0.000864"
+        ],
+        "explanation_en": "The sum is 0.24 × 100/150 = 0.16, so 0.24 percent of it is 0.16 × 0.24/100 = 0.000384."
+      }
+    },
+    {
+      "question": "3 पुरुष और 4 महिलाएँ एक कार्य को 7 दिन में तथा 2 पुरुष और 3 महिलाएँ उसी कार्य को 10 दिन में पूरा करते हैं। उसी कार्य को 3 पुरुष और 8 महिलाएँ कितने दिन में पूरा करेंगे?",
+      "options": [
+        "4 दिन",
+        "5 दिन",
+        "6 दिन",
+        "8 दिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "एक पुरुष का एक दिन का कार्य m और महिला का w मानने पर 3m + 4w = 1/7 तथा 2m + 3w = 1/10 मिलता है। हल करने पर m = 1/35 और w = 1/70 आता है। अतः 3 पुरुष और 8 महिलाओं का एक दिन का कार्य 3/35 + 8/70 = 1/5 है, इसलिए कार्य 5 दिन में पूरा होगा।",
+      "subCategory": "समय, कार्य व चाल-दूरी",
+      "questionType": "mcq",
+      "uuid": "math-uk-0016",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "3 men and 4 women can complete a work in 7 days, while 2 men and 3 women can complete it in 10 days. In how many days will 3 men and 8 women complete the same work?",
+        "options_en": [
+          "4 days",
+          "5 days",
+          "6 days",
+          "8 days"
+        ],
+        "explanation_en": "Solving 3m + 4w = 1/7 and 2m + 3w = 1/10 gives m = 1/35 and w = 1/70. Then 3m + 8w = 1/5, so the work is completed in 5 days."
+      }
+    },
+    {
+      "question": "पाँच घंटियाँ एक साथ बजना शुरू करती हैं और क्रमशः 6, 7, 8, 9 तथा 12 सेकंड के अंतराल पर बजती हैं। कितने सेकंड बाद वे फिर एक साथ बजेंगी?",
+      "options": [
+        "72",
+        "612",
+        "318",
+        "504"
+      ],
+      "correctIndex": 3,
+      "explanation": "सभी घंटियाँ फिर एक साथ तब बजेंगी जब 6, 7, 8, 9 और 12 का ल.स. बीत जाए। इनका ल.स. 504 है, अतः 504 सेकंड बाद वे पुनः एक साथ बजेंगी।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0017",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Five bells start ringing together and ring at intervals of 6, 7, 8, 9 and 12 seconds respectively. After how many seconds will they ring together again?",
+        "options_en": [
+          "72",
+          "612",
+          "318",
+          "504"
+        ],
+        "explanation_en": "They will ring together after the LCM of 6, 7, 8, 9 and 12, which is 504 seconds."
+      }
+    },
+    {
+      "question": "मेरी घड़ी मंगलवार दोपहर 1:00 बजे 1 मिनट धीमी तथा बृहस्पतिवार दोपहर 1:00 बजे 2 मिनट तेज थी। घड़ी ने सही समय कब दिखाया था?",
+      "options": [
+        "प्रातः 1:00 बजे",
+        "प्रातः 5:00 बजे",
+        "अपराह्न 1:00 बजे",
+        "अपराह्न 5:00 बजे"
+      ],
+      "correctIndex": 1,
+      "explanation": "मंगलवार से बृहस्पतिवार तक 48 घंटे में घड़ी कुल 3 मिनट तेज हुई, अर्थात 1 मिनट तेज होने में 16 घंटे लगे। घड़ी शुरू में 1 मिनट धीमी थी, इसलिए 16 घंटे बाद वह सही समय दिखाएगी। मंगलवार दोपहर 1:00 बजे से 16 घंटे बाद बुधवार प्रातः 5:00 बजे सही समय होगा।",
+      "subCategory": "समय, कार्य व चाल-दूरी",
+      "questionType": "mcq",
+      "uuid": "math-uk-0018",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "My watch was 1 minute slow at 1 pm on Tuesday and 2 minutes fast at 1 pm on Thursday. When did it show the correct time?",
+        "options_en": [
+          "1:00 am",
+          "5:00 am",
+          "1:00 pm",
+          "5:00 pm"
+        ],
+        "explanation_en": "The watch gained 3 minutes in 48 hours, so it gained 1 minute in 16 hours. Being 1 minute slow initially, it showed the correct time 16 hours after Tuesday 1 pm, that is 5 am on Wednesday."
+      }
+    },
+    {
+      "question": "12 : 60 :: 16 : ? के स्थान पर कौन-सी संख्या आएगी?",
+      "options": [
+        "112",
+        "122",
+        "210",
+        "212"
+      ],
+      "correctIndex": 0,
+      "explanation": "यहाँ संबंध n × (n/2 - 1) का है, क्योंकि 12 × (6 - 1) = 60। इसी प्रकार 16 × (8 - 1) = 112 होगा।",
+      "subCategory": "संख्या श्रृंखला व सादृश्यता",
+      "questionType": "mcq",
+      "uuid": "math-uk-0019",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "12 : 60 :: 16 : ? Which number will replace the question mark?",
+        "options_en": [
+          "112",
+          "122",
+          "210",
+          "212"
+        ],
+        "explanation_en": "The relation is n × (n/2 - 1), as 12 × 5 = 60, so 16 × 7 = 112."
+      }
+    },
+    {
+      "question": "एक सारणी में जनवरी से मई तक का औसत 40 है तथा जनवरी, फरवरी, मार्च और मई के मान क्रमशः 30, 45, 35 और 50 हैं। अप्रैल का मान क्या है?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "correctIndex": 1,
+      "explanation": "पाँच माह का कुल योग 40 × 5 = 200 होता है। ज्ञात मानों का योग 30 + 45 + 35 + 50 = 160 है, अतः अप्रैल का मान 200 - 160 = 40 हुआ।",
+      "subCategory": "औसत व अनुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0020",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "In a table the average from January to May is 40 and the values for January, February, March and May are 30, 45, 35 and 50. What is the value for April?",
+        "options_en": [
+          "35",
+          "40",
+          "45",
+          "50"
+        ],
+        "explanation_en": "The total for five months is 200 and the known values add to 160, so April is 40."
+      }
+    },
+    {
+      "question": "निम्नलिखित श्रेणी में सातवीं संख्या क्या है? 5, 9, 16, 29, 54, 103, ?",
+      "options": [
+        "300",
+        "200",
+        "150",
+        "330"
+      ],
+      "correctIndex": 1,
+      "explanation": "क्रमागत अंतर 4, 7, 13, 25, 49 हैं, जो प्रत्येक बार दुगना होकर एक कम होते हैं (4 × 2 - 1 = 7, 7 × 2 - 1 = 13 इत्यादि)। अगला अंतर 49 × 2 - 1 = 97 होगा, अतः अगली संख्या 103 + 97 = 200 है।",
+      "subCategory": "संख्या श्रृंखला व सादृश्यता",
+      "questionType": "mcq",
+      "uuid": "math-uk-0021",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the seventh number in the series 5, 9, 16, 29, 54, 103, ?",
+        "options_en": [
+          "300",
+          "200",
+          "150",
+          "330"
+        ],
+        "explanation_en": "The successive differences are 4, 7, 13, 25, 49, each being double the previous minus one, so the next difference is 97 and the next term is 200."
+      }
+    },
+    {
+      "question": "सचिन ने एक पारी में 125 रन बनाए, जिसमें 3 चौके और 8 छक्के शामिल थे। उसने अपने कुल स्कोर का कितना प्रतिशत रन विकेटों के बीच दौड़कर बनाया?",
+      "options": [
+        "45 प्रतिशत",
+        "50 प्रतिशत",
+        "52 प्रतिशत",
+        "55 प्रतिशत"
+      ],
+      "correctIndex": 2,
+      "explanation": "चौकों से 3 × 4 = 12 रन तथा छक्कों से 8 × 6 = 48 रन बने, कुल 60 रन। दौड़कर बनाए रन 125 - 60 = 65 हुए, जो कुल स्कोर का 65/125 × 100 = 52 प्रतिशत है।",
+      "subCategory": "प्रतिशत व लाभ-हानि",
+      "questionType": "mcq",
+      "uuid": "math-uk-0022",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Sachin scored 125 runs in an innings including 3 fours and 8 sixes. What percentage of his total score did he make by running between the wickets?",
+        "options_en": [
+          "45 percent",
+          "50 percent",
+          "52 percent",
+          "55 percent"
+        ],
+        "explanation_en": "Boundaries gave 3 × 4 + 8 × 6 = 60 runs, so 65 runs were run, which is 65/125 × 100 = 52 percent of the total."
+      }
+    },
+    {
+      "question": "₹150 को A, B और C में इस प्रकार बाँटा जाता है कि A का हिस्सा B से ₹20 अधिक तथा C से ₹20 कम है। B का हिस्सा कितना है?",
+      "options": [
+        "₹20",
+        "₹30",
+        "₹40",
+        "₹50"
+      ],
+      "correctIndex": 1,
+      "explanation": "B का हिस्सा x मानने पर A = x + 20 और C = x + 40 होगा। तीनों का योग 3x + 60 = 150, अतः x = 30। इसलिए B को ₹30 मिलते हैं।",
+      "subCategory": "औसत व अनुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0023",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "₹150 is divided among A, B and C so that A gets ₹20 more than B and ₹20 less than C. How much does B get?",
+        "options_en": [
+          "₹20",
+          "₹30",
+          "₹40",
+          "₹50"
+        ],
+        "explanation_en": "If B gets x, then A = x + 20 and C = x + 40, giving 3x + 60 = 150, so x = 30."
+      }
+    },
+    {
+      "question": "एक व्यक्ति ने 5 दिनों में 100 केले खाए और प्रत्येक दिन पहले दिन से 6 केले अधिक खाए। उसने पहले दिन कितने केले खाए?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "पहले दिन x केले खाने पर कुल योग x + (x + 6) + (x + 12) + (x + 18) + (x + 24) = 5x + 60 होगा। इसे 100 के बराबर रखने पर x = 8 मिलता है।",
+      "subCategory": "औसत व अनुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0024",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A person ate 100 bananas in 5 days, eating 6 more each day than the previous day. How many did he eat on the first day?",
+        "options_en": [
+          "6",
+          "8",
+          "7",
+          "9"
+        ],
+        "explanation_en": "The total is 5x + 60 = 100, so x = 8 bananas on the first day."
+      }
+    },
+    {
+      "question": "तीन अभाज्य संख्याओं का योग 100 है। यदि उनमें से एक संख्या दूसरी से 36 अधिक है, तो उनमें से एक संख्या कौन-सी है?",
+      "options": [
+        "7",
+        "29",
+        "41",
+        "67"
+      ],
+      "correctIndex": 3,
+      "explanation": "तीन अभाज्य संख्याओं का योग सम (100) है, अतः इनमें एक संख्या 2 होनी चाहिए। शेष दो का योग 98 और अंतर 36 है, जिससे वे 31 और 67 बनती हैं। तीनों संख्याएँ 2, 31 और 67 हैं, इसलिए विकल्प 67 सही है।",
+      "subCategory": "संख्या पद्धति व ल.स.-म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0025",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The sum of three prime numbers is 100. If one of them is 36 more than another, which of the following is one of the numbers?",
+        "options_en": [
+          "7",
+          "29",
+          "41",
+          "67"
+        ],
+        "explanation_en": "Since the sum of three primes is even, one prime must be 2. The other two add to 98 and differ by 36, giving 31 and 67."
+      }
+    },
+    {
+      "question": "गायों और मुर्गियों के एक समूह में पैरों की संख्या सिरों की संख्या के दुगुने से 14 अधिक है। गायों की संख्या कितनी है?",
+      "options": [
+        "12",
+        "10",
+        "7",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "यदि गाय c और मुर्गियाँ h हैं, तो सिर c + h तथा पैर 4c + 2h होंगे। शर्त के अनुसार 4c + 2h = 2(c + h) + 14, जिससे 2c = 14 और c = 7 मिलता है। अतः गायों की संख्या 7 है।",
+      "subCategory": "बीजगणित व ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0026",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "In a group of cows and hens, the number of legs is 14 more than twice the number of heads. What is the number of cows?",
+        "options_en": [
+          "12",
+          "10",
+          "7",
+          "5"
+        ],
+        "explanation_en": "With c cows and h hens, 4c + 2h = 2(c + h) + 14 gives 2c = 14, so there are 7 cows."
+      }
+    },
+    {
+      "question": "एक पाई-चार्ट में पाँच खंड हैं जिनके कोण 90°, 60°, 75°, 45° और 90° हैं। 75° कोण वाले खंड का प्रतिशत क्या है?",
+      "options": [
+        "15 प्रतिशत",
+        "20.83 प्रतिशत",
+        "25 प्रतिशत",
+        "18.75 प्रतिशत"
+      ],
+      "correctIndex": 1,
+      "explanation": "पूरे वृत्त का कोण 360° होता है, अतः 75° वाले खंड का प्रतिशत 75/360 × 100 = 20.83 प्रतिशत होगा। सभी कोणों का योग 360° है, जो पाई-चार्ट की पुष्टि करता है।",
+      "subCategory": "औसत व अनुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0027",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A pie chart has five segments with angles 90, 60, 75, 45 and 90 degrees. What percentage does the 75 degree segment represent?",
+        "options_en": [
+          "15 percent",
+          "20.83 percent",
+          "25 percent",
+          "18.75 percent"
+        ],
+        "explanation_en": "Since a full circle is 360 degrees, the segment is 75/360 × 100 = 20.83 percent."
+      }
+    },
+    {
+      "question": "यदि एक रेलगाड़ी की गति 120 किमी प्रति घंटा है और उसकी लंबाई 600 मीटर है, तो एक खंभे को पार करने में उसे कितना समय लगेगा?",
+      "options": [
+        "12 सेकंड",
+        "18 सेकंड",
+        "15 सेकंड",
+        "20 सेकंड"
+      ],
+      "correctIndex": 1,
+      "explanation": "गति 120 किमी/घंटा = 120 × 5/18 = 33.33 मीटर/सेकंड होती है। खंभे को पार करने में ट्रेन को अपनी लंबाई के बराबर दूरी तय करनी होती है, अतः समय 600 ÷ 33.33 = 18 सेकंड होगा।",
+      "subCategory": "समय, कार्य व चाल-दूरी",
+      "questionType": "mcq",
+      "uuid": "math-uk-0028",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "If a train is running at 120 km per hour and its length is 600 metres, how long will it take to cross a pole?",
+        "options_en": [
+          "12 seconds",
+          "18 seconds",
+          "15 seconds",
+          "20 seconds"
+        ],
+        "explanation_en": "120 km per hour equals 33.33 metres per second, so covering its own length of 600 metres takes 18 seconds."
+      }
+    },
+    {
+      "question": "गणितीय चिह्नों का सही संयोजन चुनिए जिससे ? चिह्नों के स्थान पर रखने पर समीकरण 36 ? 120 ? 4 ? 46 ? 20 सही हो जाए।",
+      "options": [
+        "=, ×, ÷, -",
+        "+, ÷, -, =",
+        "×, ÷, +, =",
+        "+, ÷, =, ×"
+      ],
+      "correctIndex": 1,
+      "explanation": "+, ÷, -, = रखने पर समीकरण 36 + 120 ÷ 4 - 46 = 20 बनता है। इसमें 120 ÷ 4 = 30, फिर 36 + 30 - 46 = 20, जो सही है।",
+      "subCategory": "संख्या श्रृंखला व सादृश्यता",
+      "questionType": "mcq",
+      "uuid": "math-uk-0029",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Choose the correct combination of mathematical signs to replace the ? signs so that 36 ? 120 ? 4 ? 46 ? 20 is correct.",
+        "options_en": [
+          "=, ×, ÷, -",
+          "+, ÷, -, =",
+          "×, ÷, +, =",
+          "+, ÷, =, ×"
+        ],
+        "explanation_en": "Using +, ÷, -, = gives 36 + 120 ÷ 4 - 46 = 20, which is correct since 120 ÷ 4 = 30 and 36 + 30 - 46 = 20."
+      }
+    },
+    {
+      "question": "एक शिविर में व्यक्तियों के लिए 42 दिन का भोजन उपलब्ध था। 10 दिन पश्चात 300 व्यक्ति और शिविर में आ गए, जिससे भोजन केवल 24 दिन में समाप्त हो गया। शिविर में प्रारंभ में कितने व्यक्ति थे?",
+      "options": [
+        "100",
+        "375",
+        "900",
+        "500"
+      ],
+      "correctIndex": 2,
+      "explanation": "10 दिन बाद शेष भोजन 32 दिन के लिए पर्याप्त था। यदि प्रारंभ में x व्यक्ति थे, तो x × 32 = (x + 300) × 24, जिससे 32x = 24x + 7200 और x = 900 मिलता है।",
+      "subCategory": "समय, कार्य व चाल-दूरी",
+      "questionType": "mcq",
+      "uuid": "math-uk-0030",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A camp had food for some persons for 42 days. After 10 days, 300 more persons joined and the food lasted only 24 more days. How many persons were there initially?",
+        "options_en": [
+          "100",
+          "375",
+          "900",
+          "500"
+        ],
+        "explanation_en": "After 10 days 32 days of food remained, so x × 32 = (x + 300) × 24, giving x = 900."
+      }
+    },
+    {
+      "question": "यदि (A + B) का 20% = (A – B) का 50%, तो A : B है:",
+      "options": [
+        "3 : 2",
+        "5 : 2",
+        "8 : 3",
+        "7 : 3"
+      ],
+      "correctIndex": 3,
+      "explanation": "0.20(A + B) = 0.50(A – B) ⇒ 2(A + B) = 5(A – B) ⇒ 2A + 2B = 5A – 5B ⇒ 7B = 3A ⇒ A : B = 7 : 3।",
+      "subCategory": "अनुपात व समानुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0031",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "यदि (A+B) का 20% = (A−B) का 50% है, तो A:B क्या है?",
+        "options_en": [
+          "3 : 2",
+          "5 : 2",
+          "8 : 3",
+          "7 : 3"
+        ],
+        "explanation_en": "0.20(A + B) = 0.50(A – B) gives 2A + 2B = 5A – 5B, hence 7B = 3A and A : B = 7 : 3."
+      }
+    },
+    {
+      "question": "एक बल्लेबाज ने 21वीं पारी में 84 रन बनाए, जिससे उसका औसत 2 रन बढ़ गया। उसका 21 पारियों का औसत है:",
+      "options": [
+        "42 रन",
+        "46 रन",
+        "48 रन",
+        "44 रन"
+      ],
+      "correctIndex": 3,
+      "explanation": "मान लें 20 पारियों का औसत a था। तब 20a + 84 = 21(a + 2) ⇒ 20a + 84 = 21a + 42 ⇒ a = 42। अतः 21 पारियों का औसत = 42 + 2 = 44 रन।",
+      "subCategory": "औसत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0032",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "21वीं पारी में 84 रन बनाने से औसत 2 बढ़ा; 21 पारियों का औसत क्या है?",
+        "options_en": [
+          "42 runs",
+          "46 runs",
+          "48 runs",
+          "44 runs"
+        ],
+        "explanation_en": "With old average a: 20a + 84 = 21(a + 2), giving a = 42, so the new average is 44 runs."
+      }
+    },
+    {
+      "question": "दो संख्याओं के HCF तथा LCM का अनुपात 1:6 है। यदि दोनों संख्याओं का गुणनफल 96 है, तो उनका LCM ज्ञात करें।",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "HCF × LCM = दोनों संख्याओं का गुणनफल = 96। HCF : LCM = 1 : 6, अतः मान लें HCF = x और LCM = 6x। तब x × 6x = 96 ⇒ x² = 16 ⇒ x = 4, अतः LCM = 6 × 4 = 24।",
+      "subCategory": "ल.स. व म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0033",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "HCF:LCM = 1:6 और गुणनफल 96 है, तो LCM क्या है?",
+        "options_en": [
+          "12",
+          "18",
+          "24",
+          "48"
+        ],
+        "explanation_en": "HCF × LCM = 96. With HCF = x and LCM = 6x, x × 6x = 96 gives x = 4, so LCM = 24."
+      }
+    },
+    {
+      "question": "दो संख्याओं के औसत का उनमें से एक संख्या के साथ अनुपात 4:7 है। छोटी संख्या का बड़ी संख्या के साथ अनुपात क्या है?",
+      "options": [
+        "1 : 7",
+        "2 : 5",
+        "1 : 5",
+        "3 : 7"
+      ],
+      "correctIndex": 0,
+      "explanation": "मान लें संख्याएँ a (छोटी) और b (बड़ी) हैं। औसत = (a+b)/2। दिया है औसत : b = 4 : 7 ⇒ 7(a+b) = 8b ⇒ 7a + 7b = 8b ⇒ b = 7a ⇒ a : b = 1 : 7।",
+      "subCategory": "अनुपात व समानुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0034",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "औसत तथा एक संख्या का अनुपात 4:7 है; छोटी : बड़ी संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "1 : 7",
+          "2 : 5",
+          "1 : 5",
+          "3 : 7"
+        ],
+        "explanation_en": "If average : larger number = 4 : 7, then 7(a + b) = 8b, giving b = 7a, so the ratio is 1 : 7."
+      }
+    },
+    {
+      "question": "1428 में कौन-सी छोटी से छोटी संख्या जोड़ने पर प्राप्त संख्या 3, 4, 5 और 6 से पूर्णतः विभाज्य होगी?",
+      "options": [
+        "15",
+        "18",
+        "9",
+        "12"
+      ],
+      "correctIndex": 3,
+      "explanation": "3, 4, 5 और 6 का ल.स. = 60। 1428 ÷ 60 का शेषफल = 48 (क्योंकि 60 × 23 = 1380)। अगली गुणज संख्या 1440 है, अतः आवश्यक संख्या = 1440 – 1428 = 12।",
+      "subCategory": "ल.स. व म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0035",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "1428 में कितना जोड़ें कि संख्या 3,4,5,6 से विभाज्य हो?",
+        "options_en": [
+          "15",
+          "18",
+          "9",
+          "12"
+        ],
+        "explanation_en": "LCM of 3, 4, 5 and 6 is 60. 1428 leaves remainder 48 on division by 60, and the next multiple is 1440, so 12 must be added."
+      }
+    },
+    {
+      "question": "यदि x + y = 10, y + z = 8 और z + x = 24 है, तो x, y और z का औसत है:",
+      "options": [
+        "10",
+        "9",
+        "14",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "तीनों समीकरणों को जोड़ने पर 2(x + y + z) = 10 + 8 + 24 = 42 ⇒ x + y + z = 21। अतः औसत = 21/3 = 7।",
+      "subCategory": "औसत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0036",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "x+y=10, y+z=8, z+x=24 हो तो x, y, z का औसत क्या है?",
+        "options_en": [
+          "10",
+          "9",
+          "14",
+          "7"
+        ],
+        "explanation_en": "Adding the three equations gives 2(x + y + z) = 42, so x + y + z = 21 and the average is 7."
+      }
+    },
+    {
+      "question": "₹2,500 की राशि साधारण ब्याज पर 3 वर्ष में ₹3,250 हो जाती है। इसी राशि पर इसी दर से 2 वर्ष का चक्रवृद्धि ब्याज क्या होगा?",
+      "options": [
+        "₹510",
+        "₹525",
+        "₹550",
+        "₹500"
+      ],
+      "correctIndex": 1,
+      "explanation": "साधारण ब्याज = 3250 – 2500 = ₹750, जो 3 वर्ष में है, अतः प्रति वर्ष ₹250 ⇒ दर = 250/2500 × 100 = 10%। 2 वर्ष का चक्रवृद्धि ब्याज = 2500[(1.1)² – 1] = 2500 × 0.21 = ₹525।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0037",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "₹2500 पर 10% दर से 2 वर्ष का चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+        "options_en": [
+          "Rs 510",
+          "Rs 525",
+          "Rs 550",
+          "Rs 500"
+        ],
+        "explanation_en": "Simple interest of Rs 750 over 3 years gives Rs 250 a year, i.e. 10% per annum. Compound interest for 2 years = 2500(1.1² – 1) = Rs 525."
+      }
+    },
+    {
+      "question": "तीन संख्याएँ 2/3 : 1/2 : 3/4 के अनुपात में हैं। इनमें से सबसे बड़ी तथा सबसे छोटी संख्या में अंतर 36 है। इन तीनों में सबसे छोटी संख्या है:",
+      "options": [
+        "54",
+        "72",
+        "24",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "अनुपात को 12 से गुणा करने पर 8 : 6 : 9 प्राप्त होता है। सबसे बड़ी 9 भाग तथा सबसे छोटी 6 भाग, अंतर = 3 भाग = 36 ⇒ 1 भाग = 12। अतः सबसे छोटी संख्या = 6 × 12 = 72।",
+      "subCategory": "अनुपात व समानुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0038",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "2/3 : 1/2 : 3/4 के अनुपात में संख्याएँ हैं; सबसे बड़ी व छोटी का अंतर 36 है। सबसे छोटी संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "54",
+          "72",
+          "24",
+          "60"
+        ],
+        "explanation_en": "The ratio becomes 8 : 6 : 9 on multiplying by 12. The difference of 3 parts equals 36, so one part is 12 and the smallest number is 72."
+      }
+    },
+    {
+      "question": "किसी संख्या का 75%, 75 में जोड़ने पर परिणाम वही संख्या आता है। वह संख्या है:",
+      "options": [
+        "316",
+        "300",
+        "260",
+        "280"
+      ],
+      "correctIndex": 1,
+      "explanation": "मान लें संख्या x है। 0.75x + 75 = x ⇒ 75 = 0.25x ⇒ x = 300। सत्यापन: 300 का 75% = 225, और 225 + 75 = 300।",
+      "subCategory": "प्रतिशत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0039",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "किसी संख्या का 75% में 75 जोड़ने पर वही संख्या मिलती है; संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "316",
+          "300",
+          "260",
+          "280"
+        ],
+        "explanation_en": "0.75x + 75 = x gives 0.25x = 75, so x = 300."
+      }
+    },
+    {
+      "question": "270 किमी की दूरी कार से तय करने में बस की अपेक्षा 2 घंटे कम लगते हैं। यदि बस की गति कार की गति की 60% है, तो कार की गति (किमी/घंटा में) है:",
+      "options": [
+        "80",
+        "85",
+        "75",
+        "90"
+      ],
+      "correctIndex": 3,
+      "explanation": "मान लें कार की गति v है, तब बस की गति 0.6v है। 270/(0.6v) – 270/v = 2 ⇒ 450/v – 270/v = 2 ⇒ 180/v = 2 ⇒ v = 90 किमी/घंटा।",
+      "subCategory": "चाल-दूरी-समय",
+      "questionType": "mcq",
+      "uuid": "math-uk-0040",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "270 किमी में बस कार से 2 घंटे अधिक लेती है और उसकी गति कार की 60% है; कार की गति ज्ञात कीजिए।",
+        "options_en": [
+          "80",
+          "85",
+          "75",
+          "90"
+        ],
+        "explanation_en": "With car speed v and bus speed 0.6v: 450/v – 270/v = 2, so v = 90 km/h."
+      }
+    },
+    {
+      "question": "कविता की आयु 40 वर्ष है और शैलजा की आयु 48 वर्ष है। कितने वर्ष बाद उनकी आयु का अनुपात 6:7 होगा?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "मान लें t वर्ष बाद अनुपात 6 : 7 होगा। (40 + t)/(48 + t) = 6/7 ⇒ 280 + 7t = 288 + 6t ⇒ t = 8। सत्यापन: 48 : 56 = 6 : 7।",
+      "subCategory": "आयु संबंधी प्रश्न",
+      "questionType": "mcq",
+      "uuid": "math-uk-0041",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "कविता 40 वर्ष और शैलजा 48 वर्ष की हैं; कितने वर्ष बाद आयु अनुपात 6:7 होगा?",
+        "options_en": [
+          "6",
+          "8",
+          "9",
+          "10"
+        ],
+        "explanation_en": "(40 + t)/(48 + t) = 6/7 gives t = 8 years, and 48 : 56 = 6 : 7."
+      }
+    },
+    {
+      "question": "5/6, 2/9 और 4/27 से पूर्णतः विभाज्य छोटी से छोटी भिन्न ज्ञात करें।",
+      "options": [
+        "1/3",
+        "20/27",
+        "20/9",
+        "20/3"
+      ],
+      "correctIndex": 3,
+      "explanation": "भिन्नों से विभाज्य छोटी से छोटी भिन्न = अंशों का ल.स. ÷ हरों का म.स. = ल.स.(5, 2, 4) ÷ म.स.(6, 9, 27) = 20 ÷ 3 = 20/3।",
+      "subCategory": "भिन्न",
+      "questionType": "mcq",
+      "uuid": "math-uk-0042",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "5/6, 2/9 और 4/27 से विभाज्य छोटी से छोटी भिन्न कौन-सी है?",
+        "options_en": [
+          "1/3",
+          "20/27",
+          "20/9",
+          "20/3"
+        ],
+        "explanation_en": "The least fraction divisible by given fractions = LCM of numerators ÷ HCF of denominators = 20 ÷ 3 = 20/3."
+      }
+    },
+    {
+      "question": "यदि किसी वर्ग की प्रत्येक भुजा को 20% बढ़ाया जाए, तो वर्ग के क्षेत्रफल में प्रतिशत वृद्धि होगी:",
+      "options": [
+        "40%",
+        "42%",
+        "44%",
+        "50%"
+      ],
+      "correctIndex": 2,
+      "explanation": "भुजा 20% बढ़ने पर नई भुजा 1.2a होगी और क्षेत्रफल (1.2a)² = 1.44a², अर्थात् 44% वृद्धि। सामान्य सूत्र: 20 + 20 + (20×20)/100 = 44%।",
+      "subCategory": "क्षेत्रमिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0043",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "वर्ग की भुजा 20% बढ़ाने पर क्षेत्रफल में कितने प्रतिशत वृद्धि होगी?",
+        "options_en": [
+          "40%",
+          "42%",
+          "44%",
+          "50%"
+        ],
+        "explanation_en": "The new side 1.2a gives area 1.44a², an increase of 44 per cent."
+      }
+    },
+    {
+      "question": "साधारण ब्याज पर एक निश्चित धनराशि 5 वर्ष में ₹13,080 और 8 वर्ष में ₹16,023 हो जाती है। ब्याज की वार्षिक दर है:",
+      "options": [
+        "8%",
+        "9%",
+        "11%",
+        "12%"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 वर्ष (8 – 5) का ब्याज = 16023 – 13080 = ₹2943 ⇒ प्रति वर्ष ब्याज = ₹981। मूलधन = 13080 – 5 × 981 = 13080 – 4905 = ₹8175। दर = 981/8175 × 100 = 12%।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0044",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "5 वर्ष में ₹13080 और 8 वर्ष में ₹16023 होने पर ब्याज दर ज्ञात कीजिए।",
+        "options_en": [
+          "8%",
+          "9%",
+          "11%",
+          "12%"
+        ],
+        "explanation_en": "Interest for 3 years is Rs 2943, i.e. Rs 981 a year. Principal = 13080 – 4905 = Rs 8175, so the rate is 12 per cent."
+      }
+    },
+    {
+      "question": "एक व्यापारी कुर्सी के अंकित मूल्य पर क्रमशः 20% एवं 10% की छूट देता है। यदि कुर्सी का अंकित मूल्य ₹2,000 है, तो ग्राहक को कितना मूल्य चुकाना पड़ेगा?",
+      "options": [
+        "₹1,400",
+        "₹1,440",
+        "₹1,600",
+        "₹1,500"
+      ],
+      "correctIndex": 1,
+      "explanation": "20% छूट के बाद मूल्य = 2000 × 0.80 = ₹1,600; इस पर 10% छूट के बाद = 1600 × 0.90 = ₹1,440। कुल छूट 28% हुई, अतः देय मूल्य ₹1,440।",
+      "subCategory": "लाभ-हानि व छूट",
+      "questionType": "mcq",
+      "uuid": "math-uk-0045",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "₹2000 अंकित मूल्य पर 20% व 10% की क्रमिक छूट के बाद देय मूल्य क्या होगा?",
+        "options_en": [
+          "Rs 1,400",
+          "Rs 1,440",
+          "Rs 1,600",
+          "Rs 1,500"
+        ],
+        "explanation_en": "After 20 per cent discount the price is Rs 1600, and a further 10 per cent gives Rs 1440."
+      }
+    },
+    {
+      "question": "यदि A की आय B की आय से 3/5 गुना है तथा C की आय B की आय से 6/5 गुना है, तो C की आय का A की आय से अनुपात है:",
+      "options": [
+        "3 : 1",
+        "2 : 1",
+        "1 : 1",
+        "1 : 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "मान लें B की आय = 5x। तब A = 3x और C = 6x। अतः C : A = 6x : 3x = 2 : 1।",
+      "subCategory": "अनुपात व समानुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0046",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A = 3/5 B और C = 6/5 B है; C : A ज्ञात कीजिए।",
+        "options_en": [
+          "3 : 1",
+          "2 : 1",
+          "1 : 1",
+          "1 : 2"
+        ],
+        "explanation_en": "Taking B = 5x gives A = 3x and C = 6x, so C : A = 2 : 1."
+      }
+    },
+    {
+      "question": "एक निश्चित राशि पर 5% की दर से दो वर्षों के लिए साधारण ब्याज और चक्रवृद्धि ब्याज के बीच का अंतर ₹25 है, राशि क्या है?",
+      "options": [
+        "₹15,000",
+        "₹9,000",
+        "₹10,000",
+        "₹8,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "दो वर्षों के लिए CI – SI = P(r/100)² = P(5/100)² = P/400। दिया है P/400 = 25 ⇒ P = ₹10,000।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0047",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "2 वर्ष के CI व SI का अंतर ₹25 है और दर 5% है; मूलधन ज्ञात कीजिए।",
+        "options_en": [
+          "Rs 15,000",
+          "Rs 9,000",
+          "Rs 10,000",
+          "Rs 8,000"
+        ],
+        "explanation_en": "For two years CI – SI = P(r/100)² = P/400 = 25, so P = Rs 10,000."
+      }
+    },
+    {
+      "question": "एक व्यक्ति का वेतन 20% घटा दिया गया। उसके घटे हुए वेतन को कितने प्रतिशत बढ़ाया जाए कि वह वास्तविक वेतन के बराबर हो जाए?",
+      "options": [
+        "25%",
+        "33 ½%",
+        "27%",
+        "20%"
+      ],
+      "correctIndex": 0,
+      "explanation": "मान लें वेतन ₹100 था; 20% घटने पर ₹80 रह गया। ₹80 को ₹100 तक लाने के लिए 20/80 × 100 = 25% वृद्धि आवश्यक है। सामान्य सूत्र: x/(100 – x) × 100।",
+      "subCategory": "प्रतिशत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0048",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "वेतन 20% घटने के बाद उसे मूल स्तर पर लाने के लिए कितने प्रतिशत वृद्धि चाहिए?",
+        "options_en": [
+          "25%",
+          "33 ½%",
+          "27%",
+          "20%"
+        ],
+        "explanation_en": "Rs 100 falling to Rs 80 needs a rise of 20/80 × 100 = 25 per cent to return to Rs 100."
+      }
+    },
+    {
+      "question": "एक समूह के लोगों की आयु की बारंबारता सारणी में वर्गों के मध्य बिंदु 25, 32, 39, 46, 53 और 60 हैं; वर्ग अंतराल का माप क्या होगा?",
+      "options": [
+        "7",
+        "10",
+        "20",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्रमागत वर्ग-मध्य बिंदुओं का अंतर ही वर्ग अंतराल (class size) होता है: 32 – 25 = 7, 39 – 32 = 7, आदि। अतः वर्ग अंतराल 7 है।",
+      "subCategory": "सांख्यिकी",
+      "questionType": "mcq",
+      "uuid": "math-uk-0049",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "वर्ग-मध्य बिंदु 25, 32, 39, 46, 53, 60 हैं; वर्ग अंतराल ज्ञात कीजिए।",
+        "options_en": [
+          "7",
+          "10",
+          "20",
+          "5"
+        ],
+        "explanation_en": "The difference between consecutive class mid-points gives the class size: 32 – 25 = 7."
+      }
+    },
+    {
+      "question": "यदि 5 विद्यार्थियों के भौतिकी और रसायन विज्ञान में प्राप्तांकों के कोटि अंतरों के वर्गों का योग 15 है, तो कोटि सहसंबंध गुणांक होगा:",
+      "options": [
+        "0.33",
+        "0.75",
+        "0.25",
+        "1.1"
+      ],
+      "correctIndex": 2,
+      "explanation": "स्पीयरमैन सूत्र: R = 1 – 6Σd²/[n(n² – 1)] = 1 – 6 × 15/[5(25 – 1)] = 1 – 90/120 = 1 – 0.75 = 0.25।",
+      "subCategory": "सांख्यिकी",
+      "questionType": "mcq",
+      "uuid": "math-uk-0050",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "n = 5 और Σd² = 15 हो तो कोटि सहसंबंध गुणांक क्या होगा?",
+        "options_en": [
+          "0.33",
+          "0.75",
+          "0.25",
+          "1.1"
+        ],
+        "explanation_en": "Spearman's formula gives R = 1 – 6(15)/[5(25 – 1)] = 1 – 0.75 = 0.25."
+      }
+    },
+    {
+      "question": "यदि किसी राशि पर 6¼ वर्ष में साधारण ब्याज मूलधन का 3/8 भाग हो, तो वार्षिक ब्याज दर है:",
+      "options": [
+        "6%",
+        "5%",
+        "8%",
+        "4%"
+      ],
+      "correctIndex": 0,
+      "explanation": "SI = (3/8)P, t = 6¼ = 25/4 वर्ष। SI = P × r × t/100 ⇒ (3/8) = r × (25/4)/100 ⇒ r = (3/8) × 400/25 = 6%।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0051",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "6¼ वर्ष में साधारण ब्याज मूलधन का 3/8 हो तो वार्षिक दर क्या है?",
+        "options_en": [
+          "6%",
+          "5%",
+          "8%",
+          "4%"
+        ],
+        "explanation_en": "With SI = 3P/8 and t = 25/4 years, r = (3/8) × 400/25 = 6 per cent."
+      }
+    },
+    {
+      "question": "दो संख्याएँ A और B ऐसी हैं कि A के 5% और B के 10% का योग, A के 20% और B के 10% के योग का आधा है। A : B ज्ञात कीजिए।",
+      "options": [
+        "1 : 3",
+        "2 : 1",
+        "1 : 1",
+        "1 : 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.05A + 0.10B = ½(0.20A + 0.10B) ⇒ 0.05A + 0.10B = 0.10A + 0.05B ⇒ 0.05B = 0.05A ⇒ A = B, अतः A : B = 1 : 1।",
+      "subCategory": "अनुपात व समानुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0052",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "दी गई शर्त से A:B ज्ञात कीजिए।",
+        "options_en": [
+          "1 : 3",
+          "2 : 1",
+          "1 : 1",
+          "1 : 2"
+        ],
+        "explanation_en": "0.05A + 0.10B = 0.5(0.20A + 0.10B) simplifies to 0.05A = 0.05B, hence A : B = 1 : 1."
+      }
+    },
+    {
+      "question": "मोहन अपने भाई से दोगुना बड़ा है। 3 वर्ष पहले मोहन की आयु उसके भाई की आयु की 3 गुनी थी। मोहन की वर्तमान आयु ज्ञात करें।",
+      "options": [
+        "6 वर्ष",
+        "12 वर्ष",
+        "16 वर्ष",
+        "14 वर्ष"
+      ],
+      "correctIndex": 1,
+      "explanation": "मान लें भाई की आयु b है, तब मोहन 2b। 3 वर्ष पहले: 2b – 3 = 3(b – 3) ⇒ 2b – 3 = 3b – 9 ⇒ b = 6। अतः मोहन की वर्तमान आयु = 12 वर्ष।",
+      "subCategory": "आयु संबंधी प्रश्न",
+      "questionType": "mcq",
+      "uuid": "math-uk-0053",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "मोहन भाई से दोगुना है और 3 वर्ष पहले तिगुना था; मोहन की आयु ज्ञात कीजिए।",
+        "options_en": [
+          "6 years",
+          "12 years",
+          "16 years",
+          "14 years"
+        ],
+        "explanation_en": "With brother aged b and Mohan 2b: 2b – 3 = 3(b – 3) gives b = 6, so Mohan is 12 years old."
+      }
+    },
+    {
+      "question": "10% की छूट देने के बाद 25% लाभ प्राप्त करने के लिए दुकानदार को ₹360 लागत वाली वस्तु का मूल्य कितना अंकित करना चाहिए?",
+      "options": [
+        "₹486",
+        "₹460",
+        "₹450",
+        "₹500"
+      ],
+      "correctIndex": 3,
+      "explanation": "25% लाभ के लिए विक्रय मूल्य = 360 × 1.25 = ₹450। यह मूल्य 10% छूट के बाद का है, अतः अंकित मूल्य × 0.90 = 450 ⇒ अंकित मूल्य = ₹500।",
+      "subCategory": "लाभ-हानि व छूट",
+      "questionType": "mcq",
+      "uuid": "math-uk-0054",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "₹360 लागत पर 10% छूट व 25% लाभ के लिए अंकित मूल्य क्या होगा?",
+        "options_en": [
+          "Rs 486",
+          "Rs 460",
+          "Rs 450",
+          "Rs 500"
+        ],
+        "explanation_en": "Selling price for 25 per cent profit is Rs 450; since this is after 10 per cent discount, marked price = 450/0.9 = Rs 500."
+      }
+    },
+    {
+      "question": "यदि किसी संख्या के 4/5 भाग और 3/4 भाग का अंतर 4 है, तो संख्या क्या है?",
+      "options": [
+        "40",
+        "100",
+        "60",
+        "80"
+      ],
+      "correctIndex": 3,
+      "explanation": "मान लें संख्या x है। (4/5)x – (3/4)x = 4 ⇒ (16x – 15x)/20 = 4 ⇒ x/20 = 4 ⇒ x = 80।",
+      "subCategory": "भिन्न",
+      "questionType": "mcq",
+      "uuid": "math-uk-0055",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "संख्या के 4/5 और 3/4 भाग का अंतर 4 है; संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "40",
+          "100",
+          "60",
+          "80"
+        ],
+        "explanation_en": "(4/5 – 3/4)x = 4 gives x/20 = 4, so x = 80."
+      }
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 3:4 है और उनका योग 420 है। दोनों में से बड़ी संख्या है:",
+      "options": [
+        "180",
+        "360",
+        "240",
+        "200"
+      ],
+      "correctIndex": 2,
+      "explanation": "अनुपात 3 : 4 में कुल 7 भाग = 420 ⇒ 1 भाग = 60। अतः संख्याएँ 180 और 240 हैं; बड़ी संख्या 240 है।",
+      "subCategory": "अनुपात व समानुपात",
+      "questionType": "mcq",
+      "uuid": "math-uk-0056",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "3:4 अनुपात में संख्याओं का योग 420 है; बड़ी संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "180",
+          "360",
+          "240",
+          "200"
+        ],
+        "explanation_en": "Seven parts equal 420, so one part is 60 and the numbers are 180 and 240; the larger is 240."
+      }
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 7:11 है और उनका लघुत्तम समापवर्त्य 154 है। पहली संख्या है:",
+      "options": [
+        "14",
+        "22",
+        "7",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "अनुपात 7 : 11 होने पर संख्याएँ 7x और 11x होंगी तथा LCM = 77x (क्योंकि 7 और 11 सह-अभाज्य हैं)। 77x = 154 ⇒ x = 2, अतः संख्याएँ 14 और 22 हैं; पहली संख्या 14 है।",
+      "subCategory": "ल.स. व म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0057",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "7:11 अनुपात और LCM 154 हो तो पहली संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "14",
+          "22",
+          "7",
+          "32"
+        ],
+        "explanation_en": "Numbers 7x and 11x have LCM 77x = 154, giving x = 2, so the numbers are 14 and 22."
+      }
+    },
+    {
+      "question": "कितने समय में ₹1,200, 6% प्रति वर्ष साधारण ब्याज की दर से ₹1,344 हो जाएगा?",
+      "options": [
+        "2 वर्ष",
+        "3 ½ वर्ष",
+        "2 ½ वर्ष",
+        "3 वर्ष"
+      ],
+      "correctIndex": 0,
+      "explanation": "ब्याज = 1344 – 1200 = ₹144। 144 = 1200 × 6 × t/100 ⇒ 144 = 72t ⇒ t = 2 वर्ष।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0058",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "₹1200, 6% साधारण ब्याज से कितने समय में ₹1344 होगा?",
+        "options_en": [
+          "2 years",
+          "3 ½ years",
+          "2 ½ years",
+          "3 years"
+        ],
+        "explanation_en": "Interest is Rs 144, and 144 = 1200 × 6 × t/100 gives t = 2 years."
+      }
+    },
+    {
+      "question": "16 व्यक्ति 6 दिनों में खेत का 1/5 भाग काट देते हैं। शेष खेत को 8 दिनों में काटने के लिए कितने व्यक्तियों की आवश्यकता होगी?",
+      "options": [
+        "64",
+        "48",
+        "27",
+        "54"
+      ],
+      "correctIndex": 1,
+      "explanation": "1/5 भाग के लिए 16 × 6 = 96 व्यक्ति-दिन लगे, अतः शेष 4/5 भाग के लिए 96 × 4 = 384 व्यक्ति-दिन चाहिए। 8 दिनों में = 384/8 = 48 व्यक्ति।",
+      "subCategory": "समय व कार्य",
+      "questionType": "mcq",
+      "uuid": "math-uk-0059",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "16 व्यक्ति 6 दिन में 1/5 खेत काटते हैं; शेष 8 दिन में काटने के लिए कितने व्यक्ति चाहिए?",
+        "options_en": [
+          "64",
+          "48",
+          "27",
+          "54"
+        ],
+        "explanation_en": "One-fifth takes 96 man-days, so the remaining four-fifths need 384 man-days; over 8 days this requires 48 men."
+      }
+    },
+    {
+      "question": "त्रिभुज ABC में यदि ∠A – ∠B = 15° और ∠B – ∠C = 30° है, तो ∠A बराबर है:",
+      "options": [
+        "65°",
+        "80°",
+        "75°",
+        "85°"
+      ],
+      "correctIndex": 1,
+      "explanation": "∠A = ∠B + 15° तथा ∠C = ∠B – 30°। तीनों को जोड़ने पर (B + 15) + B + (B – 30) = 180 ⇒ 3B – 15 = 180 ⇒ B = 65°, अतः ∠A = 80°।",
+      "subCategory": "ज्यामिति",
+      "questionType": "mcq",
+      "uuid": "math-uk-0060",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "∠A − ∠B = 15° और ∠B − ∠C = 30° हो तो ∠A ज्ञात कीजिए।",
+        "options_en": [
+          "65°",
+          "80°",
+          "75°",
+          "85°"
+        ],
+        "explanation_en": "A = B + 15 and C = B – 30, so 3B – 15 = 180 giving B = 65°, hence A = 80°."
+      }
+    },
+    {
+      "question": "छह अंकों की वह छोटी से छोटी संख्या ज्ञात कीजिए जो 15, 21 और 28 से पूर्णतः विभाज्य हो:",
+      "options": [
+        "100480",
+        "100270",
+        "100340",
+        "100380"
+      ],
+      "correctIndex": 3,
+      "explanation": "15, 21 और 28 का ल.स. = 420। छह अंकों की सबसे छोटी संख्या 100000 है; 100000 ÷ 420 = 238.09, अतः अगली गुणज संख्या = 239 × 420 = 100380।",
+      "subCategory": "ल.स. व म.स.",
+      "questionType": "mcq",
+      "uuid": "math-uk-0061",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "15, 21, 28 से विभाज्य छह अंकों की सबसे छोटी संख्या ज्ञात कीजिए।",
+        "options_en": [
+          "100480",
+          "100270",
+          "100340",
+          "100380"
+        ],
+        "explanation_en": "LCM of 15, 21 and 28 is 420; 239 × 420 = 100380 is the smallest six-digit multiple."
+      }
+    },
+    {
+      "question": "100 मीटर लंबी एक ट्रेन 72 किमी/घंटा की गति से एक पुल को 25 सेकंड में पार करती है। पुल की लंबाई है:",
+      "options": [
+        "400 मीटर",
+        "200 मीटर",
+        "150 मीटर",
+        "300 मीटर"
+      ],
+      "correctIndex": 0,
+      "explanation": "72 किमी/घंटा = 72 × 5/18 = 20 मीटर/सेकंड। 25 सेकंड में तय दूरी = 20 × 25 = 500 मीटर, जो ट्रेन + पुल की लंबाई है। अतः पुल = 500 – 100 = 400 मीटर।",
+      "subCategory": "चाल-दूरी-समय",
+      "questionType": "mcq",
+      "uuid": "math-uk-0062",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "100 मी लंबी ट्रेन 72 किमी/घं में 25 सेकंड में पुल पार करती है; पुल की लंबाई कितनी है?",
+        "options_en": [
+          "400 metres",
+          "200 metres",
+          "150 metres",
+          "300 metres"
+        ],
+        "explanation_en": "72 km/h is 20 m/s, so in 25 seconds the train covers 500 m; the bridge is 500 – 100 = 400 m."
+      }
+    },
+    {
+      "question": "एक राशि 3 वर्षों में ₹1,344 तथा 7 वर्षों में ₹1,536 हो जाती है। साधारण ब्याज पर मूल राशि क्या है?",
+      "options": [
+        "₹4,000",
+        "₹1,200",
+        "₹2,800",
+        "₹1,500"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 वर्ष (7 – 3) का ब्याज = 1536 – 1344 = ₹192 ⇒ प्रति वर्ष ₹48। 3 वर्ष का ब्याज = ₹144, अतः मूलधन = 1344 – 144 = ₹1,200।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0063",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "3 वर्ष में ₹1344 और 7 वर्ष में ₹1536 हो तो मूलधन ज्ञात कीजिए।",
+        "options_en": [
+          "Rs 4,000",
+          "Rs 1,200",
+          "Rs 2,800",
+          "Rs 1,500"
+        ],
+        "explanation_en": "Interest for 4 years is Rs 192, i.e. Rs 48 a year; 3 years' interest is Rs 144, so the principal is Rs 1,200."
+      }
+    },
+    {
+      "question": "यदि किसी संख्या का 37½% 45 है, तो संख्या का 87½% होगा:",
+      "options": [
+        "135",
+        "145",
+        "105",
+        "115"
+      ],
+      "correctIndex": 2,
+      "explanation": "37½% = 3/8, अतः संख्या = 45 × 8/3 = 120। 87½% = 7/8, इसलिए 120 × 7/8 = 105।",
+      "subCategory": "प्रतिशत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0064",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "किसी संख्या का 37½% = 45 है; उसका 87½% क्या होगा?",
+        "options_en": [
+          "135",
+          "145",
+          "105",
+          "115"
+        ],
+        "explanation_en": "37½% is 3/8, so the number is 45 × 8/3 = 120; 87½% (7/8) of 120 = 105."
+      }
+    },
+    {
+      "question": "यदि प्रथम n प्राकृत संख्याओं का माध्य 2n/3 हो, तो n का मान होगा:",
+      "options": [
+        "0",
+        "4",
+        "3",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "प्रथम n प्राकृत संख्याओं का माध्य = (n + 1)/2। दिया है (n + 1)/2 = 2n/3 ⇒ 3n + 3 = 4n ⇒ n = 3। सत्यापन: 1, 2, 3 का माध्य 2 = 2(3)/3 = 2।",
+      "subCategory": "औसत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0065",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "प्रथम n प्राकृत संख्याओं का माध्य 2n/3 है; n ज्ञात कीजिए।",
+        "options_en": [
+          "0",
+          "4",
+          "3",
+          "2"
+        ],
+        "explanation_en": "The mean of the first n natural numbers is (n + 1)/2, so (n + 1)/2 = 2n/3 gives n = 3."
+      }
+    },
+    {
+      "question": "किसी कक्षा में लड़कियों और लड़कों की संख्या का अनुपात 24:16 है। कक्षा में लड़कियों की प्रतिशत संख्या क्या है?",
+      "options": [
+        "66%",
+        "56%",
+        "40%",
+        "60%"
+      ],
+      "correctIndex": 3,
+      "explanation": "कुल भाग = 24 + 16 = 40, जिसमें लड़कियाँ 24 भाग हैं। लड़कियों का प्रतिशत = 24/40 × 100 = 60%।",
+      "subCategory": "प्रतिशत",
+      "questionType": "mcq",
+      "uuid": "math-uk-0066",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "लड़कियाँ : लड़के = 24:16; लड़कियों का प्रतिशत ज्ञात कीजिए।",
+        "options_en": [
+          "66%",
+          "56%",
+          "40%",
+          "60%"
+        ],
+        "explanation_en": "Girls are 24 of 40 parts, so their share is 24/40 × 100 = 60 per cent."
+      }
+    },
+    {
+      "question": "₹10,000 की राशि पर 2 वर्ष के लिए चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ₹400 है। ब्याज की वार्षिक दर क्या होगी?",
+      "options": [
+        "10%",
+        "20%",
+        "40%",
+        "15%"
+      ],
+      "correctIndex": 1,
+      "explanation": "दो वर्ष के लिए CI – SI = P(r/100)² = 10000 × r²/10000 = r²। दिया है r² = 400 ⇒ r = 20% वार्षिक।",
+      "subCategory": "ब्याज",
+      "questionType": "mcq",
+      "uuid": "math-uk-0067",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "₹10000 पर 2 वर्ष के CI व SI का अंतर ₹400 है; दर ज्ञात कीजिए।",
+        "options_en": [
+          "10%",
+          "20%",
+          "40%",
+          "15%"
+        ],
+        "explanation_en": "For two years CI – SI = P(r/100)² = r² here, so r² = 400 and r = 20 per cent."
+      }
+    },
+    {
+      "question": "1 समुद्री मील (Nautical Mile) बराबर है:",
+      "options": [
+        "1.942 किमी",
+        "1.852 किमी",
+        "1.584 किमी",
+        "1.634 किमी"
+      ],
+      "correctIndex": 1,
+      "explanation": "एक समुद्री मील = 1.852 किलोमीटर = 1852 मीटर। यह पृथ्वी की सतह पर एक मिनट के अक्षांश-चाप के लगभग बराबर दूरी है, इसलिए इसका प्रयोग समुद्री तथा वायु नौवहन में होता है।",
+      "subCategory": "मापन",
+      "questionType": "mcq",
+      "uuid": "math-uk-0068",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "1 समुद्री मील कितने किलोमीटर के बराबर है?",
+        "options_en": [
+          "1.942 km",
+          "1.852 km",
+          "1.584 km",
+          "1.634 km"
+        ],
+        "explanation_en": "One nautical mile equals 1.852 km (1852 m), roughly one minute of latitude, used in sea and air navigation."
+      }
+    },
+    {
+      "question": "₹8000 पर 7.5% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "₹1,000",
+        "₹1,200",
+        "₹1,500",
+        "₹900"
+      ],
+      "correctIndex": 1,
+      "explanation": "साधारण ब्याज = मूलधन × दर × समय / 100 = 8000 × 7.5 × 2 / 100 = ₹1,200।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0069",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the simple interest on Rs 8000 at 7.5% per annum for 2 years?",
+        "options_en": [
+          "Rs 1,000",
+          "Rs 1,200",
+          "Rs 1,500",
+          "Rs 900"
+        ],
+        "explanation_en": "SI = 8000 × 7.5 × 2 / 100 = Rs 1,200."
+      }
+    },
+    {
+      "question": "₹10,000 पर 10% वार्षिक दर से 2 वर्ष का वार्षिक संयोजित चक्रवृद्धि ब्याज कितना होगा?",
+      "options": [
+        "₹2,000",
+        "₹2,100",
+        "₹2,200",
+        "₹1,900"
+      ],
+      "correctIndex": 1,
+      "explanation": "मिश्रधन = 10000 × (1.10)² = ₹12,100; अतः चक्रवृद्धि ब्याज = 12100 − 10000 = ₹2,100।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0070",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the compound interest on Rs 10,000 at 10% per annum for 2 years, compounded annually?",
+        "options_en": [
+          "Rs 2,000",
+          "Rs 2,100",
+          "Rs 2,200",
+          "Rs 1,900"
+        ],
+        "explanation_en": "Amount = 10000 × 1.10² = Rs 12,100, so CI = Rs 2,100."
+      }
+    },
+    {
+      "question": "किसी धनराशि पर 8% वार्षिक दर से 2 वर्ष के चक्रवृद्धि ब्याज तथा साधारण ब्याज का अंतर ₹80 है। मूलधन कितना है?",
+      "options": [
+        "₹10,000",
+        "₹12,500",
+        "₹15,000",
+        "₹8,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 वर्ष के लिए अंतर = P × (r/100)² = P × (8/100)² = P × 0.0064 = 80, अतः P = 80/0.0064 = ₹12,500।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0071",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The difference between CI and SI for 2 years at 8% per annum is Rs 80. Find the principal.",
+        "options_en": [
+          "Rs 10,000",
+          "Rs 12,500",
+          "Rs 15,000",
+          "Rs 8,000"
+        ],
+        "explanation_en": "Difference for 2 years = P(r/100)², so 80 = P × 0.0064 giving P = Rs 12,500."
+      }
+    },
+    {
+      "question": "दो संख्याओं के HCF तथा LCM का अनुपात 1:6 है। यदि दोनों संख्याओं का गुणनफल 96 है, तो उनका LCM कितना है?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "HCF × LCM = दोनों संख्याओं का गुणनफल। मान लें HCF = x, LCM = 6x, तब x × 6x = 96 → x² = 16 → x = 4। अतः LCM = 6 × 4 = 24।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0072",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The ratio of HCF and LCM of two numbers is 1:6 and their product is 96. Find the LCM.",
+        "options_en": [
+          "12",
+          "18",
+          "24",
+          "48"
+        ],
+        "explanation_en": "HCF × LCM = product, so x · 6x = 96 giving x = 4 and LCM = 24."
+      }
+    },
+    {
+      "question": "A किसी कार्य को 12 दिन में तथा B उसी कार्य को 18 दिन में पूरा कर सकता है। दोनों मिलकर उसे कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "7 1/5 दिन",
+        "6 दिन",
+        "9 दिन",
+        "8 1/2 दिन"
+      ],
+      "correctIndex": 0,
+      "explanation": "एक दिन का कार्य = 1/12 + 1/18 = (3+2)/36 = 5/36; अतः समय = 36/5 = 7 1/5 दिन।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0073",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A can do a work in 12 days and B in 18 days. Working together they will finish it in:",
+        "options_en": [
+          "7 1/5 days",
+          "6 days",
+          "9 days",
+          "8 1/2 days"
+        ],
+        "explanation_en": "One day's work = 5/36, so time = 36/5 = 7 1/5 days."
+      }
+    },
+    {
+      "question": "180 मीटर लंबी एक रेलगाड़ी 54 किमी/घंटा की गति से चलकर 270 मीटर लंबे प्लेटफॉर्म को कितने सेकंड में पार करेगी?",
+      "options": [
+        "24 सेकंड",
+        "30 सेकंड",
+        "36 सेकंड",
+        "45 सेकंड"
+      ],
+      "correctIndex": 1,
+      "explanation": "गति = 54 × 5/18 = 15 मी/से; कुल दूरी = 180 + 270 = 450 मी; समय = 450/15 = 30 सेकंड।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0074",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A 180 m long train running at 54 km/h crosses a 270 m long platform in how many seconds?",
+        "options_en": [
+          "24 seconds",
+          "30 seconds",
+          "36 seconds",
+          "45 seconds"
+        ],
+        "explanation_en": "Speed = 15 m/s, total distance = 450 m, so time = 30 seconds."
+      }
+    },
+    {
+      "question": "एक नाव की शांत जल में गति 12 किमी/घंटा तथा धारा की गति 3 किमी/घंटा है। नाव को धारा के अनुकूल 45 किमी जाने में कितना समय लगेगा?",
+      "options": [
+        "3 घंटे",
+        "4 घंटे",
+        "5 घंटे",
+        "6 घंटे"
+      ],
+      "correctIndex": 0,
+      "explanation": "धारा के अनुकूल गति = 12 + 3 = 15 किमी/घंटा; समय = 45/15 = 3 घंटे। धारा के विपरीत गति 12 − 3 = 9 किमी/घंटा होती है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0075",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A boat's speed in still water is 12 km/h and the stream is 3 km/h. Time to go 45 km downstream?",
+        "options_en": [
+          "3 hours",
+          "4 hours",
+          "5 hours",
+          "6 hours"
+        ],
+        "explanation_en": "Downstream speed = 15 km/h, so 45/15 = 3 hours."
+      }
+    },
+    {
+      "question": "प्रथम 20 प्राकृत संख्याओं का औसत कितना है?",
+      "options": [
+        "10",
+        "10.5",
+        "11",
+        "11.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "प्रथम n प्राकृत संख्याओं का औसत = (n+1)/2 = (20+1)/2 = 10.5। इनका योग 210 होता है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0076",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "What is the average of the first 20 natural numbers?",
+        "options_en": [
+          "10",
+          "10.5",
+          "11",
+          "11.5"
+        ],
+        "explanation_en": "Average of first n natural numbers = (n+1)/2 = 10.5."
+      }
+    },
+    {
+      "question": "किसी वस्तु के मूल्य में 25% वृद्धि हो जाने पर मूल मूल्य पर लौटने के लिए नया मूल्य कितने प्रतिशत घटाना होगा?",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "correctIndex": 0,
+      "explanation": "यदि मूल्य 100 से 125 हो जाए, तो 25 कम करने के लिए 25/125 × 100 = 20% कमी आवश्यक है। सूत्र: कमी% = वृद्धि/(100+वृद्धि) × 100।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0077",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "After a 25% rise in price, by what per cent must the new price be reduced to return to the original?",
+        "options_en": [
+          "20%",
+          "25%",
+          "15%",
+          "30%"
+        ],
+        "explanation_en": "Reduction needed = 25/125 × 100 = 20 per cent."
+      }
+    },
+    {
+      "question": "₹1200 को 3:5 के अनुपात में बाँटने पर छोटा भाग कितना होगा?",
+      "options": [
+        "₹450",
+        "₹500",
+        "₹400",
+        "₹750"
+      ],
+      "correctIndex": 0,
+      "explanation": "कुल भाग = 3 + 5 = 8; एक भाग = 1200/8 = 150; छोटा भाग = 3 × 150 = ₹450 तथा बड़ा भाग = ₹750।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0078",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Rs 1200 is divided in the ratio 3:5. What is the smaller share?",
+        "options_en": [
+          "Rs 450",
+          "Rs 500",
+          "Rs 400",
+          "Rs 750"
+        ],
+        "explanation_en": "Each part = 150, so the smaller share = 3 × 150 = Rs 450."
+      }
+    },
+    {
+      "question": "एक वस्तु ₹480 में खरीदकर ₹552 में बेची गई। लाभ प्रतिशत कितना है?",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "correctIndex": 1,
+      "explanation": "लाभ = 552 − 480 = ₹72; लाभ% = 72/480 × 100 = 15%।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0079",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "An article bought for Rs 480 is sold for Rs 552. Find the profit per cent.",
+        "options_en": [
+          "12%",
+          "15%",
+          "18%",
+          "20%"
+        ],
+        "explanation_en": "Profit = Rs 72, so profit per cent = 72/480 × 100 = 15%."
+      }
+    },
+    {
+      "question": "₹800 अंकित मूल्य वाली वस्तु पर 15% छूट देने पर विक्रय मूल्य कितना होगा?",
+      "options": [
+        "₹680",
+        "₹700",
+        "₹660",
+        "₹720"
+      ],
+      "correctIndex": 0,
+      "explanation": "छूट = 800 × 15/100 = ₹120; विक्रय मूल्य = 800 − 120 = ₹680।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0080",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The selling price of an article marked at Rs 800 after a 15% discount is:",
+        "options_en": [
+          "Rs 680",
+          "Rs 700",
+          "Rs 660",
+          "Rs 720"
+        ],
+        "explanation_en": "Discount = Rs 120, so selling price = Rs 680."
+      }
+    },
+    {
+      "question": "20% तथा 10% की दो क्रमिक छूटों के समतुल्य एकल छूट कितनी है?",
+      "options": [
+        "30%",
+        "28%",
+        "26%",
+        "25%"
+      ],
+      "correctIndex": 1,
+      "explanation": "समतुल्य छूट = 20 + 10 − (20 × 10)/100 = 30 − 2 = 28%। क्रमिक छूट में दूसरी छूट पहली के बाद बचे मूल्य पर लगती है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0081",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Two successive discounts of 20% and 10% are equivalent to a single discount of:",
+        "options_en": [
+          "30%",
+          "28%",
+          "26%",
+          "25%"
+        ],
+        "explanation_en": "Equivalent discount = 20 + 10 − 2 = 28 per cent."
+      }
+    },
+    {
+      "question": "7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल कितना होगा? (π = 22/7)",
+      "options": [
+        "154 वर्ग सेमी",
+        "144 वर्ग सेमी",
+        "132 वर्ग सेमी",
+        "176 वर्ग सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "क्षेत्रफल = πr² = 22/7 × 7 × 7 = 154 वर्ग सेमी। परिधि = 2πr = 44 सेमी होती है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0082",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Find the area of a circle of radius 7 cm (π = 22/7).",
+        "options_en": [
+          "154 sq cm",
+          "144 sq cm",
+          "132 sq cm",
+          "176 sq cm"
+        ],
+        "explanation_en": "Area = πr² = 22/7 × 49 = 154 sq cm."
+      }
+    },
+    {
+      "question": "उस त्रिभुज का क्षेत्रफल कितना है जिसकी भुजाएँ 3 सेमी, 4 सेमी तथा 5 सेमी हैं?",
+      "options": [
+        "6 वर्ग सेमी",
+        "12 वर्ग सेमी",
+        "10 वर्ग सेमी",
+        "7.5 वर्ग सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "3, 4, 5 समकोण त्रिभुज बनाते हैं (3² + 4² = 5²); क्षेत्रफल = 1/2 × 3 × 4 = 6 वर्ग सेमी।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0083",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Area of a triangle with sides 3 cm, 4 cm and 5 cm is:",
+        "options_en": [
+          "6 sq cm",
+          "12 sq cm",
+          "10 sq cm",
+          "7.5 sq cm"
+        ],
+        "explanation_en": "It is a right triangle, so area = 1/2 × 3 × 4 = 6 sq cm."
+      }
+    },
+    {
+      "question": "षट्भुज के सभी अंतःकोणों का योग कितना होता है?",
+      "options": [
+        "540°",
+        "720°",
+        "900°",
+        "360°"
+      ],
+      "correctIndex": 1,
+      "explanation": "n भुजा वाले बहुभुज के अंतःकोणों का योग = (n − 2) × 180°; षट्भुज के लिए (6 − 2) × 180° = 720°।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0084",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The sum of all interior angles of a hexagon is:",
+        "options_en": [
+          "540°",
+          "720°",
+          "900°",
+          "360°"
+        ],
+        "explanation_en": "Sum = (n − 2) × 180° = 4 × 180° = 720°."
+      }
+    },
+    {
+      "question": "12 सेमी भुजा वाले घन का आयतन कितना है?",
+      "options": [
+        "1728 घन सेमी",
+        "1440 घन सेमी",
+        "1296 घन सेमी",
+        "864 घन सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "घन का आयतन = भुजा³ = 12³ = 1728 घन सेमी; पृष्ठीय क्षेत्रफल = 6a² = 864 वर्ग सेमी।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0085",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Volume of a cube of side 12 cm is:",
+        "options_en": [
+          "1728 cubic cm",
+          "1440 cubic cm",
+          "1296 cubic cm",
+          "864 cubic cm"
+        ],
+        "explanation_en": "Volume = a³ = 1728 cubic cm; surface area = 6a² = 864 sq cm."
+      }
+    },
+    {
+      "question": "12, 15 तथा 20 का लघुत्तम समापवर्तक (LCM) कितना है?",
+      "options": [
+        "30",
+        "60",
+        "120",
+        "180"
+      ],
+      "correctIndex": 1,
+      "explanation": "12 = 2²×3, 15 = 3×5, 20 = 2²×5; अतः LCM = 2²×3×5 = 60। तीनों संख्याओं का HCF 1 है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0086",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Find the LCM of 12, 15 and 20.",
+        "options_en": [
+          "30",
+          "60",
+          "120",
+          "180"
+        ],
+        "explanation_en": "Prime factors give LCM = 2² × 3 × 5 = 60."
+      }
+    },
+    {
+      "question": "√1764 का मान कितना है?",
+      "options": [
+        "38",
+        "42",
+        "44",
+        "46"
+      ],
+      "correctIndex": 1,
+      "explanation": "42 × 42 = 1764, अतः √1764 = 42। इसी प्रकार √1764 का इकाई अंक 2 या 8 वाला होगा, जिससे 42 की पुष्टि होती है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0087",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The value of √1764 is:",
+        "options_en": [
+          "38",
+          "42",
+          "44",
+          "46"
+        ],
+        "explanation_en": "42 × 42 = 1764, so the square root is 42."
+      }
+    },
+    {
+      "question": "पिता की आयु पुत्र की आयु की तीन गुनी है। 12 वर्ष बाद पिता की आयु पुत्र की आयु की दो गुनी हो जाएगी। पुत्र की वर्तमान आयु कितनी है?",
+      "options": [
+        "10 वर्ष",
+        "12 वर्ष",
+        "14 वर्ष",
+        "16 वर्ष"
+      ],
+      "correctIndex": 1,
+      "explanation": "मान लें पुत्र की आयु x है, तब पिता की आयु 3x। 12 वर्ष बाद: 3x + 12 = 2(x + 12) → 3x + 12 = 2x + 24 → x = 12; पिता की आयु 36 वर्ष।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0088",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A father is three times as old as his son. After 12 years he will be twice as old. Find the son's present age.",
+        "options_en": [
+          "10 years",
+          "12 years",
+          "14 years",
+          "16 years"
+        ],
+        "explanation_en": "3x + 12 = 2(x + 12) gives x = 12 years; the father is 36."
+      }
+    },
+    {
+      "question": "15 पुरुष एक कार्य को 20 दिन में पूरा करते हैं। उसी कार्य को 20 पुरुष कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "12 दिन",
+        "15 दिन",
+        "18 दिन",
+        "25 दिन"
+      ],
+      "correctIndex": 1,
+      "explanation": "कार्य = 15 × 20 = 300 पुरुष-दिन; अतः 20 पुरुषों को 300/20 = 15 दिन लगेंगे (व्युत्क्रम अनुपात)।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0089",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "15 men finish a work in 20 days. How long will 20 men take?",
+        "options_en": [
+          "12 days",
+          "15 days",
+          "18 days",
+          "25 days"
+        ],
+        "explanation_en": "Work = 300 man-days, so 20 men need 15 days."
+      }
+    },
+    {
+      "question": "₹78,125 पर 16% वार्षिक दर से 15 माह का चक्रवृद्धि ब्याज ज्ञात कीजिए, जबकि ब्याज अर्द्धवार्षिक संयोजित होता है।",
+      "options": [
+        "₹16,645",
+        "₹20,290",
+        "₹8,065",
+        "₹35,410"
+      ],
+      "correctIndex": 0,
+      "explanation": "अर्द्धवार्षिक दर = 8%; 15 माह = 2.5 अर्धवर्ष; मिश्रधन = 78125 × 1.08² × 1.04 ≈ ₹94,770; अतः ब्याज ≈ ₹16,645।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0090",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Find the CI on Rs 78,125 at 16% per annum for 15 months, interest compounded half-yearly.",
+        "options_en": [
+          "Rs 16,645",
+          "Rs 20,290",
+          "Rs 8,065",
+          "Rs 35,410"
+        ],
+        "explanation_en": "Half-yearly rate 8%, 2.5 periods: amount ≈ Rs 94,770, so CI ≈ Rs 16,645."
+      }
+    },
+    {
+      "question": "72 किमी/घंटा की गति को मीटर/सेकंड में बदलने पर कितना होगा?",
+      "options": [
+        "15 मी/से",
+        "18 मी/से",
+        "20 मी/से",
+        "25 मी/से"
+      ],
+      "correctIndex": 2,
+      "explanation": "किमी/घंटा को मी/से में बदलने के लिए 5/18 से गुणा करते हैं: 72 × 5/18 = 20 मी/से।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0091",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Convert 72 km/h into metres per second.",
+        "options_en": [
+          "15 m/s",
+          "18 m/s",
+          "20 m/s",
+          "25 m/s"
+        ],
+        "explanation_en": "Multiply by 5/18: 72 × 5/18 = 20 m/s."
+      }
+    },
+    {
+      "question": "0.5 × 0.05 का मान कितना है?",
+      "options": [
+        "0.25",
+        "0.025",
+        "0.0025",
+        "2.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "0.5 × 0.05 = 5/10 × 5/100 = 25/1000 = 0.025। दशमलव के बाद स्थानों का योग 1 + 2 = 3 होता है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0093",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "The value of 0.5 × 0.05 is:",
+        "options_en": [
+          "0.25",
+          "0.025",
+          "0.0025",
+          "2.5"
+        ],
+        "explanation_en": "5/10 × 5/100 = 25/1000 = 0.025."
+      }
+    },
+    {
+      "question": "एक विद्यार्थी के पाँच विषयों के अंक 60, 70, 80, 90 तथा 100 हैं। उसका औसत प्राप्तांक कितना है?",
+      "options": [
+        "75",
+        "78",
+        "80",
+        "82"
+      ],
+      "correctIndex": 2,
+      "explanation": "योग = 60 + 70 + 80 + 90 + 100 = 400; औसत = 400/5 = 80।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0094",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Marks in five subjects are 60, 70, 80, 90 and 100. Find the average.",
+        "options_en": [
+          "75",
+          "78",
+          "80",
+          "82"
+        ],
+        "explanation_en": "Total = 400, so the average = 80."
+      }
+    },
+    {
+      "question": "दो संख्याओं का अनुपात 5:7 है तथा उनका अंतर 12 है। बड़ी संख्या कितनी है?",
+      "options": [
+        "30",
+        "35",
+        "42",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "अंतर के भाग = 7 − 5 = 2, जो 12 के बराबर है; अतः एक भाग = 6। बड़ी संख्या = 7 × 6 = 42 तथा छोटी = 30।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0095",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Two numbers are in the ratio 5:7 and their difference is 12. Find the larger number.",
+        "options_en": [
+          "30",
+          "35",
+          "42",
+          "48"
+        ],
+        "explanation_en": "Difference of 2 parts = 12, so one part = 6 and the larger number = 42."
+      }
+    },
+    {
+      "question": "जिस बेलन की त्रिज्या 7 सेमी तथा ऊँचाई 10 सेमी है, उसका आयतन कितना होगा? (π = 22/7)",
+      "options": [
+        "1540 घन सेमी",
+        "1440 घन सेमी",
+        "2200 घन सेमी",
+        "440 घन सेमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "बेलन का आयतन = πr²h = 22/7 × 7 × 7 × 10 = 1540 घन सेमी; वक्र पृष्ठ = 2πrh = 440 वर्ग सेमी।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0096",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Find the volume of a cylinder of radius 7 cm and height 10 cm (π = 22/7).",
+        "options_en": [
+          "1540 cubic cm",
+          "1440 cubic cm",
+          "2200 cubic cm",
+          "440 cubic cm"
+        ],
+        "explanation_en": "Volume = πr²h = 22/7 × 49 × 10 = 1540 cubic cm."
+      }
+    },
+    {
+      "question": "एक कार 45 किमी की दूरी 45 मिनट में तय करती है। उसकी गति कितनी है?",
+      "options": [
+        "45 किमी/घंटा",
+        "50 किमी/घंटा",
+        "60 किमी/घंटा",
+        "75 किमी/घंटा"
+      ],
+      "correctIndex": 2,
+      "explanation": "45 मिनट = 45/60 = 3/4 घंटा; गति = 45 ÷ 3/4 = 60 किमी/घंटा।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0097",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A car covers 45 km in 45 minutes. Its speed is:",
+        "options_en": [
+          "45 km/h",
+          "50 km/h",
+          "60 km/h",
+          "75 km/h"
+        ],
+        "explanation_en": "45 minutes = 3/4 hour, so speed = 45 ÷ 3/4 = 60 km/h."
+      }
+    },
+    {
+      "question": "यदि दो संख्याएँ सह-अभाज्य हैं, तो उनका महत्तम समापवर्तक (HCF) कितना होता है?",
+      "options": [
+        "0",
+        "1",
+        "उनका गुणनफल",
+        "उनमें से बड़ी संख्या"
+      ],
+      "correctIndex": 1,
+      "explanation": "सह-अभाज्य संख्याओं में 1 के अतिरिक्त कोई सामान्य गुणनखंड नहीं होता, अतः उनका HCF 1 होता है तथा LCM उनके गुणनफल के बराबर होता है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0098",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "If two numbers are co-prime, their HCF is:",
+        "options_en": [
+          "0",
+          "1",
+          "Their product",
+          "The larger number"
+        ],
+        "explanation_en": "Co-prime numbers share no factor other than 1, so HCF = 1 and LCM = their product."
+      }
+    },
+    {
+      "question": "2/3, 3/4 तथा 5/6 में सबसे बड़ी भिन्न कौन-सी है?",
+      "options": [
+        "2/3",
+        "3/4",
+        "5/6",
+        "सभी बराबर"
+      ],
+      "correctIndex": 2,
+      "explanation": "हरों का LCM 12 लेकर तुलना करें: 2/3 = 8/12, 3/4 = 9/12, 5/6 = 10/12; अतः सबसे बड़ी भिन्न 5/6 है।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0099",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "Which is the largest of the fractions 2/3, 3/4 and 5/6?",
+        "options_en": [
+          "2/3",
+          "3/4",
+          "5/6",
+          "All are equal"
+        ],
+        "explanation_en": "Converting to twelfths gives 8/12, 9/12 and 10/12, so 5/6 is the largest."
+      }
+    },
+    {
+      "question": "कोई धनराशि साधारण ब्याज पर 8 वर्ष में दोगुनी हो जाती है। वार्षिक ब्याज दर कितनी है?",
+      "options": [
+        "10%",
+        "12.5%",
+        "15%",
+        "8%"
+      ],
+      "correctIndex": 1,
+      "explanation": "दोगुनी होने पर ब्याज = मूलधन; अतः r × 8 / 100 = 1 → r = 100/8 = 12.5% वार्षिक।",
+      "subCategory": "अंकगणित",
+      "questionType": "mcq",
+      "uuid": "math-uk-0100",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Mathematics"
+      ],
+      "extra_data": {
+        "question_en": "A sum doubles itself in 8 years at simple interest. Find the annual rate.",
+        "options_en": [
+          "10%",
+          "12.5%",
+          "15%",
+          "8%"
+        ],
+        "explanation_en": "Interest equals the principal, so 8r/100 = 1 giving r = 12.5 per cent."
+      }
     }
-  ],
-  "total_questions": 524
+  ]
 }

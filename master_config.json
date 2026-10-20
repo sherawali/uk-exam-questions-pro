@@ -1,7 +1,37 @@
 {
   "version": "4.9.5",
-  "last_sync": "2026-10-17T08:08:00.000000+00:00",
+  "last_sync": "2026-10-20T00:00:00.000000+00:00",
   "flash_news": [
+    {
+      "id": "news_uksssc_grad_live",
+      "enabled": true,
+      "title": "🎓 UKSSSC स्नातक स्तरीय (VDO/VPDO): 14 नए मॉडल मॉक टेस्ट लाइव!",
+      "title_en": "🎓 UKSSSC Graduate Level (VDO): 14 New Mock Tests Live!",
+      "message": "आयोग के नवीनतम 100-प्रश्न पाठ्यक्रम पर आधारित 14 संपूर्ण मॉडल टेस्ट लाइव हो चुके हैं। मॉक #01 पूर्णतः निःशुल्क है, अभी अभ्यास प्रारंभ करें!",
+      "message_en": "14 full model papers based on UKSSSC 100-Q syllabus are now live. Mock #01 is 100% Free, practice now!",
+      "tag": "🔥 14 नए मॉक लाइव",
+      "tag_en": "🔥 14 Mocks Live",
+      "post_id": "uksssc_graduate_level",
+      "action_label": "स्नातक स्तरीय मॉक देखें ➔",
+      "action_label_en": "View Graduate Mocks ➔",
+      "action_route": "mock:uksssc_graduate_level",
+      "date": "20 Oct 2026"
+    },
+    {
+      "id": "news_uksssc_inter_live",
+      "enabled": true,
+      "title": "📜 UKSSSC कनिष्ठ सहायक / इंटर स्तरीय: 10 विशेष मॉडल टेस्ट उपलब्ध!",
+      "title_en": "📜 UKSSSC Junior Assistant / Inter Level: 10 Model Tests Live!",
+      "message": "12वीं स्तरीय कनिष्ठ सहायक परीक्षा हेतु 10 प्रामाणिक द्विभाषी मॉडल पेपर्स लाइव हैं। मॉक #01 सभी के लिए फ्री उपलब्ध है!",
+      "message_en": "10 authentic bilingual model papers for 12th Inter Level Junior Assistant Exam are live. Mock #01 is Free for everyone!",
+      "tag": "⚡ 10 इंटर मॉक लाइव",
+      "tag_en": "⚡ 10 Mocks Live",
+      "post_id": "uksssc_inter_level",
+      "action_label": "इंटर स्तरीय मॉक देखें ➔",
+      "action_label_en": "View Inter Mocks ➔",
+      "action_route": "mock:uksssc_inter_level",
+      "date": "20 Oct 2026"
+    },
     {
       "id": "news_360_degree_facts_mastery",
       "enabled": true,
@@ -49,6 +79,21 @@
     }
   ],
   "special_flash": [
+    {
+      "id": "special_uksssc_grad_banner",
+      "enabled": true,
+      "title": "UKSSSC स्नातक स्तरीय (VDO/VPDO)",
+      "title_en": "UKSSSC Graduate Level (VDO/VPDO)",
+      "message": "14 नए 100-प्रश्न संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट लाइव हैं! मॉक #01 फ्री उपलब्ध है।",
+      "message_en": "14 New 100-Question Comprehensive Model Papers are live! Mock #01 is Free.",
+      "type": "special",
+      "tag": "🔥 14 VDO MOCK",
+      "tag_en": "🔥 14 VDO MOCK",
+      "action_label": "मॉक टेस्ट दें ➔",
+      "action_label_en": "Take Mock Test ➔",
+      "action_route": "mock:uksssc_graduate_level",
+      "post_id": "uksssc_graduate_level"
+    },
     {
       "id": "special_hc_clerk_mock_slide",
       "enabled": true,
@@ -131,11 +176,11 @@
     },
     "uksssc_inter_level": {
       "exam_id": "uksssc_inter_level",
-      "title_hindi": "कनिष्ठ सहायक / इंटर स्तरीय",
-      "title_english": "Junior Assistant",
-      "enabled": false,
-      "total_mocks": 20,
-      "free_mocks": 5,
+      "title_hindi": "UKSSSC कनिष्ठ सहायक / 12th",
+      "title_english": "UKSSSC Junior Assistant",
+      "enabled": true,
+      "total_mocks": 10,
+      "free_mocks": 1,
       "questions": 100,
       "duration": 120
     },
@@ -171,11 +216,11 @@
     },
     "uksssc_graduate_level": {
       "exam_id": "uksssc_graduate_level",
-      "title_hindi": "स्नातक स्तरीय (VDO/VPDO)",
-      "title_english": "Graduate Level (VDO)",
-      "enabled": false,
-      "total_mocks": 15,
-      "free_mocks": 3,
+      "title_hindi": "UKSSSC स्नातक स्तरीय (VDO)",
+      "title_english": "UKSSSC Graduate Level",
+      "enabled": true,
+      "total_mocks": 14,
+      "free_mocks": 1,
       "questions": 100,
       "duration": 120
     }

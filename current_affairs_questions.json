@@ -1,4 +1,7 @@
 {
+  "category": "समसामयिकी / करेंट अफेयर्स",
+  "updated_at": "2026-10-20T00:00:00+00:00",
+  "total_questions": 2538,
   "questions": [
     {
       "question": "उत्तराखंड बजट 2025-26 का कुल आकार कितना घोषित किया गया?",
@@ -72710,8 +72713,1456 @@
         ],
         "explanation_en": "Uttarakhand scored 100% in Focus on Innovation & Sustainability and was placed in the 'Leader' category."
       }
+    },
+    {
+      "question": "अति गरीबी उन्मूलन का दावा करने वाला भारत का पहला राज्य कौन-सा बना?",
+      "options": [
+        "केरल",
+        "तमिलनाडु",
+        "आंध्र प्रदेश",
+        "महाराष्ट्र"
+      ],
+      "correctIndex": 0,
+      "explanation": "केरल ने 1 नवंबर 2025 को केरल पिरवी दिवस पर अति गरीबी उन्मूलन की घोषणा की और ऐसा करने वाला भारत का पहला राज्य बना। यह उपलब्धि 2021 में शुरू किए गए अति गरीबी उन्मूलन कार्यक्रम (EPEP) के तहत हासिल की गई।",
+      "subCategory": "राज्य व योजनाएँ",
+      "questionType": "mcq",
+      "uuid": "ca-0001-6f70-8192-334455667701",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which state became the first in India to declare eradication of extreme poverty?",
+        "options_en": [
+          "Kerala",
+          "Tamil Nadu",
+          "Andhra Pradesh",
+          "Maharashtra"
+        ],
+        "explanation_en": "Kerala declared eradication of extreme poverty on 1 November 2025, becoming the first Indian state to do so under its EPEP programme launched in 2021."
+      }
+    },
+    {
+      "question": "इंडिया मैरीटाइम वीक 2025 का विषय क्या था?",
+      "options": [
+        "नीली अर्थव्यवस्था की ओर",
+        "महासागरों को एकजुट करना, एक समुद्री दृष्टि",
+        "सतत समुद्र, सशक्त राष्ट्र",
+        "समृद्धि के लिए बंदरगाह"
+      ],
+      "correctIndex": 1,
+      "explanation": "इंडिया मैरीटाइम वीक 2025 का विषय महासागरों को एकजुट करना, एक समुद्री दृष्टि था। यह आयोजन 27 से 31 अक्टूबर 2025 तक मुंबई में हुआ और इसमें 437 नए जहाजों के लिए 2.2 लाख करोड़ रुपये के निवेश की घोषणा हुई।",
+      "subCategory": "सम्मेलन व आयोजन",
+      "questionType": "mcq",
+      "uuid": "ca-0002-6f70-8192-334455667702",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What was the theme of India Maritime Week 2025?",
+        "options_en": [
+          "Towards the Blue Economy",
+          "Uniting Oceans, One Maritime Vision",
+          "Sustainable Seas, Strong Nation",
+          "Ports for Prosperity"
+        ],
+        "explanation_en": "India Maritime Week 2025 was held in Mumbai on the theme Uniting Oceans, One Maritime Vision."
+      }
+    },
+    {
+      "question": "एशियाई युवा खेल 2025 किस शहर में आयोजित हुए?",
+      "options": [
+        "हनोई",
+        "बैंकॉक",
+        "मनामा",
+        "दोहा"
+      ],
+      "correctIndex": 2,
+      "explanation": "एशियाई युवा खेल 2025 मनामा, बहरीन में आयोजित हुए। भारत ने 13 स्वर्ण सहित कुल 48 पदक जीतकर अपना सर्वश्रेष्ठ प्रदर्शन किया।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0003-6f70-8192-334455667703",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "In which city were the 2025 Asian Youth Games held?",
+        "options_en": [
+          "Hanoi",
+          "Bangkok",
+          "Manama",
+          "Doha"
+        ],
+        "explanation_en": "The 2025 Asian Youth Games were held in Manama, Bahrain, where India recorded its best-ever haul of 48 medals."
+      }
+    },
+    {
+      "question": "माउंट किलिमंजारो किस देश में स्थित है?",
+      "options": [
+        "इथियोपिया",
+        "केन्या",
+        "युगांडा",
+        "तंजानिया"
+      ],
+      "correctIndex": 3,
+      "explanation": "माउंट किलिमंजारो पूर्वोत्तर तंजानिया में स्थित है और अफ्रीका का सबसे ऊँचा पर्वत (5,895 मीटर) है। यह विश्व का सबसे बड़ा स्वतंत्र खड़ा पर्वत माना जाता है और इसमें किबो, मावेन्जी व शीरा नामक तीन ज्वालामुखी शिखर हैं।",
+      "subCategory": "भूगोल व स्थान",
+      "questionType": "mcq",
+      "uuid": "ca-0004-6f70-8192-334455667704",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Mount Kilimanjaro is located in which country?",
+        "options_en": [
+          "Ethiopia",
+          "Kenya",
+          "Uganda",
+          "Tanzania"
+        ],
+        "explanation_en": "Mount Kilimanjaro is in north-eastern Tanzania and is Africa's highest peak at 5,895 metres."
+      }
+    },
+    {
+      "question": "नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व किस राज्य में स्थित है?",
+      "options": [
+        "आंध्र प्रदेश",
+        "कर्नाटक",
+        "केरल",
+        "तमिलनाडु"
+      ],
+      "correctIndex": 0,
+      "explanation": "नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व आंध्र प्रदेश की नल्लामला पहाड़ी श्रृंखला में स्थित है, जो पूर्वी घाट का हिस्सा है। यह लगभग 3,728 वर्ग किमी में फैला देश के सबसे बड़े टाइगर रिजर्व में से एक है।",
+      "subCategory": "पर्यावरण व वन्यजीव",
+      "questionType": "mcq",
+      "uuid": "ca-0005-6f70-8192-334455667705",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Nagarjunasagar-Srisailam Tiger Reserve is located in which state?",
+        "options_en": [
+          "Andhra Pradesh",
+          "Karnataka",
+          "Kerala",
+          "Tamil Nadu"
+        ],
+        "explanation_en": "NSTR lies in the Nallamala hills of Andhra Pradesh, an offshoot of the Eastern Ghats."
+      }
+    },
+    {
+      "question": "जी7 शिखर सम्मेलन में उपहार के रूप में दी गई नागौरी अश्वगंधा किस राज्य से संबंधित है?",
+      "options": [
+        "गुजरात",
+        "राजस्थान",
+        "कर्नाटक",
+        "ओडिशा"
+      ],
+      "correctIndex": 1,
+      "explanation": "नागौरी अश्वगंधा राजस्थान के नागौर क्षेत्र में उगाई जाती है और 2026 में इसे भौगोलिक संकेत (GI) टैग मिला। फ्रांस में जी7 शिखर सम्मेलन के दौरान इसे पारंपरिक भारतीय उपहार के रूप में प्रस्तुत किया गया।",
+      "subCategory": "कृषि व GI टैग",
+      "questionType": "mcq",
+      "uuid": "ca-0006-6f70-8192-334455667706",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Nagori Ashwagandha, presented as a gift at the G7 Summit, belongs to which state?",
+        "options_en": [
+          "Gujarat",
+          "Rajasthan",
+          "Karnataka",
+          "Odisha"
+        ],
+        "explanation_en": "Nagori Ashwagandha is grown in the Nagaur region of Rajasthan and received a GI tag in 2026."
+      }
+    },
+    {
+      "question": "मलप्रभा नदी किस नदी की सहायक नदी है?",
+      "options": [
+        "तुंगभद्रा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "correctIndex": 2,
+      "explanation": "मलप्रभा नदी कर्नाटक की प्रमुख नदी है और यह कृष्णा नदी की सहायक नदी है। यह पश्चिमी घाट के बेलगावी जिले से निकलकर बागलकोट जिले में कृष्णा में मिलती है और इस पर रेणुकासागर बाँध बना है।",
+      "subCategory": "भूगोल व स्थान",
+      "questionType": "mcq",
+      "uuid": "ca-0007-6f70-8192-334455667707",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The Malaprabha River is a tributary of which river?",
+        "options_en": [
+          "Tungabhadra",
+          "Godavari",
+          "Krishna",
+          "Kaveri"
+        ],
+        "explanation_en": "The Malaprabha in Karnataka is a tributary of the Krishna and joins it at Kudalasangama."
+      }
+    },
+    {
+      "question": "भारत की पहली निजी पॉइंट-इन-स्पेस (PinS) अप्रोच प्रक्रिया किस संचालन के लिए स्वीकृत की गई?",
+      "options": [
+        "अंतरिक्ष मिशन",
+        "ड्रोन संचालन",
+        "निश्चित पंख वाले विमान",
+        "हेलीकॉप्टर संचालन"
+      ],
+      "correctIndex": 3,
+      "explanation": "नागरिक उड्डयन मंत्रालय ने उंडवल्ली हेलीपोर्ट के लिए भारत की पहली निजी पॉइंट-इन-स्पेस (PinS) इंस्ट्रूमेंट अप्रोच प्रक्रिया को हेलीकॉप्टर संचालन हेतु स्वीकृति दी। यह उपग्रह आधारित नौवहन से दूरस्थ क्षेत्रों में भी सुरक्षित लैंडिंग संभव बनाती है।",
+      "subCategory": "विमानन व अवसंरचना",
+      "questionType": "mcq",
+      "uuid": "ca-0008-6f70-8192-334455667708",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "India's first private Point-in-Space (PinS) approach procedure was approved for which operations?",
+        "options_en": [
+          "Space missions",
+          "Drone operations",
+          "Fixed-wing aircraft",
+          "Helicopter operations"
+        ],
+        "explanation_en": "The PinS procedure was approved for helicopter operations at Undavalli Heliport."
+      }
+    },
+    {
+      "question": "रिन्यूएबल पावर जनरेशन कॉस्ट्स इन 2025 रिपोर्ट किस संगठन ने जारी की?",
+      "options": [
+        "अंतरराष्ट्रीय अक्षय ऊर्जा एजेंसी (IRENA)",
+        "विश्व बैंक",
+        "संयुक्त राष्ट्र पर्यावरण कार्यक्रम",
+        "यूएनडीपी"
+      ],
+      "correctIndex": 0,
+      "explanation": "यह रिपोर्ट अंतरराष्ट्रीय अक्षय ऊर्जा एजेंसी (IRENA) ने जारी की। रिपोर्ट के अनुसार 2025 में स्थापित 90 प्रतिशत से अधिक नई उपयोगिता-स्तरीय अक्षय क्षमता ने सबसे सस्ते नए जीवाश्म ईंधन विकल्प से भी कम दर पर बिजली पैदा की।",
+      "subCategory": "रिपोर्ट व सूचकांक",
+      "questionType": "mcq",
+      "uuid": "ca-0009-6f70-8192-334455667709",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which organisation released the report Renewable Power Generation Costs in 2025?",
+        "options_en": [
+          "International Renewable Energy Agency (IRENA)",
+          "World Bank",
+          "UNEP",
+          "UNDP"
+        ],
+        "explanation_en": "IRENA released the report; it noted that over 90 percent of new utility-scale renewables were cheaper than the cheapest new fossil option."
+      }
+    },
+    {
+      "question": "आईसीसी महिला टी20 विश्व कप 2026 का खिताब किस देश ने जीता?",
+      "options": [
+        "इंग्लैंड",
+        "ऑस्ट्रेलिया",
+        "भारत",
+        "न्यूजीलैंड"
+      ],
+      "correctIndex": 1,
+      "explanation": "ऑस्ट्रेलिया ने लॉर्ड्स में खेले गए फाइनल में इंग्लैंड को 7 विकेट से हराकर रिकॉर्ड सातवाँ आईसीसी महिला टी20 विश्व कप जीता। बेथ मूनी को प्लेयर ऑफ द मैच और प्लेयर ऑफ द सीरीज चुना गया।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0010-6f70-8192-334455667710",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which country won the ICC Women's T20 World Cup 2026?",
+        "options_en": [
+          "England",
+          "Australia",
+          "India",
+          "New Zealand"
+        ],
+        "explanation_en": "Australia beat England by 7 wickets at Lord's to win a record seventh title."
+      }
+    },
+    {
+      "question": "दुरंद कप किस खेल से संबंधित है?",
+      "options": [
+        "बास्केटबॉल",
+        "हॉकी",
+        "फुटबॉल",
+        "वॉलीबॉल"
+      ],
+      "correctIndex": 2,
+      "explanation": "दुरंद कप भारत की सबसे पुरानी फुटबॉल प्रतियोगिता है, जिसे भारतीय सेना, नौसेना और वायुसेना के तत्वावधान में दुरंद फुटबॉल टूर्नामेंट सोसाइटी संचालित करती है। 2026 में राष्ट्रपति द्रौपदी मुर्मू ने इसकी तीन विजेता ट्रॉफियाँ अनावरण कीं।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0011-6f70-8192-334455667711",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The Durand Cup is associated with which sport?",
+        "options_en": [
+          "Basketball",
+          "Hockey",
+          "Football",
+          "Volleyball"
+        ],
+        "explanation_en": "The Durand Cup is India's oldest football tournament."
+      }
+    },
+    {
+      "question": "फ्रैंको बारेसी का निधन हुआ, वे किस खेल से जुड़े थे?",
+      "options": [
+        "वॉलीबॉल",
+        "बास्केटबॉल",
+        "बैडमिंटन",
+        "फुटबॉल"
+      ],
+      "correctIndex": 3,
+      "explanation": "इटली और एसी मिलान के महान फुटबॉलर फ्रैंको बारेसी का 31 जुलाई 2026 को 66 वर्ष की आयु में निधन हो गया। उन्होंने अपने 20 वर्षीय करियर में एसी मिलान के लिए 719 मैच खेले और छह सीरी ए खिताब जीते।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0012-6f70-8192-334455667712",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Franco Baresi, who passed away recently, was associated with which sport?",
+        "options_en": [
+          "Volleyball",
+          "Basketball",
+          "Badminton",
+          "Football"
+        ],
+        "explanation_en": "Franco Baresi was an Italy and AC Milan football legend who died on 31 July 2026 aged 66."
+      }
+    },
+    {
+      "question": "आनुवंशिक रूप से संशोधित (GM) फसलों पर शोध के लिए ग्रीन फोर्ज परिसर कहाँ उद्घाटित किया गया?",
+      "options": [
+        "मोहाली",
+        "पुणे",
+        "बेंगलुरु",
+        "इंदौर"
+      ],
+      "correctIndex": 0,
+      "explanation": "अगस्त 2026 में मोहाली स्थित ब्रिक-नेशनल एग्री-फूड एंड बायोमैन्युफैक्चरिंग इंस्टीट्यूट (BRIC-NABI) में ग्रीन फोर्ज परिसर का उद्घाटन हुआ। यह नियंत्रित पर्यावरण में GM फसलों पर शोध के लिए बनाई गई पहली ऐसी सुविधा है।",
+      "subCategory": "विज्ञान व तकनीक",
+      "questionType": "mcq",
+      "uuid": "ca-0013-6f70-8192-334455667713",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where was the Green Forge Complex for research on GM crops inaugurated?",
+        "options_en": [
+          "Mohali",
+          "Pune",
+          "Bengaluru",
+          "Indore"
+        ],
+        "explanation_en": "The Green Forge Complex was inaugurated at BRIC-NABI, Mohali, in August 2026."
+      }
+    },
+    {
+      "question": "अर्जुन वाहिनी नामक विशेष आपदा प्रतिक्रिया दस्ता किस राज्य ने शुरू किया?",
+      "options": [
+        "असम",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "ओडिशा"
+      ],
+      "correctIndex": 1,
+      "explanation": "पश्चिम बंगाल ने एनडीआरएफ के तर्ज पर अर्जुन वाहिनी नामक विशेष आपदा प्रतिक्रिया दस्ता गठित किया, जिसमें 40 वर्ष से कम आयु के 200 सैन्यकर्मी शामिल हैं। यह दस्ता पहाड़ी, सुंदरबन और कोलकाता जैसे आपदा संभावित क्षेत्रों में तैनात किया जाएगा।",
+      "subCategory": "राज्य व योजनाएँ",
+      "questionType": "mcq",
+      "uuid": "ca-0014-6f70-8192-334455667714",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which state launched the Arjun Vahini specialised disaster response squad?",
+        "options_en": [
+          "Assam",
+          "West Bengal",
+          "Bihar",
+          "Odisha"
+        ],
+        "explanation_en": "West Bengal launched Arjun Vahini, a 200-member disaster response squad modelled on the NDRF."
+      }
+    },
+    {
+      "question": "तेनजिंग नोर्गे राष्ट्रीय साहसिक पुरस्कार 2024 (जल साहस) किसे दिया गया?",
+      "options": [
+        "स्कलजांग रिगजिन",
+        "बलजीत कौर",
+        "रिमो साहा",
+        "शिव प्रसाद चमोली"
+      ],
+      "correctIndex": 2,
+      "explanation": "तेनजिंग नोर्गे राष्ट्रीय साहसिक पुरस्कार 2024 में जल साहस के लिए रिमो साहा को चुना गया, जबकि थल साहस के लिए बलजीत कौर और स्कलजांग रिगजिन तथा आजीवन उपलब्धि के लिए शिव प्रसाद चमोली को चुना गया। प्रत्येक विजेता को 15 लाख रुपये दिए जाते हैं।",
+      "subCategory": "पुरस्कार व सम्मान",
+      "questionType": "mcq",
+      "uuid": "ca-0015-6f70-8192-334455667715",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who received the Tenzing Norgay National Adventure Award 2024 for Water Adventure?",
+        "options_en": [
+          "Skalzang Rigzin",
+          "Baljeet Kaur",
+          "Rimo Saha",
+          "Shiv Prasad Chamoli"
+        ],
+        "explanation_en": "Rimo Saha received the Water Adventure award; Baljeet Kaur and Skalzang Rigzin got Land Adventure and Shiv Prasad Chamoli the Lifetime Achievement award."
+      }
+    },
+    {
+      "question": "जल पर राष्ट्रीय विभागीय शिखर सम्मेलन 2026 कहाँ आयोजित हुआ?",
+      "options": [
+        "भोपाल",
+        "जयपुर",
+        "चंडीगढ़",
+        "नई दिल्ली"
+      ],
+      "correctIndex": 3,
+      "explanation": "जल पर राष्ट्रीय विभागीय शिखर सम्मेलन नई दिल्ली के सुषमा स्वराज भवन में आयोजित हुआ। इसमें राज्यों और केंद्र शासित प्रदेशों के मंत्रियों ने जल सुरक्षा और सहकारी संघवाद को मजबूत करने पर विचार किया।",
+      "subCategory": "सम्मेलन व आयोजन",
+      "questionType": "mcq",
+      "uuid": "ca-0016-6f70-8192-334455667716",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where was the National Departmental Summit on Water 2026 held?",
+        "options_en": [
+          "Bhopal",
+          "Jaipur",
+          "Chandigarh",
+          "New Delhi"
+        ],
+        "explanation_en": "The summit was held at Sushma Swaraj Bhawan in New Delhi."
+      }
+    },
+    {
+      "question": "पोन्नानियार बाँध किस राज्य में स्थित है?",
+      "options": [
+        "तमिलनाडु",
+        "कर्नाटक",
+        "केरल",
+        "आंध्र प्रदेश"
+      ],
+      "correctIndex": 0,
+      "explanation": "पोन्नानियार बाँध तमिलनाडु के तिरुचिरापल्ली जिले के मनप्पारई तालुक में स्थित है। राज्य सरकार ने कावेरी के अतिरिक्त जल को इस बाँध तक लाने के लिए सौर ऊर्जा आधारित जल-उठान सिंचाई परियोजना के पुनर्डिजाइन का निर्देश दिया है।",
+      "subCategory": "अवसंरचना",
+      "questionType": "mcq",
+      "uuid": "ca-0017-6f70-8192-334455667717",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The Ponnaniyar Dam is located in which state?",
+        "options_en": [
+          "Tamil Nadu",
+          "Karnataka",
+          "Kerala",
+          "Andhra Pradesh"
+        ],
+        "explanation_en": "Ponnaniyar Dam is in Tiruchirappalli district, Tamil Nadu."
+      }
+    },
+    {
+      "question": "ब्रिक्स देशों के बौद्धिक संपदा कार्यालयों के प्रमुखों की 18वीं बैठक कहाँ आयोजित हुई?",
+      "options": [
+        "मुंबई",
+        "नई दिल्ली",
+        "बेंगलुरु",
+        "हैदराबाद"
+      ],
+      "correctIndex": 1,
+      "explanation": "ब्रिक्स देशों के बौद्धिक संपदा कार्यालयों के प्रमुखों की 18वीं बैठक 1 से 3 सितंबर 2026 तक नई दिल्ली में हुई और इसमें IP ब्रिक्स के अद्यतन परिचालन दिशानिर्देश अपनाए गए। यह भारत की 2026 ब्रिक्स अध्यक्षता के तहत आयोजित हुई।",
+      "subCategory": "सम्मेलन व आयोजन",
+      "questionType": "mcq",
+      "uuid": "ca-0018-6f70-8192-334455667718",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where was the 18th Meeting of the Heads of IP Offices of BRICS countries held?",
+        "options_en": [
+          "Mumbai",
+          "New Delhi",
+          "Bengaluru",
+          "Hyderabad"
+        ],
+        "explanation_en": "The 18th BRICS IP Offices meeting was held in New Delhi on 1-3 September 2026."
+      }
+    },
+    {
+      "question": "पाँचवीं सोहरा अंतरराष्ट्रीय हाफ मैराथन 2026 किस राज्य में आयोजित हुई?",
+      "options": [
+        "त्रिपुरा",
+        "सिक्किम",
+        "मेघालय",
+        "अरुणाचल प्रदेश"
+      ],
+      "correctIndex": 2,
+      "explanation": "पाँचवीं सोहरा अंतरराष्ट्रीय हाफ मैराथन 4 सितंबर 2026 को सोहरा, मेघालय में आयोजित हुई। इसमें लगभग 24 राज्यों के 11,672 धावकों ने पंजीकरण कराया और सतीश कुमार वर्मा ने पुरुष 21 किमी वर्ग जीता।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0019-6f70-8192-334455667719",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The 5th Sohra International Half Marathon 2026 was held in which state?",
+        "options_en": [
+          "Tripura",
+          "Sikkim",
+          "Meghalaya",
+          "Arunachal Pradesh"
+        ],
+        "explanation_en": "The 5th Sohra International Half Marathon was held at Sohra in Meghalaya."
+      }
+    },
+    {
+      "question": "सुमन रोडमैप 2030 का मुख्य लक्ष्य क्या है?",
+      "options": [
+        "2030 तक शून्य मातृ एनीमिया",
+        "2030 तक शून्य बाल कुपोषण",
+        "2030 तक सार्वभौमिक स्वास्थ्य बीमा",
+        "2030 तक शून्य रोकी जा सकने वाली मातृ एवं नवजात मृत्यु"
+      ],
+      "correctIndex": 3,
+      "explanation": "सुमन रोडमैप 2030 का लक्ष्य 2030 तक शून्य रोकी जा सकने वाली मातृ एवं नवजात मृत्यु हासिल करना है। यह 13 उच्च-फोकस राज्यों और 130 जिलों पर ध्यान केंद्रित करता है तथा गर्भपूर्व देखभाल से प्रसवोत्तर देखभाल तक निरंतर देखभाल का दृष्टिकोण अपनाता है।",
+      "subCategory": "स्वास्थ्य",
+      "questionType": "mcq",
+      "uuid": "ca-0020-6f70-8192-334455667720",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What is the primary target of the SUMAN Roadmap 2030?",
+        "options_en": [
+          "Zero maternal anaemia by 2030",
+          "Zero child malnutrition by 2030",
+          "Universal health insurance by 2030",
+          "Zero preventable maternal and newborn deaths by 2030"
+        ],
+        "explanation_en": "The SUMAN Roadmap 2030 targets zero preventable maternal and newborn deaths by 2030."
+      }
+    },
+    {
+      "question": "कौन-सा ओपनएआई मॉडल क्रिटिकल साइबर सुरक्षा क्षमता सीमा पार करने वाला पहला मॉडल बना?",
+      "options": [
+        "GPT-6 एस्ट्रा",
+        "GPT-5.6 सोल",
+        "GPT-5",
+        "GPT-4o"
+      ],
+      "correctIndex": 0,
+      "explanation": "ओपनएआई का GPT-6 एस्ट्रा अपने प्रीपेयर्डनेस फ्रेमवर्क के तहत क्रिटिकल साइबर सुरक्षा क्षमता सीमा पार करने वाला कंपनी का पहला मॉडल बना। इसमें 10.5 लाख टोकन का कॉन्टेक्स्ट विंडो है और परीक्षण में इसने अज्ञात जीरो-डे कमजोरियाँ पहचानीं।",
+      "subCategory": "विज्ञान व तकनीक",
+      "questionType": "mcq",
+      "uuid": "ca-0021-6f70-8192-334455667721",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which OpenAI model became the first to cross the Critical cybersecurity capability threshold?",
+        "options_en": [
+          "GPT-6 Astra",
+          "GPT-5.6 Sol",
+          "GPT-5",
+          "GPT-4o"
+        ],
+        "explanation_en": "GPT-6 Astra was the first OpenAI model to cross the Critical cybersecurity threshold under its Preparedness Framework."
+      }
+    },
+    {
+      "question": "प्रज्ञा नामक कॉम्पैक्ट गोलाकार टोकामाक किस संगठन ने विकसित किया?",
+      "options": [
+        "बेलाट्रिक्स एयरोस्पेस",
+        "प्राणोस फ्यूजन",
+        "अग्निकुल कॉसमॉस",
+        "ध्रुवा स्पेस"
+      ],
+      "correctIndex": 1,
+      "explanation": "प्रज्ञा कॉम्पैक्ट गोलाकार टोकामाक भारतीय फ्यूजन प्रौद्योगिकी स्टार्टअप प्राणोस फ्यूजन ने विकसित किया। यह कम पहलू अनुपात वाली गोलाकार ज्यामिति से उच्च तापमान प्लाज्मा को सीमित करता है और निजी क्षेत्र के फ्यूजन शोध में बड़ा कदम माना जाता है।",
+      "subCategory": "विज्ञान व तकनीक",
+      "questionType": "mcq",
+      "uuid": "ca-0022-6f70-8192-334455667722",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which organisation developed the compact spherical tokamak named Pragya?",
+        "options_en": [
+          "Bellatrix Aerospace",
+          "Pranos Fusion",
+          "Agnikul Cosmos",
+          "Dhruva Space"
+        ],
+        "explanation_en": "Pragya was developed by the Indian fusion startup Pranos Fusion."
+      }
+    },
+    {
+      "question": "भारतीय सेना ने अखंड प्रहार-II अभ्यास कहाँ किया?",
+      "options": [
+        "लेह",
+        "बीकानेर",
+        "जैसलमेर",
+        "पुणे"
+      ],
+      "correctIndex": 2,
+      "explanation": "भारतीय सेना ने 18 अक्टूबर 2026 के आसपास राजस्थान के जैसलमेर में अखंड प्रहार-II अभ्यास किया, जिसमें ब्लैक मेस ब्रिगेड और बैटल एक्स डिवीजन शामिल हुए। यह अभ्यास मरुस्थलीय युद्ध क्षमता प्रदर्शित करता है।",
+      "subCategory": "रक्षा",
+      "questionType": "mcq",
+      "uuid": "ca-0023-6f70-8192-334455667723",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where did the Indian Army conduct the Akhand Prahar-II exercise?",
+        "options_en": [
+          "Leh",
+          "Bikaner",
+          "Jaisalmer",
+          "Pune"
+        ],
+        "explanation_en": "The Indian Army conducted Akhand Prahar-II at Jaisalmer in Rajasthan."
+      }
+    },
+    {
+      "question": "तमिलनाडु के नेवेली में कौन-सा खनिज मंगल ग्रह के वातावरण के पार्थिव समकक्ष के रूप में पहचाना गया?",
+      "options": [
+        "कीसेराइट",
+        "जारोसाइट",
+        "अलुनाइट",
+        "मेलेंटेराइट"
+      ],
+      "correctIndex": 3,
+      "explanation": "नेवेली, तमिलनाडु में मेलेंटेराइट खनिज की पहचान हुई, जिसे मंगल ग्रह के वातावरण का पार्थिव समकक्ष माना गया है। यह शोध मंगल पर खनिज प्रक्रियाओं को समझने में सहायक है।",
+      "subCategory": "विज्ञान व तकनीक",
+      "questionType": "mcq",
+      "uuid": "ca-0024-6f70-8192-334455667724",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which mineral in Neyveli, Tamil Nadu, was identified as a terrestrial analogue for Martian environments?",
+        "options_en": [
+          "Kieserite",
+          "Jarosite",
+          "Alunite",
+          "Melanterite"
+        ],
+        "explanation_en": "Melanterite from Neyveli was identified as a terrestrial analogue for Martian environments."
+      }
+    },
+    {
+      "question": "विश्व स्वास्थ्य शिखर सम्मेलन 2026 का आयोजन किस देश में हुआ?",
+      "options": [
+        "जर्मनी",
+        "फ्रांस",
+        "स्विट्जरलैंड",
+        "ऑस्ट्रिया"
+      ],
+      "correctIndex": 0,
+      "explanation": "विश्व स्वास्थ्य शिखर सम्मेलन 2026 का आयोजन जर्मनी में हुआ। यह वैश्विक स्वास्थ्य नीति पर चर्चा का प्रमुख मंच है, जहाँ सार्वजनिक स्वास्थ्य, नवाचार और स्वास्थ्य सुरक्षा पर विमर्श होता है।",
+      "subCategory": "सम्मेलन व आयोजन",
+      "questionType": "mcq",
+      "uuid": "ca-0025-6f70-8192-334455667725",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which country hosted the World Health Summit 2026?",
+        "options_en": [
+          "Germany",
+          "France",
+          "Switzerland",
+          "Austria"
+        ],
+        "explanation_en": "Germany hosted the World Health Summit 2026."
+      }
+    },
+    {
+      "question": "त्रिश्ना (TRISHNA) किस दो देशों के बीच संयुक्त उपग्रह मिशन है?",
+      "options": [
+        "भारत और अमेरिका",
+        "भारत और फ्रांस",
+        "भारत और रूस",
+        "भारत और जापान"
+      ],
+      "correctIndex": 1,
+      "explanation": "त्रिश्ना भारत और फ्रांस के बीच संयुक्त उपग्रह मिशन है, जो उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग के माध्यम से जल चक्र और जलवायु अध्ययन पर केंद्रित है। इसमें ISRO और फ्रांसीसी अंतरिक्ष एजेंसी CNES सहयोग कर रहे हैं।",
+      "subCategory": "अंतरिक्ष व विज्ञान",
+      "questionType": "mcq",
+      "uuid": "ca-0026-6f70-8192-334455667726",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "TRISHNA is a joint satellite mission between which two countries?",
+        "options_en": [
+          "India and USA",
+          "India and France",
+          "India and Russia",
+          "India and Japan"
+        ],
+        "explanation_en": "TRISHNA is an India-France joint satellite mission focused on thermal infrared imaging for water cycle and climate studies."
+      }
+    },
+    {
+      "question": "प्रोजेक्ट सीबर्ड किस संगठन की पहल है?",
+      "options": [
+        "डीआरडीओ",
+        "भारतीय तटरक्षक",
+        "भारतीय नौसेना",
+        "आईयूसीएन"
+      ],
+      "correctIndex": 2,
+      "explanation": "प्रोजेक्ट सीबर्ड भारतीय नौसेना की पहल है, जिसके तहत कर्नाटक के कारवाड़ में नौसेना अड्डे का विकास किया जा रहा है। यह परियोजना भारतीय नौसेना के बुनियादी ढाँचे को मजबूत करने के लिए महत्वपूर्ण मानी जाती है।",
+      "subCategory": "रक्षा",
+      "questionType": "mcq",
+      "uuid": "ca-0027-6f70-8192-334455667727",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Project Seabird is an initiative of which organisation?",
+        "options_en": [
+          "DRDO",
+          "Indian Coast Guard",
+          "Indian Navy",
+          "IUCN"
+        ],
+        "explanation_en": "Project Seabird is an Indian Navy infrastructure initiative for developing the naval base at Karwar, Karnataka."
+      }
+    },
+    {
+      "question": "आईसीएमआर उच्च ऊँचाई चिकित्सा एवं सार्वजनिक स्वास्थ्य अनुसंधान केंद्र (ICMR-CHAMP) किस राज्य में है?",
+      "options": [
+        "राजस्थान",
+        "हिमाचल प्रदेश",
+        "बिहार",
+        "उत्तराखंड"
+      ],
+      "correctIndex": 3,
+      "explanation": "आईसीएमआर उच्च ऊँचाई चिकित्सा एवं सार्वजनिक स्वास्थ्य अनुसंधान केंद्र (ICMR-CHAMP) उत्तराखंड में स्थित है और उच्च ऊँचाई से जुड़ी स्वास्थ्य समस्याओं पर शोध करता है।",
+      "subCategory": "स्वास्थ्य व संस्थान",
+      "questionType": "mcq",
+      "uuid": "ca-0028-6f70-8192-334455667728",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The ICMR Centre for High Altitude Medicine and Public Health Research (ICMR-CHAMP) is in which state?",
+        "options_en": [
+          "Rajasthan",
+          "Himachal Pradesh",
+          "Bihar",
+          "Uttarakhand"
+        ],
+        "explanation_en": "ICMR-CHAMP is located in Uttarakhand."
+      }
+    },
+    {
+      "question": "प्रशस्त (PRASHAST) पोर्टल किस क्षेत्र से संबंधित है?",
+      "options": [
+        "समावेशी शिक्षा और दिव्यांग बच्चों की स्क्रीनिंग",
+        "डिजिटल स्वास्थ्य सेवाएँ",
+        "कृषि प्रौद्योगिकी",
+        "कौशल विकास"
+      ],
+      "correctIndex": 0,
+      "explanation": "प्रशस्त पोर्टल समावेशी शिक्षा से जुड़ा है और इसका उपयोग दिव्यांग बच्चों की स्क्रीनिंग तथा उनकी शिक्षा संबंधी आवश्यकताओं को चिह्नित करने के लिए किया जाता है। यह स्कूल स्तर पर समावेशन को मजबूत करने में सहायक है।",
+      "subCategory": "शिक्षा व योजनाएँ",
+      "questionType": "mcq",
+      "uuid": "ca-0029-6f70-8192-334455667729",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The PRASHAST Portal is associated with which field?",
+        "options_en": [
+          "Inclusive education and screening of children with disabilities",
+          "Digital healthcare",
+          "Agricultural technology",
+          "Skill development"
+        ],
+        "explanation_en": "PRASHAST supports inclusive education and screening of children with disabilities."
+      }
+    },
+    {
+      "question": "भारत द्वारा स्वदेशी रूप से डिजाइन और निर्मित पहला फ्लीट सपोर्ट शिप किस नाम से लॉन्च किया गया?",
+      "options": [
+        "समर्थ",
+        "सूर्य",
+        "जल उषा",
+        "विक्रांत"
+      ],
+      "correctIndex": 1,
+      "explanation": "भारत द्वारा स्वदेशी रूप से डिजाइन और निर्मित पहला फ्लीट सपोर्ट शिप सूर्य नाम से लॉन्च किया गया। यह भारतीय नौसेना की समुद्री आपूर्ति क्षमता बढ़ाने वाला महत्वपूर्ण पोत है।",
+      "subCategory": "रक्षा",
+      "questionType": "mcq",
+      "uuid": "ca-0030-6f70-8192-334455667730",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What is the name of India's first indigenously designed and built Fleet Support Ship?",
+        "options_en": [
+          "Samarth",
+          "Surya",
+          "Jala Usha",
+          "Vikrant"
+        ],
+        "explanation_en": "India's first indigenously designed and built Fleet Support Ship was launched as Surya."
+      }
+    },
+    {
+      "question": "भारत का पहला समर्पित MICE पर्यटन प्रोत्साहन पोर्टल किस राज्य ने शुरू किया?",
+      "options": [
+        "केरल",
+        "राजस्थान",
+        "ओडिशा",
+        "मध्य प्रदेश"
+      ],
+      "correctIndex": 2,
+      "explanation": "ओडिशा ने भारत का पहला समर्पित MICE (मीटिंग, इंसेंटिव, कॉन्फ्रेंस और एक्जीबिशन) पर्यटन प्रोत्साहन पोर्टल शुरू किया। इसका उद्देश्य राज्य में व्यावसायिक सम्मेलनों और आयोजनों को बढ़ावा देना है।",
+      "subCategory": "पर्यटन व राज्य",
+      "questionType": "mcq",
+      "uuid": "ca-0031-6f70-8192-334455667731",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which state launched India's first dedicated incentive portal for MICE tourism?",
+        "options_en": [
+          "Kerala",
+          "Rajasthan",
+          "Odisha",
+          "Madhya Pradesh"
+        ],
+        "explanation_en": "Odisha launched India's first dedicated MICE tourism incentive portal."
+      }
+    },
+    {
+      "question": "चाइम (CHIME) टेलीस्कोप, जो प्रारंभिक ब्रह्मांड से हाइड्रोजन की धीमी चमक पकड़ने के लिए चर्चा में रहा, किस देश में स्थित है?",
+      "options": [
+        "भारत",
+        "चिली",
+        "जापान",
+        "कनाडा"
+      ],
+      "correctIndex": 3,
+      "explanation": "चाइम (CHIME) टेलीस्कोप कनाडा में स्थित है और इसने प्रारंभिक ब्रह्मांड से हाइड्रोजन की धीमी चमक का पता लगाया। यह अवलोकन ब्रह्मांड के शुरुआती युग को समझने में सहायक है।",
+      "subCategory": "विज्ञान व तकनीक",
+      "questionType": "mcq",
+      "uuid": "ca-0032-6f70-8192-334455667732",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The CHIME telescope, which detected the faint glow of hydrogen from the early universe, is located in which country?",
+        "options_en": [
+          "India",
+          "Chile",
+          "Japan",
+          "Canada"
+        ],
+        "explanation_en": "CHIME is located in Canada."
+      }
+    },
+    {
+      "question": "'द स्टेट ऑफ द वर्ल्ड्स फॉरेस्ट्स 2026' रिपोर्ट किस संगठन ने जारी की?",
+      "options": [
+        "खाद्य एवं कृषि संगठन (FAO)",
+        "संयुक्त राष्ट्र पर्यावरण कार्यक्रम",
+        "यूएनडीपी",
+        "यूनेस्को"
+      ],
+      "correctIndex": 0,
+      "explanation": "द स्टेट ऑफ द वर्ल्ड्स फॉरेस्ट्स 2026 रिपोर्ट खाद्य एवं कृषि संगठन (FAO) ने जारी की। रिपोर्ट का विषय वनों और भूदृश्यों का पुनर्स्थापन है।",
+      "subCategory": "रिपोर्ट व सूचकांक",
+      "questionType": "mcq",
+      "uuid": "ca-0033-6f70-8192-334455667733",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which organisation released the report The State of the World's Forests 2026?",
+        "options_en": [
+          "Food and Agriculture Organization (FAO)",
+          "UNEP",
+          "UNDP",
+          "UNESCO"
+        ],
+        "explanation_en": "FAO released The State of the World's Forests 2026."
+      }
+    },
+    {
+      "question": "अंतरराष्ट्रीय समुद्री कानून न्यायाधिकरण (ITLOS) के न्यायाधीश के रूप में किस भारतीय न्यायविद् की नियुक्ति हुई?",
+      "options": [
+        "दलवीर भंडारी",
+        "बिमल एन. पटेल",
+        "नीरू चड्ढा",
+        "आदर्श सेन आनंद"
+      ],
+      "correctIndex": 1,
+      "explanation": "2026 में भारतीय न्यायविद् बिमल एन. पटेल को अंतरराष्ट्रीय समुद्री कानून न्यायाधिकरण (ITLOS) का न्यायाधीश नियुक्त किया गया। यह समुद्री कानून से जुड़े विवादों के निपटारे का प्रमुख अंतरराष्ट्रीय न्यायिक मंच है।",
+      "subCategory": "नियुक्ति व सम्मान",
+      "questionType": "mcq",
+      "uuid": "ca-0034-6f70-8192-334455667734",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which Indian jurist was appointed as a Judge of the International Tribunal for the Law of the Sea (ITLOS) in 2026?",
+        "options_en": [
+          "Dalveer Bhandari",
+          "Bimal N. Patel",
+          "Neeru Chadha",
+          "Adarsh Sein Anand"
+        ],
+        "explanation_en": "Bimal N. Patel was appointed as a judge of ITLOS in 2026."
+      }
+    },
+    {
+      "question": "बक्सा टाइगर रिजर्व, जो बाघ पुनर्स्थापन कार्यक्रम के लिए चर्चा में रहा, किस राज्य में स्थित है?",
+      "options": [
+        "मध्य प्रदेश",
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "छत्तीसगढ़"
+      ],
+      "correctIndex": 2,
+      "explanation": "बक्सा टाइगर रिजर्व पश्चिम बंगाल के जलपाईगुड़ी जिले में स्थित है और इसका उत्तरी भाग भूटान की सीमा से लगता है। बिहार के वाल्मीकि टाइगर रिजर्व से एक बाघिन यहाँ छोड़कर बाघ पुनर्स्थापन कार्यक्रम शुरू किया गया।",
+      "subCategory": "पर्यावरण व वन्यजीव",
+      "questionType": "mcq",
+      "uuid": "ca-0035-6f70-8192-334455667735",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Buxa Tiger Reserve, in news for a tiger reintroduction programme, is located in which state?",
+        "options_en": [
+          "Madhya Pradesh",
+          "Odisha",
+          "West Bengal",
+          "Chhattisgarh"
+        ],
+        "explanation_en": "Buxa Tiger Reserve is in Jalpaiguri district, West Bengal, and shares a border with Bhutan."
+      }
+    },
+    {
+      "question": "पाइप्ड नेचुरल गैस (PNG) के घरेलू उपयोग को बढ़ावा देने के लिए पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कौन-सी पहल शुरू की?",
+      "options": [
+        "पीएनजी फॉर ऑल",
+        "नेशनल गैस मिशन 3.0",
+        "इंडिया गैस कनेक्ट 3.0",
+        "नेशनल पीएनजी ड्राइव 3.0"
+      ],
+      "correctIndex": 3,
+      "explanation": "पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने घरों में पाइप्ड नेचुरल गैस (PNG) के उपयोग को तेज करने के लिए नेशनल पीएनजी ड्राइव 3.0 शुरू की। इसका उद्देश्य स्वच्छ ईंधन के घरेलू कनेक्शनों की संख्या बढ़ाना है।",
+      "subCategory": "ऊर्जा व योजनाएँ",
+      "questionType": "mcq",
+      "uuid": "ca-0036-6f70-8192-334455667736",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which initiative did the Ministry of Petroleum and Natural Gas launch to accelerate household adoption of PNG?",
+        "options_en": [
+          "PNG for All",
+          "National Gas Mission 3.0",
+          "India Gas Connect 3.0",
+          "National PNG Drive 3.0"
+        ],
+        "explanation_en": "The Ministry launched National PNG Drive 3.0."
+      }
+    },
+    {
+      "question": "लद्दाख में केसर की खेती का पायलट प्रोजेक्ट किस स्थान पर शुरू किया गया?",
+      "options": [
+        "स्पीतुक फार्का",
+        "नुब्रा",
+        "पैंगोंग",
+        "कारगिल"
+      ],
+      "correctIndex": 0,
+      "explanation": "लद्दाख में केसर की खेती का पायलट प्रोजेक्ट स्पीतुक फार्का में शुरू किया गया। यह पहल लद्दाख में अनोखी कृषि फसलों के विविधीकरण और स्थानीय आय बढ़ाने के उद्देश्य से की गई है।",
+      "subCategory": "कृषि",
+      "questionType": "mcq",
+      "uuid": "ca-0037-6f70-8192-334455667737",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "At which place in Ladakh was a saffron cultivation pilot project launched?",
+        "options_en": [
+          "Spituk Pharka",
+          "Nubra",
+          "Pangong",
+          "Kargil"
+        ],
+        "explanation_en": "The saffron pilot project was launched at Spituk Pharka in Ladakh."
+      }
+    },
+    {
+      "question": "2026 एशियाई खेलों की महिला हॉकी में भारत ने किस देश को हराकर स्वर्ण जीता?",
+      "options": [
+        "जापान",
+        "चीन",
+        "दक्षिण अफ्रीका",
+        "मलेशिया"
+      ],
+      "correctIndex": 1,
+      "explanation": "भारत ने 2026 एशियाई खेलों की महिला हॉकी स्पर्धा के फाइनल में मौजूदा चैंपियन चीन को 1-0 से हराकर स्वर्ण जीता। लालरेमसियामी ने निर्णायक गोल किया और भारत ने 44 वर्ष बाद यह खिताब जीता।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0038-6f70-8192-334455667738",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which country did India defeat to win women's hockey gold at the 2026 Asian Games?",
+        "options_en": [
+          "Japan",
+          "China",
+          "South Africa",
+          "Malaysia"
+        ],
+        "explanation_en": "India beat China 1-0 in the final, with Lalremsiami scoring the decisive goal."
+      }
+    },
+    {
+      "question": "व्यक्तिगत रिकर्व तीरंदाजी में एशियाई खेलों का पदक जीतने वाली पहली भारतीय महिला कौन बनी?",
+      "options": [
+        "दीपिका कुमारी",
+        "अंकिता भकत",
+        "कुमकुम मोहोद",
+        "ज्योति सुरेखा वेन्नम"
+      ],
+      "correctIndex": 2,
+      "explanation": "कुमकुम मोहोद व्यक्तिगत रिकर्व तीरंदाजी में एशियाई खेलों का पदक जीतने वाली पहली भारतीय महिला बनीं। यह उपलब्धि 2026 एशियाई खेलों में हासिल की गई।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0039-6f70-8192-334455667739",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who became the first Indian woman to win an Asian Games medal in individual recurve archery?",
+        "options_en": [
+          "Deepika Kumari",
+          "Ankita Bhakat",
+          "Kumkum Mohod",
+          "Jyothi Surekha Vennam"
+        ],
+        "explanation_en": "Kumkum Mohod became the first Indian woman to win an individual recurve archery medal at the Asian Games."
+      }
+    },
+    {
+      "question": "हरे-जैतूनी रंग का दुर्लभ ग्रीन कीलबैक साँप हाल में किस राज्य में देखा गया?",
+      "options": [
+        "महाराष्ट्र",
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक"
+      ],
+      "correctIndex": 3,
+      "explanation": "हरे-जैतूनी रंग का दुर्लभ ग्रीन कीलबैक साँप कर्नाटक में देखा गया। यह साँप मुख्य रूप से नम क्षेत्रों में पाया जाता है और मानव के लिए अधिक खतरनाक नहीं माना जाता।",
+      "subCategory": "पर्यावरण व वन्यजीव",
+      "questionType": "mcq",
+      "uuid": "ca-0040-6f70-8192-334455667740",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "A rare olive-green Green Keelback snake was recently spotted in which state?",
+        "options_en": [
+          "Maharashtra",
+          "Kerala",
+          "Tamil Nadu",
+          "Karnataka"
+        ],
+        "explanation_en": "The rare Green Keelback snake was spotted in Karnataka."
+      }
+    },
+    {
+      "question": "घरेलू हिंसा से निपटने के लिए 'स्पीक अप' नामक विशेष टास्क फोर्स किस राज्य पुलिस ने शुरू की?",
+      "options": [
+        "केरल",
+        "कर्नाटक",
+        "तमिलनाडु",
+        "मध्य प्रदेश"
+      ],
+      "correctIndex": 0,
+      "explanation": "केरल पुलिस ने अक्टूबर 2026 में घरेलू हिंसा से निपटने के लिए स्पीक अप नामक विशेष टास्क फोर्स शुरू की। इसका उद्देश्य पीड़ितों को सुरक्षित शिकायत और सहायता उपलब्ध कराना है।",
+      "subCategory": "राज्य व सुरक्षा",
+      "questionType": "mcq",
+      "uuid": "ca-0041-6f70-8192-334455667741",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which state police launched the special task force Speak Up to address domestic violence?",
+        "options_en": [
+          "Kerala",
+          "Karnataka",
+          "Tamil Nadu",
+          "Madhya Pradesh"
+        ],
+        "explanation_en": "Kerala Police launched the Speak Up task force against domestic violence."
+      }
+    },
+    {
+      "question": "2026 का नोबेल शांति पुरस्कार किसे दिया गया?",
+      "options": [
+        "मारिया कोरिना माचाडो",
+        "नवनेथम नवि पिल्लई",
+        "डोनाल्ड ट्रंप",
+        "मलाला यूसुफजई"
+      ],
+      "correctIndex": 1,
+      "explanation": "2026 का नोबेल शांति पुरस्कार शांति और अंतरराष्ट्रीय कानून के प्रचार-प्रसार के लिए नवनेथम नवि पिल्लई को दिया गया। वे दक्षिण अफ्रीका की प्रसिद्ध मानवाधिकार न्यायविद् हैं।",
+      "subCategory": "पुरस्कार व सम्मान",
+      "questionType": "mcq",
+      "uuid": "ca-0042-6f70-8192-334455667742",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who won the 2026 Nobel Peace Prize?",
+        "options_en": [
+          "Maria Corina Machado",
+          "Navanethem Navi Pillay",
+          "Donald Trump",
+          "Malala Yousafzai"
+        ],
+        "explanation_en": "Navanethem Navi Pillay won the 2026 Nobel Peace Prize for promoting peace and international law."
+      }
+    },
+    {
+      "question": "भारत का पहला अखिल भारतीय राष्ट्रीय घरेलू यात्रा सर्वेक्षण किस संगठन ने किया?",
+      "options": [
+        "एनएचएआई",
+        "नीति आयोग",
+        "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+        "केंद्रीय सड़क अनुसंधान संस्थान"
+      ],
+      "correctIndex": 2,
+      "explanation": "भारत का पहला अखिल भारतीय राष्ट्रीय घरेलू यात्रा सर्वेक्षण राष्ट्रीय सांख्यिकी कार्यालय (NSO) ने किया। इससे लोगों की यात्रा-प्रवृत्तियों और परिवहन उपयोग का आँकड़ा आधार तैयार हुआ।",
+      "subCategory": "रिपोर्ट व सर्वेक्षण",
+      "questionType": "mcq",
+      "uuid": "ca-0043-6f70-8192-334455667743",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which organisation conducted India's first-ever all-India National Household Travel Survey?",
+        "options_en": [
+          "NHAI",
+          "NITI Aayog",
+          "National Statistics Office (NSO)",
+          "Central Road Research Institute"
+        ],
+        "explanation_en": "The National Statistics Office conducted India's first National Household Travel Survey."
+      }
+    },
+    {
+      "question": "निवेशक शिक्षा और प्रतिभूति बाजार धोखाधड़ी रोकने के लिए 'प्रोजेक्ट जागरूक' किस संस्था ने शुरू किया?",
+      "options": [
+        "पेंशन निधि नियामक",
+        "भारतीय रिजर्व बैंक",
+        "बीमा नियामक और विकास प्राधिकरण",
+        "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+      ],
+      "correctIndex": 3,
+      "explanation": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने निवेशक शिक्षा को मजबूत करने और प्रतिभूति बाजार में धोखाधड़ी रोकने के लिए प्रोजेक्ट जागरूक शुरू किया। यह पहल निवेशकों में जागरूकता बढ़ाने पर केंद्रित है।",
+      "subCategory": "अर्थव्यवस्था व बाजार",
+      "questionType": "mcq",
+      "uuid": "ca-0044-6f70-8192-334455667744",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which regulator launched Project Jagrook for investor education and prevention of securities market fraud?",
+        "options_en": [
+          "PFRDA",
+          "RBI",
+          "IRDAI",
+          "SEBI"
+        ],
+        "explanation_en": "SEBI launched Project Jagrook."
+      }
+    },
+    {
+      "question": "कृषि के लिए एआई आधारित डिजिटल लर्निंग प्लेटफॉर्म 'अवनी (AVNI)' किस संस्थान ने विकसित किया?",
+      "options": [
+        "आईआईटी रोपड़",
+        "आईआईटी कानपुर",
+        "आईआईटी बॉम्बे",
+        "आईआईटी मद्रास"
+      ],
+      "correctIndex": 0,
+      "explanation": "कृषि के लिए एआई आधारित डिजिटल लर्निंग प्लेटफॉर्म अवनी आईआईटी रोपड़ ने विकसित किया। यह किसानों और कृषि विद्यार्थियों को डिजिटल माध्यम से प्रशिक्षण उपलब्ध कराता है।",
+      "subCategory": "विज्ञान व तकनीक",
+      "questionType": "mcq",
+      "uuid": "ca-0045-6f70-8192-334455667745",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which institute developed AVNI, an AI-driven digital learning platform for agriculture?",
+        "options_en": [
+          "IIT Ropar",
+          "IIT Kanpur",
+          "IIT Bombay",
+          "IIT Madras"
+        ],
+        "explanation_en": "AVNI was developed by IIT Ropar."
+      }
+    },
+    {
+      "question": "इच्छामती नदी भारत और किस देश के बीच प्राकृतिक अंतरराष्ट्रीय सीमा बनाती है?",
+      "options": [
+        "म्यांमार",
+        "बांग्लादेश",
+        "भूटान",
+        "नेपाल"
+      ],
+      "correctIndex": 1,
+      "explanation": "इच्छामती नदी भारत और बांग्लादेश के बीच प्राकृतिक अंतरराष्ट्रीय सीमा बनाती है। यह सीमावर्ती क्षेत्रों में नदी के बदलते मार्ग से जुड़े मुद्दों के कारण चर्चा में रहती है।",
+      "subCategory": "भूगोल व सीमा",
+      "questionType": "mcq",
+      "uuid": "ca-0046-6f70-8192-334455667746",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "The Ichamati River forms a natural international border between India and which country?",
+        "options_en": [
+          "Myanmar",
+          "Bangladesh",
+          "Bhutan",
+          "Nepal"
+        ],
+        "explanation_en": "The Ichamati forms a natural border between India and Bangladesh."
+      }
+    },
+    {
+      "question": "ब्रिक्स रंगमंच महोत्सव 2026 का उद्घाटन किस शहर में हुआ?",
+      "options": [
+        "हैदराबाद",
+        "मुंबई",
+        "नई दिल्ली",
+        "चेन्नई"
+      ],
+      "correctIndex": 2,
+      "explanation": "ब्रिक्स रंगमंच महोत्सव 2026 का उद्घाटन नई दिल्ली में हुआ। यह आयोजन सदस्य देशों के बीच सांस्कृतिक आदान-प्रदान और रंगमंच परंपराओं को प्रस्तुत करता है।",
+      "subCategory": "संस्कृति व आयोजन",
+      "questionType": "mcq",
+      "uuid": "ca-0047-6f70-8192-334455667747",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Where was the BRICS Theatre Festival 2026 inaugurated?",
+        "options_en": [
+          "Hyderabad",
+          "Mumbai",
+          "New Delhi",
+          "Chennai"
+        ],
+        "explanation_en": "The BRICS Theatre Festival 2026 was inaugurated in New Delhi."
+      }
+    },
+    {
+      "question": "2026 का अर्थशास्त्र का नोबेल पुरस्कार किन्हें दिया गया?",
+      "options": [
+        "पीटर हॉविट और माइकल वुडफोर्ड",
+        "जोएल मोकिर और फिलिप एगियन",
+        "क्लाउडिया गोल्डिन और रॉबर्ट हॉल",
+        "रॉबर्ट हॉल और माइकल वुडफोर्ड"
+      ],
+      "correctIndex": 3,
+      "explanation": "2026 का अर्थशास्त्र का नोबेल पुरस्कार रॉबर्ट हॉल और माइकल वुडफोर्ड को दिया गया। दोनों अर्थशास्त्र में मौद्रिक नीति और समष्टि-आर्थिक शोध के लिए जाने जाते हैं।",
+      "subCategory": "पुरस्कार व सम्मान",
+      "questionType": "mcq",
+      "uuid": "ca-0048-6f70-8192-334455667748",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Who won the 2026 Nobel Prize in Economics?",
+        "options_en": [
+          "Peter Howitt and Michael Woodford",
+          "Joel Mokyr and Philippe Aghion",
+          "Claudia Goldin and Robert Hall",
+          "Robert Hall and Michael Woodford"
+        ],
+        "explanation_en": "Robert Hall and Michael Woodford won the 2026 Nobel Prize in Economics."
+      }
+    },
+    {
+      "question": "'भारत राइस' पहल किस संगठन ने अक्टूबर 2026 में शुरू की?",
+      "options": [
+        "भारतीय सेना",
+        "डीआरडीओ",
+        "खाद्य प्रसंस्करण उद्योग मंत्रालय",
+        "नीति आयोग"
+      ],
+      "correctIndex": 0,
+      "explanation": "भारतीय सेना ने अक्टूबर 2026 में भारत राइस पहल शुरू की। इसका उद्देश्य सैन्य टुकड़ियों को स्थानीय और गुणवत्तापूर्ण चावल की आपूर्ति सुनिश्चित करना तथा स्वदेशी कृषि उत्पादों को बढ़ावा देना है।",
+      "subCategory": "रक्षा व योजनाएँ",
+      "questionType": "mcq",
+      "uuid": "ca-0049-6f70-8192-334455667749",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "Which organisation launched the Bharat Rice initiative in October 2026?",
+        "options_en": [
+          "Indian Army",
+          "DRDO",
+          "Ministry of Food Processing Industries",
+          "NITI Aayog"
+        ],
+        "explanation_en": "The Indian Army launched the Bharat Rice initiative."
+      }
+    },
+    {
+      "question": "आइची-नागोया एशियाई खेल 2026 की पदक तालिका में भारत का स्थान क्या रहा?",
+      "options": [
+        "पहला",
+        "चौथा",
+        "दूसरा",
+        "तीसरा"
+      ],
+      "correctIndex": 1,
+      "explanation": "आइची-नागोया एशियाई खेल 2026 की पदक तालिका में भारत चौथे स्थान पर रहा। यह भारत का एशियाई खेलों में सर्वश्रेष्ठ प्रदर्शनों में से एक रहा।",
+      "subCategory": "खेल",
+      "questionType": "mcq",
+      "uuid": "ca-0050-6f70-8192-334455667750",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "Current-Affairs"
+      ],
+      "extra_data": {
+        "question_en": "What was India's rank in the medal tally at the Aichi-Nagoya Asian Games 2026?",
+        "options_en": [
+          "First",
+          "Fourth",
+          "Second",
+          "Third"
+        ],
+        "explanation_en": "India finished fourth in the medal tally at the 2026 Asian Games."
+      }
     }
-  ],
-  "updated_at": "2026-10-15T01:30:00+00:00",
-  "total_questions": 2308
+  ]
 }

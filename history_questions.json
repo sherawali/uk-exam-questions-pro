@@ -1,4 +1,7 @@
 {
+  "category": "भारतीय इतिहास",
+  "updated_at": "2026-10-20T00:00:00+00:00",
+  "total_questions": 1888,
   "questions": [
     {
       "question": "मध्यकालीन भारत में 'दिल्ली सल्तनत' की स्थापना कब हुई थी?",
@@ -36425,8 +36428,3486 @@
         ],
         "explanation_en": "The Great Bath has been found at Mohenjo-daro (Sindh, Pakistan). Dholavira (Gujarat) is famous for its water management."
       }
+    },
+    {
+      "question": "सिंधु घाटी सभ्यता का प्रसिद्ध बंदरगाह नगर 'लोथल' किस नदी के तट पर स्थित था?",
+      "options": [
+        "भोगवा नदी",
+        "रावी नदी",
+        "घग्गर नदी",
+        "हिंडन नदी"
+      ],
+      "correctIndex": 0,
+      "explanation": "लोथल गुजरात के अहमदाबाद जिले में भोगवा नदी के तट पर स्थित हड़प्पा कालीन प्रमुख बंदरगाह नगर था। इसकी खोज 1954 में एस. आर. राव ने की थी। यहाँ से गोदीबाड़ा (Dockyard), युगल समाधियाँ और धान की भूसी के साक्ष्य मिले हैं।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0001-4a1b-9c3d-112233445501",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "On the banks of which river was the famous port city 'Lothal' of the Indus Valley Civilization located?",
+        "options_en": [
+          "Bhogava River",
+          "Ravi River",
+          "Ghaggar River",
+          "Hindon River"
+        ],
+        "explanation_en": "Lothal was a major Harappan port city located on the banks of the Bhogava River in Ahmedabad district of Gujarat. It was discovered by S. R. Rao in 1954 and is known for its tidal dockyard, double burials, and rice husk evidence."
+      }
+    },
+    {
+      "question": "ऋग्वेद में किस पशु के लिए 'अघन्या' (न मारे जाने योग्य) शब्द का प्रयोग किया गया है?",
+      "options": [
+        "अश्व",
+        "गाय",
+        "बैल",
+        "हाथी"
+      ],
+      "correctIndex": 1,
+      "explanation": "वैदिक काल में गाय को सर्वाधिक पवित्र और आर्थिक समृद्धि का मुख्य आधार माना जाता था। ऋग्वेद में गाय के लिए 'अघन्या' शब्द का प्रयोग हुआ है, जिसका अर्थ है 'वध न किए जाने योग्य'। वैदिक काल में गाय विनिमय का प्रमुख माध्यम भी थी।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0002-4a1b-9c3d-112233445502",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In the Rigveda, the term 'Aghanya' (not to be killed) has been used for which animal?",
+        "options_en": [
+          "Horse",
+          "Cow",
+          "Bull",
+          "Elephant"
+        ],
+        "explanation_en": "In the Vedic period, the cow was considered sacred and the primary measure of wealth. In the Rigveda, it is referred to as 'Aghanya', meaning 'not to be slain', and served as a major medium of exchange."
+      }
+    },
+    {
+      "question": "गौतम बुद्ध ने अपना प्रथम उपदेश कहाँ दिया था, जिसे बौद्ध ग्रंथों में 'धर्मचक्रप्रवर्तन' कहा गया है?",
+      "options": [
+        "बोधगया",
+        "कुशीनगर",
+        "सारनाथ",
+        "श्रावस्ती"
+      ],
+      "correctIndex": 2,
+      "explanation": "गौतम बुद्ध ने ज्ञान प्राप्ति के पश्चात अपना पहला उपदेश सारनाथ (ऋषिपत्तनम/मृगदाव) में पाँच ब्राह्मण संन्यासियों को दिया था। इस घटना को बौद्ध धर्म में 'धर्मचक्रप्रवर्तन' कहा जाता है, जबकि बुद्ध ने सर्वाधिक उपदेश कौशल की राजधानी श्रावस्ती में दिए थे।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0003-4a1b-9c3d-112233445503",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Where did Gautama Buddha deliver his first sermon, known as 'Dharmachakrapravartana' in Buddhist texts?",
+        "options_en": [
+          "Bodh Gaya",
+          "Kushinagar",
+          "Sarnath",
+          "Shravasti"
+        ],
+        "explanation_en": "After attaining enlightenment, Gautama Buddha delivered his first sermon to five ascetics at Sarnath (Rishipatana). This event is called Dharmachakrapravartana, while he delivered the maximum number of sermons at Shravasti."
+      }
+    },
+    {
+      "question": "सम्राट अशोक के ब्राह्मी लिपि में लिखे गए शिलालेखों को सर्वप्रथम किसने पढ़ा था?",
+      "options": [
+        "अलेक्जेंडर कनिंघम",
+        "विलियम जोन्स",
+        "जॉन मार्शल",
+        "जेम्स प्रिंसेप"
+      ],
+      "correctIndex": 3,
+      "explanation": "अशोक के शिलालेखों को पढ़ने में सबसे पहली सफलता 1837 ई. में ईस्ट इंडिया कंपनी के अधिकारी और पुरातत्वविद् जेम्स प्रिंसेप को मिली थी। अशोक के अभिलेखों की खोज सर्वप्रथम 1750 ई. में टी. फैंथेलर ने की थी।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0004-4a1b-9c3d-112233445504",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who first deciphered Emperor Ashoka's inscriptions written in the Brahmi script?",
+        "options_en": [
+          "Alexander Cunningham",
+          "William Jones",
+          "John Marshall",
+          "James Prinsep"
+        ],
+        "explanation_en": "James Prinsep, an official of the East India Company, first deciphered Ashoka's Brahmi script inscriptions in 1837. The inscriptions were first discovered in 1750 by T. Fanthaler."
+      }
+    },
+    {
+      "question": "समुद्रगुप्त की विजयों का वर्णन करने वाली 'प्रयाग प्रशस्ति' की रचना किसने की थी?",
+      "options": [
+        "हरिषेण",
+        "बाणभट्ट",
+        "कालिदास",
+        "रविकीर्ति"
+      ],
+      "correctIndex": 0,
+      "explanation": "प्रयाग प्रशस्ति (इलाहाबाद स्तंभ अभिलेख) की रचना गुप्त सम्राट समुद्रगुप्त के दरबारी कवि और संधिविग्रहिक हरिषेण ने संस्कृत की चम्पू शैली (गद्य और पद्य दोनों) में की थी। इतिहासकार वी. ए. स्मिथ ने समुद्रगुप्त को 'भारत का नेपोलियन' कहा है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0005-4a1b-9c3d-112233445505",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who composed the 'Prayag Prashasti' which describes the conquests of Samudragupta?",
+        "options_en": [
+          "Harishena",
+          "Banabhatta",
+          "Kalidasa",
+          "Ravikirti"
+        ],
+        "explanation_en": "Prayag Prashasti (Allahabad Pillar Inscription) was composed in Sanskrit Champu style by Harishena, the court poet and minister of Gupta Emperor Samudragupta, who was called the 'Napoleon of India' by V. A. Smith."
+      }
+    },
+    {
+      "question": "दिल्ली सल्तनत के किस सुल्तान ने अपने विरोधियों के प्रति कठोर 'रक्त और लौह' की नीति अपनाई थी?",
+      "options": [
+        "इल्तुतमिश",
+        "गियासुद्दीन बलबन",
+        "अलाउद्दीन खिलजी",
+        "मोहम्मद बिन तुगलक"
+      ],
+      "correctIndex": 1,
+      "explanation": "गुलाम वंश के शासक गियासुद्दीन बलबन (1266-1287 ई.) ने सुल्तान के पद की गरिमा स्थापित करने के लिए 'रक्त और लौह' की नीति अपनाई। उसने 'चालीसा दल' (तुर्कान-ए-चिहलगानी) का दमन किया तथा दरबार में सिजदा और पैबोस प्रथा शुरू की।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0006-4a1b-9c3d-112233445506",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Sultan of the Delhi Sultanate adopted the strict policy of 'Blood and Iron' against his opponents?",
+        "options_en": [
+          "Iltutmish",
+          "Ghiyasuddin Balban",
+          "Alauddin Khilji",
+          "Muhammad bin Tughlaq"
+        ],
+        "explanation_en": "Ghiyasuddin Balban (1266-1287 CE) adopted the policy of 'Blood and Iron' to restore the prestige of the crown, abolished the Turkan-i-Chahalgani (Corp of Forty), and introduced the court customs of Sijda and Paibos."
+      }
+    },
+    {
+      "question": "मुगल सम्राट अकबर ने किस विजय की स्मृति में फतेहपुर सीकरी में 'बुलंद दरवाजा' का निर्माण करवाया था?",
+      "options": [
+        "मालवा विजय",
+        "चित्तौड़ विजय",
+        "गुजरात विजय",
+        "असीरगढ़ विजय"
+      ],
+      "correctIndex": 2,
+      "explanation": "अकबर ने 1572-73 ई. के अपने गुजरात अभियान की ऐतिहासिक विजय के उपलक्ष्य में फतेहपुर सीकरी में बुलंद दरवाजा बनवाया था। लाल और बलुआ पत्थर से निर्मित यह दरवाजा विश्व का सबसे ऊँचा प्रवेश द्वार माना जाता है।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0007-4a1b-9c3d-112233445507",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In memory of which victory did Mughal Emperor Akbar build the 'Buland Darwaza' at Fatehpur Sikri?",
+        "options_en": [
+          "Conquest of Malwa",
+          "Conquest of Chittor",
+          "Conquest of Gujarat",
+          "Conquest of Asirgarh"
+        ],
+        "explanation_en": "Akbar built the Buland Darwaza at Fatehpur Sikri to commemorate his victorious Gujarat campaign of 1572-73 CE. Built of red and buff sandstone, it is the highest gateway in the world."
+      }
+    },
+    {
+      "question": "छत्रपति शिवाजी के 'अष्टप्रधान' मंत्रिमंडल में विदेश मामलों के मंत्री को क्या कहा जाता था?",
+      "options": [
+        "पेशवा",
+        "अमात्य",
+        "वाकियानवीस",
+        "सुमंत"
+      ],
+      "correctIndex": 3,
+      "explanation": "शिवाजी के प्रशासन में आठ मंत्रियों की परिषद को 'अष्टप्रधान' कहा जाता था। इसमें 'सुमंत' (या दबीर) विदेश मंत्री होता था, जबकि 'पेशवा' प्रधानमंत्री और 'अमात्य' (मजूमदार) वित्त एवं राजस्व मंत्री होता था।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0008-4a1b-9c3d-112233445508",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What was the Minister of Foreign Affairs called in Chhatrapati Shivaji's 'Ashtapradhan' council?",
+        "options_en": [
+          "Peshwa",
+          "Amatya",
+          "Waqianavis",
+          "Sumant"
+        ],
+        "explanation_en": "In Shivaji's Ashtapradhan council of eight ministers, the 'Sumant' (or Dabir) was in charge of foreign affairs, while the 'Peshwa' served as Prime Minister and 'Amatya' handled finance and revenue."
+      }
+    },
+    {
+      "question": "1857 के प्रथम स्वतंत्रता संग्राम के समय भारत का गवर्नर-जनरल कौन था?",
+      "options": [
+        "लॉर्ड कैनिंग",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड लिटन",
+        "लॉर्ड रिपन"
+      ],
+      "correctIndex": 0,
+      "explanation": "1857 के विद्रोह के समय लॉर्ड कैनिंग (1856-1862) भारत का गवर्नर-जनरल था। विद्रोह के बाद पारित भारत सरकार अधिनियम 1858 के तहत कंपनी का शासन समाप्त कर दिया गया और लॉर्ड कैनिंग भारत का प्रथम वायसराय बना।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0009-4a1b-9c3d-112233445509",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the Governor-General of India during the First War of Independence in 1857?",
+        "options_en": [
+          "Lord Canning",
+          "Lord Dalhousie",
+          "Lord Lytton",
+          "Lord Ripon"
+        ],
+        "explanation_en": "Lord Canning (1856-1862) was the Governor-General of India during the Revolt of 1857. Following the Government of India Act 1858, rule was transferred to the British Crown and Lord Canning became the first Viceroy of India."
+      }
+    },
+    {
+      "question": "1920 में गठित 'अखिल भारतीय ट्रेड यूनियन कांग्रेस' (AITUC) के प्रथम अध्यक्ष कौन थे?",
+      "options": [
+        "एन. एम. जोशी",
+        "लाला लाजपत राय",
+        "बाल गंगाधर तिलक",
+        "सुभाष चंद्र बोस"
+      ],
+      "correctIndex": 1,
+      "explanation": "अखिल भारतीय ट्रेड यूनियन कांग्रेस (AITUC) की स्थापना 31 अक्टूबर 1920 को बंबई में हुई थी। इसके प्रथम अध्यक्ष लाला लाजपत राय थे और प्रथम महासचिव दीवान चमन लाल थे। एन. एम. जोशी इसके प्रमुख संस्थापकों में शामिल थे।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0010-4a1b-9c3d-112233445510",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the first President of the All India Trade Union Congress (AITUC) founded in 1920?",
+        "options_en": [
+          "N. M. Joshi",
+          "Lala Lajpat Rai",
+          "Bal Gangadhar Tilak",
+          "Subhas Chandra Bose"
+        ],
+        "explanation_en": "The All India Trade Union Congress (AITUC) was founded on 31 October 1920 in Bombay. Lala Lajpat Rai served as its first President, Diwan Chaman Lall as General Secretary, and N. M. Joshi was one of its key founders."
+      }
+    },
+    {
+      "question": "फरवरी 1922 में चौरी-चौरा की हिंसक घटना के कारण महात्मा गांधी ने कौन-सा आंदोलन वापस ले लिया था?",
+      "options": [
+        "सविनय अवज्ञा आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "असहयोग आंदोलन",
+        "चंपारण सत्याग्रह"
+      ],
+      "correctIndex": 2,
+      "explanation": "4 फरवरी 1922 को संयुक्त प्रांत के गोरखपुर जिले के चौरी-चौरा में प्रदर्शनकारियों द्वारा पुलिस चौकी जलाए जाने की घटना से आहत होकर महात्मा गांधी ने 12 फरवरी 1922 को बारदोली में कांग्रेस कार्यसमिति की बैठक बुलाकर असहयोग आंदोलन स्थगित कर दिया था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0011-4a1b-9c3d-112233445511",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which movement was called off by Mahatma Gandhi due to the violent Chauri Chaura incident in February 1922?",
+        "options_en": [
+          "Civil Disobedience Movement",
+          "Quit India Movement",
+          "Non-Cooperation Movement",
+          "Champaran Satyagraha"
+        ],
+        "explanation_en": "Following the Chauri Chaura incident on 4 February 1922 in Gorakhpur district where a police station was set ablaze, Mahatma Gandhi suspended the Non-Cooperation Movement on 12 February 1922 at Bardoli."
+      }
+    },
+    {
+      "question": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव पारित किया गया था?",
+      "options": [
+        "कलकत्ता अधिवेशन, 1928",
+        "हरिपुरा अधिवेशन, 1938",
+        "कराची अधिवेशन, 1931",
+        "लाहौर अधिवेशन, 1929"
+      ],
+      "correctIndex": 3,
+      "explanation": "दिसंबर 1929 में जवाहरलाल नेहरू की अध्यक्षता में हुए कांग्रेस के लाहौर अधिवेशन में 'पूर्ण स्वराज' का ऐतिहासिक प्रस्ताव पारित किया गया। इसी अधिवेशन में 26 जनवरी 1930 को प्रथम स्वतंत्रता दिवस मनाने का निर्णय लिया गया था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0012-4a1b-9c3d-112233445512",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which session of the Indian National Congress was the resolution of 'Purna Swaraj' (Complete Independence) passed?",
+        "options_en": [
+          "Calcutta Session, 1928",
+          "Haripura Session, 1938",
+          "Karachi Session, 1931",
+          "Lahore Session, 1929"
+        ],
+        "explanation_en": "The historic 'Purna Swaraj' resolution was passed in December 1929 at the Lahore Session of the Indian National Congress presided over by Jawaharlal Nehru, declaring 26 January 1930 as Independence Day."
+      }
+    },
+    {
+      "question": "सिंधु घाटी सभ्यता के किस स्थल से 'जुते हुए खेत' के प्राचीनतम साक्ष्य प्राप्त हुए हैं?",
+      "options": [
+        "कालीबंगा",
+        "मोहनजोदड़ो",
+        "धौलावीरा",
+        "बनावली"
+      ],
+      "correctIndex": 0,
+      "explanation": "राजस्थान के हनुमानगढ़ जिले में घग्गर नदी के तट पर स्थित कालीबंगा से प्राक्-हड़प्पा कालीन जुते हुए खेत के साक्ष्य मिले हैं, जहाँ एक साथ दो फसलें उगाने के प्रमाण हैं। यहाँ से अग्निकुंड और अलंकृत ईंटों के साक्ष्य भी प्राप्त हुए हैं।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0013-4a1b-9c3d-112233445513",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "From which site of the Indus Valley Civilization has the earliest evidence of a 'ploughed field' been found?",
+        "options_en": [
+          "Kalibangan",
+          "Mohenjo-daro",
+          "Dholavira",
+          "Banawali"
+        ],
+        "explanation_en": "Evidence of a pre-Harappan ploughed field with furrows for growing two crops simultaneously was found at Kalibangan on the banks of the Ghaggar River in Hanumangarh district, Rajasthan. Fire altars and decorated bricks were also found here."
+      }
+    },
+    {
+      "question": "भारत के राष्ट्रीय चिह्न में अंकित आदर्श वाक्य 'सत्यमेव जयते' किस उपनिषद से लिया गया है?",
+      "options": [
+        "कठोपनिषद",
+        "मुण्डकोपनिषद",
+        "छान्दोग्य उपनिषद",
+        "वृहदारण्यक उपनिषद"
+      ],
+      "correctIndex": 1,
+      "explanation": "'सत्यमेव जयते' (सत्य की ही विजय होती है) अथर्ववेद से संबंधित मुण्डकोपनिषद से लिया गया है। इसी उपनिषद में यज्ञ की तुलना टूटी हुई नाव से की गई है।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0014-4a1b-9c3d-112233445514",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "From which Upanishad is the national motto 'Satyameva Jayate' inscribed on the National Emblem of India taken?",
+        "options_en": [
+          "Katha Upanishad",
+          "Mundaka Upanishad",
+          "Chandogya Upanishad",
+          "Brihadaranyaka Upanishad"
+        ],
+        "explanation_en": "'Satyameva Jayate' (Truth Alone Triumphs) is taken from the Mundaka Upanishad, which belongs to the Atharvaveda. In this Upanishad, rituals without true knowledge are compared to frail boats."
+      }
+    },
+    {
+      "question": "कनिष्क के शासनकाल में चतुर्थ बौद्ध संगीति का आयोजन किस स्थान पर हुआ था?",
+      "options": [
+        "राजगृह",
+        "वैशाली",
+        "कुण्डलवन (कश्मीर)",
+        "पाटलिपुत्र"
+      ],
+      "correctIndex": 2,
+      "explanation": "चतुर्थ बौद्ध संगीति का आयोजन प्रथम शताब्दी ईस्वी में कुषाण शासक कनिष्क के संरक्षण में कश्मीर के कुण्डलवन में हुआ था। इसकी अध्यक्षता वसुमित्र ने की थी और अश्वघोष इसके उपाध्यक्ष थे। इसी संगीति में बौद्ध धर्म हीनयान और महायान दो संप्रदायों में विभाजित हो गया।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0015-4a1b-9c3d-112233445515",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "At which place was the Fourth Buddhist Council held during the reign of Kanishka?",
+        "options_en": [
+          "Rajgriha",
+          "Vaishali",
+          "Kundalvana (Kashmir)",
+          "Pataliputra"
+        ],
+        "explanation_en": "The Fourth Buddhist Council was held in the first century CE at Kundalvana in Kashmir under the patronage of Kushan ruler Kanishka, presided over by Vasumitra with Ashvaghosha as vice-president. Buddhism split into Hinayana and Mahayana during this council."
+      }
+    },
+    {
+      "question": "जैन धर्म के 23वें तीर्थंकर कौन थे, जिनका प्रतीक चिह्न 'सर्प' था?",
+      "options": [
+        "ऋषभदेव",
+        "अजितनाथ",
+        "नेमिनाथ",
+        "पार्श्वनाथ"
+      ],
+      "correctIndex": 3,
+      "explanation": "जैन धर्म के 23वें तीर्थंकर पार्श्वनाथ थे, जो काशी के इक्ष्वाकु वंशीय राजा अश्वसेन के पुत्र थे। उन्होंने सम्मेद शिखर (पारसनाथ पहाड़ी) पर निर्वाण प्राप्त किया था और चार महाव्रत (सत्य, अहिंसा, अस्तेय, अपरिग्रह) का उपदेश दिया था।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0016-4a1b-9c3d-112233445516",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the 23rd Tirthankara of Jainism, whose symbol was the 'Serpent'?",
+        "options_en": [
+          "Rishabhadeva",
+          "Ajitanatha",
+          "Neminatha",
+          "Parshvanatha"
+        ],
+        "explanation_en": "Parshvanatha was the 23rd Tirthankara of Jainism and the son of King Ashvasena of Kashi. He attained Nirvana at Sammed Shikhar and preached four vows: Satya (truth), Ahimsa (non-violence), Asteya (non-stealing), and Aparigraha (non-possession)."
+      }
+    },
+    {
+      "question": "प्राचीन भारत के सोलह महाजनपदों की सूची किस बौद्ध ग्रंथ में मिलती है?",
+      "options": [
+        "अंगुत्तर निकाय",
+        "दीघ निकाय",
+        "सुत्त पिटक",
+        "जातक कथाएं"
+      ],
+      "correctIndex": 0,
+      "explanation": "छठी शताब्दी ईसा पूर्व के 16 महाजनपदों का प्रामाणिक उल्लेख बौद्ध ग्रंथ 'अंगुत्तर निकाय' और जैन ग्रंथ 'भगवती सूत्र' में मिलता है। इन 16 महाजनपदों में मगध सर्वाधिक शक्तिशाली साम्राज्य के रूप में उभरा और अश्मक एकमात्र दक्षिण भारतीय महाजनपद था।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0017-4a1b-9c3d-112233445517",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which Buddhist text is the list of the Sixteen Mahajanapadas of ancient India found?",
+        "options_en": [
+          "Anguttara Nikaya",
+          "Digha Nikaya",
+          "Sutta Pitaka",
+          "Jataka Tales"
+        ],
+        "explanation_en": "The sixteen Mahajanapadas of the 6th century BCE are listed in the Buddhist text 'Anguttara Nikaya' and the Jain text 'Bhagavati Sutra'. Among them, Magadha emerged as the most powerful, and Assaka (Ashmaka) was the only Mahajanapada in South India."
+      }
+    },
+    {
+      "question": "चाणक्य (कौटिल्य) द्वारा रचित 'अर्थशास्त्र' मुख्य रूप से किस विषय से संबंधित ग्रंथ है?",
+      "options": [
+        "आर्थिक एवं व्यापारिक इतिहास",
+        "शासन कला एवं राजनीतिक नीतियां",
+        "धार्मिक कर्मकांड",
+        "सामाजिक रीति-रिवाज"
+      ],
+      "correctIndex": 1,
+      "explanation": "कौटिल्य (विष्णुगुप्त/चाणक्य) द्वारा रचित 'अर्थशास्त्र' मौर्यकालीन राजव्यवस्था, लोक प्रशासन और शासन कला (Statecraft and Polity) पर लिखा गया प्रमुख संस्कृत ग्रंथ है। इसमें 15 अधिकरण (भाग) हैं और इसमें राज्य के 'सप्तांग सिद्धांत' का वर्णन किया गया है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0018-4a1b-9c3d-112233445518",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "'Arthashastra', composed by Chanakya (Kautilya), is primarily a treatise on which subject?",
+        "options_en": [
+          "Economic and Trade History",
+          "Statecraft and Political Policies",
+          "Religious Rituals",
+          "Social Customs"
+        ],
+        "explanation_en": "Kautilya's 'Arthashastra' is an ancient Sanskrit treatise on statecraft, public administration, and political strategy from the Mauryan period. Divided into 15 books (Adhikaranas), it notably outlines the 'Saptanga Theory' of the state."
+      }
+    },
+    {
+      "question": "किस मौर्य सम्राट को 'अमित्रघात' (शत्रुओं का नाश करने वाला) कहा जाता है?",
+      "options": [
+        "चंद्रगुप्त मौर्य",
+        "अशोक",
+        "बिंदुसार",
+        "दशरथ"
+      ],
+      "correctIndex": 2,
+      "explanation": "चंद्रगुप्त मौर्य के पुत्र और उत्तराधिकारी बिंदुसार (298-273 ईसा पूर्व) को संस्कृत ग्रंथों में 'अमित्रघात' और यूनानी लेखकों द्वारा 'अमित्रोचेट्स' कहा गया है। उसके दरबार में सीरिया के शासक एंटियोकस प्रथम का राजदूत डाइमेकस आया था।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0019-4a1b-9c3d-112233445519",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Mauryan Emperor was called 'Amitraghata' (Slayer of Foes)?",
+        "options_en": [
+          "Chandragupta Maurya",
+          "Ashoka",
+          "Bindusara",
+          "Dasharatha"
+        ],
+        "explanation_en": "Bindusara (298-273 BCE), the son and successor of Chandragupta Maurya, was known as 'Amitraghata' in Sanskrit texts and 'Amitrochates' by Greek accounts. Deimachus, the ambassador of Syrian ruler Antiochus I, visited his court."
+      }
+    },
+    {
+      "question": "गुप्त वंश के किस शासक ने शकों को पराजित करने के उपलक्ष्य में 'विक्रमादित्य' की उपाधि धारण की थी?",
+      "options": [
+        "चंद्रगुप्त प्रथम",
+        "समुद्रगुप्त",
+        "स्कंदगुप्त",
+        "चंद्रगुप्त द्वितीय"
+      ],
+      "correctIndex": 3,
+      "explanation": "चंद्रगुप्त द्वितीय (375-415 ई.) ने पश्चिमी भारत के अंतिम शक शासक रुद्रसिंह तृतीय को पराजित कर 'शकारि' और 'विक्रमादित्य' की उपाधि धारण की थी। इसी विजय के बाद उसने मालवा क्षेत्र में चांदी के सिक्के (रूपक) जारी किए।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0020-4a1b-9c3d-112233445520",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which ruler of the Gupta dynasty assumed the title of 'Vikramaditya' after defeating the Shakas?",
+        "options_en": [
+          "Chandragupta I",
+          "Samudragupta",
+          "Skandagupta",
+          "Chandragupta II"
+        ],
+        "explanation_en": "Chandragupta II (375-415 CE) defeated the last Western Kshatrapa (Shaka) ruler Rudrasimha III and assumed the titles 'Shakari' and 'Vikramaditya'. He also issued silver coins (Rupaka) to commemorate this victory."
+      }
+    },
+    {
+      "question": "प्रसिद्ध चीनी बौद्ध यात्री फाह्यान (Fa-Hien) किस भारतीय सम्राट के शासनकाल में भारत आया था?",
+      "options": [
+        "चंद्रगुप्त द्वितीय",
+        "कनिष्क",
+        "हर्षवर्धन",
+        "समुद्रगुप्त"
+      ],
+      "correctIndex": 0,
+      "explanation": "चीनी यात्री फाह्यान गुप्त सम्राट चंद्रगुप्त द्वितीय 'विक्रमादित्य' के शासनकाल (399-414 ई.) में भारत आया था। उसने अपने यात्रा वृत्तांत 'फो-क्वो-की' में मध्य देश की सामाजिक, धार्मिक और आर्थिक समृद्धि का वर्णन किया है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0021-4a1b-9c3d-112233445521",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "During the reign of which Indian Emperor did the famous Chinese Buddhist pilgrim Fa-Hien visit India?",
+        "options_en": [
+          "Chandragupta II",
+          "Kanishka",
+          "Harshavardhana",
+          "Samudragupta"
+        ],
+        "explanation_en": "Chinese pilgrim Fa-Hien visited India between 399 and 414 CE during the reign of Gupta Emperor Chandragupta II. In his travelogue 'Fo-Kwo-Ki', he described the peaceful administration and prosperity of the Gupta Empire."
+      }
+    },
+    {
+      "question": "प्राचीन नालंदा विश्वविद्यालय की स्थापना किस गुप्त शासक के शासनकाल में हुई थी?",
+      "options": [
+        "चंद्रगुप्त प्रथम",
+        "कुमारगुप्त प्रथम",
+        "भानुगुप्त",
+        "विष्णुगुप्त"
+      ],
+      "correctIndex": 1,
+      "explanation": "बिहार में स्थित प्राचीन नालंदा विश्वविद्यालय (महाविहार) की स्थापना 5वीं शताब्दी ईस्वी में गुप्त शासक कुमारगुप्त प्रथम (महेन्द्रादित्य) ने की थी। इसे महायान बौद्ध धर्म का ऑक्सफोर्ड कहा जाता था, जिसे 12वीं सदी के अंत में बख्तियार खिलजी ने नष्ट कर दिया था।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0022-4a1b-9c3d-112233445522",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "During the reign of which Gupta ruler was the ancient Nalanda University founded?",
+        "options_en": [
+          "Chandragupta I",
+          "Kumaragupta I",
+          "Bhanugupta",
+          "Vishnugupta"
+        ],
+        "explanation_en": "Ancient Nalanda University in Bihar was founded in the 5th century CE by Gupta ruler Kumaragupta I (Mahendraditya). It was a premier center of Mahayana Buddhist learning before being destroyed by Bakhtiyar Khilji around the late 12th century."
+      }
+    },
+    {
+      "question": "दिल्ली सल्तनत के किस शासक ने सेना को नकद वेतन देने और 'बाजार नियंत्रण प्रणाली' (मूल्य नियंत्रण) लागू करने की शुरुआत की?",
+      "options": [
+        "इल्तुतमिश",
+        "फिरोजशाह तुगलक",
+        "अलाउद्दीन खिलजी",
+        "सिकंदर लोदी"
+      ],
+      "correctIndex": 2,
+      "explanation": "अलाउद्दीन खिलजी (1296-1316 ई.) ने विशाल स्थायी सेना रखने के लिए सैनिकों को नकद वेतन देने, घोड़े दागने और सैनिकों का हुलिया लिखने की प्रथा शुरू की। कम वेतन में सैनिकों की आवश्यकताएं पूरी करने के लिए उसने सख्त बाजार मूल्य नियंत्रण प्रणाली लागू की और 'दीवान-ए-रियासत' विभाग बनाया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0023-4a1b-9c3d-112233445523",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which ruler of the Delhi Sultanate introduced cash salaries for soldiers and implemented the 'Market Control System'?",
+        "options_en": [
+          "Iltutmish",
+          "Firoz Shah Tughlaq",
+          "Alauddin Khilji",
+          "Sikandar Lodi"
+        ],
+        "explanation_en": "Alauddin Khilji (1296-1316 CE) introduced cash salaries for a large standing army, along with Dagh (branding of horses) and Huliya (descriptive rolls). To sustain troops on fixed pay, he enforced strict price controls overseen by the Diwan-i-Riyasat."
+      }
+    },
+    {
+      "question": "दिल्ली सल्तनत के किस सुल्तान ने अपनी राजधानी दिल्ली से देवगिरि (दौलताबाद) स्थानांतरित की थी?",
+      "options": [
+        "गियासुद्दीन तुगलक",
+        "बहलोल लोदी",
+        "फिरोजशाह तुगलक",
+        "मोहम्मद बिन तुगलक"
+      ],
+      "correctIndex": 3,
+      "explanation": "मोहम्मद बिन तुगलक ने 1327 ई. में साम्राज्य के केंद्र में होने और मंगोल आक्रमणों से सुरक्षा के उद्देश्य से अपनी राजधानी दिल्ली से देवगिरि स्थानांतरित की और उसका नाम 'दौलताबाद' रखा। उसने सांकेतिक मुद्रा का प्रचलन और दीवान-ए-कोही (कृषि विभाग) की स्थापना भी की थी।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0024-4a1b-9c3d-112233445524",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Sultan of the Delhi Sultanate shifted his capital from Delhi to Devagiri (Daulatabad)?",
+        "options_en": [
+          "Ghiyasuddin Tughlaq",
+          "Bahlul Lodi",
+          "Firoz Shah Tughlaq",
+          "Muhammad bin Tughlaq"
+        ],
+        "explanation_en": "In 1327 CE, Muhammad bin Tughlaq shifted his capital from Delhi to Devagiri, renaming it Daulatabad, for better central administration of the empire. He is also known for introducing token currency and establishing the agriculture department Diwan-i-Kohi."
+      }
+    },
+    {
+      "question": "दक्षिण भारत में विजयनगर साम्राज्य की स्थापना हरिहर और बुक्का नामक दो भाइयों ने किस वर्ष की थी?",
+      "options": [
+        "1336 ई.",
+        "1320 ई.",
+        "1347 ई.",
+        "1398 ई."
+      ],
+      "correctIndex": 0,
+      "explanation": "हरिहर और बुक्का ने अपने गुरु विद्यारण्य के आशीर्वाद से 1336 ई. में तुंगभद्रा नदी के तट पर विजयनगर साम्राज्य की स्थापना की। उन्होंने अपने पिता संगम के नाम पर 'संगम वंश' की नींव रखी और हम्पी को अपनी राजधानी बनाया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0025-4a1b-9c3d-112233445525",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which year did the two brothers Harihara and Bukka found the Vijayanagara Empire in South India?",
+        "options_en": [
+          "1336 CE",
+          "1320 CE",
+          "1347 CE",
+          "1398 CE"
+        ],
+        "explanation_en": "Harihara and Bukka founded the Vijayanagara Empire in 1336 CE on the banks of the Tungabhadra River with the guidance of sage Vidyaranya. They established the Sangama dynasty named after their father and made Hampi their capital."
+      }
+    },
+    {
+      "question": "1527 ई. में लड़ा गया प्रसिद्ध 'खानवा का युद्ध' बाबर और किस राजपूत शासक के मध्य हुआ था?",
+      "options": [
+        "मेदिनी राय",
+        "राणा सांगा",
+        "महाराणा प्रताप",
+        "उदय सिंह"
+      ],
+      "correctIndex": 1,
+      "explanation": "खानवा का युद्ध 16 मार्च 1527 को मुगल संस्थापक बाबर और मेवाड़ के शासक राणा सांगा (संग्राम सिंह) के बीच हुआ था। इस युद्ध में बाबर ने 'जिहाद' का नारा दिया था और विजय के उपरांत 'गाजी' की उपाधि धारण की थी।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0026-4a1b-9c3d-112233445526",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "The famous 'Battle of Khanwa' in 1527 CE was fought between Babur and which Rajput ruler?",
+        "options_en": [
+          "Medini Rai",
+          "Rana Sanga",
+          "Maharana Pratap",
+          "Udai Singh"
+        ],
+        "explanation_en": "The Battle of Khanwa was fought on 16 March 1527 between Mughal founder Babur and Mewar ruler Rana Sanga. Babur declared Jihad before the battle and assumed the title of 'Ghazi' after his decisive victory."
+      }
+    },
+    {
+      "question": "अकबर के शासनकाल में राजा टोडरमल द्वारा लागू की गई 'दहसाला प्रणाली' (जब्ती व्यवस्था) का संबंध किससे था?",
+      "options": [
+        "सैन्य प्रशासन",
+        "न्यायिक सुधार",
+        "भू-राजस्व व्यवस्था",
+        "मुद्रा ढलाई"
+      ],
+      "correctIndex": 2,
+      "explanation": "अकबर के वित्त मंत्री राजा टोडरमल ने 1580 ई. में 'आईन-ए-दहसाला' (जब्ती प्रणाली) लागू की थी, जो भू-राजस्व निर्धारण की एक वैज्ञानिक व्यवस्था थी। इसमें पिछले 10 वर्षों के उत्पादन और कीमतों के औसत के आधार पर उपज का एक-तिहाई (1/3) भाग लगान के रूप में निर्धारित किया गया था।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0027-4a1b-9c3d-112233445527",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "To what was the 'Dahsala System' (Zabti System) introduced by Raja Todar Mal during Akbar's reign related?",
+        "options_en": [
+          "Military Administration",
+          "Judicial Reforms",
+          "Land Revenue System",
+          "Coinage and Minting"
+        ],
+        "explanation_en": "Introduced in 1580 CE by Akbar's finance minister Raja Todar Mal, the Ain-i-Dahsala (Zabti system) was a land revenue settlement system. It calculated average produce and prices over the previous 10 years, fixing one-third as the state's revenue share."
+      }
+    },
+    {
+      "question": "किस मुगल सम्राट के शासनकाल को 'मुगल चित्रकला का स्वर्ण युग' कहा जाता है?",
+      "options": [
+        "हुमायूँ",
+        "अकबर",
+        "शाहजहाँ",
+        "जहाँगीर"
+      ],
+      "correctIndex": 3,
+      "explanation": "जहाँगीर (1605-1627 ई.) के शासनकाल को मुगल चित्रकला का स्वर्ण युग कहा जाता है, जबकि शाहजहाँ के काल को स्थापत्य कला का स्वर्ण युग माना जाता है। उस्ताद मंसूर (पक्षी चित्रकार) और अबुल हसन (व्यक्ति चित्रकार) जहाँगीर के दरबार के प्रमुख चित्रकार थे।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0028-4a1b-9c3d-112233445528",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "The reign of which Mughal Emperor is called the 'Golden Age of Mughal Painting'?",
+        "options_en": [
+          "Humayun",
+          "Akbar",
+          "Shah Jahan",
+          "Jahangir"
+        ],
+        "explanation_en": "The reign of Jahangir (1605-1627 CE) is recognized as the Golden Age of Mughal Painting, whereas Shah Jahan's reign is known for architecture. Prominent painters in Jahangir's court included Ustad Mansur and Abul Hasan."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह के दौरान लखनऊ (अवध) में क्रांतिकारियों का नेतृत्व किसने किया था?",
+      "options": [
+        "बेगम हजरत महल",
+        "रानी लक्ष्मीबाई",
+        "कुंवर सिंह",
+        "खान बहादुर खान"
+      ],
+      "correctIndex": 0,
+      "explanation": "लखनऊ में 4 जून 1857 को शुरू हुए विद्रोह का नेतृत्व अवध के नवाब वाजिद अली शाह की पत्नी बेगम हजरत महल ने किया था। उन्होंने अपने अल्पवयस्क पुत्र बिरजिस कादिर को नवाब घोषित किया। मार्च 1858 में कॉलिन कैंपबेल ने लखनऊ पर पुनः ब्रिटिश नियंत्रण स्थापित किया।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0029-4a1b-9c3d-112233445529",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who led the revolutionaries in Lucknow (Awadh) during the Revolt of 1857?",
+        "options_en": [
+          "Begum Hazrat Mahal",
+          "Rani Lakshmibai",
+          "Kunwar Singh",
+          "Khan Bahadur Khan"
+        ],
+        "explanation_en": "Begum Hazrat Mahal, wife of deposed Nawab Wajid Ali Shah, led the 1857 uprising in Lucknow and proclaimed her young son Birjis Qadr as Nawab. British forces led by Colin Campbell recaptured Lucknow in March 1858."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह को किसने अपनी पुस्तक में 'भारत का प्रथम स्वतंत्रता संग्राम' की संज्ञा दी थी?",
+      "options": [
+        "आर. सी. मजूमदार",
+        "वी. डी. सावरकर",
+        "एस. एन. सेन",
+        "दादाभाई नौरोजी"
+      ],
+      "correctIndex": 1,
+      "explanation": "विनायक दामोदर सावरकर (वी. डी. सावरकर) ने 1909 में प्रकाशित अपनी प्रसिद्ध पुस्तक 'द इंडियन वॉर ऑफ इंडिपेंडेंस 1857' में इस विद्रोह को सुनियोजित 'प्रथम स्वतंत्रता संग्राम' कहा था। वहीं, एस. एन. सेन ने 1857 के विद्रोह पर सरकारी इतिहासकार के रूप में 'एटीन फिफ्टी-सेवन' पुस्तक लिखी थी।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0030-4a1b-9c3d-112233445530",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who described the Revolt of 1857 as the 'First War of Indian Independence' in his book?",
+        "options_en": [
+          "R. C. Majumdar",
+          "V. D. Savarkar",
+          "S. N. Sen",
+          "Dadabhai Naoroji"
+        ],
+        "explanation_en": "Vinayak Damodar Savarkar termed the uprising a planned 'First War of Indian Independence' in his 1909 book 'The Indian War of Independence 1857'. S. N. Sen served as the official historian of the revolt and authored 'Eighteen Fifty-Seven'."
+      }
+    },
+    {
+      "question": "1857 की क्रांति में कानपुर से विद्रोह का मुख्य नेतृत्व किसने किया था, जिनका वास्तविक नाम 'धोंडू पंत' था?",
+      "options": [
+        "तात्या टोपे",
+        "अजीमुल्ला खान",
+        "नाना साहब",
+        "मौलवी अहमदुल्लाह"
+      ],
+      "correctIndex": 2,
+      "explanation": "कानपुर में 5 जून 1857 को विद्रोह की शुरुआत हुई, जिसका नेतृत्व अंतिम पेशवा बाजीराव द्वितीय के दत्तक पुत्र नाना साहब (धोंडू पंत) ने किया था। सैन्य संचालन में उनकी सहायता तात्या टोपे (रामचंद्र पांडुरंग) और अजीमुल्ला खान ने की थी।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0031-4a1b-9c3d-112233445531",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the primary leader of the 1857 Revolt in Kanpur, whose real name was 'Dhondu Pant'?",
+        "options_en": [
+          "Tatya Tope",
+          "Azimullah Khan",
+          "Nana Saheb",
+          "Maulvi Ahmadullah"
+        ],
+        "explanation_en": "Nana Saheb (Dhondu Pant), the adopted son of the last Peshwa Baji Rao II, led the revolt in Kanpur starting on 5 June 1857. He was militarily assisted by Tatya Tope (Ramachandra Pandurang) and Azimullah Khan."
+      }
+    },
+    {
+      "question": "वर्ष 1905 में बंगाल का विभाजन किस ब्रिटिश वायसराय के कार्यकाल में किया गया था?",
+      "options": [
+        "लॉर्ड मिंटो",
+        "लॉर्ड चेम्सफोर्ड",
+        "लॉर्ड हार्डिंग",
+        "लॉर्ड कर्जन"
+      ],
+      "correctIndex": 3,
+      "explanation": "वायसराय लॉर्ड कर्जन (1899-1905) ने 19 जुलाई 1905 को बंगाल विभाजन की घोषणा की, जो 16 अक्टूबर 1905 से प्रभावी हुआ। इसके विरोध में 7 अगस्त 1905 को कलकत्ता के टाउन हॉल से 'स्वदेशी एवं बहिष्कार आंदोलन' शुरू किया गया था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0032-4a1b-9c3d-112233445532",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "During the tenure of which British Viceroy was the Partition of Bengal carried out in 1905?",
+        "options_en": [
+          "Lord Minto",
+          "Lord Chelmsford",
+          "Lord Hardinge",
+          "Lord Curzon"
+        ],
+        "explanation_en": "Viceroy Lord Curzon (1899-1905) announced the Partition of Bengal on 19 July 1905, which came into effect on 16 October 1905. In protest, the Swadeshi and Boycott movement was formally launched on 7 August 1905 from Calcutta Town Hall."
+      }
+    },
+    {
+      "question": "1916 के प्रसिद्ध 'लखनऊ अधिवेशन' (जिसमें कांग्रेस और मुस्लिम लीग के बीच समझौता हुआ) की अध्यक्षता किसने की थी?",
+      "options": [
+        "अंबिका चरण मजूमदार",
+        "रासबिहारी घोष",
+        "एनी बेसेंट",
+        "मदन मोहन मालवीय"
+      ],
+      "correctIndex": 0,
+      "explanation": "दिसंबर 1916 के लखनऊ कांग्रेस अधिवेशन की अध्यक्षता अंबिका चरण मजूमदार ने की थी। इस अधिवेशन की दो प्रमुख विशेषताएं थीं: 1907 की सूरत फूट के बाद नरम दल व गरम दल का पुनर्मिलन, तथा कांग्रेस और मुस्लिम लीग के बीच ऐतिहासिक 'लखनऊ समझौता'।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0033-4a1b-9c3d-112233445533",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who presided over the famous 'Lucknow Session' of 1916, in which the pact between Congress and Muslim League was signed?",
+        "options_en": [
+          "Ambica Charan Mazumdar",
+          "Rash Behari Ghosh",
+          "Annie Besant",
+          "Madan Mohan Malaviya"
+        ],
+        "explanation_en": "Ambica Charan Mazumdar presided over the 1916 Lucknow Session of the Indian National Congress. This session marked the reunion of Moderates and Extremists after the 1907 Surat Split, as well as the historic Lucknow Pact with the Muslim League."
+      }
+    },
+    {
+      "question": "महात्मा गांधी ने भारत में सत्याग्रह का अपना प्रथम प्रयोग वर्ष 1917 में कहाँ किया था?",
+      "options": [
+        "खेड़ा",
+        "चंपारण",
+        "अहमदाबाद",
+        "बारदोली"
+      ],
+      "correctIndex": 1,
+      "explanation": "महात्मा गांधी ने भारत में अपना पहला सत्याग्रह अप्रैल 1917 में बिहार के चंपारण जिले में शुरू किया था। किसान नेता राजकुमार शुक्ल के निमंत्रण पर गांधीजी ने वहाँ प्रचलित 'तिनकठिया प्रथा' (भूमि के 3/20 भाग पर नील की अनिवार्य खेती) के विरुद्ध सफल आंदोलन चलाया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0034-4a1b-9c3d-112233445534",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Where did Mahatma Gandhi conduct his first experiment with Satyagraha in India in 1917?",
+        "options_en": [
+          "Kheda",
+          "Champaran",
+          "Ahmedabad",
+          "Bardoli"
+        ],
+        "explanation_en": "Mahatma Gandhi launched his first Satyagraha in India at Champaran, Bihar, in April 1917 at the invitation of Rajkumar Shukla. It was directed against the oppressive 'Tinkathia system', which forced peasants to cultivate indigo on 3/20th of their land."
+      }
+    },
+    {
+      "question": "वर्ष 1913 में अमेरिका के सैन फ्रांसिस्को में 'गदर पार्टी' के गठन में मुख्य भूमिका किसकी थी?",
+      "options": [
+        "श्यामजी कृष्ण वर्मा",
+        "मैडम भीकाजी कामा",
+        "लाला हरदयाल",
+        "रासबिहारी बोस"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 नवंबर 1913 को संयुक्त राज्य अमेरिका के सैन फ्रांसिस्को नगर में लाला हरदयाल के नेतृत्व में गदर पार्टी की स्थापना हुई थी, जिसके संस्थापक अध्यक्ष सोहन सिंह भाकना थे। इस संगठन ने 'गदर' नामक साप्ताहिक पत्रिका का प्रकाशन भी किया था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0035-4a1b-9c3d-112233445535",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who played the leading role in the formation of the 'Ghadar Party' in San Francisco, USA in 1913?",
+        "options_en": [
+          "Shyamji Krishna Varma",
+          "Madam Bhikaji Cama",
+          "Lala Hardayal",
+          "Rash Behari Bose"
+        ],
+        "explanation_en": "The Ghadar Party was founded in San Francisco, USA, on 1 November 1913 with Lala Hardayal as its key organizer and Sohan Singh Bhakna as founding president. The party published the weekly journal 'Ghadar' to mobilize revolutionary nationalism."
+      }
+    },
+    {
+      "question": "सितंबर 1932 में हस्ताक्षरित 'पूना समझौता' (Poona Pact) किनके मध्य हुआ था?",
+      "options": [
+        "महात्मा गांधी और लॉर्ड इरविन",
+        "जवाहरलाल नेहरू और सुभाष चंद्र बोस",
+        "महात्मा गांधी और मोहम्मद अली जिन्ना",
+        "महात्मा गांधी और डॉ. बी. आर. अंबेडकर"
+      ],
+      "correctIndex": 3,
+      "explanation": "ब्रिटिश प्रधानमंत्री रैम्जे मैकडोनाल्ड के 'सांप्रदायिक पंचाट' (Communal Award) में दलित वर्ग को पृथक निर्वाचक मंडल दिए जाने के विरोध में गांधीजी ने यरवदा जेल में आमरण अनशन किया। अंततः 24 सितंबर 1932 को गांधीजी और डॉ. बी. आर. अंबेडकर के मध्य पूना पैक्ट हुआ, जिसमें संयुक्त निर्वाचन क्षेत्र के भीतर दलितों के लिए आरक्षित सीटें बढ़ाई गईं।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0036-4a1b-9c3d-112233445536",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Between whom was the 'Poona Pact' signed in September 1932?",
+        "options_en": [
+          "Mahatma Gandhi and Lord Irwin",
+          "Jawaharlal Nehru and Subhas Chandra Bose",
+          "Mahatma Gandhi and Muhammad Ali Jinnah",
+          "Mahatma Gandhi and Dr. B. R. Ambedkar"
+        ],
+        "explanation_en": "The Poona Pact was signed on 24 September 1932 at Yerwada Central Jail between Mahatma Gandhi and Dr. B. R. Ambedkar. It replaced the separate electorate for the Depressed Classes proposed in the Communal Award with increased reserved seats within a joint electorate."
+      }
+    },
+    {
+      "question": "वर्ष 1939 में कांग्रेस के त्रिपुरी अधिवेशन के बाद अध्यक्ष पद से त्यागपत्र देकर सुभाष चंद्र बोस ने किस संगठन की स्थापना की थी?",
+      "options": [
+        "फॉरवर्ड ब्लॉक",
+        "स्वराज पार्टी",
+        "नौजवान भारत सभा",
+        "हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन"
+      ],
+      "correctIndex": 0,
+      "explanation": "1939 के त्रिपुरी कांग्रेस अधिवेशन में सुभाष चंद्र बोस ने पट्टाभि सीतारमैया को हराकर अध्यक्ष पद का चुनाव जीता था। गांधीजी और कार्यसमिति से मतभेद होने पर उन्होंने अप्रैल 1939 में इस्तीफा दे दिया और 3 मई 1939 को कांग्रेस के भीतर ही 'फॉरवर्ड ब्लॉक' की स्थापना की। उनके इस्तीफे के बाद डॉ. राजेंद्र प्रसाद कांग्रेस अध्यक्ष बने।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0037-4a1b-9c3d-112233445537",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which organization did Subhas Chandra Bose found in 1939 after resigning from the presidency of Congress following the Tripuri Session?",
+        "options_en": [
+          "Forward Bloc",
+          "Swaraj Party",
+          "Naujawan Bharat Sabha",
+          "Hindustan Socialist Republican Association"
+        ],
+        "explanation_en": "After winning the 1939 Tripuri Congress presidency against Pattabhi Sitaramayya, Subhas Chandra Bose resigned in April 1939 due to differences over the working committee and founded the 'Forward Bloc' on 3 May 1939. Dr. Rajendra Prasad succeeded him as Congress President."
+      }
+    },
+    {
+      "question": "संगम युग में चेर, चोल और पांड्य राजवंशों का उल्लेख मुख्य रूप से किस स्रोत में मिलता है?",
+      "options": [
+        "केवल अर्थशास्त्र",
+        "संगम साहित्य और अशोक के अभिलेख",
+        "केवल इंडिका",
+        "केवल रामायण"
+      ],
+      "correctIndex": 1,
+      "explanation": "संगम युग के चेर, चोल और पांड्य राजवंशों का उल्लेख संगम साहित्य तथा अशोक के अभिलेखों में मिलता है। संगम काल में मदुरै पांड्यों की राजधानी थी और यह काल ईसा पूर्व तीसरी शताब्दी से ईस्वी तीसरी शताब्दी तक माना जाता है।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0038-4a1b-9c3d-112233445538",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which source are the Chera, Chola and Pandya dynasties of the Sangam age mainly mentioned?",
+        "options_en": [
+          "Only Arthashastra",
+          "Sangam literature and Ashokan inscriptions",
+          "Only Indica",
+          "Only Ramayana"
+        ],
+        "explanation_en": "The Chera, Chola and Pandya dynasties are mentioned in Sangam literature and Ashokan inscriptions, with Madurai as the Pandya capital."
+      }
+    },
+    {
+      "question": "वैदिक काल में 'सभा' और 'समिति' नामक संस्थाओं का संबंध किससे था?",
+      "options": [
+        "धार्मिक अनुष्ठान",
+        "व्यापारिक गिल्ड",
+        "राजनीतिक एवं प्रशासनिक कार्य",
+        "सैन्य भर्ती"
+      ],
+      "correctIndex": 2,
+      "explanation": "ऋग्वेद काल में 'सभा' (जनजातीय परिषद) और 'समिति' (बड़ी जनसभा) राजनीतिक एवं प्रशासनिक निर्णय लेने वाली संस्थाएं थीं। पुरुषसूक्त में इन्हें राज्य के अंगों के रूप में वर्णित किया गया है, जबकि बाद के वैदिक काल में इनका महत्व घटने लगा।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0039-4a1b-9c3d-112233445539",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In the Vedic period, the institutions of 'Sabha' and 'Samiti' were associated with which function?",
+        "options_en": [
+          "Religious rituals",
+          "Trade guilds",
+          "Political and administrative work",
+          "Military recruitment"
+        ],
+        "explanation_en": "Sabha (tribal council) and Samiti (general assembly) were political and administrative institutions in the Rigvedic period. Their importance declined in the later Vedic age."
+      }
+    },
+    {
+      "question": "अशोक के किस अभिलेख में स्तूप के विस्तार और बुद्ध की धातु अवशेषों की पुनः स्थापना का उल्लेख है?",
+      "options": [
+        "मस्की शिलालेख",
+        "रुम्मिनदेई स्तंभ लेख",
+        "भाब्रू शिलालेख",
+        "निगली सागर स्तूप लेख"
+      ],
+      "correctIndex": 3,
+      "explanation": "निगली सागर स्तूप लेख में अशोक द्वारा कनकमुनि बुद्ध के स्तूप का विस्तार कराने और उसमें धातु अवशेष स्थापित करने का उल्लेख है। रुम्मिनदेई लेख में लुंबिनी ग्राम पर कर माफी और भाब्रू लेख में अशोक के बौद्ध धर्म में दीक्षित होने का उल्लेख मिलता है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0040-4a1b-9c3d-112233445540",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which inscription of Ashoka mentions the enlargement of a stupa and re-installation of Buddha relics?",
+        "options_en": [
+          "Maski rock edict",
+          "Rummindei pillar inscription",
+          "Bhabru rock edict",
+          "Nigali Sagar stupa inscription"
+        ],
+        "explanation_en": "The Nigali Sagar inscription records Ashoka enlarging the stupa of Kanakamuni Buddha and re-installing relics, while Rummindei records tax exemption for Lumbini."
+      }
+    },
+    {
+      "question": "शुंग वंश के संस्थापक पुष्यमित्र शुंग किस मौर्य सम्राट की सेना के सेनापति थे?",
+      "options": [
+        "बृहद्रथ",
+        "अशोक",
+        "बिंदुसार",
+        "कुणाल"
+      ],
+      "correctIndex": 0,
+      "explanation": "मौर्य सम्राट बृहद्रथ की सेना के सेनापति पुष्यमित्र शुंग ने 185 ईसा पूर्व में उनकी हत्या कर शुंग वंश की स्थापना की। कालिदास के नाटक 'मालविकाग्निमित्र' में पुष्यमित्र और अग्निमित्र का वर्णन मिलता है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0041-4a1b-9c3d-112233445541",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Pushyamitra Shunga, the founder of the Shunga dynasty, was the army commander of which Mauryan emperor?",
+        "options_en": [
+          "Brihadratha",
+          "Ashoka",
+          "Bindusara",
+          "Kunala"
+        ],
+        "explanation_en": "Pushyamitra Shunga, commander of Emperor Brihadratha's army, assassinated him in 185 BCE and founded the Shunga dynasty. Kalidasa's play 'Malavikagnimitra' describes Pushyamitra and his son Agnimitra."
+      }
+    },
+    {
+      "question": "कनिष्क के सिक्कों और अभिलेखों में उनके द्वारा धारण की गई कौन-सी उपाधि पाई जाती है?",
+      "options": [
+        "देवपुत्र",
+        "शाहनुशाह",
+        "महाराजाधिराज",
+        "राजर्षि"
+      ],
+      "correctIndex": 1,
+      "explanation": "कुषाण सम्राट कनिष्क के सिक्कों और अभिलेखों पर 'शाहनुशाह' (राजाओं का राजा) की उपाधि मिलती है, जो ईरानी प्रभाव को दर्शाती है। 'देवपुत्र' और 'पियदसि' उपाधियाँ अशोक की थीं।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0042-4a1b-9c3d-112233445542",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which title adopted by Kanishka is found on his coins and inscriptions?",
+        "options_en": [
+          "Devaputra",
+          "Shahanushah",
+          "Maharajadhiraja",
+          "Rajarshi"
+        ],
+        "explanation_en": "Kushan Emperor Kanishka's coins and inscriptions bear the Iranian-influenced title 'Shahanushah' (King of Kings); Devaputra was a title of Ashoka."
+      }
+    },
+    {
+      "question": "प्राचीन भारत के प्रसिद्ध खगोलशास्त्री आर्यभट्ट ने अपना ग्रंथ 'आर्यभटीय' किस शासक के काल में रचा था?",
+      "options": [
+        "चंद्रगुप्त द्वितीय",
+        "स्कंदगुप्त",
+        "कुमारगुप्त",
+        "हर्षवर्धन"
+      ],
+      "correctIndex": 2,
+      "explanation": "आर्यभट्ट ने 499 ई. में गुप्त शासक कुमारगुप्त के काल में 'आर्यभटीय' की रचना की, जिसमें उन्होंने पृथ्वी के घूर्णन और ग्रहों की गति पर प्रकाश डाला। गुप्त काल में ही गणितज्ञ वराहमिहिर ने 'पंचसिद्धांतिका' और 'बृहत्संहिता' लिखी।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0043-4a1b-9c3d-112233445543",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "During the reign of which ruler did the famous ancient astronomer Aryabhata compose his work 'Aryabhatiya'?",
+        "options_en": [
+          "Chandragupta II",
+          "Skandagupta",
+          "Kumaragupta",
+          "Harshavardhana"
+        ],
+        "explanation_en": "Aryabhata composed the 'Aryabhatiya' in 499 CE during the reign of Gupta ruler Kumaragupta. He discussed the rotation of the earth and planetary motion. Varahamihira, another great astronomer of the Gupta era, wrote 'Panchasiddhantika' and 'Brihat Samhita'."
+      }
+    },
+    {
+      "question": "चालुक्य वंश के किस शासक ने नर्मदा नदी के तट पर हर्षवर्धन को पराजित किया?",
+      "options": [
+        "पुलकेशिन प्रथम",
+        "मंगलेश",
+        "कीर्तिवर्मन",
+        "पुलकेशिन द्वितीय"
+      ],
+      "correctIndex": 3,
+      "explanation": "बादामी के चालुक्य शासक पुलकेशिन द्वितीय (609-642 ई.) ने लगभग 630 ई. में नर्मदा नदी के तट पर हर्षवर्धन को पराजित किया। उनके दरबारी कवि रविकीर्ति ने ऐहोल प्रशस्ति रची, जिसमें उनकी विजयों का वर्णन है।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0044-4a1b-9c3d-112233445544",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Chalukya ruler defeated Harshavardhana on the banks of the Narmada?",
+        "options_en": [
+          "Pulakeshin I",
+          "Mangalesha",
+          "Kirtivarman",
+          "Pulakeshin II"
+        ],
+        "explanation_en": "Pulakeshin II (609-642 CE) of Badami defeated Harshavardhana on the Narmada around 630 CE; his court poet Ravikirti composed the Aihole Prashasti."
+      }
+    },
+    {
+      "question": "पल्लव वंश की राजधानी कौन-सी थी, जिसके निकट महाबलिपुरम के प्रसिद्ध रथ मंदिर स्थित हैं?",
+      "options": [
+        "कांचीपुरम",
+        "मदुरै",
+        "तंजावुर",
+        "वारंगल"
+      ],
+      "correctIndex": 0,
+      "explanation": "पल्लव वंश की राजधानी कांचीपुरम थी, जहाँ महेंद्रवर्मन प्रथम और नरसिंहवर्मन ने स्थापत्य कला का विकास किया। कांचीपुरम के निकट महाबलिपुरम के एकाश्म रथ मंदिर नरसिंहवर्मन प्रथम द्वारा बनवाए गए माने जाते हैं।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0045-4a1b-9c3d-112233445545",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which was the capital of the Pallava dynasty, near which the famous Rath temples of Mahabalipuram are located?",
+        "options_en": [
+          "Kanchipuram",
+          "Madurai",
+          "Thanjavur",
+          "Warangal"
+        ],
+        "explanation_en": "The Pallava capital was Kanchipuram; the monolithic Pancha Rathas at nearby Mahabalipuram are attributed to Narasimhavarman I."
+      }
+    },
+    {
+      "question": "चोल वंश के किस शासक ने 'गंगैकोण्डचोल' की उपाधि धारण की और गंगा नदी तक सैन्य अभियान चलाया?",
+      "options": [
+        "राजराज प्रथम",
+        "राजेंद्र चोल प्रथम",
+        "विजयालय",
+        "कुलोत्तुंग प्रथम"
+      ],
+      "correctIndex": 1,
+      "explanation": "राजेंद्र चोल प्रथम (1014-1044 ई.) ने 1023 ई. में माहिष्मती, कलिंग और बंगाल पर आक्रमण कर गंगा तक पहुँचने पर 'गंगैकोण्डचोल' की उपाधि धारण की। उसने बंगाल की खाड़ी में श्रीलंका और मलय द्वीप समूह अभियान भी चलाए और गंगैकोण्डचोलपुरम नामक नई राजधानी बनाई।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0046-4a1b-9c3d-112233445546",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Chola ruler assumed the title 'Gangaikondachola' and led a military expedition up to the Ganga River?",
+        "options_en": [
+          "Rajaraja I",
+          "Rajendra Chola I",
+          "Vijayalaya",
+          "Kulottunga I"
+        ],
+        "explanation_en": "Rajendra Chola I (1014-1044 CE) assumed the title 'Gangaikondachola' after his expedition to the Ganga around 1023 CE. He also undertook naval campaigns against Sri Lanka and the Malay archipelago and founded the capital Gangaikondacholapuram."
+      }
+    },
+    {
+      "question": "दिल्ली सल्तनत की स्थापना करने वाले कुतुबुद्दीन ऐबक ने किस स्थान को अपनी प्रारंभिक राजधानी बनाया था?",
+      "options": [
+        "दिल्ली",
+        "अजमेर",
+        "लाहौर",
+        "बदायूं"
+      ],
+      "correctIndex": 2,
+      "explanation": "गोरी का दास कुतुबुद्दीन ऐबक 1206 ई. में दिल्ली सल्तनत का पहला सुल्तान बना, लेकिन उसने लाहौर को अपनी राजधानी बनाया। उसने दिल्ली में कुव्वत-उल-इस्लाम मस्जिद और कुतुब मीनार का निर्माण प्रारंभ कराया, जिसे इल्तुतमिश ने पूरा किया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0047-4a1b-9c3d-112233445547",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which city did Qutbuddin Aibak, founder of the Delhi Sultanate, make his initial capital?",
+        "options_en": [
+          "Delhi",
+          "Ajmer",
+          "Lahore",
+          "Badaun"
+        ],
+        "explanation_en": "Qutbuddin Aibak became the first Sultan in 1206 CE and chose Lahore as his capital. He began construction of the Quwwat-ul-Islam Mosque and the Qutub Minar in Delhi, which was completed by Iltutmish."
+      }
+    },
+    {
+      "question": "राजिया सुल्तान दिल्ली सल्तनत की पहली महिला शासक बनी, उन्होंने किस स्थान पर जन्म लिया था और किसने उन्हें पराजित किया?",
+      "options": [
+        "अजमेर, नासिरुद्दीन महमूद",
+        "दिल्ली, बलबन",
+        "लाहौर, इल्तुतमिश",
+        "बदायूं, अल्तुनिया"
+      ],
+      "correctIndex": 3,
+      "explanation": "इल्तुतमिश की पुत्री राजिया सुल्तान 1236 ई. में दिल्ली की गद्दी पर बैठी और दक्षिण में बदायूं के गवर्नर अल्तुनिया के हाथों 1240 ई. में पराजित एवं मारी गई। वह पर्दा न करने और घोड़े पर सवार होकर शासन करने के लिए जानी जाती है।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0048-4a1b-9c3d-112233445548",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Razia Sultan, the first woman ruler of the Delhi Sultanate, was defeated by which governor?",
+        "options_en": [
+          "Nasiruddin Mahmud, Ajmer",
+          "Balban, Delhi",
+          "Iltutmish, Lahore",
+          "Alauddin Masud, Badaun"
+        ],
+        "explanation_en": "Razia Sultan ascended the Delhi throne in 1236 CE and was defeated and killed in 1240 by Altunia, the governor of Bhatinda. She is remembered for ruling without purdah and riding horses."
+      }
+    },
+    {
+      "question": "अलाउद्दीन खिलजी के दक्षिण भारत अभियानों का नेतृत्व किस सेनापति ने किया था?",
+      "options": [
+        "मलिक काफूर",
+        "खिज्र खान",
+        "जलालुद्दीन फिरोज",
+        "अल्तुनिया"
+      ],
+      "correctIndex": 0,
+      "explanation": "अलाउद्दीन खिलजी के सेनापति मलिक काफूर ने 1307 से 1311 ई. के बीच देवगिरि, वारंगल, द्वारसमुद्र और मदुरै तक अभियानों का नेतृत्व किया और दक्षिण में खिलजी सत्ता का विस्तार किया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0049-4a1b-9c3d-112233445549",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which general led the South India campaigns of Alauddin Khilji?",
+        "options_en": [
+          "Malik Kafur",
+          "Khizr Khan",
+          "Jalaluddin Firuz",
+          "Altunia"
+        ],
+        "explanation_en": "Malik Kafur led the southern campaigns of Alauddin Khilji between 1307 and 1311 CE, extending Khilji power up to Madurai."
+      }
+    },
+    {
+      "question": "तुगलक वंश का अंतिम शासक कौन था, जिसे 1414 ई. में खिज्र खान ने पराजित किया?",
+      "options": [
+        "मोहम्मद बिन तुगलक",
+        "नसीरुद्दीन महमूद",
+        "फिरोजशाह तुगलक",
+        "महमूद तुगलक"
+      ],
+      "correctIndex": 1,
+      "explanation": "तुगलक वंश का अंतिम शासक नसीरुद्दीन महमूद शाह था, जिसे 1414 ई. में तैमूर के सेनापति खिज्र खान ने पराजित कर सैय्यद वंश की स्थापना की। इनके शासनकाल में ही 1398 ई. में तैमूर का दिल्ली पर विनाशकारी आक्रमण हुआ था।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0050-4a1b-9c3d-112233445550",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the last ruler of the Tughlaq dynasty, defeated by Khizr Khan in 1414 CE?",
+        "options_en": [
+          "Muhammad bin Tughlaq",
+          "Nasiruddin Mahmud",
+          "Firoz Shah Tughlaq",
+          "Mahmud Tughlaq"
+        ],
+        "explanation_en": "Nasiruddin Mahmud Shah was the last Tughlaq ruler, defeated by Khizr Khan in 1414 CE, who then founded the Sayyid dynasty. Timur's destructive invasion of Delhi occurred in 1398 CE during this period."
+      }
+    },
+    {
+      "question": "बहमनी साम्राज्य की स्थापना करने वाले हसन गंगू ने अपने साम्राज्य की राजधानी कहाँ बनाई थी?",
+      "options": [
+        "बीदर",
+        "बीजापुर",
+        "गुलबर्गा",
+        "बरार"
+      ],
+      "correctIndex": 2,
+      "explanation": "हसन गंगू (अलाउद्दीन बहमन शाह) ने 1347 ई. में बहमनी साम्राज्य की स्थापना की और गुलबर्गा को राजधानी बनाया। बाद में महमूद गवां के समय राजधानी बीदर स्थानांतरित की गई थी।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0051-4a1b-9c3d-112233445551",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Where did Hasan Gangu, founder of the Bahmani Empire, establish his capital?",
+        "options_en": [
+          "Bidar",
+          "Bijapur",
+          "Gulbarga",
+          "Berar"
+        ],
+        "explanation_en": "Hasan Gangu (Alauddin Bahman Shah) founded the Bahmani Empire in 1347 CE with Gulbarga as his capital. The capital was later shifted to Bidar during the time of Mahmud Gawan."
+      }
+    },
+    {
+      "question": "1565 ई. में विजयनगर और दक्षिणी सल्तनतों के बीच हुए 'तालीकोटा का युद्ध' का परिणाम क्या था?",
+      "options": [
+        "विजयनगर की विजय",
+        "पुर्तगालियों का आगमन",
+        "बहमनी साम्राज्य का उदय",
+        "विजयनगर का पतन"
+      ],
+      "correctIndex": 3,
+      "explanation": "23 जनवरी 1565 को राक्षसी-तंगड़ी (तालीकोटा) में विजयनगर के अलीय रामराय और बीजापुर, गोलकुंडा, अहमदनगर व बीदर की संयुक्त मुस्लिम सेनाओं के बीच युद्ध हुआ। विजयनगर की पराजय के बाद हम्पी नगर का विनाश हो गया और साम्राज्य का पतन प्रारंभ हुआ।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0052-4a1b-9c3d-112233445552",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What was the outcome of the Battle of Talikota (1565 CE) between Vijayanagara and the Deccan Sultanates?",
+        "options_en": [
+          "Victory of Vijayanagara",
+          "Arrival of the Portuguese",
+          "Rise of the Bahmani Empire",
+          "Fall of Vijayanagara"
+        ],
+        "explanation_en": "The Battle of Talikota on 23 January 1565 ended in the defeat of Vijayanagara's Rama Raya by the combined Deccan Sultanate forces, leading to the sacking of Hampi and the decline of the empire."
+      }
+    },
+    {
+      "question": "1582 ई. में अकबर ने 'दीन-ए-इलाही' नामक नया धर्म प्रचलित किया, इसका मुख्य उद्देश्य क्या था?",
+      "options": [
+        "हिंदू-मुस्लिम एकता और सहिष्णुता",
+        "ईसाई धर्म का प्रसार",
+        "बौद्ध धर्म का पुनरुद्धार",
+        "सिख धर्म का विरोध"
+      ],
+      "correctIndex": 0,
+      "explanation": "अकबर ने 1582 ई. में 'दीन-ए-इलाही' की स्थापना की, जिसका उद्देश्य विभिन्न धर्मों के बीच सहिष्णुता और हिंदू-मुस्लिम एकता को बढ़ावा देना था। इस धर्म में सूर्य को पवित्र माना जाता था और इसका प्रतीक 'अल्लाह-ओ-अकबर' था। बीरबल इसके एकमात्र प्रमुख अनुयायी माने जाते हैं।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0053-4a1b-9c3d-112233445553",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What was the main objective of the 'Din-i-Ilahi' introduced by Akbar in 1582 CE?",
+        "options_en": [
+          "Hindu-Muslim unity and tolerance",
+          "Spread of Christianity",
+          "Revival of Buddhism",
+          "Opposition to Sikhism"
+        ],
+        "explanation_en": "Akbar founded Din-i-Ilahi in 1582 CE to promote tolerance and Hindu-Muslim unity. The faith used the symbol 'Allah-o-Akbar', and Birbal is regarded as its only prominent follower."
+      }
+    },
+    {
+      "question": "मुगल बादशाह शाहजहाँ के शासनकाल में संगीतज्ञ और कवि 'जगन्नाथ पंडित' ने किस ग्रंथ की रचना की थी?",
+      "options": [
+        "गीत गोविंद",
+        "राग तरंगिणी",
+        "संगीत रत्नाकर",
+        "तानसेन की रचनाएं"
+      ],
+      "correctIndex": 1,
+      "explanation": "शाहजहाँ के दरबारी संगीतज्ञ जगन्नाथ पंडित ने 'राग तरंगिणी' ग्रंथ की रचना की, जो हिंदू और मुस्लिम संगीत परंपराओं के समन्वय का उदाहरण है। 'संगीत रत्नाकर' शारंगदेव ने और 'गीत गोविंद' जयदेव ने लिखा था।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0054-4a1b-9c3d-112233445554",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "During the reign of Shah Jahan, the musician and poet Jagannath Pandit composed which work?",
+        "options_en": [
+          "Gita Govinda",
+          "Raga Tarangini",
+          "Sangeet Ratnakara",
+          "Works of Tansen"
+        ],
+        "explanation_en": "Jagannath Pandit, a court musician of Shah Jahan, composed 'Raga Tarangini', which reflects the synthesis of Hindu and Muslim musical traditions. 'Sangeet Ratnakara' was written by Sharangadeva and 'Gita Govinda' by Jayadeva."
+      }
+    },
+    {
+      "question": "औरंगजेब के शासनकाल में 'जजिया कर' कब पुनः लागू किया गया था?",
+      "options": [
+        "1658 ई.",
+        "1669 ई.",
+        "1679 ई.",
+        "1681 ई."
+      ],
+      "correctIndex": 2,
+      "explanation": "औरंगजेब ने 1679 ई. में गैर-मुस्लिमों पर 'जजिया कर' पुनः लागू किया, जिसे अकबर ने 1564 ई. में समाप्त कर दिया था। उसने 1669 ई. में जालंधर व मथुरा के मंदिरों को तुड़वाया और संगीत व नृत्य पर भी प्रतिबंध लगाया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0055-4a1b-9c3d-112233445555",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "During Aurangzeb's reign, when was the 'Jizya Tax' re-imposed?",
+        "options_en": [
+          "1658 CE",
+          "1669 CE",
+          "1679 CE",
+          "1681 CE"
+        ],
+        "explanation_en": "Aurangzeb re-imposed the Jizya tax on non-Muslims in 1679 CE, which Akbar had abolished in 1564 CE. He also ordered demolition of several temples in 1669 and restricted music and dance."
+      }
+    },
+    {
+      "question": "शिवाजी की प्रसिद्ध 'गोरिल्ला युद्ध नीति' का मुख्य उद्देश्य क्या था?",
+      "options": [
+        "बड़े साम्राज्य से टकराव",
+        "किलों का स्थायी निर्माण",
+        "समुद्री व्यापार का विकास",
+        "छापामार हमलों द्वारा शत्रु को कमजोर करना"
+      ],
+      "correctIndex": 3,
+      "explanation": "शिवाजी ने 'गोरिल्ला युद्ध' (छापामार युद्ध) नीति अपनाई, जिसमें छोटी-छोटी टुकड़ियों द्वारा अचानक हमला कर शत्रु को कमजोर किया जाता था। उन्होंने लगभग 300 किलों पर नियंत्रण किया और 'आधी रात का साम्राज्य' स्थापित करने का वर्णन मिलता है।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0056-4a1b-9c3d-112233445556",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What was the main objective of Shivaji's famous 'Guerrilla Warfare' policy?",
+        "options_en": [
+          "Direct confrontation with large empires",
+          "Permanent construction of forts",
+          "Development of maritime trade",
+          "Weakening the enemy through surprise raids"
+        ],
+        "explanation_en": "Shivaji's guerrilla (hit-and-run) warfare used small mobile units to surprise and weaken larger enemy forces. He controlled around 300 forts and consolidated Maratha power."
+      }
+    },
+    {
+      "question": "शिवाजी के पुत्र संभाजी का वध किस मुगल शासक ने करवाया था?",
+      "options": [
+        "औरंगजेब",
+        "शाहजहाँ",
+        "जहाँगीर",
+        "बहादुरशाह प्रथम"
+      ],
+      "correctIndex": 0,
+      "explanation": "औरंगजेब ने संभाजी (शंभू) की हत्या 1689 ई. में करवाई थी। इसके बाद शिवाजी के पोते शाहू को मुगल दरबार में बंदी बना लिया गया था। संभाजी ने अपने शासनकाल में मुगलों के विरुद्ध संघर्ष जारी रखा था।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0057-4a1b-9c3d-112233445557",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Mughal ruler ordered the execution of Sambhaji, son of Shivaji?",
+        "options_en": [
+          "Aurangzeb",
+          "Shah Jahan",
+          "Jahangir",
+          "Bahadur Shah I"
+        ],
+        "explanation_en": "Aurangzeb ordered the execution of Sambhaji in 1689 CE. Afterwards, Shivaji's grandson Shahu was kept captive in the Mughal court. Sambhaji continued the Maratha struggle against the Mughals."
+      }
+    },
+    {
+      "question": "पेशवा बालाजी विश्वनाथ को 1713 ई. में 'सेनापति' की उपाधि और 'पेशवा' पद किसने दिया?",
+      "options": [
+        "संभाजी",
+        "शाहूजी महाराज",
+        "राजाराम",
+        "ताराबाई"
+      ],
+      "correctIndex": 1,
+      "explanation": "छत्रपति शाहूजी महाराज (शिवाजी के पोते) ने 1713 ई. में बालाजी विश्वनाथ को 'पेशवा' (मुख्यमंत्री) और 'सेनाकर्ते' की उपाधि दी। इसके बाद पेशवा पद वंशानुगत हो गया और बालाजी विश्वनाथ ने पेशवा वंश की नींव रखी।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0058-4a1b-9c3d-112233445558",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who conferred the title 'Senapati' and the post of 'Peshwa' on Balaji Vishwanath in 1713 CE?",
+        "options_en": [
+          "Sambhaji",
+          "Shahu Maharaj",
+          "Rajaram",
+          "Tarabai"
+        ],
+        "explanation_en": "Chhatrapati Shahu Maharaj conferred the title 'Senakarte' and the post of Peshwa on Balaji Vishwanath in 1713. The Peshwa post then became hereditary, founding the Peshwa dynasty."
+      }
+    },
+    {
+      "question": "1761 ई. में पानीपत के तृतीय युद्ध में मराठों को किसने पराजित किया था?",
+      "options": [
+        "तैमूर",
+        "नादिर शाह",
+        "अहमद शाह अब्दाली",
+        "बाबर"
+      ],
+      "correctIndex": 2,
+      "explanation": "14 जनवरी 1761 को पानीपत के तृतीय युद्ध में अफगान शासक अहमद शाह अब्दाली ने मराठा सेनापति सदाशिवराव भाऊ को पराजित किया। इस पराजय से मराठा साम्राज्य की उत्तरी विस्तार योजना को गंभीर आघात पहुँचा।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0059-4a1b-9c3d-112233445559",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who defeated the Marathas in the Third Battle of Panipat in 1761 CE?",
+        "options_en": [
+          "Timur",
+          "Nadir Shah",
+          "Ahmad Shah Abdali",
+          "Babur"
+        ],
+        "explanation_en": "In the Third Battle of Panipat on 14 January 1761, Afghan ruler Ahmad Shah Abdali defeated Maratha commander Sadashivrao Bhau, checking Maratha expansion in North India."
+      }
+    },
+    {
+      "question": "1764 ई. में बक्सर के युद्ध में अंग्रेजों ने किन संयुक्त सेनाओं को पराजित किया था?",
+      "options": [
+        "मुगल और राजपूत",
+        "हैदर अली और टीपू सुल्तान",
+        "मराठा और सिख",
+        "मीर कासिम, शुजाउद्दौला और शाह आलम द्वितीय"
+      ],
+      "correctIndex": 3,
+      "explanation": "22 अक्टूबर 1764 को बक्सर के युद्ध में ब्रिटिश सेना (मेजर मुनरो) ने मीर कासिम, अवध के नवाब शुजाउद्दौला और मुगल सम्राट शाह आलम द्वितीय की संयुक्त सेना को पराजित किया। इस युद्ध ने बंगाल, बिहार और उड़ीसा में ब्रिटिश सत्ता को सुदृढ़ किया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0060-4a1b-9c3d-112233445560",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which combined forces were defeated by the British in the Battle of Buxar in 1764?",
+        "options_en": [
+          "Mughals and Rajputs",
+          "Haidar Ali and Tipu Sultan",
+          "Marathas and Sikhs",
+          "Mir Qasim, Shuja-ud-Daula and Shah Alam II"
+        ],
+        "explanation_en": "In the Battle of Buxar on 22 October 1764, Major Munro's British forces defeated the combined armies of Mir Qasim, Nawab Shuja-ud-Daula of Awadh, and Mughal Emperor Shah Alam II, consolidating British power in Bengal, Bihar and Odisha."
+      }
+    },
+    {
+      "question": "वारेन हेस्टिंग्स के विरुद्ध महाभियोग (Impeachment) का प्रस्ताव ब्रिटिश संसद में किसने प्रस्तुत किया था?",
+      "options": [
+        "एडमंड बर्क",
+        "विलियम पिट",
+        "लॉर्ड क्लाइव",
+        "चार्ल्स कॉर्नवॉलिस"
+      ],
+      "correctIndex": 0,
+      "explanation": "1787 ई. में ब्रिटिश संसद में एडमंड बर्क ने भारत में भ्रष्टाचार और अत्याचार के आरोपों में वारेन हेस्टिंग्स के विरुद्ध महाभियोग प्रस्ताव रखा। हेस्टिंग्स को 1795 ई. में सभी आरोपों से मुक्त कर दिया गया।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0061-4a1b-9c3d-112233445561",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who moved the motion of impeachment against Warren Hastings in the British Parliament?",
+        "options_en": [
+          "Edmund Burke",
+          "William Pitt",
+          "Lord Clive",
+          "Charles Cornwallis"
+        ],
+        "explanation_en": "In 1787, Edmund Burke moved the impeachment motion against Warren Hastings in the British Parliament over alleged corruption and oppression in India. Hastings was finally acquitted of all charges in 1795."
+      }
+    },
+    {
+      "question": "स्थायी बंदोबस्त (Permanent Settlement) लागू करने वाला ब्रिटिश गवर्नर-जनरल कौन था?",
+      "options": [
+        "वारेन हेस्टिंग्स",
+        "लॉर्ड कॉर्नवॉलिस",
+        "लॉर्ड वेलेजली",
+        "सर जॉन शोर"
+      ],
+      "correctIndex": 1,
+      "explanation": "लॉर्ड कॉर्नवॉलिस ने 1793 ई. में बंगाल, बिहार और उड़ीसा में स्थायी बंदोबस्त लागू किया, जिसमें जमींदारों को भूमि का स्थायी मालिक मानकर राजस्व का 10/11 भाग सरकार को देने की शर्त रखी गई। यह व्यवस्था 20% क्षेत्र में लागू हुई थी।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0062-4a1b-9c3d-112233445562",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which British Governor-General introduced the Permanent Settlement?",
+        "options_en": [
+          "Warren Hastings",
+          "Lord Cornwallis",
+          "Lord Wellesley",
+          "Sir John Shore"
+        ],
+        "explanation_en": "Lord Cornwallis introduced the Permanent Settlement in Bengal, Bihar and Odisha in 1793, making zamindars hereditary proprietors who had to pay 10/11 of the revenue to the Company."
+      }
+    },
+    {
+      "question": "'सहायक संधि' (Subsidiary Alliance) की नीति किस ब्रिटिश गवर्नर-जनरल ने लागू की थी?",
+      "options": [
+        "लॉर्ड विलियम बेंटिक",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड वेलेजली",
+        "लॉर्ड कैनिंग"
+      ],
+      "correctIndex": 2,
+      "explanation": "लॉर्ड वेलेजली (1798-1805) ने सहायक संधि की नीति लागू की, जिसके तहत भारतीय रियासतों को अपने क्षेत्र में ब्रिटिश सेना रखने की अनुमति देनी पड़ती थी और विदेशी मामलों में ब्रिटिश रेजिडेंट की सलाह माननी होती थी। हैदराबाद ने सबसे पहले यह संधि स्वीकार की थी।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0063-4a1b-9c3d-112233445563",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which British Governor-General introduced the policy of 'Subsidiary Alliance'?",
+        "options_en": [
+          "Lord William Bentinck",
+          "Lord Dalhousie",
+          "Lord Wellesley",
+          "Lord Canning"
+        ],
+        "explanation_en": "Lord Wellesley (1798-1805) introduced the Subsidiary Alliance, requiring Indian states to maintain British troops and accept a British Resident's advice on foreign affairs. Hyderabad was the first state to accept it."
+      }
+    },
+    {
+      "question": "'व्यपगत सिद्धांत' (Doctrine of Lapse) के अंतर्गत लॉर्ड डलहौजी ने किस राज्य का विलय सबसे पहले किया था?",
+      "options": [
+        "पंजाब",
+        "झांसी",
+        "नागपुर",
+        "सतारा"
+      ],
+      "correctIndex": 3,
+      "explanation": "लॉर्ड डलहौजी ने 1848 ई. में 'व्यपगत सिद्धांत' के तहत सतारा राज्य का विलय किया, क्योंकि वहाँ का शासक अप्पा साहब के कोई प्राकृतिक उत्तराधिकारी नहीं था। इसी सिद्धांत के तहत 1854 में नागपुर और 1856 में अवध का विलय किया गया।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0064-4a1b-9c3d-112233445564",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Under the 'Doctrine of Lapse', which state did Lord Dalhousie annex first?",
+        "options_en": [
+          "Punjab",
+          "Jhansi",
+          "Nagpur",
+          "Satara"
+        ],
+        "explanation_en": "Lord Dalhousie first annexed Satara in 1848 under the Doctrine of Lapse because Appa Sahib had no natural heir. Nagpur was annexed in 1854 and Awadh in 1856."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह के समय 'तात्या टोपे' का वास्तविक नाम क्या था?",
+      "options": [
+        "रामचंद्र पांडुरंग",
+        "धोंडू पंत",
+        "मुहम्मद अली",
+        "बिरजिस कादिर"
+      ],
+      "correctIndex": 0,
+      "explanation": "तात्या टोपे का जन्म नासिक के येवला में हुआ था और उनका वास्तविक नाम रामचंद्र पांडुरंग था। उन्होंने रानी लक्ष्मीबाई और नाना साहब के साथ मिलकर अंग्रेजों के विरुद्ध guerrilla युद्ध लड़ा और अप्रैल 1859 में उन्हें फांसी दी गई।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0065-4a1b-9c3d-112233445565",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What was the real name of 'Tatya Tope' during the Revolt of 1857?",
+        "options_en": [
+          "Ramachandra Pandurang",
+          "Dhondu Pant",
+          "Muhammad Ali",
+          "Birjis Qadr"
+        ],
+        "explanation_en": "Tatya Tope was born in Yeola, Nashik, and his real name was Ramachandra Pandurang. He fought alongside Rani Lakshmibai and Nana Saheb and was hanged in April 1859."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह के दौरान बिहार के जगदीशपुर से विद्रोह का नेतृत्व करने वाले प्रमुख नेता कौन थे?",
+      "options": [
+        "मौलवी अहमदुल्लाह",
+        "कुंवर सिंह",
+        "खान बहादुर",
+        "बख्त खान"
+      ],
+      "correctIndex": 1,
+      "explanation": "जगदीशपुर (आरा) के 80 वर्षीय जमींदार बाबू कुंवर सिंह ने 1857 के विद्रोह का नेतृत्व किया। जगदीशपुर में विद्रोह का प्रतीक 'हरहू व हरहू' का नारा मिलता है। वे 26 अप्रैल 1858 को लड़ते हुए वीरगति को प्राप्त हुए।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0066-4a1b-9c3d-112233445566",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the prominent leader of the 1857 Revolt from Jagdishpur in Bihar?",
+        "options_en": [
+          "Maulvi Ahmadullah",
+          "Kunwar Singh",
+          "Khan Bahadur",
+          "Bakht Khan"
+        ],
+        "explanation_en": "Babu Kunwar Singh, the octogenarian zamindar of Jagdishpur (Arrah), led the revolt in Bihar and died fighting on 26 April 1858. His exploits are remembered in local folklore."
+      }
+    },
+    {
+      "question": "1858 ई. में महारानी विक्टोरिया के रानी की घोषणापत्र (Queen Proclamation) का वाचन किसने किया था?",
+      "options": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग",
+        "लॉर्ड रिपन"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 नवंबर 1858 को इलाहाबाद में आयोजित दरबार में भारत के प्रथम वायसराय लॉर्ड कैनिंग ने महारानी विक्टोरिया की घोषणापत्र का वाचन किया। इसमें भारतीयों को धर्मनिरपेक्ष शासन और रियासतों के सम्मान का आश्वासन दिया गया।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0067-4a1b-9c3d-112233445567",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who read out Queen Victoria Proclamation in 1858?",
+        "options_en": [
+          "Lord Curzon",
+          "Lord Dalhousie",
+          "Lord Canning",
+          "Lord Ripon"
+        ],
+        "explanation_en": "The Queen Proclamation was read out by Lord Canning, the first Viceroy, at a durbar in Allahabad on 2 November 1858, promising religious neutrality and respect for treaties with princely states."
+      }
+    },
+    {
+      "question": "'भारतीय राष्ट्रीय कांग्रेस' की स्थापना के समय भारत का वायसराय कौन था?",
+      "options": [
+        "लॉर्ड रिपन",
+        "लॉर्ड मिंटो",
+        "लॉर्ड कर्जन",
+        "लॉर्ड डफरिन"
+      ],
+      "correctIndex": 3,
+      "explanation": "28 दिसंबर 1885 को बंबई के गोकुलदास तेजपाल संस्कृत कॉलेज में कांग्रेस की स्थापना हुई, जिसके प्रथम अधिवेशन के अध्यक्ष डब्ल्यू. सी. बोनर्जी थे। उस समय भारत के वायसराय लॉर्ड डफरिन थे और थियोसोफिकल सोसाइटी की एनी बेसेंट ने भी इसमें योगदान दिया था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0068-4a1b-9c3d-112233445568",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the Viceroy of India at the time of the founding of the Indian National Congress?",
+        "options_en": [
+          "Lord Ripon",
+          "Lord Minto",
+          "Lord Curzon",
+          "Lord Dufferin"
+        ],
+        "explanation_en": "The Indian National Congress was founded on 28 December 1885 at Gokuldas Tejpal Sanskrit College, Bombay, with W. C. Bonnerjee as its first president, during the viceroyalty of Lord Dufferin."
+      }
+    },
+    {
+      "question": "कांग्रेस के 'गरम दल' (Extremist) और 'नरम दल' (Moderate) का विभाजन किस अधिवेशन में हुआ था?",
+      "options": [
+        "सूरत अधिवेशन, 1907",
+        "बंबई अधिवेशन, 1885",
+        "लखनऊ अधिवेशन, 1916",
+        "कलकत्ता अधिवेशन, 1906"
+      ],
+      "correctIndex": 0,
+      "explanation": "1907 ई. के सूरत अधिवेशन में कांग्रेस दो गुटों में विभाजित हो गई। लोकमान्य बाल गंगाधर तिलक के नेतृत्व वाले गरम दल और गोपाल कृष्ण गोखले के नेतृत्व वाले नरम दल के बीच विवाद हुआ। इसके बाद 1916 के लखनऊ अधिवेशन में दोनों दल फिर एक हो गए।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0069-4a1b-9c3d-112233445569",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which session did the 'Extremist' and 'Moderate' factions of the Congress split?",
+        "options_en": [
+          "Surat Session, 1907",
+          "Bombay Session, 1885",
+          "Lucknow Session, 1916",
+          "Calcutta Session, 1906"
+        ],
+        "explanation_en": "The Congress split into Moderates and Extremists at the Surat Session of 1907, with Bal Gangadhar Tilak leading the Extremists and Gopal Krishna Gokhale the Moderates. The two factions reunited at Lucknow in 1916."
+      }
+    },
+    {
+      "question": "'स्वदेशी आंदोलन' को 'आत्मशक्ति का उपदेश' किसने कहा था?",
+      "options": [
+        "महात्मा गांधी",
+        "अरविंद घोष",
+        "बाल गंगाधर तिलक",
+        "जवाहरलाल नेहरू"
+      ],
+      "correctIndex": 1,
+      "explanation": "अरबिंदो घोष ने स्वदेशी आंदोलन को 'आत्मशक्ति का उपदेश' (Doctrine of Passive Resistance) कहा और बहिष्कार को 'राजनीतिक मुक्ति का मार्ग' बताया। स्वदेशी आंदोलन का प्रारंभ 1905 के बंगाल विभाजन के विरोध में हुआ था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0070-4a1b-9c3d-112233445570",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who described the Swadeshi Movement as the 'Doctrine of Passive Resistance'?",
+        "options_en": [
+          "Mahatma Gandhi",
+          "Aurobindo Ghosh",
+          "Bal Gangadhar Tilak",
+          "Jawaharlal Nehru"
+        ],
+        "explanation_en": "Aurobindo Ghosh described the Swadeshi Movement as a doctrine of passive resistance and boycott as the path to political emancipation. The movement began in protest against the Partition of Bengal in 1905."
+      }
+    },
+    {
+      "question": "1 अगस्त 1920 को महात्मा गांधी ने 'असहयोग आंदोलन' की शुरुआत किस अवसर पर की थी?",
+      "options": [
+        "जलियांवाला बाग हत्याकांड के विरोध में",
+        "साइमन कमीशन के विरोध में",
+        "खिलाफत आंदोलन के समर्थन में",
+        "भारत छोड़ो के लिए"
+      ],
+      "correctIndex": 2,
+      "explanation": "महात्मा गांधी ने 1 अगस्त 1920 को खिलाफत आंदोलन के समर्थन में असहयोग आंदोलन का प्रारंभ किया और औपचारिक रूप से इसे कलकत्ता अधिवेशन (सितंबर 1920) में शुरू किया। जलियांवाला बाग हत्याकांड (13 अप्रैल 1919) ने गांधीजी को गहराई से प्रभावित किया और स्वराज की मांग तेज हुई।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0071-4a1b-9c3d-112233445571",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "On the occasion of what did Mahatma Gandhi launch the Non-Cooperation Movement on 1 August 1920?",
+        "options_en": [
+          "Protest against Jallianwala Bagh massacre",
+          "Protest against Simon Commission",
+          "Support of the Khilafat Movement",
+          "Demand for Quit India"
+        ],
+        "explanation_en": "Gandhi launched the Non-Cooperation Movement on 1 August 1920 in support of the Khilafat Movement, formally approved at the Calcutta session in September 1920. The Jallianwala Bagh massacre of 13 April 1919 had a deep impact on him."
+      }
+    },
+    {
+      "question": "नमक सत्याग्रह के दौरान गांधीजी ने 6 अप्रैल 1930 को किस स्थान पर नमक कानून तोड़ा था?",
+      "options": [
+        "अहमदाबाद",
+        "वर्धा",
+        "बारदोली",
+        "दांडी"
+      ],
+      "correctIndex": 3,
+      "explanation": "12 मार्च 1930 को साबरमती आश्रम से दांडी तक 24 दिनों में 240 मील (385 किमी) की पैदल यात्रा कर गांधीजी ने 6 अप्रैल 1930 को दांडी में नमक कानून तोड़ा। इस घटना को 'दांडी मार्च' या 'नमक सत्याग्रह' कहा जाता है और इसने सविनय अवज्ञा आंदोलन की शुरुआत की।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0072-4a1b-9c3d-112233445572",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Where did Gandhi break the salt law on 6 April 1930 during the Salt Satyagraha?",
+        "options_en": [
+          "Ahmedabad",
+          "Wardha",
+          "Bardoli",
+          "Dandi"
+        ],
+        "explanation_en": "Gandhi walked 240 miles from Sabarmati Ashram to Dandi over 24 days starting 12 March 1930 and broke the salt law on 6 April 1930, launching the Civil Disobedience Movement."
+      }
+    },
+    {
+      "question": "गांधीजी ने 'भारत छोड़ो आंदोलन' कब शुरू किया और किसने 'करो या मरो' का नारा दिया?",
+      "options": [
+        "8 अगस्त 1942, महात्मा गांधी",
+        "9 अगस्त 1942, जवाहरलाल नेहरू",
+        "15 अगस्त 1942, सुभाष चंद्र बोस",
+        "26 जनवरी 1942, सरदार पटेल"
+      ],
+      "correctIndex": 0,
+      "explanation": "8 अगस्त 1942 को बंबई के गोवालिया टैंक मैदान में कांग्रेस के AICC अधिवेशन में महात्मा गांधी ने भारत छोड़ो आंदोलन की शुरुआत की और 'करो या मरो' का नारा दिया। 9 अगस्त 1942 को गांधीजी सहित सभी प्रमुख कांग्रेस नेताओं को गिरफ्तार कर लिया गया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0073-4a1b-9c3d-112233445573",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "When did Gandhi launch the 'Quit India Movement' and who gave the slogan 'Do or Die'?",
+        "options_en": [
+          "8 August 1942, Mahatma Gandhi",
+          "9 August 1942, Jawaharlal Nehru",
+          "15 August 1942, Subhas Chandra Bose",
+          "26 January 1942, Sardar Patel"
+        ],
+        "explanation_en": "Mahatma Gandhi launched the Quit India Movement on 8 August 1942 at the AICC session at Gowalia Tank Maidan, Bombay, giving the slogan 'Do or Die'. On 9 August 1942, Gandhi and other top Congress leaders were arrested."
+      }
+    },
+    {
+      "question": "आजाद हिंद फौज (INA) का पुनर्गठन किसने किया था?",
+      "options": [
+        "मोहन सिंह",
+        "सुभाष चंद्र बोस",
+        "रासबिहारी बोस",
+        "चंद्रशेखर आजाद"
+      ],
+      "correctIndex": 1,
+      "explanation": "कैप्टन मोहन सिंह ने सिंगापुर में INA का गठन किया, जिसे बाद में रासबिहारी बोस ने संभाला। जुलाई 1943 में सुभाष चंद्र बोस ने सिंगापुर में INA का पुनर्गठन किया और जय हिंद का नारा दिया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0074-4a1b-9c3d-112233445574",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who reorganized the Azad Hind Fauj (INA)?",
+        "options_en": [
+          "Mohan Singh",
+          "Subhas Chandra Bose",
+          "Rash Behari Bose",
+          "Chandrashekhar Azad"
+        ],
+        "explanation_en": "Captain Mohan Singh first raised the INA in Singapore and Rash Behari Bose later headed it; Subhas Chandra Bose reorganized it in July 1943 and gave the slogan Jai Hind."
+      }
+    },
+    {
+      "question": "सुभाष चंद्र बोस ने 'आजाद हिंद सरकार' की स्थापना कब की थी?",
+      "options": [
+        "26 जनवरी 1943",
+        "15 अगस्त 1943",
+        "21 अक्टूबर 1943",
+        "2 अक्टूबर 1943"
+      ],
+      "correctIndex": 2,
+      "explanation": "सुभाष चंद्र बोस ने 21 अक्टूबर 1943 को सिंगापुर में 'आजाद हिंद सरकार' (Arzi Hukumat-e-Azad Hind) की स्थापना की और स्वयं राष्ट्रपति, प्रधानमंत्री तथा सेनाध्यक्ष बने। 6 जुलाई 1944 को उन्होंने स्वतंत्र भारत की सरकार के प्रतीक रूप में आज़ाद हिंद फौज को बर्मा द्वारा भारत भूमि पर पहुँचाया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0075-4a1b-9c3d-112233445575",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "When did Subhas Chandra Bose establish the 'Azad Hind Government'?",
+        "options_en": [
+          "26 January 1943",
+          "15 August 1943",
+          "21 October 1943",
+          "2 October 1943"
+        ],
+        "explanation_en": "Subhas Chandra Bose established the Arzi Hukumat-e-Azad Hind in Singapore on 21 October 1943 and became its President, Prime Minister and Commander-in-Chief. In July 1944, the INA reached Indian soil through Burma."
+      }
+    },
+    {
+      "question": "मुस्लिम लीग की स्थापना किस वर्ष हुई थी और इसके प्रथम अध्यक्ष कौन थे?",
+      "options": [
+        "1905, आगा खान",
+        "1906, सर सैयद अहमद खान",
+        "1907, मुहम्मद अली जिन्ना",
+        "1906, आगा खान"
+      ],
+      "correctIndex": 3,
+      "explanation": "30 दिसंबर 1906 को ढाका में 'अखिल भारतीय मुस्लिम लीग' की स्थापना हुई, जिसके प्रथम अध्यक्ष आगा खान थे और महासचिव नवाब मुहसिन-उल-मुल्क थे। सर सैयद अहमद खान ने 1875 में अलीगढ़ में मुस्लिम एंग्लो ओरिएंटल कॉलेज की स्थापना की थी।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0076-4a1b-9c3d-112233445576",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which year was the Muslim League founded and who was its first President?",
+        "options_en": [
+          "1905, Aga Khan",
+          "1906, Sir Syed Ahmed Khan",
+          "1907, Muhammad Ali Jinnah",
+          "1906, Aga Khan"
+        ],
+        "explanation_en": "The All India Muslim League was founded on 30 December 1906 in Dhaka with Aga Khan as its first President and Nawab Mohsin-ul-Mulk as General Secretary."
+      }
+    },
+    {
+      "question": "1932 में 'सांप्रदायिक पंचाट' (Communal Award) की घोषणा किसने की थी?",
+      "options": [
+        "रैम्जे मैकडोनाल्ड",
+        "लॉर्ड इरविन",
+        "लॉर्ड लिनलिथगो",
+        "स्टैनली बाल्डविन"
+      ],
+      "correctIndex": 0,
+      "explanation": "16 अगस्त 1932 को ब्रिटिश प्रधानमंत्री रैम्जे मैकडोनाल्ड ने 'सांप्रदायिक पंचाट' की घोषणा की, जिसमें दलित वर्गों (Depressed Classes) को पृथक निर्वाचक मंडल का अधिकार दिया गया। इसके विरोध में गांधीजी ने यरवदा जेल में अनशन किया, जिसके परिणामस्वरूप पूना पैक्ट हुआ।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0077-4a1b-9c3d-112233445577",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who announced the 'Communal Award' in 1932?",
+        "options_en": [
+          "Ramsay MacDonald",
+          "Lord Irwin",
+          "Lord Linlithgow",
+          "Stanley Baldwin"
+        ],
+        "explanation_en": "British Prime Minister Ramsay MacDonald announced the Communal Award on 16 August 1932, granting separate electorates to the Depressed Classes. Gandhi's fast in Yerwada Jail led to the Poona Pact."
+      }
+    },
+    {
+      "question": "किस कांग्रेस अधिवेशन में सर्वप्रथम 'पूर्ण स्वराज्य' शब्द का प्रयोग किया गया था?",
+      "options": [
+        "लाहौर अधिवेशन 1929",
+        "कलकत्ता अधिवेशन 1928",
+        "कराची अधिवेशन 1931",
+        "फैजपुर अधिवेशन 1936"
+      ],
+      "correctIndex": 1,
+      "explanation": "1928 के कलकत्ता अधिवेशन में नेहरू रिपोर्ट प्रस्तुत की गई और पहली बार 'पूर्ण स्वराज्य' का लक्ष्य घोषित किया गया। इसके बाद 1929 के लाहौर अधिवेशन में 'पूर्ण स्वराज' प्रस्ताव पारित किया गया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0078-4a1b-9c3d-112233445578",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which Congress session was the term 'Purna Swaraj' used for the first time?",
+        "options_en": [
+          "Lahore Session 1929",
+          "Calcutta Session 1928",
+          "Karachi Session 1931",
+          "Faizpur Session 1936"
+        ],
+        "explanation_en": "The term 'Purna Swaraj' was first proclaimed at the Calcutta session of 1928 along with the Nehru Report, and formally adopted as a resolution at the Lahore session of 1929."
+      }
+    },
+    {
+      "question": "'साइमन कमीशन' भारत कब आया और इसका बहिष्कार क्यों किया गया?",
+      "options": [
+        "1919, इसमें कोई भारतीय सदस्य नहीं था",
+        "1929, इसमें कोई भारतीय सदस्य नहीं था",
+        "1928, इसमें कोई भारतीय सदस्य नहीं था",
+        "1935, इसमें कोई भारतीय सदस्य नहीं था"
+      ],
+      "correctIndex": 2,
+      "explanation": "3 फरवरी 1928 को सर जॉन साइमन के नेतृत्व में सात सदस्यीय साइमन कमीशन भारत आया, जिसमें एक भी भारतीय सदस्य नहीं था। इस कारण कांग्रेस ने इसका बहिष्कार किया और लाहौर में लाला लाजपत राय के नेतृत्व में 'साइमन वापस जाओ' का प्रदर्शन हुआ, जिसमें लालाजी को लाठीचार्ज में चोट लगी।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0079-4a1b-9c3d-112233445579",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "When did the 'Simon Commission' come to India and why was it boycotted?",
+        "options_en": [
+          "1919, it had no Indian member",
+          "1929, it had no Indian member",
+          "1928, it had no Indian member",
+          "1935, it had no Indian member"
+        ],
+        "explanation_en": "The seven-member Simon Commission arrived India on 3 February 1928 under Sir John Simon with no Indian member. The Congress boycotted it, and Lala Lajpat Rai was fatally injured during a Lahore protest."
+      }
+    },
+    {
+      "question": "1931 के 'गांधी-इरविन समझौता' में कांग्रेस ने क्या स्वीकार किया था?",
+      "options": [
+        "सविनय अवज्ञा आंदोलन जारी रखना",
+        "मुस्लिम लीग के साथ गठबंधन",
+        "पूर्ण स्वतंत्रता की मांग वापस लेना",
+        "दूसरे गोलमेज सम्मेलन में भाग लेना और आंदोलन स्थगित करना"
+      ],
+      "correctIndex": 3,
+      "explanation": "5 मार्च 1931 को महात्मा गांधी और वायसराय लॉर्ड इरविन के बीच हुए समझौते में कांग्रेस ने सविनय अवज्ञा आंदोलन स्थगित करने और दूसरे गोलमेज सम्मेलन में भाग लेने का निर्णय लिया। ब्रिटिश सरकार ने कांग्रेस कार्यसमिति के सदस्यों को रिहा करने और नमक कानून में रियायत देने का वादा किया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0080-4a1b-9c3d-112233445580",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What did the Congress agree to in the 'Gandhi-Irwin Pact' of 1931?",
+        "options_en": [
+          "Continue the Civil Disobedience Movement",
+          "Form an alliance with the Muslim League",
+          "Withdraw the demand for complete independence",
+          "Participate in the Second Round Table Conference and suspend the movement"
+        ],
+        "explanation_en": "Under the Gandhi-Irwin Pact of 5 March 1931, the Congress agreed to suspend the Civil Disobedience Movement and join the Second Round Table Conference, while the government promised to release Congress leaders and relax the salt law."
+      }
+    },
+    {
+      "question": "1946 में गठित 'अंतरिम सरकार' के उपाध्यक्ष कौन थे?",
+      "options": [
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल",
+        "डॉ. राजेंद्र प्रसाद",
+        "मौलाना आजाद"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 सितंबर 1946 को गठित अंतरिम सरकार (Executive Council) में जवाहरलाल नेहरू उपाध्यक्ष थे, जबकि वायसराय इसके अध्यक्ष थे। इसमें कांग्रेस के 5, मुस्लिम लीग के 5 और अन्य लोगों के कुछ सदस्य शामिल थे।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0081-4a1b-9c3d-112233445581",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the Vice-President of the 'Interim Government' formed in 1946?",
+        "options_en": [
+          "Jawaharlal Nehru",
+          "Sardar Vallabhbhai Patel",
+          "Dr. Rajendra Prasad",
+          "Maulana Azad"
+        ],
+        "explanation_en": "The Interim Government formed on 2 September 1946 had Jawaharlal Nehru as Vice-President and the Viceroy as President, including 5 Congress, 5 Muslim League and some other members."
+      }
+    },
+    {
+      "question": "'भारत छोड़ो आंदोलन' के समय गांधीजी को किस जेल में रखा गया था?",
+      "options": [
+        "यरवदा जेल",
+        "आगा खान पैलेस",
+        "अंडमान सेलुलर जेल",
+        "दिल्ली सेंट्रल जेल"
+      ],
+      "correctIndex": 1,
+      "explanation": "9 अगस्त 1942 को गिरफ्तारी के बाद गांधीजी को पुणे के आगा खान पैलेस में बंदी बनाया गया, जहाँ 22 फरवरी 1944 को उनकी पत्नी कस्तूरबा गांधी का निधन हुआ। यहीं गांधीजी ने अपने अनशन भी किए थे।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0082-4a1b-9c3d-112233445582",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which jail was Gandhi kept during the 'Quit India Movement'?",
+        "options_en": [
+          "Yerwada Jail",
+          "Aga Khan Palace",
+          "Andaman Cellular Jail",
+          "Delhi Central Jail"
+        ],
+        "explanation_en": "After his arrest on 9 August 1942, Gandhi was detained at the Aga Khan Palace in Pune, where his wife Kasturba Gandhi died on 22 February 1944."
+      }
+    },
+    {
+      "question": "स्वतंत्रता के बाद देशी रियासतों के एकीकरण में 'पटेल-मेनन योजना' किन दो व्यक्तियों से संबंधित थी?",
+      "options": [
+        "राजेंद्र प्रसाद और किडवाई",
+        "नेहरू और आजाद",
+        "सरदार पटेल और वी. पी. मेनन",
+        "पटेल और नेहरू"
+      ],
+      "correctIndex": 2,
+      "explanation": "देशी रियासतों के एकीकरण के लिए सरदार वल्लभभाई पटेल ने 5 जुलाई 1947 को रियासत मंत्रालय बनाया और वी. पी. मेनन उसके सचिव थे। इसी योजना से जूनागढ़, हैदराबाद और कश्मीर के अलावा लगभग सभी रियासतों का भारत में विलय हुआ।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0083-4a1b-9c3d-112233445583",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "The 'Patel-Menon Plan' for the integration of princely states was associated with which two persons?",
+        "options_en": [
+          "Rajendra Prasad and Kidwai",
+          "Nehru and Azad",
+          "Sardar Patel and V. P. Menon",
+          "Patel and Nehru"
+        ],
+        "explanation_en": "The States Ministry, created on 5 July 1947 under Sardar Patel with V. P. Menon as secretary, integrated almost all princely states except Junagadh, Hyderabad and Kashmir."
+      }
+    },
+    {
+      "question": "भारतीय संविधान सभा की प्रथम बैठक 9 दिसंबर 1946 को कहाँ हुई थी?",
+      "options": [
+        "बंबई",
+        "लाल किला, दिल्ली",
+        "वायसराय हाउस, दिल्ली",
+        "संविधान सभा भवन, नई दिल्ली"
+      ],
+      "correctIndex": 3,
+      "explanation": "संविधान सभा की प्रथम बैठक 9 दिसंबर 1946 को नई दिल्ली के संविधान सभा भवन में हुई, जिसकी अध्यक्षता अस्थायी रूप से डॉ. सच्चिदानंद सिन्हा ने की। इसी बैठक में डॉ. राजेंद्र प्रसाद को स्थायी अध्यक्ष चुना गया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0084-4a1b-9c3d-112233445584",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Where was the first meeting of the Constituent Assembly of India held on 9 December 1946?",
+        "options_en": [
+          "Bombay",
+          "Red Fort, Delhi",
+          "Viceroy House, Delhi",
+          "Constituent Assembly Hall, New Delhi"
+        ],
+        "explanation_en": "The first meeting of the Constituent Assembly was held on 9 December 1946 in the Constituent Assembly Hall, New Delhi, temporarily presided by Dr. Sachchidananda Sinha. Dr. Rajendra Prasad was later elected permanent President."
+      }
+    },
+    {
+      "question": "'भारत छोड़ो' आंदोलन के समय 'कांग्रेस रेडियो' किसने स्थापित किया था?",
+      "options": [
+        "उषा मेहता",
+        "जवाहरलाल नेहरू",
+        "राममनोहर लोहिया",
+        "जयप्रकाश नारायण"
+      ],
+      "correctIndex": 0,
+      "explanation": "भूमिगत रेडियो 'कांग्रेस रेडियो' का संचालन उषा मेहता ने किया, जिससे 1942 के आंदोलन के दौरान गांधीजी और नेताओं के संदेश प्रसारित होते थे। इस कार्य के लिए उन्हें 'भारतीय रेडियो की जननी' कहा जाता है।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0085-4a1b-9c3d-112233445585",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who set up the 'Congress Radio' during the Quit India Movement?",
+        "options_en": [
+          "Usha Mehta",
+          "Jawaharlal Nehru",
+          "Ram Manohar Lohia",
+          "Jayaprakash Narayan"
+        ],
+        "explanation_en": "Usha Mehta operated the underground 'Congress Radio', broadcasting messages of Gandhi and other leaders during the 1942 movement. She is known as the 'Mother of Indian Radio'."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह का प्रारंभ 10 मई 1857 को मेरठ में किस कारण हुआ था?",
+      "options": [
+        "सैनिकों का वेतन रोकना",
+        "सैनिकों द्वारा चर्बी लगे नए कारतूसों का प्रयोग करने से इनकार",
+        "रानी लक्ष्मीबाई की गिरफ्तारी",
+        "धार्मिक कर लगाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "मेरठ में 10 मई 1857 को सैनिकों ने नए एनफील्ड राइफल के कारतूसों के प्रयोग से इनकार कर दिया, क्योंकि उनमें गाय और सूअर की चर्बी लगी होने की आशंका थी। 85 सैनिकों को बंदी बनाए जाने पर विद्रोह भड़क उठा और 11 मई को दिल्ली पहुँचकर बहादुरशाह जफर को सम्राट घोषित किया गया।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0086-4a1b-9c3d-112233445586",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What caused the 1857 Revolt to begin in Meerut on 10 May 1857?",
+        "options_en": [
+          "Stoppage of soldiers pay",
+          "Soldiers refused to use new cartridges greased with animal fat",
+          "Arrest of Rani Lakshmibai",
+          "Imposition of a religious tax"
+        ],
+        "explanation_en": "On 10 May 1857 soldiers at Meerut refused the new Enfield cartridges suspected of being greased with cow and pig fat; after 85 were jailed the revolt erupted."
+      }
+    },
+    {
+      "question": "कुतुबुद्दीन ऐबक द्वारा निर्मित 'अढ़ाई दिन का झोपड़ा' किस शहर में स्थित है?",
+      "options": [
+        "दिल्ली",
+        "लाहौर",
+        "अजमेर",
+        "बदायूं"
+      ],
+      "correctIndex": 2,
+      "explanation": "अढ़ाई दिन का झोपड़ा अजमेर में स्थित एक मस्जिद है, जिसे 1192 ई. में कुतुबुद्दीन ऐबक ने तराइन युद्ध की विजय के उपलक्ष्य में बनवाया था। यह मस्जिद पूर्व में संस्कृत पाठशाला थी और इसे 'दो ढाई दिन' में बनाने के कारण यह नाम पड़ा।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0087-4a1b-9c3d-112233445587",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which city is the 'Adhai Din Ka Jhonpra', built by Qutbuddin Aibak, located?",
+        "options_en": [
+          "Delhi",
+          "Lahore",
+          "Ajmer",
+          "Badaun"
+        ],
+        "explanation_en": "Adhai Din Ka Jhonpra is a mosque in Ajmer built by Qutbuddin Aibak in 1192 CE to commemorate the victory at Tarain. It was originally a Sanskrit school and got its name from being built in 'two and a half days'."
+      }
+    },
+    {
+      "question": "मंसूरा और ब्राह्मणाबाद की स्थापना किस अरब सेनापति ने की थी?",
+      "options": [
+        "कुतुबुद्दीन ऐबक",
+        "महमूद गजनवी",
+        "मुहम्मद गोरी",
+        "मुहम्मद बिन कासिम"
+      ],
+      "correctIndex": 3,
+      "explanation": "712 ई. में अरब सेनापति मुहम्मद बिन कासिम ने सिंध पर आक्रमण कर राजा दाहिर को पराजित किया और मंसूरा तथा ब्राह्मणाबाद नगरों की स्थापना की। यह सिंध में इस्लामी शासन की नींव थी, जिससे भारत में अरबी संस्कृति का प्रवेश हुआ।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0088-4a1b-9c3d-112233445588",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which Arab commander founded the cities of Mansura and Brahmanabad?",
+        "options_en": [
+          "Qutbuddin Aibak",
+          "Mahmud Ghaznavi",
+          "Muhammad Ghori",
+          "Muhammad bin Qasim"
+        ],
+        "explanation_en": "Arab commander Muhammad bin Qasim invaded Sindh in 712 CE, defeating Raja Dahir, and established Mansura and Brahmanabad, laying the foundation of Islamic rule in Sindh."
+      }
+    },
+    {
+      "question": "गुप्त काल में नालंदा विश्वविद्यालय के अतिरिक्त 'विक्रमशिला विश्वविद्यालय' की स्थापना किसने की थी?",
+      "options": [
+        "धर्मपाल",
+        "देवपाल",
+        "गोपाल",
+        "महेंद्रपाल"
+      ],
+      "correctIndex": 0,
+      "explanation": "बिहार के भागलपुर जिले में स्थित विक्रमशिला विश्वविद्यालय की स्थापना पाल वंश के शासक धर्मपाल ने 8वीं शताब्दी में की थी। यह महायान बौद्ध धर्म और तंत्र विद्या का प्रमुख केंद्र था, जिसे भक्तियार खिलजी ने नष्ट किया।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0089-4a1b-9c3d-112233445589",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Besides Nalanda, who founded 'Vikramshila University' in the Gupta period?",
+        "options_en": [
+          "Dharmapala",
+          "Devapala",
+          "Gopala",
+          "Mahendrapala"
+        ],
+        "explanation_en": "Vikramshila University in Bhagalpur district, Bihar, was founded by Pala ruler Dharmapala in the 8th century. It was a major centre of Mahayana Buddhism and Tantric learning."
+      }
+    },
+    {
+      "question": "1885 में कांग्रेस के प्रथम अधिवेशन में कुल कितने प्रतिनिधि उपस्थित थे?",
+      "options": [
+        "100",
+        "72",
+        "136",
+        "50"
+      ],
+      "correctIndex": 1,
+      "explanation": "दिसंबर 1885 में बंबई में हुए कांग्रेस के प्रथम अधिवेशन में विभिन्न प्रांतों से 72 प्रतिनिधियों ने भाग लिया। अधिवेशन में 9 प्रस्ताव पारित हुए और इसकी अध्यक्षता डब्ल्यू. सी. बोनर्जी ने की।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0090-4a1b-9c3d-112233445590",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "How many delegates attended the first session of the Congress in 1885?",
+        "options_en": [
+          "100",
+          "72",
+          "136",
+          "50"
+        ],
+        "explanation_en": "The first Congress session held in Bombay in December 1885 was attended by 72 delegates from different provinces, with W. C. Bonnerjee presiding and nine resolutions passed."
+      }
+    },
+    {
+      "question": "'रामकृष्ण मिशन' की स्थापना स्वामी विवेकानंद ने कब की थी?",
+      "options": [
+        "1886",
+        "1893",
+        "1897",
+        "1902"
+      ],
+      "correctIndex": 2,
+      "explanation": "स्वामी विवेकानंद ने 1897 में शिकागो धर्म सम्मेलन (1893) की सफलता के बाद बेलूर में 'रामकृष्ण मिशन' की स्थापना की। इसका उद्देश्य मानव सेवा को धर्म का आधार बनाना था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0091-4a1b-9c3d-112233445591",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "When did Swami Vivekananda establish the 'Ramakrishna Mission'?",
+        "options_en": [
+          "1886",
+          "1893",
+          "1897",
+          "1902"
+        ],
+        "explanation_en": "Swami Vivekananda founded the Ramakrishna Mission at Belur in 1897, after his famous address at the 1893 Parliament of Religions in Chicago."
+      }
+    },
+    {
+      "question": "'आर्य समाज' की स्थापना स्वामी दयानंद सरस्वती ने कब और कहाँ की?",
+      "options": [
+        "1877, लाहौर",
+        "1875, लाहौर",
+        "1885, बंबई",
+        "1875, बंबई"
+      ],
+      "correctIndex": 3,
+      "explanation": "स्वामी दयानंद सरस्वती ने 7 अप्रैल 1875 को बंबई में आर्य समाज की स्थापना की, जिसका मुख्य नारा 'वेदों की ओर लौटो' था। उन्होंने 'सत्यार्थ प्रकाश' ग्रंथ लिखा और शुद्धि आंदोलन चलाया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0092-4a1b-9c3d-112233445592",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "When and where did Swami Dayanand Saraswati found the 'Arya Samaj'?",
+        "options_en": [
+          "1877, Lahore",
+          "1875, Lahore",
+          "1885, Bombay",
+          "1875, Bombay"
+        ],
+        "explanation_en": "Swami Dayanand Saraswati founded the Arya Samaj in Bombay on 7 April 1875 with the slogan 'Back to the Vedas'. He wrote Satyarth Prakash and promoted the Shuddhi movement."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह के समय झांसी की रानी लक्ष्मीबाई को किसने सैन्य सहायता दी थी?",
+      "options": [
+        "तात्या टोपे",
+        "नाना साहब",
+        "कुंवर सिंह",
+        "बेगम हजरत महल"
+      ],
+      "correctIndex": 0,
+      "explanation": "झांसी पर अंग्रेजों के आक्रमण के समय तात्या टोपे ने रानी लक्ष्मीबाई को सैन्य सहायता दी। रानी ने कालपी में तात्या टोपे और राव साहब के साथ मिलकर संघर्ष किया और 17-18 जून 1858 को ग्वालियर के पास बिठूर में लड़ते हुए वीरगति पाई।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0093-4a1b-9c3d-112233445593",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who provided military assistance to Rani Lakshmibai of Jhansi during the 1857 Revolt?",
+        "options_en": [
+          "Tatya Tope",
+          "Nana Saheb",
+          "Kunwar Singh",
+          "Begum Hazrat Mahal"
+        ],
+        "explanation_en": "Tatya Tope assisted Rani Lakshmibai militarily. She fought with him at Kalpi and died in battle near Gwalior on 17-18 June 1858."
+      }
+    },
+    {
+      "question": "भारतीय राष्ट्रीय कांग्रेस के प्रथम मुस्लिम अध्यक्ष कौन थे?",
+      "options": [
+        "डब्ल्यू. सी. बोनर्जी",
+        "बदरुद्दीन तैयबजी",
+        "रहीमतुल्ला सयानी",
+        "मुहम्मद अली जिन्ना"
+      ],
+      "correctIndex": 1,
+      "explanation": "कांग्रेस के प्रथम मुस्लिम अध्यक्ष बदरुद्दीन तैयबजी थे, जो 1887 के मद्रास अधिवेशन के अध्यक्ष बने थे। वे कांग्रेस के संस्थापक सदस्यों में भी शामिल थे।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0094-4a1b-9c3d-112233445594",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the first Muslim President of the Indian National Congress?",
+        "options_en": [
+          "W. C. Bonnerjee",
+          "Badruddin Tyabji",
+          "Rahamatullah Sayani",
+          "Muhammad Ali Jinnah"
+        ],
+        "explanation_en": "Badruddin Tyabji became the first Muslim President of the Congress at the Madras session of 1887. He was also a founding member of the party."
+      }
+    },
+    {
+      "question": "1919 के 'रौलट एक्ट' के विरोध में गांधीजी ने क्या किया था?",
+      "options": [
+        "असहयोग",
+        "सविनय अवज्ञा",
+        "अखिल भारतीय हड़ताल का आह्वान",
+        "भारत छोड़ो"
+      ],
+      "correctIndex": 2,
+      "explanation": "रौलट एक्ट (मार्च 1919) के विरोध में गांधीजी ने 6 अप्रैल 1919 को अखिल भारतीय हड़ताल का आह्वान किया। इसी के विरोध में 13 अप्रैल 1919 को जलियांवाला बाग हत्याकांड हुआ, जिसमें जनरल डायर ने सैकड़ों लोगों की हत्या करवाई।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0095-4a1b-9c3d-112233445595",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What did Gandhi do in protest against the 'Rowlatt Act' of 1919?",
+        "options_en": [
+          "Started non-cooperation",
+          "Launched civil disobedience",
+          "Called for an all-India hartal",
+          "Launched Quit India"
+        ],
+        "explanation_en": "In protest against the Rowlatt Act of March 1919, Gandhi called for an all-India hartal on 6 April 1919. The Jallianwala Bagh massacre took place on 13 April 1919 during related protests."
+      }
+    },
+    {
+      "question": "1926 में नौजवान भारत सभा की स्थापना किसने की थी?",
+      "options": [
+        "चंद्रशेखर आजाद",
+        "सुखदेव",
+        "राजगुरु",
+        "भगत सिंह"
+      ],
+      "correctIndex": 3,
+      "explanation": "भगत सिंह ने 1926 में नौजवान भारत सभा की स्थापना की, जिसके प्रथम सचिव सोहन सिंह जोश थे। 1928 में लाला लाजपत राय की मृत्यु के बाद भगत सिंह, सुखदेव और राजगुरु ने एसपी सांडर्स की हत्या की।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0096-4a1b-9c3d-112233445596",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who founded the Naujawan Bharat Sabha in 1926?",
+        "options_en": [
+          "Chandrashekhar Azad",
+          "Sukhdev",
+          "Rajguru",
+          "Bhagat Singh"
+        ],
+        "explanation_en": "Bhagat Singh founded the Naujawan Bharat Sabha in 1926 with Sohan Singh Josh as its first secretary."
+      }
+    },
+    {
+      "question": "चौरी-चौरा कांड किस जिले में हुआ था?",
+      "options": [
+        "गोरखपुर",
+        "देवरिया",
+        "आजमगढ़",
+        "बलिया"
+      ],
+      "correctIndex": 0,
+      "explanation": "4 फरवरी 1922 को उत्तर प्रदेश के गोरखपुर जिले के चौरी-चौरा गाँव में पुलिस द्वारा गोलीबारी के बाद क्रोधित भीड़ ने पुलिस चौकी में आग लगा दी, जिसमें 22 पुलिसकर्मियों की मृत्यु हुई। इस घटना के बाद गांधीजी ने असहयोग आंदोलन वापस ले लिया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0097-4a1b-9c3d-112233445597",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which district did the Chauri Chaura incident take place?",
+        "options_en": [
+          "Gorakhpur",
+          "Deoria",
+          "Azamgarh",
+          "Ballia"
+        ],
+        "explanation_en": "The Chauri Chaura incident occurred on 4 February 1922 in Gorakhpur district, where a mob set fire to a police station after police firing, killing 22 policemen. Gandhi then withdrew the Non-Cooperation Movement."
+      }
+    },
+    {
+      "question": "प्रथम विश्वयुद्ध में वीरता के लिए विक्टोरिया क्रॉस प्राप्त करने वाले प्रथम भारतीय सैनिक कौन थे?",
+      "options": [
+        "अब्दुल हमीद",
+        "खुदादाद खान",
+        "प्रेम सिंह",
+        "बहादुर सिंह"
+      ],
+      "correctIndex": 1,
+      "explanation": "खुदादाद खान को 1914 में फ्रांस के युद्धक्षेत्र में वीरता प्रदर्शित करने के लिए विक्टोरिया क्रॉस प्रदान किया गया था। वे इस सम्मान को प्राप्त करने वाले प्रथम भारतीय सैनिक माने जाते हैं।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0098-4a1b-9c3d-112233445598",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the first Indian soldier to receive the Victoria Cross for bravery in the First World War?",
+        "options_en": [
+          "Abdul Hamid",
+          "Khudadad Khan",
+          "Prem Singh",
+          "Bahadur Singh"
+        ],
+        "explanation_en": "Khudadad Khan received the Victoria Cross in 1914 for bravery on the Western Front in France and is regarded as the first Indian recipient."
+      }
+    },
+    {
+      "question": "काकोरी कांड (1925) में शामिल क्रांतिकारियों में कौन शामिल नहीं था?",
+      "options": [
+        "अशफाक उल्ला खान",
+        "राम प्रसाद बिस्मिल",
+        "भगत सिंह",
+        "राजेंद्र लाहिरी"
+      ],
+      "correctIndex": 2,
+      "explanation": "9 अगस्त 1925 को काकोरी में सरकारी खजाना लूटने की घटना में राम प्रसाद बिस्मिल, अशफाक उल्ला खान, राजेंद्र लाहिरी, रोशन सिंह आदि शामिल थे। भगत सिंह इस घटना में शामिल नहीं थे; उन्होंने बाद में सांडर्स हत्याकांड और असेंबली बम कांड में भाग लिया।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0099-4a1b-9c3d-112233445599",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who among the following was NOT involved in the Kakori Conspiracy (1925)?",
+        "options_en": [
+          "Ashfaqullah Khan",
+          "Ram Prasad Bismil",
+          "Bhagat Singh",
+          "Rajendra Lahiri"
+        ],
+        "explanation_en": "The Kakori train robbery of 9 August 1925 involved Ram Prasad Bismil, Ashfaqullah Khan, Rajendra Lahiri and Roshan Singh. Bhagat Singh was not part of it."
+      }
+    },
+    {
+      "question": "1931 में भगत सिंह, सुखदेव और राजगुरु को किस जेल में फांसी दी गई थी?",
+      "options": [
+        "मियांवाली जेल",
+        "अंबाला जेल",
+        "दिल्ली जेल",
+        "लाहौर सेंट्रल जेल"
+      ],
+      "correctIndex": 3,
+      "explanation": "23 मार्च 1931 को भगत सिंह, सुखदेव और राजगुरु को लाहौर सेंट्रल जेल में फांसी दी गई। उन्हें 'इंकलाब जिंदाबाद' के नारे के साथ याद किया जाता है और उनके बलिदान दिवस को 'शहीद दिवस' कहा जाता है।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0100-4a1b-9c3d-112233445600",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which jail were Bhagat Singh, Sukhdev and Rajguru hanged in 1931?",
+        "options_en": [
+          "Mianwali Jail",
+          "Ambala Jail",
+          "Delhi Jail",
+          "Lahore Central Jail"
+        ],
+        "explanation_en": "Bhagat Singh, Sukhdev and Rajguru were hanged at Lahore Central Jail on 23 March 1931, commemorated as Shaheed Diwas."
+      }
+    },
+    {
+      "question": "वैदिक साहित्य में 'व्रात्य' शब्द का प्रयोग किसके लिए किया गया है?",
+      "options": [
+        "वेद पढ़ने का अधिकार न रखने वाले लोग",
+        "राजा के पुरोहित",
+        "सेना के सेनापति",
+        "व्यापारी वर्ग"
+      ],
+      "correctIndex": 0,
+      "explanation": "वैदिक साहित्य में 'व्रात्य' उन लोगों के लिए प्रयुक्त हुआ है जो वेदाध्ययन और यज्ञोपवीत संस्कार से वंचित थे। ये प्रायः पूर्वी भारत (मगध क्षेत्र) के लोग थे, जिन्हें बाद में ब्राह्मणीकरण की प्रक्रिया में शामिल किया गया।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0101-4a1b-9c3d-112233445601",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In Vedic literature, the term 'Vratya' was used for whom?",
+        "options_en": [
+          "People without the right to study the Vedas",
+          "The king's priest",
+          "The commander of the army",
+          "The merchant class"
+        ],
+        "explanation_en": "The term 'Vratya' referred to people excluded from Vedic study and the sacred thread ceremony, largely from eastern regions, later absorbed through Brahmanization."
+      }
+    },
+    {
+      "question": "सिंधु घाटी सभ्यता के किस स्थल से 'कांस्य की नर्तकी' की प्रतिमा मिली है?",
+      "options": [
+        "हड़प्पा",
+        "मोहनजोदड़ो",
+        "लोथल",
+        "कालीबंगा"
+      ],
+      "correctIndex": 1,
+      "explanation": "मोहनजोदड़ो से प्राप्त 10.5 सेमी ऊँची कांस्य नर्तकी की प्रतिमा (Dancing Girl) सिंधु कला का उत्कृष्ट उदाहरण है, जो सिंधु घाटी सभ्यता में धातु-कला की उच्च कोटि को दर्शाती है। यह अब राष्ट्रीय संग्रहालय, नई दिल्ली में है।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0102-4a1b-9c3d-112233445602",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "From which Indus Valley site has the 'Bronze Dancing Girl' statue been found?",
+        "options_en": [
+          "Harappa",
+          "Mohenjo-daro",
+          "Lothal",
+          "Kalibangan"
+        ],
+        "explanation_en": "The famous bronze 'Dancing Girl' from Mohenjo-daro is a masterpiece of Indus metalwork, now housed in the National Museum, New Delhi."
+      }
+    },
+    {
+      "question": "मौर्य काल में धम्म महामात्र नामक अधिकारियों की नियुक्ति किसने की थी?",
+      "options": [
+        "बिंदुसार",
+        "चंद्रगुप्त मौर्य",
+        "अशोक",
+        "समुद्रगुप्त"
+      ],
+      "correctIndex": 2,
+      "explanation": "अशोक ने अपने पाँचवें प्रमुख शिलालेख में धम्म महामात्र नामक पदाधिकारियों की नियुक्ति का उल्लेख किया है, जो धर्म प्रचार, सामाजिक कल्याण और नैतिकता का प्रसार करते थे।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0103-4a1b-9c3d-112233445603",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who appointed the officials called Dhamma Mahamatta in the Mauryan period?",
+        "options_en": [
+          "Bindusara",
+          "Chandragupta Maurya",
+          "Ashoka",
+          "Samudragupta"
+        ],
+        "explanation_en": "Ashoka mentions the appointment of Dhamma Mahamatta in his Fifth Major Rock Edict to promote morality and social welfare."
+      }
+    },
+    {
+      "question": "कौटिल्य के अनुसार राज्य के सात अंगों (सप्तांग) में 'दंड' का क्या अर्थ है?",
+      "options": [
+        "राज्य",
+        "कोष",
+        "मित्र",
+        "सेना"
+      ],
+      "correctIndex": 3,
+      "explanation": "कौटिल्य के 'सप्तांग सिद्धांत' में स्वामी (राजा), अमात्य (मंत्री), जनपद (राज्य/भूमि), दुर्ग (किला), कोष (खजाना), दंड (सेना) और मित्र (मित्र राष्ट्र) शामिल हैं। यहां 'दंड' का अर्थ सेना (बल) से है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0104-4a1b-9c3d-112233445604",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "According to Kautilya, what does 'Danda' mean among the seven organs (Saptanga) of the state?",
+        "options_en": [
+          "Territory",
+          "Treasury",
+          "Ally",
+          "Army"
+        ],
+        "explanation_en": "In Kautilya's Saptanga theory, Danda denotes the army (force) alongside Swami, Amatya, Janapada, Durga, Kosha and Mitra."
+      }
+    },
+    {
+      "question": "गुप्त शासक समुद्रगुप्त के इलाहाबाद स्तंभ लेख में उनकी किस उपाधि का उल्लेख है?",
+      "options": [
+        "कविराज",
+        "विक्रमादित्य",
+        "अशोक",
+        "देवराज"
+      ],
+      "correctIndex": 0,
+      "explanation": "समुद्रगुप्त को 'कविराज' (कवियों का राजा) उपाधि का श्रेय दिया जाता है, क्योंकि उनका दरबार कवियों और विद्वानों का केंद्र था। इलाहाबाद स्तंभ लेख में उनके साथ हरिषेण का भी उल्लेख मिलता है।",
+      "subCategory": "मौर्य व गुप्त साम्राज्य",
+      "questionType": "mcq",
+      "uuid": "hist-0105-4a1b-9c3d-112233445605",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which title of Samudragupta is mentioned in the Allahabad Pillar inscription?",
+        "options_en": [
+          "Kaviraja",
+          "Vikramaditya",
+          "Ashoka",
+          "Devaraja"
+        ],
+        "explanation_en": "Samudragupta is credited with the title 'Kaviraja' (king of poets) due to his patronage of scholars, as recorded in the Allahabad Pillar inscription."
+      }
+    },
+    {
+      "question": "प्राचीन भारत में 'गंधार कला' का विकास किस काल में हुआ था?",
+      "options": [
+        "मौर्य काल",
+        "कुषाण काल",
+        "गुप्त काल",
+        "चोल काल"
+      ],
+      "correctIndex": 1,
+      "explanation": "गांधार शैली का विकास कुषाण काल में हुआ, जिसमें ग्रीक-रोमन और भारतीय कला का समन्वय दिखाई देता है। इस शैली में बुद्ध की मूर्तियाँ हेलेनिस्टिक प्रभाव से बनीं, जिनमें घुंघराले बाल और रोमन वस्त्र विशेष हैं।",
+      "subCategory": "प्राचीन भारत (सिंधु व वैदिक काल)",
+      "questionType": "mcq",
+      "uuid": "hist-0106-4a1b-9c3d-112233445606",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which period did 'Gandhara Art' develop in ancient India?",
+        "options_en": [
+          "Mauryan period",
+          "Kushan period",
+          "Gupta period",
+          "Chola period"
+        ],
+        "explanation_en": "Gandhara art developed during the Kushan period, blending Greco-Roman and Indian influences, especially in Hellenistic-style Buddha images."
+      }
+    },
+    {
+      "question": "हर्षवर्धन ने अपने शासनकाल में किस धर्म सभा का आयोजन कान्यकुब्ज (कन्नौज) में किया था?",
+      "options": [
+        "प्रयाग धर्म सभा",
+        "पाटलिपुत्र सभा",
+        "कन्नौज धर्म सभा",
+        "थानेश्वर सभा"
+      ],
+      "correctIndex": 2,
+      "explanation": "643 ई. में हर्षवर्धन ने कन्नौज में महायान बौद्ध धर्म की प्रसिद्धि के लिए बड़ी धर्म सभा का आयोजन किया, जिसमें ह्वेनसांग भी उपस्थित थे। हर्ष ने सभी धर्मों के प्रति सहिष्णुता की नीति अपनाई और बौद्ध धर्म को संरक्षण दिया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0107-4a1b-9c3d-112233445607",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which religious assembly did Harshavardhana organize at Kanyakubja (Kannauj) during his reign?",
+        "options_en": [
+          "Prayag Dharma Sabha",
+          "Pataliputra Sabha",
+          "Kannauj Dharma Sabha",
+          "Thanesar Sabha"
+        ],
+        "explanation_en": "In 643 CE Harshavardhana held a grand assembly at Kannauj to promote Mahayana Buddhism, attended by the Chinese pilgrim Hiuen Tsang."
+      }
+    },
+    {
+      "question": "चीनी यात्री ह्वेनसांग किस विश्वविद्यालय में अध्ययन के लिए भारत आया था?",
+      "options": [
+        "तक्षशिला",
+        "कांची",
+        "विक्रमशिला",
+        "नालंदा"
+      ],
+      "correctIndex": 3,
+      "explanation": "ह्वेनसांग 629 ई. में भारत आया और लगभग पाँच वर्ष नालंदा विश्वविद्यालय में अध्ययन किया, जहाँ वह हर्षवर्धन के काल में आया। उसने 'सी-यू-की' (बौद्ध अभिलेखों का राज्य) नामक यात्रा वृत्तांत लिखा।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0108-4a1b-9c3d-112233445608",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "In which university did the Chinese pilgrim Hiuen Tsang study in India?",
+        "options_en": [
+          "Taxila",
+          "Kanchi",
+          "Vikramshila",
+          "Nalanda"
+        ],
+        "explanation_en": "Hiuen Tsang came to India in 629 CE and studied for about five years at Nalanda University during Harshavardhana's reign, later writing the travelogue 'Si-Yu-Ki'."
+      }
+    },
+    {
+      "question": "दिल्ली सल्तनत में 'बाजार नियंत्रण' के लिए नियुक्त अधिकारी क्या कहलाता था?",
+      "options": [
+        "शाहना-ए-मंडी",
+        "दीवान-ए-रियासत",
+        "अमीर-ए-कोही",
+        "मुहतसिब"
+      ],
+      "correctIndex": 0,
+      "explanation": "अलाउद्दीन खिलजी ने बाजारों पर नियंत्रण के लिए 'शाहना-ए-मंडी' नामक अधिकारी नियुक्त किया, जो वस्तुओं के मूल्य और तोल-माप की निगरानी करता था। अलाउद्दीन ने 'दीवान-ए-रियासत' भी बनाया, जो राज्य के आर्थिक नियंत्रण का विभाग था।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0109-4a1b-9c3d-112233445609",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What was the official appointed for 'market control' in the Delhi Sultanate called?",
+        "options_en": [
+          "Shahna-e-Mandi",
+          "Diwan-i-Riyasat",
+          "Amir-i-Kohi",
+          "Muhtasib"
+        ],
+        "explanation_en": "Alauddin Khilji appointed 'Shahna-e-Mandi' to regulate markets, prices and weights, and created the Diwan-i-Riyasat as the department of economic regulation."
+      }
+    },
+    {
+      "question": "शेरशाह सूरी ने अपने शासनकाल में किस प्रसिद्ध मार्ग का निर्माण कराया था?",
+      "options": [
+        "सिल्क रोड",
+        "ग्रांड ट्रंक रोड",
+        "उत्तर-दक्षिण मार्ग",
+        "पूर्व-पश्चिम मार्ग"
+      ],
+      "correctIndex": 1,
+      "explanation": "शेरशाह सूरी ने सदक-ए-आजम (ग्रांड ट्रंक रोड) का निर्माण कराया, जो सोनारगाँव (बांग्लादेश) से पेशावर तक लगभग 1500 मील लंबा था। बाद में इसका विस्तार अंग्रेजों ने किया।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0110-4a1b-9c3d-112233445610",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which famous road did Sher Shah Suri construct during his reign?",
+        "options_en": [
+          "Silk Road",
+          "Grand Trunk Road",
+          "North-South Corridor",
+          "East-West Corridor"
+        ],
+        "explanation_en": "Sher Shah Suri built the Sadak-e-Azam (Grand Trunk Road), stretching about 1,500 miles from Sonargaon to Peshawar, later extended by the British."
+      }
+    },
+    {
+      "question": "पुर्तगाली भारत में मुख्य रूप से किस व्यापार के लिए आए थे?",
+      "options": [
+        "नील व्यापार",
+        "कपास व्यापार",
+        "मसाला व्यापार",
+        "चाय व्यापार"
+      ],
+      "correctIndex": 2,
+      "explanation": "वास्कोडिगामा 1498 ई. में कालीकट पहुँचा और पुर्तगालियों ने मसाला व्यापार पर नियंत्रण के लिए भारत में अपनी उपस्थिति बढ़ाई। उन्होंने गोवा को अपनी राजधानी बनाया और यूरोपीय व्यापार का मार्ग खोला।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0111-4a1b-9c3d-112233445611",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "The Portuguese came to India mainly for which trade?",
+        "options_en": [
+          "Indigo trade",
+          "Cotton trade",
+          "Spice trade",
+          "Tea trade"
+        ],
+        "explanation_en": "Vasco da Gama reached Calicut in 1498, and the Portuguese expanded their presence in India for the spice trade, making Goa their capital."
+      }
+    },
+    {
+      "question": "मुगल काल में 'जमा-दामी' प्रणाली किससे संबंधित थी?",
+      "options": [
+        "न्याय व्यवस्था",
+        "सैन्य व्यवस्था",
+        "व्यापार कर",
+        "भू-राजस्व"
+      ],
+      "correctIndex": 3,
+      "explanation": "जमा-दामी प्रणाली भू-राजस्व निर्धारण और वसूली की प्रणाली थी, जिसमें 'जमा' वसूली योग्य राशि और 'दामी' उपज का निर्धारित मूल्य होता था। यह शेरशाह सूरी और अकबर के काल में विकसित हुई।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0112-4a1b-9c3d-112233445612",
+      "difficulty": "hard",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "To what was the 'Jama-Dami' system related in the Mughal period?",
+        "options_en": [
+          "Judicial system",
+          "Military organization",
+          "Trade tax",
+          "Land revenue"
+        ],
+        "explanation_en": "The Jama-Dami system was a land revenue assessment method where 'Jama' was the amount to be collected and 'Dami' the Commutation value, developed under Sher Shah and Akbar."
+      }
+    },
+    {
+      "question": "मुगल सम्राट जहाँगीर की आत्मकथा का नाम क्या है?",
+      "options": [
+        "तुजुक-ए-जहाँगीरी",
+        "बाबरनामा",
+        "अकबरनामा",
+        "हुमायूँनामा"
+      ],
+      "correctIndex": 0,
+      "explanation": "जहाँगीर ने अपनी आत्मकथा 'तुजुक-ए-जहाँगीरी' (या जहाँगीरनामा) लिखी, जिसमें उन्होंने अपने शासनकाल, विद्रोह और प्राकृतिक विशेषताओं का वर्णन किया। 'बाबरनामा' बाबर ने, 'अकबरनामा' अबुल फजल ने और 'हुमायूँनामा' गुलबदन बेगम ने लिखा।",
+      "subCategory": "मध्यकालीन भारत व मुगल काल",
+      "questionType": "mcq",
+      "uuid": "hist-0113-4a1b-9c3d-112233445613",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "What is the name of Mughal Emperor Jahangir's autobiography?",
+        "options_en": [
+          "Tuzuk-e-Jahangiri",
+          "Baburnama",
+          "Akbarnama",
+          "Humayunnama"
+        ],
+        "explanation_en": "Jahangir wrote his autobiography 'Tuzuk-e-Jahangiri', describing his reign, revolts and observations. Baburnama was written by Babur, Akbarnama by Abul Fazl, and Humayunnama by Gulbadan Begum."
+      }
+    },
+    {
+      "question": "1772 में वारेन हेस्टिंग्स ने बंगाल में द्वैध शासन समाप्त करके क्या व्यवस्था लागू की?",
+      "options": [
+        "स्थायी बंदोबस्त",
+        "कंपनी का सीधा शासन",
+        "रैयतवाड़ी व्यवस्था",
+        "महालवाड़ी व्यवस्था"
+      ],
+      "correctIndex": 1,
+      "explanation": "1772 में वारेन हेस्टिंग्स ने बंगाल में द्वैध शासन समाप्त किया और कंपनी ने भारतीय दीवानों के माध्यम से सीधी राजस्व वसूली शुरू की। इस दिशा में अगला कदम 1773 का रेगुलेटिंग एक्ट था।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0114-4a1b-9c3d-112233445614",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "After abolishing the dual government in Bengal in 1772, what system did Warren Hastings introduce?",
+        "options_en": [
+          "Permanent Settlement",
+          "Direct Company rule",
+          "Ryotwari system",
+          "Mahalwari system"
+        ],
+        "explanation_en": "In 1772 Warren Hastings abolished the dual government and began direct revenue collection through Indian diwans, followed by the Regulating Act of 1773."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह के समय बहादुरशाह जफर के साथ 'सेना के प्रधान' कौन थे?",
+      "options": [
+        "मंगल पांडे",
+        "खान बहादुर खान",
+        "बख्त खान",
+        "कुंवर सिंह"
+      ],
+      "correctIndex": 2,
+      "explanation": "बहादुरशाह जफर के दरबार में बख्त खान को सेना का प्रमुख नियुक्त किया गया था, जो पहले बरेली में तैनात थे। दिल्ली पर अंग्रेजों के अधिकार के बाद बहादुरशाह जफर को बंदी बनाकर रंगून भेज दिया गया।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0115-4a1b-9c3d-112233445615",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the commander of the army with Bahadur Shah Zafar during the 1857 Revolt?",
+        "options_en": [
+          "Mangal Pandey",
+          "Khan Bahadur Khan",
+          "Bakht Khan",
+          "Kunwar Singh"
+        ],
+        "explanation_en": "Bakht Khan, formerly posted at Bareilly, was appointed commander-in-chief of Bahadur Shah Zafar's forces. After Delhi fell, the emperor was exiled to Rangoon."
+      }
+    },
+    {
+      "question": "भारत में प्रथम रेलवे लाइन 1853 ई. में किन स्थानों के बीच बिछाई गई थी?",
+      "options": [
+        "मद्रास से बंगलौर",
+        "बंबई से पुणे",
+        "कलकत्ता से दिल्ली",
+        "बोरीबंदर से ठाणे"
+      ],
+      "correctIndex": 3,
+      "explanation": "16 अप्रैल 1853 को भारत की पहली रेलगाड़ी बोरीबंदर (बंबई) से ठाणे के बीच 34 किमी की दूरी तक चली। यह लॉर्ड डलहौजी के काल में हुआ और इसने भारतीय परिवहन व्यवस्था में क्रांति लाई।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0116-4a1b-9c3d-112233445616",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Between which places was the first railway line in India laid in 1853?",
+        "options_en": [
+          "Madras to Bangalore",
+          "Bombay to Pune",
+          "Calcutta to Delhi",
+          "Boribunder to Thane"
+        ],
+        "explanation_en": "On 16 April 1853 the first train ran from Boribunder (Bombay) to Thane, covering 34 km, during Lord Dalhousie's tenure."
+      }
+    },
+    {
+      "question": "1857 के विद्रोह के बाद 'भारत सरकार अधिनियम 1858' के द्वारा भारत का शासन किसके हाथ में आया?",
+      "options": [
+        "ब्रिटिश क्राउन (महारानी विक्टोरिया)",
+        "ब्रिटिश ईस्ट इंडिया कंपनी",
+        "भारतीय रियासतें",
+        "भारतीय राष्ट्रीय कांग्रेस"
+      ],
+      "correctIndex": 0,
+      "explanation": "भारत सरकार अधिनियम 1858 के तहत ईस्ट इंडिया कंपनी का शासन समाप्त कर सत्ता ब्रिटिश क्राउन को सौंपी गई। भारत का प्रशासन भारत सचिव (Secretary of State for India) के माध्यम से चलाया जाने लगा और गवर्नर-जनरल को वायसराय का दर्जा मिला।",
+      "subCategory": "1857 की क्रांति",
+      "questionType": "mcq",
+      "uuid": "hist-0117-4a1b-9c3d-112233445617",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "After the Revolt of 1857, under the Government of India Act 1858, the rule of India passed to whom?",
+        "options_en": [
+          "The British Crown (Queen Victoria)",
+          "British East India Company",
+          "Indian princely states",
+          "Indian National Congress"
+        ],
+        "explanation_en": "The Government of India Act 1858 ended Company rule and transferred power to the British Crown, administered through the Secretary of State for India and a Viceroy."
+      }
+    },
+    {
+      "question": "1929 के लाहौर अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव पेश करने वाले कांग्रेस अध्यक्ष कौन थे?",
+      "options": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस",
+        "सरदार पटेल"
+      ],
+      "correctIndex": 1,
+      "explanation": "दिसंबर 1929 के लाहौर अधिवेशन में जवाहरलाल नेहरू कांग्रेस अध्यक्ष थे, जिन्होंने पूर्ण स्वराज का प्रस्ताव रखा। गांधीजी ने इस अधिवेशन में भाग नहीं लिया था, लेकिन उनका समर्थन था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0118-4a1b-9c3d-112233445618",
+      "difficulty": "easy",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Who was the Congress President who moved the 'Purna Swaraj' resolution at the Lahore Session of 1929?",
+        "options_en": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Sardar Patel"
+        ],
+        "explanation_en": "Jawaharlal Nehru presided over the December 1929 Lahore session and moved the Purna Swaraj resolution; Gandhi did not attend but supported it."
+      }
+    },
+    {
+      "question": "प्रसिद्ध 'चंपारण सत्याग्रह' (1917) में गांधीजी के साथ कौन-कौन से सहयोगी शामिल थे?",
+      "options": [
+        "तिलक, गोखले, लाजपत राय",
+        "नेहरू, पटेल, आजाद",
+        "राजेंद्र प्रसाद, अनुग्रह नारायण सिन्हा, महादेव देसाई",
+        "जिन्ना, सर सैयद, आगा खान"
+      ],
+      "correctIndex": 2,
+      "explanation": "चंपारण सत्याग्रह में गांधीजी के साथ डॉ. राजेंद्र प्रसाद, ब्रजकिशोर प्रसाद, अनुग्रह नारायण सिन्हा, महादेव देसाई और राजकुमार शुक्ल जैसे सहयोगी शामिल थे। यह आंदोलन तिनकठिया प्रथा के विरुद्ध था।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0119-4a1b-9c3d-112233445619",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "Which associates accompanied Gandhi in the famous 'Champaran Satyagraha' (1917)?",
+        "options_en": [
+          "Tilak, Gokhale, Lajpat Rai",
+          "Nehru, Patel, Azad",
+          "Rajendra Prasad, Anugrah Narayan Sinha, Mahadev Desai",
+          "Jinnah, Sir Syed, Aga Khan"
+        ],
+        "explanation_en": "In the Champaran Satyagraha, Gandhi was joined by Dr. Rajendra Prasad, Brajkishore Prasad, Anugrah Narayan Sinha, Mahadev Desai and Rajkumar Shukla against the Tinkathia system."
+      }
+    },
+    {
+      "question": "गांधीजी ने अपना प्रसिद्ध 'अहमदाबाद मिल हड़ताल' (1918) किस कारण से किया था?",
+      "options": [
+        "जमींदारी उन्मूलन",
+        "भूमि कर में वृद्धि",
+        "नमक कर",
+        "मजदूरों के वेतन में वृद्धि"
+      ],
+      "correctIndex": 3,
+      "explanation": "1918 में अहमदाबाद के कपड़ा मिल मालिकों ने मजदूरों को प्लेग-बोनस देने से इनकार कर दिया, जिसके विरुद्ध गांधीजी ने हड़ताल का नेतृत्व किया। मजदूरों की मांग 35% वेतन वृद्धि की थी और अनशन तथा हड़ताल के बाद मिल मालिकों ने 35% वेतन वृद्धि देने पर सहमति जताई।",
+      "subCategory": "भारतीय राष्ट्रीय आंदोलन व गांधी युग",
+      "questionType": "mcq",
+      "uuid": "hist-0120-4a1b-9c3d-112233445620",
+      "difficulty": "medium",
+      "tags": [
+        "UK-EXAM-PRO",
+        "History"
+      ],
+      "extra_data": {
+        "question_en": "For what reason did Gandhi undertake his famous 'Ahmedabad Mill Strike' (1918)?",
+        "options_en": [
+          "Abolition of zamindari",
+          "Increase in land revenue",
+          "Salt tax",
+          "Wage increase for workers"
+        ],
+        "explanation_en": "In 1918 mill owners refused a plague bonus, and Gandhi led a strike demanding a 35 percent wage increase, which was ultimately accepted."
+      }
     }
-  ],
-  "updated_at": "2026-10-01T19:02:09.054234",
-  "total_questions": 1768
+  ]
 }
