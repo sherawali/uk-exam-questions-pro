@@ -1,6 +1,6 @@
 {
   "version": "4.9.5",
-  "last_sync": "2026-10-20T00:00:00.000000+00:00",
+  "last_sync": "2026-10-25T16:30:00.000000+00:00",
   "flash_news": [
     {
       "id": "news_uksssc_grad_live",
@@ -97,14 +97,14 @@
     {
       "id": "special_hc_clerk_mock_slide",
       "enabled": true,
-      "title": "उच्च न्यायालय क्लर्क & कनिष्ठ सहायक (25 Oct)",
-      "title_en": "High Court Clerk & Jr. Assistant (25 Oct)",
-      "message": "25 अक्टूबर परीक्षा हेतु 5 नए 140Q संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट उपलब्ध हैं। अजय रावत, NCERT एवं विधिक शब्दावली आधारित!",
-      "message_en": "5 New 140Q Comprehensive Special Model Papers live for 25 Oct Exam. Master key concepts with full explanations!",
+      "title": "उच्च न्यायालय क्लर्क & कनिष्ठ सहायक",
+      "title_en": "High Court Clerk & Jr. Assistant",
+      "message": "उच्च न्यायालय क्लर्क परीक्षा हेतु 5 नए 140Q संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट उपलब्ध हैं। अजय रावत, NCERT एवं विधिक शब्दावली आधारित!",
+      "message_en": "5 New 140Q Comprehensive Special Model Papers live for High Court Clerk Exam. Master key concepts with full explanations!",
       "type": "special",
-      "tag": "🔥 25 OCT MOCK",
-      "tag_en": "🔥 25 OCT MOCK",
-      "exam_date": "25 Oct 2026",
+      "tag": "🔥 विशेष मॉडल टेस्ट",
+      "tag_en": "🔥 SPECIAL MOCK",
+      "exam_date": "2026",
       "post_id": "uk_high_court_clerk",
       "action_label": "विशेष मॉक देखें ➔",
       "action_label_en": "View Special Mocks ➔",
