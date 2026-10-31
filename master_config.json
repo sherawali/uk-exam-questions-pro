@@ -1,7 +1,22 @@
 {
-  "version": "4.9.6",
-  "last_sync": "2026-10-31T18:00:00+05:30",
+  "version": "4.9.7",
+  "last_sync": "2026-10-31T18:15:00+05:30",
   "flash_news": [
+    {
+      "id": "news_uksssc_2026_special_mocks_live",
+      "enabled": true,
+      "title": "📢 UKSSSC 2026: नए विशेष मॉडल पेपर लाइव — विशेष मॉडल पेपर सेक्शन में देखें!",
+      "title_en": "📢 UKSSSC 2026: New Special Model Papers Live — Check Special Mocks Section!",
+      "message": "UKSSSC कनिष्ठ सहायक/12वीं स्तर एवं स्नातक स्तरीय (VDO) परीक्षाओं हेतु नवीनतम 2026 पैटर्न पर आधारित नए 100-प्रश्नों के विशेष मॉडल पेपर्स लाइव कर दिए गए हैं। विस्तृत व्याख्या व सटीक आयोग ब्लूप्रिंट के साथ अभ्यास करने हेतु होम स्क्रीन पर विशेष मॉडल पेपर्स सेक्शन देखें। पहला टेस्ट सभी छात्रों के लिए पूर्णतः निःशुल्क उपलब्ध है!",
+      "message_en": "Brand-new 100-Question Special Model Papers based on the latest 2026 commission pattern are now live for UKSSSC Junior Assistant / 12th Level and Graduate Level (VDO) exams. Check the Special Model Papers section on the home screen to practice with complete 360 explanations. Mock #01 is 100% Free for all students!",
+      "tag": "🔥 नए मॉडल पेपर",
+      "tag_en": "🔥 New Mocks Live",
+      "post_id": "uksssc_graduate_level",
+      "action_label": "",
+      "action_label_en": "",
+      "action_route": "",
+      "date": "31 Oct 2026"
+    },
     {
       "id": "news_uksssc_grad_live",
       "enabled": true,
@@ -79,6 +94,22 @@
     }
   ],
   "special_flash": [
+    {
+      "id": "special_uksssc_2026_new_mocks_banner",
+      "enabled": true,
+      "title": "UKSSSC 2026: नए विशेष मॉडल पेपर्स लाइव!",
+      "title_en": "UKSSSC 2026: New Special Model Papers Live!",
+      "message": "कनिष्ठ सहायक एवं स्नातक स्तरीय परीक्षाओं हेतु नवीनतम 2026 ब्लूप्रिंट पर आधारित नए 100-प्रश्न मॉडल पेपर्स लाइव हैं। होम स्क्रीन पर विशेष मॉडल पेपर्स सेक्शन में अभी देखें — पहला टेस्ट पूर्णतः निःशुल्क!",
+      "message_en": "New 100-Question Model Papers based on the latest 2026 blueprint are live for Junior Assistant and Graduate Level exams. Explore now in Special Model Papers section on home screen — Mock #01 Free!",
+      "type": "special",
+      "tag": "🔥 नए मॉडल पेपर",
+      "tag_en": "🔥 New Mocks Live",
+      "post_id": "uksssc_graduate_level",
+      "action_label": "",
+      "action_label_en": "",
+      "action_route": "",
+      "exam_date": "2026"
+    },
     {
       "id": "special_uksssc_grad_banner",
       "enabled": true,
@@ -270,5 +301,5 @@
     }
   },
   "total_questions": 16134,
-  "last_updated": "2026-10-31T18:00:00+05:30"
+  "last_updated": "2026-10-31T18:15:00+05:30"
 }
