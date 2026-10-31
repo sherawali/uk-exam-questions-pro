@@ -1,6 +1,6 @@
 {
-  "version": "4.9.5",
-  "last_sync": "2026-10-25T16:30:00.000000+00:00",
+  "version": "4.9.6",
+  "last_sync": "2026-10-31T18:00:00+05:30",
   "flash_news": [
     {
       "id": "news_uksssc_grad_live",
@@ -156,11 +156,11 @@
     "default_free_mocks_per_exam": 5,
     "exam_free_limits": {
       "uk_high_court_clerk": 5,
-      "uksssc_inter_level": 5,
+      "uksssc_inter_level": 1,
       "uk_sub_inspector": 3,
       "uk_police_constable": 3,
       "ukpsc_upper_pcs": 2,
-      "uksssc_graduate_level": 3
+      "uksssc_graduate_level": 1
     }
   },
   "subject_access_policy": {
@@ -203,7 +203,7 @@
       "title_hindi": "UKSSSC कनिष्ठ सहायक / 12th",
       "title_english": "UKSSSC Junior Assistant",
       "enabled": true,
-      "total_mocks": 10,
+      "total_mocks": 21,
       "free_mocks": 1,
       "questions": 100,
       "duration": 120
@@ -243,8 +243,8 @@
       "title_hindi": "UKSSSC स्नातक स्तरीय (VDO)",
       "title_english": "UKSSSC Graduate Level",
       "enabled": true,
-      "total_mocks": 14,
-      "free_mocks": 3,
+      "total_mocks": 22,
+      "free_mocks": 1,
       "questions": 100,
       "duration": 120
     }
@@ -270,5 +270,5 @@
     }
   },
   "total_questions": 16134,
-  "last_updated": "2026-10-17T15:22:00.000Z"
+  "last_updated": "2026-10-31T18:00:00+05:30"
 }
