@@ -301,5 +301,15 @@
     }
   },
   "total_questions": 16134,
-  "last_updated": "2026-10-31T18:15:00+05:30"
+  "last_updated": "2026-10-31T18:15:00+05:30",
+  "app_mode_policy": {
+    "free_mode_enabled": true,
+    "pro_mode_preview_allowed": true,
+    "default_mode": "free",
+    "free_mocks_per_exam": {
+      "uksssc_inter_level": 1,
+      "uksssc_graduate_level": 1,
+      "uk_high_court_clerk": 5
+    }
+  }
 }
