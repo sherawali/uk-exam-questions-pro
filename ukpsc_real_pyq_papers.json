@@ -1,6 +1,6 @@
 ﻿{
     "version":  "4.3.0",
-    "last_updated":  "2026-11-10T19:44:03+05:30",
+    "last_updated":  "2026-11-10T20:01:10+05:30",
     "total_papers":  88,
     "total_questions":  11000,
     "blueprint":  {
@@ -32,7 +32,7 @@
     "papers":  [
                    {
                        "id":  "uksssc_hc_steno_mock_01",
-                       "paper_number":  1,
+                       "paper_number":  201,
                        "year_badge":  "2026",
                        "title_hi":  "उच्च न्यायालय क्लर्क विशेष मॉक #01",
                        "title_en":  "High Court Clerk Special Mock #01",
@@ -187662,7 +187662,7 @@
                    },
                    {
                        "id":  "uksssc_hc_steno_mock_02",
-                       "paper_number":  42,
+                       "paper_number":  202,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक / उच्च न्यायालय क्लर्क — मॉडल प्रश्नपत्र 02",
                        "title_en":  "UKSSSC Junior Assistant / High Court Clerk — Model Mock Paper 02",
@@ -191890,7 +191890,7 @@
                    },
                    {
                        "id":  "uksssc_hc_steno_mock_03",
-                       "paper_number":  43,
+                       "paper_number":  203,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक / उच्च न्यायालय क्लर्क — मॉडल प्रश्नपत्र 03",
                        "title_en":  "UKSSSC Junior Assistant / High Court Clerk — Model Mock Paper 03",
@@ -196118,7 +196118,7 @@
                    },
                    {
                        "id":  "uksssc_hc_steno_mock_04",
-                       "paper_number":  44,
+                       "paper_number":  204,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक / उच्च न्यायालय क्लर्क — मॉडल प्रश्नपत्र 04",
                        "title_en":  "UKSSSC Junior Assistant / High Court Clerk — Model Mock Paper 04",
@@ -200346,7 +200346,7 @@
                    },
                    {
                        "id":  "uksssc_hc_steno_mock_05",
-                       "paper_number":  45,
+                       "paper_number":  205,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक / उच्च न्यायालय क्लर्क — मॉडल प्रश्नपत्र 05",
                        "title_en":  "UKSSSC Junior Assistant / High Court Clerk — Model Mock Paper 05",
@@ -204574,7 +204574,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_01",
-                       "paper_number":  1,
+                       "paper_number":  206,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #01",
                        "title_en":  "UKSSSC Inter Level Model Mock #01",
@@ -207813,7 +207813,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_02",
-                       "paper_number":  2,
+                       "paper_number":  207,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #02",
                        "title_en":  "UKSSSC Inter Level Model Mock #02",
@@ -211052,7 +211052,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_03",
-                       "paper_number":  3,
+                       "paper_number":  208,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #03",
                        "title_en":  "UKSSSC Inter Level Model Mock #03",
@@ -214291,7 +214291,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_04",
-                       "paper_number":  4,
+                       "paper_number":  209,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #04",
                        "title_en":  "UKSSSC Inter Level Model Mock #04",
@@ -217530,7 +217530,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_05",
-                       "paper_number":  5,
+                       "paper_number":  210,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #05",
                        "title_en":  "UKSSSC Inter Level Model Mock #05",
@@ -220769,7 +220769,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_06",
-                       "paper_number":  6,
+                       "paper_number":  211,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #06",
                        "title_en":  "UKSSSC Inter Level Model Mock #06",
@@ -224008,7 +224008,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_07",
-                       "paper_number":  7,
+                       "paper_number":  212,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #07",
                        "title_en":  "UKSSSC Inter Level Model Mock #07",
@@ -227247,7 +227247,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_08",
-                       "paper_number":  8,
+                       "paper_number":  213,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #08",
                        "title_en":  "UKSSSC Inter Level Model Mock #08",
@@ -230486,7 +230486,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_09",
-                       "paper_number":  9,
+                       "paper_number":  214,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #09",
                        "title_en":  "UKSSSC Inter Level Model Mock #09",
@@ -233725,7 +233725,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_10",
-                       "paper_number":  10,
+                       "paper_number":  215,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #10",
                        "title_en":  "UKSSSC Inter Level Model Mock #10",
@@ -236964,7 +236964,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_11",
-                       "paper_number":  11,
+                       "paper_number":  216,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय मॉडल मॉक #11",
                        "title_en":  "UKSSSC Inter Level Model Mock #11",
@@ -240203,7 +240203,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_12",
-                       "paper_number":  12,
+                       "paper_number":  217,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #12",
                        "title_en":  "UKSSSC Inter Level Revision Mock #12",
@@ -243637,7 +243637,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_13",
-                       "paper_number":  13,
+                       "paper_number":  218,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #13",
                        "title_en":  "UKSSSC Inter Level Revision Mock #13",
@@ -247071,7 +247071,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_14",
-                       "paper_number":  14,
+                       "paper_number":  219,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #14",
                        "title_en":  "UKSSSC Inter Level Revision Mock #14",
@@ -250505,7 +250505,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_15",
-                       "paper_number":  15,
+                       "paper_number":  220,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #15",
                        "title_en":  "UKSSSC Inter Level Revision Mock #15",
@@ -253939,7 +253939,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_16",
-                       "paper_number":  16,
+                       "paper_number":  221,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #16",
                        "title_en":  "UKSSSC Inter Level Revision Mock #16",
@@ -257373,7 +257373,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_17",
-                       "paper_number":  17,
+                       "paper_number":  222,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #17",
                        "title_en":  "UKSSSC Inter Level Revision Mock #17",
@@ -260807,7 +260807,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_18",
-                       "paper_number":  18,
+                       "paper_number":  223,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #18",
                        "title_en":  "UKSSSC Inter Level Revision Mock #18",
@@ -264241,7 +264241,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_19",
-                       "paper_number":  19,
+                       "paper_number":  224,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #19",
                        "title_en":  "UKSSSC Inter Level Revision Mock #19",
@@ -267675,7 +267675,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_20",
-                       "paper_number":  20,
+                       "paper_number":  225,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #20",
                        "title_en":  "UKSSSC Inter Level Revision Mock #20",
@@ -271109,7 +271109,7 @@
                    },
                    {
                        "id":  "uksssc_inter_level_mock_21",
-                       "paper_number":  21,
+                       "paper_number":  226,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC कनिष्ठ सहायक/इंटर स्तरीय रिवीजन मॉक #21",
                        "title_en":  "UKSSSC Inter Level Revision Mock #21",
@@ -274543,7 +274543,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_01",
-                       "paper_number":  1,
+                       "paper_number":  227,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #01",
                        "title_en":  "UKSSSC Graduate Level Model Mock #01",
@@ -277782,7 +277782,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_02",
-                       "paper_number":  2,
+                       "paper_number":  228,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #02",
                        "title_en":  "UKSSSC Graduate Level Model Mock #02",
@@ -281021,7 +281021,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_03",
-                       "paper_number":  3,
+                       "paper_number":  229,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #03",
                        "title_en":  "UKSSSC Graduate Level Model Mock #03",
@@ -284260,7 +284260,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_04",
-                       "paper_number":  4,
+                       "paper_number":  230,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #04",
                        "title_en":  "UKSSSC Graduate Level Model Mock #04",
@@ -287499,7 +287499,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_05",
-                       "paper_number":  5,
+                       "paper_number":  231,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #05",
                        "title_en":  "UKSSSC Graduate Level Model Mock #05",
@@ -290738,7 +290738,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_06",
-                       "paper_number":  6,
+                       "paper_number":  232,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #06",
                        "title_en":  "UKSSSC Graduate Level Model Mock #06",
@@ -293977,7 +293977,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_07",
-                       "paper_number":  7,
+                       "paper_number":  233,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #07",
                        "title_en":  "UKSSSC Graduate Level Model Mock #07",
@@ -297216,7 +297216,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_08",
-                       "paper_number":  8,
+                       "paper_number":  234,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय मॉडल मॉक #08",
                        "title_en":  "UKSSSC Graduate Level Model Mock #08",
@@ -300455,7 +300455,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_09",
-                       "paper_number":  9,
+                       "paper_number":  235,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #09",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #09",
@@ -304449,7 +304449,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_10",
-                       "paper_number":  10,
+                       "paper_number":  236,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #10",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #10",
@@ -308443,7 +308443,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_11",
-                       "paper_number":  11,
+                       "paper_number":  237,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #11",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #11",
@@ -312437,7 +312437,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_12",
-                       "paper_number":  12,
+                       "paper_number":  238,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #12",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #12",
@@ -316431,7 +316431,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_13",
-                       "paper_number":  13,
+                       "paper_number":  239,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #13",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #13",
@@ -320425,7 +320425,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_14",
-                       "paper_number":  14,
+                       "paper_number":  240,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #14",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #14",
@@ -324419,7 +324419,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_15",
-                       "paper_number":  15,
+                       "paper_number":  241,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #15",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #15",
@@ -328413,7 +328413,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_16",
-                       "paper_number":  16,
+                       "paper_number":  242,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #16",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #16",
@@ -332407,7 +332407,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_17",
-                       "paper_number":  17,
+                       "paper_number":  243,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #17",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #17",
@@ -336401,7 +336401,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_18",
-                       "paper_number":  18,
+                       "paper_number":  244,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #18",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #18",
@@ -340395,7 +340395,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_19",
-                       "paper_number":  19,
+                       "paper_number":  245,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #19",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #19",
@@ -344389,7 +344389,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_20",
-                       "paper_number":  20,
+                       "paper_number":  246,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #20",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #20",
@@ -348383,7 +348383,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_21",
-                       "paper_number":  21,
+                       "paper_number":  247,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #21",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #21",
@@ -352377,7 +352377,7 @@
                    },
                    {
                        "id":  "uksssc_graduate_level_mock_22",
-                       "paper_number":  22,
+                       "paper_number":  248,
                        "year_badge":  "2026",
                        "title_hi":  "UKSSSC स्नातक स्तरीय रिवीजन मॉक #22",
                        "title_en":  "UKSSSC Graduate Level Revision Mock #22",
