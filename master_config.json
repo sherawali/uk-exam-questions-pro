@@ -353,11 +353,22 @@
                                                           "duration":  120,
                                                           "max_video_unlock_mock":  6
                                                       },
+                              "ukpsc_combined_pre":  {
+                                                         "exam_id":  "ukpsc_combined_pre",
+                                                         "title_hindi":  "UKPSC अवर अधीनस्थ (Lower PCS)",
+                                                         "title_english":  "UKPSC Lower PCS Pre",
+                                                         "enabled":  true,
+                                                         "total_mocks":  10,
+                                                         "free_mocks":  2,
+                                                         "questions":  150,
+                                                         "duration":  120,
+                                                         "max_video_unlock_mock":  6
+                                                     },
                               "ukpsc_upper_pcs":  {
                                                       "exam_id":  "ukpsc_upper_pcs",
-                                                      "title_hindi":  "उत्तराखंड सम्मिलित सिविल सेवा (PCS)",
+                                                      "title_hindi":  "UKPSC प्रवर अधीनस्थ (Upper PCS)",
                                                       "title_english":  "Upper PCS Prelims",
-                                                      "enabled":  false,
+                                                      "enabled":  true,
                                                       "total_mocks":  10,
                                                       "free_mocks":  2,
                                                       "questions":  150,
