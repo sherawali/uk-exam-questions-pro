@@ -1,6 +1,59 @@
-﻿{
-    "version":  "4.9.7",
-    "last_sync":  "2026-11-10T19:44:04+05:30",
+{
+    "version":  "5.0.0",
+    "last_sync":  "2026-11-11T09:15:00+05:30",
+    "home_config": {
+        "hero_override": {
+            "enabled": false,
+            "title_hi": "",
+            "title_en": "",
+            "exam_id": "",
+            "post_id": ""
+        },
+        "badges": {
+            "pyq_papers": {
+                "tag": "97 पेपर्स",
+                "detail": "2012–2026 हल प्रश्न-पत्र",
+                "show_new": false
+            },
+            "mock_tests": {
+                "tag": "NEW 🔥",
+                "detail": "नवीनतम पैटर्न आधारित",
+                "show_new": true
+            },
+            "subject_bank": {
+                "tag": "16,134",
+                "detail": "13 विषयवार प्रश्न बैंक",
+                "show_new": false
+            },
+            "revision": {
+                "tag": "SM-2",
+                "detail": "स्मार्ट रिवीज़न रजिस्टर",
+                "show_new": false
+            }
+        },
+        "carousel_tags": {
+            "ukpsc_lower_mock_01": {
+                "pill": "100% FREE",
+                "color": "green"
+            },
+            "ukpsc_lower_mock_02": {
+                "pill": "100% FREE",
+                "color": "green"
+            },
+            "ukpsc_lower_mock_03": {
+                "pill": "🎬 AD UNLOCK",
+                "color": "amber"
+            },
+            "ukpsc_lower_mock_04": {
+                "pill": "🎬 AD UNLOCK",
+                "color": "amber"
+            },
+            "ukpsc_lower_mock_05": {
+                "pill": "👑 VIP PASS",
+                "color": "purple"
+            }
+        }
+    },
     "flash_news":  [
                        {
                            "id":  "news_ukpsc_lower_pcs_5_mocks_live",
