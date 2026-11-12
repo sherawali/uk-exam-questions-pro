@@ -373,17 +373,6 @@
       "duration": 120,
       "max_video_unlock_mock": 6
     },
-    "uksssc_graduate_level": {
-      "exam_id": "uksssc_graduate_level",
-      "title_hindi": "UKSSSC स्नातक स्तरीय (VDO)",
-      "title_english": "UKSSSC Graduate Level",
-      "enabled": true,
-      "total_mocks": 22,
-      "free_mocks": 2,
-      "questions": 100,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
     "ukpsc_ro_aro": {
       "exam_id": "ukpsc_ro_aro",
       "title_hindi": "UKPSC समीक्षा अधिकारी (RO/ARO)",
