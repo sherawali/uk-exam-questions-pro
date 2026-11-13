@@ -56,6 +56,21 @@
   },
   "flash_news": [
     {
+      "id": "news_uksssc_scaler_mock_01_live",
+      "enabled": true,
+      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 100-प्रश्नों का मॉडल मॉक #01 लाइव!",
+      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 100-Q Model Mock #01 Live!",
+      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती 2026 हेतु 12वीं विज्ञान वर्ग पर आधारित 100-प्रश्नों का नया मॉडल मॉक #01 (सामान्य विज्ञान 50 + सामान्य गणित 50) लाइव कर दिया गया है। यह मॉक सभी अभ्यर्थियों के लिए 100% निःशुल्क उपलब्ध है!",
+      "message_en": "Brand-new 100-Question Model Mock #01 based on 12th Science stream (General Science 50 + General Mathematics 50) is now live for UKSSSC Scaler Exam 2026. 100% Free for all aspirants!",
+      "tag": "🔥 100% फ्री स्केलर मॉक",
+      "tag_en": "🔥 100% Free Scaler Mock",
+      "post_id": "uksssc_scaler",
+      "action_label": "स्केलर मॉक दें ➔",
+      "action_label_en": "Take Scaler Mock ➔",
+      "action_route": "special_mocks:uksssc_scaler",
+      "date": "13 Nov 2026"
+    },
+    {
       "id": "news_ukpsc_lower_pcs_5_mocks_live",
       "enabled": true,
       "title": "🎯 UKPSC लोअर पीसीएस: 5 नए आयोग स्तरीय फुल मॉक टेस्ट लाइव!",
@@ -259,7 +274,8 @@
       "uk_sub_inspector": 2,
       "uk_police_constable": 2,
       "ukpsc_upper_pcs": 2,
-      "uksssc_graduate_level": 2
+      "uksssc_graduate_level": 2,
+      "uksssc_scaler": 6
     },
     "default_max_video_unlock_mock": 6,
     "exam_video_unlock_limits": {
@@ -268,7 +284,8 @@
       "uk_sub_inspector": 6,
       "uk_police_constable": 6,
       "ukpsc_upper_pcs": 6,
-      "uksssc_graduate_level": 6
+      "uksssc_graduate_level": 6,
+      "uksssc_scaler": 6
     }
   },
   "subject_access_policy": {
@@ -394,6 +411,17 @@
       "questions": 100,
       "duration": 120,
       "max_video_unlock_mock": 6
+    },
+    "uksssc_scaler": {
+      "exam_id": "uksssc_scaler",
+      "title_hindi": "UKSSSC स्केलर (वन विकास निगम)",
+      "title_english": "UKSSSC Scaler",
+      "enabled": true,
+      "total_mocks": 1,
+      "free_mocks": 1,
+      "questions": 100,
+      "duration": 120,
+      "max_video_unlock_mock": 6
     }
   },
   "min_app_version": "1.0.0",
@@ -417,5 +445,5 @@
     }
   },
   "total_questions": 16134,
-  "last_updated": "2026-10-31T18:15:00+05:30"
+  "last_updated": "2026-11-13T11:52:46.677428"
 }
