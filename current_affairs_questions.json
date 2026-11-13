@@ -26161,7 +26161,7 @@
       "uuid": "6b4852a5-a9f4-59d5-9406-d9fa9886d4bf"
     },
     {
-      "question": "BRICS Secondary Sanctions पर सही कथन:",
+      "question": "ब्रिक्स (BRICS) घोषणापत्र के अनुसार, द्वितीयक प्रतिबंधों (Secondary Sanctions) के संबंध में कौन-सा कथन सत्य है?",
       "options": [
         "UNSC द्वारा गैर-अधिकृत होने पर अवैध एवं संप्रभुता का उल्लंघन",
         "वैश्विक व्यापार सुरक्षा हेतु पूर्णतः वैध एवं अनिवार्य कदम",
@@ -26179,7 +26179,7 @@
         "Smart"
       ],
       "extra_data": {
-        "question_en": "Correct on BRICS Secondary Sanctions:",
+        "question_en": "According to the BRICS Declaration, which statement is correct regarding Secondary Sanctions?",
         "options_en": [
           "Illegal if not UNSC-authorized, violates sovereignty",
           "Legal",
@@ -26701,7 +26701,7 @@
       "uuid": "e22bc875-4bfc-5b80-9040-0b1d0d117efc"
     },
     {
-      "question": "Thematic Hubs संख्या पर सही कथन:",
+      "question": "राष्ट्रीय क्वांटम मिशन (NQM) के अंतर्गत स्थापित 'Thematic Hubs' (T-Hubs) की कुल संख्या कितनी है?",
       "options": [
         "4 Hubs — Computing, Communication, Sensing, Materials",
         "2 Hubs",
@@ -27001,7 +27001,7 @@
       "uuid": "5c2ee45c-7c4c-590e-8b09-7169790d94ac"
     },
     {
-      "question": "भारत में 'Harvest Now Decrypt Later' का अर्थ पर सही विकल्प:",
+      "question": "साइबर सुरक्षा में 'Harvest Now Decrypt Later' (HNDL) का क्या अर्थ है?",
       "options": [
         "विरोधी आज encrypt डेटा store कर भविष्य में क्वांटम से decrypt करेगा",
         "केवल वायरस",
@@ -27019,7 +27019,7 @@
         "Smart"
       ],
       "extra_data": {
-        "question_en": "Correct meaning of Harvest Now Decrypt Later:",
+        "question_en": "In cybersecurity, what is the meaning of 'Harvest Now Decrypt Later' (HNDL)?",
         "options_en": [
           "Adversary stores today's encrypted data to decrypt later with quantum",
           "Only virus",
@@ -28279,7 +28279,7 @@
         "Smart"
       ],
       "extra_data": {
-        "question_en": "What is correct number of Thematic Hubs in National Quantum Mission?",
+        "question_en": "What is the total number of 'Thematic Hubs' (T-Hubs) established under the National Quantum Mission (NQM)?",
         "options_en": [
           "4 Hubs — Computing, Communication, Sensing, Materials",
           "2 Hubs",
