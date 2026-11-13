@@ -56,14 +56,14 @@
   },
   "flash_news": [
     {
-      "id": "news_uksssc_scaler_2_mocks_live",
+      "id": "news_uksssc_scaler_6_mocks_live",
       "enabled": true,
-      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 2 फुल टेस्ट (1 असली 2024 PYQ + 1 मॉडल टेस्ट) 100% फ्री लाइव!",
-      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 2 Full Tests (1 Real 2024 PYQ + 1 Model Mock) 100% Free Live!",
-      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 2 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 असली हल प्रश्न-पत्र + मॉक #02: 2026 मॉडल टेस्ट) लाइव कर दिए गए हैं। दोनों टेस्ट सभी अभ्यर्थियों के लिए 100% निःशुल्क उपलब्ध हैं!",
-      "message_en": "2 Full 100-Question Tests (Mock #01: 25 August 2024 Real Solved Paper + Mock #02: 2026 Model Mock) are now live for UKSSSC Scaler Exam. Both are 100% Free for all aspirants!",
-      "tag": "🔥 2 फ्री स्केलर टेस्ट",
-      "tag_en": "🔥 2 Free Scaler Tests",
+      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 6 फुल टेस्ट्स (1 असली 2024 PYQ + 5 मॉडल टेस्ट) लाइव!",
+      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 6 Full Tests (1 Real 2024 PYQ + 5 Model Mocks) Live!",
+      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 6 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 असली प्रश्न-पत्र + मॉक #02 से #06: 2026 मॉडल टेस्ट्स) लाइव कर दिए गए हैं। मॉक #01 पूरी तरह फ्री है और बाकी टेस्ट्स वीडियो ऐड देखकर आसानी से अनलॉक कर सकते हैं!",
+      "message_en": "6 Full 100-Question Tests (Mock #01: 25 August 2024 Real Solved Paper + Mocks #02-#06: 2026 Model Mocks) are now live for UKSSSC Scaler Exam. Mock #01 is 100% Free and Mocks #02-#06 unlock via video ads!",
+      "tag": "🔥 6 स्केलर टेस्ट्स",
+      "tag_en": "🔥 6 Scaler Tests",
       "post_id": "uksssc_scaler",
       "action_label": "स्केलर टेस्ट दें ➔",
       "action_label_en": "Take Scaler Tests ➔",
@@ -286,6 +286,9 @@
       "ukpsc_upper_pcs": 6,
       "uksssc_graduate_level": 6,
       "uksssc_scaler": 6
+    },
+    "exam_free_mocks": {
+      "uksssc_scaler": 1
     }
   },
   "subject_access_policy": {
@@ -417,8 +420,8 @@
       "title_hindi": "UKSSSC स्केलर (वन विकास निगम)",
       "title_english": "UKSSSC Scaler",
       "enabled": true,
-      "total_mocks": 2,
-      "free_mocks": 2,
+      "total_mocks": 6,
+      "free_mocks": 1,
       "questions": 100,
       "duration": 120,
       "max_video_unlock_mock": 6
