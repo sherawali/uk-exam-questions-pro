@@ -56,17 +56,17 @@
   },
   "flash_news": [
     {
-      "id": "news_uksssc_scaler_mock_01_live",
+      "id": "news_uksssc_scaler_2_mocks_live",
       "enabled": true,
-      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 100-प्रश्नों का मॉडल मॉक #01 लाइव!",
-      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 100-Q Model Mock #01 Live!",
-      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती 2026 हेतु 12वीं विज्ञान वर्ग पर आधारित 100-प्रश्नों का नया मॉडल मॉक #01 (सामान्य विज्ञान 50 + सामान्य गणित 50) लाइव कर दिया गया है। यह मॉक सभी अभ्यर्थियों के लिए 100% निःशुल्क उपलब्ध है!",
-      "message_en": "Brand-new 100-Question Model Mock #01 based on 12th Science stream (General Science 50 + General Mathematics 50) is now live for UKSSSC Scaler Exam 2026. 100% Free for all aspirants!",
-      "tag": "🔥 100% फ्री स्केलर मॉक",
-      "tag_en": "🔥 100% Free Scaler Mock",
+      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 2 फुल टेस्ट (1 असली 2024 PYQ + 1 मॉडल टेस्ट) 100% फ्री लाइव!",
+      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 2 Full Tests (1 Real 2024 PYQ + 1 Model Mock) 100% Free Live!",
+      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 2 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 असली हल प्रश्न-पत्र + मॉक #02: 2026 मॉडल टेस्ट) लाइव कर दिए गए हैं। दोनों टेस्ट सभी अभ्यर्थियों के लिए 100% निःशुल्क उपलब्ध हैं!",
+      "message_en": "2 Full 100-Question Tests (Mock #01: 25 August 2024 Real Solved Paper + Mock #02: 2026 Model Mock) are now live for UKSSSC Scaler Exam. Both are 100% Free for all aspirants!",
+      "tag": "🔥 2 फ्री स्केलर टेस्ट",
+      "tag_en": "🔥 2 Free Scaler Tests",
       "post_id": "uksssc_scaler",
-      "action_label": "स्केलर मॉक दें ➔",
-      "action_label_en": "Take Scaler Mock ➔",
+      "action_label": "स्केलर टेस्ट दें ➔",
+      "action_label_en": "Take Scaler Tests ➔",
       "action_route": "special_mocks:uksssc_scaler",
       "date": "13 Nov 2026"
     },
@@ -417,8 +417,8 @@
       "title_hindi": "UKSSSC स्केलर (वन विकास निगम)",
       "title_english": "UKSSSC Scaler",
       "enabled": true,
-      "total_mocks": 1,
-      "free_mocks": 1,
+      "total_mocks": 2,
+      "free_mocks": 2,
       "questions": 100,
       "duration": 120,
       "max_video_unlock_mock": 6
@@ -445,5 +445,5 @@
     }
   },
   "total_questions": 16134,
-  "last_updated": "2026-11-13T11:52:46.677428"
+  "last_updated": "2026-11-13T12:27:08.291183"
 }
