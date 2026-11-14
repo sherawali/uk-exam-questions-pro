@@ -1,452 +1,469 @@
-{
-  "version": "5.0.0",
-  "last_sync": "2026-11-11T09:15:00+05:30",
-  "home_config": {
-    "hero_override": {
-      "enabled": false,
-      "title_hi": "",
-      "title_en": "",
-      "exam_id": "",
-      "post_id": ""
-    },
-    "badges": {
-      "pyq_papers": {
-        "tag": "97 पेपर्स",
-        "detail": "2012–2026 हल प्रश्न-पत्र",
-        "show_new": false
-      },
-      "mock_tests": {
-        "tag": "NEW 🔥",
-        "detail": "नवीनतम पैटर्न आधारित",
-        "show_new": true
-      },
-      "subject_bank": {
-        "tag": "16,134",
-        "detail": "13 विषयवार प्रश्न बैंक",
-        "show_new": false
-      },
-      "revision": {
-        "tag": "SM-2",
-        "detail": "स्मार्ट रिवीज़न रजिस्टर",
-        "show_new": false
-      }
-    },
-    "carousel_tags": {
-      "ukpsc_lower_mock_01": {
-        "pill": "100% FREE",
-        "color": "green"
-      },
-      "ukpsc_lower_mock_02": {
-        "pill": "100% FREE",
-        "color": "green"
-      },
-      "ukpsc_lower_mock_03": {
-        "pill": "🎬 AD UNLOCK",
-        "color": "amber"
-      },
-      "ukpsc_lower_mock_04": {
-        "pill": "🎬 AD UNLOCK",
-        "color": "amber"
-      },
-      "ukpsc_lower_mock_05": {
-        "pill": "👑 VIP PASS",
-        "color": "purple"
-      }
-    }
-  },
-  "flash_news": [
-    {
-      "id": "news_uksssc_scaler_6_mocks_live",
-      "enabled": true,
-      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 6 फुल टेस्ट्स (1 असली 2024 PYQ + 5 मॉडल टेस्ट) लाइव!",
-      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 6 Full Tests (1 Real 2024 PYQ + 5 Model Mocks) Live!",
-      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 6 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 असली प्रश्न-पत्र + मॉक #02 से #06: 2026 मॉडल टेस्ट्स) लाइव कर दिए गए हैं। मॉक #01 पूरी तरह फ्री है और बाकी टेस्ट्स वीडियो ऐड देखकर आसानी से अनलॉक कर सकते हैं!",
-      "message_en": "6 Full 100-Question Tests (Mock #01: 25 August 2024 Real Solved Paper + Mocks #02-#06: 2026 Model Mocks) are now live for UKSSSC Scaler Exam. Mock #01 is 100% Free and Mocks #02-#06 unlock via video ads!",
-      "tag": "🔥 6 स्केलर टेस्ट्स",
-      "tag_en": "🔥 6 Scaler Tests",
-      "post_id": "uksssc_scaler",
-      "action_label": "स्केलर टेस्ट दें ➔",
-      "action_label_en": "Take Scaler Tests ➔",
-      "action_route": "special_mocks:uksssc_scaler",
-      "date": "13 Nov 2026"
-    },
-    {
-      "id": "news_ukpsc_lower_pcs_5_mocks_live",
-      "enabled": true,
-      "title": "🎯 UKPSC लोअर पीसीएस: 5 नए आयोग स्तरीय फुल मॉक टेस्ट लाइव!",
-      "title_en": "🎯 UKPSC Lower PCS: 5 Brand-New Commission Full Mock Tests Live!",
-      "message": "UKPSC अवर अधीनस्थ (Lower PCS) प्रारम्भिक परीक्षा 2026 हेतु नवीनतम सिलेबस व 150-प्रश्नों के पैटर्न पर आधारित 5 नए फुल मॉक टेस्ट्स लाइव कर दिए गए हैं। यूकेपीएससी विगत वर्ष पेपर्स में 'अवर अधीनस्थ (Lower PCS)' सेक्शन देखें!",
-      "message_en": "5 brand-new 150-Question Full Mock Tests based on the latest 2026 commission pattern are now live for UKPSC Lower PCS Prelims. Check the Lower PCS section under UKPSC Solved PYQs!",
-      "tag": "🔥 5 नए लोअर PCS मॉक",
-      "tag_en": "🔥 5 New Lower PCS Mocks",
-      "post_id": "ukpsc_combined_pre",
-      "action_label": "लोअर PCS मॉक दें ➔",
-      "action_label_en": "Take Lower PCS Mocks ➔",
-      "action_route": "pyq_tier:lowerPcs",
-      "date": "10 Nov 2026"
-    },
-    {
-      "id": "news_uksssc_2026_special_mocks_live",
-      "enabled": true,
-      "title": "📢 UKSSSC 2026: नए विशेष मॉडल पेपर लाइव — विशेष मॉडल पेपर सेक्शन में देखें!",
-      "title_en": "📢 UKSSSC 2026: New Special Model Papers Live — Check Special Mocks Section!",
-      "message": "UKSSSC कनिष्ठ सहायक/12वीं स्तर एवं स्नातक स्तरीय (VDO) परीक्षाओं हेतु नवीनतम 2026 पैटर्न पर आधारित नए 100-प्रश्नों के विशेष मॉडल पेपर्स लाइव कर दिए गए हैं। विस्तृत व्याख्या व सटीक आयोग ब्लूप्रिंट के साथ अभ्यास करने हेतु होम स्क्रीन पर विशेष मॉडल पेपर्स सेक्शन देखें। पहले 2 टेस्ट (मॉक #01 व #02) सभी छात्रों के लिए पूर्णतः निःशुल्क उपलब्ध हैं!",
-      "message_en": "Brand-new 100-Question Special Model Papers based on the latest 2026 commission pattern are now live for UKSSSC Junior Assistant / 12th Level and Graduate Level (VDO) exams. Check the Special Model Papers section on the home screen to practice with complete 360 explanations. Mocks #01 & #02 are 100% Free for all students!",
-      "tag": "🔥 नए मॉडल पेपर",
-      "tag_en": "🔥 New Mocks Live",
-      "post_id": "uksssc_graduate_level",
-      "action_label": "",
-      "action_label_en": "",
-      "action_route": "",
-      "date": "06 Nov 2026"
-    },
-    {
-      "id": "news_uksssc_grad_live",
-      "enabled": true,
-      "title": "🎓 UKSSSC स्नातक स्तरीय: 14 विशेष मॉडल टेस्ट (2 फ्री टेस्ट)!",
-      "title_en": "🎓 UKSSSC Graduate Level (VDO): 14 New Mock Tests (2 Free Mocks)!",
-      "message": "14 संपूर्ण 100-प्रश्न मॉडल टेस्ट लाइव हैं। पहले 2 टेस्ट (मॉक #01 व #02) पूर्णतः निःशुल्क उपलब्ध हैं, अभी अभ्यास करें!",
-      "message_en": "14 full model papers based on UKSSSC 100-Q syllabus are now live. Mocks #01 & #02 are 100% Free, practice now!",
-      "tag": "🔥 14 नए मॉक लाइव",
-      "tag_en": "🔥 14 Mocks Live",
-      "post_id": "uksssc_graduate_level",
-      "action_label": "स्नातक स्तरीय मॉक देखें ➔",
-      "action_label_en": "View Graduate Mocks ➔",
-      "action_route": "special_mocks:uksssc_graduate_level",
-      "date": "06 Nov 2026"
-    },
-    {
-      "id": "news_uksssc_inter_live",
-      "enabled": true,
-      "title": "📜 UKSSSC कनिष्ठ सहायक: 10 विशेष VIP मॉडल टेस्ट लाइव (2 फ्री टेस्ट)!",
-      "title_en": "📜 UKSSSC Junior Assistant / Inter Level: 10 Model Tests (2 Free Mocks)!",
-      "message": "12वीं स्तरीय कनिष्ठ सहायक परीक्षा हेतु 10 संपूर्ण प्रामाणिक VIP मॉडल पेपर्स लाइव हैं। पहले 2 टेस्ट (मॉक #01 व #02) पूर्णतः निःशुल्क उपलब्ध हैं!",
-      "message_en": "10 authentic bilingual model papers for 12th Inter Level Junior Assistant Exam are live. Mocks #01 & #02 are Free for everyone!",
-      "tag": "⚡ 10 इंटर मॉक लाइव",
-      "tag_en": "⚡ 10 Mocks Live",
-      "post_id": "uksssc_inter_level",
-      "action_label": "इंटर स्तरीय मॉक देखें ➔",
-      "action_label_en": "View Inter Mocks ➔",
-      "action_route": "special_mocks:uksssc_inter_level",
-      "date": "06 Nov 2026"
-    },
-    {
-      "id": "news_360_degree_facts_mastery",
-      "enabled": true,
-      "title": "🎯 1 प्रश्न से 5 फैक्ट्स तैयार! 360° व्याख्या वाले मॉक",
-      "title_en": "🎯 1 Question = 5 Facts! 360° Detailed Mocks",
-      "message": "हर प्रश्न के साथ पाएँ पूरी व्याख्या! सिर्फ सही उत्तर ही नहीं, बल्कि उससे जुड़ी ज़रूरी तारीखें, स्थान और मुख्य तथ्य भी सीखें—ताकि 1 सवाल हल करते ही आपके 5 महत्वपूर्ण प्रश्न एक साथ तैयार हो जाएँ!",
-      "message_en": "Every question includes a complete explanation! Learn verified dates, places, and key facts behind each answer—so practicing 1 question prepares 5 exam topics at once!",
-      "tag": "⚡ 1 प्रश्न = 5 फैक्ट्स",
-      "tag_en": "⚡ 1 Q = 5 Facts",
-      "post_id": "uk_high_court_clerk",
-      "action_label": "मॉक टेस्ट प्रारंभ करें ➔",
-      "action_label_en": "Start Mock Test ➔",
-      "action_route": "mock:uk_high_court_clerk",
-      "date": "16 Oct 2026"
-    },
-    {
-      "id": "news_hc_clerk_5_free_mocks",
-      "enabled": true,
-      "title": "उच्च न्यायालय क्लर्क परीक्षा: 5 फ्री 360° मॉक टेस्ट लाइव! अभी अभ्यास करें",
-      "title_en": "High Court Clerk Exam: 5 Free 360° Mocks Live! Try Now",
-      "message": "उत्तराखंड उच्च न्यायालय क्लर्क व कनिष्ठ सहायक परीक्षा हेतु 5 संपूर्ण 100-प्रश्न मॉडल पेपर्स पूर्णतः निःशुल्क उपलब्ध हैं। विस्तृत व्याख्या व लाइव रैंक के साथ अभी टेस्ट दें!",
-      "message_en": "5 Full 100-Question Model Papers for Uttarakhand High Court Clerk Exam are available 100% Free. Practice now with detailed explanations and live rank!",
-      "tag": "⚡ 5 फ्री मॉक टेस्ट",
-      "tag_en": "⚡ 5 Free Mocks",
-      "post_id": "uk_high_court_clerk",
-      "action_label": "मॉक टेस्ट प्रारंभ करें ➔",
-      "action_label_en": "Start Mock Test ➔",
-      "action_route": "mock:uk_high_court_clerk",
-      "date": "16 Oct 2026"
-    },
-    {
-      "id": "news_guru_vip_pass_ticker",
-      "enabled": true,
-      "title": "👑 गुरु प्लस VIP पास: सभी 45 आयोग पेपर्स व बुकलेट्स अनलॉक करें",
-      "title_en": "👑 Guru Plus VIP Pass: Unlock All 45 Papers & Booklets",
-      "message": "समस्त 13 विषयों के आधिकारिक PYQ बुकलेट्स और विशेष VIP मॉक टेस्ट तुरंत अनलॉक करें। 100% विज्ञापन-मुक्त CBT अनुभव।",
-      "message_en": "Instantly unlock all 13 subject official PYQ booklets and exclusive VIP mock tests. 100% ad-free CBT experience.",
-      "tag": "👑 VIP पास",
-      "tag_en": "👑 VIP PASS",
-      "is_vip": true,
-      "action_label": "VIP अनलॉक करें ➔",
-      "action_label_en": "Unlock VIP ➔",
-      "action_route": "guru_plus",
-      "date": "16 Oct 2026"
-    }
-  ],
-  "special_flash": [
-    {
-      "id": "special_uksssc_2026_new_mocks_banner",
-      "enabled": true,
-      "title": "UKSSSC 2026: नए विशेष मॉडल पेपर्स लाइव!",
-      "title_en": "UKSSSC 2026: New Special Model Papers Live!",
-      "message": "कनिष्ठ सहायक एवं स्नातक स्तरीय परीक्षाओं हेतु नवीनतम 2026 ब्लूप्रिंट पर आधारित नए 100-प्रश्न मॉडल पेपर्स लाइव हैं। होम स्क्रीन पर विशेष मॉडल पेपर्स सेक्शन में अभी देखें — पहले 2 टेस्ट (मॉक #01 व #02) पूर्णतः निःशुल्क!",
-      "message_en": "New 100-Question Model Papers based on the latest 2026 blueprint are live for Junior Assistant and Graduate Level exams. Explore now in Special Model Papers section on home screen — Mocks #01 & #02 Free!",
-      "type": "special",
-      "tag": "🔥 नए मॉडल पेपर",
-      "tag_en": "🔥 New Mocks Live",
-      "post_id": "uksssc_graduate_level",
-      "action_label": "",
-      "action_label_en": "",
-      "action_route": "",
-      "exam_date": "2026"
-    },
-    {
-      "id": "special_uksssc_grad_banner",
-      "enabled": true,
-      "title": "UKSSSC स्नातक स्तरीय (VDO/VPDO)",
-      "title_en": "UKSSSC Graduate Level (VDO/VPDO)",
-      "message": "14 नए 100-प्रश्न संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट लाइव हैं! पहले 2 टेस्ट (मॉक #01 व #02) फ्री उपलब्ध हैं।",
-      "message_en": "14 New 100-Question Comprehensive Model Papers are live! Mocks #01 & #02 are Free.",
-      "type": "special",
-      "tag": "🔥 14 VDO MOCK",
-      "tag_en": "🔥 14 VDO MOCK",
-      "action_label": "मॉक टेस्ट दें ➔",
-      "action_label_en": "Take Mock Test ➔",
-      "action_route": "special_mocks:uksssc_graduate_level",
-      "post_id": "uksssc_graduate_level"
-    },
-    {
-      "id": "special_hc_clerk_mock_slide",
-      "enabled": true,
-      "title": "उच्च न्यायालय क्लर्क & कनिष्ठ सहायक",
-      "title_en": "High Court Clerk & Jr. Assistant",
-      "message": "उच्च न्यायालय क्लर्क परीक्षा हेतु 5 नए 140Q संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट उपलब्ध हैं। अजय रावत, NCERT एवं विधिक शब्दावली आधारित!",
-      "message_en": "5 New 140Q Comprehensive Special Model Papers live for High Court Clerk Exam. Master key concepts with full explanations!",
-      "type": "special",
-      "tag": "🔥 विशेष मॉडल टेस्ट",
-      "tag_en": "🔥 SPECIAL MOCK",
-      "exam_date": "2026",
-      "post_id": "uk_high_court_clerk",
-      "action_label": "विशेष मॉक देखें ➔",
-      "action_label_en": "View Special Mocks ➔",
-      "action_route": "special_mocks:uk_high_court_clerk",
-      "total_questions": 140,
-      "duration_minutes": 150,
-      "is_vip": false
-    },
-    {
-      "id": "special_guru_vip_mock_pass_slide",
-      "enabled": true,
-      "title": "गुरु प्लस VIP टेस्ट पास 👑",
-      "title_en": "Guru Plus VIP Test Pass 👑",
-      "message": "समस्त 13 विषयों के आधिकारिक PYQ बुकलेट्स और विशेष VIP मॉक टेस्ट तुरंत अनलॉक करें। 100% विज्ञापन-मुक्त CBT अनुभव।",
-      "message_en": "Instantly unlock all 13 subject official PYQ booklets and exclusive VIP mock tests. 100% ad-free CBT experience.",
-      "type": "special",
-      "tag": "👑 VIP पास",
-      "tag_en": "👑 VIP PASS",
-      "exam_date": "2026",
-      "post_id": "uk_high_court_clerk",
-      "action_label": "VIP अनलॉक करें ➔",
-      "action_label_en": "Unlock VIP ➔",
-      "action_route": "guru_plus",
-      "total_questions": 100,
-      "duration_minutes": 120,
-      "is_vip": true
-    },
-    {
-      "id": "special_360_degree_facts_mastery_slide",
-      "enabled": true,
-      "title": "🎯 1 प्रश्न से 5 फैक्ट्स तैयार! 360° व्याख्या वाले मॉक",
-      "title_en": "🎯 1 Question = 5 Facts! 360° Detailed Mocks",
-      "message": "हर प्रश्न के साथ पाएँ पूरी व्याख्या! सिर्फ सही उत्तर ही नहीं, बल्कि उससे जुड़ी ज़रूरी तारीखें, स्थान और मुख्य तथ्य भी सीखें—ताकि 1 सवाल हल करते ही आपके 5 महत्वपूर्ण प्रश्न एक साथ तैयार हो जाएँ!",
-      "message_en": "Every question includes a complete explanation! Learn verified dates, places, and key facts behind each answer—so practicing 1 question prepares 5 exam topics at once!",
-      "type": "update",
-      "tag": "⚡ 1 प्रश्न = 5 फैक्ट्स",
-      "tag_en": "⚡ 1 Q = 5 Facts",
-      "exam_date": "2026",
-      "post_id": "uk_high_court_clerk",
-      "action_label": "मॉक शुरू करें ➔",
-      "action_label_en": "Start Mock ➔",
-      "action_route": "mock:uk_high_court_clerk",
-      "total_questions": 100,
-      "duration_minutes": 120,
-      "is_vip": false
-    }
-  ],
-  "mock_access_policy": {
-    "default_free_mocks_per_exam": 2,
-    "exam_free_limits": {
-      "uk_high_court_clerk": 2,
-      "uksssc_inter_level": 2,
-      "uk_sub_inspector": 2,
-      "uk_police_constable": 2,
-      "ukpsc_upper_pcs": 2,
-      "uksssc_graduate_level": 2,
-      "uksssc_scaler": 6
-    },
-    "default_max_video_unlock_mock": 6,
-    "exam_video_unlock_limits": {
-      "uk_high_court_clerk": 6,
-      "uksssc_inter_level": 6,
-      "uk_sub_inspector": 6,
-      "uk_police_constable": 6,
-      "ukpsc_upper_pcs": 6,
-      "uksssc_graduate_level": 6,
-      "uksssc_scaler": 6
-    },
-    "exam_free_mocks": {
-      "uksssc_scaler": 1
-    }
-  },
-  "subject_access_policy": {
-    "free_subjects": [
-      "uttarakhand_gk",
-      "general_hindi",
-      "current_affairs",
-      "history",
-      "polity",
-      "geography",
-      "economics",
-      "science",
-      "environment",
-      "math",
-      "computer",
-      "reasoning",
-      "agriculture"
-    ],
-    "paid_subjects": [],
-    "default_free_sets_per_subject": 5,
-    "default_max_video_unlock_set": 10,
-    "subject_free_sets": {
-      "uttarakhand_gk": 5,
-      "general_hindi": 5,
-      "current_affairs": 5,
-      "history": 5,
-      "polity": 5,
-      "geography": 5,
-      "economics": 5,
-      "science": 5,
-      "environment": 5,
-      "math": 5,
-      "computer": 5,
-      "reasoning": 5,
-      "agriculture": 5
-    }
-  },
-  "exam_mock_catalog": {
-    "uk_high_court_clerk": {
-      "exam_id": "uk_high_court_clerk",
-      "title_hindi": "उच्च न्यायालय कनिष्ठ सहायक",
-      "title_english": "High Court Junior Assistant",
-      "enabled": true,
-      "total_mocks": 6,
-      "free_mocks": 2,
-      "questions": 140,
-      "duration": 150,
-      "max_video_unlock_mock": 6
-    },
-    "uksssc_inter_level": {
-      "exam_id": "uksssc_inter_level",
-      "title_hindi": "UKSSSC कनिष्ठ सहायक / 12th",
-      "title_english": "UKSSSC Junior Assistant",
-      "enabled": true,
-      "total_mocks": 21,
-      "free_mocks": 2,
-      "questions": 100,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
-    "uk_sub_inspector": {
-      "exam_id": "uk_sub_inspector",
-      "title_hindi": "उत्तराखंड पुलिस उपनिरीक्षक (SI)",
-      "title_english": "Police SI",
-      "enabled": false,
-      "total_mocks": 15,
-      "free_mocks": 2,
-      "questions": 150,
-      "duration": 150,
-      "max_video_unlock_mock": 6
-    },
-    "uk_police_constable": {
-      "exam_id": "uk_police_constable",
-      "title_hindi": "उत्तराखण्ड पुलिस आरक्षी",
-      "title_english": "Police Constable",
-      "enabled": true,
-      "total_mocks": 15,
-      "free_mocks": 2,
-      "questions": 100,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
-    "ukpsc_combined_pre": {
-      "exam_id": "ukpsc_combined_pre",
-      "title_hindi": "UKPSC अवर अधीनस्थ (Lower PCS)",
-      "title_english": "UKPSC Lower PCS Pre",
-      "enabled": true,
-      "total_mocks": 10,
-      "free_mocks": 2,
-      "questions": 150,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
-    "ukpsc_upper_pcs": {
-      "exam_id": "ukpsc_upper_pcs",
-      "title_hindi": "UKPSC प्रवर अधीनस्थ (Upper PCS)",
-      "title_english": "Upper PCS Prelims",
-      "enabled": true,
-      "total_mocks": 10,
-      "free_mocks": 2,
-      "questions": 150,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
-    "ukpsc_ro_aro": {
-      "exam_id": "ukpsc_ro_aro",
-      "title_hindi": "UKPSC समीक्षा अधिकारी (RO/ARO)",
-      "title_english": "UKPSC RO / ARO Exam",
-      "enabled": true,
-      "total_mocks": 10,
-      "free_mocks": 2,
-      "questions": 150,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
-    "uksssc_graduate": {
-      "exam_id": "uksssc_graduate",
-      "title_hindi": "UKSSSC स्नातक स्तरीय (VDO)",
-      "title_english": "UKSSSC Graduate Level",
-      "enabled": true,
-      "total_mocks": 22,
-      "free_mocks": 2,
-      "questions": 100,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    },
-    "uksssc_scaler": {
-      "exam_id": "uksssc_scaler",
-      "title_hindi": "UKSSSC स्केलर (वन विकास निगम)",
-      "title_english": "UKSSSC Scaler",
-      "enabled": true,
-      "total_mocks": 6,
-      "free_mocks": 1,
-      "questions": 100,
-      "duration": 120,
-      "max_video_unlock_mock": 6
-    }
-  },
-  "min_app_version": "1.0.0",
-  "recommended_app_version": "1.0.0",
-  "manifest": {
-    "total_questions": 16134,
-    "files": {
-      "agriculture_questions.json": 172,
-      "computer_questions.json": 273,
-      "current_affairs_questions.json": 2488,
-      "economics_questions.json": 225,
-      "environment_questions.json": 182,
-      "geography_questions.json": 332,
-      "hindi_questions.json": 908,
-      "history_questions.json": 1768,
-      "math_questions.json": 524,
-      "polity_questions.json": 1214,
-      "reasoning_questions.json": 525,
-      "science_questions.json": 707,
-      "uttarakhand_questions.json": 6816
-    }
-  },
-  "total_questions": 16134,
-  "last_updated": "2026-11-13T12:27:08.291183"
+﻿{
+    "version":  "5.0.0",
+    "last_sync":  "2026-11-11T09:15:00+05:30",
+    "home_config":  {
+                        "hero_override":  {
+                                              "enabled":  false,
+                                              "title_hi":  "",
+                                              "title_en":  "",
+                                              "exam_id":  "",
+                                              "post_id":  ""
+                                          },
+                        "badges":  {
+                                       "pyq_papers":  {
+                                                          "tag":  "97 पेपर्स",
+                                                          "detail":  "2012–2026 हल प्रश्न-पत्र",
+                                                          "show_new":  false
+                                                      },
+                                       "mock_tests":  {
+                                                          "tag":  "NEW 🔥",
+                                                          "detail":  "नवीनतम पैटर्न आधारित",
+                                                          "show_new":  true
+                                                      },
+                                       "subject_bank":  {
+                                                            "tag":  "16,234",
+                                                            "detail":  "13 विषयवार प्रश्न बैंक",
+                                                            "show_new":  false
+                                                        },
+                                       "revision":  {
+                                                        "tag":  "SM-2",
+                                                        "detail":  "स्मार्ट रिवीज़न रजिस्टर",
+                                                        "show_new":  false
+                                                    }
+                                   },
+                        "carousel_tags":  {
+                                              "ukpsc_lower_mock_01":  {
+                                                                          "pill":  "100% FREE",
+                                                                          "color":  "green"
+                                                                      },
+                                              "ukpsc_lower_mock_02":  {
+                                                                          "pill":  "100% FREE",
+                                                                          "color":  "green"
+                                                                      },
+                                              "ukpsc_lower_mock_03":  {
+                                                                          "pill":  "🎬 AD UNLOCK",
+                                                                          "color":  "amber"
+                                                                      },
+                                              "ukpsc_lower_mock_04":  {
+                                                                          "pill":  "🎬 AD UNLOCK",
+                                                                          "color":  "amber"
+                                                                      },
+                                              "ukpsc_lower_mock_05":  {
+                                                                          "pill":  "👑 VIP PASS",
+                                                                          "color":  "purple"
+                                                                      }
+                                          }
+                    },
+    "flash_news":  [
+                       {
+                           "id":  "news_current_affairs_nov_2026_live",
+                           "enabled":  true,
+                           "title":  "⚡ उत्तराखंड एवं राष्ट्रीय समसामयिकी (नवंबर 2026): 100 नए प्रश्न लाइव!",
+                           "title_en":  "⚡ Current Affairs Nov 2026: 100 New Questions Live!",
+                           "message":  "उत्तराखंड, राष्ट्रीय व अंतर्राष्ट्रीय समसामयिकी (नवंबर 2026) के 100 नए महत्वपूर्ण प्रश्न समसामयिकी सेक्शन में लाइव कर दिए गए हैं। नए राज्यपाल, राज्य सम्मान, COP31, CCPI 2027 और नोबेल 2026 के प्रश्न हल करें!",
+                           "message_en":  "100 brand-new November 2026 questions covering Uttarakhand appointments, COP31, CCPI 2027, and Nobel 2026 are now live in the Current Affairs section!",
+                           "tag":  "🔥 नवंबर 2026",
+                           "tag_en":  "🔥 Nov 2026",
+                           "post_id":  "current_affairs",
+                           "action_label":  "करेंट अफेयर्स पढ़ें ➔",
+                           "action_label_en":  "Practice Now ➔",
+                           "action_route":  "subject:current_affairs",
+                           "date":  "14 Nov 2026"
+                       },
+                       {
+                           "id":  "news_uksssc_scaler_6_mocks_live",
+                           "enabled":  true,
+                           "title":  "🌲 UKSSSC स्केलर (वन विकास निगम): 6 फुल टेस्ट्स (1 असली 2024 PYQ + 5 मॉडल टेस्ट) लाइव!",
+                           "title_en":  "🌲 UKSSSC Scaler (Forest Dev Corp): 6 Full Tests (1 Real 2024 PYQ + 5 Model Mocks) Live!",
+                           "message":  "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 6 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 असली प्रश्न-पत्र + मॉक #02 से #06: 2026 मॉडल टेस्ट्स) लाइव कर दिए गए हैं। मॉक #01 पूरी तरह फ्री है और बाकी टेस्ट्स वीडियो ऐड देखकर आसानी से अनलॉक कर सकते हैं!",
+                           "message_en":  "6 Full 100-Question Tests (Mock #01: 25 August 2024 Real Solved Paper + Mocks #02-#06: 2026 Model Mocks) are now live for UKSSSC Scaler Exam. Mock #01 is 100% Free and Mocks #02-#06 unlock via video ads!",
+                           "tag":  "🔥 6 स्केलर टेस्ट्स",
+                           "tag_en":  "🔥 6 Scaler Tests",
+                           "post_id":  "uksssc_scaler",
+                           "action_label":  "स्केलर टेस्ट दें ➔",
+                           "action_label_en":  "Take Scaler Tests ➔",
+                           "action_route":  "special_mocks:uksssc_scaler",
+                           "date":  "13 Nov 2026"
+                       },
+                       {
+                           "id":  "news_ukpsc_lower_pcs_5_mocks_live",
+                           "enabled":  true,
+                           "title":  "🎯 UKPSC लोअर पीसीएस: 5 नए आयोग स्तरीय फुल मॉक टेस्ट लाइव!",
+                           "title_en":  "🎯 UKPSC Lower PCS: 5 Brand-New Commission Full Mock Tests Live!",
+                           "message":  "UKPSC अवर अधीनस्थ (Lower PCS) प्रारम्भिक परीक्षा 2026 हेतु नवीनतम सिलेबस व 150-प्रश्नों के पैटर्न पर आधारित 5 नए फुल मॉक टेस्ट्स लाइव कर दिए गए हैं। यूकेपीएससी विगत वर्ष पेपर्स में \u0027अवर अधीनस्थ (Lower PCS)\u0027 सेक्शन देखें!",
+                           "message_en":  "5 brand-new 150-Question Full Mock Tests based on the latest 2026 commission pattern are now live for UKPSC Lower PCS Prelims. Check the Lower PCS section under UKPSC Solved PYQs!",
+                           "tag":  "🔥 5 नए लोअर PCS मॉक",
+                           "tag_en":  "🔥 5 New Lower PCS Mocks",
+                           "post_id":  "ukpsc_combined_pre",
+                           "action_label":  "लोअर PCS मॉक दें ➔",
+                           "action_label_en":  "Take Lower PCS Mocks ➔",
+                           "action_route":  "pyq_tier:lowerPcs",
+                           "date":  "10 Nov 2026"
+                       },
+                       {
+                           "id":  "news_uksssc_2026_special_mocks_live",
+                           "enabled":  true,
+                           "title":  "📢 UKSSSC 2026: नए विशेष मॉडल पेपर लाइव — विशेष मॉडल पेपर सेक्शन में देखें!",
+                           "title_en":  "📢 UKSSSC 2026: New Special Model Papers Live — Check Special Mocks Section!",
+                           "message":  "UKSSSC कनिष्ठ सहायक/12वीं स्तर एवं स्नातक स्तरीय (VDO) परीक्षाओं हेतु नवीनतम 2026 पैटर्न पर आधारित नए 100-प्रश्नों के विशेष मॉडल पेपर्स लाइव कर दिए गए हैं। विस्तृत व्याख्या व सटीक आयोग ब्लूप्रिंट के साथ अभ्यास करने हेतु होम स्क्रीन पर विशेष मॉडल पेपर्स सेक्शन देखें। पहले 2 टेस्ट (मॉक #01 व #02) सभी छात्रों के लिए पूर्णतः निःशुल्क उपलब्ध हैं!",
+                           "message_en":  "Brand-new 100-Question Special Model Papers based on the latest 2026 commission pattern are now live for UKSSSC Junior Assistant / 12th Level and Graduate Level (VDO) exams. Check the Special Model Papers section on the home screen to practice with complete 360 explanations. Mocks #01 \u0026 #02 are 100% Free for all students!",
+                           "tag":  "🔥 नए मॉडल पेपर",
+                           "tag_en":  "🔥 New Mocks Live",
+                           "post_id":  "uksssc_graduate_level",
+                           "action_label":  "",
+                           "action_label_en":  "",
+                           "action_route":  "",
+                           "date":  "06 Nov 2026"
+                       },
+                       {
+                           "id":  "news_uksssc_grad_live",
+                           "enabled":  true,
+                           "title":  "🎓 UKSSSC स्नातक स्तरीय: 14 विशेष मॉडल टेस्ट (2 फ्री टेस्ट)!",
+                           "title_en":  "🎓 UKSSSC Graduate Level (VDO): 14 New Mock Tests (2 Free Mocks)!",
+                           "message":  "14 संपूर्ण 100-प्रश्न मॉडल टेस्ट लाइव हैं। पहले 2 टेस्ट (मॉक #01 व #02) पूर्णतः निःशुल्क उपलब्ध हैं, अभी अभ्यास करें!",
+                           "message_en":  "14 full model papers based on UKSSSC 100-Q syllabus are now live. Mocks #01 \u0026 #02 are 100% Free, practice now!",
+                           "tag":  "🔥 14 नए मॉक लाइव",
+                           "tag_en":  "🔥 14 Mocks Live",
+                           "post_id":  "uksssc_graduate_level",
+                           "action_label":  "स्नातक स्तरीय मॉक देखें ➔",
+                           "action_label_en":  "View Graduate Mocks ➔",
+                           "action_route":  "special_mocks:uksssc_graduate_level",
+                           "date":  "06 Nov 2026"
+                       },
+                       {
+                           "id":  "news_uksssc_inter_live",
+                           "enabled":  true,
+                           "title":  "📜 UKSSSC कनिष्ठ सहायक: 10 विशेष VIP मॉडल टेस्ट लाइव (2 फ्री टेस्ट)!",
+                           "title_en":  "📜 UKSSSC Junior Assistant / Inter Level: 10 Model Tests (2 Free Mocks)!",
+                           "message":  "12वीं स्तरीय कनिष्ठ सहायक परीक्षा हेतु 10 संपूर्ण प्रामाणिक VIP मॉडल पेपर्स लाइव हैं। पहले 2 टेस्ट (मॉक #01 व #02) पूर्णतः निःशुल्क उपलब्ध हैं!",
+                           "message_en":  "10 authentic bilingual model papers for 12th Inter Level Junior Assistant Exam are live. Mocks #01 \u0026 #02 are Free for everyone!",
+                           "tag":  "⚡ 10 इंटर मॉक लाइव",
+                           "tag_en":  "⚡ 10 Mocks Live",
+                           "post_id":  "uksssc_inter_level",
+                           "action_label":  "इंटर स्तरीय मॉक देखें ➔",
+                           "action_label_en":  "View Inter Mocks ➔",
+                           "action_route":  "special_mocks:uksssc_inter_level",
+                           "date":  "06 Nov 2026"
+                       },
+                       {
+                           "id":  "news_360_degree_facts_mastery",
+                           "enabled":  true,
+                           "title":  "🎯 1 प्रश्न से 5 फैक्ट्स तैयार! 360° व्याख्या वाले मॉक",
+                           "title_en":  "🎯 1 Question = 5 Facts! 360° Detailed Mocks",
+                           "message":  "हर प्रश्न के साथ पाएँ पूरी व्याख्या! सिर्फ सही उत्तर ही नहीं, बल्कि उससे जुड़ी ज़रूरी तारीखें, स्थान और मुख्य तथ्य भी सीखें—ताकि 1 सवाल हल करते ही आपके 5 महत्वपूर्ण प्रश्न एक साथ तैयार हो जाएँ!",
+                           "message_en":  "Every question includes a complete explanation! Learn verified dates, places, and key facts behind each answer—so practicing 1 question prepares 5 exam topics at once!",
+                           "tag":  "⚡ 1 प्रश्न = 5 फैक्ट्स",
+                           "tag_en":  "⚡ 1 Q = 5 Facts",
+                           "post_id":  "uk_high_court_clerk",
+                           "action_label":  "मॉक टेस्ट प्रारंभ करें ➔",
+                           "action_label_en":  "Start Mock Test ➔",
+                           "action_route":  "mock:uk_high_court_clerk",
+                           "date":  "16 Oct 2026"
+                       },
+                       {
+                           "id":  "news_hc_clerk_5_free_mocks",
+                           "enabled":  true,
+                           "title":  "उच्च न्यायालय क्लर्क परीक्षा: 5 फ्री 360° मॉक टेस्ट लाइव! अभी अभ्यास करें",
+                           "title_en":  "High Court Clerk Exam: 5 Free 360° Mocks Live! Try Now",
+                           "message":  "उत्तराखंड उच्च न्यायालय क्लर्क व कनिष्ठ सहायक परीक्षा हेतु 5 संपूर्ण 100-प्रश्न मॉडल पेपर्स पूर्णतः निःशुल्क उपलब्ध हैं। विस्तृत व्याख्या व लाइव रैंक के साथ अभी टेस्ट दें!",
+                           "message_en":  "5 Full 100-Question Model Papers for Uttarakhand High Court Clerk Exam are available 100% Free. Practice now with detailed explanations and live rank!",
+                           "tag":  "⚡ 5 फ्री मॉक टेस्ट",
+                           "tag_en":  "⚡ 5 Free Mocks",
+                           "post_id":  "uk_high_court_clerk",
+                           "action_label":  "मॉक टेस्ट प्रारंभ करें ➔",
+                           "action_label_en":  "Start Mock Test ➔",
+                           "action_route":  "mock:uk_high_court_clerk",
+                           "date":  "16 Oct 2026"
+                       },
+                       {
+                           "id":  "news_guru_vip_pass_ticker",
+                           "enabled":  true,
+                           "title":  "👑 गुरु प्लस VIP पास: सभी 45 आयोग पेपर्स व बुकलेट्स अनलॉक करें",
+                           "title_en":  "👑 Guru Plus VIP Pass: Unlock All 45 Papers \u0026 Booklets",
+                           "message":  "समस्त 13 विषयों के आधिकारिक PYQ बुकलेट्स और विशेष VIP मॉक टेस्ट तुरंत अनलॉक करें। 100% विज्ञापन-मुक्त CBT अनुभव।",
+                           "message_en":  "Instantly unlock all 13 subject official PYQ booklets and exclusive VIP mock tests. 100% ad-free CBT experience.",
+                           "tag":  "👑 VIP पास",
+                           "tag_en":  "👑 VIP PASS",
+                           "is_vip":  true,
+                           "action_label":  "VIP अनलॉक करें ➔",
+                           "action_label_en":  "Unlock VIP ➔",
+                           "action_route":  "guru_plus",
+                           "date":  "16 Oct 2026"
+                       }
+                   ],
+    "special_flash":  [
+                          {
+                              "id":  "special_uksssc_2026_new_mocks_banner",
+                              "enabled":  true,
+                              "title":  "UKSSSC 2026: नए विशेष मॉडल पेपर्स लाइव!",
+                              "title_en":  "UKSSSC 2026: New Special Model Papers Live!",
+                              "message":  "कनिष्ठ सहायक एवं स्नातक स्तरीय परीक्षाओं हेतु नवीनतम 2026 ब्लूप्रिंट पर आधारित नए 100-प्रश्न मॉडल पेपर्स लाइव हैं। होम स्क्रीन पर विशेष मॉडल पेपर्स सेक्शन में अभी देखें — पहले 2 टेस्ट (मॉक #01 व #02) पूर्णतः निःशुल्क!",
+                              "message_en":  "New 100-Question Model Papers based on the latest 2026 blueprint are live for Junior Assistant and Graduate Level exams. Explore now in Special Model Papers section on home screen — Mocks #01 \u0026 #02 Free!",
+                              "type":  "special",
+                              "tag":  "🔥 नए मॉडल पेपर",
+                              "tag_en":  "🔥 New Mocks Live",
+                              "post_id":  "uksssc_graduate_level",
+                              "action_label":  "",
+                              "action_label_en":  "",
+                              "action_route":  "",
+                              "exam_date":  "2026"
+                          },
+                          {
+                              "id":  "special_uksssc_grad_banner",
+                              "enabled":  true,
+                              "title":  "UKSSSC स्नातक स्तरीय (VDO/VPDO)",
+                              "title_en":  "UKSSSC Graduate Level (VDO/VPDO)",
+                              "message":  "14 नए 100-प्रश्न संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट लाइव हैं! पहले 2 टेस्ट (मॉक #01 व #02) फ्री उपलब्ध हैं।",
+                              "message_en":  "14 New 100-Question Comprehensive Model Papers are live! Mocks #01 \u0026 #02 are Free.",
+                              "type":  "special",
+                              "tag":  "🔥 14 VDO MOCK",
+                              "tag_en":  "🔥 14 VDO MOCK",
+                              "action_label":  "मॉक टेस्ट दें ➔",
+                              "action_label_en":  "Take Mock Test ➔",
+                              "action_route":  "special_mocks:uksssc_graduate_level",
+                              "post_id":  "uksssc_graduate_level"
+                          },
+                          {
+                              "id":  "special_hc_clerk_mock_slide",
+                              "enabled":  true,
+                              "title":  "उच्च न्यायालय क्लर्क \u0026 कनिष्ठ सहायक",
+                              "title_en":  "High Court Clerk \u0026 Jr. Assistant",
+                              "message":  "उच्च न्यायालय क्लर्क परीक्षा हेतु 5 नए 140Q संपूर्ण व्याख्या युक्त विशेष मॉडल टेस्ट उपलब्ध हैं। अजय रावत, NCERT एवं विधिक शब्दावली आधारित!",
+                              "message_en":  "5 New 140Q Comprehensive Special Model Papers live for High Court Clerk Exam. Master key concepts with full explanations!",
+                              "type":  "special",
+                              "tag":  "🔥 विशेष मॉडल टेस्ट",
+                              "tag_en":  "🔥 SPECIAL MOCK",
+                              "exam_date":  "2026",
+                              "post_id":  "uk_high_court_clerk",
+                              "action_label":  "विशेष मॉक देखें ➔",
+                              "action_label_en":  "View Special Mocks ➔",
+                              "action_route":  "special_mocks:uk_high_court_clerk",
+                              "total_questions":  140,
+                              "duration_minutes":  150,
+                              "is_vip":  false
+                          },
+                          {
+                              "id":  "special_guru_vip_mock_pass_slide",
+                              "enabled":  true,
+                              "title":  "गुरु प्लस VIP टेस्ट पास 👑",
+                              "title_en":  "Guru Plus VIP Test Pass 👑",
+                              "message":  "समस्त 13 विषयों के आधिकारिक PYQ बुकलेट्स और विशेष VIP मॉक टेस्ट तुरंत अनलॉक करें। 100% विज्ञापन-मुक्त CBT अनुभव।",
+                              "message_en":  "Instantly unlock all 13 subject official PYQ booklets and exclusive VIP mock tests. 100% ad-free CBT experience.",
+                              "type":  "special",
+                              "tag":  "👑 VIP पास",
+                              "tag_en":  "👑 VIP PASS",
+                              "exam_date":  "2026",
+                              "post_id":  "uk_high_court_clerk",
+                              "action_label":  "VIP अनलॉक करें ➔",
+                              "action_label_en":  "Unlock VIP ➔",
+                              "action_route":  "guru_plus",
+                              "total_questions":  100,
+                              "duration_minutes":  120,
+                              "is_vip":  true
+                          },
+                          {
+                              "id":  "special_360_degree_facts_mastery_slide",
+                              "enabled":  true,
+                              "title":  "🎯 1 प्रश्न से 5 फैक्ट्स तैयार! 360° व्याख्या वाले मॉक",
+                              "title_en":  "🎯 1 Question = 5 Facts! 360° Detailed Mocks",
+                              "message":  "हर प्रश्न के साथ पाएँ पूरी व्याख्या! सिर्फ सही उत्तर ही नहीं, बल्कि उससे जुड़ी ज़रूरी तारीखें, स्थान और मुख्य तथ्य भी सीखें—ताकि 1 सवाल हल करते ही आपके 5 महत्वपूर्ण प्रश्न एक साथ तैयार हो जाएँ!",
+                              "message_en":  "Every question includes a complete explanation! Learn verified dates, places, and key facts behind each answer—so practicing 1 question prepares 5 exam topics at once!",
+                              "type":  "update",
+                              "tag":  "⚡ 1 प्रश्न = 5 फैक्ट्स",
+                              "tag_en":  "⚡ 1 Q = 5 Facts",
+                              "exam_date":  "2026",
+                              "post_id":  "uk_high_court_clerk",
+                              "action_label":  "मॉक शुरू करें ➔",
+                              "action_label_en":  "Start Mock ➔",
+                              "action_route":  "mock:uk_high_court_clerk",
+                              "total_questions":  100,
+                              "duration_minutes":  120,
+                              "is_vip":  false
+                          }
+                      ],
+    "mock_access_policy":  {
+                               "default_free_mocks_per_exam":  2,
+                               "exam_free_limits":  {
+                                                        "uk_high_court_clerk":  2,
+                                                        "uksssc_inter_level":  2,
+                                                        "uk_sub_inspector":  2,
+                                                        "uk_police_constable":  2,
+                                                        "ukpsc_upper_pcs":  2,
+                                                        "uksssc_graduate_level":  2,
+                                                        "uksssc_scaler":  6
+                                                    },
+                               "default_max_video_unlock_mock":  6,
+                               "exam_video_unlock_limits":  {
+                                                                "uk_high_court_clerk":  6,
+                                                                "uksssc_inter_level":  6,
+                                                                "uk_sub_inspector":  6,
+                                                                "uk_police_constable":  6,
+                                                                "ukpsc_upper_pcs":  6,
+                                                                "uksssc_graduate_level":  6,
+                                                                "uksssc_scaler":  6
+                                                            },
+                               "exam_free_mocks":  {
+                                                       "uksssc_scaler":  1
+                                                   }
+                           },
+    "subject_access_policy":  {
+                                  "free_subjects":  [
+                                                        "uttarakhand_gk",
+                                                        "general_hindi",
+                                                        "current_affairs",
+                                                        "history",
+                                                        "polity",
+                                                        "geography",
+                                                        "economics",
+                                                        "science",
+                                                        "environment",
+                                                        "math",
+                                                        "computer",
+                                                        "reasoning",
+                                                        "agriculture"
+                                                    ],
+                                  "paid_subjects":  [
+
+                                                    ],
+                                  "default_free_sets_per_subject":  5,
+                                  "default_max_video_unlock_set":  10,
+                                  "subject_free_sets":  {
+                                                            "uttarakhand_gk":  5,
+                                                            "general_hindi":  5,
+                                                            "current_affairs":  5,
+                                                            "history":  5,
+                                                            "polity":  5,
+                                                            "geography":  5,
+                                                            "economics":  5,
+                                                            "science":  5,
+                                                            "environment":  5,
+                                                            "math":  5,
+                                                            "computer":  5,
+                                                            "reasoning":  5,
+                                                            "agriculture":  5
+                                                        }
+                              },
+    "exam_mock_catalog":  {
+                              "uk_high_court_clerk":  {
+                                                          "exam_id":  "uk_high_court_clerk",
+                                                          "title_hindi":  "उच्च न्यायालय कनिष्ठ सहायक",
+                                                          "title_english":  "High Court Junior Assistant",
+                                                          "enabled":  true,
+                                                          "total_mocks":  6,
+                                                          "free_mocks":  2,
+                                                          "questions":  140,
+                                                          "duration":  150,
+                                                          "max_video_unlock_mock":  6
+                                                      },
+                              "uksssc_inter_level":  {
+                                                         "exam_id":  "uksssc_inter_level",
+                                                         "title_hindi":  "UKSSSC कनिष्ठ सहायक / 12th",
+                                                         "title_english":  "UKSSSC Junior Assistant",
+                                                         "enabled":  true,
+                                                         "total_mocks":  21,
+                                                         "free_mocks":  2,
+                                                         "questions":  100,
+                                                         "duration":  120,
+                                                         "max_video_unlock_mock":  6
+                                                     },
+                              "uk_sub_inspector":  {
+                                                       "exam_id":  "uk_sub_inspector",
+                                                       "title_hindi":  "उत्तराखंड पुलिस उपनिरीक्षक (SI)",
+                                                       "title_english":  "Police SI",
+                                                       "enabled":  false,
+                                                       "total_mocks":  15,
+                                                       "free_mocks":  2,
+                                                       "questions":  150,
+                                                       "duration":  150,
+                                                       "max_video_unlock_mock":  6
+                                                   },
+                              "uk_police_constable":  {
+                                                          "exam_id":  "uk_police_constable",
+                                                          "title_hindi":  "उत्तराखण्ड पुलिस आरक्षी",
+                                                          "title_english":  "Police Constable",
+                                                          "enabled":  true,
+                                                          "total_mocks":  15,
+                                                          "free_mocks":  2,
+                                                          "questions":  100,
+                                                          "duration":  120,
+                                                          "max_video_unlock_mock":  6
+                                                      },
+                              "ukpsc_combined_pre":  {
+                                                         "exam_id":  "ukpsc_combined_pre",
+                                                         "title_hindi":  "UKPSC अवर अधीनस्थ (Lower PCS)",
+                                                         "title_english":  "UKPSC Lower PCS Pre",
+                                                         "enabled":  true,
+                                                         "total_mocks":  10,
+                                                         "free_mocks":  2,
+                                                         "questions":  150,
+                                                         "duration":  120,
+                                                         "max_video_unlock_mock":  6
+                                                     },
+                              "ukpsc_upper_pcs":  {
+                                                      "exam_id":  "ukpsc_upper_pcs",
+                                                      "title_hindi":  "UKPSC प्रवर अधीनस्थ (Upper PCS)",
+                                                      "title_english":  "Upper PCS Prelims",
+                                                      "enabled":  true,
+                                                      "total_mocks":  10,
+                                                      "free_mocks":  2,
+                                                      "questions":  150,
+                                                      "duration":  120,
+                                                      "max_video_unlock_mock":  6
+                                                  },
+                              "ukpsc_ro_aro":  {
+                                                   "exam_id":  "ukpsc_ro_aro",
+                                                   "title_hindi":  "UKPSC समीक्षा अधिकारी (RO/ARO)",
+                                                   "title_english":  "UKPSC RO / ARO Exam",
+                                                   "enabled":  true,
+                                                   "total_mocks":  10,
+                                                   "free_mocks":  2,
+                                                   "questions":  150,
+                                                   "duration":  120,
+                                                   "max_video_unlock_mock":  6
+                                               },
+                              "uksssc_graduate":  {
+                                                      "exam_id":  "uksssc_graduate",
+                                                      "title_hindi":  "UKSSSC स्नातक स्तरीय (VDO)",
+                                                      "title_english":  "UKSSSC Graduate Level",
+                                                      "enabled":  true,
+                                                      "total_mocks":  22,
+                                                      "free_mocks":  2,
+                                                      "questions":  100,
+                                                      "duration":  120,
+                                                      "max_video_unlock_mock":  6
+                                                  },
+                              "uksssc_scaler":  {
+                                                    "exam_id":  "uksssc_scaler",
+                                                    "title_hindi":  "UKSSSC स्केलर (वन विकास निगम)",
+                                                    "title_english":  "UKSSSC Scaler",
+                                                    "enabled":  true,
+                                                    "total_mocks":  6,
+                                                    "free_mocks":  1,
+                                                    "questions":  100,
+                                                    "duration":  120,
+                                                    "max_video_unlock_mock":  6
+                                                }
+                          },
+    "min_app_version":  "1.0.0",
+    "recommended_app_version":  "1.0.0",
+    "manifest":  {
+                     "total_questions":  16234,
+                     "files":  {
+                                   "agriculture_questions.json":  172,
+                                   "computer_questions.json":  273,
+                                   "current_affairs_questions.json":  2588,
+                                   "economics_questions.json":  225,
+                                   "environment_questions.json":  182,
+                                   "geography_questions.json":  332,
+                                   "hindi_questions.json":  908,
+                                   "history_questions.json":  1768,
+                                   "math_questions.json":  524,
+                                   "polity_questions.json":  1214,
+                                   "reasoning_questions.json":  525,
+                                   "science_questions.json":  707,
+                                   "uttarakhand_questions.json":  6816
+                               }
+                 },
+    "total_questions":  16234,
+    "last_updated":  "2026-11-14T16:41:08.615279"
 }
