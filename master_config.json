@@ -465,5 +465,37 @@
                                }
                  },
     "total_questions":  16234,
-    "last_updated":  "2026-11-14T16:41:08.615279"
+    "last_updated":  "2026-11-14T16:41:08.615279",
+    "ca_monthly_sets":  {
+                            "1":  {
+                                      "title_hi":  "नवंबर 2026 (भाग 1: अंतर्राष्ट्रीय व नोबेल)",
+                                      "title_en":  "Nov 2026 (Part 1: Global \u0026 Nobel)",
+                                      "month":  "नवंबर 2026",
+                                      "questions":  25
+                                  },
+                            "2":  {
+                                      "title_hi":  "नवंबर 2026 (भाग 2: राष्ट्रीय समसामयिकी व रक्षा)",
+                                      "title_en":  "Nov 2026 (Part 2: National \u0026 Defence)",
+                                      "month":  "नवंबर 2026",
+                                      "questions":  25
+                                  },
+                            "3":  {
+                                      "title_hi":  "नवंबर 2026 (भाग 3: राज्य व राष्ट्रीय नीतियां)",
+                                      "title_en":  "Nov 2026 (Part 3: Schemes \u0026 Policies)",
+                                      "month":  "नवंबर 2026",
+                                      "questions":  25
+                                  },
+                            "4":  {
+                                      "title_hi":  "नवंबर 2026 (भाग 4: उत्तराखंड विशेष — राज्यपाल, पोर्टल व GLOF)",
+                                      "title_en":  "Nov 2026 (Part 4: UK Special - Governor \u0026 GLOF)",
+                                      "month":  "नवंबर 2026",
+                                      "questions":  25
+                                  },
+                            "5":  {
+                                      "title_hi":  "अक्टूबर 2026 (विशेष संकलन)",
+                                      "title_en":  "Oct 2026 (Special Edition)",
+                                      "month":  "अक्टूबर 2026",
+                                      "questions":  25
+                                  }
+                        }
 }
