@@ -1,6 +1,6 @@
 ﻿{
     "version":  "5.0.0",
-    "last_sync":  "2026-11-16T21:55:09Z",
+    "last_sync":  "2026-11-17T05:29:23Z",
     "home_config":  {
                         "hero_override":  {
                                               "enabled":  false,
@@ -78,9 +78,9 @@
                                                                      "tab_title_en":  "Upper PCS",
                                                                      "exam_title_hi":  "UKPSC प्रवर अधीनस्थ (Upper PCS) 2026",
                                                                      "exam_title_en":  "UKPSC Upper PCS Prelims 2026",
-                                                                     "subtitle_hi":  "आयोग पैटर्न आधारित नवीनतम मॉडल मॉक टेस्ट (सामान्य अध्ययन)",
-                                                                     "subtitle_en":  "Latest Commission Pattern Model Mock Tests (General Studies)",
-                                                                     "exam_date":  "2026-12-28",
+                                                                     "subtitle_hi":  "आयोग परीक्षा: 29 नवम्बर 2026 • 150 प्रश्न मॉडल टेस्ट (सामान्य अध्ययन)",
+                                                                     "subtitle_en":  "Commission Exam: 29 Nov 2026 • 150 Qs Model Mock (General Studies)",
+                                                                     "exam_date":  "2026-11-29",
                                                                      "post_id":  "ukpsc_upper_pcs",
                                                                      "items":  [
                                                                                    {
@@ -536,7 +536,7 @@
                                }
                  },
     "total_questions":  16334,
-    "last_updated":  "2026-11-16T21:55:09Z",
+    "last_updated":  "2026-11-17T05:29:23Z",
     "ca_monthly_sets":  {
                             "1":  {
                                       "title_hi":  "नवंबर 2026 (भाग 1: अंतर्राष्ट्रीय व नोबेल)",
