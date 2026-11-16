@@ -1,6 +1,6 @@
 {
   "version": "5.0.0",
-  "last_sync": "2026-11-16T11:14:29.580Z",
+  "last_sync": "2026-11-16T11:25:10.348Z",
   "home_config": {
     "hero_override": {
       "enabled": false,
@@ -67,7 +67,7 @@
       "post_id": "current_affairs",
       "action_label": "करेंट अफेयर्स मॉक दें ➔",
       "action_label_en": "Take CA Mock ➔",
-      "action_route": "subject:current_affairs",
+      "action_route": "practice:current_affairs",
       "date": "16 Nov 2026"
     },
     {
@@ -478,7 +478,7 @@
     }
   },
   "total_questions": 16334,
-  "last_updated": "2026-11-16T11:14:29.576Z",
+  "last_updated": "2026-11-16T11:25:10.347Z",
   "ca_monthly_sets": {
     "1": {
       "title_hi": "नवंबर 2026 (भाग 1: अंतर्राष्ट्रीय व नोबेल)",
