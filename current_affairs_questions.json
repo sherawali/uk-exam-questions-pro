@@ -76338,14 +76338,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 100,
         "category": "उत्तराखंड एवं राष्ट्रीय समसामयिकी",
-        "question_en": "[Q100] उत्तराखंड के देहरादून स्थित किस संस्थान ने 'समान नागरिक संहिता' और 'वनाग्नि/हिमालयी पारिस्थितिकी' जैसे विषयों पर नीतिगत शोध के साथ-साथ राज्य के 'वन सर्वेक्षण और जैव विविधता संरक्षण' में प्रमुख भूमिका निभाई है, जिसे 'भारतीय वानिकी अनुसंधान एवं शिक्षा परिषद' (ICFRE) के मुख्यालय के रूप में जाना जाता है?",
+        "question_en": "Which premier institution located in Dehradun, Uttarakhand, serves as the headquarters of the 'Indian Council of Forestry Research and Education' (ICFRE) and plays a pivotal role in policy research on Himalayan forest ecology, forest fire management, and biodiversity conservation?",
         "options_en": [
           "Forest Research Institute (FRI), Dehradun",
           "Wadia Institute of Himalayan Geology, Dehradun",
-          "भारतीय सुदूर संवेदन संस्थान (IIRS), देहरादून",
-          "भारतीय सैन्य अकादमी (IMA), देहरादून"
+          "Indian Institute of Remote Sensing (IIRS), Dehradun",
+          "Indian Military Academy (IMA), Dehradun"
         ],
-        "explanation_en": "Explanation for Q100: वन अनुसंधान संस्थान (FRI - Forest Research Institute), देहरादून भारतीय वानिकी अनुसंधान एवं शिक्षा परिषद (ICFRE) का मुख्यालय है, जो हिमालयी वन पारिस्थि..."
+        "explanation_en": "The Forest Research Institute (FRI), Dehradun serves as the headquarters of the Indian Council of Forestry Research and Education (ICFRE) and is India's premier institution for Himalayan forestry ecology, forest fire mitigation, and biodiversity conservation."
       }
     },
     {
@@ -76375,14 +76375,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 99,
         "category": "अंतरिक्ष एवं मानव मिशन",
-        "question_en": "[Q99] भारत के पहले मानव अंतरिक्ष उड़ान कार्यक्रम 'गगनयान' (Gaganyaan) के लिए चयनित चार अंतरिक्ष यात्री नामितों (Astronaut Designates) में निम्नलिखित में से कौन शामिल हैं?\n1. ग्रुप कैप्टन प्रशांत बालकृष्णन नायर\n2. ग्रुप कैप्टन अजीत कृष्णन\n3. ग्रुप कैप्टन अंगद प्रताप\n4. विंग कमांडर शुभांशु शुक्ला\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनें:",
+        "question_en": "Who among the following are included in the four Astronaut-Designates selected for India's maiden human spaceflight mission 'Gaganyaan'?\n1. Group Captain Prashanth Balakrishnan Nair\n2. Group Captain Ajit Krishnan\n3. Group Captain Angad Prathap\n4. Wing Commander Shubhanshu Shukla\n\nSelect the correct answer using the code given below:",
         "options_en": [
-          "केवल 1 और 4",
-          "केवल 1, 2 और 3",
-          "केवल 2, 3 और 4",
-          "1, 2, 3 और 4"
+          "1 and 4 only",
+          "1, 2 and 3 only",
+          "2, 3 and 4 only",
+          "1, 2, 3 and 4"
         ],
-        "explanation_en": "Explanation for Q99: भारतीय वायुसेना के ये चारों अधिकारी (प्रशांत बालकृष्णन नायर, अजीत कृष्णन, अंगद प्रताप और शुभांशु शुक्ला) गगनयान मिशन के लिए चुने गए अंतरिक्ष यात्री है..."
+        "explanation_en": "All four officers from the Indian Air Force (IAF)—Group Captain Prashanth Balakrishnan Nair, Group Captain Ajit Krishnan, Group Captain Angad Prathap, and Wing Commander Shubhanshu Shukla—were unveiled as Gaganyaan astronaut designates. Wing Commander Shubhanshu Shukla was additionally designated to fly to the International Space Station (ISS) under the Axiom-4 mission."
       }
     },
     {
@@ -76412,14 +76412,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 98,
         "category": "विज्ञान एवं स्वास्थ्य",
-        "question_en": "[Q98] विश्व स्वास्थ्य संगठन (WHO) द्वारा वर्ष 2024 में किन बीमारियों के उन्मूलन या सार्वजनिक स्वास्थ्य समस्या से मुक्ति के लिए भारत की उपलब्धियों को मान्यता दी गई?",
+        "question_en": "The World Health Organization (WHO) in 2024 officially validated India for the elimination of which disease as a public health problem?",
         "options_en": [
-          "ट्रेकोमा (Trachoma - आंखों का संक्रमण)",
-          "मलेरिया",
-          "तपेदिक (TB)",
-          "डेंगू"
+          "Trachoma (bacterial eye infection)",
+          "Malaria",
+          "Tuberculosis (TB)",
+          "Dengue"
         ],
-        "explanation_en": "Explanation for Q98: अक्टूबर 2024 में विश्व स्वास्थ्य संगठन (WHO) ने आधिकारिक रूप से घोषणा की कि भारत ने सार्वजनिक स्वास्थ्य समस्या के रूप में 'ट्रेकोमा' (Trachoma) का उन्..."
+        "explanation_en": "In October 2024, the World Health Organization (WHO) officially validated that India has eliminated Trachoma as a public health problem, making India the third country in the WHO South-East Asia Region (after Nepal and Myanmar) to achieve this milestone."
       }
     },
     {
@@ -76449,14 +76449,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 97,
         "category": "भारतीय राजव्यवस्था एवं चुनाव",
-        "question_en": "[Q97] 18वीं लोकसभा के अध्यक्ष (Speaker) के रूप में निम्नलिखित में से किसे निर्वाचित किया गया?",
+        "question_en": "Who among the following was elected as the Speaker of the 18th Lok Sabha?",
         "options_en": [
-          "ओम बिरला",
-          "भर्तृहरि महताब",
-          "के. सुरेश",
-          "हरिवंश नारायण सिंह"
+          "Om Birla",
+          "Bhartruhari Mahtab",
+          "K. Suresh",
+          "Harivansh Narayan Singh"
         ],
-        "explanation_en": "Explanation for Q97: राजस्थान के कोटा से सांसद ओम बिरला को 17वीं लोकसभा के बाद लगातार दूसरी बार 18वीं लोकसभा का अध्यक्ष (Speaker) निर्वाचित किया गया (जबकि भर्तृहरि महताब न..."
+        "explanation_en": "Om Birla, Member of Parliament from Kota, Rajasthan, was re-elected as the Speaker of the 18th Lok Sabha for a second consecutive term (while Bhartruhari Mahtab served as the Pro-tem Speaker)."
       }
     },
     {
@@ -76486,14 +76486,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 96,
         "category": "पर्यावरण एवं ऊर्जा संक्रमण",
-        "question_en": "[Q96] भारत सरकार द्वारा वर्ष 2030 तक गैर-जीवाश्म ईंधन (Non-Fossil Fuel) स्रोतों से कितने गीगावाट (GW) विद्युत क्षमता स्थापित करने का राष्ट्रीय लक्ष्य निर्धारित किया गया है?",
+        "question_en": "What national target has been set by the Government of India for installed electric power capacity from non-fossil fuel sources by the year 2030?",
         "options_en": [
-          "250 गीगावाट",
-          "500 गीगावाट",
-          "350 गीगावाट",
-          "750 गीगावाट"
+          "250 GW",
+          "500 GW",
+          "350 GW",
+          "750 GW"
         ],
-        "explanation_en": "Explanation for Q96: भारत ने पंचामृत जलवायु लक्ष्यों के तहत वर्ष 2030 तक गैर-जीवाश्म ईंधन स्रोतों से 500 गीगावाट स्थापित विद्युत क्षमता प्राप्त करने तथा वर्ष 2070 तक नेट-ज..."
+        "explanation_en": "Under its 'Panchamrit' climate pledges, India has committed to achieving 500 Gigawatts (GW) of installed cumulative electric power generation capacity from non-fossil energy sources by 2030, and reaching Net-Zero emissions by 2070."
       }
     },
     {
@@ -76523,14 +76523,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 95,
         "category": "अंतर्राष्ट्रीय संबंध एवं पड़ोसी देश",
-        "question_en": "[Q95] बांग्लादेश में अगस्त 2024 के राजनीतिक घटनाक्रम के बाद गठित अंतरिम सरकार के मुख्य सलाहकार (Chief Adviser) के रूप में किसने पदभार संभाला?",
+        "question_en": "Following the political developments in Bangladesh in August 2024, who assumed office as the Chief Adviser of the interim government?",
         "options_en": [
-          "प्रो. मुहम्मद यूनुस",
-          "फखरुल इस्लाम आलमगीर",
-          "तारिक रहमान",
-          "कमाल हुसैन"
+          "Prof. Muhammad Yunus",
+          "Fakhrul Islam Alamgir",
+          "Tarique Rahman",
+          "Kamal Hossain"
         ],
-        "explanation_en": "Explanation for Q95: ग्रामीण बैंक के संस्थापक और 2006 के नोबेल शांति पुरस्कार विजेता अर्थशास्त्री प्रो. मुहम्मद यूनुस ने अगस्त 2024 में बांग्लादेश की अंतरिम सरकार के मुख्य..."
+        "explanation_en": "Nobel Peace Prize laureate (2006) and founder of Grameen Bank, Prof. Muhammad Yunus, was sworn in as the Chief Adviser (head) of Bangladesh's interim government in August 2024."
       }
     },
     {
@@ -76560,14 +76560,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 94,
         "category": "भारतीय अर्थव्यवस्था एवं ऊर्जा",
-        "question_en": "[Q94] भारत की सबसे बड़ी 'तैरती सौर ऊर्जा परियोजना' (Floating Solar Power Project) के संदर्भ में निम्नलिखित में से कौन-सा स्थान प्रसिद्ध है?",
+        "question_en": "With reference to India's major 'Floating Solar Power Projects', which of the following locations is prominently known?",
         "options_en": [
-          "ओंकारेश्वर बांध (नर्मदा नदी, मध्य प्रदेश) एवं रामागुंडम (तेलंगाना)",
-          "भाखड़ा नांगल बांध (हिमाचल प्रदेश)",
-          "हीराकुंड बांध (ओडिशा)",
-          "सरदार सरोवर बांध (गुजरात)"
+          "Omkareshwar Dam (Narmada River, Madhya Pradesh) and Ramagundam (Telangana)",
+          "Bhakra Nangal Dam (Himachal Pradesh)",
+          "Hirakud Dam (Odisha)",
+          "Sardar Sarovar Dam (Gujarat)"
         ],
-        "explanation_en": "Explanation for Q94: मध्य प्रदेश के खंडवा जिले में नर्मदा नदी पर स्थित ओंकारेश्वर फ्लोटिंग सोलर प्रोजेक्ट तथा तेलंगाना में एनटीपीसी की रामागुंडम फ्लोटिंग सोलर परियोजना भार..."
+        "explanation_en": "The Omkareshwar Floating Solar Project on the Narmada River in Khandwa district of Madhya Pradesh and NTPC's Ramagundam Floating Solar Project in Telangana are among India's largest landmark floating solar power installations."
       }
     },
     {
@@ -76597,14 +76597,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 93,
         "category": "भारतीय भूगोल एवं बंदरगाह",
-        "question_en": "[Q93] भारत के पहले ट्रांसशिपमेंट कंटेनर पोर्ट के रूप में विकसित 'विझिंजम अंतर्राष्ट्रीय बंदरगाह' (Vizhinjam International Seaport) किस राज्य में स्थित है?",
+        "question_en": "In which state is the 'Vizhinjam International Seaport', developed as India's first dedicated transshipment container port, located?",
         "options_en": [
-          "केरल",
-          "तमिलनाडु",
-          "आंध्र प्रदेश",
-          "महाराष्ट्र"
+          "Kerala",
+          "Tamil Nadu",
+          "Andhra Pradesh",
+          "Maharashtra"
         ],
-        "explanation_en": "Explanation for Q93: तिरुवनंतपुरम के निकट केरल में स्थित विझिंजम अंतर्राष्ट्रीय बंदरगाह भारत का पहला समर्पित डीप-वाटर कंटेनर ट्रांसशिपमेंट पोर्ट है, जो अंतर्राष्ट्रीय शिपि..."
+        "explanation_en": "Located near Thiruvananthapuram in Kerala, Vizhinjam International Seaport is India's first deep-water transshipment container port, strategically positioned close to international east-west shipping routes to drastically cut dependency on foreign transshipment hubs."
       }
     },
     {
@@ -76634,14 +76634,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 92,
         "category": "राष्ट्रीय विज्ञान पुरस्कार",
-        "question_en": "[Q92] भारत सरकार द्वारा स्थापित नए राष्ट्रीय विज्ञान पुरस्कारों के अंतर्गत सर्वोच्च सम्मान 'विज्ञान रत्न' (Vigyan Ratna) का प्रथम पुरस्कार किसे प्रदान किया गया?",
+        "question_en": "Under the newly instituted Rashtriya Vigyan Puraskar by the Government of India, who was conferred the inaugural and highest honor, 'Vigyan Ratna'?",
         "options_en": [
-          "प्रो. गोविंदराजन पद्मनाभन (जैव रसायन विज्ञानी)",
-          "डॉ. एस. सोमनाथ",
-          "डॉ. टेसी थॉमस",
-          "प्रो. सी.एन.आर. राव"
+          "Prof. Govindarajan Padmanabhan (Biochemist)",
+          "Dr. S. Somanath",
+          "Dr. Tessy Thomas",
+          "Prof. C.N.R. Rao"
         ],
-        "explanation_en": "Explanation for Q92: भारत सरकार द्वारा 2024 में प्रारंभ किए गए 'राष्ट्रीय विज्ञान पुरस्कार' की चार श्रेणियों (विज्ञान रत्न, विज्ञान श्री, विज्ञान युवा, विज्ञान टीम) में प्..."
+        "explanation_en": "Under the Rashtriya Vigyan Puraskar (comprising Vigyan Ratna, Vigyan Shri, Vigyan Yuva, and Vigyan Team), the maiden Vigyan Ratna award for lifetime achievement in science and technology was conferred upon eminent biochemist and former Director of IISc Bengaluru, Prof. Govindarajan Padmanabhan."
       }
     },
     {
@@ -76671,14 +76671,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 91,
         "category": "खेल एवं क्रिकेट",
-        "question_en": "[Q91] आईसीसी चैंपियंस ट्रॉफी 2025 (ICC Champions Trophy 2025) के संबंध में Consider the following statements:\n1. भारतीय क्रिकेट टीम ने फाइनल में न्यूजीलैंड को हराकर तीसरी बार चैंपियंस ट्रॉफी का खिताब जीता।\n2. इस टूर्नामेंट में भारत के सभी मैच हाइब्रिड मॉडल के तहत दुबई (UAE) में खेले गए।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the ICC Champions Trophy 2025, consider the following statements:\n1. The Indian cricket team defeated New Zealand in the final to win the Champions Trophy title for the third time.\n2. Under a hybrid hosting model, all of India's matches were played in Dubai (UAE).\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q91: दोनों कथन सत्य हैं। मार्च 2025 में रोहित शर्मा की कप्तानी में भारत ने दुबई में खेले गए फाइनल में न्यूजीलैंड को 4 विकेट से पराजित कर 2002 और 2013 के बा..."
+        "explanation_en": "Both statements are correct. In March 2025, under Rohit Sharma's captaincy, India defeated New Zealand by 4 wickets in the final in Dubai to lift their third ICC Champions Trophy title (previously won in 2002 [jointly] and 2013)."
       }
     },
     {
@@ -76708,14 +76708,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 90,
         "category": "अंतर्राष्ट्रीय पुरस्कार",
-        "question_en": "[Q90] वर्ष 2024 का नोबेल शांति पुरस्कार किस जापानी संगठन को परमाणु हथियारों से मुक्त विश्व प्राप्त करने के प्रयासों और परमाणु बम विस्फोट से बचे लोगों (हिबाकुशा) के अनुभवों को साझा करने के लिए प्रदान किया गया?",
+        "question_en": "The 2024 Nobel Peace Prize was awarded to which Japanese grassroots organization for its tireless efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony from atomic bomb survivors (Hibakusha) that nuclear weapons must never be used again?",
         "options_en": [
-          "निहोन हिदांक्यो (Nihon Hidankyo)",
-          "मेडिसिन्स सैन्स फ्रंटियर्स",
-          "इंटरनेशनल कैंपेन टू एबोलिश न्यूक्लियर वेपन्स (ICAN)",
-          "जापान रेड क्रॉस सोसाइटी"
+          "Nihon Hidankyo",
+          "Médecins Sans Frontières",
+          "International Campaign to Abolish Nuclear Weapons (ICAN)",
+          "Japanese Red Cross Society"
         ],
-        "explanation_en": "Explanation for Q90: हिरोशिमा और नागासाकी के परमाणु बम विस्फोटों से बचे लोगों (Hibakusha) के जमीनी आंदोलन 'निहोन हिदांक्यो' को 2024 का नोबेल शांति पुरस्कार प्रदान किया गया..."
+        "explanation_en": "The 2024 Nobel Peace Prize was awarded to Nihon Hidankyo, the grassroots confederation of atomic bomb survivors (Hibakusha) from Hiroshima and Nagasaki, for their steadfast advocacy against nuclear weapons."
       }
     },
     {
@@ -76745,14 +76745,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 89,
         "category": "अंतर्राष्ट्रीय सौर एवं पर्यावरण पहल",
-        "question_en": "[Q89] भारत के नेतृत्व में स्थापित 'अंतर्राष्ट्रीय बिग कैट एलायंस' (IBCA - International Big Cat Alliance) के अंतर्गत बड़ी बिल्लियों की कितनी प्रमुख प्रजातियों के संरक्षण पर ध्यान केंद्रित किया गया है?",
+        "question_en": "Under the India-led 'International Big Cat Alliance' (IBCA), conservation efforts are focused on how many major species of big cats?",
         "options_en": [
-          "5 प्रजातियां",
-          "7 प्रजातियां",
-          "9 प्रजातियां",
-          "12 प्रजातियां"
+          "5 species",
+          "7 species",
+          "9 species",
+          "12 species"
         ],
-        "explanation_en": "Explanation for Q89: अंतर्राष्ट्रीय बिग कैट एलायंस (IBCA) विश्व की 7 बड़ी बिल्ली प्रजातियों—बाघ (Tiger), शेर (Lion), तेंदुआ (Leopard), हिम तेंदुआ (Snow Leopard), चीता (Che..."
+        "explanation_en": "The International Big Cat Alliance (IBCA) focuses on the protection and conservation of the world's 7 major big cat species: Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, and Puma."
       }
     },
     {
@@ -76782,14 +76782,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 88,
         "category": "वैश्विक भू-राजनीति",
-        "question_en": "[Q88] 'भारत-मध्य पूर्व-यूरोप आर्थिक गलियारा' (IMEC) के संदर्भ में Consider the following statements:\n1. इस परियोजना की घोषणा नई दिल्ली में आयोजित G20 शिखर सम्मेलन के दौरान की गई थी।\n2. इसका उद्देश्य रेल और समुद्री मार्गों के नेटवर्क के माध्यम से भारत, खाड़ी क्षेत्र और यूरोप के बीच व्यापार व कनेक्टिविटी को बढ़ावा देना है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'India-Middle East-Europe Economic Corridor' (IMEC), consider the following statements:\n1. The project was formally announced on the sidelines of the G20 Summit in New Delhi.\n2. It aims to stimulate economic development and connectivity through a network of railway and ship-to-rail transit routes across India, the Arabian Gulf, and Europe.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q88: दोनों कथन सत्य हैं। IMEC में भारत, अमेरिका, सऊदी अरब, यूएई, यूरोपीय संघ, इटली, फ्रांस और जर्मनी शामिल हैं, जो पूर्वी गलियारे (भारत से खाड़ी) और उत्तरी..."
+        "explanation_en": "Both statements are correct. IMEC involves India, the USA, Saudi Arabia, the UAE, the European Union, Italy, France, and Germany, consisting of an Eastern corridor connecting India to the Arabian Gulf and a Northern corridor linking the Gulf to Europe."
       }
     },
     {
@@ -76819,14 +76819,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 87,
         "category": "अंतर्राष्ट्रीय जैव विविधता",
-        "question_en": "[Q87] संयुक्त राष्ट्र जैव विविधता सम्मेलन (CBD COP16) अक्टूबर-नवंबर 2024 में किस देश में आयोजित किया गया, जहाँ आनुवंशिक संसाधनों से प्राप्त डिजिटल अनुक्रम जानकारी (DSI) के लाभ साझाकरण हेतु 'काली फंड' (Cali Fund) की स्थापना की गई?",
+        "question_en": "In which country was the United Nations Biodiversity Conference (CBD COP16) held in October–November 2024, where the 'Cali Fund' was established for the fair and equitable sharing of benefits from Digital Sequence Information (DSI) on genetic resources?",
         "options_en": [
-          "कोलंबिया",
-          "पेरू",
-          "मेक्सिको",
-          "कोस्टा रिका"
+          "Colombia",
+          "Peru",
+          "Mexico",
+          "Costa Rica"
         ],
-        "explanation_en": "Explanation for Q87: जैव विविधता पर कन्वेंशन का 16वां सम्मेलन (COP16) 'पीस विद नेचर' थीम के साथ काली, कोलंबिया में आयोजित हुआ, जिसमें 'काली फंड' की स्थापना और स्वदेशी व स्..."
+        "explanation_en": "The 16th meeting of the Conference of the Parties to the Convention on Biological Diversity (COP16) was held under the theme 'Peace with Nature' in Cali, Colombia, where the historic 'Cali Fund' was launched alongside a permanent subsidiary body for Indigenous Peoples and local communities."
       }
     },
     {
@@ -76856,14 +76856,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 86,
         "category": "अंतर्राष्ट्रीय पुरस्कार",
-        "question_en": "[Q86] साहित्य के क्षेत्र में वर्ष 2024 का नोबेल पुरस्कार दक्षिण कोरिया की लेखिका 'हान कांग' (Han Kang) को प्रदान किया गया। यह सम्मान जीतने वाली वे किस महाद्वीप की पहली महिला लेखिका बनीं?",
+        "question_en": "The 2024 Nobel Prize in Literature was awarded to South Korean author Han Kang. She became the first female writer from which continent to win this prestigious honor?",
         "options_en": [
-          "एशिया",
-          "अफ्रीका",
-          "दक्षिण अमेरिका",
-          "ऑस्ट्रेलिया"
+          "Asia",
+          "Africa",
+          "South America",
+          "Australia"
         ],
-        "explanation_en": "Explanation for Q86: दक्षिण कोरिया की लेखिका हान कांग ('द वेजिटेरियन' की लेखिका) साहित्य में नोबेल पुरस्कार जीतने वाली पहली एशियाई महिला और पहली दक्षिण कोरियाई साहित्यकार ..."
+        "explanation_en": "South Korean novelist Han Kang (author of 'The Vegetarian') became the first Asian woman and the first South Korean writer to be awarded the Nobel Prize in Literature."
       }
     },
     {
@@ -76893,14 +76893,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 85,
         "category": "अंतर्राष्ट्रीय संगठन",
-        "question_en": "[Q85] वर्ष 2024 में कौन-सा यूरोपीय देश उत्तरी अटलांटिक संधि संगठन (NATO) का 32वां आधिकारिक सदस्य बना?",
+        "question_en": "Which European nation became the 32nd official member of the North Atlantic Treaty Organization (NATO) in the year 2024?",
         "options_en": [
-          "स्वीडन",
-          "फिनलैंड",
-          "यूक्रेन",
-          "ऑस्ट्रिया"
+          "Sweden",
+          "Finland",
+          "Ukraine",
+          "Austria"
         ],
-        "explanation_en": "Explanation for Q85: मार्च 2024 में स्वीडन आधिकारिक रूप से नाटो (NATO) का 32वां सदस्य बना (इससे पहले अप्रैल 2023 में फिनलैंड 31वां सदस्य बना था)।..."
+        "explanation_en": "In March 2024, Sweden officially deposited its instrument of accession to become the 32nd member of NATO (following Finland, which joined as the 31st member in April 2023)."
       }
     },
     {
@@ -76930,14 +76930,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 84,
         "category": "खेल एवं शतरंज",
-        "question_en": "[Q84] भारत के युवा ग्रैंडमास्टर डी. गुकेश (D. Gukesh) के संदर्भ में Consider the following statements:\n1. दिसंबर 2024 में सिंगापुर में आयोजित विश्व शतरंज चैंपियनशिप में चीन के डिंग लिरेन को हराकर वे शतरंज इतिहास के सबसे युवा निर्विवाद विश्व चैंपियन बने।\n2. विश्वनाथन आनंद के बाद यह खिताब जीतने वाले वे दूसरे भारतीय खिलाड़ी हैं।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to India's young Grandmaster D. Gukesh, consider the following statements:\n1. In December 2024, by defeating China's Ding Liren at the World Chess Championship in Singapore, he became the youngest undisputed World Champion in chess history.\n2. He is only the second Indian player after Viswanathan Anand to win this prestigious title.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q84: दोनों कथन सत्य हैं। 18 वर्षीय डी. गुकेश ने डिंग लिरेन को 7.5–6.5 से पराजित कर गैरी कास्पारोव का रिकॉर्ड तोड़ते हुए सबसे कम उम्र में विश्व शतरंज चैंपिय..."
+        "explanation_en": "Both statements are correct. 18-year-old D. Gukesh defeated Ding Liren 7.5–6.5 in Singapore, surpassing Garry Kasparov's long-standing record to become the youngest classical World Chess Champion in history."
       }
     },
     {
@@ -76967,14 +76967,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 83,
         "category": "खेल एवं ओलंपिक",
-        "question_en": "[Q83] पेरिस ओलंपिक 2024 में भारत के प्रदर्शन के संदर्भ में Consider the following statements:\n1. मनु भाकर एक ही ओलंपिक संस्करण में दो पदक जीतने वाली स्वतंत्र भारत की पहली एथलीट बनीं।\n2. नीरज चोपड़ा ने पुरुषों की भाला फेंक (Javelin Throw) स्पर्धा में स्वर्ण पदक जीतकर अपने खिताब का बचाव किया।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to India's performance at the Paris Olympics 2024, consider the following statements:\n1. Manu Bhaker became the first athlete of independent India to win two medals in a single edition of the Olympic Games.\n2. Neeraj Chopra defended his title by winning the Gold medal in the Men's Javelin Throw event.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q83: कथन 1 सत्य है: मनु भाकर ने महिला 10 मीटर एयर पिस्टल और 10 मीटर एयर पिस्टल मिश्रित टीम (सरबजोत सिंह के साथ) में दो कांस्य पदक जीते। कथन 2 असत्य है क्यो..."
+        "explanation_en": "Statement 1 is correct: Manu Bhaker won two bronze medals (Women's 10m Air Pistol and 10m Air Pistol Mixed Team with Sarabjot Singh). Statement 2 is incorrect because Neeraj Chopra won the Silver medal (89.45 m) at Paris 2024, while the Gold medal was won by Pakistan's Arshad Nadeem (92.97 m)."
       }
     },
     {
@@ -77004,14 +77004,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 82,
         "category": "वैश्विक सूचकांक एवं रिपोर्ट",
-        "question_en": "[Q82] निम्नलिखित वैश्विक सूचकांकों और उन्हें जारी करने वाली संस्थाओं में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "Which of the following pairs of global indices and their publishing organizations is NOT correctly matched?",
         "options_en": [
-          "वैश्विक नवाचार सूचकांक (Global Innovation Index) - विश्व बौद्धिक संपदा संगठन (WIPO)",
-          "भ्रष्टाचार बोध सूचकांक (Corruption Perceptions Index) - ट्रांसपेरेंसी इंटरनेशनल",
-          "विश्व प्रेस स्वतंत्रता सूचकांक - रिपोर्टर्स विदाउट बॉर्डर्स (RSF)",
-          "लॉजिस्टिक्स प्रदर्शन सूचकांक (LPI) - अंतर्राष्ट्रीय मुद्रा कोष (IMF)"
+          "Global Innovation Index - World Intellectual Property Organization (WIPO)",
+          "Corruption Perceptions Index - Transparency International",
+          "World Press Freedom Index - Reporters Without Borders (RSF)",
+          "Logistics Performance Index (LPI) - International Monetary Fund (IMF)"
         ],
-        "explanation_en": "Explanation for Q82: युग्म (D) सही सुमेलित नहीं है। लॉजिस्टिक्स परफॉर्मेंस इंडेक्स (LPI) विश्व बैंक (World Bank) द्वारा जारी किया जाता है, न कि अंतर्राष्ट्रीय मुद्रा कोष (..."
+        "explanation_en": "Pair (D) is not correctly matched. The Logistics Performance Index (LPI) is published by the World Bank, not by the International Monetary Fund (IMF)."
       }
     },
     {
@@ -77041,14 +77041,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 81,
         "category": "वैश्विक सूचकांक एवं रिपोर्ट",
-        "question_en": "[Q81] विश्व आर्थिक मंच (World Economic Forum - WEF) द्वारा जारी 'ग्लोबल जेंडर गैप रिपोर्ट' (Global Gender Gap Report) में निम्नलिखित में से किस उप-सूचकांक को शामिल नहीं किया जाता है?",
+        "question_en": "Which of the following sub-indices is NOT included in the 'Global Gender Gap Report' published by the World Economic Forum (WEF)?",
         "options_en": [
-          "आर्थिक भागीदारी और अवसर",
-          "शैक्षणिक उपलब्धि",
-          "स्वास्थ्य और उत्तरजीविता",
-          "संपत्ति का स्वामित्व और उत्तराधिकार"
+          "Economic Participation and Opportunity",
+          "Educational Attainment",
+          "Health and Survival",
+          "Property Ownership and Inheritance"
         ],
-        "explanation_en": "Explanation for Q81: WEF का ग्लोबल जेंडर गैप इंडेक्स चार प्रमुख आयामों पर आधारित है: (1) आर्थिक भागीदारी और अवसर, (2) शैक्षणिक उपलब्धि, (3) स्वास्थ्य और उत्तरजीविता, तथा (..."
+        "explanation_en": "The WEF's Global Gender Gap Index benchmarks parity across four core sub-indices: (1) Economic Participation and Opportunity, (2) Educational Attainment, (3) Health and Survival, and (4) Political Empowerment. Property Ownership and Inheritance is not a separate sub-index."
       }
     },
     {
@@ -77078,14 +77078,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 80,
         "category": "वैश्विक सूचकांक एवं रिपोर्ट",
-        "question_en": "[Q80] संयुक्त राष्ट्र विकास कार्यक्रम (UNDP) द्वारा जारी 'मानव विकास सूचकांक' (Human Development Index - HDI) की गणना किन तीन मूलभूत आयामों के आधार पर की जाती है?\n1. लंबा और स्वस्थ जीवन (जन्म के समय जीवन प्रत्याशा)\n2. ज्ञान तक पहुंच (स्कूली शिक्षा के औसत वर्ष एवं अपेक्षित वर्ष)\n3. सभ्य जीवन स्तर (प्रति व्यक्ति सकल राष्ट्रीय आय - GNI per capita PPP$)\n4. बहुआयामी पर्यावरणीय स्थिरता\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनें:",
+        "question_en": "The 'Human Development Index' (HDI) released by the United Nations Development Programme (UNDP) is calculated based on which of the following three basic dimensions?\n1. A long and healthy life (Life expectancy at birth)\n2. Access to knowledge (Mean years of schooling and Expected years of schooling)\n3. A decent standard of living (Gross National Income - GNI per capita PPP$)\n4. Multidimensional environmental sustainability\n\nSelect the correct answer using the code given below:",
         "options_en": [
-          "Only 1 and 2",
-          "केवल 1, 2 और 3",
-          "केवल 2, 3 और 4",
-          "1, 2, 3 और 4"
+          "1 and 2 only",
+          "1, 2 and 3 only",
+          "2, 3 and 4 only",
+          "1, 2, 3 and 4"
         ],
-        "explanation_en": "Explanation for Q80: मानव विकास सूचकांक (HDI) तीन आयामों (स्वास्थ्य, शिक्षा और प्रति व्यक्ति आय) के 4 संकेतकों का ज्यामितीय माध्य है। इसमें पर्यावरणीय स्थिरता शामिल नहीं ह..."
+        "explanation_en": "The Human Development Index (HDI) is a geometric mean of normalized indices across three dimensions: health (life expectancy), education (mean & expected schooling), and standard of living (GNI per capita). Environmental sustainability is not a component of the standard HDI (UNDP separately publishes the Planetary Pressures-adjusted HDI - PHDI)."
       }
     },
     {
@@ -77115,14 +77115,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 79,
         "category": "अंतर्राष्ट्रीय जलवायु वित्त",
-        "question_en": "[Q79] बाकू में आयोजित COP29 जलवायु सम्मेलन में स्वीकृत 'नए सामूहिक मात्रात्मक लक्ष्य' (NCQG - New Collective Quantified Goal) के तहत विकसित देशों द्वारा विकासशील देशों को वर्ष 2035 तक प्रतिवर्ष कम से कम कितनी जलवायु वित्त सहायता जुटाने पर सहमति बनी?",
+        "question_en": "Under the 'New Collective Quantified Goal' (NCQG) approved at the COP29 climate summit in Baku, developed nations agreed to mobilize at least how much annual climate finance for developing countries by 2035?",
         "options_en": [
-          "100 बिलियन अमेरिकी डॉलर",
-          "300 बिलियन अमेरिकी डॉलर",
-          "500 बिलियन अमेरिकी डॉलर",
-          "1.3 ट्रिलियन अमेरिकी डॉलर"
+          "USD 100 billion",
+          "USD 300 billion",
+          "USD 500 billion",
+          "USD 1.3 trillion"
         ],
-        "explanation_en": "Explanation for Q79: COP29 (बाकू) में विकसित देशों ने विकासशील देशों के लिए 2035 तक प्रतिवर्ष कम से कम 300 बिलियन अमेरिकी डॉलर जुटाने पर सहमति व्यक्त की (जो पूर्ववर्ती 100..."
+        "explanation_en": "At COP29 in Baku, developed nations agreed to lead in mobilizing at least USD 300 billion per year by 2035 for developing nations (replacing the previous USD 100 billion target), alongside a broader call to scale up overall financing to USD 1.3 trillion from all public and private sources."
       }
     },
     {
@@ -77152,14 +77152,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 78,
         "category": "जलवायु परिवर्तन एवं COP",
-        "question_en": "[Q78] संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (UNFCCC) के आयोजन स्थलों के संदर्भ में निम्नलिखित युग्मों पर विचार करें:\n1. COP28 - दुबई (संयुक्त अरब अमीरात)\n2. COP29 - बाकू (अज़रबैजान)\n3. COP30 - बेलेम (ब्राज़ील)\n\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+        "question_en": "With reference to the host venues of the United Nations Climate Change Conferences (UNFCCC), consider the following pairs:\n1. COP28 - Dubai (United Arab Emirates)\n2. COP29 - Baku (Azerbaijan)\n3. COP30 - Belém (Brazil)\n\nHow many of the above pairs are correctly matched?",
         "options_en": [
-          "केवल एक युग्म",
-          "केवल दो युग्म",
-          "सभी तीन युग्म",
-          "कोई भी नहीं"
+          "Only one pair",
+          "Only two pairs",
+          "All three pairs",
+          "None of the pairs"
         ],
-        "explanation_en": "Explanation for Q78: सभी तीन युग्म सही सुमेलित हैं। COP28 दुबई (2023) में, COP29 बाकू, अज़रबैजान (2024) में तथा COP30 अमेज़न वर्षावन के प्रवेश द्वार बेलेम, ब्राज़ील (2025)..."
+        "explanation_en": "All three pairs are correctly matched. COP28 was held in Dubai (2023), COP29 in Baku, Azerbaijan (2024), and COP30 in Belém, Brazil (2025), known as the gateway to the Amazon rainforest."
       }
     },
     {
@@ -77189,14 +77189,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 77,
         "category": "अंतर्राष्ट्रीय संबंध एवं BRICS",
-        "question_en": "[Q77] BRICS समूह के शिखर सम्मेलनों और अध्यक्षता के संदर्भ में Consider the following statements:\n1. 16वां ब्रिक्स शिखर सम्मेलन अक्टूबर 2024 में रूस के कज़ान (Kazan) शहर में आयोजित हुआ था।\n2. वर्ष 2026 में ब्रिक्स (BRICS) की अध्यक्षता भारत को प्राप्त हुई है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the summits and presidency of the BRICS grouping, consider the following statements:\n1. The 16th BRICS Summit was held in October 2024 in the city of Kazan, Russia.\n2. India assumes the presidency of BRICS for the year 2026.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q77: दोनों कथन सत्य हैं। 2024 में रूस (कज़ान) और 2025 में ब्राज़ील की अध्यक्षता के पश्चात वर्ष 2026 में 18वें ब्रिक्स शिखर सम्मेलन की मेजबानी/अध्यक्षता भार..."
+        "explanation_en": "Both statements are correct. Following Russia's presidency in 2024 (Kazan) and Brazil's in 2025, India hosts and chairs the 18th BRICS Summit in 2026."
       }
     },
     {
@@ -77226,14 +77226,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 76,
         "category": "अंतर्राष्ट्रीय शिखर सम्मेलन",
-        "question_en": "[Q76] G20 शिखर सम्मेलनों की मेजबानी (Troika) के सही कालानुक्रमिक क्रम (2024 से 2026) की पहचान करें:",
+        "question_en": "Identify the correct chronological sequence of host nations for the G20 Summits (Troika) from 2024 to 2026:",
         "options_en": [
-          "ब्राज़ील (2024) → दक्षिण अफ्रीका (2025) → संयुक्त राज्य अमेरिका (2026)",
-          "भारत (2024) → ब्राज़ील (2025) → दक्षिण अफ्रीका (2026)",
-          "दक्षिण अफ्रीका (2024) → संयुक्त राज्य अमेरिका (2025) → ब्राज़ील (2026)",
-          "ब्राज़ील (2024) → संयुक्त राज्य अमेरिका (2025) → दक्षिण अफ्रीका (2026)"
+          "Brazil (2024) → South Africa (2025) → United States of America (2026)",
+          "India (2024) → Brazil (2025) → South Africa (2026)",
+          "South Africa (2024) → United States of America (2025) → Brazil (2026)",
+          "Brazil (2024) → United States of America (2025) → South Africa (2026)"
         ],
-        "explanation_en": "Explanation for Q76: भारत (2023) के बाद G20 की अध्यक्षता क्रमशः ब्राज़ील (2024, रियो डी जनेरियो), दक्षिण अफ्रीका (2025, जोहान्सबर्ग) और संयुक्त राज्य अमेरिका (2026) के पास..."
+        "explanation_en": "Following India's presidency in 2023, the G20 presidency was held successively by Brazil (2024, Rio de Janeiro), South Africa (2025, Johannesburg), and the United States of America (2026)."
       }
     },
     {
@@ -77263,14 +77263,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 75,
         "category": "डिजिटल इंडिया एवं भुगतान",
-        "question_en": "[Q75] भारत की त्वरित भुगतान प्रणाली 'यूपीआई' (UPI) के अंतर्राष्ट्रीय विस्तार के संदर्भ में निम्नलिखित में से किस यूरोपीय देश में औपचारिक रूप से यूपीआई सेवा शुरू की गई है?",
+        "question_en": "With reference to the international expansion of India's fast payment system UPI (Unified Payments Interface), which of the following European countries formally launched UPI services?",
         "options_en": [
-          "फ्रांस",
-          "जर्मनी",
-          "इटली",
-          "स्वीडन"
+          "France",
+          "Germany",
+          "Italy",
+          "Sweden"
         ],
-        "explanation_en": "Explanation for Q75: फ्रांस यूपीआई (UPI) को अपनाने वाला पहला यूरोपीय देश बना है, जहां पेरिस स्थित एफिल टॉवर सहित प्रमुख व्यापारिक प्रतिष्ठानों में यूपीआई भुगतान की शुरुआत ..."
+        "explanation_en": "France became the first European nation to formally adopt UPI, launching UPI merchant payments at the iconic Eiffel Tower in Paris. UPI is also operational in countries such as the UAE, Singapore, Sri Lanka, Mauritius, Nepal, and Bhutan."
       }
     },
     {
@@ -77300,14 +77300,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 74,
         "category": "जल संसाधन एवं पर्यावरण",
-        "question_en": "[Q74] 'जल शक्ति अभियान: कैच द रेन' (Catch the Rain) अभियान का मुख्य संदेश क्या है?",
+        "question_en": "What is the core theme/tagline of the 'Jal Shakti Abhiyan: Catch the Rain' campaign?",
         "options_en": [
-          "वर्षा जल का संचयन, जहां भी गिरे, जब भी गिरे (Catch the rain, where it falls, when it falls)",
-          "केवल समुद्र के खारे पानी का विलवणीकरण",
-          "नदियों के जल को केवल औद्योगिक उपयोग के लिए आरक्षित करना",
-          "कृत्रिम वर्षा हेतु क्लाउड सीडिंग को अनिवार्य बनाना"
+          "Catch the rain, where it falls, when it falls",
+          "Desalination of seawater only",
+          "Reserve river water exclusively for industrial use",
+          "Make cloud seeding mandatory for artificial rainfall"
         ],
-        "explanation_en": "Explanation for Q74: राष्ट्रीय जल मिशन के अंतर्गत 'कैच द रेन' अभियान मानसून से पूर्व और मानसून के दौरान पारंपरिक जल निकायों के पुनरुद्धार, चेक डैम निर्माण और भूजल पुनर्भरण..."
+        "explanation_en": "Under the National Water Mission, the 'Catch the Rain' campaign promotes the revitalization of traditional water bodies, check-dam construction, and rainwater harvesting as a mass movement (Jan Andolan) before and during the monsoon season."
       }
     },
     {
@@ -77337,14 +77337,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 73,
         "category": "विज्ञान एवं सेमीकंडक्टर",
-        "question_en": "[Q73] 'इंडिया सेमीकंडक्टर मिशन' (India Semiconductor Mission) के तहत भारत की पहली वाणिज्यिक सेमीकंडक्टर फैब्रिकेशन (Fab) इकाई किस राज्य में स्थापित की जा रही है?",
+        "question_en": "Under the 'India Semiconductor Mission', India's first commercial semiconductor fabrication (Fab) unit is being established in which state?",
         "options_en": [
-          "गुजरात (धोलेरा)",
-          "कर्नाटक (बेंगलुरु)",
-          "तमिलनाडु (चेन्नई)",
-          "उत्तर प्रदेश (नोएडा)"
+          "Gujarat (Dholera)",
+          "Karnataka (Bengaluru)",
+          "Tamil Nadu (Chennai)",
+          "Uttar Pradesh (Noida)"
         ],
-        "explanation_en": "Explanation for Q73: टाटा इलेक्ट्रॉनिक्स और ताइवान की PSMC के सहयोग से भारत की पहली वाणिज्यिक सेमीकंडक्टर फैब इकाई गुजरात के धोलेरा विशेष निवेश क्षेत्र में स्थापित की जा र..."
+        "explanation_en": "India's first commercial semiconductor fab facility is being established by Tata Electronics in partnership with Taiwan's Powerchip Semiconductor Manufacturing Corporation (PSMC) in the Dholera Special Investment Region (SIR), Gujarat. Additionally, an OSAT semiconductor facility is being established in Morigaon, Assam."
       }
     },
     {
@@ -77374,14 +77374,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 72,
         "category": "शिक्षा एवं कौशल",
-        "question_en": "[Q72] केंद्र सरकार द्वारा शुरू की गई 'पीएम-उषा' (PM-USHA - Pradhan Mantri Uchchatar Shiksha Abhiyan) योजना किस पूर्ववर्ती योजना का रूपांतरित रूप है?",
+        "question_en": "The 'PM-USHA' (Pradhan Mantri Uchchatar Shiksha Abhiyan) scheme launched by the Central Government is the revamped version of which erstwhile scheme?",
         "options_en": [
-          "राष्ट्रीय उच्चतर शिक्षा अभियान (RUSA)",
-          "सर्व शिक्षा अभियान (SSA)",
-          "राष्ट्रीय माध्यमिक शिक्षा अभियान (RMSA)",
-          "प्रधानमंत्री कौशल विकास योजना (PMKVY)"
+          "Rashtriya Uchchatar Shiksha Abhiyan (RUSA)",
+          "Sarva Shiksha Abhiyan (SSA)",
+          "Rashtriya Madhyamik Shiksha Abhiyan (RMSA)",
+          "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)"
         ],
-        "explanation_en": "Explanation for Q72: राष्ट्रीय शिक्षा नीति (NEP) 2020 के लक्ष्यों के अनुरूप राज्यों के उच्च शिक्षण संस्थानों में गुणवत्ता, पहुंच और समानता बढ़ाने के लिए 'रूसा' (RUSA) को स..."
+        "explanation_en": "In line with the goals of the National Education Policy (NEP) 2020 to enhance quality, access, equity, and excellence in state higher education institutions, the erstwhile 'RUSA' scheme was restructured and relaunched as 'PM-USHA'."
       }
     },
     {
@@ -77411,14 +77411,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 71,
         "category": "भारतीय राजव्यवस्था एवं न्यायपालिका",
-        "question_en": "[Q71] सुप्रीम कोर्ट के ऐतिहासिक निर्णय (मई 2024) के अनुसार 'सुप्रीम कोर्ट बार एसोसिएशन' (SCBA) की कार्यकारी समिति में महिलाओं के लिए कितने प्रतिशत पद आरक्षित करने का निर्देश दिया गया?",
+        "question_en": "According to a landmark ruling of the Supreme Court of India in May 2024, what percentage of posts was directed to be reserved for women in the Executive Committee of the Supreme Court Bar Association (SCBA)?",
         "options_en": [
-          "25 प्रतिशत",
-          "33 प्रतिशत (एक-तिहाई)",
-          "50 प्रतिशत",
-          "15 प्रतिशत"
+          "25 percent",
+          "33 percent (one-third)",
+          "50 percent",
+          "15 percent"
         ],
-        "explanation_en": "Explanation for Q71: सर्वोच्च न्यायालय ने निर्देश दिया कि सुप्रीम कोर्ट बार एसोसिएशन (SCBA) की कार्यकारी समिति के पदों में न्यूनतम एक-तिहाई (33%) सीटें महिला अधिवक्ताओं के..."
+        "explanation_en": "The Supreme Court directed that a minimum of one-third (33%) of the posts in the Executive Committee of the Supreme Court Bar Association (SCBA) must be reserved for woman advocates."
       }
     },
     {
@@ -77448,14 +77448,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 70,
         "category": "कृषि एवं ग्रामीण विकास",
-        "question_en": "[Q70] 'नमो ड्रोन दीदी' (Namo Drone Didi) योजना का मुख्य उद्देश्य क्या है?",
+        "question_en": "What is the primary objective of the 'Namo Drone Didi' scheme?",
         "options_en": [
-          "महिला स्वयं सहायता समूहों (SHGs) को कृषि उद्देश्यों (उर्वरक और कीटनाशक छिड़काव) के लिए ड्रोन उपलब्ध कराना",
-          "सीमावर्ती गांवों में महिला पुलिसकर्मियों को निगरानी ड्रोन वितरित करना",
-          "ग्रामीण विद्यालयों में छात्राओं को रोबोटिक्स की निःशुल्क डिग्री प्रदान करना",
-          "पर्वतीय क्षेत्रों में डाक वितरण हेतु निजी ड्रोन कंपनियां स्थापित करना"
+          "To provide drones to women Self Help Groups (SHGs) for agricultural purposes such as spraying fertilizers and pesticides",
+          "To distribute surveillance drones to women police officers in border villages",
+          "To award free robotics degrees to female students in rural schools",
+          "To set up private drone courier companies for mail delivery in mountainous regions"
         ],
-        "explanation_en": "Explanation for Q70: नमो ड्रोन दीदी एक केंद्रीय क्षेत्रक योजना है जिसके तहत चयनित महिला स्वयं सहायता समूहों को 80% तक वित्तीय सहायता के साथ कृषि ड्रोन प्रदान किए जाते हैं,..."
+        "explanation_en": "Namo Drone Didi is a Central Sector Scheme that empowers selected women Self Help Groups (SHGs) by providing agricultural drones with financial assistance of up to 80%, enabling them to provide rental spraying services to farmers and generate sustainable rural livelihoods."
       }
     },
     {
@@ -77485,14 +77485,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 69,
         "category": "रक्षा एवं नौसेना",
-        "question_en": "[Q69] भारतीय नौसेना में शामिल 'आईएनएस विक्रांत' (INS Vikrant) के संदर्भ में Consider the following statements:\n1. यह भारत में डिजाइन और निर्मित होने वाला पहला स्वदेशी विमानवाहक पोत (Indigenous Aircraft Carrier) है।\n2. इसका निर्माण कोचीन शिपयार्ड लिमिटेड (CSL) द्वारा किया गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to 'INS Vikrant' commissioned into the Indian Navy, consider the following statements:\n1. It is the first indigenous aircraft carrier designed and built in India.\n2. It has been constructed by Cochin Shipyard Limited (CSL).\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q69: दोनों कथन सत्य हैं। INS Vikrant (IAC-1) को भारतीय नौसेना के वॉरशिप डिज़ाइन ब्यूरो द्वारा डिज़ाइन किया गया है और कोचीन शिपयार्ड लिमिटेड द्वारा निर्मित ..."
+        "explanation_en": "Both statements are correct. INS Vikrant (IAC-1) was designed in-house by the Indian Navy's Warship Design Bureau (WDB) and built by Cochin Shipyard Limited (CSL) in Kochi."
       }
     },
     {
@@ -77522,14 +77522,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 68,
         "category": "भारतीय अर्थव्यवस्था",
-        "question_en": "[Q68] 'एनपीएस वात्सल्य' (NPS Vatsalya) योजना के संदर्भ में निम्नलिखित में से कौन-सा कथन सत्य है?",
+        "question_en": "With reference to the 'NPS Vatsalya' scheme, which of the following statements is correct?",
         "options_en": [
-          "यह माता-पिता और अभिभावकों को अपने नाबालिग बच्चों (18 वर्ष से कम आयु) के लिए पेंशन खाते में निवेश करने की अनुमति देती है।",
-          "यह केवल सरकारी कर्मचारियों के बच्चों के लिए अनिवार्य योजना है।",
-          "इसमें जमा राशि केवल 80 वर्ष की आयु के बाद ही निकाली जा सकती है।",
-          "यह एक कृषि फसल बीमा योजना है।"
+          "It allows parents and guardians to open and invest in a pension account on behalf of their minor children (under 18 years of age).",
+          "It is a mandatory pension scheme exclusively for the children of government employees.",
+          "The accumulated funds can only be withdrawn after attaining 80 years of age.",
+          "It is an agricultural crop insurance scheme for smallholder farmers."
         ],
-        "explanation_en": "Explanation for Q68: कथन (A) सत्य है। पीएफआरडीए (PFRDA) द्वारा विनियमित 'एनपीएस वात्सल्य' योजना में कोई भी भारतीय नागरिक अपने नाबालिग बच्चे के नाम पर खाता खोल सकता है, जो ..."
+        "explanation_en": "Statement (A) is correct. Regulated by PFRDA, the NPS Vatsalya scheme enables any Indian citizen parent or guardian to invest for their minor child, which seamlessly transitions into a standard regular NPS account once the child attains 18 years of age."
       }
     },
     {
@@ -77559,14 +77559,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 67,
         "category": "राष्ट्रीय अवसंरचना",
-        "question_en": "[Q67] भारत का सबसे लंबा समुद्री पुल 'अटल बिहारी वाजपेयी सेवरी-न्हावा शेवा अटल सेतु' (Atal Setu) किन दो स्थानों को जोड़ता है?",
+        "question_en": "India's longest sea bridge, the 'Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu' (Atal Setu), connects which two locations?",
         "options_en": [
-          "मुंबई और नवी मुंबई",
-          "चेन्नई और पुडुचेरी",
-          "कोच्चि और लक्षद्वीप",
-          "ओखा और बेट द्वारका"
+          "Mumbai and Navi Mumbai",
+          "Chennai and Puducherry",
+          "Kochi and Lakshadweep",
+          "Okha and Beyt Dwarka"
         ],
-        "explanation_en": "Explanation for Q67: लगभग 21.8 किलोमीटर लंबा अटल सेतु (MTHL) भारत का सबसे लंबा समुद्री पुल है, जो दक्षिण मुंबई (सेवरी) को नवी मुंबई (चिर्ले/न्हावा शेवा) से जोड़ता है।..."
+        "explanation_en": "Measuring approximately 21.8 km in length, the Atal Setu (Mumbai Trans Harbour Link - MTHL) is the longest sea bridge in India, connecting South Mumbai (Sewri) to Navi Mumbai (Chirle / Nhava Sheva)."
       }
     },
     {
@@ -77596,14 +77596,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 66,
         "category": "पर्यावरण एवं जैव विविधता",
-        "question_en": "[Q66] 'प्रोजेक्ट चीता' (Project Cheetah) के संदर्भ में Consider the following statements:\n1. भारत में चीतों के पुनर्वास के लिए प्रथम चरण में नामीबिया और दक्षिण अफ्रीका से चीते लाकर मध्य प्रदेश के कूनो राष्ट्रीय उद्यान में बसाए गए।\n2. चीतों के दूसरे आवास के रूप में मध्य प्रदेश के गांधी सागर वन्यजीव अभयारण्य को विकसित किया गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to 'Project Cheetah', consider the following statements:\n1. In the initial phase of reintroducing cheetahs in India, cheetahs brought from Namibia and South Africa were released in Kuno National Park, Madhya Pradesh.\n2. Gandhi Sagar Wildlife Sanctuary in Madhya Pradesh has been developed as the second habitat for cheetahs.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q66: दोनों कथन सत्य हैं। 1952 में भारत से विलुप्त घोषित किए गए चीतों को पुनः बसाने के लिए कूनो नेशनल पार्क के बाद मंदसौर/नीमच स्थित गांधी सागर वन्यजीव अभया..."
+        "explanation_en": "Both statements are correct. To re-establish the species declared extinct in India in 1952, cheetahs were first introduced in Kuno National Park, followed by Gandhi Sagar Wildlife Sanctuary (Mandsaur/Neemuch districts) as the designated second home."
       }
     },
     {
@@ -77633,14 +77633,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 65,
         "category": "स्वास्थ्य एवं पोषण",
-        "question_en": "[Q65] 'आयुष्मान वय वंदना कार्ड' (Ayushman Vay Vandana Card) के संबंध में Consider the following statements:\n1. इसके अंतर्गत 70 वर्ष और उससे अधिक आयु के सभी वरिष्ठ नागरिकों को, उनकी आय या आर्थिक स्थिति की परवाह किए बिना, प्रतिवर्ष ₹5 लाख तक का निःशुल्क स्वास्थ्य बीमा कवर प्रदान किया जाता है।\n2. यह आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना (AB PM-JAY) का विस्तार है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Ayushman Vay Vandana Card', consider the following statements:\n1. It provides free health insurance coverage of up to ₹5 lakh annually to all senior citizens aged 70 years and above, irrespective of their income or socio-economic status.\n2. It is an expansion of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY).\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q65: दोनों कथन सत्य हैं। 70 वर्ष और उससे अधिक आयु के सभी वरिष्ठ नागरिकों (चाहे वे किसी भी आय वर्ग के हों) को आयुष्मान वय वंदना कार्ड के तहत सूचीबद्ध अस्पता..."
+        "explanation_en": "Both statements are correct. Under the Ayushman Vay Vandana Card, all senior citizens aged 70 and above, regardless of income bracket, are entitled to cashless hospitalization and treatment up to ₹5 lakh per year in empanelled hospitals."
       }
     },
     {
@@ -77670,14 +77670,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 64,
         "category": "भारतीय अर्थव्यवस्था एवं अवसंरचना",
-        "question_en": "[Q64] 'पीएम ई-ड्राइव योजना' (PM E-DRIVE Scheme) का मुख्य उद्देश्य क्या है?",
+        "question_en": "What is the primary objective of the 'PM E-DRIVE Scheme'?",
         "options_en": [
-          "रेलवे माल ढुलाई गलियारों का निजीकरण करना",
-          "राष्ट्रीय राजमार्गों पर स्वचालित ड्राइविंग लाइसेंस परीक्षण केंद्र स्थापित करना",
-          "ग्रामीण डाकघरों का शत-प्रतिशत डिजिटलीकरण करना",
-          "देश में इलेक्ट्रिक वाहनों (EVs) को अपनाने में तेजी लाना और चार्जिंग अवसंरचना का विकास करना"
+          "To privatize dedicated railway freight corridors",
+          "To establish automated driving license testing tracks across national highways",
+          "To achieve 100% digitization of rural post offices",
+          "To accelerate electric vehicle (EV) adoption and build robust charging infrastructure in the country"
         ],
-        "explanation_en": "Explanation for Q64: FAME-II योजना के स्थान पर शुरू की गई 'PM E-DRIVE' (PM Electric Drive Revolution in Innovative Vehicle Enhancement) योजना ई-दोपहिया, ई-तिपहिया, ई-एम्बु..."
+        "explanation_en": "Replacing the FAME-II scheme, the 'PM E-DRIVE' (PM Electric Drive Revolution in Innovative Vehicle Enhancement) scheme provides subsidies and incentives for e-two-wheelers, e-three-wheelers, e-ambulances, e-trucks, and the deployment of public charging stations."
       }
     },
     {
@@ -77707,14 +77707,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 63,
         "category": "भारतीय संस्कृति एवं भाषा",
-        "question_en": "[Q63] केंद्र सरकार द्वारा वर्ष 2024 में पांच और भारतीय भाषाओं को 'शास्त्रीय भाषा' (Classical Language) का दर्जा प्रदान किया गया, जिससे कुल शास्त्रीय भाषाओं की संख्या 11 हो गई है। निम्नलिखित में से कौन-सी भाषा इस नई सूची में शामिल है?\n1. मराठी\n2. पाली\n3. प्राकृत\n4. असमिया एवं बंगाली\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनें:",
+        "question_en": "In 2024, the Central Government granted 'Classical Language' status to five additional Indian languages, bringing the total number of classical languages to 11. Which of the following languages are included in this newly added list?\n1. Marathi\n2. Pali\n3. Prakrit\n4. Assamese and Bengali\n\nSelect the correct answer using the code given below:",
         "options_en": [
-          "Only 1 and 2",
-          "केवल 2, 3 और 4",
-          "केवल 1, 3 और 4",
-          "1, 2, 3 और 4"
+          "1 and 2 only",
+          "2, 3 and 4 only",
+          "1, 3 and 4 only",
+          "1, 2, 3 and 4"
         ],
-        "explanation_en": "Explanation for Q63: अक्टूबर 2024 में केंद्रीय मंत्रिमंडल ने मराठी, पाली, प्राकृत, असमिया और बंगाली—इन 5 भाषाओं को शास्त्रीय भाषा का दर्जा दिया। इससे पहले 6 भाषाएं (तमिल, ..."
+        "explanation_en": "In October 2024, the Union Cabinet approved classical language status for Marathi, Pali, Prakrit, Assamese, and Bengali—totaling 5 new languages. Prior to this, 6 languages (Tamil, Sanskrit, Telugu, Kannada, Malayalam, and Odia) held classical status."
       }
     },
     {
@@ -77744,14 +77744,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 62,
         "category": "भारत रत्न एवं राष्ट्रीय सम्मान",
-        "question_en": "[Q62] वर्ष 2024 में भारत सरकार द्वारा पांच विभूतियों को देश के सर्वोच्च नागरिक सम्मान 'भारत रत्न' से सम्मानित किया गया। निम्नलिखित में से कौन उन पांच विभूतियों में शामिल नहीं है?",
+        "question_en": "In the year 2024, the Government of India conferred the country's highest civilian honor, the 'Bharat Ratna', on five distinguished personalities. Who among the following was NOT among the five recipients?",
         "options_en": [
-          "कर्पूरी ठाकुर",
-          "एम.एस. स्वामीनाथन",
-          "चौधरी चरण सिंह",
-          "रतन टाटा"
+          "Karpoori Thakur",
+          "M.S. Swaminathan",
+          "Chaudhary Charan Singh",
+          "Ratan Tata"
         ],
-        "explanation_en": "Explanation for Q62: वर्ष 2024 में भारत रत्न से सम्मानित 5 विभूतियां थीं: कर्पूरी ठाकुर (मरणोपरांत), लालकृष्ण आडवाणी, पी.वी. नरसिम्हा राव (मरणोपरांत), चौधरी चरण सिंह (मरणो..."
+        "explanation_en": "The five recipients of the Bharat Ratna in 2024 were Karpoori Thakur (posthumously), L.K. Advani, P.V. Narasimha Rao (posthumously), Chaudhary Charan Singh (posthumously), and Dr. M.S. Swaminathan (posthumously). Ratan Tata was not on this list."
       }
     },
     {
@@ -77781,14 +77781,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 61,
         "category": "ऊर्जा एवं जलवायु परिवर्तन",
-        "question_en": "[Q61] 'राष्ट्रीय हरित हाइड्रोजन मिशन' (National Green Hydrogen Mission) के संदर्भ में Consider the following statements:\n1. इसका लक्ष्य वर्ष 2030 तक भारत में प्रतिवर्ष कम से कम 5 मिलियन मीट्रिक टन (MMT) हरित हाइड्रोजन उत्पादन क्षमता विकसित करना है।\n2. हरित हाइड्रोजन का उत्पादन कोयले के गैसीकरण (Coal Gasification) द्वारा बिना कार्बन कैप्चर के किया जाता है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'National Green Hydrogen Mission', consider the following statements:\n1. It aims to develop a green hydrogen production capacity of at least 5 Million Metric Tonnes (MMT) per annum in India by 2030.\n2. Green hydrogen is produced through coal gasification without carbon capture.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q61: कथन 1 सत्य है। कथन 2 असत्य है क्योंकि हरित हाइड्रोजन (Green Hydrogen) का उत्पादन नवीकरणीय ऊर्जा (सौर/पवन) का उपयोग करके जल के इलेक्ट्रोलिसिस (Electrol..."
+        "explanation_en": "Statement 1 is correct. Statement 2 is incorrect because green hydrogen is produced through the electrolysis of water utilizing renewable energy (solar/wind), resulting in zero carbon emissions. Hydrogen produced from coal is classified as 'grey/black/brown hydrogen'."
       }
     },
     {
@@ -77818,14 +77818,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 60,
         "category": "रक्षा एवं सैन्य अभ्यास",
-        "question_en": "[Q60] निम्नलिखित द्विपक्षीय सैन्य अभ्यासों और भागीदार देशों में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "Which of the following pairs of bilateral military exercises and partner countries is NOT correctly matched?",
         "options_en": [
-          "दस्तलिक (DUSTLIK) - भारत और उज़्बेकिस्तान",
-          "धर्म गार्जियन (Dharma Guardian) - भारत और जापान",
-          "वज्र प्रहार (Vajra Prahar) - भारत और संयुक्त राज्य अमेरिका",
-          "मित्र शक्ति (Mitra Shakti) - भारत और मालदीव"
+          "DUSTLIK - India and Uzbekistan",
+          "Dharma Guardian - India and Japan",
+          "Vajra Prahar - India and United States of America",
+          "Mitra Shakti - India and Maldives"
         ],
-        "explanation_en": "Explanation for Q60: युग्म (D) सही सुमेलित नहीं है। 'मित्र शक्ति' भारत और श्रीलंका की सेनाओं के बीच होने वाला संयुक्त सैन्य अभ्यास है, जबकि भारत और मालदीव के बीच 'एकुवेरिन..."
+        "explanation_en": "Pair (D) is not correctly matched. 'Mitra Shakti' is a joint bilateral military exercise conducted between the armies of India and Sri Lanka. The bilateral military exercises between India and Maldives are 'Ekuverin' and 'Ekatha'."
       }
     },
     {
@@ -77855,14 +77855,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 59,
         "category": "भारतीय अर्थव्यवस्था",
-        "question_en": "[Q59] भारतीय रिज़र्व बैंक (RBI) की मौद्रिक नीति समिति (MPC) के संदर्भ में Consider the following statements:\n1. मौद्रिक नीति समिति में कुल 6 सदस्य होते हैं, जिनमें 3 आरबीआई से और 3 केंद्र सरकार द्वारा नामित बाहरी सदस्य होते हैं।\n2. केंद्र सरकार द्वारा आरबीआई के लिए निर्धारित उपभोक्ता मूल्य सूचकांक (CPI) आधारित मुद्रास्फीति लक्ष्य 4% (+/- 2% सहनशीलता बैंड के साथ) है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the Monetary Policy Committee (MPC) of the Reserve Bank of India (RBI), consider the following statements:\n1. The Monetary Policy Committee comprises a total of 6 members, including 3 from the RBI and 3 external members nominated by the Central Government.\n2. The Consumer Price Index (CPI) based inflation target set for the RBI by the Central Government is 4% (with a tolerance band of +/- 2%).\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q59: दोनों कथन सत्य हैं। आरबीआई अधिनियम, 1934 की धारा 45ZB के तहत गठित 6-सदस्यीय एमपीसी (जिसकी अध्यक्षता आरबीआई गवर्नर करते हैं) 2% से 6% (4% +/- 2%) के मु..."
+        "explanation_en": "Both statements are correct. Constituted under Section 45ZB of the RBI Act, 1934, the 6-member MPC (chaired by the RBI Governor) determines the policy repo rate in alignment with the flexible inflation target of 4% (+/- 2%, i.e., 2% to 6%)."
       }
     },
     {
@@ -77892,14 +77892,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 58,
         "category": "कृत्रिम बुद्धिमत्ता एवं प्रौद्योगिकी",
-        "question_en": "[Q58] भारत सरकार द्वारा स्वीकृत 'इंडिया एआई मिशन' (IndiaAI Mission) के प्रमुख स्तंभों में निम्नलिखित में से क्या शामिल है?\n1. 10,000 से अधिक जीपीयू (GPUs) वाली उच्च-क्षमता की एआई कंप्यूटिंग अवसंरचना का निर्माण\n2. स्वदेशी बड़े मल्टीमॉडल मॉडल (LMMs) विकसित करने हेतु इंडिया एआई इनोवेशन सेंटर की स्थापना\n3. डीप-टेक स्टार्टअप्स को वित्तपोषण प्रदान करना\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनें:",
+        "question_en": "Which of the following are included among the key pillars of the 'IndiaAI Mission' approved by the Government of India?\n1. Establishing high-end AI computing infrastructure with over 10,000 GPUs\n2. Setting up the IndiaAI Innovation Centre to develop indigenous Large Multimodal Models (LMMs)\n3. Providing funding support to deep-tech startups\n\nSelect the correct answer using the code given below:",
         "options_en": [
-          "Only 1 and 2",
-          "Only 2 and 3",
-          "Only 1 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
           "1, 2 and 3"
         ],
-        "explanation_en": "Explanation for Q58: तीनों कथन सत्य हैं। ₹10,300 करोड़ से अधिक के परिव्यय वाले IndiaAI Mission का उद्देश्य भारत में कंप्यूट क्षमता, डेटासेट प्लेटफॉर्म, फाउंडेशन मॉडल विकास..."
+        "explanation_en": "All three statements are correct. With a budget outlay exceeding ₹10,300 crore, the IndiaAI Mission aims to bolster compute infrastructure, dataset accessibility, foundation model development, and the AI startup ecosystem across the nation."
       }
     },
     {
@@ -77929,14 +77929,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 57,
         "category": "राष्ट्रीय सरकारी योजनाएं",
-        "question_en": "[Q57] 'पीएम विश्वकर्मा योजना' (PM Vishwakarma Scheme) के संदर्भ में Consider the following statements:\n1. यह योजना 18 पारंपरिक व्यवसायों से जुड़े कारीगरों और शिल्पकारों को कौशल प्रशिक्षण, टूलकिट प्रोत्साहन और संपार्श्विक-मुक्त (Collateral-free) ऋण सहायता प्रदान करती है।\n2. इसके अंतर्गत लाभार्थियों को ₹15,000 का टूलकिट ई-वाउचर और 5% की रियायती ब्याज दर पर दो किस्तों में कुल ₹3 लाख तक का ऋण उपलब्ध कराया जाता है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'PM Vishwakarma Scheme', consider the following statements:\n1. It provides skill training, toolkit incentives, and collateral-free credit support to traditional artisans and craftspeople engaged in 18 trades.\n2. Under the scheme, beneficiaries receive a ₹15,000 toolkit e-voucher and concessional credit support of up to ₹3 lakh in two tranches at a concessional interest rate of 5%.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q57: दोनों कथन सत्य हैं। 17 सितंबर 2023 को शुरू की गई पीएम विश्वकर्मा योजना सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (MSME) द्वारा संचालित है, जो बढ़ई, लोहार, ..."
+        "explanation_en": "Both statements are correct. Launched on September 17, 2023, the PM Vishwakarma Scheme is administered by the Ministry of Micro, Small and Medium Enterprises (MSME) and covers 18 traditional occupations including carpenters, blacksmiths, goldsmiths, potters, and masons."
       }
     },
     {
@@ -77966,14 +77966,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 56,
         "category": "भारतीय राजव्यवस्था एवं संसद",
-        "question_en": "[Q56] संविधान के 106वें संशोधन अधिनियम (नारी शक्ति वंदन अधिनियम) के संदर्भ में Consider the following statements:\n1. इसमें लोकसभा और सभी राज्य विधानसभाओं में महिलाओं के लिए एक-तिहाई (33%) सीटें आरक्षित करने का प्रावधान है।\n2. यह आरक्षण परिसीमन (Delimitation) की प्रक्रिया पूरी होने के बाद प्रभावी होगा और प्रारंभ में 15 वर्षों की अवधि के लिए लागू रहेगा।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the Constitution (106th Amendment) Act (Nari Shakti Vandan Adhiniyam), consider the following statements:\n1. It provides for reserving one-third (33%) of seats for women in the Lok Sabha and all State Legislative Assemblies.\n2. This reservation will take effect after the completion of the delimitation exercise and will initially remain in force for a period of 15 years.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q56: दोनों कथन सत्य हैं। 106वें संविधान संशोधन अधिनियम (2023) के तहत लोकसभा, राज्य विधानसभाओं और दिल्ली विधानसभा में महिलाओं को 33% आरक्षण देने का प्रावधान..."
+        "explanation_en": "Both statements are correct. Under the 106th Constitutional Amendment Act (2023), 33% reservation has been granted to women in the Lok Sabha, State Legislative Assemblies, and the Legislative Assembly of NCT of Delhi, which will come into effect after the delimitation following the upcoming census."
       }
     },
     {
@@ -78003,14 +78003,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 55,
         "category": "पर्यावरण एवं आर्द्रभूमि",
-        "question_en": "[Q55] भारत में रामसर स्थलों (Ramsar Sites - अंतरराष्ट्रीय महत्व की आर्द्रभूमियों) के संदर्भ में Consider the following statements:\n1. तमिलनाडु में भारत के किसी भी अन्य राज्य की तुलना में सर्वाधिक रामसर स्थल स्थित हैं।\n2. उत्तराखंड में वर्तमान में केवल एक ही रामसर स्थल 'आसन संरक्षण रिजर्व' (देहरादून) स्थित है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to Ramsar Sites (Wetlands of International Importance) in India, consider the following statements:\n1. Tamil Nadu has the highest number of Ramsar sites compared to any other state in India.\n2. Uttarakhand currently has only one designated Ramsar site, 'Asan Conservation Reserve' (Dehradun).\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q55: दोनों कथन सत्य हैं। भारत में सर्वाधिक रामसर स्थल तमिलनाडु में हैं (उसके बाद उत्तर प्रदेश का स्थान है), तथा उत्तराखंड में 'आसन कंजर्वेशन रिजर्व' (2020 ..."
+        "explanation_en": "Both statements are correct. Tamil Nadu has the highest number of Ramsar sites in India (followed by Uttar Pradesh), and the Asan Conservation Reserve in Dehradun (declared in 2020) is the sole Ramsar site located in Uttarakhand."
       }
     },
     {
@@ -78040,14 +78040,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 54,
         "category": "रक्षा एवं सुरक्षा",
-        "question_en": "[Q54] भारत की स्वदेशी मिसाइल प्रणाली 'अग्नि-5' के 'दिव्यास्त्र मिशन' (Mission Divyastra) के संदर्भ में Consider the following statements:\n1. इसमें एमआईआरवी (MIRV - Multiple Independently Targetable Re-entry Vehicle) तकनीक का सफलतापूर्वक परीक्षण किया गया है।\n2. एमआईआरवी तकनीक एक ही मिसाइल को सैकड़ों किलोमीटर दूर स्थित कई अलग-अलग लक्ष्यों पर स्वतंत्र रूप से परमाणु हथियार गिराने में सक्षम बनाती है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to 'Mission Divyastra' involving India's indigenous missile system 'Agni-5', consider the following statements:\n1. It successfully flight-tested the MIRV (Multiple Independently Targetable Re-entry Vehicle) technology.\n2. MIRV technology enables a single missile to deliver multiple nuclear warheads to different independent targets located hundreds of kilometers apart.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q54: दोनों कथन सत्य हैं। डीआरडीओ (DRDO) द्वारा मिशन दिव्यास्त्र के तहत MIRV तकनीक युक्त अग्नि-5 मिसाइल के सफल परीक्षण के साथ भारत अमेरिका, रूस, चीन, फ्रांस..."
+        "explanation_en": "Both statements are correct. With the successful flight test of the Agni-5 missile equipped with MIRV technology by the DRDO under Mission Divyastra, India joined an exclusive group of nations consisting of the US, Russia, China, France, and the UK."
       }
     },
     {
@@ -78077,14 +78077,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 53,
         "category": "अंतरिक्ष विज्ञान",
-        "question_en": "[Q53] भारत के पहले सौर मिशन 'आदित्य-एल1' (Aditya-L1) के संदर्भ में Consider the following statements:\n1. इसे पृथ्वी से लगभग 1.5 मिलियन (15 लाख) किलोमीटर दूर सूर्य-पृथ्वी प्रणाली के लैग्रेंज बिंदु 1 (L1) के चारों ओर प्रभामंडल कक्षा (Halo Orbit) में स्थापित किया गया है।\n2. यह अंतरिक्ष यान सूर्य की सतह पर उतरकर मिट्टी के नमूने एकत्र करेगा।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to India's maiden solar mission 'Aditya-L1', consider the following statements:\n1. It has been placed in a halo orbit around the Sun-Earth Lagrangian Point 1 (L1), located approximately 1.5 million kilometers from Earth.\n2. The spacecraft will land on the surface of the Sun to collect soil and mineral samples.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q53: कथन 1 सत्य है। कथन 2 असत्य है क्योंकि सूर्य का तापमान अत्यधिक होने के कारण कोई यान उसकी सतह पर नहीं उतर सकता; आदित्य-एल1 L1 बिंदु पर रहकर बिना किसी ग्..."
+        "explanation_en": "Statement 1 is correct. Statement 2 is incorrect because the Sun's surface temperature is extremely high, making it impossible for any spacecraft to land on it. Aditya-L1 continuously studies the Sun's corona, photosphere, chromosphere, and solar wind from the vantage point of L1 without any eclipses or occultation."
       }
     },
     {
@@ -78114,14 +78114,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 52,
         "category": "भारतीय अर्थव्यवस्था एवं बैंकिंग",
-        "question_en": "[Q52] 'एकीकृत पेंशन योजना' (Unified Pension Scheme - UPS) के संदर्भ में Consider the following statements:\n1. यह योजना न्यूनतम 25 वर्ष की अर्हक सेवा पूरी करने वाले केंद्र सरकार के कर्मचारियों को सेवानिवृत्ति से पूर्व अंतिम 12 महीनों के औसत मूल वेतन का 50% सुनिश्चित पेंशन प्रदान करती है।\n2. यदि किसी कर्मचारी ने 10 वर्ष या उससे अधिक लेकिन 25 वर्ष से कम सेवा की है, तो उसे न्यूनतम ₹10,000 प्रतिमाह की सुनिश्चित पेंशन मिलेगी।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Unified Pension Scheme' (UPS), consider the following statements:\n1. The scheme guarantees an assured pension of 50% of the average basic pay drawn over the last 12 months prior to retirement for central government employees completing a minimum qualifying service of 25 years.\n2. If an employee has completed 10 years or more but less than 25 years of service, they are entitled to an assured minimum pension of ₹10,000 per month.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q52: दोनों कथन सत्य हैं। केंद्र सरकार द्वारा एनपीएस (NPS) के विकल्प के रूप में लाई गई एकीकृत पेंशन योजना (UPS) 1 अप्रैल 2025 से प्रभावी हुई है, जिसमें सुनि..."
+        "explanation_en": "Both statements are correct. Introduced by the Central Government as an alternative to the National Pension System (NPS), the Unified Pension Scheme (UPS) became effective from April 1, 2025. It provides assured pension, family pension (60% of employee's pension), and dearness relief."
       }
     },
     {
@@ -78151,14 +78151,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 51,
         "category": "अंतरिक्ष एवं विज्ञान प्रौद्योगिकी",
-        "question_en": "[Q51] इसरो (ISRO) के 'स्पैडेक्स' (SpaDeX - Space Docking Experiment) मिशन के संदर्भ में Consider the following statements:\n1. इस मिशन के सफलतापूर्वक पूरा होने के साथ भारत अंतरिक्ष में दो उपग्रहों की डॉकिंग (Docking) करने वाला विश्व का चौथा देश बन गया है।\n2. भारत से पहले यह उपलब्धि केवल अमेरिका, रूस और चीन के पास थी।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to ISRO's 'SpaDeX' (Space Docking Experiment) mission, consider the following statements:\n1. With the successful completion of this mission, India has become the fourth country in the world to perform docking of two satellites in space.\n2. Prior to India, this capability was possessed only by the USA, Russia, and China.\n\nWhich of the above statements is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q51: दोनों कथन सत्य हैं। जनवरी 2025 में इसरो ने दो छोटे अंतरिक्ष यानों (SDX01 और SDX02) की सफलतापूर्वक अंतरिक्ष डॉकिंग कर इतिहास रचा, जिससे भारत अमेरिका, र..."
+        "explanation_en": "Both statements are correct. In January 2025, ISRO created history by successfully performing the space docking of two small spacecraft (SDX01 and SDX02), making India the fourth nation to master this technology after the United States, Russia, and China. This capability is critical for the proposed Bharatiya Antariksh Station (BAS) and the Chandrayaan-4 sample return mission."
       }
     },
     {
@@ -78188,14 +78188,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 50,
         "category": "सामाजिक न्याय एवं जनजातीय कल्याण",
-        "question_en": "[Q50] 'प्रधानमंत्री जनजाति आदिवासी न्याय महाअभियान' (PM-JANMAN) का मुख्य उद्देश्य क्या है?",
+        "question_en": "What is the primary objective of the 'Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan' (PM-JANMAN)?",
         "options_en": [
-          "केवल पूर्वोत्तर राज्यों में जनजातीय विश्वविद्यालयों की स्थापना करना",
-          "विशेष रूप से कमजोर जनजातीय समूहों (PVTGs) के परिवारों और बस्तियों को बुनियादी सुविधाएं उपलब्ध कराना",
-          "अधिसूचित जनजातियों को विदेश में उच्च शिक्षा हेतु शत-प्रतिशत ऋण देना",
-          "वन उपज के अंतर्राष्ट्रीय निर्यात हेतु विशेष आर्थिक क्षेत्र बनाना"
+          "To establish tribal universities exclusively in North-Eastern states",
+          "To provide basic amenities and critical infrastructure to Particularly Vulnerable Tribal Group (PVTG) households and habitations",
+          "To provide 100% loans to notified Scheduled Tribes for higher studies abroad",
+          "To create Special Economic Zones for the international export of minor forest produce"
         ],
-        "explanation_en": "Explanation for Q50: PM-JANMAN योजना देश के 18 राज्यों और केंद्र शासित प्रदेशों में निवास करने वाले 75 विशेष रूप से कमजोर जनजातीय समूहों (PVTGs - जैसे उत्तराखंड में राजी औ..."
+        "explanation_en": "The PM-JANMAN scheme focuses on the socio-economic empowerment of 75 Particularly Vulnerable Tribal Groups (PVTGs - such as the Raji and Buksa tribes in Uttarakhand) residing in 18 states and UTs by providing pucca housing, road connectivity, clean drinking water, electricity, and healthcare facilities."
       }
     },
     {
@@ -78225,14 +78225,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 49,
         "category": "राष्ट्रीय सरकारी योजनाएं",
-        "question_en": "[Q49] 'पीएम सूर्य घर: मुफ्त बिजली योजना' (PM Surya Ghar: Muft Bijli Yojana) के संबंध में Consider the following statements:\n1. इसका लक्ष्य देश के 1 करोड़ घरों की छतों पर सोलर पैनल लगाकर उन्हें प्रतिमाह 300 यूनिट तक मुफ्त बिजली प्रदान करना है।\n2. इस योजना के अंतर्गत 3 किलोवाट तक के रूफटॉप सोलर सिस्टम पर अधिकतम ₹78,000 तक की केंद्रीय सब्सिडी का प्रावधान है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'PM Surya Ghar: Muft Bijli Yojana', consider the following statements:\n1. It aims to provide up to 300 units of free electricity every month to 1 crore households across the country by installing rooftop solar panels.\n2. Under this scheme, a central subsidy of up to a maximum of ₹78,000 is provided for rooftop solar systems up to 3 kW capacity.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q49: दोनों कथन सत्य हैं। पीएम सूर्य घर योजना के तहत 1 kW पर ₹30,000, 2 kW पर ₹60,000 और 3 kW या उससे अधिक क्षमता के आवासीय रूफटॉप सोलर प्लांट पर ₹78,000 की..."
+        "explanation_en": "Both statements are correct. Under PM Surya Ghar Yojana, a direct subsidy of ₹30,000 for 1 kW, ₹60,000 for 2 kW, and ₹78,000 for residential rooftop systems of 3 kW or higher capacity is provided."
       }
     },
     {
@@ -78262,14 +78262,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 48,
         "category": "भारतीय राजव्यवस्था एवं चुनाव सुधार",
-        "question_en": "[Q48] 'एक राष्ट्र, एक चुनाव' (One Nation, One Election) पर गठित उच्च स्तरीय समिति (रामनाथ कोविंद समिति) की सिफारिशों के संदर्भ में Consider the following statements:\n1. समिति ने प्रथम चरण में लोकसभा और सभी राज्य विधानसभाओं के चुनाव एक साथ कराने की सिफारिश की है।\n2. द्वितीय चरण में आम चुनाव के 100 दिनों के भीतर नगर पालिकाओं और पंचायतों के चुनाव कराने का प्रस्ताव है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the recommendations of the High-Level Committee on 'One Nation, One Election' (Ram Nath Kovind Committee), consider the following statements:\n1. The Committee recommended holding simultaneous elections for the Lok Sabha and all State Legislative Assemblies in the first step.\n2. In the second step, elections to Municipalities and Panchayats are proposed to be held within 100 days of the general elections.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q48: दोनों कथन सत्य हैं। पूर्व राष्ट्रपति रामनाथ कोविंद की अध्यक्षता वाली उच्च स्तरीय समिति ने दो चरणों में समकालिक चुनाव (पहला चरण: लोकसभा + विधानसभाएं; द..."
+        "explanation_en": "Both statements are correct. The High-Level Committee chaired by former President Ram Nath Kovind recommended a two-phase rollout for simultaneous elections (Phase 1: Lok Sabha + Assemblies; Phase 2: Local bodies within 100 days) along with the preparation of a single common electoral roll."
       }
     },
     {
@@ -78299,14 +78299,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 47,
         "category": "भारतीय राजव्यवस्था एवं कानून",
-        "question_en": "[Q47] 1 जुलाई 2024 से संपूर्ण देश में लागू हुए तीन नए आपराधिक कानूनों के संदर्भ में निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "With reference to the three new criminal laws that came into force across India from 1 July 2024, which of the following pairs is not correctly matched?",
         "options_en": [
-          "भारतीय न्याय संहिता (BNS), 2023 - भारतीय दंड संहिता (IPC), 1860 का स्थान लिया",
-          "भारतीय नागरिक सुरक्षा संहिता (BNSS), 2023 - दंड प्रक्रिया संहिता (CrPC), 1973 का स्थान लिया",
-          "भारतीय साक्ष्य अधिनियम (BSA), 2023 - भारतीय साक्ष्य अधिनियम, 1872 का स्थान लिया",
-          "भारतीय न्याय संहिता (BNS) में कुल धाराओं की संख्या IPC की तुलना में बढ़ाकर 611 कर दी गई है"
+          "Bharatiya Nyaya Sanhita (BNS), 2023 - Replaced Indian Penal Code (IPC), 1860",
+          "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 - Replaced Code of Criminal Procedure (CrPC), 1973",
+          "Bharatiya Sakshya Adhiniyam (BSA), 2023 - Replaced Indian Evidence Act, 1872",
+          "The total number of sections in Bharatiya Nyaya Sanhita (BNS) has been increased to 611 compared to IPC"
         ],
-        "explanation_en": "Explanation for Q47: कथन (D) असत्य है। भारतीय न्याय संहिता (BNS), 2023 में कुल 358 धाराएं हैं, जो पूर्ववर्ती भारतीय दंड संहिता (IPC) की 511 धाराओं की तुलना में कम और अधिक ..."
+        "explanation_en": "Statement (D) is incorrect. The Bharatiya Nyaya Sanhita (BNS), 2023 contains a total of 358 sections, which is fewer and more streamlined compared to the 511 sections in the former Indian Penal Code (IPC)."
       }
     },
     {
@@ -78336,14 +78336,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 46,
         "category": "भारतीय राजव्यवस्था एवं आयोग",
-        "question_en": "[Q46] 16वें वित्त आयोग (16th Finance Commission) के संदर्भ में Consider the following statements:\n1. इसका गठन संविधान के अनुच्छेद 280 के तहत डॉ. अरविंद पनगढ़िया की अध्यक्षता में किया गया है।\n2. इसकी सिफारिशें 1 अप्रैल 2026 से प्रारंभ होने वाली 5 वर्षों की अवधि (2026–2031) के लिए लागू होंगी।\n3. इस आयोग के विचारार्थ विषयों (Terms of Reference) में आपदा प्रबंधन अधिनियम, 2005 के तहत गठित निधियों के वित्तपोषण की समीक्षा भी शामिल है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 16th Finance Commission, consider the following statements:\n1. It has been constituted under Article 280 of the Constitution under the chairmanship of Dr. Arvind Panagariya.\n2. Its recommendations will cover a five-year period (2026–2031) commencing on 1 April 2026.\n3. The Terms of Reference of the Commission include reviewing the financing of disaster management funds constituted under the Disaster Management Act, 2005.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1 and 2",
-          "Only 2 and 3",
-          "Only 1 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
           "1, 2 and 3"
         ],
-        "explanation_en": "Explanation for Q46: तीनों कथन सत्य हैं। नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगढ़िया की अध्यक्षता में गठित 16वें वित्त आयोग की सिफारिशें 2026-27 से 2030-31 तक की पंचव..."
+        "explanation_en": "All three statements are correct. The 16th Finance Commission, chaired by former NITI Aayog Vice-Chairman Dr. Arvind Panagariya, will submit recommendations for the five-year period from 2026-27 to 2030-31, including tax devolution between Centre and States and disaster management financing."
       }
     },
     {
@@ -78373,14 +78373,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 45,
         "category": "उत्तराखंड समसामयिकी",
-        "question_en": "[Q45] उत्तराखंड राज्य स्थापना का रजत जयंती वर्ष (Silver Jubilee Year - 25 वर्ष पूर्ण होने का उत्सव) किस तिथि को मनाया गया?",
+        "question_en": "On which date was the Silver Jubilee Year (celebrating the completion of 25 years) of the foundation of Uttarakhand state observed?",
         "options_en": [
-          "9 नवंबर 2024",
-          "9 नवंबर 2025",
-          "9 नवंबर 2026",
-          "15 अगस्त 2025"
+          "9 November 2024",
+          "9 November 2025",
+          "9 November 2026",
+          "15 August 2025"
         ],
-        "explanation_en": "Explanation for Q45: उत्तराखंड राज्य का गठन 9 नवंबर 2000 को हुआ था। अतः 9 नवंबर 2024 से रजत जयंती वर्ष की शुरुआत हुई और 9 नवंबर 2025 को राज्य स्थापना के 25 वर्ष पूर्ण होने..."
+        "explanation_en": "Uttarakhand state was carved out on 9 November 2000. Hence, the Silver Jubilee Year commenced on 9 November 2024, and the completion of 25 years of statehood (Silver Jubilee Festival) was celebrated on 9 November 2025."
       }
     },
     {
@@ -78410,14 +78410,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 44,
         "category": "उत्तराखंड ऊर्जा",
-        "question_en": "[Q44] उत्तराखंड में भू-तापीय ऊर्जा (Geothermal Energy) के दोहन की संभावनाओं वाले प्रमुख तप्त कुंड क्षेत्र कौन-से हैं?\n1. तपोवन (चमोली)\n2. गंगनानी (उत्तरकाशी)\n3. दारमा एवं ब्यास घाटी (पिथौरागढ़)\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनें:",
+        "question_en": "Which of the following are prominent geothermal hot spring regions in Uttarakhand with potential for geothermal energy exploitation?\n1. Tapovan (Chamoli)\n2. Gangnani (Uttarkashi)\n3. Darma and Byas Valley (Pithoragarh)\n\nSelect the correct answer using the code given below:",
         "options_en": [
-          "Only 1 and 2",
-          "Only 2 and 3",
-          "Only 1 and 3",
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
           "1, 2 and 3"
         ],
-        "explanation_en": "Explanation for Q44: उत्तराखंड की जियोथर्मल एनर्जी पॉलिसी के तहत चमोली (तपोवन, बद्रीनाथ), उत्तरकाशी (गंगनानी, यमुनोत्री) और पिथौरागढ़ (दारमा-ब्यास घाटी) में लगभग 40 से अधि..."
+        "explanation_en": "Under Uttarakhand's Geothermal Energy Policy, clean energy generation potential has been identified across more than 40 natural geothermal hot springs located in Chamoli (Tapovan, Badrinath), Uttarkashi (Gangnani, Yamunotri), and Pithoragarh (Darma-Byas Valley)."
       }
     },
     {
@@ -78447,14 +78447,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 43,
         "category": "उत्तराखंड खेल एवं युवा",
-        "question_en": "[Q43] उत्तराखंड के किस खिलाड़ी ने पेरिस ओलंपिक 2024 में बैडमिंटन पुरुष एकल स्पर्धा के सेमीफाइनल में पहुंचकर इतिहास रचा (ओलंपिक सेमीफाइनल में पहुंचने वाले पहले भारतीय पुरुष शटलर)?",
+        "question_en": "Which athlete from Uttarakhand created history by reaching the semifinals of the badminton men's singles event at the Paris Olympics 2024 (becoming the first Indian male shuttler to reach an Olympic semifinal)?",
         "options_en": [
-          "परमजीत सिंह बिष्ट",
-          "चिराग शेट्टी",
-          "सूरज पंवार",
-          "लक्ष्य सेन"
+          "Paramjeet Singh Bisht",
+          "Chirag Shetty",
+          "Suraj Panwar",
+          "Lakshya Sen"
         ],
-        "explanation_en": "Explanation for Q43: अल्मोड़ा (उत्तराखंड) के बैडमिंटन खिलाड़ी लक्ष्य सेन पेरिस ओलंपिक 2024 में पुरुष एकल स्पर्धा के सेमीफाइनल में पहुंचने वाले पहले भारतीय पुरुष बैडमिंटन ख..."
+        "explanation_en": "Badminton player Lakshya Sen from Almora (Uttarakhand) became the first Indian male badminton player to reach the semifinals of the men's singles event at the Paris Olympics 2024 (he finished fourth in the bronze medal playoff)."
       }
     },
     {
@@ -78484,14 +78484,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 42,
         "category": "उत्तराखंड पर्यटन",
-        "question_en": "[Q42] 'वीर चंद्र सिंह गढ़वाली पर्यटन स्वरोजगार योजना' के संदर्भ में Consider the following statements:\n1. यह योजना वर्ष 2002 में प्रारंभ की गई थी और इसका उद्देश्य स्थानीय युवाओं को पर्यटन क्षेत्र (वाहन खरीद, होटल, रेस्टोरेंट, साहसिक पर्यटन) में स्वरोजगार से जोड़ना है।\n2. इस योजना के अंतर्गत गैर-वाहन मदों में पर्वतीय क्षेत्रों में लागत का 33% तक (अधिकतम ₹15 लाख) राजसहायता (Subsidy) दी जाती है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Veer Chandra Singh Garhwali Tourism Self-Employment Scheme', consider the following statements:\n1. It was launched in the year 2002 to connect local youth with self-employment in the tourism sector (vehicle procurement, hotels, restaurants, adventure tourism).\n2. Under this scheme, for non-vehicle activities in hilly areas, capital subsidy of up to 33% of the project cost (maximum ₹15 lakh) is provided.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q42: दोनों कथन सत्य हैं। 1 जून 2002 को शुरू हुई यह उत्तराखंड की सबसे सफल पर्यटन स्वरोजगार योजनाओं में से एक है, जिसमें गैर-वाहन पर्यटन परियोजनाओं पर पर्वती..."
+        "explanation_en": "Both statements are correct. Launched on June 1, 2002, this is one of Uttarakhand's flagship tourism self-employment schemes, offering 33% subsidy (maximum ₹15 lakh) in hilly areas and 25% subsidy (maximum ₹10 lakh) in plains for non-vehicle tourism ventures."
       }
     },
     {
@@ -78521,14 +78521,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 41,
         "category": "उत्तराखंड भूगोल एवं पारिस्थितिकी",
-        "question_en": "[Q41] हिमालयी राज्यों में पर्यावरण संरक्षण और आर्थिक विकास के संतुलन को मापने के लिए उत्तराखंड सरकार द्वारा किस नए सूचकांक की अवधारणा को अपनाया गया है?",
+        "question_en": "Which new index concept has been adopted by the Government of Uttarakhand to measure the balance between environmental conservation and economic development in Himalayan states?",
         "options_en": [
-          "सकल हरित खुशहाली सूचकांक (Gross Green Happiness)",
-          "सकल पर्यावरण उत्पाद (Gross Environment Product - GEP)",
-          "हिमालयी कार्बन क्रेडिट सूचकांक",
-          "राष्ट्रीय पारिस्थितिक पदचिह्न सूचकांक"
+          "Gross Green Happiness Index",
+          "Gross Environment Product (GEP)",
+          "Himalayan Carbon Credit Index",
+          "National Ecological Footprint Index"
         ],
-        "explanation_en": "Explanation for Q41: उत्तराखंड देश का पहला राज्य है जिसने GSDP के समानांतर अपने प्राकृतिक संसाधनों (वायु, जल, वन और मृदा) की गुणवत्ता में वृद्धि या ह्रास को मापने के लिए '..."
+        "explanation_en": "Uttarakhand is the first state in the country to introduce the 'Gross Environment Product' (GEP) index parallel to GSDP to quantify the growth or degradation in the quality of its natural capital (air, water, forest, and soil)."
       }
     },
     {
@@ -78558,14 +78558,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 40,
         "category": "उत्तराखंड इतिहास एवं समसामयिकी",
-        "question_en": "[Q40] उत्तराखंड राज्य आंदोलन के शहीदों के आश्रितों और चिह्नित राज्य आंदोलनकारियों को राज्य की सरकारी सेवाओं में कितने प्रतिशत क्षैतिज आरक्षण (Horizontal Reservation) प्रदान करने हेतु अधिनियम लागू किया गया है?",
+        "question_en": "What percentage of horizontal reservation in state government services has been enacted through law for identified Uttarakhand statehood agitationists (Andolankaris) and their dependents?",
         "options_en": [
-          "5 प्रतिशत",
-          "10 प्रतिशत",
-          "15 प्रतिशत",
-          "20 प्रतिशत"
+          "5 percent",
+          "10 percent",
+          "15 percent",
+          "20 percent"
         ],
-        "explanation_en": "Explanation for Q40: उत्तराखंड राज्य आंदोलन के चिह्नित आंदोलनकारियों और उनके आश्रितों को राज्य की सरकारी नौकरियों में 10 प्रतिशत क्षैतिज आरक्षण (Horizontal Reservation) प्..."
+        "explanation_en": "The bill providing 10 percent horizontal reservation in state government jobs to identified Uttarakhand statehood movement activists and their dependents has received the Governor's assent and been enacted into law."
       }
     },
     {
@@ -78595,14 +78595,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 39,
         "category": "उत्तराखंड महिला सशक्तिकरण",
-        "question_en": "[Q39] 'मुख्यमंत्री महालक्ष्मी किट योजना' (Uttarakhand) के अंतर्गत लाभार्थी कौन हैं?",
+        "question_en": "Who are the beneficiaries under the 'Mukhyamantri Mahalakshmi Kit Yojana' in Uttarakhand?",
         "options_en": [
-          "केवल उच्च शिक्षा में पीएचडी करने वाली छात्राएं",
-          "प्रथम दो प्रसव पर बालिका को जन्म देने वाली माताएं",
-          "केवल महिला उद्यमी जो निर्यात व्यवसाय शुरू करती हैं",
-          "60 वर्ष से अधिक आयु की निराश्रित महिलाएं"
+          "Only female students pursuing a Ph.D. in higher education",
+          "Mothers giving birth to a girl child upon their first two deliveries",
+          "Only women entrepreneurs starting an export business",
+          "Destitute women above 60 years of age"
         ],
-        "explanation_en": "Explanation for Q39: मुख्यमंत्री महालक्ष्मी किट योजना के तहत संस्थागत प्रसव को प्रोत्साहित करने तथा जच्चा-बच्चा के स्वास्थ्य व स्वच्छता हेतु प्रथम दो प्रसव पर कन्या शिशु क..."
+        "explanation_en": "Under the Mukhyamantri Mahalakshmi Kit Yojana, kits containing nutrition and hygiene materials are provided to mothers delivering girl children on their first two deliveries to promote institutional delivery and ensure the health and hygiene of both mother and newborn child."
       }
     },
     {
@@ -78632,14 +78632,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 38,
         "category": "उत्तराखंड नीति एवं सुशासन",
-        "question_en": "[Q38] उत्तराखंड की 'हस्तशिल्प एवं हथकरघा नीति' के संदर्भ में 'एक जिला दो उत्पाद' (One District Two Products - ODTP) योजना के तहत निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "Under the 'One District Two Products' (ODTP) scheme in the context of Uttarakhand's Handicraft and Handloom Policy, which of the following pairs is not correctly matched?",
         "options_en": [
-          "रुद्रप्रयाग - मंदिर प्रतिकृति (काष्ठ शिल्प) एवं प्रसाद उत्पाद",
-          "बागेश्वर - ताम्र शिल्प उत्पाद एवं मंडुवा बिस्किट",
-          "चमोली - ऊनी हस्तशिल्प एवं सुगंधित उत्पाद",
-          "हरिद्वार - रिंगाल शिल्प एवं ऐपण कला"
+          "Rudraprayag - Temple Replica (Wood Craft) and Prasad Products",
+          "Bageshwar - Copper Craft Products and Manduwa (Finger Millet) Biscuits",
+          "Chamoli - Woolen Handicrafts and Aromatic Products",
+          "Haridwar - Ringal Craft and Aipan Art"
         ],
-        "explanation_en": "Explanation for Q38: युग्म (D) सही सुमेलित नहीं है। रिंगाल शिल्प मुख्य रूप से पर्वतीय जिलों (चमोली, रुद्रप्रयाग, पिथौरागढ़) से तथा ऐपण कला मुख्य रूप से कुमाऊं क्षेत्र (नैन..."
+        "explanation_en": "Pair (D) is not correctly matched. Ringal craft is primarily associated with hilly districts (Chamoli, Rudraprayag, Pithoragarh), and Aipan art is predominantly associated with the Kumaon region (Nainital, Almora), whereas prominent products of Haridwar under ODTP are jaggery (gur) and honey."
       }
     },
     {
@@ -78669,14 +78669,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 37,
         "category": "उत्तराखंड पुरस्कार एवं सम्मान",
-        "question_en": "[Q37] उत्तराखंड के प्रतिष्ठित 'उत्तराखंड गौरव सम्मान' के संबंध में Consider the following statements:\n1. इसकी शुरुआत राज्य स्थापना दिवस के अवसर पर वर्ष 2021 में की गई थी।\n2. यह सम्मान कला, साहित्य, विज्ञान, पर्यावरण, खेल और लोक सेवा के क्षेत्र में असाधारण योगदान देने वाली विभूतियों को प्रदान किया जाता है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to Uttarakhand's prestigious 'Uttarakhand Gaurav Samman', consider the following statements:\n1. It was instituted on the occasion of State Foundation Day in the year 2021.\n2. This honor is conferred on eminent personalities for their extraordinary contributions in the fields of art, literature, science, environment, sports, and public service.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q37: दोनों कथन सत्य हैं। उत्तराखंड गौरव सम्मान की शुरुआत नवंबर 2021 में राज्य स्थापना दिवस के अवसर पर की गई थी।..."
+        "explanation_en": "Both statements are correct. The Uttarakhand Gaurav Samman was instituted in November 2021 on the occasion of Uttarakhand State Foundation Day."
       }
     },
     {
@@ -78706,14 +78706,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 36,
         "category": "उत्तराखंड अवसंरचना",
-        "question_en": "[Q36] उत्तराखंड में 'लखवाड़ बहुउद्देशीय परियोजना' (Lakhwar Multipurpose Project) किस नदी पर निर्मित की जा रही है?",
+        "question_en": "On which river is the 'Lakhwar Multipurpose Project' being constructed in Uttarakhand?",
         "options_en": [
-          "अलकनंदा नदी",
-          "यमुना नदी",
-          "मंदाकिनी नदी",
-          "काली (शारदा) नदी"
+          "Alaknanda River",
+          "Yamuna River",
+          "Mandakini River",
+          "Kali (Sharda) River"
         ],
-        "explanation_en": "Explanation for Q36: 300 मेगावाट की लखवाड़ बहुउद्देशीय परियोजना देहरादून जिले के लोहारी गांव के पास यमुना नदी पर निर्मित की जा रही है। यह राष्ट्रीय महत्व की परियोजना है जि..."
+        "explanation_en": "The 300 MW Lakhwar Multipurpose Project is being constructed on the Yamuna River near Lohari village in Dehradun district. It is a project of national importance that will provide water benefits to 6 states (Uttarakhand, Uttar Pradesh, Himachal Pradesh, Haryana, Rajasthan, and Delhi)."
       }
     },
     {
@@ -78743,14 +78743,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 35,
         "category": "उत्तराखंड पर्यावरण एवं वन",
-        "question_en": "[Q35] देश का पहला 'मॉस गार्डन' (Moss Garden) उत्तराखंड के किस स्थान पर विकसित किया गया है?",
+        "question_en": "At which location in Uttarakhand has the country's first 'Moss Garden' been developed?",
         "options_en": [
-          "रानीखेत, अल्मोड़ा",
-          "खुरपाताल, नैनीताल",
-          "मुनस्यारी, पिथौरागढ़",
-          "चकराता, देहरादून"
+          "Ranikhet, Almora",
+          "Khurpatal, Nainital",
+          "Munsyari, Pithoragarh",
+          "Chakrata, Dehradun"
         ],
-        "explanation_en": "Explanation for Q35: उत्तराखंड वन विभाग के अनुसंधान विंग द्वारा देश का पहला 'मॉस गार्डन' (काई उद्यान) नैनीताल जिले के खुरपाताल में विकसित किया गया है, जिसका उद्देश्य ब्राय..."
+        "explanation_en": "The country's first 'Moss Garden' has been developed by the Research Wing of the Uttarakhand Forest Department at Khurpatal in Nainital district, aimed at conserving the ecological significance of various species of bryophytes (mosses). (Note: India's first Lichen Park is located at Munsyari, Pithoragarh)."
       }
     },
     {
@@ -78780,14 +78780,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 34,
         "category": "उत्तराखंड जनसांख्यिकी एवं प्रशासन",
-        "question_en": "[Q34] जनगणना 2027 (Census 2027) के प्रारंभिक चरण 'मकान सूचीकरण एवं मकानों की गणना' (Houselisting Operations) के संदर्भ में Consider the following statements:\n1. जनगणना 2027 भारत की पहली पूर्णतः डिजिटल जनगणना होगी, जिसमें प्रगणक मोबाइल एप्लिकेशन के माध्यम से आंकड़े एकत्र करेंगे।\n2. इसमें नागरिकों को स्व-गणना (Self-Enumeration) का विकल्प भी उपलब्ध कराया जा रहा है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the preparatory phase of Census 2027, 'Houselisting and Housing Census' (Houselisting Operations), consider the following statements:\n1. Census 2027 will be India's first fully digital census, wherein enumerators will collect data via mobile applications.\n2. Citizens are also being provided with the option of Self-Enumeration.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q34: दोनों कथन सत्य हैं। आगामी जनगणना डिजिटल मोड (मोबाइल ऐप आधारित प्रगणक सर्वेक्षण और स्व-गणना पोर्टल) में संपन्न होगी, जिसमें प्रत्येक मकान सूचीकरण ब्लॉक..."
+        "explanation_en": "Both statements are correct. The upcoming Census will be conducted digitally (mobile app-based enumerator survey and self-enumeration portal), with notional layout maps (Nazri Naksha) and digital geo-tagging being prepared for each Houselisting Block (HLB)."
       }
     },
     {
@@ -78817,14 +78817,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 33,
         "category": "उत्तराखंड संस्कृति एवं साहित्य",
-        "question_en": "[Q33] यूनेस्को (UNESCO) की 'अमूर्त सांस्कृतिक विरासत' (Intangible Cultural Heritage) सूची में शामिल उत्तराखंड का प्रसिद्ध धार्मिक एवं सांस्कृतिक उत्सव 'रम्माण' (Ramman) किस जिले से संबंधित है?",
+        "question_en": "The famous religious and cultural festival 'Ramman' of Uttarakhand, inscribed on UNESCO's Representative List of the 'Intangible Cultural Heritage of Humanity', belongs to which district?",
         "options_en": [
-          "रुद्रप्रयाग",
-          "चमोली",
-          "उत्तरकाशी",
-          "बागेश्वर"
+          "Rudraprayag",
+          "Chamoli",
+          "Uttarkashi",
+          "Bageshwar"
         ],
-        "explanation_en": "Explanation for Q33: 'रम्माण' चमोली जिले के जोशीमठ (ज्योतिर्मठ) विकासखंड के सलूड़-डूंगरा गांव में प्रतिवर्ष अप्रैल माह में भूमियाल देवता के सम्मान में आयोजित होने वाला मुख..."
+        "explanation_en": "'Ramman' is a ritual theatre and mask dance festival organized annually in April in honor of the local deity Bhumiyal Devta at Saloor-Dungra village in Joshimath (Jyotirmath) block of Chamoli district. It was inscribed on UNESCO's Intangible Cultural Heritage list in 2009."
       }
     },
     {
@@ -78854,14 +78854,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 32,
         "category": "उत्तराखंड कृषि एवं पशुपालन",
-        "question_en": "[Q32] पर्वतीय क्षेत्रों में पशुपालन और महिला श्रम कम करने के उद्देश्य से शुरू की गई 'मुख्यमंत्री घसियारी कल्याण योजना' के अंतर्गत मुख्य रूप से क्या उपलब्ध कराया जाता है?",
+        "question_en": "What is primarily provided under the 'Mukhyamantri Ghasiyari Kalyan Yojana', launched with the objective of supporting animal husbandry and reducing drudgery of women in hilly areas?",
         "options_en": [
-          "दुधारू पशुओं की खरीद पर शत-प्रतिशत निःशुल्क ऋण",
-          "वैज्ञानिक रूप से तैयार पौष्टिक साइलेज (Silage) पशु चारा बैग",
-          "प्रत्येक ग्राम पंचायत में निःशुल्क डेयरी प्रसंस्करण संयंत्र",
-          "पशुपालकों को प्रतिमाह ₹5,000 की सीधी नकद पेंशन"
+          "100% interest-free loans on purchase of milch cattle",
+          "Scientifically prepared nutritious silage cattle fodder bags",
+          "Free dairy processing plants in every Gram Panchayat",
+          "Direct monthly cash pension of ₹5,000 to livestock keepers"
         ],
-        "explanation_en": "Explanation for Q32: मुख्यमंत्री घसियारी कल्याण योजना के तहत पर्वतीय महिलाओं को जंगलों से चारा लाने के जोखिम (वनाग्नि व जंगली जानवरों के खतरे) से बचाने के लिए सहकारी समिति..."
+        "explanation_en": "Under the Mukhyamantri Ghasiyari Kalyan Yojana, vacuum-packed nutritious silage (cattle feed) is provided at subsidized rates through cooperative societies to protect mountain women from the drudgery and hazards of collecting fodder from forests (such as forest fires and wild animal attacks)."
       }
     },
     {
@@ -78891,14 +78891,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 31,
         "category": "उत्तराखंड अर्थव्यवस्था एवं उद्योग",
-        "question_en": "[Q31] उत्तराखंड की 'नई पर्यटन नीति' (New Tourism Policy) के संदर्भ में निम्नलिखित में से कौन-सा कथन सत्य है?",
+        "question_en": "With reference to Uttarakhand's 'New Tourism Policy', which of the following statements is true?",
         "options_en": [
-          "श्रेणी A के अंतर्गत केवल देहरादून और नैनीताल शहरों को रखा गया है ताकि यहाँ सर्वाधिक सब्सिडी दी जा सके।",
-          "इसमें राज्य के कम ज्ञात पर्यटन स्थलों के विकास हेतु जिलों को श्रेणी A, B और C में विभाजित कर पूंजीगत सब्सिडी दी जाती है।",
-          "इसमें रोपवे, वेलनेस सेंटर और हेरिटेज होटल को उद्योग का दर्जा नहीं दिया गया है।",
-          "यह नीति केवल विदेशी पर्यटकों के लिए वीजा सुविधा प्रदान करने हेतु बनाई गई है।"
+          "Only Dehradun and Nainital cities have been placed under Category A so that maximum subsidy can be provided there.",
+          "To develop lesser-known tourist destinations in the state, districts are divided into Categories A, B, and C to provide capital subsidies.",
+          "Ropeways, wellness centres, and heritage hotels have not been granted industry status.",
+          "This policy has been framed exclusively to provide visa facilities for foreign tourists."
         ],
-        "explanation_en": "Explanation for Q31: कथन (B) सत्य है। उत्तराखंड पर्यटन नीति में क्षेत्रीय असंतुलन दूर करने के लिए पर्वतीय व सीमांत जिलों को श्रेणी A में रखा गया है ताकि वहां निवेशकों को उ..."
+        "explanation_en": "Statement (B) is true. In Uttarakhand's Tourism Policy, mountainous and border districts are placed under Category A to address regional imbalance and offer higher capital investment subsidies to investors, whereas well-developed tourist destinations like Dehradun, Haridwar, and Nainital are placed under Category C."
       }
     },
     {
@@ -78928,14 +78928,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 30,
         "category": "उत्तराखंड भूगोल एवं आपदा प्रबंधन",
-        "question_en": "[Q30] उत्तराखंड में हिमनद झील प्रस्फोटन बाढ़ (GLOF - Glacial Lake Outburst Flood) के जोखिम मूल्यांकन के संदर्भ में Consider the following statements:\n1. राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) और उत्तराखंड राज्य आपदा प्रबंधन प्राधिकरण (USDMA) ने राज्य की अति-संवेदनशील हिमनद झीलों की पहचान की है।\n2. पिथौरागढ़ जिले की दारमा घाटी में स्थित 'वसुंधरा ताल' को उच्च जोखिम श्रेणी की हिमनद झीलों में चिह्नित किया गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the risk assessment of Glacial Lake Outburst Floods (GLOF) in Uttarakhand, consider the following statements:\n1. The National Disaster Management Authority (NDMA) and Uttarakhand State Disaster Management Authority (USDMA) have identified highly vulnerable glacial lakes in the state.\n2. 'Vasudhara Tal', located in the Darma Valley of Pithoragarh district, has been identified among the high-risk glacial lakes.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q30: दोनों कथन सत्य हैं। उत्तराखंड में 13 संवेदनशील हिमनद झीलों को चिह्नित किया गया है, जिनमें पिथौरागढ़ की वसुंधरा ताल, मबंग, प्योंग्रुंग तथा चमोली की झील..."
+        "explanation_en": "Both statements are correct. 13 vulnerable glacial lakes have been identified in Uttarakhand, including Vasudhara Tal, Mhabang, Pyongrung in Pithoragarh, and lakes in Chamoli, where bathymetric surveys and Early Warning System (EWS) installations are being undertaken."
       }
     },
     {
@@ -78965,14 +78965,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 29,
         "category": "उत्तराखंड प्रशासन एवं सुशासन",
-        "question_en": "[Q29] उत्तराखंड सरकार द्वारा नागरिक सेवाओं की पारदर्शी और त्वरित डिलीवरी के लिए शुरू किए गए 'अपणि सरकार' (Apuni Sarkar) पोर्टल के संदर्भ में Consider the following statements:\n1. यह एक एकीकृत ई-डिस्ट्रिक्ट पोर्टल है जिसके माध्यम से जाति, आय, स्थायी निवास आदि प्रमाण पत्र ऑनलाइन जारी किए जाते हैं।\n2. इस पोर्टल को लोक सेवा का अधिकार अधिनियम (Right to Service Act) की समय-सीमा के साथ एकीकृत किया गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Apuni Sarkar' portal launched by the Government of Uttarakhand for transparent and prompt delivery of citizen services, consider the following statements:\n1. It is an integrated e-District portal through which caste, income, permanent residence certificates, etc., are issued online.\n2. This portal is integrated with the statutory timelines of the Right to Service Act.\n\nWhich of the statement(s) given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q29: दोनों कथन सत्य हैं। 'अपणि सरकार' पोर्टल के माध्यम से राज्य के नागरिक घर बैठे या सीएससी (CSC) केंद्रों के जरिए सैकड़ों सरकारी प्रमाण पत्र और सेवाएं निर..."
+        "explanation_en": "Both statements are correct. Through the 'Apuni Sarkar' portal, citizens of the state can obtain hundreds of government certificates and services from home or through Common Service Centers (CSCs) within prescribed timelines."
       }
     },
     {
@@ -79002,14 +79002,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 28,
         "category": "उत्तराखंड विज्ञान एवं अनुसंधान",
-        "question_en": "[Q28] उत्तराखंड में स्थापित देश की पहली 'तरल दर्पण दूरबीन' (International Liquid Mirror Telescope - ILMT) कहाँ स्थित है?",
+        "question_en": "Where is the country's first 'International Liquid Mirror Telescope' (ILMT) established in Uttarakhand located?",
         "options_en": [
-          "मुक्तेश्वर, नैनीताल",
-          "देवस्थल, नैनीताल",
-          "हर्षिल, उत्तरकाशी",
-          "औली, चमोली"
+          "Mukteshwar, Nainital",
+          "Devasthal, Nainital",
+          "Harsil, Uttarkashi",
+          "Auli, Chamoli"
         ],
-        "explanation_en": "Explanation for Q28: एशिया की सबसे बड़ी और देश की पहली इंटरनेशनल लिक्विड मिरर टेलीस्कोप (ILMT) आर्यभट्ट प्रेक्षण विज्ञान शोध संस्थान (ARIES) के देवस्थल वेधशाला परिसर (नैनी..."
+        "explanation_en": "Asia's largest and India's first International Liquid Mirror Telescope (ILMT) has been commissioned at an altitude of 2,450 meters at the Devasthal Observatory campus of the Aryabhatta Research Institute of Observational Sciences (ARIES) in Nainital."
       }
     },
     {
@@ -79039,14 +79039,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 27,
         "category": "उत्तराखंड पर्यटन एवं संस्कृति",
-        "question_en": "[Q27] उत्तराखंड के 'मानसखंड मंदिर माला मिशन' (Manaskhand Mandir Mala Mission) के प्रथम चरण में निम्नलिखित में से किन मंदिरों को शामिल किया गया है?\n1. जागेश्वर धाम (अल्मोड़ा)\n2. पूर्णागिरी मंदिर (चंपावत)\n3. हाट कालिका मंदिर (पिथौरागढ़)\n4. कैंची धाम (नैनीताल)\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनें:",
+        "question_en": "Which of the following temples have been included in the first phase of Uttarakhand's 'Manaskhand Mandir Mala Mission'?\n1. Jageshwar Dham (Almora)\n2. Purnagiri Temple (Champawat)\n3. Haat Kalika Temple (Pithoragarh)\n4. Kainchi Dham (Nainital)\n\nSelect the correct answer using the code given below:",
         "options_en": [
-          "Only 1 and 2",
-          "केवल 1, 2 और 3",
-          "केवल 2, 3 और 4",
-          "1, 2, 3 और 4"
+          "1 and 2 only",
+          "1, 2 and 3 only",
+          "2, 3 and 4 only",
+          "1, 2, 3 and 4"
         ],
-        "explanation_en": "Explanation for Q27: चारधाम की तर्ज पर कुमाऊं मंडल के पौराणिक मंदिरों को विकसित करने के लिए शुरू किए गए मानसखंड मंदिर माला मिशन के पहले चरण में 16 प्रमुख मंदिरों को चिह्नि..."
+        "explanation_en": "Under the first phase of the Manaskhand Mandir Mala Mission, launched to develop mythological temples in Kumaon division on the lines of the Char Dham, 16 major temples have been identified, including Jageshwar Dham, Purnagiri, Haat Kalika, Kainchi Dham, Patal Bhuvaneshwar, Golu Devta (Chitai), and Nanda Devi Temple."
       }
     },
     {
@@ -79076,14 +79076,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 26,
         "category": "उत्तराखंड वन एवं वन्यजीव",
-        "question_en": "[Q26] उत्तराखंड के संरक्षित क्षेत्रों और उनकी अवस्थिति के संदर्भ में निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "With reference to protected areas in Uttarakhand and their locations, which of the following pairs is not correctly matched?",
         "options_en": [
-          "नंधौर वन्यजीव अभयारण्य - नैनीताल एवं चंपावत",
-          "अस्कोट कस्तूरी मृग अभयारण्य - पिथौरागढ़",
-          "बिनसर वन्यजीव अभयारण्य - अल्मोड़ा",
-          "गोविंद राष्ट्रीय उद्यान - चमोली"
+          "Nandhaur Wildlife Sanctuary - Nainital and Champawat",
+          "Askot Musk Deer Sanctuary - Pithoragarh",
+          "Binsar Wildlife Sanctuary - Almora",
+          "Govind National Park - Chamoli"
         ],
-        "explanation_en": "Explanation for Q26: युग्म (D) सही सुमेलित नहीं है। गोविंद राष्ट्रीय उद्यान और वन्यजीव अभयारण्य उत्तरकाशी जिले (टोंस घाटी) में स्थित है, न कि चमोली में।..."
+        "explanation_en": "Pair (D) is not correctly matched. Govind National Park and Wildlife Sanctuary is located in Uttarkashi district (Tons Valley), not in Chamoli."
       }
     },
     {
@@ -79113,14 +79113,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 25,
         "category": "उत्तराखंड कृषि एवं बागवानी",
-        "question_en": "[Q25] 'उत्तराखंड मिलेट मिशन' (State Millet Mission) के संबंध में Consider the following statements:\n1. इसके अंतर्गत राज्य सरकार द्वारा मंडुवा (Finger Millet) और झंगोरा (Barnyard Millet) की न्यूनतम समर्थन मूल्य (MSP) पर खरीद की जा रही है।\n2. सार्वजनिक वितरण प्रणाली (PDS) के माध्यम से अंत्योदय एवं प्राथमिक परिवारों को पौष्टिक मंडुवा वितरित किया जा रहा है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Uttarakhand Millet Mission', consider the following statements:\n1. Under the mission, the State Government undertakes procurement of Manduwa (Finger Millet) and Jhangora (Barnyard Millet) at Minimum Support Price (MSP).\n2. Nutritious Manduwa is distributed to Antyodaya and Priority Households through the Public Distribution System (PDS).\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q25: दोनों कथन सत्य हैं। उत्तराखंड मिलेट मिशन के तहत पर्वतीय किसानों की आय बढ़ाने के लिए मंडुवा की एमएसपी पर खरीद कर उसे पीडीएस राशन दुकानों और मिड-डे मील ..."
+        "explanation_en": "Both statements are correct. Under the Uttarakhand Millet Mission, procurement of traditional hill millets such as Manduwa at remunerative MSP enhances farmers' incomes while integrating coarse grains into the PDS ration network and midday meal programmes to combat malnutrition."
       }
     },
     {
@@ -79150,14 +79150,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 24,
         "category": "उत्तराखंड सामाजिक कल्याण",
-        "question_en": "[Q24] उत्तराखंड की 'नंदा गौरा योजना' (Nanda Gaura Yojana) के संदर्भ में Consider the following statements:\n1. यह योजना राज्य में कन्या भ्रूण हत्या को रोकने, संस्थागत प्रसव को बढ़ावा देने तथा बालिकाओं की उच्च शिक्षा सुनिश्चित करने के लिए संचालित है।\n2. इस योजना के अंतर्गत बालिका के जन्म पर ₹11,000 तथा 12वीं कक्षा उत्तीर्ण कर उच्च शिक्षा में प्रवेश लेने पर ₹51,000 की आर्थिक सहायता प्रदान की जाती है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Nanda Gaura Yojana' of Uttarakhand, consider the following statements:\n1. The scheme is implemented to prevent female foeticide, promote institutional deliveries, and ensure higher education for the girl child.\n2. Under this scheme, financial assistance of ₹11,000 is provided at the birth of a girl child and ₹51,000 upon passing Class 12 and enrolling in higher education.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q24: दोनों कथन सत्य हैं। नंदा गौरा योजना के तहत पात्र परिवारों की अधिकतम दो बालिकाओं को कुल ₹62,000 (जन्म पर ₹11,000 और इंटरमीडिएट उत्तीर्ण करने पर ₹51,000..."
+        "explanation_en": "Both statements are correct. Under the Nanda Gaura Yojana, eligible families receive total financial assistance of ₹62,000 per girl child (up to two daughters per family): ₹11,000 upon birth and ₹51,000 upon successful completion of Intermediate (Class 12) education."
       }
     },
     {
@@ -79187,14 +79187,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 23,
         "category": "उत्तराखंड जल परियोजनाएं",
-        "question_en": "[Q23] 'सौंग बांध पेयजल परियोजना' (Song Dam Drinking Water Project) के संबंध में Consider the following statements:\n1. यह परियोजना देहरादून जिले में गंगा की सहायक नदी सौंग पर प्रस्तावित/निर्माणाधीन है।\n2. इसका मुख्य उद्देश्य देहरादून शहर को गुरुत्वाकर्षण (Gravity) आधारित 24x7 पेयजल आपूर्ति उपलब्ध कराना है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Song Dam Drinking Water Project', consider the following statements:\n1. The project is situated on the Song River, a tributary of the Ganga, in Dehradun district.\n2. Its primary objective is to supply continuous 24x7 gravity-based drinking water to Dehradun city.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q23: दोनों कथन सत्य हैं। सौंग बांध परियोजना देहरादून शहर की भविष्य की पेयजल आवश्यकताओं को पूरा करने के लिए गुरुत्वाकर्षण आधारित जल आपूर्ति प्रणाली विकसित क..."
+        "explanation_en": "Both statements are correct. The Song Dam project is engineered to provide a sustainable gravity-based drinking water supply to meet the future potable water demands of Dehradun city, significantly reducing dependence on groundwater extraction."
       }
     },
     {
@@ -79224,14 +79224,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 22,
         "category": "उत्तराखंड पर्यटन एवं विरासत",
-        "question_en": "[Q22] उत्तराखंड के पिथौरागढ़ जिले में स्थित 'आदि कैलाश' (Adi Kailash) और 'ओम पर्वत' के संदर्भ में Consider the following statements:\n1. आदि कैलाश को 'छोटा कैलाश' भी कहा जाता है और इसके समीप पार्वती कुंड एवं गौरी कुंड स्थित हैं।\n2. यह क्षेत्र व्यास घाटी में स्थित है और मानसरोवर यात्रा मार्ग (लिपुलेख दर्रा) के निकट है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to 'Adi Kailash' and 'Om Parvat' located in Pithoragarh district of Uttarakhand, consider the following statements:\n1. Adi Kailash is also known as 'Chhota Kailash', and Parvati Kund and Gauri Kund are located in its vicinity.\n2. This area is situated in the Vyas Valley, close to the Kailash-Mansarovar pilgrimage route (Lipulekh Pass).\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q22: दोनों कथन सत्य हैं। पिथौरागढ़ जिले की व्यास घाटी (कुटी और नाभीढांग क्षेत्र) में स्थित आदि कैलाश और ओम पर्वत प्रधानमंत्री की यात्रा के पश्चात उच्च हिमा..."
+        "explanation_en": "Both statements are correct. Situated in the Vyas Valley (near Kuti and Nabhidhang) of Pithoragarh district, Adi Kailash and Om Parvat have emerged as major centres of high-altitude Himalayan spiritual tourism, particularly following the Prime Minister's landmark visit."
       }
     },
     {
@@ -79261,14 +79261,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 21,
         "category": "उत्तराखंड ऊर्जा एवं सतत विकास",
-        "question_en": "[Q21] 'मुख्यमंत्री सौर स्वरोजगार योजना' (Uttarakhand) Which of the following statements is incorrect regarding:",
+        "question_en": "Which of the following statements regarding the 'Mukhyamantri Saur Swarojgar Yojana' (Uttarakhand) is incorrect?",
         "options_en": [
-          "इस योजना का उद्देश्य राज्य के युवाओं और प्रवासियों को स्वरोजगार के अवसर प्रदान करना तथा हरित ऊर्जा को बढ़ावा देना है।",
-          "इसके तहत लाभार्थी 20 किलोवाट से लेकर 200 किलोवाट तक की क्षमता के सोलर पावर प्लांट स्थापित कर सकते हैं।",
-          "उत्पादित बिजली की खरीद उत्तराखंड पावर कॉर्पोरेशन लिमिटेड (UPCL) द्वारा 25 वर्षों के लिए की जाती है।",
-          "यह योजना केवल हरिद्वार और उधम सिंह नगर के मैदानी क्षेत्रों के लिए आरक्षित है।"
+          "The objective of the scheme is to provide self-employment opportunities to youth and returnee migrants while promoting clean green energy.",
+          "Under this scheme, beneficiaries can set up solar power plants with capacities ranging from 20 kW to 200 kW.",
+          "The electricity generated is procured by Uttarakhand Power Corporation Limited (UPCL) under a 25-year Power Purchase Agreement.",
+          "The scheme is reserved exclusively for the plains districts of Haridwar and Udham Singh Nagar."
         ],
-        "explanation_en": "Explanation for Q21: कथन (D) असत्य है। मुख्यमंत्री सौर स्वरोजगार योजना पूरे उत्तराखंड राज्य में लागू है और इसका मुख्य फोकस पर्वतीय क्षेत्रों में बंजर भूमि के उपयोग एवं पला..."
+        "explanation_en": "Statement (D) is incorrect. The Mukhyamantri Saur Swarojgar Yojana is applicable across the entire State of Uttarakhand, with particular focus on utilising uncultivable barren hill lands and arresting rural migration."
       }
     },
     {
@@ -79298,14 +79298,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 20,
         "category": "उत्तराखंड सैन्य अभ्यास",
-        "question_en": "[Q20] संयुक्त सैन्य अभ्यास 'सूर्य किरण' (Surya Kiran) के संदर्भ में Consider the following statements:\n1. यह भारत और नेपाल की सेनाओं के बीच आयोजित होने वाला एक वार्षिक द्विपक्षीय सैन्य अभ्यास है।\n2. उत्तराखंड का पिथौरागढ़ जनपद इस अभ्यास के प्रमुख भारतीय आयोजन स्थलों में से एक रहा है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the joint military exercise 'Surya Kiran', consider the following statements:\n1. It is an annual bilateral military exercise conducted between the armies of India and Nepal.\n2. Pithoragarh district of Uttarakhand has been one of the primary Indian venues hosting this exercise.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q20: दोनों कथन सत्य हैं। अभ्यास 'सूर्य किरण' भारत और नेपाल की सेनाओं के बीच बारी-बारी से भारत (विशेषकर पिथौरागढ़, उत्तराखंड) और नेपाल (रुपन्देही/सलझंडी) मे..."
+        "explanation_en": "Both statements are correct. Exercise 'Surya Kiran' is conducted annually and alternately between the Indian Army and the Nepalese Army in India (notably at Pithoragarh, Uttarakhand) and Nepal (Saljhandi/Rupandehi), focusing on counter-insurgency in mountainous terrain and disaster relief interoperability."
       }
     },
     {
@@ -79335,14 +79335,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 19,
         "category": "उत्तराखंड अर्थव्यवस्था एवं बजट",
-        "question_en": "[Q19] उत्तराखंड राज्य बजट की प्रमुख विशेषताओं के संदर्भ में Consider the following statements:\n1. राज्य सरकार द्वारा पूंजीगत व्यय (Capital Expenditure) में निरंतर वृद्धि कर अवसंरचना विकास पर बल दिया गया है।\n2. राज्य का राजकोषीय घाटा (Fiscal Deficit) एफआरबीएम (FRBM) अधिनियम द्वारा निर्धारित GSDP के 3.5% की सीमा के भीतर रखा गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the key features of the Uttarakhand State Budget, consider the following statements:\n1. The State Government has emphasised infrastructure development through sustained increases in capital expenditure.\n2. The State's fiscal deficit has been maintained within the prescribed statutory limit of 3.5% of GSDP under the FRBM Act.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q19: दोनों कथन सत्य हैं। उत्तराखंड ने राजकोषीय अनुशासन बनाए रखते हुए राजकोषीय घाटे को GSDP के 3% की मानक सीमा (FRBM मानदंड) के भीतर नियंत्रित रखा है और पूं..."
+        "explanation_en": "Both statements are correct. Uttarakhand has maintained sound fiscal discipline by keeping its fiscal deficit well within the statutory limit prescribed under the FRBM framework (generally 3%–3.5% of GSDP) while substantially expanding capital outlays for infrastructure development."
       }
     },
     {
@@ -79372,14 +79372,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 18,
         "category": "उत्तराखंड पर्यावरण एवं वन",
-        "question_en": "[Q18] वनाग्नि (Forest Fire) नियंत्रण हेतु उत्तराखंड सरकार द्वारा संचालित 'पिरुल लाओ-पैसे पाओ' (Pirul Lao-Paise Pao) मिशन के संदर्भ में Consider the following statements:\n1. इस मिशन का उद्देश्य चीड़ के वनों से सूखी पत्तियों (पिरुल) को एकत्र कर वनाग्नि की घटनाओं को कम करना है।\n2. इसके अंतर्गत एकत्रित पिरुल से बायो-ब्रिकेट्स और विद्युत उत्पादन (पिरुल पावर प्लांट) को बढ़ावा दिया जा रहा है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Pirul Lao-Paise Pao' mission launched by the Government of Uttarakhand to mitigate forest fires, consider the following statements:\n1. The mission aims to reduce forest fire occurrences by collecting dry pine needles (Pirul) from pine forests.\n2. The collected Pirul is being promoted for manufacturing bio-briquettes and generating electricity via Pirul-based power plants.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q18: दोनों कथन सत्य हैं। उत्तराखंड सरकार ने वनाग्नि रोकथाम के लिए पिरुल खरीद दर बढ़ाकर ₹50 प्रति किलोग्राम तक की व्यवस्था की है तथा एकत्रित पिरुल का उपयोग ..."
+        "explanation_en": "Both statements are correct. To combat forest fires, the Uttarakhand Government incentivised the collection of dry pine needles (Pirul) with enhanced procurement rates up to ₹50/kg, channelising the biomass into bio-briquettes and decentralised power generation."
       }
     },
     {
@@ -79409,14 +79409,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 17,
         "category": "उत्तराखंड अवसंरचना एवं परिवहन",
-        "question_en": "[Q17] निर्माणाधीन 'ऋषिकेश-कर्णप्रयाग ब्रॉड गेज रेल परियोजना' के संदर्भ में Consider the following statements:\n1. इस रेल लाइन की कुल लंबाई लगभग 125 किलोमीटर है और इसका अधिकांश भाग सुरंगों (Tunnels) से होकर गुजरता है।\n2. इस परियोजना की सबसे लंबी रेल सुरंग देवप्रयाग और जनासू के बीच निर्मित की गई है, जिसकी लंबाई 14 किलोमीटर से अधिक है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the under-construction 'Rishikesh-Karnaprayag Broad Gauge Rail Project', consider the following statements:\n1. The total length of this railway line is approximately 125 kilometres, with the majority passing through tunnels.\n2. The longest railway tunnel of this project is built between Devprayag and Janasu, with a length exceeding 14 kilometres.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q17: दोनों कथन सत्य हैं। 125.20 किमी लंबी ऋषिकेश-कर्णप्रयाग रेल परियोजना का लगभग 84% हिस्सा सुरंगों में है। देवप्रयाग से जनासू के बीच 14.57 किमी लंबी सुरंग..."
+        "explanation_en": "Both statements are correct. Approximately 84% of the 125.20 km Rishikesh-Karnaprayag rail line runs through tunnels. The 14.57 km long tunnel between Devprayag and Janasu is among India's longest railway transportation tunnels, bored using advanced Tunnel Boring Machines (TBMs - Shiva and Shakti)."
       }
     },
     {
@@ -79446,14 +79446,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 16,
         "category": "उत्तराखंड संस्कृति एवं जीआई टैग",
-        "question_en": "[Q16] उत्तराखंड के भौगोलिक संकेतक (GI Tag) प्राप्त उत्पादों और उनके संबंधित जिलों/क्षेत्रों के संदर्भ में निम्नलिखित युग्मों पर विचार करें:\n1. बेरीनाग चाय - पिथौरागढ़\n2. बिच्छू बूटी (नेटल) फैब्रिक - चमोली एवं पर्वतीय क्षेत्र\n3. लाखोरी मिर्च - अल्मोड़ा\n4. ताम्र उत्पाद (टम्टा शिल्प) - उधम सिंह नगर\n\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+        "question_en": "Consider the following pairs of Geographical Indication (GI) tagged products of Uttarakhand and their associated districts/regions:\n1. Berinag Tea - Pithoragarh\n2. Bichhu Buti (Nettle) Fabric - Chamoli and Hill Regions\n3. Lakhori Chilli - Almora\n4. Copperware (Tamta Craft) - Udham Singh Nagar\n\nHow many of the above pairs are correctly matched?",
         "options_en": [
-          "केवल एक युग्म",
-          "केवल दो युग्म",
-          "केवल तीन युग्म",
-          "सभी चार युग्म"
+          "Only one pair",
+          "Only two pairs",
+          "Only three pairs",
+          "All four pairs"
         ],
-        "explanation_en": "Explanation for Q16: युग्म 1, 2 और 3 सही सुमेलित हैं। युग्म 4 गलत है क्योंकि पारंपरिक ताम्र शिल्प (टम्टा उत्पाद) मुख्य रूप से अल्मोड़ा एवं बागेश्वर (कुमाऊं क्षेत्र) से संब..."
+        "explanation_en": "Pairs 1, 2, and 3 are correctly matched. Pair 4 is incorrect because traditional copper craft (Tamta craft) is predominantly associated with Almora and Bageshwar (Kumaon region), not Udham Singh Nagar."
       }
     },
     {
@@ -79483,14 +79483,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 15,
         "category": "उत्तराखंड पुरस्कार एवं सम्मान",
-        "question_en": "[Q15] पद्म पुरस्कारों के संदर्भ में उत्तराखंड की विभूतियों और उनके कार्यक्षेत्र का निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "With reference to Padma Awards, which of the following pairs of eminent personalities from Uttarakhand and their respective fields is not correctly matched?",
         "options_en": [
-          "राधा बहिन भट्ट - सामाजिक कार्य (सर्वोदय एवं पर्यावरण)",
-          "ह्यूग एवं कोलीन गैंटज़र - साहित्य एवं शिक्षा (यात्रा वृत्तांत)",
-          "बसंती बिष्ट - लोक गायन (जागर)",
-          "अनिल प्रकाश जोशी - शास्त्रीय नृत्य"
+          "Radha Bahin Bhatt - Social Work (Sarvodaya and Environment)",
+          "Hugh and Colleen Gantzer - Literature and Education (Travel Writing)",
+          "Basanti Bisht - Folk Singing (Jagar)",
+          "Anil Prakash Joshi - Classical Dance"
         ],
-        "explanation_en": "Explanation for Q15: युग्म (D) सही सुमेलित नहीं है। पद्म भूषण एवं पद्म श्री से सम्मानित डॉ. अनिल प्रकाश जोशी (HESCO के संस्थापक) पर्यावरण संरक्षण एवं पारिस्थितिक अर्थशास्त..."
+        "explanation_en": "Pair (D) is not correctly matched. Dr. Anil Prakash Joshi (founder of HESCO), recipient of the Padma Bhushan and Padma Shri, is renowned for his contributions to environmental conservation and ecological economics (GEEP), not classical dance. Radha Bahin Bhatt (Padma Shri 2025) and the late couple Hugh and Colleen Gantzer (Padma Shri 2025, Mussoorie) are correctly matched."
       }
     },
     {
@@ -79520,14 +79520,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 14,
         "category": "उत्तराखंड अवसंरचना एवं जल विद्युत",
-        "question_en": "[Q14] चर्चा में रही 'जमरानी बांध बहुउद्देशीय परियोजना' (Jamrani Dam Multipurpose Project) के संबंध में Consider the following statements:\n1. यह परियोजना नैनीताल जिले में रामगंगा की सहायक नदी 'गोला' (Gola River) पर निर्माणाधीन है।\n2. इसे केंद्र सरकार की 'प्रधानमंत्री कृषि सिंचाई योजना - त्वरित सिंचाई लाभ कार्यक्रम' (PMKSY-AIBP) के अंतर्गत शामिल किया गया है।\n3. इस परियोजना से उत्तराखंड के साथ-साथ उत्तर प्रदेश के बरेली और रामपुर जिलों को भी सिंचाई लाभ प्राप्त होगा।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Jamrani Dam Multipurpose Project', consider the following statements:\n1. The project is under construction on the Gola River, a tributary of the Ramganga, in Nainital district.\n2. It has been included under the Central Government's 'Pradhan Mantri Krishi Sinchayee Yojana - Accelerated Irrigation Benefit Programme' (PMKSY-AIBP).\n3. In addition to Uttarakhand, the project will also provide irrigation benefits to the Bareilly and Rampur districts of Uttar Pradesh.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1 and 2",
-          "Only 2 and 3",
-          "Only 1 and 3",
-          "1, 2 and 3"
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2, and 3"
         ],
-        "explanation_en": "Explanation for Q14: तीनों कथन पूर्णतः सत्य हैं। जमरानी बांध परियोजना नैनीताल जिले के काठगोदाम से लगभग 10 किमी अपस्ट्रीम में गोला नदी पर बनाई जा रही है, जिसे पीएमकेएसवाई-ए..."
+        "explanation_en": "All three statements are correct. The Jamrani Dam project is being built on the Gola River approximately 10 km upstream of Kathgodam in Nainital district. It receives central financial assistance under PMKSY-AIBP and serves as a joint beneficiary project for both Uttarakhand and Uttar Pradesh."
       }
     },
     {
@@ -79557,14 +79557,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 13,
         "category": "उत्तराखंड नीति एवं योजनाएं",
-        "question_en": "[Q13] उत्तराखंड राज्य की नई 'योग नीति' (Uttarakhand Yoga Policy) के संदर्भ में Consider the following statements:\n1. इसका उद्देश्य उत्तराखंड को 'वैश्विक योग राजधानी' के रूप में विकसित करना है।\n2. इस नीति के तहत राज्य में योग और ध्यान केंद्र स्थापित करने के लिए पूंजीगत सब्सिडी (Capital Subsidy) का प्रावधान किया गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the new 'Uttarakhand Yoga Policy', consider the following statements:\n1. Its objective is to develop Uttarakhand as the 'Global Yoga Capital'.\n2. Under this policy, capital subsidies are provided for establishing yoga and meditation centres in the State.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q13: दोनों कथन सत्य हैं। उत्तराखंड मंत्रिमंडल द्वारा स्वीकृत राज्य की पहली योग नीति में ऋषिकेश व अन्य पर्वतीय स्थलों के साथ-साथ संपूर्ण राज्य में योग-ध्यान..."
+        "explanation_en": "Both statements are correct. The first Yoga Policy approved by the Uttarakhand Cabinet provides capital subsidies, research grants, and certification incentives for establishing yoga and meditation centres across the State, including Rishikesh and other hill destinations."
       }
     },
     {
@@ -79594,14 +79594,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 12,
         "category": "उत्तराखंड राजव्यवस्था एवं कानून",
-        "question_en": "[Q12] उत्तराखंड में लागू 'उत्तर प्रदेश जमींदारी विनाश और भूमि व्यवस्था (संशोधन) विधेयक, 2025' (सख्त भू-कानून) के प्रमुख प्रावधानों के संबंध में कौन-सा कथन असत्य है?",
+        "question_en": "Which of the following statements is incorrect regarding the key provisions of the 'Uttar Pradesh Zamindari Abolition and Land Reforms (Uttarakhand Amendment) Bill, 2025' (Strict Land Law) in Uttarakhand?",
         "options_en": [
-          "राज्य के बाहरी व्यक्तियों द्वारा कृषि और बागवानी भूमि की खरीद पर हरिद्वार और उधम सिंह नगर को छोड़कर शेष 11 जिलों में सख्त प्रतिबंध लगाया गया है।",
-          "नगर निकाय सीमा के भीतर आवासीय प्रयोजन के लिए बाहरी व्यक्ति अधिकतम 250 वर्ग मीटर भूमि ही बिना पूर्व अनुमति खरीद सकता है।",
-          "भूमि खरीद के लिए सब-रजिस्ट्रार के समक्ष शपथ पत्र (Affidavit) अनिवार्य किया गया है।",
-          "इस कानून के तहत राज्य के सभी 13 जिलों में औद्योगिक भूमि की खरीद पूर्णतः प्रतिबंधित कर दी गई है।"
+          "A strict ban has been imposed on the purchase of agricultural and horticultural land by non-residents in 11 districts, excluding Haridwar and Udham Singh Nagar.",
+          "Within municipal limits, an outsider can purchase a maximum of 250 square metres of land for residential purposes without prior permission.",
+          "An affidavit before the Sub-Registrar has been made mandatory for land transactions.",
+          "Under this law, the acquisition of land for industrial purposes has been completely prohibited across all 13 districts."
         ],
-        "explanation_en": "Explanation for Q12: कथन (D) असत्य है। राज्य में निवेश और रोजगार सृजन के लिए औद्योगिक, पर्यटन, स्वास्थ्य और शैक्षणिक परियोजनाओं हेतु निर्धारित प्रक्रिया एवं जिलाधिकारी/शास..."
+        "explanation_en": "Statement (D) is incorrect. To facilitate investment and employment generation, land acquisition for industrial, tourism, healthcare, and educational purposes remains permissible subject to due process and approval by the District Magistrate/State Government; it has not been completely banned. The other three statements are key provisions of the amended land law."
       }
     },
     {
@@ -79631,14 +79631,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 11,
         "category": "उत्तराखंड खेल एवं आयोजन",
-        "question_en": "[Q11] उत्तराखंड में आयोजित '38वें राष्ट्रीय खेलों' (38th National Games) के संदर्भ में Consider the following statements:\n1. इन खेलों का आधिकारिक शुभंकर (Mascot) राज्य पक्षी 'मोनाल' से प्रेरित 'मौली' (Mauli) था।\n2. इन खेलों की थीम 'ग्रीन गेम्स' (Green Games) रखी गई थी।\n3. पदक तालिका में उत्तराखंड ने शीर्ष तीन राज्यों में स्थान बनाया।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the '38th National Games' hosted in Uttarakhand, consider the following statements:\n1. The official mascot of the Games was 'Mauli', inspired by the State bird 'Monal'.\n2. The theme of these Games was designated as 'Green Games'.\n3. Uttarakhand finished among the top three in the final medal standings.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1 and 2",
-          "Only 2 and 3",
-          "Only 1 and 3",
-          "1, 2 and 3"
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2, and 3"
         ],
-        "explanation_en": "Explanation for Q11: कथन 1 और 2 सत्य हैं। 38वें राष्ट्रीय खेलों (जनवरी-फरवरी 2025) की मेजबानी उत्तराखंड ने की, जिसका शुभंकर 'मौली' (मोनाल) और थीम 'ग्रीन गेम्स' थी। कथन 3 अ..."
+        "explanation_en": "Statements 1 and 2 are correct. Uttarakhand hosted the 38th National Games (January–February 2025) featuring the mascot 'Mauli' (Monal) and the theme 'Green Games'. Statement 3 is incorrect because Services (SSCB), Maharashtra, and Haryana topped the medal tally, while Uttarakhand secured the 7th position overall (103 medals: 24 Gold, 35 Silver, 44 Bronze)."
       }
     },
     {
@@ -79668,14 +79668,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 10,
         "category": "अंतर्राष्ट्रीय संबंध",
-        "question_en": "[Q10] BRICS समूह के विस्तार के संदर्भ में Consider the following statements:\n1. मिस्र, इथियोपिया, ईरान और संयुक्त अरब अमीरात (UAE) आधिकारिक रूप से इस समूह के पूर्ण सदस्य बन चुके हैं।\n2. अर्जेंटीना ने ब्रिक्स की पूर्ण सदस्यता ग्रहण कर ली है और वह दक्षिण अमेरिका से इसका दूसरा सदस्य बन गया है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the expansion of the BRICS grouping, consider the following statements:\n1. Egypt, Ethiopia, Iran, and the United Arab Emirates (UAE) have officially become full members of the group.\n2. Argentina accepted full BRICS membership, becoming its second member from South America.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q10: कथन 1 सत्य है। कथन 2 असत्य है क्योंकि अर्जेंटीना के राष्ट्रपति जेवियर माइली ने ब्रिक्स में शामिल होने के निमंत्रण को औपचारिक रूप से अस्वीकार कर दिया थ..."
+        "explanation_en": "Statement 1 is correct. Statement 2 is incorrect because Argentine President Javier Milei formally declined the invitation to join the BRICS bloc."
       }
     },
     {
@@ -79705,14 +79705,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 9,
         "category": "उत्तराखंड स्वास्थ्य एवं अवसंरचना",
-        "question_en": "[Q9] देश की पहली 'हेलीकॉप्टर आपातकालीन चिकित्सा सेवा' (HEMS) Which of the following statements is incorrect regarding:",
+        "question_en": "Which of the following statements regarding the country's first 'Helicopter Emergency Medical Services' (HEMS) is incorrect?",
         "options_en": [
-          "इसे उत्तराखंड के AIIMS Rishikesh से प्रारंभ किया गया है।",
-          "इसका परिचालन दायरा एम्स ऋषिकेश से 500 किलोमीटर की त्रिज्या तक निर्धारित है।",
-          "इस पहल को 'प्रोजेक्ट संजीवनी' (Project Sanjeevani) नाम दिया गया है।",
-          "इसका उद्देश्य पर्वतीय क्षेत्रों में दुर्घटना पीड़ितों को 'गोल्डन ऑवर' के भीतर उपचार उपलब्ध कराना है।"
+          "It has been launched from AIIMS Rishikesh in Uttarakhand.",
+          "Its operational coverage radius is designated up to 500 kilometres from AIIMS Rishikesh.",
+          "This initiative has been named 'Project Sanjeevani'.",
+          "Its objective is to deliver medical treatment to accident victims in hilly terrains within the 'Golden Hour'."
         ],
-        "explanation_en": "Explanation for Q9: कथन (B) असत्य है। एम्स ऋषिकेश से संचालित इस हेलीकॉप्टर आपातकालीन चिकित्सा सेवा (HEMS) का कवरेज दायरा 150 किलोमीटर (150 km radius) निर्धारित किया गया ह..."
+        "explanation_en": "Statement (B) is incorrect. The operational coverage radius of this Helicopter Emergency Medical Service (HEMS) based at AIIMS Rishikesh is set at 150 kilometres (150 km radius), not 500 kilometres."
       }
     },
     {
@@ -79742,14 +79742,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 8,
         "category": "पर्यावरण एवं जैव विविधता",
-        "question_en": "[Q8] भारत में 'हिम तेंदुआ जनसंख्या आकलन' (SPAI) की पहली वैज्ञानिक रिपोर्ट के संदर्भ में Consider the following statements:\n1. देश में हिम तेंदुओं (Snow Leopards) की सर्वाधिक आबादी केंद्र शासित प्रदेश लद्दाख में दर्ज की गई है।\n2. इस आकलन के अनुसार उत्तराखंड हिम तेंदुओं की संख्या के मामले में देश में दूसरे स्थान पर है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the first scientific report of the 'Snow Leopard Population Assessment in India' (SPAI), consider the following statements:\n1. The highest population of snow leopards in the country was recorded in the Union Territory of Ladakh.\n2. According to this assessment, Uttarakhand ranks second in India in terms of snow leopard numbers.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q8: दोनों कथन सत्य हैं। भारत में कुल 718 हिम तेंदुए आकलित किए गए हैं, जिनमें सर्वाधिक लद्दाख (477), दूसरे स्थान पर उत्तराखंड (124) और तीसरे स्थान पर हिमाच..."
+        "explanation_en": "Both statements are correct. A total of 718 snow leopards were estimated across India, with Ladakh recording the highest count (477), followed by Uttarakhand in second place (124), and Himachal Pradesh in third place (51)."
       }
     },
     {
@@ -79779,14 +79779,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 7,
         "category": "सूचकांक एवं रिपोर्ट",
-        "question_en": "[Q7] नीति आयोग के 'राष्ट्रीय बहुआयामी गरीबी सूचकांक' (National MPI) की रिपोर्ट के अनुसार उत्तराखंड के संदर्भ में Consider the following statements:\n1. राज्य में बहुआयामी गरीबी का अनुपात 17.67% से घटकर 9.67% रह गया है।\n2. उत्तराखंड के जिलों में बहुआयामी गरीबी में सर्वाधिक प्रतिशत गिरावट अल्मोड़ा जिले में दर्ज की गई है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'National Multidimensional Poverty Index' (National MPI) report released by NITI Aayog, consider the following statements regarding Uttarakhand:\n1. The proportion of multidimensional poverty in the State has declined from 17.67% to 9.67%.\n2. Among the districts of Uttarakhand, the highest percentage reduction in multidimensional poverty was recorded in Almora district.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q7: दोनों कथन सत्य हैं। नीति आयोग की रिपोर्ट के अनुसार उत्तराखंड में बहुआयामी गरीबी 17.67% से घटकर 9.67% पर आ गई है, और सर्वाधिक सुधार अल्मोड़ा (16.18% गि..."
+        "explanation_en": "Both statements are correct. According to NITI Aayog's report, multidimensional poverty in Uttarakhand dropped from 17.67% to 9.67%, with the steepest declines recorded in Almora (a reduction of 16.18 percentage points), Uttarkashi, and Champawat districts."
       }
     },
     {
@@ -79816,14 +79816,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 6,
         "category": "उत्तराखंड राजव्यवस्था एवं कानून",
-        "question_en": "[Q6] 'उत्तराखंड लोक एवं निजी संपत्ति क्षति वसूली अधिनियम, 2024' के संदर्भ में Consider the following statements:\n1. इस अधिनियम के तहत दंगों या हिंसक विरोध प्रदर्शनों के दौरान हुए नुकसान की भरपाई के लिए एक दावा न्यायाधिकरण (Claims Tribunal) के गठन का प्रावधान है।\n2. इस न्यायाधिकरण का अध्यक्ष केवल उच्च न्यायालय का सेवारत या सेवानिवृत्त मुख्य न्यायाधीश ही नियुक्त किया जा सकता है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the 'Uttarakhand Recovery of Damages to Public and Private Property Act, 2024', consider the following statements:\n1. The Act provides for the constitution of a Claims Tribunal to recover damages caused during riots or violent protests.\n2. Only a serving or retired Chief Justice of a High Court can be appointed as the Presiding Officer of this Tribunal.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1",
-          "Only 2",
+          "1 only",
+          "2 only",
           "Both 1 and 2",
           "Neither 1 nor 2"
         ],
-        "explanation_en": "Explanation for Q6: कथन 1 सत्य है, जबकि कथन 2 असत्य है। अधिनियम के अनुसार दावा न्यायाधिकरण की अध्यक्षता उच्च न्यायालय के सेवानिवृत्त न्यायाधीश या सेवानिवृत्त जिला न्यायाध..."
+        "explanation_en": "Statement 1 is correct, while Statement 2 is incorrect. Under the Act, the Claims Tribunal can be headed by a retired Judge of a High Court or a judicial officer of the rank of retired District Judge; there is no prerequisite that only a Chief Justice can be appointed."
       }
     },
     {
@@ -79853,14 +79853,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 5,
         "category": "सूचकांक एवं रिपोर्ट",
-        "question_en": "[Q5] नीति आयोग द्वारा जारी 'निर्यात तैयारी सूचकांक' (Export Preparedness Index) में हिमालयी राज्यों (Himalayan States) की श्रेणी में उत्तराखंड ने कौन-सा स्थान प्राप्त किया है?",
+        "question_en": "What rank did Uttarakhand secure in the Himalayan States category of the 'Export Preparedness Index' released by NITI Aayog?",
         "options_en": [
           "Second",
           "First",
           "Third",
           "Fourth"
         ],
-        "explanation_en": "Explanation for Q5: नीति आयोग के निर्यात तैयारी सूचकांक में उत्तराखंड ने हिमालयी राज्यों की श्रेणी में पहला स्थान प्राप्त किया है। राज्य में फार्मास्युटिकल, ऑटोमोबाइल और ..."
+        "explanation_en": "Uttarakhand secured the first position among Himalayan States in the Export Preparedness Index released by NITI Aayog. This achievement was driven by substantial improvements in the State's export ecosystem, particularly in pharmaceuticals, automobiles, and aromatic products."
       }
     },
     {
@@ -79890,14 +79890,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 4,
         "category": "उत्तराखंड सरकारी योजनाएं",
-        "question_en": "[Q4] 'लखपति दीदी योजना' के संबंध में निम्नलिखित कथनों में से कौन-सा असत्य है?",
+        "question_en": "Which of the following statements regarding the 'Lakhpati Didi Yojana' is incorrect?",
         "options_en": [
-          "यह योजना स्वयं सहायता समूहों (SHGs) से जुड़ी महिलाओं के आर्थिक सशक्तिकरण से संबंधित है।",
-          "इसका उद्देश्य पात्र महिलाओं की वार्षिक घरेलू आय कम से कम ₹1 लाख तक पहुंचाना है।",
-          "यह ग्रामीण विकास मंत्रालय के दीनदयाल अंत्योदय योजना - राष्ट्रीय ग्रामीण आजीविका मिशन (DAY-NRLM) से जुड़ी पहल है।",
-          "यह योजना शत-प्रतिशत World Bank द्वारा वित्त पोषित है।"
+          "It is aimed at the economic empowerment of women associated with Self-Help Groups (SHGs).",
+          "Its objective is to enable eligible women to achieve an annual household income of at least ₹1 lakh.",
+          "It is an initiative linked with the Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM) under the Ministry of Rural Development.",
+          "The scheme is 100% funded by the World Bank."
         ],
-        "explanation_en": "Explanation for Q4: कथन (D) असत्य है। लखपति दीदी पहल भारत सरकार के ग्रामीण विकास मंत्रालय (DAY-NRLM) और राज्य आजीविका मिशनों के समन्वय से संचालित है, न कि विश्व बैंक द्वा..."
+        "explanation_en": "Statement (D) is incorrect. The Lakhpati Didi initiative is implemented by the Ministry of Rural Development, Government of India through DAY-NRLM in coordination with State Rural Livelihood Missions; it is not 100% funded by the World Bank."
       }
     },
     {
@@ -79927,14 +79927,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 3,
         "category": "उत्तराखंड अर्थव्यवस्था एवं बजट",
-        "question_en": "[Q3] उत्तराखंड आर्थिक सर्वेक्षण एवं राज्य बजट के आंकड़ों के अनुसार, राज्य के सकल राज्य घरेलू उत्पाद (GSDP) में विभिन्न क्षेत्रों के योगदान का सही अवरोही क्रम (Descending Order) क्या है?",
+        "question_en": "According to data from the Uttarakhand Economic Survey and State Budget, what is the correct descending order of the sectoral contribution to the State's Gross State Domestic Product (GSDP)?",
         "options_en": [
           "Tertiary Sector > Secondary Sector > Primary Sector",
           "Secondary Sector > Tertiary Sector > Primary Sector",
           "Secondary Sector > Primary Sector > Tertiary Sector",
           "Tertiary Sector > Primary Sector > Secondary Sector"
         ],
-        "explanation_en": "Explanation for Q3: उत्तराखंड की अर्थव्यवस्था की यह विशिष्ट संरचना है कि यहाँ द्वितीयक क्षेत्र (Secondary Sector - विनिर्माण, विद्युत, निर्माण आदि) का GSDP में योगदान सर्..."
+        "explanation_en": "A distinct structural feature of Uttarakhand's economy is that the Secondary Sector (manufacturing, electricity, construction, etc.) contributes the largest share to GSDP (around 46–48%), followed by the Tertiary/Services Sector (around 42–44%), while the Primary Sector (agriculture and allied activities) contributes the lowest share (around 10–12%)."
       }
     },
     {
@@ -79964,14 +79964,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 2,
         "category": "उत्तराखंड भूगोल एवं पर्यटन",
-        "question_en": "[Q2] वाइब्रेंट विलेज प्रोग्राम (VVP) के तहत उत्तराखंड के सीमावर्ती गांवों के संदर्भ में निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "question_en": "With reference to the border villages of Uttarakhand under the Vibrant Villages Programme (VVP), which of the following pairs is not correctly matched?",
         "options_en": [
           "Niti - Chamoli",
-          "Jadung - Pithoragarh (Uttarkashi)",
+          "Jadung - Pithoragarh",
           "Mana - Chamoli",
           "Gunji - Pithoragarh"
         ],
-        "explanation_en": "Explanation for Q2: युग्म (B) सही सुमेलित नहीं है। जाधुंग गांव उत्तरकाशी जिले की नेलांग घाटी में स्थित है, न कि पिथौरागढ़ में। 1962 के भारत-चीन युद्ध के बाद वीरान हुए जाध..."
+        "explanation_en": "Pair (B) is not correctly matched. Jadung village is located in the Nelang Valley of Uttarkashi district, not in Pithoragarh. Deserted after the 1962 Indo-China war, Jadung village is being revived as an eco-tourism and astro-tourism hub under the Vibrant Villages Programme by the Uttarakhand Tourism Development Board (UTDB)."
       }
     },
     {
@@ -80001,14 +80001,14 @@
         "exam_name": "UKPSC अपर पीसीएस 2026: समसामयिकी स्पेशल मॉक",
         "question_number": 1,
         "category": "उत्तराखंड राजव्यवस्था एवं शासन",
-        "question_en": "[Q1] उत्तराखंड समान नागरिक संहिता (UCC) के संदर्भ में Consider the following statements:\n1. यह संहिता राज्य में निवास करने वाली सभी अनुसूचित जनजातियों (STs) पर भी समान रूप से लागू होती है।\n2. इसमें लिव-इन रिलेशनशिप का पंजीकरण अनिवार्य किया गया है, और 21 वर्ष से कम आयु के मामले में माता-पिता को सूचित करना आवश्यक है।\n3. यह बहुविवाह और हलाला जैसी प्रथाओं को पूर्णतः प्रतिबंधित करता है।\n\nWhich of the above statement(s) is/are correct?",
+        "question_en": "With reference to the Uttarakhand Uniform Civil Code (UCC), consider the following statements:\n1. This Code applies equally to all Scheduled Tribes (STs) residing in the State.\n2. It makes the registration of live-in relationships mandatory, requiring intimation to parents in cases involving individuals below 21 years of age.\n3. It completely prohibits practices such as polygamy and halala.\n\nWhich of the statements given above is/are correct?",
         "options_en": [
-          "Only 1 and 2",
-          "Only 2 and 3",
-          "Only 1 and 3",
-          "1, 2 and 3"
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2, and 3"
         ],
-        "explanation_en": "Explanation for Q1: कथन 1 असत्य है। संविधान के अनुच्छेद 366(25) और 342 के तहत अधिसूचित अनुसूचित जनजातियों (STs) को उत्तराखंड समान नागरिक संहिता (UCC) के दायरे से बाहर रखा..."
+        "explanation_en": "Statement 1 is incorrect. Scheduled Tribes (STs) notified under Articles 366(25) and 342 of the Constitution of India have been exempted from the purview of the Uttarakhand Uniform Civil Code (UCC). Statements 2 and 3 are correct: Registration of live-in relationships is mandatory, and the Code establishes uniform laws regarding marriage, divorce, succession, and property rights across all communities."
       }
     }
   ],
