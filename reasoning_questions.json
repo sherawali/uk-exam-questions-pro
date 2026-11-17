@@ -1494,8 +1494,8 @@
         "शनिवार",
         "मंगलवार"
       ],
-      "correctIndex": 0,
-      "explanation": "कल शुक्रवार है, तो आज गुरुवार है, परसों रविवार होगा।",
+      "correctIndex": 2,
+      "explanation": "कल शुक्रवार है, तो आज गुरुवार है और परसों शनिवार होगा।",
       "subCategory": "कैलेंडर",
       "difficulty": "easy",
       "examTarget": [
