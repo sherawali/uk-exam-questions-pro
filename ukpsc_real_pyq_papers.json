@@ -115462,10 +115462,10 @@
                                                              "शनिवार",
                                                              "मंगलवार"
                                                          ],
-                                             "correctIndex":  0,
-                                             "answer":  "रविवार",
-                                             "explanation":  "कल शुक्रवार है, तो आज गुरुवार है, परसों रविवार होगा।",
-                                             "correctAnswer":  "रविवार",
+                                             "correctIndex":  2,
+                                             "answer":  "शनिवार",
+                                             "explanation":  "कल शुक्रवार है, तो आज गुरुवार है और परसों शनिवार होगा।",
+                                             "correctAnswer":  "शनिवार",
                                              "extra_data":  {
                                                                 "exam":  "UKPSC State Exam",
                                                                 "question_en":  "If tomorrow is Friday, what day will it be the day after tomorrow?",
@@ -115475,7 +115475,7 @@
                                                                                    "Saturday",
                                                                                    "Tuesday"
                                                                                ],
-                                                                "explanation_en":  "Tomorrow is Friday, today is Thursday, the day after tomorrow will be Sunday"
+                                                                "explanation_en":  "Tomorrow is Friday, today is Thursday, the day after tomorrow will be Saturday"
                                                             }
                                          },
                                          {
@@ -133134,8 +133134,8 @@
                                                              "शनिवार",
                                                              "मंगलवार"
                                                          ],
-                                             "correctIndex":  0,
-                                             "explanation":  "कल शुक्रवार है, तो आज गुरुवार है, परसों रविवार होगा।",
+                                             "correctIndex":  2,
+                                             "explanation":  "कल शुक्रवार है, तो आज गुरुवार है और परसों शनिवार होगा।",
                                              "subCategory":  "कैलेंडर",
                                              "difficulty":  "easy",
                                              "questionType":  "reasoning",
@@ -133153,7 +133153,7 @@
                                                                                    "Tuesday"
                                                                                ],
                                                                 "exam":  "UKPSC State Exam",
-                                                                "explanation_en":  "Tomorrow is Friday, today is Thursday, the day after tomorrow will be Sunday"
+                                                                "explanation_en":  "Tomorrow is Friday, today is Thursday, the day after tomorrow will be Saturday"
                                                             }
                                          },
                                          {
@@ -182755,8 +182755,8 @@
                                                              "शनिवार",
                                                              "मंगलवार"
                                                          ],
-                                             "correctIndex":  0,
-                                             "explanation":  "कल शुक्रवार है, तो आज गुरुवार है, परसों रविवार होगा।",
+                                             "correctIndex":  2,
+                                             "explanation":  "कल शुक्रवार है, तो आज गुरुवार है और परसों शनिवार होगा।",
                                              "subCategory":  "कैलेंडर",
                                              "difficulty":  "easy",
                                              "questionType":  "mcq",
@@ -182775,7 +182775,7 @@
                                                                                    "Saturday",
                                                                                    "Tuesday"
                                                                                ],
-                                                                "explanation_en":  "Tomorrow is Friday, today is Thursday, the day after tomorrow will be Sunday."
+                                                                "explanation_en":  "Tomorrow is Friday, today is Thursday, the day after tomorrow will be Saturday."
                                                             }
                                          },
                                          {
