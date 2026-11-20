@@ -1,24 +1,25 @@
 {
   "content_version": 45,
-  "total_questions": 16334,
-  "raw_size_bytes": 32776192,
-  "compressed_size_bytes": 5462140,
-  "sha256": "debc2fae72a0655f6031ced089db7bd6b8bbadd9c9c9aa8ad8283dcb17ee919d",
+  "total_questions": 16674,
+  "raw_size_bytes": 31977472,
+  "compressed_size_bytes": 5807138,
+  "sha256": "437e239143578620dedd5f5373dd5f1000ec7f758f32ac8860b6c2ee8aa8a2a7",
   "pack_filename": "questions_pack.sqlite.gz",
   "subject_breakdown": {
-    "uttarakhand_gk": 6816,
+    "agriculture": 172,
+    "computer": 273,
+    "current_affairs": 2888,
+    "economics": 225,
+    "environment": 182,
+    "geography": 332,
+    "high_court_clerk": 140,
     "general_hindi": 908,
     "history": 1768,
-    "geography": 332,
-    "polity": 1214,
-    "economics": 225,
-    "science": 707,
-    "reasoning": 525,
-    "computer": 273,
     "math": 524,
-    "current_affairs": 2688,
-    "environment": 182,
-    "agriculture": 172
+    "polity": 1214,
+    "reasoning": 525,
+    "science": 707,
+    "uttarakhand_gk": 6816
   },
-  "generated_at": "2026-11-20T01:34:29.322126Z"
+  "generated_at": "2026-11-20T13:06:25.343391Z"
 }
