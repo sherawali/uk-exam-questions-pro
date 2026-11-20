@@ -385760,7 +385760,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड के प्रागैतिहासिक एवं आद्य-ऐतिहासिक पुरास्थलों को उनके संबंधित जनपदों से सुमेलित कीजिए:\nसूची-1 (पुरास्थल) — सूची-2 (जनपद)\nक. लाखू उडियार — 1. चमोली\nख. ग्वारख्या उडियार — 2. अल्मोड़ा\nग. हुडली — 3. पिथौरागढ़\nघ. बनकोट (ताम्र मानव आकृतियां) — 4. उत्तरकाशी\nकूट (क-ख-ग-घ):",
           "questionText": "उत्तराखंड के प्रागैतिहासिक एवं आद्य-ऐतिहासिक पुरास्थलों को उनके संबंधित जनपदों से सुमेलित कीजिए:\nसूची-1 (पुरास्थल) — सूची-2 (जनपद)\nक. लाखू उडियार — 1. चमोली\nख. ग्वारख्या उडियार — 2. अल्मोड़ा\nग. हुडली — 3. पिथौरागढ़\nघ. बनकोट (ताम्र मानव आकृतियां) — 4. उत्तरकाशी\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-4-1-3",
             "1-2-4-3",
@@ -385788,7 +385788,35 @@
               "2-1-4-3",
               "3-1-2-4"
             ],
-            "explanation_en": "Lakhudiyar is in Almora (Suyal river), Gwarkhya Udiyar in Chamoli (Alaknanda valley), Hudali in Uttarkashi (blue rock paintings), and Bankot copper figures in Pithoragarh."
+            "explanation_en": "Lakhudiyar is in Almora (Suyal river), Gwarkhya Udiyar in Chamoli (Alaknanda valley), Hudali in Uttarkashi (blue rock paintings), and Bankot copper figures in Pithoragarh.",
+            "list_a": [
+              "क. लाखू उडियार",
+              "ख. ग्वारख्या उडियार",
+              "ग. हुडली",
+              "घ. बनकोट (ताम्र मानव आकृतियां)"
+            ],
+            "list_b": [
+              "1. चमोली",
+              "2. अल्मोड़ा",
+              "3. पिथौरागढ़",
+              "4. उत्तरकाशी"
+            ],
+            "header_a": "पुरास्थल",
+            "header_b": "जनपद",
+            "list_a_en": [
+              "A. Lakhudiyar",
+              "B. Gwarkhya Udiyar",
+              "C. Hudali",
+              "D. Bankot (Copper anthropomorphs)"
+            ],
+            "list_b_en": [
+              "1. Chamoli",
+              "2. Almora",
+              "3. Pithoragarh",
+              "4. Uttarkashi"
+            ],
+            "header_a_en": "Site",
+            "header_b_en": "District"
           },
           "question_en": "Match the prehistoric and proto-historic archaeological sites of Uttarakhand with their respective districts:\nList-1 (Site) — List-2 (District)\nA. Lakhudiyar — 1. Chamoli\nB. Gwarkhya Udiyar — 2. Almora\nC. Hudali — 3. Pithoragarh\nD. Bankot (Copper anthropomorphs) — 4. Uttarkashi\nCode (A-B-C-D):",
           "options_en": [
@@ -386048,7 +386076,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "ब्रिटिश कुमाऊं के कमिश्नरों और उनके प्रमुख कार्यों को सुमेलित कीजिए:\nसूची-1 (कमिश्नर) — सूची-2 (प्रमुख कार्य)\nक. एडवर्ड गार्डनर — 1. अस्सी साला भूमि बंदोबस्त (1823)\nख. जॉर्ज विलियम ट्रेल — 2. कुमाऊं का प्रथम कमिश्नर (1815)\nग. जे. एच. बैटन — 3. हिल साइड सेफ्टी कमेटी (1867)\nघ. सर हेनरी रैमजे — 4. कुमाऊं कमिश्नरी का स्वर्णकाल व बीस साला बंदोबस्त\nकूट (क-ख-ग-घ):",
           "questionText": "ब्रिटिश कुमाऊं के कमिश्नरों और उनके प्रमुख कार्यों को सुमेलित कीजिए:\nसूची-1 (कमिश्नर) — सूची-2 (प्रमुख कार्य)\nक. एडवर्ड गार्डनर — 1. अस्सी साला भूमि बंदोबस्त (1823)\nख. जॉर्ज विलियम ट्रेल — 2. कुमाऊं का प्रथम कमिश्नर (1815)\nग. जे. एच. बैटन — 3. हिल साइड सेफ्टी कमेटी (1867)\nघ. सर हेनरी रैमजे — 4. कुमाऊं कमिश्नरी का स्वर्णकाल व बीस साला बंदोबस्त\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-4-1-3",
             "1-2-3-4",
@@ -386076,7 +386104,35 @@
               "2-1-4-3",
               "4-1-2-3"
             ],
-            "explanation_en": "Edward Gardner was the first Commissioner (1815), Traill carried out the famous Assi Sala settlement (1823), Batten's tenure is known as the Golden Period with the 20-year settlement, and Henry Ramsay formed the Hill Side Safety Committee in 1867."
+            "explanation_en": "Edward Gardner was the first Commissioner (1815), Traill carried out the famous Assi Sala settlement (1823), Batten's tenure is known as the Golden Period with the 20-year settlement, and Henry Ramsay formed the Hill Side Safety Committee in 1867.",
+            "list_a": [
+              "क. एडवर्ड गार्डनर",
+              "ख. जॉर्ज विलियम ट्रेल",
+              "ग. जे. एच. बैटन",
+              "घ. सर हेनरी रैमजे"
+            ],
+            "list_b": [
+              "1. अस्सी साला भूमि बंदोबस्त (1823)",
+              "2. कुमाऊं का प्रथम कमिश्नर (1815)",
+              "3. हिल साइड सेफ्टी कमेटी (1867)",
+              "4. कुमाऊं कमिश्नरी का स्वर्णकाल व बीस साला बंदोबस्त"
+            ],
+            "header_a": "कमिश्नर",
+            "header_b": "प्रमुख कार्य",
+            "list_a_en": [
+              "A. Edward Gardner",
+              "B. George William Traill",
+              "C. J. H. Batten",
+              "D. Sir Henry Ramsay"
+            ],
+            "list_b_en": [
+              "1. Assi Sala Land Settlement (1823)",
+              "2. First Commissioner of Kumaon (1815)",
+              "3. Hill Side Safety Committee (1867)",
+              "4. Golden Period of Kumaon Commissionery & 20-Year Settlement"
+            ],
+            "header_a_en": "Commissioner",
+            "header_b_en": "Key Work"
           },
           "question_en": "Match the British Kumaon Commissioners with their major works:\nList-1 (Commissioner) — List-2 (Key Work)\nA. Edward Gardner — 1. Assi Sala Land Settlement (1823)\nB. George William Traill — 2. First Commissioner of Kumaon (1815)\nC. J. H. Batten — 3. Hill Side Safety Committee (1867)\nD. Sir Henry Ramsay — 4. Golden Period of Kumaon Commissionery & 20-Year Settlement\nCode (A-B-C-D):",
           "options_en": [
@@ -386240,7 +386296,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड के प्रमुख मेलों एवं उत्सवों को उनके आयोजन स्थलों से सुमेलित कीजिए:\nसूची-1 (मेला/उत्सव) — सूची-2 (स्थान/जनपद)\nक. बग्वाल (पाषाण युद्ध) मेला — 1. जौलजीबी (पिथौरागढ़)\nख. रम्माण उत्सव (यूनेस्को अमूर्त धरोहर) — 2. देवीधुरा (चंपावत)\nग. काली-गोरी संगम व्यापार मेला — 3. सलूड़-डूंगरा (चमोली)\nघ. नुणाई मेला — 4. जौनसार-बावर (देहरादून)\nकूट (क-ख-ग-घ):",
           "questionText": "उत्तराखंड के प्रमुख मेलों एवं उत्सवों को उनके आयोजन स्थलों से सुमेलित कीजिए:\nसूची-1 (मेला/उत्सव) — सूची-2 (स्थान/जनपद)\nक. बग्वाल (पाषाण युद्ध) मेला — 1. जौलजीबी (पिथौरागढ़)\nख. रम्माण उत्सव (यूनेस्को अमूर्त धरोहर) — 2. देवीधुरा (चंपावत)\nग. काली-गोरी संगम व्यापार मेला — 3. सलूड़-डूंगरा (चमोली)\nघ. नुणाई मेला — 4. जौनसार-बावर (देहरादून)\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "3-2-1-4",
@@ -386268,7 +386324,35 @@
               "2-3-1-4",
               "1-3-2-4"
             ],
-            "explanation_en": "Bagwal Fair is held at Devidhura (Champawat), Ramman Festival at Saloor-Dungra (Chamoli), Jauljibi Fair at the Kali-Gori confluence (Pithoragarh), and Nunai Fair in Jaunsar-Bawar (Dehradun)."
+            "explanation_en": "Bagwal Fair is held at Devidhura (Champawat), Ramman Festival at Saloor-Dungra (Chamoli), Jauljibi Fair at the Kali-Gori confluence (Pithoragarh), and Nunai Fair in Jaunsar-Bawar (Dehradun).",
+            "list_a": [
+              "क. बग्वाल (पाषाण युद्ध) मेला",
+              "ख. रम्माण उत्सव (यूनेस्को अमूर्त धरोहर)",
+              "ग. काली-गोरी संगम व्यापार मेला",
+              "घ. नुणाई मेला"
+            ],
+            "list_b": [
+              "1. जौलजीबी (पिथौरागढ़)",
+              "2. देवीधुरा (चंपावत)",
+              "3. सलूड़-डूंगरा (चमोली)",
+              "4. जौनसार-बावर (देहरादून)"
+            ],
+            "header_a": "मेला/उत्सव",
+            "header_b": "स्थान/जनपद",
+            "list_a_en": [
+              "A. Bagwal (Stone-pelting) Fair",
+              "B. Ramman Festival (UNESCO Intangible Heritage)",
+              "C. Kali-Gori Confluence Trade Fair",
+              "D. Nunai Fair"
+            ],
+            "list_b_en": [
+              "1. Jauljibi (Pithoragarh)",
+              "2. Devidhura (Champawat)",
+              "3. Saloor-Dungra (Chamoli)",
+              "4. Jaunsar-Bawar (Dehradun)"
+            ],
+            "header_a_en": "Fair/Festival",
+            "header_b_en": "Place/District"
           },
           "question_en": "Match the major fairs and festivals of Uttarakhand with their venues:\nList-1 (Fair/Festival) — List-2 (Place/District)\nA. Bagwal (Stone-pelting) Fair — 1. Jauljibi (Pithoragarh)\nB. Ramman Festival (UNESCO Intangible Heritage) — 2. Devidhura (Champawat)\nC. Kali-Gori Confluence Trade Fair — 3. Saloor-Dungra (Chamoli)\nD. Nunai Fair — 4. Jaunsar-Bawar (Dehradun)\nCode (A-B-C-D):",
           "options_en": [
@@ -386336,7 +386420,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "निम्नलिखित युग्मों को सुमेलित कीजिए (उत्तराखंड समसामयिकी 2025-26):\nसूची-1 (पहल/परियोजना) — सूची-2 (संबंधित स्थान)\nक. राज्य की प्रथम जीआई गैलरी — 1. चौबटिया\nख. धर्म गार्जियन अभ्यास 2026 — 2. हल्द्वानी\nग. सौंग बांध परियोजना — 3. नैनीताल\nघ. जमरानी बांध परियोजना — 4. देहरादून\nकूट (क-ख-ग-घ):",
           "questionText": "निम्नलिखित युग्मों को सुमेलित कीजिए (उत्तराखंड समसामयिकी 2025-26):\nसूची-1 (पहल/परियोजना) — सूची-2 (संबंधित स्थान)\nक. राज्य की प्रथम जीआई गैलरी — 1. चौबटिया\nख. धर्म गार्जियन अभ्यास 2026 — 2. हल्द्वानी\nग. सौंग बांध परियोजना — 3. नैनीताल\nघ. जमरानी बांध परियोजना — 4. देहरादून\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-4-1-3",
             "1-2-3-4",
@@ -386364,7 +386448,35 @@
               "2-1-4-3",
               "3-1-4-2"
             ],
-            "explanation_en": "Uttarakhand's first GI Gallery opened in Haldwani in July 2026. India-Japan Exercise Dharma Guardian 2026 was held at Chaubattia in February 2026. Song Dam is in Dehradun district and Jamrani Dam is in Nainital district."
+            "explanation_en": "Uttarakhand's first GI Gallery opened in Haldwani in July 2026. India-Japan Exercise Dharma Guardian 2026 was held at Chaubattia in February 2026. Song Dam is in Dehradun district and Jamrani Dam is in Nainital district.",
+            "list_a": [
+              "क. राज्य की प्रथम जीआई गैलरी",
+              "ख. धर्म गार्जियन अभ्यास 2026",
+              "ग. सौंग बांध परियोजना",
+              "घ. जमरानी बांध परियोजना"
+            ],
+            "list_b": [
+              "1. चौबटिया",
+              "2. हल्द्वानी",
+              "3. नैनीताल",
+              "4. देहरादून"
+            ],
+            "header_a": "पहल/परियोजना",
+            "header_b": "संबंधित स्थान",
+            "list_a_en": [
+              "A. State's first GI Gallery",
+              "B. Exercise Dharma Guardian 2026",
+              "C. Song Dam Project",
+              "D. Jamrani Dam Project"
+            ],
+            "list_b_en": [
+              "1. Chaubattia",
+              "2. Haldwani",
+              "3. Nainital",
+              "4. Dehradun"
+            ],
+            "header_a_en": "Initiative/Project",
+            "header_b_en": "Associated Place"
           },
           "question_en": "Match the following pairs (Uttarakhand Current Affairs 2025-26):\nList-1 (Initiative/Project) — List-2 (Associated Place)\nA. State's first GI Gallery — 1. Chaubattia\nB. Exercise Dharma Guardian 2026 — 2. Haldwani\nC. Song Dam Project — 3. Nainital\nD. Jamrani Dam Project — 4. Dehradun\nCode (A-B-C-D):",
           "options_en": [
@@ -386624,7 +386736,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड के प्रमुख दर्रों और उनके द्वारा जोड़े जाने वाले क्षेत्रों को सुमेलित कीजिए:\nसूची-1 (दर्रा) — सूची-2 (जुड़ने वाले क्षेत्र)\nक. ट्रेल पास — 1. चमोली और पिथौरागढ़\nख. बाराहोती — 2. बागेश्वर और पिथौरागढ़\nग. श्रृंगकंठ — 3. उत्तरकाशी और हिमाचल प्रदेश\nघ. सिनला — 4. दारमा और व्यास घाटी (पिथौरागढ़)\nकूट (क-ख-ग-घ):",
           "questionText": "उत्तराखंड के प्रमुख दर्रों और उनके द्वारा जोड़े जाने वाले क्षेत्रों को सुमेलित कीजिए:\nसूची-1 (दर्रा) — सूची-2 (जुड़ने वाले क्षेत्र)\nक. ट्रेल पास — 1. चमोली और पिथौरागढ़\nख. बाराहोती — 2. बागेश्वर और पिथौरागढ़\nग. श्रृंगकंठ — 3. उत्तरकाशी और हिमाचल प्रदेश\nघ. सिनला — 4. दारमा और व्यास घाटी (पिथौरागढ़)\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-3-1-4",
             "1-2-3-4",
@@ -386652,7 +386764,35 @@
               "2-1-3-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Traill's Pass connects Bageshwar and Pithoragarh, Barahoti connects Chamoli and Pithoragarh, Shringkanth connects Uttarkashi and Himachal Pradesh, and Sinla connects Darma and Byans valleys."
+            "explanation_en": "Traill's Pass connects Bageshwar and Pithoragarh, Barahoti connects Chamoli and Pithoragarh, Shringkanth connects Uttarkashi and Himachal Pradesh, and Sinla connects Darma and Byans valleys.",
+            "list_a": [
+              "क. ट्रेल पास",
+              "ख. बाराहोती",
+              "ग. श्रृंगकंठ",
+              "घ. सिनला"
+            ],
+            "list_b": [
+              "1. चमोली और पिथौरागढ़",
+              "2. बागेश्वर और पिथौरागढ़",
+              "3. उत्तरकाशी और हिमाचल प्रदेश",
+              "4. दारमा और व्यास घाटी (पिथौरागढ़)"
+            ],
+            "header_a": "दर्रा",
+            "header_b": "जुड़ने वाले क्षेत्र",
+            "list_a_en": [
+              "A. Traill's Pass",
+              "B. Barahoti",
+              "C. Shringkanth",
+              "D. Sinla"
+            ],
+            "list_b_en": [
+              "1. Chamoli and Pithoragarh",
+              "2. Bageshwar and Pithoragarh",
+              "3. Uttarkashi and Himachal Pradesh",
+              "4. Darma and Byans Valleys (Pithoragarh)"
+            ],
+            "header_a_en": "Pass",
+            "header_b_en": "Connected Regions"
           },
           "question_en": "Match the major mountain passes of Uttarakhand with the regions they connect:\nList-1 (Pass) — List-2 (Connected Regions)\nA. Traill's Pass — 1. Chamoli and Pithoragarh\nB. Barahoti — 2. Bageshwar and Pithoragarh\nC. Shringkanth — 3. Uttarkashi and Himachal Pradesh\nD. Sinla — 4. Darma and Byans Valleys (Pithoragarh)\nCode (A-B-C-D):",
           "options_en": [
@@ -387008,7 +387148,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड की प्रमुख जलविद्युत परियोजनाओं और उनसे संबंधित नदियों को सुमेलित कीजिए:\nसूची-1 (परियोजना) — सूची-2 (नदी)\nक. कोटेश्वर बांध — 1. यमुना\nख. लखवाड़-व्यासी परियोजना — 2. भागीरथी\nग. धौलीगंगा (चरण-1) परियोजना — 3. टोंस\nघ. इचारी बांध — 4. धौलीगंगा (पिथौरागढ़)\nकूट (क-ख-ग-घ):",
           "questionText": "उत्तराखंड की प्रमुख जलविद्युत परियोजनाओं और उनसे संबंधित नदियों को सुमेलित कीजिए:\nसूची-1 (परियोजना) — सूची-2 (नदी)\nक. कोटेश्वर बांध — 1. यमुना\nख. लखवाड़-व्यासी परियोजना — 2. भागीरथी\nग. धौलीगंगा (चरण-1) परियोजना — 3. टोंस\nघ. इचारी बांध — 4. धौलीगंगा (पिथौरागढ़)\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -387036,7 +387176,35 @@
               "2-3-4-1",
               "3-1-4-2"
             ],
-            "explanation_en": "Koteshwar Dam is on the Bhagirathi, Lakhwar-Vyasi on the Yamuna, Dhauliganga Stage-1 on Eastern Dhauliganga (Pithoragarh), and Ichari Dam on the Tons river."
+            "explanation_en": "Koteshwar Dam is on the Bhagirathi, Lakhwar-Vyasi on the Yamuna, Dhauliganga Stage-1 on Eastern Dhauliganga (Pithoragarh), and Ichari Dam on the Tons river.",
+            "list_a": [
+              "क. कोटेश्वर बांध",
+              "ख. लखवाड़-व्यासी परियोजना",
+              "ग. धौलीगंगा (चरण",
+              "घ. इचारी बांध"
+            ],
+            "list_b": [
+              "1. यमुना",
+              "2. भागीरथी",
+              "1. परियोजना — 3. टोंस",
+              "4. धौलीगंगा (पिथौरागढ़)"
+            ],
+            "header_a": "परियोजना",
+            "header_b": "नदी",
+            "list_a_en": [
+              "A. Koteshwar Dam",
+              "B. Lakhwar-Vyasi Project",
+              "C. Dhauliganga (Stage",
+              "D. Ichari Dam"
+            ],
+            "list_b_en": [
+              "1. Yamuna",
+              "2. Bhagirathi",
+              "1. Project — 3. Tons",
+              "4. Dhauliganga (Pithoragarh)"
+            ],
+            "header_a_en": "Project",
+            "header_b_en": "River"
           },
           "question_en": "Match the major hydroelectric projects of Uttarakhand with their respective rivers:\nList-1 (Project) — List-2 (River)\nA. Koteshwar Dam — 1. Yamuna\nB. Lakhwar-Vyasi Project — 2. Bhagirathi\nC. Dhauliganga (Stage-1) Project — 3. Tons\nD. Ichari Dam — 4. Dhauliganga (Pithoragarh)\nCode (A-B-C-D):",
           "options_en": [
@@ -387104,7 +387272,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड के प्रमुख वन एवं पर्यावरण आंदोलनों को उनके प्रणेताओं/वर्षों से सुमेलित कीजिए:\nसूची-1 (आंदोलन) — सूची-2 (संबंधित व्यक्ति/तथ्य)\nक. चिपको आंदोलन (1974) — 1. कल्याण सिंह रावत\nख. मैती आंदोलन (1995) — 2. गौरा देवी (रैणी गांव)\nग. रक्षासूत्र आंदोलन (1994) — 3. सुरेश भाई (टिहरी)\nघ. पानी राखो आंदोलन (1989) — 4. सच्चिदानंद भारती (उफराईखाल)\nकूट (क-ख-ग-घ):",
           "questionText": "उत्तराखंड के प्रमुख वन एवं पर्यावरण आंदोलनों को उनके प्रणेताओं/वर्षों से सुमेलित कीजिए:\nसूची-1 (आंदोलन) — सूची-2 (संबंधित व्यक्ति/तथ्य)\nक. चिपको आंदोलन (1974) — 1. कल्याण सिंह रावत\nख. मैती आंदोलन (1995) — 2. गौरा देवी (रैणी गांव)\nग. रक्षासूत्र आंदोलन (1994) — 3. सुरेश भाई (टिहरी)\nघ. पानी राखो आंदोलन (1989) — 4. सच्चिदानंद भारती (उफराईखाल)\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -387132,7 +387300,35 @@
               "2-3-1-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Chipko began at Reni under Gaura Devi (1974), Maiti was launched by Kalyan Singh Rawat (1995), Rakshasutra by Suresh Bhai in Tehri (1994), and Pani Rakho by Sachidanand Bharti at Ufraikhal (1989)."
+            "explanation_en": "Chipko began at Reni under Gaura Devi (1974), Maiti was launched by Kalyan Singh Rawat (1995), Rakshasutra by Suresh Bhai in Tehri (1994), and Pani Rakho by Sachidanand Bharti at Ufraikhal (1989).",
+            "list_a": [
+              "क. चिपको आंदोलन (1974)",
+              "ख. मैती आंदोलन (1995)",
+              "ग. रक्षासूत्र आंदोलन (1994)",
+              "घ. पानी राखो आंदोलन (1989)"
+            ],
+            "list_b": [
+              "1. कल्याण सिंह रावत",
+              "2. गौरा देवी (रैणी गांव)",
+              "3. सुरेश भाई (टिहरी)",
+              "4. सच्चिदानंद भारती (उफराईखाल)"
+            ],
+            "header_a": "आंदोलन",
+            "header_b": "संबंधित व्यक्ति/तथ्य",
+            "list_a_en": [
+              "A. Chipko Movement (1974)",
+              "B. Maiti Movement (1995)",
+              "C. Rakshasutra Movement (1994)",
+              "D. Pani Rakho Movement (1989)"
+            ],
+            "list_b_en": [
+              "1. Kalyan Singh Rawat",
+              "2. Gaura Devi (Reni village)",
+              "3. Suresh Bhai (Tehri)",
+              "4. Sachidanand Bharti (Ufraikhal)"
+            ],
+            "header_a_en": "Movement",
+            "header_b_en": "Associated Person/Place"
           },
           "question_en": "Match the major forest and environmental movements of Uttarakhand with their pioneers:\nList-1 (Movement) — List-2 (Associated Person/Place)\nA. Chipko Movement (1974) — 1. Kalyan Singh Rawat\nB. Maiti Movement (1995) — 2. Gaura Devi (Reni village)\nC. Rakshasutra Movement (1994) — 3. Suresh Bhai (Tehri)\nD. Pani Rakho Movement (1989) — 4. Sachidanand Bharti (Ufraikhal)\nCode (A-B-C-D):",
           "options_en": [
@@ -387344,7 +387540,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड के प्रमुख राष्ट्रीय संस्थानों और उनके मुख्यालयों को सुमेलित कीजिए:\nसूची-1 (संस्थान) — सूची-2 (स्थान)\nक. भारतीय पशु चिकित्सा अनुसंधान संस्थान — 1. अल्मोड़ा\nख. विवेकानंद पर्वतीय कृषि अनुसंधान संस्थान — 2. मुक्तेश्वर (नैनीताल)\nग. राष्ट्रीय जलविज्ञान संस्थान — 3. देहरादून\nघ. भारतीय सुदूर संवेदन संस्थान — 4. रुड़की (हरिद्वार)\nकूट (क-ख-ग-घ):",
           "questionText": "उत्तराखंड के प्रमुख राष्ट्रीय संस्थानों और उनके मुख्यालयों को सुमेलित कीजिए:\nसूची-1 (संस्थान) — सूची-2 (स्थान)\nक. भारतीय पशु चिकित्सा अनुसंधान संस्थान — 1. अल्मोड़ा\nख. विवेकानंद पर्वतीय कृषि अनुसंधान संस्थान — 2. मुक्तेश्वर (नैनीताल)\nग. राष्ट्रीय जलविज्ञान संस्थान — 3. देहरादून\nघ. भारतीय सुदूर संवेदन संस्थान — 4. रुड़की (हरिद्वार)\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -387372,7 +387568,35 @@
               "2-4-1-3",
               "3-1-4-2"
             ],
-            "explanation_en": "IVRI campus is at Mukteshwar (Nainital), VPKAS is in Almora, National Institute of Hydrology is in Roorkee, and IIRS is in Dehradun."
+            "explanation_en": "IVRI campus is at Mukteshwar (Nainital), VPKAS is in Almora, National Institute of Hydrology is in Roorkee, and IIRS is in Dehradun.",
+            "list_a": [
+              "क. भारतीय पशु चिकित्सा अनुसंधान संस्थान",
+              "ख. विवेकानंद पर्वतीय कृषि अनुसंधान संस्थान",
+              "ग. राष्ट्रीय जलविज्ञान संस्थान",
+              "घ. भारतीय सुदूर संवेदन संस्थान"
+            ],
+            "list_b": [
+              "1. अल्मोड़ा",
+              "2. मुक्तेश्वर (नैनीताल)",
+              "3. देहरादून",
+              "4. रुड़की (हरिद्वार)"
+            ],
+            "header_a": "संस्थान",
+            "header_b": "स्थान",
+            "list_a_en": [
+              "A. Indian Veterinary Research Institute",
+              "B. Vivekananda Parvatiya Krishi Anusandhan Sansthan",
+              "C. National Institute of Hydrology",
+              "D. Indian Institute of Remote Sensing"
+            ],
+            "list_b_en": [
+              "1. Almora",
+              "2. Mukteshwar (Nainital)",
+              "3. Dehradun",
+              "4. Roorkee (Haridwar)"
+            ],
+            "header_a_en": "Institution",
+            "header_b_en": "Location"
           },
           "question_en": "Match the premier national institutions located in Uttarakhand with their headquarters:\nList-1 (Institution) — List-2 (Location)\nA. Indian Veterinary Research Institute — 1. Almora\nB. Vivekananda Parvatiya Krishi Anusandhan Sansthan — 2. Mukteshwar (Nainital)\nC. National Institute of Hydrology — 3. Dehradun\nD. Indian Institute of Remote Sensing — 4. Roorkee (Haridwar)\nCode (A-B-C-D):",
           "options_en": [
@@ -387440,7 +387664,7 @@
           "subjectId": "polity",
           "question": "निम्नलिखित प्रमुख राष्ट्रीय आयोगों/समितियों और उनके अध्यक्षों का सही मिलान कीजिए:\nसूची-1 — सूची-2\nक. एक राष्ट्र एक चुनाव (संयुक्त संसदीय समिति) — 1. न्यायमूर्ति रंजना प्रकाश देसाई\nख. आठवां केंद्रीय वेतन आयोग — 2. पी. पी. चौधरी\nग. तेईसवां विधि आयोग — 3. न्यायमूर्ति दिनेश माहेश्वरी\nघ. सोलहवां वित्त आयोग — 4. अरविंद पनगढ़िया\nकूट (क-ख-ग-घ):",
           "questionText": "निम्नलिखित प्रमुख राष्ट्रीय आयोगों/समितियों और उनके अध्यक्षों का सही मिलान कीजिए:\nसूची-1 — सूची-2\nक. एक राष्ट्र एक चुनाव (संयुक्त संसदीय समिति) — 1. न्यायमूर्ति रंजना प्रकाश देसाई\nख. आठवां केंद्रीय वेतन आयोग — 2. पी. पी. चौधरी\nग. तेईसवां विधि आयोग — 3. न्यायमूर्ति दिनेश माहेश्वरी\nघ. सोलहवां वित्त आयोग — 4. अरविंद पनगढ़िया\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -387468,7 +387692,31 @@
               "2-3-1-4",
               "3-1-2-4"
             ],
-            "explanation_en": "P. P. Chaudhary chairs the JPC on the 129th Constitutional Amendment Bill (One Nation One Election). Justice Ranjana Prakash Desai chairs the 8th CPC (notified 3 Nov 2025), Justice Dinesh Maheshwari chairs the 23rd Law Commission, and Arvind Panagariya chairs the 16th Finance Commission."
+            "explanation_en": "P. P. Chaudhary chairs the JPC on the 129th Constitutional Amendment Bill (One Nation One Election). Justice Ranjana Prakash Desai chairs the 8th CPC (notified 3 Nov 2025), Justice Dinesh Maheshwari chairs the 23rd Law Commission, and Arvind Panagariya chairs the 16th Finance Commission.",
+            "list_a": [
+              "क. एक राष्ट्र एक चुनाव (संयुक्त संसदीय समिति)",
+              "ख. आठवां केंद्रीय वेतन आयोग",
+              "ग. तेईसवां विधि आयोग",
+              "घ. सोलहवां वित्त आयोग"
+            ],
+            "list_b": [
+              "1. न्यायमूर्ति रंजना प्रकाश देसाई",
+              "2. पी. पी. चौधरी",
+              "3. न्यायमूर्ति दिनेश माहेश्वरी",
+              "4. अरविंद पनगढ़िया"
+            ],
+            "list_a_en": [
+              "A. One Nation One Election (JPC)",
+              "B. 8th Central Pay Commission",
+              "C. 23rd Law Commission",
+              "D. 16th Finance Commission"
+            ],
+            "list_b_en": [
+              "1. Justice Ranjana Prakash Desai",
+              "2. P. P. Chaudhary",
+              "3. Justice Dinesh Maheshwari",
+              "4. Arvind Panagariya"
+            ]
           },
           "question_en": "Match the following major national commissions/committees with their chairpersons:\nList-1 — List-2\nA. One Nation One Election (JPC) — 1. Justice Ranjana Prakash Desai\nB. 8th Central Pay Commission — 2. P. P. Chaudhary\nC. 23rd Law Commission — 3. Justice Dinesh Maheshwari\nD. 16th Finance Commission — 4. Arvind Panagariya\nCode (A-B-C-D):",
           "options_en": [
@@ -387488,7 +387736,7 @@
           "subjectId": "history",
           "question": "सिंधु घाटी सभ्यता के प्रमुख स्थलों और वहां से प्राप्त पुरातात्विक साक्ष्यों को सुमेलित कीजिए:\nसूची-1 (स्थल) — सूची-2 (प्रमुख साक्ष्य)\nक. लोथल — 1. जुते हुए खेत के साक्ष्य\nख. कालीबंगा — 2. गोदीवाड़ा (बंदरगाह)\nग. धोलावीरा — 3. उन्नत जल प्रबंधन व तीन भागों में विभाजित नगर\nघ. बनवाली — 4. मिट्टी का बना हल\nकूट (क-ख-ग-घ):",
           "questionText": "सिंधु घाटी सभ्यता के प्रमुख स्थलों और वहां से प्राप्त पुरातात्विक साक्ष्यों को सुमेलित कीजिए:\nसूची-1 (स्थल) — सूची-2 (प्रमुख साक्ष्य)\nक. लोथल — 1. जुते हुए खेत के साक्ष्य\nख. कालीबंगा — 2. गोदीवाड़ा (बंदरगाह)\nग. धोलावीरा — 3. उन्नत जल प्रबंधन व तीन भागों में विभाजित नगर\nघ. बनवाली — 4. मिट्टी का बना हल\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -387516,7 +387764,35 @@
               "2-3-1-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Lothal yielded a dockyard, Kalibangan a ploughed field, Dholavira advanced water management and a three-part city plan, and Banawali a terracotta plough."
+            "explanation_en": "Lothal yielded a dockyard, Kalibangan a ploughed field, Dholavira advanced water management and a three-part city plan, and Banawali a terracotta plough.",
+            "list_a": [
+              "क. लोथल",
+              "ख. कालीबंगा",
+              "ग. धोलावीरा",
+              "घ. बनवाली"
+            ],
+            "list_b": [
+              "1. जुते हुए खेत के साक्ष्य",
+              "2. गोदीवाड़ा (बंदरगाह)",
+              "3. उन्नत जल प्रबंधन व तीन भागों में विभाजित नगर",
+              "4. मिट्टी का बना हल"
+            ],
+            "header_a": "स्थल",
+            "header_b": "प्रमुख साक्ष्य",
+            "list_a_en": [
+              "A. Lothal",
+              "B. Kalibangan",
+              "C. Dholavira",
+              "D. Banawali"
+            ],
+            "list_b_en": [
+              "1. Ploughed field evidence",
+              "2. Dockyard",
+              "3. Advanced water management and tripartite town plan",
+              "4. Terracotta plough model"
+            ],
+            "header_a_en": "Site",
+            "header_b_en": "Evidence"
           },
           "question_en": "Match the major Indus Valley Civilization sites with the archaeological evidence found there:\nList-1 (Site) — List-2 (Evidence)\nA. Lothal — 1. Ploughed field evidence\nB. Kalibangan — 2. Dockyard\nC. Dholavira — 3. Advanced water management and tripartite town plan\nD. Banawali — 4. Terracotta plough model\nCode (A-B-C-D):",
           "options_en": [
@@ -387680,7 +387956,7 @@
           "subjectId": "history",
           "question": "दिल्ली सल्तनत के प्रमुख विभागों और उनके संस्थापक सुल्तानों को सुमेलित कीजिए:\nसूची-1 (विभाग) — सूची-2 (सुल्तान)\nक. दीवान-ए-अर्ज (सैन्य विभाग) — 1. अलाउद्दीन खिलजी\nख. दीवान-ए-मुस्तखराज (राजस्व बकाया) — 2. बलबन\nग. दीवान-ए-कोही (कृषि विभाग) — 3. फिरोजशाह तुगलक\nघ. दीवान-ए-बंदगान (दास विभाग) — 4. मुहम्मद बिन तुगलक\nकूट (क-ख-ग-घ):",
           "questionText": "दिल्ली सल्तनत के प्रमुख विभागों और उनके संस्थापक सुल्तानों को सुमेलित कीजिए:\nसूची-1 (विभाग) — सूची-2 (सुल्तान)\nक. दीवान-ए-अर्ज (सैन्य विभाग) — 1. अलाउद्दीन खिलजी\nख. दीवान-ए-मुस्तखराज (राजस्व बकाया) — 2. बलबन\nग. दीवान-ए-कोही (कृषि विभाग) — 3. फिरोजशाह तुगलक\nघ. दीवान-ए-बंदगान (दास विभाग) — 4. मुहम्मद बिन तुगलक\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -387708,7 +387984,35 @@
               "2-4-1-3",
               "3-1-4-2"
             ],
-            "explanation_en": "Diwan-i-Arz was founded by Balban, Diwan-i-Mustakhraj by Alauddin Khalji, Diwan-i-Kohi by Muhammad bin Tughlaq, and Diwan-i-Bandagan by Firoz Shah Tughlaq."
+            "explanation_en": "Diwan-i-Arz was founded by Balban, Diwan-i-Mustakhraj by Alauddin Khalji, Diwan-i-Kohi by Muhammad bin Tughlaq, and Diwan-i-Bandagan by Firoz Shah Tughlaq.",
+            "list_a": [
+              "क. दीवान-ए-अर्ज (सैन्य विभाग)",
+              "ख. दीवान-ए-मुस्तखराज (राजस्व बकाया)",
+              "ग. दीवान-ए-कोही (कृषि विभाग)",
+              "घ. दीवान-ए-बंदगान (दास विभाग)"
+            ],
+            "list_b": [
+              "1. अलाउद्दीन खिलजी",
+              "2. बलबन",
+              "3. फिरोजशाह तुगलक",
+              "4. मुहम्मद बिन तुगलक"
+            ],
+            "header_a": "विभाग",
+            "header_b": "सुल्तान",
+            "list_a_en": [
+              "A. Diwan-i-Arz (Military)",
+              "B. Diwan-i-Mustakhraj (Revenue arrears)",
+              "C. Diwan-i-Kohi (Agriculture)",
+              "D. Diwan-i-Bandagan (Slaves)"
+            ],
+            "list_b_en": [
+              "1. Alauddin Khalji",
+              "2. Balban",
+              "3. Firoz Shah Tughlaq",
+              "4. Muhammad bin Tughlaq"
+            ],
+            "header_a_en": "Department",
+            "header_b_en": "Sultan"
           },
           "question_en": "Match the major departments of the Delhi Sultanate with their founding Sultans:\nList-1 (Department) — List-2 (Sultan)\nA. Diwan-i-Arz (Military) — 1. Alauddin Khalji\nB. Diwan-i-Mustakhraj (Revenue arrears) — 2. Balban\nC. Diwan-i-Kohi (Agriculture) — 3. Firoz Shah Tughlaq\nD. Diwan-i-Bandagan (Slaves) — 4. Muhammad bin Tughlaq\nCode (A-B-C-D):",
           "options_en": [
@@ -387968,7 +388272,7 @@
           "subjectId": "general_studies",
           "question": "19वीं सदी के सामाजिक-धार्मिक सुधार आंदोलनों और उनके संस्थापकों को सुमेलित कीजिए:\nसूची-1 (संस्था) — सूची-2 (संस्थापक)\nक. सत्यशोधक समाज (1873) — 1. केशव चंद्र सेन व आत्माराम पांडुरंग\nख. प्रार्थना समाज (1867) — 2. ज्योतिबा फुले\nग. देव समाज (1887) — 3. शिव नारायण अग्निहोत्री\nघ. तत्वबोधिनी सभा (1839) — 4. देवेंद्रनाथ टैगोर\nकूट (क-ख-ग-घ):",
           "questionText": "19वीं सदी के सामाजिक-धार्मिक सुधार आंदोलनों और उनके संस्थापकों को सुमेलित कीजिए:\nसूची-1 (संस्था) — सूची-2 (संस्थापक)\nक. सत्यशोधक समाज (1873) — 1. केशव चंद्र सेन व आत्माराम पांडुरंग\nख. प्रार्थना समाज (1867) — 2. ज्योतिबा फुले\nग. देव समाज (1887) — 3. शिव नारायण अग्निहोत्री\nघ. तत्वबोधिनी सभा (1839) — 4. देवेंद्रनाथ टैगोर\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -387996,7 +388300,35 @@
               "2-3-1-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Satyashodhak Samaj was founded by Jyotiba Phule, Prarthana Samaj by Atmaram Pandurang (inspired by Keshab Chandra Sen), Deva Samaj by Shiv Narayan Agnihotri, and Tattvabodhini Sabha by Debendranath Tagore."
+            "explanation_en": "Satyashodhak Samaj was founded by Jyotiba Phule, Prarthana Samaj by Atmaram Pandurang (inspired by Keshab Chandra Sen), Deva Samaj by Shiv Narayan Agnihotri, and Tattvabodhini Sabha by Debendranath Tagore.",
+            "list_a": [
+              "क. सत्यशोधक समाज (1873)",
+              "ख. प्रार्थना समाज (1867)",
+              "ग. देव समाज (1887)",
+              "घ. तत्वबोधिनी सभा (1839)"
+            ],
+            "list_b": [
+              "1. केशव चंद्र सेन व आत्माराम पांडुरंग",
+              "2. ज्योतिबा फुले",
+              "3. शिव नारायण अग्निहोत्री",
+              "4. देवेंद्रनाथ टैगोर"
+            ],
+            "header_a": "संस्था",
+            "header_b": "संस्थापक",
+            "list_a_en": [
+              "A. Satyashodhak Samaj (1873)",
+              "B. Prarthana Samaj (1867)",
+              "C. Deva Samaj (1887)",
+              "D. Tattvabodhini Sabha (1839)"
+            ],
+            "list_b_en": [
+              "1. Keshab Chandra Sen & Atmaram Pandurang",
+              "2. Jyotiba Phule",
+              "3. Shiv Narayan Agnihotri",
+              "4. Debendranath Tagore"
+            ],
+            "header_a_en": "Organization",
+            "header_b_en": "Founder"
           },
           "question_en": "Match the 19th-century socio-religious reform organizations with their founders:\nList-1 (Organization) — List-2 (Founder)\nA. Satyashodhak Samaj (1873) — 1. Keshab Chandra Sen & Atmaram Pandurang\nB. Prarthana Samaj (1867) — 2. Jyotiba Phule\nC. Deva Samaj (1887) — 3. Shiv Narayan Agnihotri\nD. Tattvabodhini Sabha (1839) — 4. Debendranath Tagore\nCode (A-B-C-D):",
           "options_en": [
@@ -388112,7 +388444,7 @@
           "subjectId": "current_affairs",
           "question": "भारत के संवैधानिक एवं वैधानिक पदों पर आसीन प्रमुख व्यक्तियों (2025-26) को सुमेलित कीजिए:\nसूची-1 (पद) — सूची-2 (व्यक्ति)\nक. 53वें मुख्य न्यायाधीश (भारत) — 1. ज्ञानेश कुमार\nख. 26वें मुख्य निर्वाचन आयुक्त — 2. न्यायमूर्ति सूर्यकांत\nग. 26वें भारतीय रिजर्व बैंक गवर्नर — 3. अजय कुमार\nघ. संघ लोक सेवा आयोग अध्यक्ष — 4. संजय मल्होत्रा\nकूट (क-ख-ग-घ):",
           "questionText": "भारत के संवैधानिक एवं वैधानिक पदों पर आसीन प्रमुख व्यक्तियों (2025-26) को सुमेलित कीजिए:\nसूची-1 (पद) — सूची-2 (व्यक्ति)\nक. 53वें मुख्य न्यायाधीश (भारत) — 1. ज्ञानेश कुमार\nख. 26वें मुख्य निर्वाचन आयुक्त — 2. न्यायमूर्ति सूर्यकांत\nग. 26वें भारतीय रिजर्व बैंक गवर्नर — 3. अजय कुमार\nघ. संघ लोक सेवा आयोग अध्यक्ष — 4. संजय मल्होत्रा\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -388140,7 +388472,35 @@
               "2-4-1-3",
               "4-1-2-3"
             ],
-            "explanation_en": "Justice Surya Kant is the 53rd CJI, Gyanesh Kumar is the 26th CEC, Sanjay Malhotra is the 26th RBI Governor, and Ajay Kumar is Chairman of UPSC."
+            "explanation_en": "Justice Surya Kant is the 53rd CJI, Gyanesh Kumar is the 26th CEC, Sanjay Malhotra is the 26th RBI Governor, and Ajay Kumar is Chairman of UPSC.",
+            "list_a": [
+              "क. 53वें मुख्य न्यायाधीश (भारत)",
+              "ख. 26वें मुख्य निर्वाचन आयुक्त",
+              "ग. 26वें भारतीय रिजर्व बैंक गवर्नर",
+              "घ. संघ लोक सेवा आयोग अध्यक्ष"
+            ],
+            "list_b": [
+              "1. ज्ञानेश कुमार",
+              "2. न्यायमूर्ति सूर्यकांत",
+              "3. अजय कुमार",
+              "4. संजय मल्होत्रा"
+            ],
+            "header_a": "पद",
+            "header_b": "व्यक्ति",
+            "list_a_en": [
+              "A. 53rd Chief Justice of India",
+              "B. 26th Chief Election Commissioner",
+              "C. 26th Governor of RBI",
+              "D. Chairman, UPSC"
+            ],
+            "list_b_en": [
+              "1. Gyanesh Kumar",
+              "2. Justice Surya Kant",
+              "3. Ajay Kumar",
+              "4. Sanjay Malhotra"
+            ],
+            "header_a_en": "Post",
+            "header_b_en": "Person"
           },
           "question_en": "Match the prominent office-bearers holding constitutional and statutory posts in India (2025-26):\nList-1 (Post) — List-2 (Person)\nA. 53rd Chief Justice of India — 1. Gyanesh Kumar\nB. 26th Chief Election Commissioner — 2. Justice Surya Kant\nC. 26th Governor of RBI — 3. Ajay Kumar\nD. Chairman, UPSC — 4. Sanjay Malhotra\nCode (A-B-C-D):",
           "options_en": [
@@ -388304,7 +388664,7 @@
           "subjectId": "polity",
           "question": "भारतीय संविधान के अनुच्छेदों और उनके विषयों को सुमेलित कीजिए:\nसूची-1 (अनुच्छेद) — सूची-2 (विषय)\nक. अनुच्छेद 40 — 1. समान नागरिक संहिता\nख. अनुच्छेद 44 — 2. ग्राम पंचायतों का गठन\nग. अनुच्छेद 50 — 3. कार्यपालिका से न्यायपालिका का पृथक्करण\nघ. अनुच्छेद 110 — 4. धन विधेयक की परिभाषा\nकूट (क-ख-ग-घ):",
           "questionText": "भारतीय संविधान के अनुच्छेदों और उनके विषयों को सुमेलित कीजिए:\nसूची-1 (अनुच्छेद) — सूची-2 (विषय)\nक. अनुच्छेद 40 — 1. समान नागरिक संहिता\nख. अनुच्छेद 44 — 2. ग्राम पंचायतों का गठन\nग. अनुच्छेद 50 — 3. कार्यपालिका से न्यायपालिका का पृथक्करण\nघ. अनुच्छेद 110 — 4. धन विधेयक की परिभाषा\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -388332,7 +388692,35 @@
               "2-3-1-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Article 40 deals with Village Panchayats, Article 44 with Uniform Civil Code, Article 50 with separation of judiciary from executive, and Article 110 with Money Bills."
+            "explanation_en": "Article 40 deals with Village Panchayats, Article 44 with Uniform Civil Code, Article 50 with separation of judiciary from executive, and Article 110 with Money Bills.",
+            "list_a": [
+              "क. अनुच्छेद 40",
+              "ख. अनुच्छेद 44",
+              "ग. अनुच्छेद 50",
+              "घ. अनुच्छेद 110"
+            ],
+            "list_b": [
+              "1. समान नागरिक संहिता",
+              "2. ग्राम पंचायतों का गठन",
+              "3. कार्यपालिका से न्यायपालिका का पृथक्करण",
+              "4. धन विधेयक की परिभाषा"
+            ],
+            "header_a": "अनुच्छेद",
+            "header_b": "विषय",
+            "list_a_en": [
+              "A. Article 40",
+              "B. Article 44",
+              "C. Article 50",
+              "D. Article 110"
+            ],
+            "list_b_en": [
+              "1. Uniform Civil Code",
+              "2. Organization of Village Panchayats",
+              "3. Separation of Judiciary from Executive",
+              "4. Definition of Money Bills"
+            ],
+            "header_a_en": "Article",
+            "header_b_en": "Subject"
           },
           "question_en": "Match the Articles of the Indian Constitution with their subjects:\nList-1 (Article) — List-2 (Subject)\nA. Article 40 — 1. Uniform Civil Code\nB. Article 44 — 2. Organization of Village Panchayats\nC. Article 50 — 3. Separation of Judiciary from Executive\nD. Article 110 — 4. Definition of Money Bills\nCode (A-B-C-D):",
           "options_en": [
@@ -388832,7 +389220,7 @@
           "subjectId": "economics",
           "question": "भारत की पंचवर्षीय योजनाओं और उनके प्रमुख उद्देश्यों/मॉडलों को सुमेलित कीजिए:\nसूची-1 (योजना) — सूची-2 (मॉडल/विशेषता)\nक. प्रथम योजना (1951-56) — 1. महालनोबिस मॉडल (भारी उद्योग)\nख. द्वितीय योजना (1956-61) — 2. हैरॉड-डोमर मॉडल (कृषि प्राथमिकता)\nग. पांचवीं योजना (1974-78) — 3. गरीबी उन्मूलन व आत्मनिर्भरता\nघ. आठवीं योजना (1992-97) — 4. मानव संसाधन विकास व आर्थिक सुधार\nकूट (क-ख-ग-घ):",
           "questionText": "भारत की पंचवर्षीय योजनाओं और उनके प्रमुख उद्देश्यों/मॉडलों को सुमेलित कीजिए:\nसूची-1 (योजना) — सूची-2 (मॉडल/विशेषता)\nक. प्रथम योजना (1951-56) — 1. महालनोबिस मॉडल (भारी उद्योग)\nख. द्वितीय योजना (1956-61) — 2. हैरॉड-डोमर मॉडल (कृषि प्राथमिकता)\nग. पांचवीं योजना (1974-78) — 3. गरीबी उन्मूलन व आत्मनिर्भरता\nघ. आठवीं योजना (1992-97) — 4. मानव संसाधन विकास व आर्थिक सुधार\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -388860,7 +389248,35 @@
               "2-3-1-4",
               "3-1-2-4"
             ],
-            "explanation_en": "First Plan followed the Harrod-Domar model, Second Plan the Mahalanobis model, Fifth Plan targeted poverty eradication, and Eighth Plan focused on human resource development after 1991 reforms."
+            "explanation_en": "First Plan followed the Harrod-Domar model, Second Plan the Mahalanobis model, Fifth Plan targeted poverty eradication, and Eighth Plan focused on human resource development after 1991 reforms.",
+            "list_a": [
+              "क. प्रथम योजना (1951-56)",
+              "ख. द्वितीय योजना (1956-61)",
+              "ग. पांचवीं योजना (1974-78)",
+              "घ. आठवीं योजना (1992-97)"
+            ],
+            "list_b": [
+              "1. महालनोबिस मॉडल (भारी उद्योग)",
+              "2. हैरॉड-डोमर मॉडल (कृषि प्राथमिकता)",
+              "3. गरीबी उन्मूलन व आत्मनिर्भरता",
+              "4. मानव संसाधन विकास व आर्थिक सुधार"
+            ],
+            "header_a": "योजना",
+            "header_b": "मॉडल/विशेषता",
+            "list_a_en": [
+              "A. First Plan (1951-56)",
+              "B. Second Plan (1956-61)",
+              "C. Fifth Plan (1974-78)",
+              "D. Eighth Plan (1992-97)"
+            ],
+            "list_b_en": [
+              "1. Mahalanobis Model (Heavy Industry)",
+              "2. Harrod-Domar Model (Agriculture)",
+              "3. Poverty Eradication & Self-Reliance",
+              "4. Human Resource Development & Economic Reforms"
+            ],
+            "header_a_en": "Plan",
+            "header_b_en": "Model/Focus"
           },
           "question_en": "Match India's Five-Year Plans with their primary models/objectives:\nList-1 (Plan) — List-2 (Model/Focus)\nA. First Plan (1951-56) — 1. Mahalanobis Model (Heavy Industry)\nB. Second Plan (1956-61) — 2. Harrod-Domar Model (Agriculture)\nC. Fifth Plan (1974-78) — 3. Poverty Eradication & Self-Reliance\nD. Eighth Plan (1992-97) — 4. Human Resource Development & Economic Reforms\nCode (A-B-C-D):",
           "options_en": [
@@ -389072,7 +389488,7 @@
           "subjectId": "current_affairs",
           "question": "वर्ष 2026 में आयोजित प्रमुख अंतरराष्ट्रीय शिखर सम्मेलनों और उनके मेजबान स्थलों को सुमेलित कीजिए:\nसूची-1 (सम्मेलन) — सूची-2 (मेजबान शहर)\nक. 18वां ब्रिक्स शिखर सम्मेलन — 1. बिश्केक\nख. 26वां शंघाई सहयोग संगठन सम्मेलन — 2. नई दिल्ली\nग. 52वां जी-7 शिखर सम्मेलन — 3. अंताल्या\nघ. संयुक्त राष्ट्र जलवायु सम्मेलन (कॉप-31) — 4. एवियान\nकूट (क-ख-ग-घ):",
           "questionText": "वर्ष 2026 में आयोजित प्रमुख अंतरराष्ट्रीय शिखर सम्मेलनों और उनके मेजबान स्थलों को सुमेलित कीजिए:\nसूची-1 (सम्मेलन) — सूची-2 (मेजबान शहर)\nक. 18वां ब्रिक्स शिखर सम्मेलन — 1. बिश्केक\nख. 26वां शंघाई सहयोग संगठन सम्मेलन — 2. नई दिल्ली\nग. 52वां जी-7 शिखर सम्मेलन — 3. अंताल्या\nघ. संयुक्त राष्ट्र जलवायु सम्मेलन (कॉप-31) — 4. एवियान\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -389100,7 +389516,35 @@
               "2-4-1-3",
               "3-1-2-4"
             ],
-            "explanation_en": "In 2026, the 18th BRICS Summit was held in New Delhi (Sept 2026), 26th SCO in Bishkek, 52nd G7 in Evian (France, June 2026), and COP31 in Antalya (Turkey, Nov 2026)."
+            "explanation_en": "In 2026, the 18th BRICS Summit was held in New Delhi (Sept 2026), 26th SCO in Bishkek, 52nd G7 in Evian (France, June 2026), and COP31 in Antalya (Turkey, Nov 2026).",
+            "list_a": [
+              "क. 18वां ब्रिक्स शिखर सम्मेलन",
+              "ख. 26वां शंघाई सहयोग संगठन सम्मेलन",
+              "ग. 52वां जी-7 शिखर सम्मेलन",
+              "घ. संयुक्त राष्ट्र जलवायु सम्मेलन (कॉप-31)"
+            ],
+            "list_b": [
+              "1. बिश्केक",
+              "2. नई दिल्ली",
+              "3. अंताल्या",
+              "4. एवियान"
+            ],
+            "header_a": "सम्मेलन",
+            "header_b": "मेजबान शहर",
+            "list_a_en": [
+              "A. 18th BRICS Summit",
+              "B. 26th SCO Summit",
+              "C. 52nd G7 Summit",
+              "D. UN Climate Conference (COP31)"
+            ],
+            "list_b_en": [
+              "1. Bishkek",
+              "2. New Delhi",
+              "3. Antalya",
+              "4. Evian"
+            ],
+            "header_a_en": "Summit",
+            "header_b_en": "Host City"
           },
           "question_en": "Match the major international summits held in 2026 with their host cities:\nList-1 (Summit) — List-2 (Host City)\nA. 18th BRICS Summit — 1. Bishkek\nB. 26th SCO Summit — 2. New Delhi\nC. 52nd G7 Summit — 3. Antalya\nD. UN Climate Conference (COP31) — 4. Evian\nCode (A-B-C-D):",
           "options_en": [
@@ -389120,7 +389564,7 @@
           "subjectId": "geography",
           "question": "हिमालय के प्रादेशिक विभाजन (सिडनी बुरार्ड के अनुसार) को नदियों के मध्य उनके विस्तार से सुमेलित कीजिए:\nसूची-1 (हिमालय भाग) — सूची-2 (नदी सीमा)\nक. पंजाब/कश्मीर हिमालय — 1. सतलज और काली के मध्य\nख. कुमाऊं हिमालय — 2. सिंधु और सतलज के मध्य\nग. नेपाल हिमालय — 3. तिस्ता और दिहांग के मध्य\nघ. असम हिमालय — 4. काली और तिस्ता के मध्य\nकूट (क-ख-ग-घ):",
           "questionText": "हिमालय के प्रादेशिक विभाजन (सिडनी बुरार्ड के अनुसार) को नदियों के मध्य उनके विस्तार से सुमेलित कीजिए:\nसूची-1 (हिमालय भाग) — सूची-2 (नदी सीमा)\nक. पंजाब/कश्मीर हिमालय — 1. सतलज और काली के मध्य\nख. कुमाऊं हिमालय — 2. सिंधु और सतलज के मध्य\nग. नेपाल हिमालय — 3. तिस्ता और दिहांग के मध्य\nघ. असम हिमालय — 4. काली और तिस्ता के मध्य\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -389148,7 +389592,35 @@
               "2-4-1-3",
               "3-1-4-2"
             ],
-            "explanation_en": "Sidney Burrard divided the Himalayas into Punjab (Indus-Sutlej), Kumaon (Sutlej-Kali), Nepal (Kali-Teesta), and Assam (Teesta-Dihang) sections."
+            "explanation_en": "Sidney Burrard divided the Himalayas into Punjab (Indus-Sutlej), Kumaon (Sutlej-Kali), Nepal (Kali-Teesta), and Assam (Teesta-Dihang) sections.",
+            "list_a": [
+              "क. पंजाब/कश्मीर हिमालय",
+              "ख. कुमाऊं हिमालय",
+              "ग. नेपाल हिमालय",
+              "घ. असम हिमालय"
+            ],
+            "list_b": [
+              "1. सतलज और काली के मध्य",
+              "2. सिंधु और सतलज के मध्य",
+              "3. तिस्ता और दिहांग के मध्य",
+              "4. काली और तिस्ता के मध्य"
+            ],
+            "header_a": "हिमालय भाग",
+            "header_b": "नदी सीमा",
+            "list_a_en": [
+              "A. Punjab/Kashmir Himalaya",
+              "B. Kumaon Himalaya",
+              "C. Nepal Himalaya",
+              "D. Assam Himalaya"
+            ],
+            "list_b_en": [
+              "1. Between Sutlej and Kali",
+              "2. Between Indus and Sutlej",
+              "3. Between Teesta and Dihang",
+              "4. Between Kali and Teesta"
+            ],
+            "header_a_en": "Himalayan Division",
+            "header_b_en": "River Boundaries"
           },
           "question_en": "Match the regional divisions of the Himalayas (by Sidney Burrard) with their bounding rivers:\nList-1 (Himalayan Division) — List-2 (River Boundaries)\nA. Punjab/Kashmir Himalaya — 1. Between Sutlej and Kali\nB. Kumaon Himalaya — 2. Between Indus and Sutlej\nC. Nepal Himalaya — 3. Between Teesta and Dihang\nD. Assam Himalaya — 4. Between Kali and Teesta\nCode (A-B-C-D):",
           "options_en": [
@@ -389312,7 +389784,7 @@
           "subjectId": "geography",
           "question": "भारत की मृदाओं और उनकी विशेषताओं को सुमेलित कीजिए:\nसूची-1 (मृदा) — सूची-2 (प्रमुख विशेषता)\nक. काली (रेगुर) मृदा — 1. तीव्र निक्षालन व ईंट निर्माण हेतु उपयुक्त\nख. लैटेराइट मृदा — 2. स्वतः जुताई का गुण व कपास हेतु सर्वोत्तम\nग. जलोढ़ मृदा — 3. भारत के सर्वाधिक क्षेत्रफल पर विस्तृत\nघ. पीटमय मृदा — 4. उच्च जैविक पदार्थ व अम्लीय प्रकृति\nकूट (क-ख-ग-घ):",
           "questionText": "भारत की मृदाओं और उनकी विशेषताओं को सुमेलित कीजिए:\nसूची-1 (मृदा) — सूची-2 (प्रमुख विशेषता)\nक. काली (रेगुर) मृदा — 1. तीव्र निक्षालन व ईंट निर्माण हेतु उपयुक्त\nख. लैटेराइट मृदा — 2. स्वतः जुताई का गुण व कपास हेतु सर्वोत्तम\nग. जलोढ़ मृदा — 3. भारत के सर्वाधिक क्षेत्रफल पर विस्तृत\nघ. पीटमय मृदा — 4. उच्च जैविक पदार्थ व अम्लीय प्रकृति\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -389340,7 +389812,35 @@
               "2-3-1-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Black soil exhibits self-ploughing, Laterite forms via intense leaching, Alluvial covers the largest area in India, and Peaty soil is rich in organic matter."
+            "explanation_en": "Black soil exhibits self-ploughing, Laterite forms via intense leaching, Alluvial covers the largest area in India, and Peaty soil is rich in organic matter.",
+            "list_a": [
+              "क. काली (रेगुर) मृदा",
+              "ख. लैटेराइट मृदा",
+              "ग. जलोढ़ मृदा",
+              "घ. पीटमय मृदा"
+            ],
+            "list_b": [
+              "1. तीव्र निक्षालन व ईंट निर्माण हेतु उपयुक्त",
+              "2. स्वतः जुताई का गुण व कपास हेतु सर्वोत्तम",
+              "3. भारत के सर्वाधिक क्षेत्रफल पर विस्तृत",
+              "4. उच्च जैविक पदार्थ व अम्लीय प्रकृति"
+            ],
+            "header_a": "मृदा",
+            "header_b": "प्रमुख विशेषता",
+            "list_a_en": [
+              "A. Black (Regur) Soil",
+              "B. Laterite Soil",
+              "C. Alluvial Soil",
+              "D. Peaty Soil"
+            ],
+            "list_b_en": [
+              "1. Intense leaching and suitable for bricks",
+              "2. Self-ploughing property and ideal for cotton",
+              "3. Covers the largest geographical area in India",
+              "4. High organic matter and acidic nature"
+            ],
+            "header_a_en": "Soil",
+            "header_b_en": "Characteristic"
           },
           "question_en": "Match the soil types of India with their key characteristics:\nList-1 (Soil) — List-2 (Characteristic)\nA. Black (Regur) Soil — 1. Intense leaching and suitable for bricks\nB. Laterite Soil — 2. Self-ploughing property and ideal for cotton\nC. Alluvial Soil — 3. Covers the largest geographical area in India\nD. Peaty Soil — 4. High organic matter and acidic nature\nCode (A-B-C-D):",
           "options_en": [
@@ -389504,7 +390004,7 @@
           "subjectId": "geography",
           "question": "भारत के जैवमंडल आरक्षित क्षेत्रों और उनके राज्यों को सुमेलित कीजिए:\nसूची-1 (जैवमंडल क्षेत्र) — सूची-2 (राज्य)\nक. नोकरेक — 1. ओडिशा\nख. सिमलीपाल — 2. मेघालय\nग. अगस्त्यमलाई — 3. मध्य प्रदेश\nघ. पचमढ़ी — 4. केरल व तमिलनाडु\nकूट (क-ख-ग-घ):",
           "questionText": "भारत के जैवमंडल आरक्षित क्षेत्रों और उनके राज्यों को सुमेलित कीजिए:\nसूची-1 (जैवमंडल क्षेत्र) — सूची-2 (राज्य)\nक. नोकरेक — 1. ओडिशा\nख. सिमलीपाल — 2. मेघालय\nग. अगस्त्यमलाई — 3. मध्य प्रदेश\nघ. पचमढ़ी — 4. केरल व तमिलनाडु\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -389532,7 +390032,35 @@
               "2-4-1-3",
               "3-1-4-2"
             ],
-            "explanation_en": "Nokrek is in Meghalaya, Simlipal in Odisha, Agasthyamalai spans Kerala & Tamil Nadu, and Pachmarhi is in Madhya Pradesh."
+            "explanation_en": "Nokrek is in Meghalaya, Simlipal in Odisha, Agasthyamalai spans Kerala & Tamil Nadu, and Pachmarhi is in Madhya Pradesh.",
+            "list_a": [
+              "क. नोकरेक",
+              "ख. सिमलीपाल",
+              "ग. अगस्त्यमलाई",
+              "घ. पचमढ़ी"
+            ],
+            "list_b": [
+              "1. ओडिशा",
+              "2. मेघालय",
+              "3. मध्य प्रदेश",
+              "4. केरल व तमिलनाडु"
+            ],
+            "header_a": "जैवमंडल क्षेत्र",
+            "header_b": "राज्य",
+            "list_a_en": [
+              "A. Nokrek",
+              "B. Simlipal",
+              "C. Agasthyamalai",
+              "D. Pachmarhi"
+            ],
+            "list_b_en": [
+              "1. Odisha",
+              "2. Meghalaya",
+              "3. Madhya Pradesh",
+              "4. Kerala & Tamil Nadu"
+            ],
+            "header_a_en": "Biosphere Reserve",
+            "header_b_en": "State"
           },
           "question_en": "Match the Biosphere Reserves of India with their states:\nList-1 (Biosphere Reserve) — List-2 (State)\nA. Nokrek — 1. Odisha\nB. Simlipal — 2. Meghalaya\nC. Agasthyamalai — 3. Madhya Pradesh\nD. Pachmarhi — 4. Kerala & Tamil Nadu\nCode (A-B-C-D):",
           "options_en": [
@@ -389552,7 +390080,7 @@
           "subjectId": "current_affairs",
           "question": "नोबेल पुरस्कार 2026 के विजेताओं और उनकी श्रेणियों का सही मिलान कीजिए:\nसूची-1 (श्रेणी) — सूची-2 (विजेता)\nक. शांति — 1. ऐन कार्सन\nख. साहित्य — 2. नवी पिल्लै\nग. भौतिकी — 3. रॉबर्ट हॉल व माइकल वुडफोर्ड\nघ. अर्थशास्त्र — 4. फ्रांसिस हाल्जेन\nकूट (क-ख-ग-घ):",
           "questionText": "नोबेल पुरस्कार 2026 के विजेताओं और उनकी श्रेणियों का सही मिलान कीजिए:\nसूची-1 (श्रेणी) — सूची-2 (विजेता)\nक. शांति — 1. ऐन कार्सन\nख. साहित्य — 2. नवी पिल्लै\nग. भौतिकी — 3. रॉबर्ट हॉल व माइकल वुडफोर्ड\nघ. अर्थशास्त्र — 4. फ्रांसिस हाल्जेन\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -389580,7 +390108,35 @@
               "2-4-1-3",
               "4-1-2-3"
             ],
-            "explanation_en": "In the 2026 Nobel Prizes, Peace went to Navi Pillay, Literature to Anne Carson, Physics to Francis Halzen, and Economics to Robert Hall and Michael Woodford."
+            "explanation_en": "In the 2026 Nobel Prizes, Peace went to Navi Pillay, Literature to Anne Carson, Physics to Francis Halzen, and Economics to Robert Hall and Michael Woodford.",
+            "list_a": [
+              "क. शांति",
+              "ख. साहित्य",
+              "ग. भौतिकी",
+              "घ. अर्थशास्त्र"
+            ],
+            "list_b": [
+              "1. ऐन कार्सन",
+              "2. नवी पिल्लै",
+              "3. रॉबर्ट हॉल व माइकल वुडफोर्ड",
+              "4. फ्रांसिस हाल्जेन"
+            ],
+            "header_a": "श्रेणी",
+            "header_b": "विजेता",
+            "list_a_en": [
+              "A. Peace",
+              "B. Literature",
+              "C. Physics",
+              "D. Economics"
+            ],
+            "list_b_en": [
+              "1. Anne Carson",
+              "2. Navi Pillay",
+              "3. Robert Hall & Michael Woodford",
+              "4. Francis Halzen"
+            ],
+            "header_a_en": "Category",
+            "header_b_en": "Laureate"
           },
           "question_en": "Match the 2026 Nobel Prize laureates with their respective categories:\nList-1 (Category) — List-2 (Laureate)\nA. Peace — 1. Anne Carson\nB. Literature — 2. Navi Pillay\nC. Physics — 3. Robert Hall & Michael Woodford\nD. Economics — 4. Francis Halzen\nCode (A-B-C-D):",
           "options_en": [
@@ -389888,7 +390444,7 @@
           "subjectId": "science",
           "question": "प्रकाशिकी की परिघटनाओं और उनके व्यावहारिक उदाहरणों को सुमेलित कीजिए:\nसूची-1 (परिघटना) — सूची-2 (उदाहरण)\nक. पूर्ण आंतरिक परावर्तन — 1. आकाश का नीला रंग\nख. प्रकाश का प्रकीर्णन — 2. प्रकाशिक तंतु (ऑप्टिकल फाइबर) व मृगमरीचिका\nग. प्रकाश का अपवर्तन — 3. पानी में डूबी छड़ी का मुड़ा दिखना\nघ. प्रकाश का व्यतिकरण — 4. साबुन के बुलबुले का रंगीन दिखना\nकूट (क-ख-ग-घ):",
           "questionText": "प्रकाशिकी की परिघटनाओं और उनके व्यावहारिक उदाहरणों को सुमेलित कीजिए:\nसूची-1 (परिघटना) — सूची-2 (उदाहरण)\nक. पूर्ण आंतरिक परावर्तन — 1. आकाश का नीला रंग\nख. प्रकाश का प्रकीर्णन — 2. प्रकाशिक तंतु (ऑप्टिकल फाइबर) व मृगमरीचिका\nग. प्रकाश का अपवर्तन — 3. पानी में डूबी छड़ी का मुड़ा दिखना\nघ. प्रकाश का व्यतिकरण — 4. साबुन के बुलबुले का रंगीन दिखना\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-3-4",
             "1-2-3-4",
@@ -389916,7 +390472,35 @@
               "2-3-1-4",
               "4-1-3-2"
             ],
-            "explanation_en": "Optical fibre/mirage rely on total internal reflection, blue sky on Rayleigh scattering, bent stick in water on refraction, and soap bubble colours on thin-film interference."
+            "explanation_en": "Optical fibre/mirage rely on total internal reflection, blue sky on Rayleigh scattering, bent stick in water on refraction, and soap bubble colours on thin-film interference.",
+            "list_a": [
+              "क. पूर्ण आंतरिक परावर्तन",
+              "ख. प्रकाश का प्रकीर्णन",
+              "ग. प्रकाश का अपवर्तन",
+              "घ. प्रकाश का व्यतिकरण"
+            ],
+            "list_b": [
+              "1. आकाश का नीला रंग",
+              "2. प्रकाशिक तंतु (ऑप्टिकल फाइबर) व मृगमरीचिका",
+              "3. पानी में डूबी छड़ी का मुड़ा दिखना",
+              "4. साबुन के बुलबुले का रंगीन दिखना"
+            ],
+            "header_a": "परिघटना",
+            "header_b": "उदाहरण",
+            "list_a_en": [
+              "A. Total Internal Reflection",
+              "B. Scattering of Light",
+              "C. Refraction of Light",
+              "D. Interference of Light"
+            ],
+            "list_b_en": [
+              "1. Blue colour of the sky",
+              "2. Optical fibre and mirage",
+              "3. Apparent bending of a stick in water",
+              "4. Colours in a soap bubble"
+            ],
+            "header_a_en": "Phenomenon",
+            "header_b_en": "Example"
           },
           "question_en": "Match the optical phenomena with their practical examples:\nList-1 (Phenomenon) — List-2 (Example)\nA. Total Internal Reflection — 1. Blue colour of the sky\nB. Scattering of Light — 2. Optical fibre and mirage\nC. Refraction of Light — 3. Apparent bending of a stick in water\nD. Interference of Light — 4. Colours in a soap bubble\nCode (A-B-C-D):",
           "options_en": [
@@ -390080,7 +390664,7 @@
           "subjectId": "science",
           "question": "विटामिनों और उनकी कमी से होने वाले रोगों को सुमेलित कीजिए:\nसूची-1 (विटामिन) — सूची-2 (कमी से रोग)\nक. विटामिन बी-1 (थायमीन) — 1. स्कर्वी\nख. विटामिन सी (एस्कॉर्बिक अम्ल) — 2. बेरी-बेरी\nग. विटामिन डी (कैल्सीफेरॉल) — 3. रक्त का थक्का न जमना\nघ. विटामिन के (फिलोक्विनोन) — 4. रिकेट्स (सूखा रोग)\nकूट (क-ख-ग-घ):",
           "questionText": "विटामिनों और उनकी कमी से होने वाले रोगों को सुमेलित कीजिए:\nसूची-1 (विटामिन) — सूची-2 (कमी से रोग)\nक. विटामिन बी-1 (थायमीन) — 1. स्कर्वी\nख. विटामिन सी (एस्कॉर्बिक अम्ल) — 2. बेरी-बेरी\nग. विटामिन डी (कैल्सीफेरॉल) — 3. रक्त का थक्का न जमना\nघ. विटामिन के (फिलोक्विनोन) — 4. रिकेट्स (सूखा रोग)\nकूट (क-ख-ग-घ):",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "options": [
             "2-1-4-3",
             "1-2-4-3",
@@ -390108,7 +390692,35 @@
               "2-4-1-3",
               "3-1-4-2"
             ],
-            "explanation_en": "Vitamin B1 deficiency causes Beriberi, Vitamin C causes Scurvy, Vitamin D causes Rickets, and Vitamin K deficiency impairs blood clotting."
+            "explanation_en": "Vitamin B1 deficiency causes Beriberi, Vitamin C causes Scurvy, Vitamin D causes Rickets, and Vitamin K deficiency impairs blood clotting.",
+            "list_a": [
+              "क. विटामिन बी-1 (थायमीन)",
+              "ख. विटामिन सी (एस्कॉर्बिक अम्ल)",
+              "ग. विटामिन डी (कैल्सीफेरॉल)",
+              "घ. विटामिन के (फिलोक्विनोन)"
+            ],
+            "list_b": [
+              "1. स्कर्वी",
+              "2. बेरी-बेरी",
+              "3. रक्त का थक्का न जमना",
+              "4. रिकेट्स (सूखा रोग)"
+            ],
+            "header_a": "विटामिन",
+            "header_b": "कमी से रोग",
+            "list_a_en": [
+              "A. Vitamin B1 (Thiamine)",
+              "B. Vitamin C (Ascorbic acid)",
+              "C. Vitamin D (Calciferol)",
+              "D. Vitamin K (Phylloquinone)"
+            ],
+            "list_b_en": [
+              "1. Scurvy",
+              "2. Beriberi",
+              "3. Impaired blood clotting",
+              "4. Rickets"
+            ],
+            "header_a_en": "Vitamin",
+            "header_b_en": "Deficiency Disease"
           },
           "question_en": "Match the vitamins with their deficiency diseases:\nList-1 (Vitamin) — List-2 (Deficiency Disease)\nA. Vitamin B1 (Thiamine) — 1. Scurvy\nB. Vitamin C (Ascorbic acid) — 2. Beriberi\nC. Vitamin D (Calciferol) — 3. Impaired blood clotting\nD. Vitamin K (Phylloquinone) — 4. Rickets\nCode (A-B-C-D):",
           "options_en": [
