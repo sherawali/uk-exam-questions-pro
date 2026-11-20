@@ -1,0 +1,24 @@
+{
+  "content_version": 45,
+  "total_questions": 16334,
+  "raw_size_bytes": 32776192,
+  "compressed_size_bytes": 5462140,
+  "sha256": "debc2fae72a0655f6031ced089db7bd6b8bbadd9c9c9aa8ad8283dcb17ee919d",
+  "pack_filename": "questions_pack.sqlite.gz",
+  "subject_breakdown": {
+    "uttarakhand_gk": 6816,
+    "general_hindi": 908,
+    "history": 1768,
+    "geography": 332,
+    "polity": 1214,
+    "economics": 225,
+    "science": 707,
+    "reasoning": 525,
+    "computer": 273,
+    "math": 524,
+    "current_affairs": 2688,
+    "environment": 182,
+    "agriculture": 172
+  },
+  "generated_at": "2026-11-20T01:34:29.322126Z"
+}
