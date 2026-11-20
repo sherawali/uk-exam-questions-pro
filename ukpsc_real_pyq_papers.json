@@ -385932,7 +385932,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "कुमाऊं के चंद शासकों से संबंधित निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:\n1. बालो कल्याण चंद द्वारा राजधानी चंपावत से अल्मोड़ा स्थानांतरित करने की प्रक्रिया पूर्ण होना\n2. गरुड़ ज्ञान चंद द्वारा दिल्ली सुल्तान फिरोजशाह तुगलक से 'गरुड़' की उपाधि प्राप्त करना\n3. बाज बहादुर चंद द्वारा भोटिया क्षेत्रों पर 'सिरती' कर लगाना\n4. हवालबाग के युद्ध में महेंद्र चंद की गोरखाओं से पराजय\nसही कालक्रम चुनिए:",
           "questionText": "कुमाऊं के चंद शासकों से संबंधित निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:\n1. बालो कल्याण चंद द्वारा राजधानी चंपावत से अल्मोड़ा स्थानांतरित करने की प्रक्रिया पूर्ण होना\n2. गरुड़ ज्ञान चंद द्वारा दिल्ली सुल्तान फिरोजशाह तुगलक से 'गरुड़' की उपाधि प्राप्त करना\n3. बाज बहादुर चंद द्वारा भोटिया क्षेत्रों पर 'सिरती' कर लगाना\n4. हवालबाग के युद्ध में महेंद्र चंद की गोरखाओं से पराजय\nसही कालक्रम चुनिए:",
-          "questionType": "mcq",
+          "questionType": "statement_based",
           "options": [
             "2-3-1-4",
             "1-2-3-4",
@@ -385960,7 +385960,23 @@
               "2-1-3-4",
               "1-3-2-4"
             ],
-            "explanation_en": "Garuda Gyan Chand ruled in 1365-1420; Balo Kalyan Chand shifted the capital to Almora in 1563; Baz Bahadur Chand ruled in 1638-1678; and Mahendra Chand was defeated by Gorkhas at Hawalbagh in 1790."
+            "explanation_en": "Garuda Gyan Chand ruled in 1365-1420; Balo Kalyan Chand shifted the capital to Almora in 1563; Baz Bahadur Chand ruled in 1638-1678; and Mahendra Chand was defeated by Gorkhas at Hawalbagh in 1790.",
+            "preamble": "कुमाऊं के चंद शासकों से संबंधित निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:",
+            "statements": [
+              "बालो कल्याण चंद द्वारा राजधानी चंपावत से अल्मोड़ा स्थानांतरित करने की प्रक्रिया पूर्ण होना",
+              "गरुड़ ज्ञान चंद द्वारा दिल्ली सुल्तान फिरोजशाह तुगलक से 'गरुड़' की उपाधि प्राप्त करना",
+              "बाज बहादुर चंद द्वारा भोटिया क्षेत्रों पर 'सिरती' कर लगाना",
+              "हवालबाग के युद्ध में महेंद्र चंद की गोरखाओं से पराजय"
+            ],
+            "prompt": "सही कालक्रम चुनिए:",
+            "preamble_en": "Arrange the following events related to the Chand rulers of Kumaon in chronological order:",
+            "statements_en": [
+              "Completion of capital transfer from Champawat to Almora by Balo Kalyan Chand",
+              "Garuda Gyan Chand receiving the title 'Garuda' from Delhi Sultan Firoz Shah Tughlaq",
+              "Baz Bahadur Chand imposing the 'Sirti' tax on Bhotia regions",
+              "Defeat of Mahendra Chand by the Gorkhas in the Battle of Hawalbagh"
+            ],
+            "prompt_en": "Select the correct chronological order:"
           },
           "question_en": "Arrange the following events related to the Chand rulers of Kumaon in chronological order:\n1. Completion of capital transfer from Champawat to Almora by Balo Kalyan Chand\n2. Garuda Gyan Chand receiving the title 'Garuda' from Delhi Sultan Firoz Shah Tughlaq\n3. Baz Bahadur Chand imposing the 'Sirti' tax on Bhotia regions\n4. Defeat of Mahendra Chand by the Gorkhas in the Battle of Hawalbagh\nSelect the correct chronological order:",
           "options_en": [
@@ -387616,7 +387632,7 @@
           "subjectId": "uttarakhand_gk",
           "question": "उत्तराखंड राज्य निर्माण आंदोलन के संदर्भ में निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:\n1. कौशिक समिति का गठन\n2. खटीमा और मसूरी गोलीकांड\n3. रामपुर तिराहा (मुजफ्फरनगर) कांड\n4. लोकसभा द्वारा उत्तर प्रदेश पुनर्गठन विधेयक 2000 पारित होना\nसही कालक्रम चुनिए:",
           "questionText": "उत्तराखंड राज्य निर्माण आंदोलन के संदर्भ में निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:\n1. कौशिक समिति का गठन\n2. खटीमा और मसूरी गोलीकांड\n3. रामपुर तिराहा (मुजफ्फरनगर) कांड\n4. लोकसभा द्वारा उत्तर प्रदेश पुनर्गठन विधेयक 2000 पारित होना\nसही कालक्रम चुनिए:",
-          "questionType": "mcq",
+          "questionType": "statement_based",
           "options": [
             "1-2-3-4",
             "2-1-3-4",
@@ -387644,7 +387660,23 @@
               "1-3-2-4",
               "2-3-1-4"
             ],
-            "explanation_en": "Kaushik Committee was formed in Jan 1994; Khatima (1 Sept 1994) and Mussoorie (2 Sept 1994) firings followed; Rampur Tiraha occurred on 2 Oct 1994; and the Lok Sabha passed the UP Reorganisation Bill on 1 Aug 2000."
+            "explanation_en": "Kaushik Committee was formed in Jan 1994; Khatima (1 Sept 1994) and Mussoorie (2 Sept 1994) firings followed; Rampur Tiraha occurred on 2 Oct 1994; and the Lok Sabha passed the UP Reorganisation Bill on 1 Aug 2000.",
+            "preamble": "उत्तराखंड राज्य निर्माण आंदोलन के संदर्भ में निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:",
+            "statements": [
+              "कौशिक समिति का गठन",
+              "खटीमा और मसूरी गोलीकांड",
+              "रामपुर तिराहा (मुजफ्फरनगर) कांड",
+              "लोकसभा द्वारा उत्तर प्रदेश पुनर्गठन विधेयक 2000 पारित होना"
+            ],
+            "prompt": "सही कालक्रम चुनिए:",
+            "preamble_en": "Arrange the following events of the Uttarakhand statehood movement in chronological order:",
+            "statements_en": [
+              "Constitution of the Kaushik Committee",
+              "Khatima and Mussoorie firing incidents",
+              "Rampur Tiraha (Muzaffarnagar) incident",
+              "Passage of the Uttar Pradesh Reorganisation Bill 2000 by the Lok Sabha"
+            ],
+            "prompt_en": "Select the correct chronological order:"
           },
           "question_en": "Arrange the following events of the Uttarakhand statehood movement in chronological order:\n1. Constitution of the Kaushik Committee\n2. Khatima and Mussoorie firing incidents\n3. Rampur Tiraha (Muzaffarnagar) incident\n4. Passage of the Uttar Pradesh Reorganisation Bill 2000 by the Lok Sabha\nSelect the correct chronological order:",
           "options_en": [
@@ -388396,7 +388428,7 @@
           "subjectId": "general_studies",
           "question": "निम्नलिखित क्रांतिकारी एवं राष्ट्रवादी घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:\n1. काकोरी ट्रेन एक्शन\n2. साइमन कमीशन की नियुक्ति\n3. नेहरू रिपोर्ट का प्रकाशन\n4. गांधी-इरविन समझौता\nसही कालक्रम चुनिए:",
           "questionText": "निम्नलिखित क्रांतिकारी एवं राष्ट्रवादी घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:\n1. काकोरी ट्रेन एक्शन\n2. साइमन कमीशन की नियुक्ति\n3. नेहरू रिपोर्ट का प्रकाशन\n4. गांधी-इरविन समझौता\nसही कालक्रम चुनिए:",
-          "questionType": "mcq",
+          "questionType": "statement_based",
           "options": [
             "1-2-3-4",
             "2-1-3-4",
@@ -388424,7 +388456,23 @@
               "1-3-2-4",
               "2-3-1-4"
             ],
-            "explanation_en": "Kakori Train Action (9 Aug 1925), Simon Commission appointment (Nov 1927), Nehru Report (Aug 1928), and Gandhi-Irwin Pact (5 Mar 1931)."
+            "explanation_en": "Kakori Train Action (9 Aug 1925), Simon Commission appointment (Nov 1927), Nehru Report (Aug 1928), and Gandhi-Irwin Pact (5 Mar 1931).",
+            "preamble": "निम्नलिखित क्रांतिकारी एवं राष्ट्रवादी घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए:",
+            "statements": [
+              "काकोरी ट्रेन एक्शन",
+              "साइमन कमीशन की नियुक्ति",
+              "नेहरू रिपोर्ट का प्रकाशन",
+              "गांधी-इरविन समझौता"
+            ],
+            "prompt": "सही कालक्रम चुनिए:",
+            "preamble_en": "Arrange the following revolutionary and nationalist events in chronological order:",
+            "statements_en": [
+              "Kakori Train Action",
+              "Appointment of the Simon Commission",
+              "Publication of the Nehru Report",
+              "Gandhi-Irwin Pact"
+            ],
+            "prompt_en": "Select the correct chronological order:"
           },
           "question_en": "Arrange the following revolutionary and nationalist events in chronological order:\n1. Kakori Train Action\n2. Appointment of the Simon Commission\n3. Publication of the Nehru Report\n4. Gandhi-Irwin Pact\nSelect the correct chronological order:",
           "options_en": [
@@ -389956,7 +390004,7 @@
           "subjectId": "geography",
           "question": "भारत के प्रमुख पर्वतीय दर्रों को पश्चिम से पूर्व के सही भौगोलिक क्रम में व्यवस्थित कीजिए:\n1. बनिहाल दर्रा\n2. शिपकी ला\n3. नाथू ला\n4. बोमडिला\nसही क्रम चुनिए:",
           "questionText": "भारत के प्रमुख पर्वतीय दर्रों को पश्चिम से पूर्व के सही भौगोलिक क्रम में व्यवस्थित कीजिए:\n1. बनिहाल दर्रा\n2. शिपकी ला\n3. नाथू ला\n4. बोमडिला\nसही क्रम चुनिए:",
-          "questionType": "mcq",
+          "questionType": "statement_based",
           "options": [
             "1-2-3-4",
             "2-1-3-4",
@@ -389984,7 +390032,23 @@
               "1-2-4-3",
               "2-1-4-3"
             ],
-            "explanation_en": "From west to east: Banihal (Jammu & Kashmir), Shipki La (Himachal Pradesh), Nathu La (Sikkim), and Bomdila (Arunachal Pradesh)."
+            "explanation_en": "From west to east: Banihal (Jammu & Kashmir), Shipki La (Himachal Pradesh), Nathu La (Sikkim), and Bomdila (Arunachal Pradesh).",
+            "preamble": "भारत के प्रमुख पर्वतीय दर्रों को पश्चिम से पूर्व के सही भौगोलिक क्रम में व्यवस्थित कीजिए:",
+            "statements": [
+              "बनिहाल दर्रा",
+              "शिपकी ला",
+              "नाथू ला",
+              "बोमडिला"
+            ],
+            "prompt": "सही क्रम चुनिए:",
+            "preamble_en": "Arrange the following mountain passes of India in the correct West-to-East geographical order:",
+            "statements_en": [
+              "Banihal Pass",
+              "Shipki La",
+              "Nathu La",
+              "Bomdila"
+            ],
+            "prompt_en": "Select the correct order:"
           },
           "question_en": "Arrange the following mountain passes of India in the correct West-to-East geographical order:\n1. Banihal Pass\n2. Shipki La\n3. Nathu La\n4. Bomdila\nSelect the correct order:",
           "options_en": [
