@@ -566,5 +566,11 @@
       "month": "अक्टूबर 2026",
       "questions": 25
     }
+  },
+  "new_content_policy": {
+    "active_new_ids": [
+      "ukpsc_lower_pcs_mock_37_2026"
+    ],
+    "badge_days_valid": 14
   }
 }

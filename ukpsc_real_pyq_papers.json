@@ -385727,7 +385727,7 @@
     {
       "id": "ukpsc_lower_pcs_mock_37_2026",
       "paper_number": 37,
-      "year_badge": "2026 नया",
+      "year_badge": "2026",
       "title_hi": "UKPSC लोअर पीसीएस संपूर्ण मॉडल मॉक 01 (2026)",
       "title_en": "UKPSC Lower PCS Full Model Mock 01 (2026)",
       "title": "UKPSC लोअर पीसीएस 2026 — संपूर्ण मॉडल प्रश्न पत्र 01",
@@ -392951,7 +392951,10 @@
           ],
           "explanation_en": "Net climb every 2 minutes = 6 - 3 = 3 m. For the first 30 - 6 = 24 m, time taken = (24/3) × 2 = 16 minutes. In the 17th minute, it climbs 6 m to reach the 30 m top."
         }
-      ]
+      ],
+      "is_new": true,
+      "added_at": "2026-11-20T18:45:00Z",
+      "new_badge": "🔥 NEW"
     }
   ],
   "totalPapers": 95
