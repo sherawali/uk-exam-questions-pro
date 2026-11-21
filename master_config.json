@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0",
+  "version": "5.1.0",
   "last_sync": "2026-11-17T05:29:23Z",
   "home_config": {
     "hero_override": {
@@ -21,9 +21,9 @@
         "show_new": true
       },
       "subject_bank": {
-        "tag": "16,334",
+        "tag": "16,684",
         "detail": "13 विषयवार प्रश्न बैंक",
-        "show_new": false
+        "show_new": true
       },
       "revision": {
         "tag": "SM-2",
@@ -144,10 +144,10 @@
     {
       "id": "news_uksssc_scaler_6_mocks_live",
       "enabled": true,
-      "title": "🌲 UKSSSC स्केलर (वन विकास निगम): 6 फुल टेस्ट्स (1 असली 2024 PYQ + 5 मॉडल टेस्ट) लाइव!",
-      "title_en": "🌲 UKSSSC Scaler (Forest Dev Corp): 6 Full Tests (1 Real 2024 PYQ + 5 Model Mocks) Live!",
-      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 6 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 असली प्रश्न-पत्र + मॉक #02 से #06: 2026 मॉडल टेस्ट्स) लाइव कर दिए गए हैं। मॉक #01 पूरी तरह फ्री है और बाकी टेस्ट्स वीडियो ऐड देखकर आसानी से अनलॉक कर सकते हैं!",
-      "message_en": "6 Full 100-Question Tests (Mock #01: 25 August 2024 Real Solved Paper + Mocks #02-#06: 2026 Model Mocks) are now live for UKSSSC Scaler Exam. Mock #01 is 100% Free and Mocks #02-#06 unlock via video ads!",
+      "title": "🌲 उत्तराखंड स्केलर: 6 फुल टेस्ट्स (1 हल प्रश्न-पत्र 2024 + 5 मॉडल टेस्ट) लाइव!",
+      "title_en": "🌲 Uttarakhand Scaler: 6 Full Tests (1 Solved Paper 2024 + 5 Model Mocks) Live!",
+      "message": "उत्तराखंड वन विकास निगम स्केलर भर्ती हेतु 100-प्रश्नों के 6 फुल टेस्ट्स (मॉक #01: 25 अगस्त 2024 हल प्रश्न-पत्र + मॉक #02 से #06: 2026 मॉडल टेस्ट्स) लाइव कर दिए गए हैं। मॉक #01 पूरी तरह फ्री है और बाकी टेस्ट्स वीडियो ऐड देखकर आसानी से अनलॉक कर सकते हैं!",
+      "message_en": "6 Full 100-Question Tests (Mock #01: 25 August 2024 Solved Paper + Mocks #02-#06: 2026 Model Mocks) are now live for UKSSSC Scaler Exam. Mock #01 is 100% Free and Mocks #02-#06 unlock via video ads!",
       "tag": "🔥 6 स्केलर टेस्ट्स",
       "tag_en": "🔥 6 Scaler Tests",
       "post_id": "uksssc_scaler",
@@ -499,11 +499,11 @@
       "free_mocks": 2,
       "questions": 100,
       "duration": 120,
-      "max_video_unlock_mock": 6
+      "max_video_unlock_mock": 4
     },
     "uksssc_scaler": {
       "exam_id": "uksssc_scaler",
-      "title_hindi": "UKSSSC स्केलर (वन विकास निगम)",
+      "title_hindi": "उत्तराखंड स्केलर",
       "title_english": "UKSSSC Scaler",
       "enabled": true,
       "total_mocks": 6,
@@ -511,12 +511,23 @@
       "questions": 100,
       "duration": 120,
       "max_video_unlock_mock": 6
+    },
+    "uksssc_graduate_level": {
+      "exam_id": "uksssc_graduate_level",
+      "title_hindi": "UKSSSC स्नातक स्तरीय (VDO)",
+      "title_english": "UKSSSC Graduate Level",
+      "enabled": true,
+      "total_mocks": 22,
+      "free_mocks": 2,
+      "questions": 100,
+      "duration": 120,
+      "max_video_unlock_mock": 4
     }
   },
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 16534,
+    "total_questions": 16684,
     "files": {
       "agriculture_questions.json": 172,
       "computer_questions.json": 273,
@@ -527,14 +538,14 @@
       "hindi_questions.json": 908,
       "history_questions.json": 1768,
       "math_questions.json": 524,
-      "polity_questions.json": 1214,
+      "polity_questions.json": 1364,
       "reasoning_questions.json": 525,
       "science_questions.json": 707,
       "uttarakhand_questions.json": 6816
     }
   },
-  "total_questions": 16674,
-  "last_updated": "2026-11-20T13:06:51.630Z",
+  "total_questions": 16824,
+  "last_updated": "2026-11-21T14:30:00.000Z",
   "ca_monthly_sets": {
     "1": {
       "title_hi": "नवंबर 2026 (भाग 1: अंतर्राष्ट्रीय व नोबेल)",
@@ -569,7 +580,15 @@
   },
   "new_content_policy": {
     "active_new_ids": [
-      "ukpsc_lower_pcs_mock_37_2026"
+      "ukpsc_lower_pcs_mock_37_2026",
+      "polity",
+      "uksssc_graduate_level_mock_01",
+      "uksssc_graduate_level_mock_02",
+      "uksssc_graduate_level_mock_03",
+      "uksssc_graduate_level_mock_04",
+      "uksssc_graduate_level_mock_05",
+      "uksssc_graduate",
+      "uksssc_graduate_level"
     ],
     "badge_days_valid": 14
   }
