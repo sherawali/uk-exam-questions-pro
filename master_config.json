@@ -516,7 +516,7 @@
   "min_app_version": "1.0.0",
   "recommended_app_version": "1.0.0",
   "manifest": {
-    "total_questions": 16534,
+    "total_questions": 16674,
     "files": {
       "agriculture_questions.json": 172,
       "computer_questions.json": 273,
@@ -534,7 +534,7 @@
     }
   },
   "total_questions": 16674,
-  "last_updated": "2026-11-20T13:06:51.630Z",
+  "last_updated": "2026-11-21T05:30:00.000Z",
   "ca_monthly_sets": {
     "1": {
       "title_hi": "नवंबर 2026 (भाग 1: अंतर्राष्ट्रीय व नोबेल)",
