@@ -170664,15 +170664,15 @@
         {
           "subject_id": "geography",
           "uuid": "b8487792-4883-4b15-a49c-f936f756585a",
-          "question": "तूतीकोरन बंदरगाह के बारे में निम्नलिखित कथनों पर विचार कीजिये?1. तूतीकोरिन एक कृत्रिम बंदरगाह है2. तूतीकोरिन दक्षिण भारत के एक मात्र ऐसा बंदरगाह है जो अमेरिका के लिएसाप्ताहिक कंटेनर सेवा प्रदान करता हैइनमे से से कौन सा कथन सही है?",
+          "question": "तूतीकोरन बंदरगाह के बारे में निम्नलिखित कथनों पर विचार कीजिये?\n\n1. तूतीकोरिन एक कृत्रिम बंदरगाह है\n2. तूतीकोरिन दक्षिण भारत का एकमात्र ऐसा बंदरगाह है जो अमेरिका के लिए साप्ताहिक कंटेनर सेवा प्रदान करता है\n\nइनमें से कौन-सा कथन सही है?",
           "options": [
             "केवल 1",
             "1 और 2 दोनों",
             "कोई भी नहीं",
             "केवल 2"
           ],
-          "correctIndex": 3,
-          "explanation": "तूतीकोरिन बंदरगाह तमिलनाडु में स्थित है, यह एक कृत्रिम बंदरगाह है जो 1974 में खुला था।",
+          "correctIndex": 1,
+          "explanation": "दोनों कथन सही हैं। (1) तूतीकोरिन (वी.ओ. चिदंबरनार) बंदरगाह तमिलनाडु के थूथुकुडी में मन्नार की खाड़ी पर स्थित एक कृत्रिम गहरे पानी का बंदरगाह है, जिसे 11 जुलाई 1974 को प्रमुख बंदरगाह घोषित किया गया। (2) यह दक्षिण भारत का एकमात्र ऐसा बंदरगाह है जो संयुक्त राज्य अमेरिका के लिए प्रत्यक्ष साप्ताहिक कंटेनर सेवा उपलब्ध कराता है (पारगमन समय लगभग 22 दिन)। अतः सही उत्तर '1 और 2 दोनों' है।",
           "subCategory": "भारत का भूगोल",
           "difficulty": "medium",
           "questionType": "mcq",
@@ -170684,14 +170684,14 @@
           ],
           "extra_data": {
             "exam": "UKPSC RO/ARO Pre Exam 2026",
-            "question_en": "Consider the following statements about Tuticorin Port?1. Tuticorin is an artificial port2. Tuticorin is the only port in South India that provides weekly container service to the US. Which of the following statements is correct?",
+            "question_en": "Consider the following statements about Tuticorin Port?\n\n1. Tuticorin is an artificial port.\n2. Tuticorin is the only port in South India that provides a direct weekly container service to the US.\n\nWhich of the statements given above is/are correct?",
             "options_en": [
               "only 1",
               "both 1 and 2",
               "neither",
               "only 2"
             ],
-            "explanation_en": "Tuticorin Port is located in Tamil Nadu, it is an artificial port which opened in 1974."
+            "explanation_en": "Both statements are correct. (1) Tuticorin (V.O. Chidambaranar) Port at Thoothukudi in Tamil Nadu, on the Gulf of Mannar, is an artificial deep-water port declared a major port on 11 July 1974. (2) It is the only port in South India providing a direct weekly container service to the United States (transit time about 22 days). Hence the answer is \"Both 1 and 2\"."
           }
         },
         {
