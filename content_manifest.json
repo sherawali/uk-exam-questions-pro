@@ -1,9 +1,9 @@
 {
-  "content_version": 45,
+  "content_version": 47,
   "total_questions": 16674,
-  "raw_size_bytes": 31977472,
-  "compressed_size_bytes": 5807138,
-  "sha256": "437e239143578620dedd5f5373dd5f1000ec7f758f32ac8860b6c2ee8aa8a2a7",
+  "raw_size_bytes": 31584256,
+  "compressed_size_bytes": 5922124,
+  "sha256": "06a29cb448547e20cf80b1142788e004d31cfbe9b450307b6b8733e9171ab320",
   "pack_filename": "questions_pack.sqlite.gz",
   "subject_breakdown": {
     "agriculture": 172,
@@ -21,5 +21,5 @@
     "science": 707,
     "uttarakhand_gk": 6816
   },
-  "generated_at": "2026-11-20T13:06:25.343391Z"
+  "generated_at": "2026-11-21T06:08:30.953423Z"
 }
