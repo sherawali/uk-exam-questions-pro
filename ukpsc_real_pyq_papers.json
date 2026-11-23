@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0",
-  "last_updated": "2026-11-21T14:30:00.000Z",
+  "version": "4.4.1",
+  "last_updated": "2026-11-23T00:00:00.000Z",
   "total_papers": 95,
   "total_questions": 11600,
   "blueprint": {
@@ -80516,10 +80516,10 @@
             "O",
             "R"
           ],
-          "correctIndex": 2,
-          "answer": "O",
-          "explanation": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)। But 15 is O।",
-          "correctAnswer": "O",
+          "correctIndex": 0,
+          "answer": "P",
+          "explanation": "पैटर्न: अक्षरों के स्थान मान में क्रमशः +2, +3, +4, +5 जुड़ रहे हैं — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), अतः K(11) + 5 = P(16)। इसलिए अगला अक्षर P है (विकल्प A)।",
+          "correctAnswer": "P",
           "extra_data": {
             "question_en": "श्रृंखला पूरी करें: B, D, G, K, ?",
             "options_en": [
@@ -80528,7 +80528,7 @@
               "O",
               "R"
             ],
-            "explanation_en": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)",
+            "explanation_en": "Pattern: the letter positions increase by +2, +3, +4, +5 — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), so K(11) + 5 = P(16). Hence the next letter is P (Option A).",
             "exam": "UKPSC State Exam"
           }
         }
@@ -134222,8 +134222,8 @@
             "O",
             "R"
           ],
-          "correctIndex": 2,
-          "explanation": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)। But 15 is O।",
+          "correctIndex": 0,
+          "explanation": "पैटर्न: अक्षरों के स्थान मान में क्रमशः +2, +3, +4, +5 जुड़ रहे हैं — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), अतः K(11) + 5 = P(16)। इसलिए अगला अक्षर P है (विकल्प A)।",
           "subCategory": "Alphabet Series",
           "difficulty": "easy",
           "questionType": "reasoning",
@@ -134237,11 +134237,11 @@
             "options_en": [
               "P",
               "Q",
-              "Oh",
+              "O",
               "R"
             ],
             "exam": "UKPSC State Exam",
-            "explanation_en": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)"
+            "explanation_en": "Pattern: the letter positions increase by +2, +3, +4, +5 — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), so K(11) + 5 = P(16). Hence the next letter is P (Option A)."
           }
         },
         {
@@ -141094,7 +141094,7 @@
             "चम्पावत में",
             "अल्मोड़ा में",
             "अस्कोट में",
-            "पिथौरागढ़ में बालेश्वर मंदिर तथा प्राचीन बावड़ी उत्तराखण्ड केचम्पावतजिले में स्थित है।"
+            "पिथौरागढ़ में"
           ],
           "correctIndex": 0,
           "explanation": "(a) चम्पावत में बालेश्वर मंदिर से जुड़े महत्वपूर्ण तथ्य: • निर्माण: इस मंदिर का निर्माण मुख्य रूप से चंद शासकों (विशेषकर उद्यान चंद और थोहर चंद के समय) द्वारा कराया गया था। यह मंदिर अपनी बेजोड़ नक्काशी और स्थापत्य कला के लिए प्रसिद्ध है। • वास्तुकला: यह मंदिर शिखर शैली में निर्मति है और भगवान शिव को समर्पति है। इसकी दीवारों पर की गई पत्थर की नक्काशी दक्षिण भारतीय मंदिरों की याद दिलाती है। • बावड़ी (Naula): मंदिर परसिर के भीतर ही एक प्राचीन बावड़ी स्थित है, जिसे स्थानीय स्तर पर 'नौला' कहा जाता है। इसे एकहथिया नौला के समान ही कलात्मक माना जाता है। • संरक्षण: वर्तमान में यह मंदिर भारतीय पुरातत्व सर्वेक्षण (ASI) के संरक्षण में है और इसे राष्ट्रीय धरोहर घोषित किया गया है। चम्पावत के अन्य प्रसिद्ध स्थल: स्थल का नाम महत्व क्रांतेश्वर महादेवचम्पावत का प्राचीन नाम 'कुमू' इसी पर्वत के नाम पर पड़ा। एकहथिया नौला जगन्नाथ मिस्त्री द्वारा निर्मति अद्भुत स्थापत्य। राजबुंगा किलाचंद वंश के संस्थापक सोमचंद द्वारा निर्मति किला। मायावती आश्रम स्वामी विवेकानंद से जुड़ा ऐतिहासिक आध्ययात्मिक केंद्र।",
@@ -141113,7 +141113,7 @@
               "in champawat",
               "in Almora",
               "at ascot",
-              "Baleshwar temple and ancient stepwell in Pithoragarh is situated in Champawat district of Uttarakhand."
+              "In Pithoragarh"
             ],
             "exam": "UKPSC State Exam",
             "explanation_en": "(a) Important facts related to Baleshwar Temple in Champawat: • Construction: This temple was mainly built by Chand rulers (especially during the time of Udyan Chand and Thohar Chand)."
@@ -183316,8 +183316,8 @@
             "O",
             "R"
           ],
-          "correctIndex": 2,
-          "explanation": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)। But 15 is O।",
+          "correctIndex": 0,
+          "explanation": "पैटर्न: अक्षरों के स्थान मान में क्रमशः +2, +3, +4, +5 जुड़ रहे हैं — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), अतः K(11) + 5 = P(16)। इसलिए अगला अक्षर P है (विकल्प A)।",
           "subCategory": "Alphabet Series",
           "difficulty": "easy",
           "questionType": "mcq",
@@ -183333,10 +183333,10 @@
             "options_en": [
               "P",
               "Q",
-              "Oh",
+              "O",
               "R"
             ],
-            "explanation_en": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16). But 15 is O."
+            "explanation_en": "Pattern: the letter positions increase by +2, +3, +4, +5 — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), so K(11) + 5 = P(16). Hence the next letter is P (Option A)."
           }
         },
         {
@@ -223492,8 +223492,8 @@
             "पिथौरागढ़ में",
             "अस्कोट में"
           ],
-          "correctIndex": 3,
-          "explanation": "बालेश्वर मंदिर और उसकी बावड़ी कुमाऊँ के अस्कोट में स्थित है।",
+          "correctIndex": 1,
+          "explanation": "बालेश्वर मंदिर तथा उसकी प्राचीन बावड़ी (नौला) कुमाऊँ क्षेत्र के चम्पावत जिले में चम्पावत नगर में स्थित है। भगवान शिव को समर्पित यह मंदिर समूह चंद राजवंश के शासकों द्वारा बनवाया गया माना जाता है और 1952 से भारतीय पुरातत्व सर्वेक्षण (ASI) के संरक्षण में राष्ट्रीय संरक्षित स्मारक है। मंदिर परिसर में ही 'नौला' नामक प्राचीन बावड़ी है। अतः विकल्प B (चम्पावत में) सही है।",
           "subCategory": "कला एवं संस्कृति",
           "questionType": "mcq",
           "uuid": "4702159b-0433-51c4-8e78-fb98b24b4a45",
@@ -223513,7 +223513,7 @@
               "In Pithoragarh",
               "In Askot"
             ],
-            "explanation_en": "The Baleshwar temple and its baori are located at Askot in Kumaon."
+            "explanation_en": "The Baleshwar temple and its ancient baori (naula) are located in Champawat town of Champawat district in the Kumaon region. The temple complex, dedicated to Lord Shiva, is believed to have been built by the Chand dynasty rulers, and it has been an ASI-protected monument of national importance since 1952. The ancient stepwell known as 'Naula' lies within the temple complex. Hence Option B (In Champawat) is correct."
           }
         },
         {

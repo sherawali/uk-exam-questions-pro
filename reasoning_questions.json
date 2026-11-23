@@ -1904,8 +1904,8 @@
         "O",
         "R"
       ],
-      "correctIndex": 2,
-      "explanation": "B(2)+2=D(4), D+3=G(7), G+4=K(11), K+5=P(16) or O(15)? Position diff: +2,+3,+4,+5 gives K+5=P(16)। But 15 is O।",
+      "correctIndex": 0,
+      "explanation": "पैटर्न: अक्षरों के स्थान मान में क्रमशः +2, +3, +4, +5 जुड़ रहे हैं — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), अतः K(11) + 5 = P(16)। इसलिए अगला अक्षर P है (विकल्प A)।",
       "category": "Reasoning",
       "subCategory": "Alphabet Series",
       "difficulty": "easy",
@@ -1917,7 +1917,17 @@
       "tags": [
         "UK-EXAM-PRO",
         "Reasoning"
-      ]
+      ],
+      "extra_data": {
+        "question_en": "Complete the series: B, D, G, K, ?",
+        "options_en": [
+          "P",
+          "Q",
+          "O",
+          "R"
+        ],
+        "explanation_en": "Pattern: the letter positions increase by +2, +3, +4, +5 — B(2) + 2 = D(4), D(4) + 3 = G(7), G(7) + 4 = K(11), so K(11) + 5 = P(16). Hence the next letter is P (Option A)."
+      }
     },
     {
       "question": "यदि 54 को 45 से विभाजित किया जाए तो क्या उत्तर आएगा?",
