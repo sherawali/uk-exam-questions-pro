@@ -206970,7 +206970,7 @@
           }
         },
         {
-          "question": "सूची-1 (चयनित नदी) को सूची-2 (जनपद) से सुमेलित कीजिए: सूची-1 1. चंद्रभागा 2. गौड़ी 3. सोंग 4. पूर्वी नयार। सूची-2 1. चंपावत 2. पौड़ी 3. चमोली 4. टिहरी। निम्न में से सही कूट कौन-सा है?",
+          "question": "सूची-1 (चयनित नदी) को सूची-2 (जनपद) से सुमेलित कीजिए:\n\nसूची-1 (नदी):\nA. चंद्रभागा\nB. गौड़ी\nC. सोंग\nD. पूर्वी नयार\n\nसूची-2 (जनपद):\n1. चंपावत\n2. पौड़ी\n3. चमोली\n4. टिहरी\n\nनिम्न में से सही कूट कौन-सा है?",
           "options": [
             "3 4 1 2",
             "3 1 4 2",
@@ -206980,7 +206980,7 @@
           "correctIndex": 1,
           "explanation": "चंद्रभागा—चमोली, गौड़ी—चंपावत, सोंग—टिहरी, पूर्वी नयार—पौड़ी, अतः कूट 3 1 4 2 सही है; पौड़ी में पश्चिमी नयार का भी अध्ययन हो रहा है।",
           "subCategory": "नदियां व ताल",
-          "questionType": "mcq",
+          "questionType": "match_following",
           "uuid": "5e4710b0-c908-56ff-b9ff-1c014559908d",
           "difficulty": "hard",
           "tags": [
@@ -206991,7 +206991,37 @@
           "paperSection": "उत्तराखंड सामान्य ज्ञान",
           "questionNo": 24,
           "extra_data": {
-            "question_en": "Match List-I (selected river) with List-II (district): List-I 1. Chandrabhaga 2. Gaudi 3. Song 4. Purvi Nayar. List-II 1. Champawat 2. Pauri 3. Chamoli 4. Tehri. Which code is correct?",
+            "preamble": "सूची-1 (चयनित नदी) को सूची-2 (जनपद) से सुमेलित कीजिए:",
+            "preamble_en": "Match List-I (Selected River) with List-II (District):",
+            "header_a": "चयनित नदी",
+            "header_b": "जनपद",
+            "header_a_en": "Selected River",
+            "header_b_en": "District",
+            "list_a": [
+              "A. चंद्रभागा",
+              "B. गौड़ी",
+              "C. सोंग",
+              "D. पूर्वी नयार"
+            ],
+            "list_b": [
+              "1. चंपावत",
+              "2. पौड़ी",
+              "3. चमोली",
+              "4. टिहरी"
+            ],
+            "list_a_en": [
+              "A. Chandrabhaga",
+              "B. Gaudi",
+              "C. Song",
+              "D. Purvi Nayar"
+            ],
+            "list_b_en": [
+              "1. Champawat",
+              "2. Pauri",
+              "3. Chamoli",
+              "4. Tehri"
+            ],
+            "question_en": "Match List-I (Selected River) with List-II (District):\n\nList-I:\nA. Chandrabhaga\nB. Gaudi\nC. Song\nD. Purvi Nayar\n\nList-II:\n1. Champawat\n2. Pauri\n3. Chamoli\n4. Tehri\n\nWhich code is correct?",
             "options_en": [
               "3 4 1 2",
               "3 1 4 2",
